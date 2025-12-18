@@ -242,6 +242,32 @@ function useListData(config) {
   };
 
   /**
+   * Fake fetch data
+   */
+
+  const fakeFetchData = async (
+    filters = {},
+    pageNum = 1,
+    pageSize = DEFAULT_PAGE_SIZE,
+  ) => {
+    loading.value = true;
+
+    try {
+      const queryString = buildQueryString(filters, pageNum, pageSize, {
+        includeAction: false,
+      });
+      const url = `${window.location.pathname}?${queryString}`;
+
+      window.location = url;
+    } catch (error) {
+      console.error(`Failed to fetch ${dataKey}:`, error);
+      // Keep existing data on error
+    } finally {
+      loading.value = false;
+    }
+  };
+
+  /**
    * Fetch data from the API
    */
   const fetchData = async (
@@ -256,7 +282,6 @@ function useListData(config) {
         includeAction: true,
       });
       const url = `${window.location.pathname}?${queryString}`;
-
       const response = await fetch(url, {
         method: "GET",
         credentials: "same-origin",
@@ -301,7 +326,7 @@ function useListData(config) {
     const filters = extractFiltersFromEvent(event.detail);
     const pageNum = event.detail.page || 1;
 
-    fetchData(filters, pageNum, itemsPerPage.value);
+    fakeFetchData(filters, pageNum, itemsPerPage.value);
   };
 
   /**
@@ -332,7 +357,7 @@ function useListData(config) {
     window.history.pushState({}, "", `${url.pathname}${queryString}`);
 
     // Fetch new page
-    fetchData(filters, pageNum, pageSize);
+    fakeFetchData(filters, pageNum, pageSize);
 
     // Scroll to top
     window.scrollTo({ top: 0, behavior: "smooth" });
@@ -401,6 +426,7 @@ function useListData(config) {
 
     // Methods
     fetchData,
+    fakeFetchData,
     handleFilterChange,
     handlePageChange,
     goToPage,

@@ -389,5 +389,12 @@ $smwgQMaxLimit = 15000;
 #Allow a large range of conditions in SMW queries
 $smwgQMaxSize = 100;
 
+#SMW Settings for cache and speed
+$smwgQEqualitySupport = SMW_EQ_NONE;
+$smwgQFilterDuplicates = true;
+$smwgQueryResultCacheType = CACHE_ANYTHING;
+$smwgQueryResultCacheLifetime = 60 * 60 * 24 * 7;
+$smwgQueryResultNonEmbeddedCacheLifetime = 60 * 60;
+
 #Allow custom favicon location 
 $wgFavicon = "$wgStylePath/GiantBomb/resources/assets/favicon.ico";

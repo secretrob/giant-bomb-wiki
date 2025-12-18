@@ -45,11 +45,20 @@ $searchQuery = trim($request->getText('search', ''));
 $platformFilter = trim($request->getText('platform', ''));
 $sortOrder = $request->getText('sort', 'title-asc');
 
+error_log("START QUERY");
+
 $result = queryGamesFromSMW($searchQuery, $platformFilter, $sortOrder, $currentPage, $itemsPerPage);
+
+error_log("END QUERY");
+
 $games = $result['games'];
 $totalGames = $result['totalGames'];
 
+error_log("START ALLPLAT");
+
 $platforms = getAllPlatforms();
+
+error_log("END ALLPLAT");
 
 $totalPages = max(1, ceil($totalGames / $itemsPerPage));
 $startItem = $totalGames > 0 ? ($currentPage - 1) * $itemsPerPage + 1 : 0;
@@ -79,6 +88,10 @@ $data = [
 	],
 ];
 
+error_log("START TEMPLATE");
+
 $templateDir = realpath(__DIR__ . '/../templates');
 $templateParser = new TemplateParser($templateDir);
 echo $templateParser->processTemplate('landing-page', $data);
+
+error_log("END TEMPLATE");
