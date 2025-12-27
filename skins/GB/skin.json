@@ -1,0 +1,86 @@
+{
+	"name": "GB",
+	"version": "1.0.0",
+	"author": [
+		"Giant Bomb Wiki Street Team"
+	],
+	"url": "https://www.giantbomb.com",
+	"descriptionmsg": "A custom MediaWiki skin for GiantBomb",
+	"namemsg": "gb",
+	"license-name": "MIT",
+	"type": "skin",
+	"requires": {
+		"MediaWiki": ">= 1.43"
+	},
+	"ValidSkinNames": {
+		"gb": {
+			"class": "SkinMustache",
+			"args": [
+				{
+					"name": "gb",
+					"responsive": true,
+					"messages": [						
+						"sitetitle",
+						"search",
+						"otherlanguages",
+						"tagline",
+						"navigation-heading"
+					],
+					"styles": [
+						"skins.gb.styles"
+					],
+					"scripts": [
+						"skins.gb"
+					]
+				}
+			]
+		}
+	},
+	"MessagesDirs": {
+		"Example": [
+			"i18n"
+		]
+	},
+	"ResourceModules": {
+		"skins.gb.styles": {
+			"class": "MediaWiki\\ResourceLoader\\SkinModule",
+			"features": {
+				"normalize": true,
+				"elements": true,
+				"content-tables": true,
+				"content-links": false,
+				"content-media": false,
+				"content-links-external": false,
+				"interface-message-box": true,
+				"interface-category": false,
+				"toc": true
+			},
+			"targets": [
+				"desktop",
+				"mobile"
+			],
+			"styles": [
+				"resources/skin.less"
+			]
+		},
+		"skins.gb": {
+			"targets": [
+				"desktop",
+				"mobile"
+			],
+			"packageFiles": [
+				"resources/skin.js"
+			]
+		}
+	},
+	"ResourceFileModulePaths": {
+		"localBasePath": "",
+		"remoteSkinPath": "GB"
+	},
+	"ResourceModuleSkinStyles": {
+		"example": {
+			"+ext.echo.styles.badge": "resources/extensions/echo.styles.badge.less"
+		}
+	},
+	"manifest_version": 2
+}
