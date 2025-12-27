@@ -1,0 +1,13 @@
+<div id="gb-header" class="gb-header"></div>
+<header class="mw-body-header gb-page-header" id="gb-page-header">
+	<div class="gb-page-header-inner">
+		{{#data-portlets}}
+        <div id="user-tools">
+            {{#data-user-page}}{{>Portlet}}{{/data-user-page}}
+            {{#data-notifications}}{{>Portlet}}{{/data-notifications}}
+            {{#data-user-interface-preferences}}{{>Portlet}}{{/data-user-interface-preferences}}
+            {{#data-user-menu}}{{>Portlet}}{{/data-user-menu}}
+        </div>
+        {{/data-portlets}}
+	</div>
+</header>

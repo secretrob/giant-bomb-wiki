@@ -303,8 +303,8 @@ wfLoadExtension( 'WikiEditor' );
 
 wfLoadExtension( 'DisplayTitle' );
 wfLoadExtension( 'PageForms' );
-wfLoadExtension( 'GiantBombResolve' );
-wfLoadExtension( 'AlgoliaSearch' );
+//wfLoadExtension( 'GiantBombResolve' );
+//wfLoadExtension( 'AlgoliaSearch' );
 
 $wgGiantBombResolveFields = [
 	'displaytitle',
