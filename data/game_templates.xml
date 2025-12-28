@@ -1,0 +1,1739 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>gb</sitename>
+    <dbname>gb_wiki</dbname>
+    <base>http://localhost:8080/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.5</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Games/Castlevania Circle of the Moon</title>
+    <ns>0</ns>
+    <id>122563</id>
+    <revision>
+      <id>429427</id>
+      <parentid>429426</parentid>
+      <timestamp>2025-12-28T03:46:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>429427</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11543" sha1="te44qftwgl1eensrjekxv3kpnc0pjox" xml:space="preserve">{{Game
+| Name=Castlevania: Circle of the Moon
+| Guid=3030-13197
+| Aliases=Akumajō Dracula: Circle of the Moon,Devil's Castle Dracula: Circle of the Moon
+| Deck=The first Castlevania installment for the Game Boy Advance, following up on Castlevania: Symphony of the Night's "Metroidvania" style while introducing a unique magic ability system involving mystical cards.
+| Image=https://www.giantbomb.com/a/uploads/original/8/87790/1773364-box_cvcotm.png
+| Caption=image of Castlevania: Circle of the Moon
+| ReleaseDate=2001-03-21
+| ReleaseDateType=Month
+| Characters=Characters/Dracula
+| Concepts=Concepts/Double_Jump,Concepts/Wall_Jump,Concepts/Experience_Points,Concepts/Boss_Fight,Concepts/Save_Point,Concepts/Zombie,Concepts/Magic,Concepts/Vampire,Concepts/Health,Concepts/Classical_Elements,Concepts/Boss,Concepts/Launch_Title,Concepts/Backtracking,Concepts/Body_Armor,Concepts/Moving_Platform,Concepts/Damage_Over_Time,Concepts/Succubus,Concepts/Jump,Concepts/Hit_Points,Concepts/Melee,Concepts/Healing_Food,Concepts/Level_Up,Concepts/Sprite,Concepts/Demon,Concepts/Continue,Concepts/Steam,Concepts/Death,Concepts/Non_Player_Character,Concepts/Player_Character,Concepts/Villain,Concepts/2D,Concepts/Final_Boss,Concepts/Female_Antagonists,Concepts/Damage_Numbers,Concepts/Male_Protagonists,Concepts/Virtual_Console,Concepts/Steam_Achievements,Concepts/Slashing_Weapons,Concepts/Retroactive_Achievements,Concepts/Pixel_Art,Concepts/Retroachievements
+| Developers=
+| Franchises=Franchises/Castlevania
+| Genres=
+| Locations=
+| Objects=Objects/Key,Objects/Heart,Objects/Vampire_Killer,Objects/Whip,Objects/Axe
+| Platforms=Platforms/Game_Boy_Advance,Platforms/Wii_U
+| Publishers=Companies/Konami
+| Games=
+| Themes=
+}}
+
+==Overview==
+[[File:786507-nathan_graves.jpg|thumb|right|alt=Nathan Graves, the game's main protagonist|Nathan Graves, the game's main protagonist]] Castlevania: Circle of the Moon (known in Europe as simply ''Castlevania'' and in Japan as ''Akumajou Dracula: Circle of the Moon'', the former sub-title loosely translated to "Devil's Castle Dracula") is a 2D horror-fantasy [[Concepts/Search_Action|platformer-adventure]] game developed by [[Companies/Konami_Computer_Entertainment_Kobe_Inc|KCE Kobe]] and published by [[Companies/Konami|Konami]] for the [[Platforms/Game_Boy_Advance|Game Boy Advance]] (as a [[Concepts/Launch_Title|launch title]]) on June 8, 2001.
+A [[Concepts/Spiritual_Successor|spiritual successor]] to [[Games/Castlevania_Symphony_of_the_Night|Castlevania: Symphony of the Night]], Circle of the Moon brings the gameplay style of free-roaming [https://www.giantbomb.com/backtracking/3015-239 backtrack-focused] exploration (with [https://www.giantbomb.com/rpg-elements/3015-3603 RPG-style] [https://www.giantbomb.com/attributes/3015-1681 attribute], [https://www.giantbomb.com/inventory/3015-513 inventory], and [https://www.giantbomb.com/experience-points/3015-39 experience] systems) to the handheld.
+The game takes place in an old [[Locations/Austria|Austrian]] castle in 1830, where [[Characters/Carmilla_8461|Camilla]], a female [[Concepts/Vampire|vampire]], begins the ritual to resurrect her lord, [[Characters/Dracula|Dracula]]. Sensing this, master vampire hunter [[Characters/Morris_Baldwin|Morris Baldwin]] rushes to the castle along with his son [[Characters/Hugh_Baldwin|Hugh]] and disciple [[Characters/Nathan_Graves|Nathan Graves]]. However, they arrived too late, and the risen Dracula imprisons Morris while casting Nathan and Hugh down into a graveyard underneath the castle. Players control Nathan, heir to the Hunter Whip (unknown if it's another name for the [[Objects/Vampire_Killer|Vampire Killer]] whip), as he explores the large castle to rescue his master and defeat Dracula. As the game was intended to be a standalone game in the series, the game's story is considered non-canon in the main Castlevania chronology.
+Circle of the Moon features a unique magic ability system known as the "Dual Set-up System" (DSS), where players find special Action Cards and Attribute Cards dropped by certain enemies and combine them to produce one of 100 temporary magic effects (such as improving the functionality of the Hunter's Whip and changing the player's stats).
+The game was later digitally re-released for the [[Platforms/Wii_U|Wii U]] (as a [[Concepts/Virtual_Console|Virtual Console]] title) in Japan on August 27, 2014, in North America on October 9, 2014, and in Europe on January 29, 2015. It was also included in the 2021 compilation [[Games/Castlevania_Advance_Collection|Castlevania Advance Collection]] for the [[Platforms/PlayStation_4|PlayStation 4]], [[Platforms/Xbox_One|Xbox One]], [[Platforms/Nintendo_Switch|Nintendo Switch]], and [[Platforms/PC|PC]].
+
+==Gameplay==
+Nathan with his Hunter's Whip, an item handed down through the generations of vampire hunters, must search the castle, finding all the enemies and bosses that, upon their defeats, will aid in his journey to get to Dracula and save his master. As Nathan defeats each boss, he gets a certain Key Item/Ability that will give him a new ability to use to get to new areas of the castle. This is generally called the "Metroidvania" pattern.
+&amp;lt;u&amp;gt;'''Abilities are:'''&amp;lt;/u&amp;gt;
+[[File:210413-circleofthemoon11.png|thumb|right]] * Double - allows character to jump a second time in mid-air. After defeating Cerberus.
+* Dash Boots - allows the character to run faster. In Earth Demon room.
+* Tackle - allows the character to take down brittle stone barricades. After defeating Necromancer.
+* Kick Boots - allows character to jump off of walls for an extra boost. After defeating Iron Golem.
+* Heavy Ring - allows the character to push heavy crates out of the way. After defeating Twin Dragons.
+* Cleansing - allows character to walk through the tainted waters in the Underground Waterway. After defeating Death.
+* Roc Wing - allows character to fly upwards a hefty distance. After defeating Camilla.
+* The Last Key - allows character entry to Dracula's chamber. After defeating Hugh.
+This game features an interesting way of character enhancing, called DSS. It's a card system, with two sets of cards. Creature cards (mythical beasts really) and God cards (Roman Gods specifically). By pairing up a God card with a creature card, Nathan can get various enhancements, ranging from a flaming whip to summoning powerful creatures. Be warned that using the cards' abilities drains MP. Luckily, Save Points refill MP. Getting the cards requires defeating the right enemies. Some cards are more common, and can be found from multiple enemies, whereas some are so hard to find, only 1 enemy will drop them. Note, however, that cards won't be a guaranteed drop from the enemy, and it may take several attempts at killing the foe before they drop the card.
+&amp;lt;u&amp;gt;'''Cards Include:'''&amp;lt;/u&amp;gt;
+[[File:241267-14690_9_2.jpg|thumb|right]] [[File:210416-circleofthemoon15.png|thumb|right]] * Salamander - power of fire.
+* Serpent - power of ice.
+* Mandragora - power of plants.
+* Golem - power of earth.
+* Cockatrice - power of stone.
+* Manticore - power of poison.
+* Griffin - power of wind.
+* Thunderbird - power of electricity.
+* Unicorn - power of healing.
+* Black Dog - power of darkness.
+* Mercury - potential of strength.
+* Venus - potential of enchantment.
+* Mars - potential of change.
+* Jupiter - potential of defense.
+* Diana - potential of creation.
+* Apollo - potential of explosives.
+* Saturn - potential of familiars.
+* Neptune - potential of healing.
+* Uranus - potential of summoning.
+* Pluto - potential of special.
+Circle of the Moon also features "sub-weapons", little projectiles that can help damage difficult or hard-to-hit enemies. Sub-weapons are found in candles scattered all over the map, with the more powerful ones being harder to find. With the Shooter mode, Nathan has certain enhancements to his sub-weapons (including a Homing Dagger that follows the enemy for a guaranteed hit). They, however, cost the character Hearts. Hearts are easily regained by defeating some enemies who drop them, or taking out candles (which can be found everywhere). Hearts are the only stats that don't get replenished when a Save Point is used.
+&amp;lt;u&amp;gt;'''Sub-Weapons include:'''&amp;lt;/u&amp;gt;
+[[File:241269-14690_11_2.jpg|thumb|right]] * Dagger - hurl a dagger forward at an enemy.
+* Axe - throw an axe in an arc at enemies.
+* Holy Water - creates a temporary fire on the ground, hurting all enemies who cross over it.
+* Cross - throws a cross forward, it will then reach it point where it will travel in the opposite direction, whether or not the player is there to catch it.
+* Clock - slows down all enemies in the room, while the character is still in normal motion.
+There is also a DSS combination with Pluto and Salamander that results in a Super Powered Sub-Weapon attack. Activated by a button sequence. Costs 4 MP per use.
+* Dagger - fires rapidly like a machine gun
+* Axe - fires in a spiral motion from center to off-screen
+* Holy Water - it rains down on the enemies
+* Cross - large crosses spiral from the bottom to the top of the screen
+* Clock - four clocks appear instead of one (longer effect)
+Another combination, Pluto and Serpent, fires off two sub-weapons, with the Hearts used being the same (except for the Cross and Clock)
+The last aspect of Castlevania: Circle of the Moon is it's various modes. Like how many games feature multiple difficulties, it features multiple "scenarios" for Nathan.
+* Vampire Killer -starting character; basic, well-rounded stats.
+* Magician - beat Vampire Killer mode and enter "Fireball" as the file name; high INT, all DSS cards, and high MP, but low STR and DEF.
+* Fighter - beat Magician mode and enter "Gradius" as the file name; high STR and DEF, but no DSS cards.
+* Shooter - beat Fighter mode and enter "Crossbow" as the file name; upgraded sub-weapons (stronger, cost less hearts), high starting amount of Hearts, relatively low stats, and at each level grants 10 hearts instead of two.
+* Thief - beat Shooter mode and enter "Dagger" as the file name; extremely high Luck, otherwise very low stats.
+'''&amp;lt;u&amp;gt;Final Battle&amp;lt;/u&amp;gt;''': The final battle against Dracula is divided into 2 parts. The first is the humanoid form of Dracula. He merely attacks (all of which are easily avoidable) and teleports to a different location in the room. This portion of the battle is easy, however, the second portion is rather difficult. Dracula has obtained his full-powered-form, and now Nathan must face it.
+[[File:241272-14690_14_2.jpg|thumb|right]] In a much larger expansive room, Dracula's giant new form fights with several different attacks. One is his eye laser, which fires from his eye in his chest and creates an explosion. Another is his extremely deadly charge attack. This attack has Dracula start glowing, and he'll rush Nathan 3-5 times. The best way to avoid this is to repeatedly use the Roc Wing ability (he can't reach that high). The only way to hurt Dracula in this form is to deal damage to his eye in his chest. In the beginning, it isn't so hard, but halfway through, when he begins his charging attacks, he'll turn into a flying eyeball surrounded by bats. Nathan must still hit the eyeball, though it is much harder to both avoid its attacks, the bats, and still get in that hit.
+In the end, Nathan defeats Dracula, causing his vast castle to crumble. Nathan, Hugh, and Morris all escape harm. Morris congratulates Nathan, and Hugh learns his lesson and becomes friends with Nathan once more. Peace is restored...for now.</text>
+      <sha1>te44qftwgl1eensrjekxv3kpnc0pjox</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Game</title>
+    <ns>10</ns>
+    <id>371</id>
+    <revision>
+      <id>429429</id>
+      <parentid>429428</parentid>
+      <timestamp>2025-12-28T03:46:48Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>429429</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4724" sha1="retl81ytpxb3f53wfz5k2b1f43ikekn" xml:space="preserve">&lt;noinclude&gt;{{#template_params:
+  Name (property=Has name)
+| Guid (property=Has guid)
+| Aliases (property=Has aliases)
+| Image (property=Has image)
+| Caption (property=Has caption)
+| Deck (property=Has deck)
+| ReleaseDate (property=Has release date)
+| ReleaseDateType (property=Has release date type)
+| Characters (property=Has characters)
+| Concepts (property=Has concepts)
+| Developers (property=Has developers)
+| Franchise (property=Has franchise)
+| Games (property=Has similar games)
+| Genres (property=Has genres)
+| Locations (property=Has locations)
+| Objects (property=Has objects)
+| Platforms (property=Has platforms)
+| Publishers (property=Has publishers)
+| Themes (property=Has themes)
+}}
+==Documentation==
+This template is used to create game pages, set its display title and infobox.
+{| class="wikitable"
+|-
+! Field Name !! Description
+|-
+| Name || The display name of the game.
+|-
+| Guid || The identifier from Giant Bomb. 
+|-
+| Aliases || Alternative names.
+|-
+| Image || The image filename of the game. Image appears in the infobox.
+|-
+| Caption || The caption for the above image.
+|-
+| Deck || The short description of the game.
+|-
+| ReleaseDate || The game's release date.
+|-
+| ReleaseDateType || The format of the release date.
+|-
+| Characters || The characters found in the game.
+|-
+| Concepts || The concepts found in the game.
+|-
+| Developers || The developers of the game.
+|-
+| Franchise || The franchise the game belongs with.
+|-
+| Games || The games similar to the game.
+|-
+| Genres || The genres associated to the game.
+|-
+| Locations || The locations found in the game.
+|-
+| Objects || The objects found in the game.
+|-
+| Platforms || The platforms available for the game.
+|-
+| Publishers || The publshers of the game.
+|-
+| Themes || The themes found in the game.
+|}
+&lt;/noinclude&gt;&lt;includeonly&gt;
+{{#set:Has name={{{Name|}}}}}&lt;!--
+--&gt;{{#if:{{{Guid|}}}|{{#set:Has guid={{{Guid|}}}}}}}&lt;!--
+--&gt;{{#if:{{{Aliases|}}}|{{#set:Has aliases={{{Aliases|}}}}}}}&lt;!--
+--&gt;{{#if:{{{Image|}}}|{{#set:Has image={{{Image|}}}}}}}&lt;!--
+--&gt;{{#if:{{{Caption|}}}|{{#set:Has caption={{{Caption|}}}}}}}&lt;!--
+--&gt;{{#if:{{{Deck|}}}|{{#set:Has deck={{{Deck|}}}}}}}&lt;!--
+--&gt;{{#if:{{{ReleaseDate|}}}|{{#set:Has release date={{{ReleaseDate|}}}}}}}&lt;!--
+--&gt;{{#if:{{{ReleaseDateType|}}}|{{#set:Has release date type={{{ReleaseDateType|}}}}}}}&lt;!--
+--&gt;{{#arraymap:{{{Characters|}}}|,|@@|{{SetPropertyPrefix|Has characters|Characters|@@}}| }}&lt;!--
+--&gt;{{#arraymap:{{{Concepts|}}}|,|@@|{{SetPropertyPrefix|Has concepts|Concepts|@@}}| }}&lt;!--
+--&gt;{{#arraymap:{{{Developers|}}}|,|@@|{{SetPropertyPrefix|Has developers|Developers|@@}}| }}&lt;!--
+--&gt;{{#arraymap:{{{Franchise|}}}|,|@@|{{SetPropertyPrefix|Has franchise|Franchise|@@}}| }}&lt;!--
+--&gt;{{#arraymap:{{{Games|}}}|,|@@|{{SetPropertyPrefix|Has games|Games|@@}}| }}&lt;!--
+--&gt;{{#arraymap:{{{Genres|}}}|,|@@|{{SetPropertyPrefix|Has genres|Genres|@@}}| }}&lt;!--
+--&gt;{{#arraymap:{{{Locations|}}}|,|@@|{{SetPropertyPrefix|Has locations|Locations|@@}}| }}&lt;!--
+--&gt;{{#arraymap:{{{Objects|}}}|,|@@|{{SetPropertyPrefix|Has objects|Objects|@@}}| }}&lt;!--
+--&gt;{{#arraymap:{{{Platforms|}}}|,|@@|{{SetPropertyPrefix|Has platforms|Platforms|@@}}| }}&lt;!--
+--&gt;{{#arraymap:{{{Publishers|}}}|,|@@|{{SetPropertyPrefix|Has publishers|Publishers|@@}}| }}&lt;!--
+--&gt;{{#arraymap:{{{Themes|}}}|,|@@|{{SetPropertyPrefix|Has themes|Themes|@@}}| }}&lt;!--
+--&gt;{{GameHero
+| name={{{Name|}}}
+| italic title=no
+| image={{{Image|}}}
+| image size=40
+| caption={{{Caption|}}}
+| aliases={{{Aliases|}}}
+| deck={{{Deck|}}}
+| release date={{{ReleaseDate|}}}
+| release date type={{{ReleaseDateType|}}}
+| developers={{{Developers|}}}
+| publishers={{{Publishers|}}}
+| platforms={{{Platforms|}}}
+| franchise={{{Franchise|}}}
+| genres={{{Genres|}}}
+| themes={{{Themes|}}}
+}}&lt;!--
+--&gt;{{DISPLAYTITLE:{{{Name|}}}}}[[Category:Games|{{SUBPAGENAME}}]]
+== {{#ifexist:{{PAGENAME}}/Releases|[[{{PAGENAME}}/Releases|Releases]]|Releases}} ==
+{{#formlink:
+|form=Releases
+|link text={{#ifexist:{{PAGENAME}}/Releases|Add/Edit Releases|Create Releases Page}}
+|target={{PAGENAME}}/Releases
+|field-Game={{PAGENAME}}
+}}
+{{#ifexist:{{PAGENAME}}/Releases
+|{{:{{PAGENAME}}/Releases}}
+}}
+== {{#ifexist:{{PAGENAME}}/DLC|[[{{PAGENAME}}/DLC|DLC]]|DLC}} ==
+{{#formlink:
+|form=DLC
+|link text={{#ifexist:{{PAGENAME}}/DLC|Add/Edit DLC|Create DLC Page}}
+|target={{PAGENAME}}/DLC
+|field-Game={{PAGENAME}}
+}}
+{{#ifexist:{{PAGENAME}}/DLC
+|{{:{{PAGENAME}}/DLC}}
+}}
+== {{#ifexist:{{PAGENAME}}/Credits|[[{{PAGENAME}}/Credits|Credits]]|Credits}} ==
+{{#formlink:
+|form=Credits
+|link text={{#ifexist:{{PAGENAME}}/Credits|Add/Edit Credits|Create Credits Page}}
+|target={{PAGENAME}}/Credits
+|field-Game={{PAGENAME}}
+}}
+{{#ifexist:{{PAGENAME}}/Credits
+|{{:{{PAGENAME}}/Credits}}
+}}
+&lt;/includeonly&gt;
+__NOTOC__</text>
+      <sha1>retl81ytpxb3f53wfz5k2b1f43ikekn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:SetPropertyPrefix</title>
+    <ns>10</ns>
+    <id>388</id>
+    <revision>
+      <id>836</id>
+      <parentid>401</parentid>
+      <timestamp>2025-10-23T22:11:52Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>401</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="401" sha1="icq7ob58tovw19zzu78isvoneugt05a" xml:space="preserve">{{#if: {{#explode:{{{3}}}|/|1}}|{{#set:{{{1|}}}={{{3|}}}}}|{{#set:{{{1|}}}={{{2|}}}/{{{3|}}}}} }}
+&lt;noinclude&gt;
+This template automatically prefixes a namespace to allow editors to enter the wiki name without the namespace.
+
+==Usage==
+&lt;nowiki&gt;{{SetPropertyPrefix|Property Name|Namespace|Page Name}}&lt;/nowiki&gt;
+
+==Example==
+&lt;nowiki&gt;{{SetPropertyPrefix|Has character|Characters|Mario}}&lt;/nowiki&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>icq7ob58tovw19zzu78isvoneugt05a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Releases</title>
+    <ns>10</ns>
+    <id>380</id>
+    <revision>
+      <id>429409</id>
+      <parentid>429408</parentid>
+      <timestamp>2025-12-28T01:04:37Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>429409</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2485" sha1="8r28edhmsgp7bybq17q4j4v23d5apn5" xml:space="preserve">&lt;noinclude&gt;{{#template_params:
+ ParentPage (property=Has superpage)
+}}
+==Documentation==
+This template is used to create release subobjects.
+{| class="wikitable"
+|-
+! Field Name !! Description
+|-
+| ParentPage || The parent page.
+|-
+| ReleaseSubobject || The game releases stored as subobjects.
+|-
+| ↳ Game || Game of release.
+|-
+| ↳ Name || Name of release.
+|-
+| ↳ Guid || Guid of release.
+|-
+| ↳ Image || Image of release.
+|-
+| ↳ Region || Region of release.
+|-
+| ↳ Platform || Platform the release is on.
+|-
+| ↳ Rating || Rating of release.
+|-
+| ↳ Developer || Developers of release.
+|-
+| ↳ Publisher || Image of release.
+|-
+| ↳ ReleaseDate || Release date of release.
+|-
+| ↳ ReleaseDateType || Format for release date.
+|-
+| ↳ ProductCode || Numeric identifier representing the release product.
+|-
+| ↳ ProductCodeType || Type of product code (e.g. UPC).
+|-
+| ↳ CompanyCode || Identifier of release on a console platform
+|-
+| ↳ CompanyCodeType || The company the code is for.
+|-
+| ↳ WidescreenSupport || If the release supports widescreens. (The Rorie Test)
+|-
+| ↳ Resolutions || Resolutions the release supports.
+|-
+| ↳ SoundSystems || Sound systems the release supports.
+|-
+| ↳ SinglePlayerFeatures || Single player features the release supports.
+|-
+| ↳ MultiplayerFeatures || Multi-player features release supports.
+|-
+| ↳ MinimumPlayers || Minimum amount of players the release supports.
+|-
+| ↳ MaxmiumPlayers || Maximum amount of players the release supports.
+|}
+&lt;/noinclude&gt;&lt;includeonly&gt;
+{{#set:Has superpage={{{ParentPage|}}}}}&lt;!--
+--&gt;{{#ifeq:{{#titleparts:{{FULLPAGENAME}}||-1}}|Releases|[[Category:Releases]]}}&lt;!--
+--&gt;{{Datatable styles}}
+{{#ask: [[-Has subobject::{{FULLPAGENAME}}]] [[Has object type::Release]]
+|headers=plain
+|class=datatable
+|link=none
+|mainlabel=-
+|?Has image=Image
+|?Has name=Name
+|?Has region=Region
+|?Has platforms=Platform
+|?Has rating=Rating
+|?Has developers=Developers
+|?Has publishers=Publishers
+|?Has release date=ReleaseDate
+|?Has release date type=ReleaseDateType
+|?Has product code=ProductCode
+|?Has product code type=ProductCodeType
+|?Has company code=CompanyCode
+|?Has company code type=CompanyCodeType
+|?Has widescreen support=WidescreenSupport
+|?Has resolutions=Resolutions
+|?Has sound systems=SoundSystems
+|?Has single player features=SinglePlayerFeatures
+|?Has multiplayer features=MultiplayerFeatures
+|?Has minimum players=MinimumPlayers
+|?Has maximum players=MaximumPlayers
+}}
+&lt;/includeonly&gt;</text>
+      <sha1>8r28edhmsgp7bybq17q4j4v23d5apn5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:ReleaseSubobject</title>
+    <ns>10</ns>
+    <id>379</id>
+    <revision>
+      <id>429388</id>
+      <parentid>429387</parentid>
+      <timestamp>2025-12-27T18:37:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>429388</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1026" sha1="9xoeelkbqarnsv05075knoky45vftqd" xml:space="preserve">{{#subobject: {{#invoke:Identifiers|getReleaseIdentifier|Name={{{Name|}}}|Region={{{Region|}}}|Platform={{{Platform|}}}}} |
+|Has object type=Release
+|Has composite name={{{Name|}}} ({{{Platform|}}}, {{{Region|}}})
+|Has games={{{Game|}}}
+|Has name={{{Name|}}}
+|Has guid={{{Guid|}}}
+|Has image={{{Image|}}}
+|Has region={{{Region|}}}
+|Has platforms={{{Platform|}}}
+|Has rating={{{Rating|}}}
+|Has developers={{{Developers|}}}
+|Has publishers={{{Publishers|}}}
+|Has release date={{{ReleaseDate|}}}
+|Has release date type={{{ReleaseDateType|}}}
+|Has product code={{{ProductCode|}}}
+|Has product code type={{{ProductCodeType|}}}
+|Has company code={{{CompanyCode|}}}
+|Has company code type={{{CompanyCodeType|}}}
+|Has widescreen support={{{WidescreenSupport|}}}
+|Has resolutions={{{Resolutions|}}}
+|Has sound systems={{{SoundSystems|}}}
+|Has single player features={{{SinglePlayerFeatures|}}}
+|Has multiplayer features={{{MultiplayerFeatures|}}}
+|Has minimum players={{{MinimumPlayers|}}}
+|Has maximum players={{{MaximumPlayers|}}}
+}}</text>
+      <sha1>9xoeelkbqarnsv05075knoky45vftqd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Datatable styles</title>
+    <ns>10</ns>
+    <id>705</id>
+    <revision>
+      <id>1153</id>
+      <timestamp>2025-10-21T20:33:49Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "&lt;includeonly&gt;&lt;templatestyles src="Template:Datatable styles/styles.css" /&gt;&lt;/includeonly&gt;&lt;noinclude&gt;{{/doc}}&lt;/noinclude&gt;"</comment>
+      <origin>1153</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="119" sha1="pl9yldnbdzr5b8ptneyzxreadr2909n" xml:space="preserve">&lt;includeonly&gt;&lt;templatestyles src="Template:Datatable styles/styles.css" /&gt;&lt;/includeonly&gt;&lt;noinclude&gt;{{/doc}}&lt;/noinclude&gt;</text>
+      <sha1>pl9yldnbdzr5b8ptneyzxreadr2909n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Castlevania Circle of the Moon/Releases</title>
+    <ns>0</ns>
+    <id>122564</id>
+    <revision>
+      <id>429411</id>
+      <parentid>429410</parentid>
+      <timestamp>2025-12-28T01:05:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>429411</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4330" sha1="51ctr9pfxg5tn45ibrpafd9g1w9qfqp" xml:space="preserve">{{Releases
+|ParentPage=Games/Castlevania_Circle_of_the_Moon
+}}
+{{ReleaseSubobject
+|Game=Games/Castlevania_Circle_of_the_Moon
+|Guid=3050-76069
+|Name=Castlevania: Circle of the Moon
+|Image=https://www.giantbomb.com/a/uploads/original/8/87790/1773364-box_cvcotm.png
+|Region=United States
+|Platform=Platforms/Game_Boy_Advance
+|Rating=Ratings/ESRB_T
+|Developers=
+|Publishers=
+|ReleaseDate=
+|ReleaseDateType=None
+|ProductCode=0 83717 50001 8
+|ProductCodeType=UPC/A
+|CompanyCode=
+|CompanyCodeType=
+|WidescreenSupport=No
+|Resolutions=
+|SoundSystems=
+|SinglePlayerFeatures=
+|MultiplayerFeatures=
+|MinimumPlayers=1
+|MaximumPlayers=
+}}
+{{ReleaseSubobject
+|Game=Games/Castlevania_Circle_of_the_Moon
+|Guid=3050-78160
+|Name=Castlevania
+|Image=https://www.giantbomb.com/a/uploads/original/8/87790/1773364-box_cvcotm.png
+|Region=United Kingdom
+|Platform=Platforms/Game_Boy_Advance
+|Rating=Ratings/PEGI_12
+|Developers=
+|Publishers=
+|ReleaseDate=
+|ReleaseDateType=None
+|ProductCode=
+|ProductCodeType=
+|CompanyCode=
+|CompanyCodeType=
+|WidescreenSupport=No
+|Resolutions=
+|SoundSystems=
+|SinglePlayerFeatures=
+|MultiplayerFeatures=
+|MinimumPlayers=1
+|MaximumPlayers=
+}}
+{{ReleaseSubobject
+|Game=Games/Castlevania_Circle_of_the_Moon
+|Guid=3050-79263
+|Name=Akumajou Dracula: Circle of the Moon
+|Image=https://www.giantbomb.com/a/uploads/original/8/87790/1773364-box_cvcotm.png
+|Region=Japan
+|Platform=Platforms/Game_Boy_Advance
+|Rating=Ratings/CERO_B
+|Developers=
+|Publishers=
+|ReleaseDate=
+|ReleaseDateType=None
+|ProductCode=
+|ProductCodeType=
+|CompanyCode=
+|CompanyCodeType=
+|WidescreenSupport=No
+|Resolutions=
+|SoundSystems=
+|SinglePlayerFeatures=
+|MultiplayerFeatures=
+|MinimumPlayers=1
+|MaximumPlayers=
+}}
+{{ReleaseSubobject
+|Game=Games/Castlevania_Circle_of_the_Moon
+|Guid=3050-79264
+|Name=Akumajou Dracula: Circle of the Moon (Konami the Best)
+|Image=https://www.giantbomb.com/a/uploads/original/8/87790/1773364-box_cvcotm.png
+|Region=Japan
+|Platform=Platforms/Game_Boy_Advance
+|Rating=Ratings/CERO_B
+|Developers=
+|Publishers=
+|ReleaseDate=
+|ReleaseDateType=None
+|ProductCode=
+|ProductCodeType=
+|CompanyCode=
+|CompanyCodeType=
+|WidescreenSupport=No
+|Resolutions=
+|SoundSystems=
+|SinglePlayerFeatures=
+|MultiplayerFeatures=
+|MinimumPlayers=1
+|MaximumPlayers=
+}}
+{{ReleaseSubobject
+|Game=Games/Castlevania_Circle_of_the_Moon
+|Guid=3050-137890
+|Name=Castlevania: Circle of the Moon
+|Image=https://www.giantbomb.com/a/uploads/original/8/87790/1773364-box_cvcotm.png
+|Region=United States
+|Platform=Platforms/Wii_U
+|Rating=
+|Developers=
+|Publishers=
+|ReleaseDate=
+|ReleaseDateType=None
+|ProductCode=
+|ProductCodeType=
+|CompanyCode=
+|CompanyCodeType=
+|WidescreenSupport=Yes
+|Resolutions=
+|SoundSystems=
+|SinglePlayerFeatures=
+|MultiplayerFeatures=
+|MinimumPlayers=1
+|MaximumPlayers=
+}}
+{{ReleaseSubobject
+|Game=Games/Castlevania_Circle_of_the_Moon
+|Guid=3050-137891
+|Name=Akumajou Dracula: Circle of the Moon
+|Image=https://www.giantbomb.com/a/uploads/original/8/87790/1773364-box_cvcotm.png
+|Region=Japan
+|Platform=Platforms/Wii_U
+|Rating=Ratings/CERO_B
+|Developers=
+|Publishers=
+|ReleaseDate=
+|ReleaseDateType=None
+|ProductCode=
+|ProductCodeType=
+|CompanyCode=
+|CompanyCodeType=
+|WidescreenSupport=Yes
+|Resolutions=
+|SoundSystems=
+|SinglePlayerFeatures=
+|MultiplayerFeatures=
+|MinimumPlayers=1
+|MaximumPlayers=1
+}}
+{{ReleaseSubobject
+|Game=Games/Castlevania_Circle_of_the_Moon
+|Guid=3050-139786
+|Name=Castlevania: Circle of the Moon
+|Image=https://www.giantbomb.com/a/uploads/original/8/87790/1773364-box_cvcotm.png
+|Region=Australia
+|Platform=Platforms/Wii_U
+|Rating=
+|Developers=
+|Publishers=
+|ReleaseDate=
+|ReleaseDateType=None
+|ProductCode=
+|ProductCodeType=
+|CompanyCode=
+|CompanyCodeType=
+|WidescreenSupport=Yes
+|Resolutions=
+|SoundSystems=
+|SinglePlayerFeatures=
+|MultiplayerFeatures=
+|MinimumPlayers=1
+|MaximumPlayers=
+}}
+
+{{ReleaseSubobject
+|Game=Games/Castlevania_Circle_of_the_Moon
+|Guid=3050-139787
+|Name=Castlevania: Circle of the Moon
+|Image=https://www.giantbomb.com/a/uploads/original/8/87790/1773364-box_cvcotm.png
+|Region=United Kingdom
+|Platform=Platforms/Wii_U
+|Rating=
+|Developers=
+|Publishers=
+|ReleaseDate=
+|ReleaseDateType=None
+|ProductCode=
+|ProductCodeType=
+|CompanyCode=
+|CompanyCodeType=
+|WidescreenSupport=Yes
+|Resolutions=
+|SoundSystems=
+|SinglePlayerFeatures=
+|MultiplayerFeatures=
+|MinimumPlayers=1
+|MaximumPlayers=
+}}</text>
+      <sha1>51ctr9pfxg5tn45ibrpafd9g1w9qfqp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Datatable styles/styles.css</title>
+    <ns>10</ns>
+    <id>706</id>
+    <revision>
+      <id>1154</id>
+      <timestamp>2025-10-21T20:35:35Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "  /* Do not wrap table header */ .dataTable thead { 	white-space: nowrap; }  /* Image column */ td.smwtype_wpg:first-child { 	padding: 0; }  /* Image */ td.smwtype_wpg:first-child img { 	width: 56px; 	height: 56px; 	object-fit: cover; }  /* Allow text wrapping for scroller */ div.dts tbody th, div.dts tbody td { 	white-space: normal; }"</comment>
+      <origin>1154</origin>
+      <model>sanitized-css</model>
+      <format>text/css</format>
+      <text bytes="337" sha1="077fj3pz0qqo8ft4w7318mn1p5a3o8p" xml:space="preserve">
+
+/* Do not wrap table header */
+.dataTable thead {
+	white-space: nowrap;
+}
+
+/* Image column */
+td.smwtype_wpg:first-child {
+	padding: 0;
+}
+
+/* Image */
+td.smwtype_wpg:first-child img {
+	width: 56px;
+	height: 56px;
+	object-fit: cover;
+}
+
+/* Allow text wrapping for scroller */
+div.dts tbody th,
+div.dts tbody td {
+	white-space: normal;
+}</text>
+      <sha1>077fj3pz0qqo8ft4w7318mn1p5a3o8p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Module:GameHero</title>
+    <ns>828</ns>
+    <id>424740</id>
+    <revision>
+      <id>429396</id>
+      <parentid>429395</parentid>
+      <timestamp>2025-12-27T18:53:51Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>429396</origin>
+      <model>Scribunto</model>
+      <format>text/plain</format>
+      <text bytes="20588" sha1="i0esatpv2yrp9wy827wpeuawqrtr4c9" xml:space="preserve">local p = {}
+local args = {}
+local origArgs = {}
+local root
+local empty_row_categories = {}
+local category_in_empty_row_pattern = '%[%[%s*[Cc][Aa][Tt][Ee][Gg][Oo][Rr][Yy]%s*:[^]]*]]'
+local has_rows = false
+local lists = {
+	plainlist_t = {
+		patterns = {
+			'^plainlist$',
+			'%splainlist$',
+			'^plainlist%s',
+			'%splainlist%s'
+		},
+		found = false,
+		styles = 'Plainlist/styles.css'
+	},
+	hlist_t = {
+		patterns = {
+			'^hlist$',
+			'%shlist$',
+			'^hlist%s',
+			'%shlist%s'
+		},
+		found = false,
+		styles = 'Hlist/styles.css'
+	}
+}
+
+local function has_list_class(args_to_check)
+	for _, list in pairs(lists) do
+		if not list.found then
+			for _, arg in pairs(args_to_check) do
+				for _, pattern in ipairs(list.patterns) do
+					if mw.ustring.find(arg or '', pattern) then
+						list.found = true
+						break
+					end
+				end
+				if list.found then break end
+			end
+		end
+	end
+end
+
+local function fixChildBoxes(sval, tt)
+	local function notempty( s ) return s and s:match( '%S' ) end
+	
+	if notempty(sval) then
+		local marker = '&lt;span class=special_gameHero_marker&gt;'
+		local s = sval
+		-- start moving templatestyles and categories inside of table rows
+		local slast = ''
+		while slast ~= s do
+			slast = s
+			s = mw.ustring.gsub(s, '(&lt;/[Tt][Rr]%s*&gt;%s*)(%[%[%s*[Cc][Aa][Tt][Ee][Gg][Oo][Rr][Yy]%s*:[^]]*%]%])', '%2%1')
+			s = mw.ustring.gsub(s, '(&lt;/[Tt][Rr]%s*&gt;%s*)(\127[^\127]*UNIQ%-%-templatestyles%-%x+%-QINU[^\127]*\127)', '%2%1')
+		end
+		-- end moving templatestyles and categories inside of table rows
+		s = mw.ustring.gsub(s, '(&lt;%s*[Tt][Rr])', marker .. '%1')
+		s = mw.ustring.gsub(s, '(&lt;/[Tt][Rr]%s*&gt;)', '%1' .. marker)
+		if s:match(marker) then
+			s = mw.ustring.gsub(s, marker .. '%s*' .. marker, '')
+			s = mw.ustring.gsub(s, '([\r\n]|-[^\r\n]*[\r\n])%s*' .. marker, '%1')
+			s = mw.ustring.gsub(s, marker .. '%s*([\r\n]|-)', '%1')
+			s = mw.ustring.gsub(s, '(&lt;/[Cc][Aa][Pp][Tt][Ii][Oo][Nn]%s*&gt;%s*)' .. marker, '%1')
+			s = mw.ustring.gsub(s, '(&lt;%s*[Tt][Aa][Bb][Ll][Ee][^&lt;&gt;]*&gt;%s*)' .. marker, '%1')
+			s = mw.ustring.gsub(s, '^(%{|[^\r\n]*[\r\n]%s*)' .. marker, '%1')
+			s = mw.ustring.gsub(s, '([\r\n]%{|[^\r\n]*[\r\n]%s*)' .. marker, '%1')
+			s = mw.ustring.gsub(s, marker .. '(%s*&lt;/[Tt][Aa][Bb][Ll][Ee]%s*&gt;)', '%1')
+			s = mw.ustring.gsub(s, marker .. '(%s*\n|%})', '%1')
+		end
+		if s:match(marker) then
+			local subcells = mw.text.split(s, marker)
+			s = ''
+			for k = 1, #subcells do
+				if k == 1 then
+					s = s .. subcells[k] .. '&lt;/' .. tt .. '&gt;&lt;/tr&gt;'
+				elseif k == #subcells then
+					local rowstyle = ' style="display:none"'
+					if notempty(subcells[k]) then rowstyle = ''	end
+					s = s .. '&lt;tr' .. rowstyle ..'&gt;&lt;' .. tt .. ' colspan=2&gt;\n' ..
+						subcells[k]
+				elseif notempty(subcells[k]) then
+					if (k % 2) == 0 then
+						s = s .. subcells[k]
+					else
+						s = s .. '&lt;tr&gt;&lt;' .. tt .. ' colspan=2&gt;\n' ..
+							subcells[k] .. '&lt;/' .. tt .. '&gt;&lt;/tr&gt;'
+					end
+				end
+			end
+		end
+		-- the next two lines add a newline at the end of lists for the PHP parser
+		-- [[Special:Diff/849054481]]
+		-- remove when [[:phab:T191516]] is fixed or OBE
+		s = mw.ustring.gsub(s, '([\r\n][%*#;:][^\r\n]*)$', '%1\n')
+		s = mw.ustring.gsub(s, '^([%*#;:][^\r\n]*)$', '%1\n')
+		s = mw.ustring.gsub(s, '^([%*#;:])', '\n%1')
+		s = mw.ustring.gsub(s, '^(%{%|)', '\n%1')
+		return s
+	else
+		return sval
+	end
+end
+
+-- Cleans empty tables
+local function cleanGameHero()
+	root = tostring(root)
+	if has_rows == false then
+		root = mw.ustring.gsub(root, '&lt;table[^&lt;&gt;]*&gt;%s*&lt;/table&gt;', '')
+	end
+end
+
+-- Returns the union of the values of two tables, as a sequence.
+local function union(t1, t2)
+
+	local vals = {}
+	for k, v in pairs(t1) do
+		vals[v] = true
+	end
+	for k, v in pairs(t2) do
+		vals[v] = true
+	end
+	local ret = {}
+	for k, v in pairs(vals) do
+		table.insert(ret, k)
+	end
+	return ret
+end
+
+-- Returns a table containing the numbers of the arguments that exist
+-- for the specified prefix. For example, if the prefix was 'data', and
+-- 'data1', 'data2', and 'data5' exist, it would return {1, 2, 5}.
+local function getArgNums(prefix)
+	local nums = {}
+	for k, v in pairs(args) do
+		local num = tostring(k):match('^' .. prefix .. '([1-9]%d*)$')
+		if num then table.insert(nums, tonumber(num)) end
+	end
+	table.sort(nums)
+	return nums
+end
+
+-- Adds a row to the gameHero, with either a header cell
+-- or a label/data cell combination.
+local function addRow(rowArgs)
+	
+	if rowArgs.header and rowArgs.header ~= '_BLANK_' then
+		has_rows = true
+		has_list_class({ rowArgs.rowclass, rowArgs.class, args.headerclass })
+		
+		root
+			:tag('tr')
+				:addClass(rowArgs.rowclass)
+				:cssText(rowArgs.rowstyle)
+				:tag('th')
+					:attr('colspan', '2')
+					:addClass('gameHero-header')
+					:addClass(rowArgs.class)
+					:addClass(args.headerclass)
+					-- @deprecated next; target .gameHero-&lt;name&gt; .gameHero-header
+					:cssText(args.headerstyle)
+					:cssText(rowArgs.rowcellstyle)
+					:wikitext(fixChildBoxes(rowArgs.header, 'th'))
+		if rowArgs.data then
+			root:wikitext(
+				'[[Category:Pages using gameHero templates with ignored data cells]]'
+			)
+		end
+	elseif rowArgs.data and rowArgs.data:gsub(category_in_empty_row_pattern, ''):match('^%S') then
+		has_rows = true
+		has_list_class({ rowArgs.rowclass, rowArgs.class })
+		
+		local row = root:tag('tr')
+		row:addClass(rowArgs.rowclass)
+		row:cssText(rowArgs.rowstyle)
+		if rowArgs.label then
+			row
+				:tag('th')
+					:attr('scope', 'row')
+					:addClass('gameHero-label')
+					-- @deprecated next; target .gameHero-&lt;name&gt; .gameHero-label
+					:cssText(args.labelstyle)
+					:cssText(rowArgs.rowcellstyle)
+					:wikitext(rowArgs.label)
+					:done()
+		end
+
+		local dataCell = row:tag('td')
+		dataCell
+			:attr('colspan', not rowArgs.label and '2' or nil)
+			:addClass(not rowArgs.label and 'gameHero-full-data' or 'gameHero-data')
+			:addClass(rowArgs.class)
+			-- @deprecated next; target .gameHero-&lt;name&gt; .gameHero(-full)-data
+			:cssText(rowArgs.datastyle)
+			:cssText(rowArgs.rowcellstyle)
+			:wikitext(fixChildBoxes(rowArgs.data, 'td'))
+	else
+		table.insert(empty_row_categories, rowArgs.data or '')
+	end
+end
+
+local function renderTitle()
+	if not args.title then return end
+
+	has_rows = true
+	has_list_class({args.titleclass})
+	
+	root
+		:tag('caption')
+			:addClass('gameHero-title')
+			:addClass(args.titleclass)
+			-- @deprecated next; target .gameHero-&lt;name&gt; .gameHero-title
+			:cssText(args.titlestyle)
+			:wikitext(args.title)
+	
+end
+
+local function renderAboveRow()
+	if not args.above then return end
+
+	has_rows = true
+	has_list_class({ args.aboveclass })
+	
+	root
+		:tag('tr')
+			:tag('th')
+				:attr('colspan', '2')
+				:addClass('gameHero-above')
+				:addClass(args.aboveclass)
+				-- @deprecated next; target .gameHero-&lt;name&gt; .gameHero-above
+				:cssText(args.abovestyle)
+				:wikitext(fixChildBoxes(args.above,'th'))
+end
+
+local function renderBelowRow()
+	if not args.below then return end
+
+	has_rows = true
+	has_list_class({ args.belowclass })
+	
+	root
+		:tag('tr')
+			:tag('td')
+				:attr('colspan', '2')
+				:addClass('gameHero-below')
+				:addClass(args.belowclass)
+				-- @deprecated next; target .gameHero-&lt;name&gt; .gameHero-below
+				:cssText(args.belowstyle)
+				:wikitext(fixChildBoxes(args.below,'td'))
+end
+
+local function addSubheaderRow(subheaderArgs)
+	if subheaderArgs.data and
+		subheaderArgs.data:gsub(category_in_empty_row_pattern, ''):match('^%S') then
+		has_rows = true
+		has_list_class({ subheaderArgs.rowclass, subheaderArgs.class })
+		
+		local row = root:tag('tr')
+		row:addClass(subheaderArgs.rowclass)
+
+		local dataCell = row:tag('td')
+		dataCell
+			:attr('colspan', '2')
+			:addClass('gameHero-subheader')
+			:addClass(subheaderArgs.class)
+			:cssText(subheaderArgs.datastyle)
+			:cssText(subheaderArgs.rowcellstyle)
+			:wikitext(fixChildBoxes(subheaderArgs.data, 'td'))
+	else
+		table.insert(empty_row_categories, subheaderArgs.data or '')
+	end
+end
+
+local function renderSubheaders()
+	if args.subheader then
+		args.subheader1 = args.subheader
+	end
+	if args.subheaderrowclass then
+		args.subheaderrowclass1 = args.subheaderrowclass
+	end
+	local subheadernums = getArgNums('subheader')
+	for k, num in ipairs(subheadernums) do
+		addSubheaderRow({
+			data = args['subheader' .. tostring(num)],
+			-- @deprecated next; target .gameHero-&lt;name&gt; .gameHero-subheader
+			datastyle = args.subheaderstyle,
+			rowcellstyle = args['subheaderstyle' .. tostring(num)],
+			class = args.subheaderclass,
+			rowclass = args['subheaderrowclass' .. tostring(num)]
+		})
+	end
+end
+
+local function addImageRow(imageArgs)
+
+	if imageArgs.data and
+		imageArgs.data:gsub(category_in_empty_row_pattern, ''):match('^%S') then
+
+		has_rows = true
+		has_list_class({ imageArgs.rowclass, imageArgs.class })
+		
+		local row = root:tag('tr')
+		row:addClass(imageArgs.rowclass)
+
+		local dataCell = row:tag('td')
+		dataCell
+			:attr('colspan', '2')
+			:addClass('gameHero-image')
+			:addClass(imageArgs.class)
+			:cssText(imageArgs.datastyle)
+			:wikitext(fixChildBoxes(imageArgs.data, 'td'))
+	else
+		table.insert(empty_row_categories, imageArgs.data or '')
+	end
+end
+
+local function renderImages()
+	if args.image then
+		args.image1 = args.image
+	end
+	if args.caption then
+		args.caption1 = args.caption
+	end
+	local imagenums = getArgNums('image')
+	for k, num in ipairs(imagenums) do
+		local caption = args['caption' .. tostring(num)]
+		local data = mw.html.create():wikitext(args['image' .. tostring(num)])
+		if caption then
+			data
+				:tag('div')
+					:addClass('gameHero-caption')
+					-- @deprecated next; target .gameHero-&lt;name&gt; .gameHero-caption
+					:cssText(args.captionstyle)
+					:wikitext(caption)
+		end
+		addImageRow({
+			data = tostring(data),
+			-- @deprecated next; target .gameHero-&lt;name&gt; .gameHero-image
+			datastyle = args.imagestyle,
+			class = args.imageclass,
+			rowclass = args['imagerowclass' .. tostring(num)]
+		})
+	end
+end
+
+-- When autoheaders are turned on, preprocesses the rows
+local function preprocessRows()
+	if not args.autoheaders then return end
+	
+	local rownums = union(getArgNums('header'), getArgNums('data'))
+	table.sort(rownums)
+	local lastheader
+	for k, num in ipairs(rownums) do
+		if args['header' .. tostring(num)] then
+			if lastheader then
+				args['header' .. tostring(lastheader)] = nil
+			end
+			lastheader = num
+		elseif args['data' .. tostring(num)] and
+			args['data' .. tostring(num)]:gsub(
+				category_in_empty_row_pattern, ''
+			):match('^%S') then
+			local data = args['data' .. tostring(num)]
+			if data:gsub(category_in_empty_row_pattern, ''):match('%S') then
+				lastheader = nil
+			end
+		end
+	end
+	if lastheader then
+		args['header' .. tostring(lastheader)] = nil
+	end
+end
+
+-- Gets the union of the header and data argument numbers,
+-- and renders them all in order
+local function renderRows()
+
+	local rownums = union(getArgNums('header'), getArgNums('data'))
+	table.sort(rownums)
+	for k, num in ipairs(rownums) do
+		addRow({
+			header = args['header' .. tostring(num)],
+			label = args['label' .. tostring(num)],
+			data = args['data' .. tostring(num)],
+			datastyle = args.datastyle,
+			class = args['class' .. tostring(num)],
+			rowclass = args['rowclass' .. tostring(num)],
+			-- @deprecated next; target .gameHero-&lt;name&gt; rowclass
+			rowstyle = args['rowstyle' .. tostring(num)],
+			rowcellstyle = args['rowcellstyle' .. tostring(num)]
+		})
+	end
+end
+
+local function renderNavBar()
+	if not args.name then return end
+
+	has_rows = true
+	root
+		:tag('tr')
+			:tag('td')
+				:attr('colspan', '2')
+				:addClass('gameHero-navbar')
+				:wikitext(require('Module:Navbar')._navbar{
+					args.name,
+					mini = 1,
+				})
+end
+
+local function renderItalicTitle()
+	local italicTitle = args['italic title'] and mw.ustring.lower(args['italic title'])
+	if italicTitle == '' or italicTitle == 'force' or italicTitle == 'yes' then
+		root:wikitext(require('Module:Italic title')._main({}))
+	end
+end
+
+-- Categories in otherwise empty rows are collected in empty_row_categories.
+-- This function adds them to the module output. It is not affected by
+-- args.decat because this module should not prevent module-external categories
+-- from rendering.
+local function renderEmptyRowCategories()
+	for _, s in ipairs(empty_row_categories) do
+		root:wikitext(s)
+	end
+end
+
+-- Render tracking categories. args.decat == turns off tracking categories.
+local function renderTrackingCategories()
+	if args.decat == 'yes' then return end
+	if args.child == 'yes' then
+		if args.title then
+			root:wikitext(
+				'[[Category:Pages using embedded gameHero templates with the title parameter]]'
+			)
+		end
+	elseif #(getArgNums('data')) == 0 and mw.title.getCurrentTitle().namespace == 0 then
+		root:wikitext('[[Category:Articles using gameHero templates with no data rows]]')
+	end
+end
+
+--[=[
+Loads the templatestyles for the gameHero.
+
+TODO: FINISH loading base templatestyles here rather than in
+MediaWiki:Common.css. There are 4-5000 pages with 'raw' gameHero tables.
+See [[Mediawiki_talk:Common.css/to_do#GameHero]] and/or come help :).
+When we do this we should clean up the inline CSS below too.
+Will have to do some bizarre conversion category like with sidebar.
+
+]=]
+local function loadTemplateStyles()
+	local frame = mw.getCurrentFrame()
+	
+	local hlist_templatestyles = ''
+	if lists.hlist_t.found then
+		hlist_templatestyles = frame:extensionTag{
+			name = 'templatestyles', args = { src = lists.hlist_t.styles }
+		}
+	end
+	
+	local plainlist_templatestyles = ''
+	if lists.plainlist_t.found then
+		plainlist_templatestyles = frame:extensionTag{
+			name = 'templatestyles', args = { src = lists.plainlist_t.styles }
+		}
+	end
+	
+	-- See function description
+	local base_templatestyles = frame:extensionTag{
+		name = 'templatestyles', args = { src = 'Module:GameHero/styles.css' }
+	}
+
+	local templatestyles = ''
+	if args['templatestyles'] then
+		templatestyles = frame:extensionTag{
+			name = 'templatestyles', args = { src = args['templatestyles'] }
+		}
+	end
+	
+	local child_templatestyles = ''
+	if args['child templatestyles'] then
+		child_templatestyles = frame:extensionTag{
+			name = 'templatestyles', args = { src = args['child templatestyles'] }
+		}
+	end
+	
+	local grandchild_templatestyles = ''
+	if args['grandchild templatestyles'] then
+		grandchild_templatestyles = frame:extensionTag{
+			name = 'templatestyles', args = { src = args['grandchild templatestyles'] }
+		}
+	end
+	
+	return table.concat({
+		-- hlist -&gt; plainlist -&gt; base is best-effort to preserve old Common.css ordering.
+		-- this ordering is not a guarantee because the rows of interest invoking
+		-- each class may not be on a specific page
+		hlist_templatestyles,
+		plainlist_templatestyles,
+		base_templatestyles,
+		templatestyles,
+		child_templatestyles,
+		grandchild_templatestyles
+	})
+end
+
+-- common functions between the child and non child cases
+local function structure_gameHero_common()
+	renderSubheaders()
+	renderImages()
+	preprocessRows()
+	renderRows()
+	renderBelowRow()
+	renderNavBar()
+	renderItalicTitle()
+	renderEmptyRowCategories()
+	renderTrackingCategories()
+	cleanGameHero()
+end
+
+-- Specify the overall layout of the gameHero, with special settings if the
+-- gameHero is used as a 'child' inside another gameHero.
+local function _gameHero()
+	if args.child ~= 'yes' then
+		root = mw.html.create('table')
+
+		root
+			:addClass(args.subbox == 'yes' and 'gameHero-subbox' or 'gameHero')
+			:addClass(args.bodyclass)
+			-- @deprecated next; target .gameHero-&lt;name&gt;
+			:cssText(args.bodystyle)
+		
+		has_list_class({ args.bodyclass })
+
+		renderTitle()
+		renderAboveRow()
+	else
+		root = mw.html.create()
+
+		root
+			:wikitext(args.title)
+	end
+	structure_gameHero_common()
+	
+	return loadTemplateStyles() .. root
+end
+
+-- If the argument exists and isn't blank, add it to the argument table.
+-- Blank arguments are treated as nil to match the behaviour of ParserFunctions.
+local function preprocessSingleArg(argName)
+	if origArgs[argName] and origArgs[argName] ~= '' then
+		args[argName] = origArgs[argName]
+	end
+end
+
+-- Assign the parameters with the given prefixes to the args table, in order, in
+-- batches of the step size specified. This is to prevent references etc. from
+-- appearing in the wrong order. The prefixTable should be an array containing
+-- tables, each of which has two possible fields, a "prefix" string and a
+-- "depend" table. The function always parses parameters containing the "prefix"
+-- string, but only parses parameters in the "depend" table if the prefix
+-- parameter is present and non-blank.
+local function preprocessArgs(prefixTable, step)
+	if type(prefixTable) ~= 'table' then
+		error("Non-table value detected for the prefix table", 2)
+	end
+	if type(step) ~= 'number' then
+		error("Invalid step value detected", 2)
+	end
+
+	-- Get arguments without a number suffix, and check for bad input.
+	for i,v in ipairs(prefixTable) do
+		if type(v) ~= 'table' or type(v.prefix) ~= "string" or
+			(v.depend and type(v.depend) ~= 'table') then
+			error('Invalid input detected to preprocessArgs prefix table', 2)
+		end
+		preprocessSingleArg(v.prefix)
+		-- Only parse the depend parameter if the prefix parameter is present
+		-- and not blank.
+		if args[v.prefix] and v.depend then
+			for j, dependValue in ipairs(v.depend) do
+				if type(dependValue) ~= 'string' then
+					error('Invalid "depend" parameter value detected in preprocessArgs')
+				end
+				preprocessSingleArg(dependValue)
+			end
+		end
+	end
+
+	-- Get arguments with number suffixes.
+	local a = 1 -- Counter variable.
+	local moreArgumentsExist = true
+	while moreArgumentsExist == true do
+		moreArgumentsExist = false
+		for i = a, a + step - 1 do
+			for j,v in ipairs(prefixTable) do
+				local prefixArgName = v.prefix .. tostring(i)
+				if origArgs[prefixArgName] then
+					-- Do another loop if any arguments are found, even blank ones.
+					moreArgumentsExist = true
+					preprocessSingleArg(prefixArgName)
+				end
+				-- Process the depend table if the prefix argument is present
+				-- and not blank, or we are processing "prefix1" and "prefix" is
+				-- present and not blank, and if the depend table is present.
+				if v.depend and (args[prefixArgName] or (i == 1 and args[v.prefix])) then
+					for j,dependValue in ipairs(v.depend) do
+						local dependArgName = dependValue .. tostring(i)
+						preprocessSingleArg(dependArgName)
+					end
+				end
+			end
+		end
+		a = a + step
+	end
+end
+
+-- Parse the data parameters in the same order that the old {{gameHero}} did, so
+-- that references etc. will display in the expected places. Parameters that
+-- depend on another parameter are only processed if that parameter is present,
+-- to avoid phantom references appearing in article reference lists.
+local function parseDataParameters()
+
+	preprocessSingleArg('autoheaders')
+	preprocessSingleArg('child')
+	preprocessSingleArg('bodyclass')
+	preprocessSingleArg('subbox')
+	preprocessSingleArg('bodystyle')
+	preprocessSingleArg('title')
+	preprocessSingleArg('titleclass')
+	preprocessSingleArg('titlestyle')
+	preprocessSingleArg('above')
+	preprocessSingleArg('aboveclass')
+	preprocessSingleArg('abovestyle')
+	preprocessArgs({
+		{prefix = 'subheader', depend = {'subheaderstyle', 'subheaderrowclass'}}
+	}, 10)
+	preprocessSingleArg('subheaderstyle')
+	preprocessSingleArg('subheaderclass')
+	preprocessArgs({
+		{prefix = 'image', depend = {'caption', 'imagerowclass'}}
+	}, 10)
+	preprocessSingleArg('captionstyle')
+	preprocessSingleArg('imagestyle')
+	preprocessSingleArg('imageclass')
+	preprocessArgs({
+		{prefix = 'header'},
+		{prefix = 'data', depend = {'label'}},
+		{prefix = 'rowclass'},
+		{prefix = 'rowstyle'},
+		{prefix = 'rowcellstyle'},
+		{prefix = 'class'}
+	}, 50)
+	preprocessSingleArg('headerclass')
+	preprocessSingleArg('headerstyle')
+	preprocessSingleArg('labelstyle')
+	preprocessSingleArg('datastyle')
+	preprocessSingleArg('below')
+	preprocessSingleArg('belowclass')
+	preprocessSingleArg('belowstyle')
+	preprocessSingleArg('name')
+	-- different behaviour for italics if blank or absent
+	args['italic title'] = origArgs['italic title']
+	preprocessSingleArg('decat')
+	preprocessSingleArg('templatestyles')
+	preprocessSingleArg('child templatestyles')
+	preprocessSingleArg('grandchild templatestyles')
+end
+
+-- If called via #invoke, use the args passed into the invoking template.
+-- Otherwise, for testing purposes, assume args are being passed directly in.
+function p.gameHero(frame)
+	if frame == mw.getCurrentFrame() then
+		origArgs = frame:getParent().args
+	else
+		origArgs = frame
+	end
+	
+	parseDataParameters()
+	
+	return _gameHero()
+end
+
+-- For calling via #invoke within a template
+function p.gameHeroTemplate(frame)
+	origArgs = {}
+	for k,v in pairs(frame.args) do origArgs[k] = mw.text.trim(v) end
+	
+	parseDataParameters()
+	
+	return _gameHero()
+end
+return p</text>
+      <sha1>i0esatpv2yrp9wy827wpeuawqrtr4c9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:GameHero/styles.css</title>
+    <ns>10</ns>
+    <id>424743</id>
+    <revision>
+      <id>429414</id>
+      <parentid>429398</parentid>
+      <timestamp>2025-12-28T02:46:20Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>429414</origin>
+      <model>sanitized-css</model>
+      <format>text/css</format>
+      <text bytes="1757" sha1="ptg92yeqgi8az1k2fhu8zrlf35rugh0" xml:space="preserve">/* Hero Section */
+.game-hero {
+  position: relative;
+  background-color: #1a1a2e;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-bottom: 0;
+  padding: 3rem 0;
+  min-height: 400px;
+}
+
+.game-hero__container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.game-hero__cover {
+  flex-shrink: 0;
+  width: 200px;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.game-hero__cover .game-image-viewer {
+  border-radius: 4px;
+}
+
+.game-hero__cover .game-image-container {
+  border-radius: 4px;
+}
+
+.game-hero__cover-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.game-hero__info {
+  flex: 1;
+  color: #ffffff;
+  padding-top: 0.5rem;
+}
+
+.game-hero__title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 0 0 0.75rem 0;
+  color: #ffffff;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
+  line-height: 1.2;
+}
+
+.game-hero__metadata {
+  margin-bottom: 0.75rem;
+  font-size: 0.95rem;
+  color: #d0d0d0;
+}
+
+.game-hero__meta-item {
+  color: #d0d0d0;
+}
+
+.game-hero__meta-link {
+  color: #4c9ed9;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.game-hero__meta-link:hover {
+  color: #6bb4e6;
+  text-decoration: underline;
+}
+
+.game-hero__meta-separator {
+  margin: 0 0.5rem;
+  color: #666;
+}
+
+.game-hero__platforms {
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+}
+
+.game-hero__platform-link {
+  color: #4c9ed9;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.game-hero__platform-link:hover {
+  color: #6bb4e6;
+  text-decoration: underline;
+}
+
+.game-hero__more-platforms {
+  color: #999;
+  font-style: italic;
+}
+
+.game-hero__description {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #e8e8e8;
+  margin: 0;
+  max-width: 800px;
+}</text>
+      <sha1>ptg92yeqgi8az1k2fhu8zrlf35rugh0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Module:GameHero/styles.css</title>
+    <ns>828</ns>
+    <id>424742</id>
+    <revision>
+      <id>429397</id>
+      <timestamp>2025-12-27T18:55:07Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with ".gameHero-subbox { 	padding: 0; 	border: none; 	margin: -3px; 	width: auto; 	min-width: 100%; 	font-size: 100%; 	clear: none; 	float: none; 	background-color: transparent; }  .gameHero-3cols-child { 	margin: auto; }  .gameHero .navbar { 	font-size: 100%; }  /* Dark theme: [[William_Wragg]], [[Coral_Castle]] */  @media screen {     html.skin-theme-clientpref-night .gameHero-full-data:not(.notheme) &gt; div:not(.notheme)[style] { 	    background: #1f1f23 !important; 	      /*..."</comment>
+      <origin>429397</origin>
+      <model>sanitized-css</model>
+      <format>text/css</format>
+      <text bytes="1688" sha1="g10ge041jbn2dfh6fodskhrzh3j4wwo" xml:space="preserve">.gameHero-subbox {
+	padding: 0;
+	border: none;
+	margin: -3px;
+	width: auto;
+	min-width: 100%;
+	font-size: 100%;
+	clear: none;
+	float: none;
+	background-color: transparent;
+}
+
+.gameHero-3cols-child {
+	margin: auto;
+}
+
+.gameHero .navbar {
+	font-size: 100%;
+}
+
+/* Dark theme: [[William_Wragg]], [[Coral_Castle]] */
+
+@media screen {
+    html.skin-theme-clientpref-night .gameHero-full-data:not(.notheme) &gt; div:not(.notheme)[style] {
+	    background: #1f1f23 !important;
+	      /* switch with var( --color-base ) when supported. */
+	      color: #f8f9fa;
+	}
+}
+
+
+@media screen and ( prefers-color-scheme: dark) {
+    html.skin-theme-clientpref-os .gameHero-full-data:not(.notheme) &gt; div:not(.notheme)[style] {
+      background: #1f1f23 !important;
+      /* switch with var( --color-base ) when supported. */
+      color: #f8f9fa;
+    }
+}
+
+
+/* Since gameHero is a table, many gameHero templates take advantage of this to
+ * add columns and rows to the gameHero itself rather than as part of a new table
+ * inside them. This class should be discouraged and removed on the long term,
+ * but allows us to at least identify these tables going forward
+ * Currently in use on: [[Module:GameHero3cols]]
+ * Fixes issue described in [[phab:F55300125]] on Vector 2022.
+*/
+@media (min-width: 640px) {
+  body.skin--responsive .gameHero-table {
+    display: table !important;
+  }
+  body.skin--responsive .gameHero-table &gt; caption {
+    display: table-caption !important;
+  }
+  body.skin--responsive .gameHero-table &gt; tbody {
+    display: table-row-group;
+  }
+  body.skin--responsive .gameHero-table th,
+  body.skin--responsive .gameHero-table td {
+    padding-left: inherit;
+    padding-right: inherit;
+  }
+}</text>
+      <sha1>g10ge041jbn2dfh6fodskhrzh3j4wwo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:GameHero</title>
+    <ns>10</ns>
+    <id>424741</id>
+    <revision>
+      <id>429423</id>
+      <parentid>429421</parentid>
+      <timestamp>2025-12-28T03:17:31Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>429423</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1425" sha1="q530g565amjvvj2msxyi8isweb0mnrf" xml:space="preserve">{{#invoke:gameHero|gameHeroTemplate
+&lt;!-- Start and Styling --&gt;
+| templatestyles = GameHero/styles.css
+| italic title   = {{{italic title|&lt;noinclude&gt;no&lt;/noinclude&gt;}}}
+}}
+&lt;div class="game-hero" style="background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)){{{backgroundImage}}}, url('{{{backgroundImage}}}'){{{/backgroundImage}}}{{{^backgroundImage}}{{{#image}}}, url('{{{image}}}'){{{/image}}}{{{/backgroundImage}}};"&gt;
+	&lt;div class="game-hero__container"&gt;
+		&lt;!-- Game Cover Image --&gt;
+		&lt;div class="game-hero__cover"&gt;
+			&lt;div
+				data-vue-component="GameImageViewer"
+				data-image-url="{{{image}}}"
+				data-alt-text="{{{name}}} cover"&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;!-- Game Info --&gt;
+		&lt;div class="game-hero__info"&gt;
+			&lt;h1 class="game-hero__title"&gt;{{{name}}}&lt;/h1&gt;
+
+			&lt;!-- Metadata Line --&gt;
+			&lt;div class="game-hero__metadata"&gt;
+				&lt;span class="game-hero__meta-item"&gt;
+					Game consists of &lt;a href="{{{url}}/Releases" class="game-hero__meta-link"&gt;{{{releasesCount}}} release{{{^releasesCount.1}}s{{{/releasesCount.1}}}&lt;/a&gt;
+				&lt;/span&gt;
+
+				&lt;span class="game-hero__meta-separator"&gt;|&lt;/span&gt;
+				&lt;span class="game-hero__meta-item"&gt;Released in {{{release date}}}&lt;/span&gt;
+
+			&lt;/div&gt;
+
+			&lt;!-- Platforms --&gt;
+
+			&lt;div class="game-hero__platforms"&gt;
+
+				{{{platforms}}}
+
+			&lt;/div&gt;
+
+			&lt;!-- Game Description --&gt;
+
+			&lt;p class="game-hero__description"&gt;{{{deck}}}&lt;/p&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;noinclude&gt;
+{{documentation}}
+&lt;/noinclude&gt;</text>
+      <sha1>q530g565amjvvj2msxyi8isweb0mnrf</sha1>
+    </revision>
+  </page>
+</mediawiki>
