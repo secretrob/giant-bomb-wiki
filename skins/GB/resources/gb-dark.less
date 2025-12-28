@@ -13,7 +13,6 @@ body {
   background: linear-gradient(90deg, #ae1818 0%, #9b1616 100%);
 }
 
-.firstHeading,
 .mw-headline,
 .mw-portlet h3 {
   color: #fff;
@@ -33,12 +32,6 @@ body {
   margin: 0 auto;
   padding: 0 2rem;
   background-color: transparent;
-}
-
-#mw-main {
-  display: flex;
-  flex-direction: column;
-  gap: 2rem;
 }
 
 #mw-navigation {
@@ -129,9 +122,9 @@ body {
 
 /* Wiki Content Styles - unified container */
 .mw-body-content {
-  background: #202020;
-  border-radius: 4px;
-  padding: 1.5rem;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
 }
 
 /* MediaWiki generates h2 tags for == sections == */
