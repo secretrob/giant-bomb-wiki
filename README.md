@@ -125,6 +125,8 @@ docker compose -f docker-compose.snapshot.yml down -v
   - `$wgDefaultSkin = "giantbomb";`
 - Make sure your editor of choice is setup with [Prettier](https://prettier.io/docs/install) as a default formatter. We're relying on Prettier to enforce our [`.editorconfig`](https://editorconfig.org/) rules.
 
+For the mediawiki base GB skin to install the template updates go to (http://localhost:8080/wiki/Special:Import) and import the xml data/game_templates.xml
+
 ### Building Vue Components
 
 #### Javascript Resource Module
