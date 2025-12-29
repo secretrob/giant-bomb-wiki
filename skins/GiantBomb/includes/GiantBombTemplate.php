@@ -31,126 +31,7 @@ class GiantBombTemplate extends BaseTemplate {
             return;
         }
         
-        // Check if we're on the main page
-        $isMainPage = $this->getSkin()->getTitle()->isMainPage();
-
-        // Check if we're on a game page (in Games/ namespace but not a sub-page)
-        $title = $this->getSkin()->getTitle();
-        $pageTitle = $title->getText();
-        $isGamePage = strpos($pageTitle, 'Games/') === 0 &&
-                      substr_count($pageTitle, '/') === 1;
-        $isPlatformPage = strpos($pageTitle, 'Platforms/') === 0 &&
-                          substr_count($pageTitle, '/') === 1;
-        $isCharacterPage = strpos($pageTitle, 'Characters/') === 0 &&
-                           substr_count($pageTitle, '/') === 1;
-        $isConceptPage = strpos($pageTitle, 'Concepts/') === 0 &&
-                         substr_count($pageTitle, '/') === 1;
-        $isCompanyPage = strpos($pageTitle, 'Companies/') === 0 &&
-                         substr_count($pageTitle, '/') === 1;
-        $isFranchisePage = strpos($pageTitle, 'Franchises/') === 0 &&
-                           substr_count($pageTitle, '/') === 1;
-        $isPersonPage = strpos($pageTitle, 'People/') === 0 &&
-                        substr_count($pageTitle, '/') === 1;
-        $isObjectPage = strpos($pageTitle, 'Objects/') === 0 &&
-                        substr_count($pageTitle, '/') === 1;
-        $isLocationPage = strpos($pageTitle, 'Locations/') === 0 &&
-                          substr_count($pageTitle, '/') === 1;
-        $isAccessoryPage = strpos($pageTitle, 'Accessories/') === 0 &&
-                           substr_count($pageTitle, '/') === 1;
-        $isNewReleasesPage = $pageTitle === 'New Releases' || $pageTitle === 'New Releases/';
-        $isPlatformsPage = $pageTitle === 'Platforms' || $pageTitle === 'Platforms/';
-        $isConceptsPage = $pageTitle === 'Concepts' || $pageTitle === 'Concepts/';
-        $isPeoplePage = $pageTitle === 'People' || $pageTitle === 'People/';
-        error_log("Current page title: " . $pageTitle);
-        
-
-        if ($isMainPage) {
-            // Show landing page for main page
-?>
-        <!--
-
-        Commenting this out but leaving it in for now as an
-        Example for using Vue Components in our current setup
-
-        <div
-             data-vue-component="VueExampleComponent"
-             data-label="An example vue component with props">
-        </div>
-        <div
-             data-vue-component="VueSingleFileComponentExample"
-             data-title="My First SFC">
-        </div> -->
-        <?php include __DIR__ . '/views/landing-page.php'; ?>
-<?php
-        } elseif ($isGamePage) {
-            // Show custom game page for game pages
-?>
-        <?php include __DIR__ . '/views/game-page.php'; ?>
-<?php
-        } elseif ($isPlatformPage) {
-            // Show custom platform page for platform pages
-?>
-        <?php include __DIR__ . '/views/platform-page.php'; ?>
-<?php
-        } elseif ($isCharacterPage) {
-            // Show custom character page for character pages
-?>
-        <?php include __DIR__ . '/views/character-page.php'; ?>
-<?php
-        } elseif ($isConceptPage) {
-            // Show custom concept page for concept pages
-?>
-        <?php include __DIR__ . '/views/concept-page.php'; ?>
-<?php
-        } elseif ($isCompanyPage) {
-            // Show custom company page
-?>
-        <?php include __DIR__ . '/views/company-page.php'; ?>
-<?php
-        } elseif ($isFranchisePage) {
-            // Show custom franchise page
-?>
-        <?php include __DIR__ . '/views/franchise-page.php'; ?>
-<?php
-        } elseif ($isPersonPage) {
-?>
-        <?php include __DIR__ . '/views/person-page.php'; ?>
-<?php
-        } elseif ($isObjectPage) {
-?>
-        <?php include __DIR__ . '/views/object-page.php'; ?>
-<?php
-        } elseif ($isLocationPage) {
-?>
-        <?php include __DIR__ . '/views/location-page.php'; ?>
-<?php
-        } elseif ($isAccessoryPage) {
-?>
-        <?php include __DIR__ . '/views/accessory-page.php'; ?>
-<?php
-        } elseif ($isNewReleasesPage) {
-            // Show new releases page
-?>
-        <?php include __DIR__ . '/views/new-releases-page.php'; ?>
-<?php
-        } elseif ($isPlatformsPage) {
-            // Show platforms page
-?>
-        <?php include __DIR__ . '/views/platforms-page.php'; ?>
-<?php
-        } elseif ($isConceptsPage) {
-            // Show concepts page
-?>
-        <?php include __DIR__ . '/views/concepts-page.php'; ?>
-<?php
-        } elseif ($isPeoplePage) {
-            // Show people page
-?>
-        <?php include __DIR__ . '/views/peoples-page.php'; ?>
-<?php
-        } else {
-            // Show normal wiki content for other pages
-?>
+        ?>
         <div id="content" class="mw-body" role="main">
             <a id="top"></a>
             <div id="siteNotice"><?php $this->html( 'sitenotice' ) ?></div>
@@ -175,6 +56,6 @@ class GiantBombTemplate extends BaseTemplate {
             </div>
         </div>
 <?php
-        }
+        
     }
 }

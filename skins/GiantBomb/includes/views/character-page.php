@@ -3,9 +3,13 @@
 use GiantBomb\Skin\Helpers\PageHelper;
 use MediaWiki\MediaWikiServices;
 
+use MediaWiki\Context\RequestContext;
+$context = RequestContext::getMain();
+$skin = $context->getSkin();
+
 require_once __DIR__ . '/../helpers/PageHelper.php';
 
-$title = $this->getSkin()->getTitle();
+$title = $skin->getTitle();
 $pageTitle = $title->getText();
 $pageTitleDB = $title->getDBkey();
 
@@ -120,7 +124,7 @@ if ( $metaDescription === '' && $characterData['name'] !== '' ) {
 $metaImage = PageHelper::getMetaImage( $characterData['image'], $characterData['backgroundImage'] );
 $canonicalUrl = rtrim( PageHelper::PUBLIC_WIKI_HOST, '/' ) . $characterData['url'];
 
-$out = $this->getSkin()->getOutput();
+$out = $skin->getOutput();
 if ( $characterData['name'] !== '' ) {
 	$out->setPageTitle( $characterData['name'] );
 }

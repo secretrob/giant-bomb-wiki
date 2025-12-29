@@ -35,6 +35,7 @@ services:
       # Extensions
       - ./extensions/AlgoliaSearch:/var/www/html/extensions/AlgoliaSearch:cached
       - ./extensions/GiantBombResolve:/var/www/html/extensions/GiantBombResolve:cached
+      - ./extensions/GiantBombRouter:/var/www/html/extensions/GiantBombRouter:cached
       #These lines cause these skins not to be mounted to volume
       - /var/www/html/skins/Vector
       - ./config:/config

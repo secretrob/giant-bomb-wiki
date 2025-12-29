@@ -3,7 +3,11 @@
 use GiantBomb\Skin\Helpers\PageHelper;
 use MediaWiki\MediaWikiServices;
 
-$title = $this->getSkin()->getTitle();
+use MediaWiki\Context\RequestContext;
+$context = RequestContext::getMain();
+$skin = $context->getSkin();
+
+$title = $skin->getTitle();
 $pageTitle = $title->getText();
 $pageTitleDB = $title->getDBkey();
 
@@ -98,7 +102,7 @@ if ( !empty( $platformData['manufacturers'] ) ) {
 $platformData['stats'] = $stats;
 $platformData['hasStats'] = !empty( $stats );
 
-$out = $this->getSkin()->getOutput();
+$out = $skin->getOutput();
 $metaTitle = $platformData['name'] !== ''
 	? $platformData['name'] . ' platform - Giant Bomb Wiki'
 	: 'Giant Bomb Wiki';
