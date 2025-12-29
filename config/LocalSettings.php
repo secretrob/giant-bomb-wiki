@@ -306,7 +306,6 @@ wfLoadExtension( 'DisplayTitle' );
 wfLoadExtension( 'PageForms' );
 wfLoadExtension( 'GiantBombResolve' );
 wfLoadExtension( 'AlgoliaSearch' );
-wfLoadExtension( 'GiantBombRouter' );
 
 $wgGiantBombResolveFields = [
 	'displaytitle',

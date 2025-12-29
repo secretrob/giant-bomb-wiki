@@ -1,4 +1,9 @@
 <?php
+
+use MediaWiki\MediaWikiServices;
+use MediaWiki\Context\RequestContext;
+use MediaWiki\Title\Title;
+
 class GiantBombTemplate extends BaseTemplate {
     public function execute() {
         // Handle API requests first
@@ -29,6 +34,66 @@ class GiantBombTemplate extends BaseTemplate {
         if ($action === 'get-people') {
             require_once __DIR__ . '/api/peoples-api.php';
             return;
+        }
+
+        $context = RequestContext::getMain();
+        $action = $context->getRequest()->getVal( 'action', 'view' );
+
+        $config = MediaWikiServices::getInstance()->getMainConfig();
+        $baseStylePath = $config->get('StyleDirectory');
+        $skinName = 'GiantBomb';
+        $skinPath = $baseStylePath . '/' . $skinName;        
+
+        $title = $this->getSkin()->getTitle();
+        $categories = $title->getParentCategories();
+
+        $isNewPage = false;
+        $newPage = Title::newFromText( $title->getText() );
+        if ( $newPage && $newPage->exists() ) {
+            $isNewPage=false;
+        }
+        else {
+            $isNewPage=true;
+        }
+        
+        $routeName = $title;
+        foreach ( $categories as $categoryName => $sortKey ) {
+            $catTitle = Title::newFromText( $categoryName );
+            
+            $catTitle->getText();
+            
+            if( strpos($title, $catTitle->getText() . '/') === 0 && substr_count($title, '/') === 1 )
+                $routeName = $catTitle->getText();
+        }
+
+        if( $action && $action !== 'view' )
+            $routeName = $action;
+        if( $isNewPage )
+            $routeName = 'edit';
+
+        switch( $routeName ) {
+            case 'Main Page':
+                include $skinPath . '/includes/views/landing-page.php'; return;
+            case 'Games':
+                include $skinPath . '/includes/views/game-page.php'; return;
+            case 'Platforms':
+                include $skinPath . '/includes/views/platform-page.php'; return;
+            case 'Characters':
+                include $skinPath . '/includes/views/character-page.php'; return;
+            case 'Concepts':
+                include $skinPath . '/includes/views/concept-page.php'; return;
+            case 'Companies':
+                include $skinPath . '/includes/views/company-page.php'; return;
+            case 'Franchises':
+                include $skinPath . '/includes/views/franchise-page.php'; return;
+            case 'People':
+                include $skinPath . '/includes/views/person-page.php'; return;
+            case 'Objects':
+                include $skinPath . '/includes/views/object-page.php'; return;
+            case 'Locations':
+                include $skinPath . '/includes/views/location-page.php'; return;
+            case 'Accessories':
+                include $skinPath . '/includes/views/accessory-page.php'; return;
         }
         
         ?>

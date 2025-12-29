@@ -3,11 +3,7 @@
 use GiantBomb\Skin\Helpers\PageHelper;
 use MediaWiki\MediaWikiServices;
 
-use MediaWiki\Context\RequestContext;
-$context = RequestContext::getMain();
-$skin = $context->getSkin();
-
-$title = $skin->getTitle();
+$title = $this->getSkin()->getTitle();
 $pageTitle = $title->getText();
 $pageTitleDB = $title->getDBkey();
 
@@ -210,7 +206,7 @@ $vueData = [
 static $gameMetaApplied = false;
 if ( !$gameMetaApplied ) {
 	$gameMetaApplied = true;
-	$out = $skin->getOutput();
+	$out = $this->getSkin()->getOutput();
 	$metaTitle = $gameData['name'] !== '' ? $gameData['name'] . ' - Giant Bomb Wiki' : 'Giant Bomb Wiki';
 	$metaDescription = PageHelper::sanitizeMetaText( $gameData['deck'] ?? '' );
 	if ( $metaDescription === '' ) {
