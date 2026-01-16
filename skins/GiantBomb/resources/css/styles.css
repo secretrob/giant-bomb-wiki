@@ -21,7 +21,7 @@ a:visited {
 }
 
 .wikitable {
-  background-color: var(--background-color-neutral-subtle, #9198a1);
+  /* background-color: var(--background-color-neutral-subtle, #9198a1); */
   color: var(--color-base, #202122);
   margin: 1em 0;
   border: 1px solid var(--border-color-base, #9198a1);
@@ -301,4 +301,19 @@ a:visited {
 .smwtable td ul,
 .smwtable td ol {
   margin: 0.3em 0 0 1.6em;
+}
+
+/* Remove the arrow icon and blue color from card links */
+.listing-card-link.external {
+  background: none !important;
+  padding-right: 0 !important;
+  color: inherit !important;
+}
+
+/* Ensure no leading spaces trigger pre tags */
+.listing-grid pre {
+  display: contents;
+  border: none;
+  padding: 0;
+  background: none;
 }

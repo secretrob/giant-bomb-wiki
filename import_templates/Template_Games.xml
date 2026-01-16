@@ -1,0 +1,136 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>gb</sitename>
+    <dbname>gb_wiki</dbname>
+    <base>http://localhost:8080/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.5</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Games</title>
+    <ns>0</ns>
+    <id>676</id>
+    <revision>
+      <id>429505</id>
+      <parentid>429504</parentid>
+      <timestamp>2026-01-16T02:00:28Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>429505</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="4b3setcz5fptwu01uy0uv8vqqqph704" xml:space="preserve">{{Special:RunQuery/GameSearch}}</text>
+      <sha1>4b3setcz5fptwu01uy0uv8vqqqph704</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:GameQuery</title>
+    <ns>10</ns>
+    <id>424754</id>
+    <revision>
+      <id>429557</id>
+      <parentid>429554</parentid>
+      <timestamp>2026-01-16T03:40:45Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>429557</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="298" sha1="arzm10rejxzkmwi4c39ls2f898xthtg" xml:space="preserve">&lt;includeonly&gt;
+__NOTOC__
+&lt;div class="listing-grid"&gt;
+{{#ask: 
+ [[Category:Games]]
+ {{#if: {{{chosen_platform|}}} | [[Has platforms::{{{chosen_platform}}}]] }}
+ |?Has platforms
+ |?Has release date
+ |?Has deck
+ |format=template
+ |template=GameCard
+ |link=none
+ |sep=
+ |limit=50
+}}
+&lt;/div&gt;
+&lt;/includeonly&gt;</text>
+      <sha1>arzm10rejxzkmwi4c39ls2f898xthtg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:GameCard</title>
+    <ns>10</ns>
+    <id>424755</id>
+    <revision>
+      <id>429568</id>
+      <parentid>429567</parentid>
+      <timestamp>2026-01-16T03:59:52Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>429568</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="917" sha1="burms9hu3xx2ofq8es8fllacym486d5" xml:space="preserve">&lt;div class="listing-card"&gt;
+    &lt;div class="listing-card-link clickable-box" data-url="{{fullurl:{{{1}}}}}"&gt;
+		&lt;div class="listing-card-image"&gt;
+		    {{#if: {{#show: {{{1}}} |?Has image#-}} | 
+				
+			        {{#replace:
+				        {{#replace:
+				            {{#replace:
+				                {{#replace:
+				                    {{#replace:{{#show: {{{1}}} |?Has image#-}}|_|PROTECT_UNDERSCORE}}
+				                | |%20}}
+				            |PROTECT_UNDERSCORE|_}}
+				        |original|screen_kubrick}}
+			        |Http|http}}			    
+
+		    | &lt;div class="no-image"&gt;No Image Available&lt;/div&gt; }}
+		&lt;/div&gt;
+        &lt;div class="listing-card-info"&gt;
+            &lt;h3 class="listing-card-title"&gt;{{{1}}}&lt;/h3&gt;
+            &lt;div class="listing-card-meta"&gt;{{{3|Unknown Release}}}&lt;/div&gt;
+            &lt;div class="listing-card-deck"&gt;{{{4|}}}&lt;/div&gt;
+            &lt;div class="platform-badges"&gt;{{{2|}}}&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</text>
+      <sha1>burms9hu3xx2ofq8es8fllacym486d5</sha1>
+    </revision>
+  </page>
+</mediawiki>

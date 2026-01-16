@@ -8,6 +8,7 @@
  *   php maintenance/run.php import_templates/import_all_templates.php
  *   php maintenance/run.php import_templates/import_all_templates.php --type=game
  *   php maintenance/run.php import_templates/import_all_templates.php --type=character
+ *   php maintenance/run.php import_templates/import_all_templates.php --type=roots
  */
 
 require_once __DIR__ . '/../maintenance/Maintenance.php';
@@ -43,6 +44,11 @@ class ImportWikiTemplates extends Maintenance {
             'Template:CharacterEnd' => "$templateDir/Template_CharacterEnd.wikitext",
             'Template:CharacterSidebar' => "$templateDir/Template_CharacterSidebar.wikitext",
         ];
+
+        //Root page templates (Games / Platforms / Etc)
+        $rootTemplates = [
+            'Template:Games' => "$templateDir/Template_Games.wikitext",
+        ];
         
         // Build template list based on type
         $templates = [];
@@ -54,6 +60,9 @@ class ImportWikiTemplates extends Maintenance {
         }
         if ( $type === 'all' || $type === 'character' ) {
             $templates = array_merge( $templates, $characterTemplates );
+        }
+        if ( $type === 'all' || $type === 'roots' ) {
+            $templates = array_merge( $templates, $rootTemplates );
         }
 
         $services = \MediaWiki\MediaWikiServices::getInstance();
