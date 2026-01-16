@@ -56,81 +56,358 @@
     </revision>
   </page>
   <page>
-    <title>Template:GameQuery</title>
-    <ns>10</ns>
-    <id>424754</id>
-    <revision>
-      <id>429557</id>
-      <parentid>429554</parentid>
-      <timestamp>2026-01-16T03:40:45Z</timestamp>
-      <contributor>
-        <username>Giantbomb</username>
-        <id>1</id>
-      </contributor>
-      <origin>429557</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="298" sha1="arzm10rejxzkmwi4c39ls2f898xthtg" xml:space="preserve">&lt;includeonly&gt;
-__NOTOC__
-&lt;div class="listing-grid"&gt;
-{{#ask: 
- [[Category:Games]]
- {{#if: {{{chosen_platform|}}} | [[Has platforms::{{{chosen_platform}}}]] }}
- |?Has platforms
- |?Has release date
- |?Has deck
- |format=template
- |template=GameCard
- |link=none
- |sep=
- |limit=50
-}}
-&lt;/div&gt;
-&lt;/includeonly&gt;</text>
-      <sha1>arzm10rejxzkmwi4c39ls2f898xthtg</sha1>
-    </revision>
-  </page>
-  <page>
     <title>Template:GameCard</title>
     <ns>10</ns>
     <id>424755</id>
     <revision>
-      <id>429568</id>
-      <parentid>429567</parentid>
-      <timestamp>2026-01-16T03:59:52Z</timestamp>
+      <id>429632</id>
+      <parentid>429598</parentid>
+      <timestamp>2026-01-16T06:33:13Z</timestamp>
       <contributor>
         <username>Giantbomb</username>
         <id>1</id>
       </contributor>
-      <origin>429568</origin>
+      <origin>429632</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="917" sha1="burms9hu3xx2ofq8es8fllacym486d5" xml:space="preserve">&lt;div class="listing-card"&gt;
+      <text bytes="658" sha1="qob7tdrr821par9695sdvsxd90olipe" xml:space="preserve">&lt;div class="listing-card"&gt;
     &lt;div class="listing-card-link clickable-box" data-url="{{fullurl:{{{1}}}}}"&gt;
 		&lt;div class="listing-card-image"&gt;
-		    {{#if: {{#show: {{{1}}} |?Has image#-}} | 
-				
-			        {{#replace:
-				        {{#replace:
-				            {{#replace:
-				                {{#replace:
-				                    {{#replace:{{#show: {{{1}}} |?Has image#-}}|_|PROTECT_UNDERSCORE}}
-				                | |%20}}
-				            |PROTECT_UNDERSCORE|_}}
-				        |original|screen_kubrick}}
-			        |Http|http}}			    
-
-		    | &lt;div class="no-image"&gt;No Image Available&lt;/div&gt; }}
-		&lt;/div&gt;
+            {{#if: {{{6|}}} | 
+                {{{6}}}
+                | 
+                &lt;div class="no-image"&gt;No Image Available&lt;/div&gt; 
+            }}
+        &lt;/div&gt;
         &lt;div class="listing-card-info"&gt;
-            &lt;h3 class="listing-card-title"&gt;{{{1}}}&lt;/h3&gt;
-            &lt;div class="listing-card-meta"&gt;{{{3|Unknown Release}}}&lt;/div&gt;
-            &lt;div class="listing-card-deck"&gt;{{{4|}}}&lt;/div&gt;
-            &lt;div class="platform-badges"&gt;{{{2|}}}&lt;/div&gt;
+            &lt;h3 class="listing-card-title"&gt;{{{2}}}&lt;/h3&gt;
+            &lt;div class="listing-card-meta"&gt;{{{4|Unknown Release}}}&lt;/div&gt;
+            &lt;div class="listing-card-deck"&gt;{{{5|}}}&lt;/div&gt;
+			&lt;div class="platform-badges"&gt;
+			    {{#invoke:BadgeList|format|{{{3|}}}}}
+			&lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;</text>
-      <sha1>burms9hu3xx2ofq8es8fllacym486d5</sha1>
+      <sha1>qob7tdrr821par9695sdvsxd90olipe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:GameQuery</title>
+    <ns>10</ns>
+    <id>424754</id>
+    <revision>
+      <id>429629</id>
+      <parentid>429626</parentid>
+      <timestamp>2026-01-16T06:29:07Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>429629</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="679" sha1="e799v05t011hrn1c4zkhud21er8kg32" xml:space="preserve">__NOTOC__
+&lt;noinclude&gt;
+This is the main Games portal. Use the sidebar to filter results.
+&lt;/noinclude&gt;
+&lt;includeonly&gt;
+&lt;div class="listing-content"&gt;
+    &lt;div class="listing-sidebar"&gt;
+      &lt;div class="filter-container game-filter"&gt;
+          &lt;h3 class="filter-header"&gt;Filters&lt;/h3&gt;
+            {{#queryformlink:form=GameFilter
+              |link type=none
+              |query string parameters=chosen_platform={{{chosen_platform|All}}}&amp;offset=0
+            }}
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="listing-main"&gt;
+       {{#invoke:GameQuery|render
+            |chosen_platform={{{chosen_platform|All}}}
+            |offset={{{offset|0}}}
+        }}
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/includeonly&gt;</text>
+      <sha1>e799v05t011hrn1c4zkhud21er8kg32</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Form:GameFilter</title>
+    <ns>106</ns>
+    <id>424759</id>
+    <revision>
+      <id>429628</id>
+      <parentid>429627</parentid>
+      <timestamp>2026-01-16T06:29:05Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>429628</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="302" sha1="6v7zf2ayt37zrse6m2aeltdo5ekz963" xml:space="preserve">{{{info|query}}}
+&lt;div class="filter-group"&gt;
+    &lt;div class="filter-label"&gt;Platform&lt;/div&gt;
+    {{{field|chosen_platform|input type=dropdown|values from property=Has platforms|default=All}}}
+&lt;/div&gt;
+&lt;div class="filter-actions"&gt;
+    {{{standard input|run query|label=Filter Results|class=gb-button}}}
+&lt;/div&gt;</text>
+      <sha1>6v7zf2ayt37zrse6m2aeltdo5ekz963</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Module:GameQuery</title>
+    <ns>828</ns>
+    <id>424757</id>
+    <revision>
+      <id>429637</id>
+      <parentid>429636</parentid>
+      <timestamp>2026-01-16T06:41:35Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>429637</origin>
+      <model>Scribunto</model>
+      <format>text/plain</format>
+      <text bytes="4436" sha1="0g7m6n7xzmxasl59gwz32h5u2mwa0op" xml:space="preserve">local p = {}
+
+function p.render(frame)
+    local args = frame.args
+    local platform = args.chosen_platform or "All"
+    local offset = tonumber(args.offset) or 0
+    local limit = 50
+
+    -- 1. Construct the Query
+    local queryParts = { "[[Category:Games]]" }
+    if platform ~= "" and platform ~= "All" then
+        table.insert(queryParts, "[[Has platforms::" .. platform .. "]]")
+    end
+    local queryStr = table.concat(queryParts, " ")
+
+    -- 2. Execute Query (Using #nowiki for literal underscores)
+    local queryData = mw.smw.getQueryResult({
+        queryStr,
+        "?Has image#nowiki",
+        "?Has platforms",
+        "?Has release date",
+        "?Has deck",
+        limit = limit,
+        offset = offset
+    })
+
+    -- 3. Debugging / No Results
+    if not queryData or not queryData.results or #queryData.results == 0 then
+        return '&lt;div class="no-results"&gt;No games found for ' .. platform .. '&lt;/div&gt;'
+    end
+
+    local html = mw.html.create('div'):addClass('listing-grid')
+    
+    for _, result in ipairs(queryData.results) do
+  	    local fullTitle = result.fulltext or ""
+    	-- This pattern "^[Gg][Aa][Mm][Ee][Ss]/" matches "Games/" or "games/" at the start
+    	local cleanTitle = fullTitle:gsub("^[Gg][Aa][Mm][Ee][Ss]/", "")
+    	
+        -- Helper to extract strings from nested SMW tables
+        local function getSafe(field, isList)
+            local d = result.printouts[field] or {}
+            local vals = {}
+            for _, v in ipairs(d) do
+                -- Prioritize raw values for literal URLs
+                local str = type(v) == "table" and (v.raw or v.fulltext or "") or tostring(v)
+                table.insert(vals, str)
+            end
+            return isList and table.concat(vals, ", ") or (vals[1] or "")
+        end
+
+        -- 4. Process Image URL: Replace Http with http and encode spaces
+        local imageUrl = getSafe('Has image', false)
+        if imageUrl ~= "" then
+            -- Replace "Http" with "http" at the beginning of the string
+            imageUrl = imageUrl:gsub("^Http", "http")
+            -- Standardize protocol: Replace any mixed-case "Http://" with "http://"
+            imageUrl = imageUrl:gsub("^HTTPS?", string.lower)
+            -- Encode actual spaces but leave underscores untouched
+            imageUrl = imageUrl:gsub(" ", "%%20")
+        end
+		        
+		local rawDateData = result.printouts['Has release date']
+		local cleanDate = ""
+		
+		if rawDateData and #rawDateData &gt; 0 then
+		    -- SMW getQueryResult returns a table for each result
+		    -- For dates, val.raw contains a numeric timestamp or ISO string
+		    local val = rawDateData[1]
+		    local rawTimestamp = type(val) == "table" and (val.raw or val[1]) or tostring(val)
+		    
+		    -- rawTimestamp is usually formatted like "1/2007/03/10/00/00/00/0"
+		    -- We extract YYYY, MM, and DD
+		    local y, m, d = rawTimestamp:match("^1/(%d+)/(%d+)/(%d+)")
+		    
+		    if y and m and d then
+		        -- Format it into a readable string using MediaWiki's language object
+		        local timestamp = string.format("%04d-%02d-%02d", y, m, d)
+		        cleanDate = mw.language.getContentLanguage():formatDate("F j, Y", timestamp)
+		    else
+		        -- Fallback: Strip the "1/" and return YYYY-MM-DD
+		        cleanDate = rawTimestamp:gsub("^1/", ""):gsub("/", "-"):sub(1,10)
+		    end
+		end
+
+        html:wikitext(frame:expandTemplate{ 
+            title = 'GameCard', 
+            args = { 
+            	fullTitle,
+                cleanTitle,
+                getSafe('Has platforms', true),
+                cleanDate,
+                getSafe('Has deck', true),
+                imageUrl
+            } 
+        })
+    end
+
+    -- 5. Build Pagination (using queryData.count)
+    local totalResults = queryData.count or 0
+    local paginationHtml = ""
+    if totalResults &gt; limit then
+        local nav = mw.html.create('div'):addClass('gb-pagination')
+        local totalPages = math.ceil(totalResults / limit)
+        for i = 1, totalPages do
+            local pOffset = (i - 1) * limit
+            local pageLink = nav:tag('a')
+                :attr('href', mw.title.getCurrentTitle():getFullURL({ chosen_platform = platform, offset = pOffset }))
+                :wikitext(i)
+            if pOffset == offset then pageLink:addClass('current-page') end
+        end
+        paginationHtml = tostring(nav)
+    end
+
+    return tostring(html) .. paginationHtml
+end
+
+return p</text>
+      <sha1>0g7m6n7xzmxasl59gwz32h5u2mwa0op</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Module:GameFilters</title>
+    <ns>828</ns>
+    <id>424758</id>
+    <revision>
+      <id>429581</id>
+      <parentid>429579</parentid>
+      <timestamp>2026-01-16T04:53:39Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>429581</origin>
+      <model>Scribunto</model>
+      <format>text/plain</format>
+      <text bytes="1371" sha1="r894pptv47fhchp4tnzilzm7wox4i02" xml:space="preserve">local p = {}
+
+function p.renderSidebar(frame)
+    -- Fetch all available platforms from the wiki property
+    local platforms = mw.smw.ask({
+        "[[Has platforms::+]]",
+        "?Has platforms",
+        "mainlabel=-",
+        "limit=500"
+    })
+    
+    -- De-duplicate and sort platforms
+    local list = { "All" }
+    local seen = {}
+    for _, res in ipairs(platforms or {}) do
+        local pName = res["Has platforms"]
+        if type(pName) == "table" then pName = pName[1] end -- Handle multiple platforms per page
+        if pName and not seen[pName] then
+            table.insert(list, pName)
+            seen[pName] = true
+        end
+    end
+    table.sort(list)
+
+    -- Build the HTML Sidebar
+    local html = mw.html.create('div'):addClass('listing-sidebar')
+    html:tag('h3'):addClass('filter-title'):wikitext('Filters')
+    
+    local group = html:tag('div'):addClass('filter-group')
+    group:tag('label'):wikitext('Platform')
+    
+    local select = group:tag('select'):attr('name', 'chosen_platform')
+    for _, val in ipairs(list) do
+        local opt = select:tag('option'):attr('value', val):wikitext(val)
+        if val == frame.args.chosen_platform then opt:attr('selected', 'selected') end
+    end
+    
+    html:tag('button'):attr('type', 'submit'):addClass('gb-button'):wikitext('Filter Results')
+    
+    return tostring(html)
+end
+
+return p</text>
+      <sha1>r894pptv47fhchp4tnzilzm7wox4i02</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Module:BadgeList</title>
+    <ns>828</ns>
+    <id>424756</id>
+    <revision>
+      <id>429573</id>
+      <parentid>429572</parentid>
+      <timestamp>2026-01-16T04:29:14Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>429573</origin>
+      <model>Scribunto</model>
+      <format>text/plain</format>
+      <text bytes="1179" sha1="s76ukt1a8a8ux7pymt3v4a5mb1gcfiy" xml:space="preserve">local p = {}
+
+function p.format(frame)
+    local input = frame.args[1] or ""
+    if input == "" then return "" end
+    
+    local items = {}
+    -- Split by comma and clean up prefixes
+    for item in input:gmatch("([^,]+)") do
+        local trimmed = item:match("^%s*(.-)%s*$")
+        if trimmed ~= "" then
+            -- Remove "Platforms/" prefix case-insensitively
+            local cleaned = trimmed:gsub("^[Pp][Ll][Aa][Tt][Ff][Oo][Rr][Mm][Ss]/", "")
+            table.insert(items, cleaned)
+        end
+    end
+    
+    local results = {}
+    local maxVisible = 3
+    local totalItems = #items
+    
+    -- Loop through items but stop adding badges at the limit
+    for i, name in ipairs(items) do
+        if i &lt;= maxVisible then
+            table.insert(results, '&lt;span class="platform-badge" title="' .. name .. '"&gt;' .. name .. '&lt;/span&gt;')
+        else
+            -- Calculate how many are left and add the plus badge
+            local remaining = totalItems - maxVisible
+            table.insert(results, '&lt;span class="platform-badge plus-badge"&gt;+' .. remaining .. '&lt;/span&gt;')
+            break
+        end
+    end
+    
+    return table.concat(results, " ")
+end
+
+return p</text>
+      <sha1>s76ukt1a8a8ux7pymt3v4a5mb1gcfiy</sha1>
     </revision>
   </page>
 </mediawiki>
