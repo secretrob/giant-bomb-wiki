@@ -39,12 +39,12 @@ RUN if [ "$INSTALL_GCSFUSE" = "true" ]; then \
     fi
 
 RUN cd /var/www/html \
- && php /usr/local/bin/composer update phpunit/phpunit \
  && COMPOSER=composer.local.json php /usr/local/bin/composer require --no-update mediawiki/semantic-media-wiki \
  && php /usr/local/bin/composer require --no-update mediawiki/semantic-extra-special-properties \
  && php /usr/local/bin/composer require --no-update mediawiki/semantic-result-formats \
  && php /usr/local/bin/composer require --no-update mediawiki/semantic-scribunto dev-master \
  && php /usr/local/bin/composer require --no-update "wikimedia/css-sanitizer:^5.5.0" \
+ && COMPOSER=composer.local.json php /usr/local/bin/composer require --dev --no-update "phpunit/phpunit:^12.0" \
  && docker-php-ext-configure zip \
  && docker-php-ext-install zip \
  && cd /var/www/html/extensions/ \
