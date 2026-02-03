@@ -39,6 +39,7 @@ RUN if [ "$INSTALL_GCSFUSE" = "true" ]; then \
     fi
 
 RUN cd /var/www/html \
+ && php /usr/local/bin/composer update phpunit/phpunit \
  && COMPOSER=composer.local.json php /usr/local/bin/composer require --no-update mediawiki/semantic-media-wiki \
  && php /usr/local/bin/composer require --no-update mediawiki/semantic-extra-special-properties \
  && php /usr/local/bin/composer require --no-update mediawiki/semantic-result-formats \
@@ -55,7 +56,6 @@ RUN cd /var/www/html \
  && wget https://github.com/octfx/mediawiki-extensions-TemplateStylesExtender/archive/refs/tags/v2.0.0.zip \
  && unzip v2.0.0.zip && rm v2.0.0.zip && mv mediawiki-extensions-TemplateStylesExtender-2.0.0 TemplateStylesExtender \
  && cd /var/www/html/ \
- && php /usr/local/bin/composer update phpunit/phpunit \
  && composer update --no-dev
 
 RUN cp /usr/local/etc/php/php.ini-production /usr/local/etc/php/php.ini && \
