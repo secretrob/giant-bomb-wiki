@@ -27,7 +27,7 @@ function p.format(frame)
     end
     
     local results = {}
-    local maxVisible = 3
+    local maxVisible = 10
     local totalItems = #items
     
     -- Loop through items but stop adding badges at the limit
@@ -96,6 +96,14 @@ function p.format(frame)
             break
         end
     end
+
+    table.sort(results, function(a,b)
+    	if #a ~= #b then
+            return #a < #b -- Shortest first
+        else
+            return a < b   -- then alpha
+        end
+    end)
     
     return table.concat(results, " ")
 end
