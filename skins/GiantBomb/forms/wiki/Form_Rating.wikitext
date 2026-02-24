@@ -29,7 +29,7 @@ if a page with that name already exists, you will be sent to a form to edit that
 | {{{field|Deck|property=Has deck}}}
 |-
 ! Description:
-| {{{standard input|free text|rows=10}}}
+| {{{standard input|free text|editor=wikieditor|rows=20}}}
 |}
 {{{end template}}}
 </includeonly>
