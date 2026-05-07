@@ -26,47 +26,47 @@ use User;
 
 class BlockUserConsequence implements IConsequence
 {
-        /** @var int */
-        protected $userId;
+    /** @var int */
+    protected $userId;
 
-        /** @var string */
-        protected $username;
+    /** @var string */
+    protected $username;
 
-        /** @var User */
-        protected $moderator;
+    /** @var User */
+    protected $moderator;
 
-        /**
-         * @param int $userId
-         * @param string $username
-         * @param User $moderator
-         */
-        public function __construct($userId, $username, User $moderator)
-        {
-                $this->userId = $userId;
-                $this->username = $username;
-                $this->moderator = $moderator;
-        }
+    /**
+     * @param int $userId
+     * @param string $username
+     * @param User $moderator
+     */
+    public function __construct($userId, $username, User $moderator)
+    {
+        $this->userId = $userId;
+        $this->username = $username;
+        $this->moderator = $moderator;
+    }
 
-        /**
-         * Execute the consequence.
-         * @return bool True if a new block was added, false otherwise.
-         */
-        public function run()
-        {
-                $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
-                $dbw->insert(
-                        "moderation_block",
-                        [
-                                "mb_address" => $this->username,
-                                "mb_user" => $this->userId,
-                                "mb_by" => $this->moderator->getId(),
-                                "mb_by_text" => $this->moderator->getName(),
-                                "mb_timestamp" => $dbw->timestamp(),
-                        ],
-                        __METHOD__,
-                        ["IGNORE"],
-                );
+    /**
+     * Execute the consequence.
+     * @return bool True if a new block was added, false otherwise.
+     */
+    public function run()
+    {
+        $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
+        $dbw->insert(
+            "moderation_block",
+            [
+                "mb_address" => $this->username,
+                "mb_user" => $this->userId,
+                "mb_by" => $this->moderator->getId(),
+                "mb_by_text" => $this->moderator->getName(),
+                "mb_timestamp" => $dbw->timestamp(),
+            ],
+            __METHOD__,
+            ["IGNORE"],
+        );
 
-                return $dbw->affectedRows() > 0;
-        }
+        return $dbw->affectedRows() > 0;
+    }
 }

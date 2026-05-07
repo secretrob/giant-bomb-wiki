@@ -28,132 +28,121 @@ use Wikimedia\ObjectCache\HashBagOStuff;
 
 class ModerationTestsuiteBagOStuff extends MediumSpecificBagOStuff
 {
-        /**
-         * @var HashBagOStuff|null
-         * Singleton: no matter how many TestsuiteBagOStuff instances are made,
-         * there will be only one store.
-         */
-        protected static $store = null;
+    /**
+     * @var HashBagOStuff|null
+     * Singleton: no matter how many TestsuiteBagOStuff instances are made,
+     * there will be only one store.
+     */
+    protected static $store = null;
 
-        /**
-         * @param array $params
-         */
-        public function __construct($params = [])
-        {
-                parent::__construct($params);
+    /**
+     * @param array $params
+     */
+    public function __construct($params = [])
+    {
+        parent::__construct($params);
 
-                if (self::$store) {
-                        // Already loaded.
-                        return;
-                }
-
-                // Load all entries into HashBagOStuff.
-                $filename = self::defaultFileName();
-                if (file_exists($filename)) {
-                        self::$store = unserialize(
-                                file_get_contents($filename),
-                        );
-                } else {
-                        self::$store = new HashBagOStuff();
-                }
-
-                register_shutdown_function([$this, "saveOnShutdown"]);
+        if (self::$store) {
+            // Already loaded.
+            return;
         }
 
-        /**
-         * Get name of the file where this cache will be stored.
-         * @return string
-         */
-        protected static function defaultFileName()
-        {
-                $filename = "/dev/shm/modtest.cache";
-
-                // When running multiple PHPUnit tests in parallel via Fastest,
-                // this environment variable will be set to 1, 2, 3, ... for different threads.
-                $thread = getenv("ENV_TEST_CHANNEL");
-                if ($thread) {
-                        $filename .= ".thread$thread";
-                }
-
-                return $filename;
+        // Load all entries into HashBagOStuff.
+        $filename = self::defaultFileName();
+        if (file_exists($filename)) {
+            self::$store = unserialize(file_get_contents($filename));
+        } else {
+            self::$store = new HashBagOStuff();
         }
 
-        /**
-         * Empty the on-disk cache. This is used by ModerationTestsuite for cache invalidation.
-         */
-        public static function flushAll()
-        {
-                $filename = self::defaultFileName();
-                if (file_exists($filename)) {
-                        unlink($filename);
-                }
+        register_shutdown_function([$this, "saveOnShutdown"]);
+    }
 
-                self::$store = null;
+    /**
+     * Get name of the file where this cache will be stored.
+     * @return string
+     */
+    protected static function defaultFileName()
+    {
+        $filename = "/dev/shm/modtest.cache";
+
+        // When running multiple PHPUnit tests in parallel via Fastest,
+        // this environment variable will be set to 1, 2, 3, ... for different threads.
+        $thread = getenv("ENV_TEST_CHANNEL");
+        if ($thread) {
+            $filename .= ".thread$thread";
         }
 
-        /**
-         * Save this in-memory HashBagOStuff into the on-disk file.
-         */
-        public static function saveOnShutdown()
-        {
-                // SessionManager also uses register_shutdown_function() to save all active sessions,
-                // and it's possible that SessionManager's shutdown handler would get called later.
-                // So we must call save() explicitly to place session data info self::$store immediately.
-                $session = SessionManager::getGlobalSession();
-                $session->save();
+        return $filename;
+    }
 
-                file_put_contents(
-                        self::defaultFileName(),
-                        serialize(self::$store),
-                );
+    /**
+     * Empty the on-disk cache. This is used by ModerationTestsuite for cache invalidation.
+     */
+    public static function flushAll()
+    {
+        $filename = self::defaultFileName();
+        if (file_exists($filename)) {
+            unlink($filename);
         }
 
-        // Proxy all get/set/delete methods to a singleton HashBagOStuff
+        self::$store = null;
+    }
 
-        /** @inheritDoc */
-        protected function doGet($key, $flags = 0, &$casToken = null)
-        {
-                $casToken = null;
-                return self::$store->get($key, $flags);
-        }
+    /**
+     * Save this in-memory HashBagOStuff into the on-disk file.
+     */
+    public static function saveOnShutdown()
+    {
+        // SessionManager also uses register_shutdown_function() to save all active sessions,
+        // and it's possible that SessionManager's shutdown handler would get called later.
+        // So we must call save() explicitly to place session data info self::$store immediately.
+        $session = SessionManager::getGlobalSession();
+        $session->save();
 
-        /** @inheritDoc */
-        protected function doSet($key, $value, $exptime = 0, $flags = 0)
-        {
-                return self::$store->set($key, $value, $exptime, $flags);
-        }
+        file_put_contents(self::defaultFileName(), serialize(self::$store));
+    }
 
-        /** @inheritDoc */
-        protected function doAdd($key, $value, $exptime = 0, $flags = 0)
-        {
-                return self::$store->add($key, $value, $exptime, $flags);
-        }
+    // Proxy all get/set/delete methods to a singleton HashBagOStuff
 
-        /** @inheritDoc */
-        protected function doDelete($key, $flags = 0)
-        {
-                return self::$store->delete($key, $flags);
-        }
+    /** @inheritDoc */
+    protected function doGet($key, $flags = 0, &$casToken = null)
+    {
+        $casToken = null;
+        return self::$store->get($key, $flags);
+    }
 
-        /** @inheritDoc */
-        protected function doIncrWithInit($key, $exptime, $step, $init, $flags)
-        {
-                return self::$store->incrWithInit(
-                        $key,
-                        $exptime,
-                        $step,
-                        $init,
-                        $flags,
-                );
-        }
+    /** @inheritDoc */
+    protected function doSet($key, $value, $exptime = 0, $flags = 0)
+    {
+        return self::$store->set($key, $value, $exptime, $flags);
+    }
 
-        /** @inheritDoc */
-        public function makeKeyInternal($keyspace, $args)
-        {
-                $key = $keyspace;
-                foreach ($args as $arg) {
-                        $key .= ":" . str_replace(":", "%3A", $arg);
-                }
-                return strtr($key, " ", "_");
+    /** @inheritDoc */
+    protected function doAdd($key, $value, $exptime = 0, $flags = 0)
+    {
+        return self::$store->add($key, $value, $exptime, $flags);
+    }
+
+    /** @inheritDoc */
+    protected function doDelete($key, $flags = 0)
+    {
+        return self::$store->delete($key, $flags);
+    }
+
+    /** @inheritDoc */
+    protected function doIncrWithInit($key, $exptime, $step, $init, $flags)
+    {
+        return self::$store->incrWithInit($key, $exptime, $step, $init, $flags);
+    }
+
+    /** @inheritDoc */
+    public function makeKeyInternal($keyspace, $args)
+    {
+        $key = $keyspace;
+        foreach ($args as $arg) {
+            $key .= ":" . str_replace(":", "%3A", $arg);
         }
+        return strtr($key, " ", "_");
+    }
 }

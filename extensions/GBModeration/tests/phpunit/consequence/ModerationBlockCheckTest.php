@@ -32,50 +32,44 @@ require_once __DIR__ . "/autoload.php";
  */
 class ModerationBlockCheckTest extends ModerationUnitTestCase
 {
-        /**
-         * Test that ModerationBlockCheck::isModerationBlocked() returns correct value.
-         * @covers MediaWiki\Moderation\ModerationBlockCheck
-         */
-        public function testIsBlocked()
-        {
-                $blockedUser = User::newFromName(
-                        "Some blocked user " . rand(0, 100000),
-                        false,
-                );
-                $notBlockedUser = User::newFromName(
-                        "Not blocked " . rand(0, 100000),
-                        false,
-                );
+    /**
+     * Test that ModerationBlockCheck::isModerationBlocked() returns correct value.
+     * @covers MediaWiki\Moderation\ModerationBlockCheck
+     */
+    public function testIsBlocked()
+    {
+        $blockedUser = User::newFromName(
+            "Some blocked user " . rand(0, 100000),
+            false,
+        );
+        $notBlockedUser = User::newFromName(
+            "Not blocked " . rand(0, 100000),
+            false,
+        );
 
-                $this->db->insert(
-                        "moderation_block",
-                        [
-                                "mb_address" => $blockedUser->getName(),
-                                "mb_user" => 0,
-                                "mb_by" => 123,
-                                "mb_by_text" => "Some moderator",
-                                "mb_timestamp" => $this->db->timestamp(),
-                        ],
-                        __METHOD__,
-                );
+        $this->db->insert(
+            "moderation_block",
+            [
+                "mb_address" => $blockedUser->getName(),
+                "mb_user" => 0,
+                "mb_by" => 123,
+                "mb_by_text" => "Some moderator",
+                "mb_timestamp" => $this->db->timestamp(),
+            ],
+            __METHOD__,
+        );
 
-                $blockCheck = new ModerationBlockCheck();
+        $blockCheck = new ModerationBlockCheck();
 
-                $this->assertTrue(
-                        $blockCheck->isModerationBlocked($blockedUser),
-                );
-                $this->assertFalse(
-                        $blockCheck->isModerationBlocked($notBlockedUser),
-                );
+        $this->assertTrue($blockCheck->isModerationBlocked($blockedUser));
+        $this->assertFalse($blockCheck->isModerationBlocked($notBlockedUser));
 
-                // isModerationBlocked() should return false if the user has been unblocked.
-                $this->db->delete(
-                        "moderation_block",
-                        ["mb_address" => $blockedUser->getName()],
-                        __METHOD__,
-                );
-                $this->assertFalse(
-                        $blockCheck->isModerationBlocked($blockedUser),
-                );
-        }
+        // isModerationBlocked() should return false if the user has been unblocked.
+        $this->db->delete(
+            "moderation_block",
+            ["mb_address" => $blockedUser->getName()],
+            __METHOD__,
+        );
+        $this->assertFalse($blockCheck->isModerationBlocked($blockedUser));
+    }
 }

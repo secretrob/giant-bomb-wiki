@@ -38,181 +38,158 @@ require_once __DIR__ . "/autoload.php";
  */
 class ModerationActionEditChangeTest extends ModerationUnitTestCase
 {
-        use ActionTestTrait;
+    use ActionTestTrait;
 
-        /**
-         * Verify that execute() returns expected result.
-         * @param array $opt
-         * @dataProvider dataProviderExecute
-         * @covers MediaWiki\Moderation\ModerationActionEditChange
-         */
-        public function testExecute(array $opt)
-        {
-                $expectedError = $opt["expectedError"] ?? null;
-                $enabled = $opt["enabled"] ?? true;
-                $type = $opt["mod_type"] ?? ModerationNewChange::MOD_TYPE_EDIT;
+    /**
+     * Verify that execute() returns expected result.
+     * @param array $opt
+     * @dataProvider dataProviderExecute
+     * @covers MediaWiki\Moderation\ModerationActionEditChange
+     */
+    public function testExecute(array $opt)
+    {
+        $expectedError = $opt["expectedError"] ?? null;
+        $enabled = $opt["enabled"] ?? true;
+        $type = $opt["mod_type"] ?? ModerationNewChange::MOD_TYPE_EDIT;
 
-                $this->setMwGlobals("wgModerationEnableEditChange", $enabled);
+        $this->setMwGlobals("wgModerationEnableEditChange", $enabled);
 
-                $row = (object) [
-                        "namespace" => rand(0, 1),
-                        "title" => "UTPage_" . rand(0, 100000),
-                        "text" => "Some text " . rand(0, 100000),
-                        "comment" => "Edit summary " . rand(0, 100000),
-                        "type" => $type,
-                ];
+        $row = (object) [
+            "namespace" => rand(0, 1),
+            "title" => "UTPage_" . rand(0, 100000),
+            "text" => "Some text " . rand(0, 100000),
+            "comment" => "Edit summary " . rand(0, 100000),
+            "type" => $type,
+        ];
 
-                $action = $this->makeActionForTesting(
-                        ModerationActionEditChange::class,
-                        function ($context, $entryFactory, $manager) use (
-                                $row,
-                                $enabled,
-                        ) {
-                                $context->setRequest(
-                                        new FauxRequest(["modid" => 12345]),
-                                );
+        $action = $this->makeActionForTesting(
+            ModerationActionEditChange::class,
+            function ($context, $entryFactory, $manager) use ($row, $enabled) {
+                $context->setRequest(new FauxRequest(["modid" => 12345]));
 
-                                $entryFactory
-                                        ->expects(
-                                                $enabled
-                                                        ? $this->once()
-                                                        : $this->never(),
-                                        )
-                                        ->method("loadRowOrThrow")
-                                        ->with(
-                                                $this->identicalTo(12345),
-                                                $this->identicalTo([
-                                                        "mod_namespace AS namespace",
-                                                        "mod_title AS title",
-                                                        "mod_text AS text",
-                                                        "mod_comment AS comment",
-                                                        "mod_type AS type",
-                                                ]),
-                                        )
-                                        ->willReturn($row);
+                $entryFactory
+                    ->expects($enabled ? $this->once() : $this->never())
+                    ->method("loadRowOrThrow")
+                    ->with(
+                        $this->identicalTo(12345),
+                        $this->identicalTo([
+                            "mod_namespace AS namespace",
+                            "mod_title AS title",
+                            "mod_text AS text",
+                            "mod_comment AS comment",
+                            "mod_type AS type",
+                        ]),
+                    )
+                    ->willReturn($row);
 
-                                // This is a readonly action. Ensure that it has no consequences.
-                                $manager->expects($this->never())->method(
-                                        "add",
-                                );
-                        },
-                );
+                // This is a readonly action. Ensure that it has no consequences.
+                $manager->expects($this->never())->method("add");
+            },
+        );
 
-                if ($expectedError) {
-                        $this->expectExceptionObject(
-                                new ModerationError($expectedError),
-                        );
-                }
-                $result = $action->execute();
-
-                $expectedResult = [
-                        "id" => 12345,
-                        "namespace" => $row->namespace,
-                        "title" => $row->title,
-                        "text" => $row->text,
-                        "summary" => $row->comment,
-                ];
-                $this->assertSame(
-                        $expectedResult,
-                        $result,
-                        "Result of execute() doesn't match expected.",
-                );
+        if ($expectedError) {
+            $this->expectExceptionObject(new ModerationError($expectedError));
         }
+        $result = $action->execute();
 
-        /**
-         * Provide datasets for testExecute() runs.
-         * @return array
-         */
-        public function dataProviderExecute()
-        {
-                return [
-                        "successful editchange" => [[]],
-                        "error: editchange not enabled" => [
-                                [
-                                        "expectedError" =>
-                                                "moderation-unknown-modaction",
-                                        "enabled" => false,
-                                ],
-                        ],
-                        "error: editchange is not applicable to moves" => [
-                                [
-                                        "expectedError" =>
-                                                "moderation-editchange-not-edit",
-                                        "mod_type" =>
-                                                ModerationNewChange::MOD_TYPE_MOVE,
-                                ],
-                        ],
-                ];
-        }
+        $expectedResult = [
+            "id" => 12345,
+            "namespace" => $row->namespace,
+            "title" => $row->title,
+            "text" => $row->text,
+            "summary" => $row->comment,
+        ];
+        $this->assertSame(
+            $expectedResult,
+            $result,
+            "Result of execute() doesn't match expected.",
+        );
+    }
 
-        /**
-         * Verify that outputResult() correctly shows the ModerationEditChangePage form.
-         * @covers MediaWiki\Moderation\ModerationActionEditChange
-         */
-        public function testOutputResult()
-        {
-                $modid = 12345;
-                $executeResult = [
-                        "id" => $modid,
-                        "namespace" => rand(0, 1),
-                        "title" => "UTPage_" . rand(0, 100000),
-                        "text" => "{MockedText}",
-                        "summary" => "{MockedComment}",
-                ];
-                $title = Title::makeTitle(
-                        $executeResult["namespace"],
-                        $executeResult["title"],
-                );
+    /**
+     * Provide datasets for testExecute() runs.
+     * @return array
+     */
+    public function dataProviderExecute()
+    {
+        return [
+            "successful editchange" => [[]],
+            "error: editchange not enabled" => [
+                [
+                    "expectedError" => "moderation-unknown-modaction",
+                    "enabled" => false,
+                ],
+            ],
+            "error: editchange is not applicable to moves" => [
+                [
+                    "expectedError" => "moderation-editchange-not-edit",
+                    "mod_type" => ModerationNewChange::MOD_TYPE_MOVE,
+                ],
+            ],
+        ];
+    }
 
-                // Expected behavior of outputResult() is to display the form of EditPage,
-                // so let's install the hook that can monitor this situation.
-                $hookFired = false;
-                $hookName = "EditPage::showEditForm:initial";
-                $this->setTemporaryHook($hookName, function (
-                        EditPage $editPage,
-                        OutputPage $out,
-                ) use (&$hookFired) {
-                        $hookFired = true;
+    /**
+     * Verify that outputResult() correctly shows the ModerationEditChangePage form.
+     * @covers MediaWiki\Moderation\ModerationActionEditChange
+     */
+    public function testOutputResult()
+    {
+        $modid = 12345;
+        $executeResult = [
+            "id" => $modid,
+            "namespace" => rand(0, 1),
+            "title" => "UTPage_" . rand(0, 100000),
+            "text" => "{MockedText}",
+            "summary" => "{MockedComment}",
+        ];
+        $title = Title::makeTitle(
+            $executeResult["namespace"],
+            $executeResult["title"],
+        );
 
-                        $this->assertInstanceOf(
-                                ModerationEditChangePage::class,
-                                $editPage,
-                                "EditPage object should be of subclass ModerationEditChangePage.",
-                        );
-                        $this->assertSame(
-                                "{MockedText}",
-                                $editPage->textbox1,
-                                "EditPage.textbox1",
-                        );
-                        $this->assertSame(
-                                "{MockedComment}",
-                                $editPage->summary,
-                                "EditPage.summary",
-                        );
-                });
+        // Expected behavior of outputResult() is to display the form of EditPage,
+        // so let's install the hook that can monitor this situation.
+        $hookFired = false;
+        $hookName = "EditPage::showEditForm:initial";
+        $this->setTemporaryHook($hookName, function (
+            EditPage $editPage,
+            OutputPage $out,
+        ) use (&$hookFired) {
+            $hookFired = true;
 
-                $action = $this->makeActionForTesting(
-                        ModerationActionEditChange::class,
-                        function ($context, $entryFactory, $manager) use (
-                                $title,
-                                $modid,
-                        ) {
-                                $context->setRequest(
-                                        new FauxRequest(["modid" => $modid]),
-                                );
-                                $context->setTitle($title);
+            $this->assertInstanceOf(
+                ModerationEditChangePage::class,
+                $editPage,
+                "EditPage object should be of subclass ModerationEditChangePage.",
+            );
+            $this->assertSame(
+                "{MockedText}",
+                $editPage->textbox1,
+                "EditPage.textbox1",
+            );
+            $this->assertSame(
+                "{MockedComment}",
+                $editPage->summary,
+                "EditPage.summary",
+            );
+        });
 
-                                // This is a readonly action. Ensure that it has no consequences.
-                                $manager->expects($this->never())->method(
-                                        "add",
-                                );
-                        },
-                );
+        $action = $this->makeActionForTesting(
+            ModerationActionEditChange::class,
+            function ($context, $entryFactory, $manager) use ($title, $modid) {
+                $context->setRequest(new FauxRequest(["modid" => $modid]));
+                $context->setTitle($title);
 
-                $action->outputResult($executeResult, $action->getOutput());
-                $this->assertTrue(
-                        $hookFired,
-                        "outputResult() didn't cause $hookName hook to be fired.",
-                );
-        }
+                // This is a readonly action. Ensure that it has no consequences.
+                $manager->expects($this->never())->method("add");
+            },
+        );
+
+        $action->outputResult($executeResult, $action->getOutput());
+        $this->assertTrue(
+            $hookFired,
+            "outputResult() didn't cause $hookName hook to be fired.",
+        );
+    }
 }

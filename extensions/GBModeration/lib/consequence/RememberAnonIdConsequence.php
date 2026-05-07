@@ -27,18 +27,18 @@ use MWCryptRand;
 
 class RememberAnonIdConsequence implements IConsequence
 {
-        /**
-         * Execute the consequence.
-         * @return string
-         */
-        public function run()
-        {
-                $id = MWCryptRand::generateHex(32);
+    /**
+     * Execute the consequence.
+     * @return string
+     */
+    public function run()
+    {
+        $id = MWCryptRand::generateHex(32);
 
-                $session = SessionManager::getGlobalSession();
-                $session->set("anon_id", $id);
-                $session->persist();
+        $session = SessionManager::getGlobalSession();
+        $session->set("anon_id", $id);
+        $session->persist();
 
-                return $id;
-        }
+        return $id;
+    }
 }

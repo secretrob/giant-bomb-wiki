@@ -31,53 +31,50 @@ require_once __DIR__ . "/ModerationBenchmark.php";
 
 class BenchmarkShowEdit extends ModerationBenchmark
 {
-        /**
-         * @var int
-         * mod_id of the change
-         */
-        public $id;
+    /**
+     * @var int
+     * mod_id of the change
+     */
+    public $id;
 
-        private const TEXT_BEFORE = "Text before";
-        private const TEXT_AFTER = "Newtext after";
+    private const TEXT_BEFORE = "Text before";
+    private const TEXT_AFTER = "Newtext after";
 
-        /**
-         * Default number of loops.
-         * @return int
-         */
-        public function getDefaultLoops()
-        {
-                return 3000;
-        }
+    /**
+     * Default number of loops.
+     * @return int
+     */
+    public function getDefaultLoops()
+    {
+        return 3000;
+    }
 
-        /**
-         * @param int $numberOfLoops @phan-unused-param
-         */
-        public function beforeBenchmark($numberOfLoops)
-        {
-                $this->fastEdit($this->getTestTitle(), self::TEXT_BEFORE);
-                $this->id = $this->fastQueue(
-                        $this->getTestTitle(),
-                        self::TEXT_AFTER,
-                );
+    /**
+     * @param int $numberOfLoops @phan-unused-param
+     */
+    public function beforeBenchmark($numberOfLoops)
+    {
+        $this->fastEdit($this->getTestTitle(), self::TEXT_BEFORE);
+        $this->id = $this->fastQueue($this->getTestTitle(), self::TEXT_AFTER);
 
-                $this->becomeModerator();
-        }
+        $this->becomeModerator();
+    }
 
-        /**
-         * @param int $i @phan-unused-param
-         */
-        public function doActualWork($i)
-        {
-                $html = $this->runSpecialModeration([
-                        "modaction" => "show",
-                        "modid" => $this->id,
-                ]);
+    /**
+     * @param int $i @phan-unused-param
+     */
+    public function doActualWork($i)
+    {
+        $html = $this->runSpecialModeration([
+            "modaction" => "show",
+            "modid" => $this->id,
+        ]);
 
-                Assert::postcondition(
-                        strpos($html, "Text before</del>") !== false,
-                        "Unexpected output from modaction=show",
-                );
-        }
+        Assert::postcondition(
+            strpos($html, "Text before</del>") !== false,
+            "Unexpected output from modaction=show",
+        );
+    }
 }
 
 $maintClass = BenchmarkShowEdit::class;

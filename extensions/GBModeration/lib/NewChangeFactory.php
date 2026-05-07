@@ -29,59 +29,59 @@ use User;
 
 class NewChangeFactory
 {
-        /** @var IConsequenceManager */
-        protected $consequenceManager;
+    /** @var IConsequenceManager */
+    protected $consequenceManager;
 
-        /** @var ModerationPreload */
-        protected $preload;
+    /** @var ModerationPreload */
+    protected $preload;
 
-        /** @var HookRunner */
-        protected $hookRunner;
+    /** @var HookRunner */
+    protected $hookRunner;
 
-        /** @var ModerationNotifyModerator */
-        protected $notifyModerator;
+    /** @var ModerationNotifyModerator */
+    protected $notifyModerator;
 
-        /** @var Language */
-        protected $contentLanguage;
+    /** @var Language */
+    protected $contentLanguage;
 
-        /**
-         * @param IConsequenceManager $consequenceManager
-         * @param ModerationPreload $preload
-         * @param HookRunner $hookRunner
-         * @param ModerationNotifyModerator $notifyModerator
-         * @param Language $contentLanguage
-         */
-        public function __construct(
-                IConsequenceManager $consequenceManager,
-                ModerationPreload $preload,
-                HookRunner $hookRunner,
-                ModerationNotifyModerator $notifyModerator,
-                Language $contentLanguage,
-        ) {
-                $this->consequenceManager = $consequenceManager;
-                $this->preload = $preload;
-                $this->hookRunner = $hookRunner;
-                $this->notifyModerator = $notifyModerator;
-                $this->contentLanguage = $contentLanguage;
-        }
+    /**
+     * @param IConsequenceManager $consequenceManager
+     * @param ModerationPreload $preload
+     * @param HookRunner $hookRunner
+     * @param ModerationNotifyModerator $notifyModerator
+     * @param Language $contentLanguage
+     */
+    public function __construct(
+        IConsequenceManager $consequenceManager,
+        ModerationPreload $preload,
+        HookRunner $hookRunner,
+        ModerationNotifyModerator $notifyModerator,
+        Language $contentLanguage,
+    ) {
+        $this->consequenceManager = $consequenceManager;
+        $this->preload = $preload;
+        $this->hookRunner = $hookRunner;
+        $this->notifyModerator = $notifyModerator;
+        $this->contentLanguage = $contentLanguage;
+    }
 
-        /**
-         * Construct new ModerationNewChange.
-         * @param Title $title
-         * @param User $user
-         * @return ModerationNewChange
-         */
-        public function makeNewChange(Title $title, User $user)
-        {
-                return new ModerationNewChange(
-                        $title,
-                        $user,
-                        $this->consequenceManager,
-                        $this->preload,
-                        $this->hookRunner,
-                        $this->notifyModerator,
-                        new ModerationBlockCheck(),
-                        $this->contentLanguage,
-                );
-        }
+    /**
+     * Construct new ModerationNewChange.
+     * @param Title $title
+     * @param User $user
+     * @return ModerationNewChange
+     */
+    public function makeNewChange(Title $title, User $user)
+    {
+        return new ModerationNewChange(
+            $title,
+            $user,
+            $this->consequenceManager,
+            $this->preload,
+            $this->hookRunner,
+            $this->notifyModerator,
+            new ModerationBlockCheck(),
+            $this->contentLanguage,
+        );
+    }
 }

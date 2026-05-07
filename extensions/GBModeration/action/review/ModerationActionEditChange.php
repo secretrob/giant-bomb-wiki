@@ -32,70 +32,63 @@ use OutputPage;
 
 class ModerationActionEditChange extends ModerationAction
 {
-        public function requiresEditToken()
-        {
-                return false; // True in ModerationActionEditChangeSubmit
+    public function requiresEditToken()
+    {
+        return false; // True in ModerationActionEditChangeSubmit
+    }
+
+    public function execute()
+    {
+        if (!$this->getConfig()->get("ModerationEnableEditChange")) {
+            throw new ModerationError("moderation-unknown-modaction");
         }
 
-        public function execute()
-        {
-                if (!$this->getConfig()->get("ModerationEnableEditChange")) {
-                        throw new ModerationError(
-                                "moderation-unknown-modaction",
-                        );
-                }
+        $fields = [
+            "mod_namespace AS namespace",
+            "mod_title AS title",
+            "mod_text AS text",
+            "mod_comment AS comment",
+            "mod_type AS type",
+        ];
 
-                $fields = [
-                        "mod_namespace AS namespace",
-                        "mod_title AS title",
-                        "mod_text AS text",
-                        "mod_comment AS comment",
-                        "mod_type AS type",
-                ];
+        $row = $this->entryFactory->loadRowOrThrow($this->id, $fields);
 
-                $row = $this->entryFactory->loadRowOrThrow($this->id, $fields);
-
-                if (
-                        isset($row->type) &&
-                        $row->type != ModerationNewChange::MOD_TYPE_EDIT
-                ) {
-                        throw new ModerationError(
-                                "moderation-editchange-not-edit",
-                        );
-                }
-
-                return [
-                        "id" => $this->id,
-                        "namespace" => $row->namespace,
-                        "title" => $row->title,
-                        "text" => $row->text,
-                        "summary" => $row->comment,
-                ];
+        if (
+            isset($row->type) &&
+            $row->type != ModerationNewChange::MOD_TYPE_EDIT
+        ) {
+            throw new ModerationError("moderation-editchange-not-edit");
         }
 
-        /**
-         * @inheritDoc
-         */
-        public function outputResult(array $result, OutputPage $out)
-        {
-                $title = Title::makeTitle(
-                        $result["namespace"],
-                        $result["title"],
-                );
-                $article = Article::newFromTitle($title, $this->getContext());
+        return [
+            "id" => $this->id,
+            "namespace" => $row->namespace,
+            "title" => $row->title,
+            "text" => $row->text,
+            "summary" => $row->comment,
+        ];
+    }
 
-                $editPage = new ModerationEditChangePage($article);
+    /**
+     * @inheritDoc
+     */
+    public function outputResult(array $result, OutputPage $out)
+    {
+        $title = Title::makeTitle($result["namespace"], $result["title"]);
+        $article = Article::newFromTitle($title, $this->getContext());
 
-                $editPage->setContextTitle($title);
-                $editPage->textbox1 = $result["text"];
-                $editPage->summary = $result["summary"];
+        $editPage = new ModerationEditChangePage($article);
 
-                $editPage->showEditForm();
+        $editPage->setContextTitle($title);
+        $editPage->textbox1 = $result["text"];
+        $editPage->summary = $result["summary"];
 
-                $titleMsg = $this->msg(
-                        "moderation-editchange-title",
-                        $title->getFullText(),
-                );
-                $out->setPageTitle($titleMsg->escaped());
-        }
+        $editPage->showEditForm();
+
+        $titleMsg = $this->msg(
+            "moderation-editchange-title",
+            $title->getFullText(),
+        );
+        $out->setPageTitle($titleMsg->escaped());
+    }
 }

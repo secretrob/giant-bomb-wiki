@@ -29,48 +29,48 @@ require_once __DIR__ . "/ModerationBenchmark.php";
 
 class BenchmarkRenderSpecial extends ModerationBenchmark
 {
-        /**
-         * Default number of loops.
-         * @return int
-         */
-        public function getDefaultLoops()
-        {
-                return 50;
-        }
+    /**
+     * Default number of loops.
+     * @return int
+     */
+    public function getDefaultLoops()
+    {
+        return 50;
+    }
 
-        /**
-         * How many rows to show on Special:Moderation.
-         * @return int
-         */
-        public function getNumberOfEntries()
-        {
-                return 200;
-        }
+    /**
+     * How many rows to show on Special:Moderation.
+     * @return int
+     */
+    public function getNumberOfEntries()
+    {
+        return 200;
+    }
 
-        /**
-         * @param int $numberOfLoops @phan-unused-param
-         */
-        public function beforeBenchmark($numberOfLoops)
-        {
-                /* Prepopulate 'moderation' table */
-                // phpcs:disable Generic.CodeAnalysis.ForLoopWithTestFunctionCall.NotAllowed
-                for ($i = 0; $i <= $this->getNumberOfEntries(); $i++) {
-                        $this->fastQueue($this->getTestTitle($i));
-                }
-                // phpcs:enable
-
-                $this->becomeModerator();
+    /**
+     * @param int $numberOfLoops @phan-unused-param
+     */
+    public function beforeBenchmark($numberOfLoops)
+    {
+        /* Prepopulate 'moderation' table */
+        // phpcs:disable Generic.CodeAnalysis.ForLoopWithTestFunctionCall.NotAllowed
+        for ($i = 0; $i <= $this->getNumberOfEntries(); $i++) {
+            $this->fastQueue($this->getTestTitle($i));
         }
+        // phpcs:enable
 
-        /**
-         * @param int $i @phan-unused-param
-         */
-        public function doActualWork($i)
-        {
-                $this->runSpecialModeration([
-                        "limit" => $this->getNumberOfEntries(),
-                ]);
-        }
+        $this->becomeModerator();
+    }
+
+    /**
+     * @param int $i @phan-unused-param
+     */
+    public function doActualWork($i)
+    {
+        $this->runSpecialModeration([
+            "limit" => $this->getNumberOfEntries(),
+        ]);
+    }
 }
 
 $maintClass = BenchmarkRenderSpecial::class;

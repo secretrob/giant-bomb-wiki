@@ -29,23 +29,23 @@ require_once __DIR__ . "/autoload.php";
 
 class ConsequenceManagerTest extends ModerationUnitTestCase
 {
-        /**
-         * Test that ConsequenceManager::add() immediately runs the Consequence and returns its result.
-         * @covers MediaWiki\Moderation\ConsequenceManager
-         */
-        public function testAddConsequence()
-        {
-                $expectedResult = 12345;
+    /**
+     * Test that ConsequenceManager::add() immediately runs the Consequence and returns its result.
+     * @covers MediaWiki\Moderation\ConsequenceManager
+     */
+    public function testAddConsequence()
+    {
+        $expectedResult = 12345;
 
-                $consequence = $this->createMock(IConsequence::class);
-                $consequence
-                        ->expects($this->once())
-                        ->method("run")
-                        ->willReturn($expectedResult);
+        $consequence = $this->createMock(IConsequence::class);
+        $consequence
+            ->expects($this->once())
+            ->method("run")
+            ->willReturn($expectedResult);
 
-                '@phan-var IConsequence $consequence';
+        '@phan-var IConsequence $consequence';
 
-                $manager = new ConsequenceManager();
-                $this->assertSame($expectedResult, $manager->add($consequence));
-        }
+        $manager = new ConsequenceManager();
+        $this->assertSame($expectedResult, $manager->add($consequence));
+    }
 }

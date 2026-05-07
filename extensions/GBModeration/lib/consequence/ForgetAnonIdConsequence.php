@@ -26,15 +26,15 @@ use MediaWiki\Session\SessionManager;
 
 class ForgetAnonIdConsequence implements IConsequence
 {
-        /**
-         * Execute the consequence.
-         */
-        public function run()
-        {
-                $session = SessionManager::getGlobalSession();
-                $session->remove("anon_id");
+    /**
+     * Execute the consequence.
+     */
+    public function run()
+    {
+        $session = SessionManager::getGlobalSession();
+        $session->remove("anon_id");
 
-                // No need to call $session->persist():
-                // if session is not already persistent, then anon_id is not remembered anyway.
-        }
+        // No need to call $session->persist():
+        // if session is not already persistent, then anon_id is not remembered anyway.
+    }
 }

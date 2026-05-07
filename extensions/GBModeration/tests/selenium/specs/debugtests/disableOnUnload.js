@@ -9,29 +9,28 @@
 "use strict";
 
 const expect = require("chai").expect,
-        MobileFrontend = require("../../pageobjects/mobilefrontend.page.js"),
-        BlankPage = require("wdio-mediawiki/BlankPage");
+  MobileFrontend = require("../../pageobjects/mobilefrontend.page.js"),
+  BlankPage = require("wdio-mediawiki/BlankPage");
 
 var PageName = "Test" + Math.random();
 
 describe("browser.url()", function () {
-        this.timeout(120000);
+  this.timeout(120000);
 
-        for (var i = 1; i <= 10; i++) {
-                it(
-                        'should ignore "Do you really want to leave" alert: attempt ' +
-                                i,
-                        function () {
-                                MobileFrontend.open(PageName, 0);
-                                MobileFrontend.content.addValue("+");
+  for (var i = 1; i <= 10; i++) {
+    it(
+      'should ignore "Do you really want to leave" alert: attempt ' + i,
+      function () {
+        MobileFrontend.open(PageName, 0);
+        MobileFrontend.content.addValue("+");
 
-                                BlankPage.open();
+        BlankPage.open();
 
-                                /* There shouldn't be an alert "Do you really want to leave this page" */
-                                expect(function () {
-                                        browser.getAlertText(); /* Throws exception when there is no alert */
-                                }).to.throw();
-                        },
-                );
-        }
+        /* There shouldn't be an alert "Do you really want to leave this page" */
+        expect(function () {
+          browser.getAlertText(); /* Throws exception when there is no alert */
+        }).to.throw();
+      },
+    );
+  }
 });

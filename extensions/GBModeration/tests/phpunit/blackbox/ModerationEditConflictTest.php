@@ -31,39 +31,37 @@ require_once __DIR__ . "/../framework/ModerationTestsuite.php";
  */
 class ModerationEditConflictTest extends ModerationTestCase
 {
-        /**
-         * Ensure that resolvable edit conflicts are automatically resolved during modaction=approve.
-         * @coversNothing
-         */
-        public function testResolvableEditConflict(ModerationTestsuite $t)
-        {
-                /*
+    /**
+     * Ensure that resolvable edit conflicts are automatically resolved during modaction=approve.
+     * @coversNothing
+     */
+    public function testResolvableEditConflict(ModerationTestsuite $t)
+    {
+        /*
 			Here the two users are modifying different parts of the text,
 			so that their changes can be merged automatically.
 		*/
-                $title = "Test page 1";
-                $expectedText =
-                        "Modified paragraph about dogs\n\nModified paragraph about cats";
+        $title = "Test page 1";
+        $expectedText =
+            "Modified paragraph about dogs\n\nModified paragraph about cats";
 
-                $entry = $t->causeEditConflict(
-                        $title,
-                        "Original paragraph about dogs\n\nOriginal paragraph about cats",
-                        "Original paragraph about dogs\n\nModified paragraph about cats",
-                        "Modified paragraph about dogs\n\nOriginal paragraph about cats",
-                );
+        $entry = $t->causeEditConflict(
+            $title,
+            "Original paragraph about dogs\n\nOriginal paragraph about cats",
+            "Original paragraph about dogs\n\nModified paragraph about cats",
+            "Modified paragraph about dogs\n\nOriginal paragraph about cats",
+        );
 
-                $this->assertNull(
-                        $t->html
-                                ->loadUrl($entry->approveLink)
-                                ->getModerationError(),
-                        "testResolvableEditConflict(): Approval failed",
-                );
+        $this->assertNull(
+            $t->html->loadUrl($entry->approveLink)->getModerationError(),
+            "testResolvableEditConflict(): Approval failed",
+        );
 
-                $rev = $t->getLastRevision($title);
-                $this->assertSame(
-                        $expectedText,
-                        $rev["*"],
-                        "testResolvableEditConflict(): Unexpected text after approving both edits",
-                );
-        }
+        $rev = $t->getLastRevision($title);
+        $this->assertSame(
+            $expectedText,
+            $rev["*"],
+            "testResolvableEditConflict(): Unexpected text after approving both edits",
+        );
+    }
 }

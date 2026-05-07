@@ -31,54 +31,54 @@ require_once __DIR__ . "/ModerationBenchmark.php";
 
 class BenchmarkApproveEdit extends ModerationBenchmark
 {
-        /**
-         * @var int[]
-         * mod_id of all changes to approve
-         */
-        public $ids = [];
+    /**
+     * @var int[]
+     * mod_id of all changes to approve
+     */
+    public $ids = [];
 
-        /**
-         * Default number of loops.
-         * @return int
-         */
-        public function getDefaultLoops()
-        {
-                return 100;
-        }
+    /**
+     * Default number of loops.
+     * @return int
+     */
+    public function getDefaultLoops()
+    {
+        return 100;
+    }
 
-        /**
-         * @param int $numberOfLoops @phan-unused-param
-         */
-        public function beforeBenchmark($numberOfLoops)
-        {
-                $this->becomeModerator();
-        }
+    /**
+     * @param int $numberOfLoops @phan-unused-param
+     */
+    public function beforeBenchmark($numberOfLoops)
+    {
+        $this->becomeModerator();
+    }
 
-        /**
-         * @param int $i
-         */
-        public function beforeBenchmarkPrepareLoop($i)
-        {
-                /* Prepopulate 'moderation' table */
-                $this->ids[] = $this->fastQueue($this->getTestTitle($i));
-        }
+    /**
+     * @param int $i
+     */
+    public function beforeBenchmarkPrepareLoop($i)
+    {
+        /* Prepopulate 'moderation' table */
+        $this->ids[] = $this->fastQueue($this->getTestTitle($i));
+    }
 
-        /**
-         * @param int $i
-         */
-        public function doActualWork($i)
-        {
-                $html = $this->runSpecialModeration([
-                        "modaction" => "approve",
-                        "modid" => $this->ids[$i],
-                        "token" => $this->getUser()->getEditToken(),
-                ]);
+    /**
+     * @param int $i
+     */
+    public function doActualWork($i)
+    {
+        $html = $this->runSpecialModeration([
+            "modaction" => "approve",
+            "modid" => $this->ids[$i],
+            "token" => $this->getUser()->getEditToken(),
+        ]);
 
-                Assert::postcondition(
-                        strpos($html, "(moderation-approved-ok: 1)") !== false,
-                        "Approve failed",
-                );
-        }
+        Assert::postcondition(
+            strpos($html, "(moderation-approved-ok: 1)") !== false,
+            "Approve failed",
+        );
+    }
 }
 
 $maintClass = BenchmarkApproveEdit::class;

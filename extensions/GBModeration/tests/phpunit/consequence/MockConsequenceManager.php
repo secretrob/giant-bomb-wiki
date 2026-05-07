@@ -28,62 +28,60 @@ use MWException;
 
 class MockConsequenceManager implements IConsequenceManager
 {
-        /**
-         * @var IConsequence[]
-         */
-        protected $consequences = [];
+    /**
+     * @var IConsequence[]
+     */
+    protected $consequences = [];
 
-        /**
-         * Mocked return values of run(). Populated by mockResult() and consumed by add().
-         * @var array
-         * @phan-var array<class-string,mixed[]>
-         */
-        protected $mockedResults = [];
+    /**
+     * Mocked return values of run(). Populated by mockResult() and consumed by add().
+     * @var array
+     * @phan-var array<class-string,mixed[]>
+     */
+    protected $mockedResults = [];
 
-        /**
-         * Mocked version of add(): record the Consequence without running it, return mocked result.
-         * @param IConsequence $consequence
-         * @return mixed|null Mocked return value (if mockResult() was used before add()), if any.
-         */
-        public function add(IConsequence $consequence)
-        {
-                $this->consequences[] = $consequence;
+    /**
+     * Mocked version of add(): record the Consequence without running it, return mocked result.
+     * @param IConsequence $consequence
+     * @return mixed|null Mocked return value (if mockResult() was used before add()), if any.
+     */
+    public function add(IConsequence $consequence)
+    {
+        $this->consequences[] = $consequence;
 
-                // Return the mocked return value (if any).
-                $class = get_class($consequence);
-                if (isset($this->mockedResults[$class])) {
-                        return array_shift($this->mockedResults[$class]);
-                }
+        // Return the mocked return value (if any).
+        $class = get_class($consequence);
+        if (isset($this->mockedResults[$class])) {
+            return array_shift($this->mockedResults[$class]);
+        }
+    }
+
+    /**
+     * Get the list of all previously queued Consequence objects. Can be used in tests.
+     * @return IConsequence[]
+     */
+    public function getConsequences()
+    {
+        return $this->consequences;
+    }
+
+    /**
+     * Add $result into a queue of return values that are consequentially returned by add() calls.
+     * @param string $class Fully qualified class name of the Consequence, e.g. SomeConsequence::class.
+     * @param mixed $result Value to return.
+     *
+     * @phan-param class-string $class
+     */
+    public function mockResult($class, $result)
+    {
+        if (!class_exists($class)) {
+            throw new MWException(__METHOD__ . ": unknown class $class.");
         }
 
-        /**
-         * Get the list of all previously queued Consequence objects. Can be used in tests.
-         * @return IConsequence[]
-         */
-        public function getConsequences()
-        {
-                return $this->consequences;
+        if (!isset($this->mockedResults[$class])) {
+            $this->mockedResults[$class] = [];
         }
 
-        /**
-         * Add $result into a queue of return values that are consequentially returned by add() calls.
-         * @param string $class Fully qualified class name of the Consequence, e.g. SomeConsequence::class.
-         * @param mixed $result Value to return.
-         *
-         * @phan-param class-string $class
-         */
-        public function mockResult($class, $result)
-        {
-                if (!class_exists($class)) {
-                        throw new MWException(
-                                __METHOD__ . ": unknown class $class.",
-                        );
-                }
-
-                if (!isset($this->mockedResults[$class])) {
-                        $this->mockedResults[$class] = [];
-                }
-
-                $this->mockedResults[$class][] = $result;
-        }
+        $this->mockedResults[$class][] = $result;
+    }
 }

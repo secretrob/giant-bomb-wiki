@@ -40,180 +40,159 @@ require_once __DIR__ . "/autoload.php";
  */
 class ApiQueryModerationPreloadTest extends ApiTestCase
 {
-        /**
-         * Verify the result of api.php?action=query&prop=moderationpreload.
-         * @param bool $notFound If true, PendingEdit won't be found and false will be returned instead.
-         * @param array $extraParams
-         * @dataProvider dataProviderPreload
-         *
-         * @covers MediaWiki\Moderation\ApiQueryModerationPreload
-         */
-        public function testPreload($notFound, array $extraParams)
-        {
-                $user = self::getTestUser()->getUser();
-                $title = Title::newFromText("Talk:UTPage " . rand(0, 100000));
-                $text = "Preloaded text " . rand(0, 100000);
-                $comment = "Preloaded comment" . rand(0, 100000);
-                $articleId = $this->getExistingTestPage($title)->getId();
+    /**
+     * Verify the result of api.php?action=query&prop=moderationpreload.
+     * @param bool $notFound If true, PendingEdit won't be found and false will be returned instead.
+     * @param array $extraParams
+     * @dataProvider dataProviderPreload
+     *
+     * @covers MediaWiki\Moderation\ApiQueryModerationPreload
+     */
+    public function testPreload($notFound, array $extraParams)
+    {
+        $user = self::getTestUser()->getUser();
+        $title = Title::newFromText("Talk:UTPage " . rand(0, 100000));
+        $text = "Preloaded text " . rand(0, 100000);
+        $comment = "Preloaded comment" . rand(0, 100000);
+        $articleId = $this->getExistingTestPage($title)->getId();
 
-                $pendingEdit = false;
-                if (!$notFound) {
-                        $pendingEdit = $this->createMock(PendingEdit::class);
-                        $pendingEdit
-                                ->expects($this->once())
-                                ->method("getSectionText")
-                                ->with(
-                                        $this->equalTo(
-                                                $extraParams["mpsection"] ?? "",
-                                        ),
-                                )
-                                ->willReturn($text);
+        $pendingEdit = false;
+        if (!$notFound) {
+            $pendingEdit = $this->createMock(PendingEdit::class);
+            $pendingEdit
+                ->expects($this->once())
+                ->method("getSectionText")
+                ->with($this->equalTo($extraParams["mpsection"] ?? ""))
+                ->willReturn($text);
 
-                        $pendingEdit
-                                ->expects($this->any())
-                                ->method("getComment")
-                                ->willReturn($comment);
-                }
-
-                // Mock ModerationPreload service.
-                $preload = $this->createMock(ModerationPreload::class);
-                $preload->expects($this->any())
-                        ->method("findPendingEdit")
-                        ->will(
-                                $this->returnCallback(function ($target) use (
-                                        $title,
-                                        $pendingEdit,
-                                ) {
-                                        $this->assertSame(
-                                                $title->getFullText(),
-                                                $target->getFullText(),
-                                        );
-                                        return $pendingEdit;
-                                }),
-                        );
-                $this->setService("Moderation.Preload", $preload);
-
-                $query = $extraParams + [
-                        "action" => "query",
-                        "prop" => "moderationpreload",
-                        "mptitle" => $title->getFullText(),
-                ];
-                [$result] = $this->doApiRequest($query, null, false, $user);
-
-                $this->assertArrayHasKey("query", $result);
-                $this->assertArrayHasKey("moderationpreload", $result["query"]);
-
-                $actualResult = $result["query"]["moderationpreload"];
-                $actualDisplayTitle =
-                        $actualResult["parsed"]["displaytitle"] ?? null;
-                if ($actualDisplayTitle) {
-                        // MediaWiki adds tags like <span class="mw-page-title-namespace">,
-                        // we don't need to check these tags here.
-                        $actualResult["parsed"]["displaytitle"] = strip_tags(
-                                $actualDisplayTitle,
-                        );
-                }
-
-                $expectedResult = [
-                        "user" => $user->getName(),
-                        "title" => $title->getFullText(),
-                        "pageid" => $articleId,
-                ];
-                if ($notFound) {
-                        $expectedResult["missing"] = "";
-                } else {
-                        if (
-                                ($extraParams["mpmode"] ?? "wikitext") ===
-                                "wikitext"
-                        ) {
-                                $expectedResult["wikitext"] = $text;
-                        } else {
-                                $expectedText =
-                                        '<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>' .
-                                        "$text\n</p></div>";
-
-                                $expectedResult["parsed"] = [
-                                        "text" => $expectedText,
-                                        "categorieshtml" =>
-                                                '<div id="catlinks" class="catlinks catlinks-allhidden" ' .
-                                                'data-mw="interface"></div>',
-                                        "displaytitle" => $title->getFullText(),
-                                ];
-                        }
-
-                        $expectedResult["comment"] = $comment;
-                }
-                $this->assertSame(
-                        $expectedResult,
-                        $actualResult,
-                        "API response doesn't match expected.",
-                );
+            $pendingEdit
+                ->expects($this->any())
+                ->method("getComment")
+                ->willReturn($comment);
         }
 
-        /**
-         * Provide datasets for testPreload() runs.
-         * @return array
-         */
-        public function dataProviderPreload()
-        {
-                return [
-                        "PendingEdit not found" => [true, []],
-                        "PendingEdit not found, section=2" => [
-                                true,
-                                ["mpsection" => 2],
-                        ],
-                        "PendingEdit not found, mpmode=parsed" => [
-                                true,
-                                ["mpmode" => "parsed"],
-                        ],
-                        "PendingEdit found" => [false, []],
-                        "PendingEdit found, section=2" => [
-                                false,
-                                ["mpsection" => 2],
-                        ],
-                        "PendingEdit found, mpmode=parsed" => [
-                                false,
-                                ["mpmode" => "parsed"],
-                        ],
+        // Mock ModerationPreload service.
+        $preload = $this->createMock(ModerationPreload::class);
+        $preload
+            ->expects($this->any())
+            ->method("findPendingEdit")
+            ->will(
+                $this->returnCallback(function ($target) use (
+                    $title,
+                    $pendingEdit,
+                ) {
+                    $this->assertSame(
+                        $title->getFullText(),
+                        $target->getFullText(),
+                    );
+                    return $pendingEdit;
+                }),
+            );
+        $this->setService("Moderation.Preload", $preload);
+
+        $query = $extraParams + [
+            "action" => "query",
+            "prop" => "moderationpreload",
+            "mptitle" => $title->getFullText(),
+        ];
+        [$result] = $this->doApiRequest($query, null, false, $user);
+
+        $this->assertArrayHasKey("query", $result);
+        $this->assertArrayHasKey("moderationpreload", $result["query"]);
+
+        $actualResult = $result["query"]["moderationpreload"];
+        $actualDisplayTitle = $actualResult["parsed"]["displaytitle"] ?? null;
+        if ($actualDisplayTitle) {
+            // MediaWiki adds tags like <span class="mw-page-title-namespace">,
+            // we don't need to check these tags here.
+            $actualResult["parsed"]["displaytitle"] = strip_tags(
+                $actualDisplayTitle,
+            );
+        }
+
+        $expectedResult = [
+            "user" => $user->getName(),
+            "title" => $title->getFullText(),
+            "pageid" => $articleId,
+        ];
+        if ($notFound) {
+            $expectedResult["missing"] = "";
+        } else {
+            if (($extraParams["mpmode"] ?? "wikitext") === "wikitext") {
+                $expectedResult["wikitext"] = $text;
+            } else {
+                $expectedText =
+                    '<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>' .
+                    "$text\n</p></div>";
+
+                $expectedResult["parsed"] = [
+                    "text" => $expectedText,
+                    "categorieshtml" =>
+                        '<div id="catlinks" class="catlinks catlinks-allhidden" ' .
+                        'data-mw="interface"></div>',
+                    "displaytitle" => $title->getFullText(),
                 ];
+            }
+
+            $expectedResult["comment"] = $comment;
         }
+        $this->assertSame(
+            $expectedResult,
+            $actualResult,
+            "API response doesn't match expected.",
+        );
+    }
 
-        /**
-         * Test that ApiQueryModerationPreload subclass overrides some methods of ApiBase class.
-         * @covers MediaWiki\Moderation\ApiQueryModerationPreload
-         */
-        public function testApiBaseSubclass()
-        {
-                $preload = $this->createMock(ModerationPreload::class);
-                '@phan-var ModerationPreload $preload';
+    /**
+     * Provide datasets for testPreload() runs.
+     * @return array
+     */
+    public function dataProviderPreload()
+    {
+        return [
+            "PendingEdit not found" => [true, []],
+            "PendingEdit not found, section=2" => [true, ["mpsection" => 2]],
+            "PendingEdit not found, mpmode=parsed" => [
+                true,
+                ["mpmode" => "parsed"],
+            ],
+            "PendingEdit found" => [false, []],
+            "PendingEdit found, section=2" => [false, ["mpsection" => 2]],
+            "PendingEdit found, mpmode=parsed" => [
+                false,
+                ["mpmode" => "parsed"],
+            ],
+        ];
+    }
 
-                $apiMain = new ApiMain();
-                $apiQuery = $apiMain->getModuleManager()->getModule("query");
-                '@phan-var ApiQuery $apiQuery';
+    /**
+     * Test that ApiQueryModerationPreload subclass overrides some methods of ApiBase class.
+     * @covers MediaWiki\Moderation\ApiQueryModerationPreload
+     */
+    public function testApiBaseSubclass()
+    {
+        $preload = $this->createMock(ModerationPreload::class);
+        '@phan-var ModerationPreload $preload';
 
-                $api = new ApiQueryModerationPreload(
-                        $apiQuery,
-                        "query",
-                        $preload,
-                );
+        $apiMain = new ApiMain();
+        $apiQuery = $apiMain->getModuleManager()->getModule("query");
+        '@phan-var ApiQuery $apiQuery';
 
-                $this->assertInstanceof(ApiQueryBase::class, $api);
-                $this->assertSame(
-                        "mp",
-                        $api->getModulePrefix(),
-                        "getModulePrefix",
-                );
+        $api = new ApiQueryModerationPreload($apiQuery, "query", $preload);
 
-                $allowedParams = $api->getAllowedParams();
-                $this->assertArrayHasKey("mode", $allowedParams);
-                $this->assertArrayHasKey("title", $allowedParams);
-                $this->assertArrayHasKey("pageid", $allowedParams);
-                $this->assertArrayHasKey("section", $allowedParams);
+        $this->assertInstanceof(ApiQueryBase::class, $api);
+        $this->assertSame("mp", $api->getModulePrefix(), "getModulePrefix");
 
-                $wrapper = TestingAccessWrapper::newFromObject($api);
-                $this->assertNotEmpty(
-                        $wrapper->getExamplesMessages(),
-                        "getExamplesMessages",
-                );
-        }
+        $allowedParams = $api->getAllowedParams();
+        $this->assertArrayHasKey("mode", $allowedParams);
+        $this->assertArrayHasKey("title", $allowedParams);
+        $this->assertArrayHasKey("pageid", $allowedParams);
+        $this->assertArrayHasKey("section", $allowedParams);
+
+        $wrapper = TestingAccessWrapper::newFromObject($api);
+        $this->assertNotEmpty(
+            $wrapper->getExamplesMessages(),
+            "getExamplesMessages",
+        );
+    }
 }

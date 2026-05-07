@@ -26,57 +26,57 @@ use MWException;
 
 class ModerationTestsuiteHTML extends ModerationTestHTML
 {
-        /** @var IModerationTestsuiteEngine|null */
-        protected $engine;
+    /** @var IModerationTestsuiteEngine|null */
+    protected $engine;
 
-        /**
-         * @param IModerationTestsuiteEngine|null $engine
-         */
-        public function __construct(IModerationTestsuiteEngine $engine = null)
-        {
-                $this->engine = $engine;
+    /**
+     * @param IModerationTestsuiteEngine|null $engine
+     */
+    public function __construct(IModerationTestsuiteEngine $engine = null)
+    {
+        $this->engine = $engine;
+    }
+
+    /**
+     * Load the HTML document from URL.
+     * @param string $url
+     * @return self
+     */
+    public function loadUrl($url)
+    {
+        if (!$this->engine) {
+            throw new MWException(
+                "This ModerationTestsuiteHTML object can't use load(\$url), " .
+                    "it was created without ModerationTestsuiteEngine.",
+            );
         }
 
-        /**
-         * Load the HTML document from URL.
-         * @param string $url
-         * @return self
-         */
-        public function loadUrl($url)
-        {
-                if (!$this->engine) {
-                        throw new MWException(
-                                "This ModerationTestsuiteHTML object can't use load(\$url), " .
-                                        "it was created without ModerationTestsuiteEngine.",
-                        );
-                }
+        $req = $this->engine->httpRequest($url, "GET");
+        return $this->loadReq($req);
+    }
 
-                $req = $this->engine->httpRequest($url, "GET");
-                return $this->loadReq($req);
-        }
+    /**
+     * Load the HTML document from the result of $t->httpGet(), $t->httpPost()
+     * @param IModerationTestsuiteResponse $req
+     * @return self
+     */
+    public function loadReq(IModerationTestsuiteResponse $req)
+    {
+        return $this->loadString($req->getContent());
+    }
 
-        /**
-         * Load the HTML document from the result of $t->httpGet(), $t->httpPost()
-         * @param IModerationTestsuiteResponse $req
-         * @return self
-         */
-        public function loadReq(IModerationTestsuiteResponse $req)
-        {
-                return $this->loadString($req->getContent());
-        }
-
-        /**
-         * Fetch the edit form and return the text in #wpTextbox1.
-         * @param string $title The page to be opened for editing.
-         * @return string|null
-         */
-        public function getPreloadedText($title)
-        {
-                $url = wfAppendQuery(wfScript("index"), [
-                        "title" => $title,
-                        "action" => "edit",
-                ]);
-                $elem = $this->loadUrl($url)->getElementById("wpTextbox1");
-                return $elem ? trim($elem->textContent) : null;
-        }
+    /**
+     * Fetch the edit form and return the text in #wpTextbox1.
+     * @param string $title The page to be opened for editing.
+     * @return string|null
+     */
+    public function getPreloadedText($title)
+    {
+        $url = wfAppendQuery(wfScript("index"), [
+            "title" => $title,
+            "action" => "edit",
+        ]);
+        $elem = $this->loadUrl($url)->getElementById("wpTextbox1");
+        return $elem ? trim($elem->textContent) : null;
+    }
 }

@@ -30,125 +30,122 @@ require_once __DIR__ . "/../framework/ModerationTestsuite.php";
  */
 class ModerationApiTest extends ModerationTestCase
 {
-        /**
-         * Checks return value of api.php?action=moderation&modaction=...
-         * @note Consequences of actions are checked by other tests (e.g. ModerationApproveTest).
-         * @dataProvider dataProviderModerationApi
-         */
-        public function testModerationApi(
-                $action,
-                array $expectedResult,
-                ModerationTestsuite $t,
-        ) {
-                /* Prepare a fake moderation entry */
-                $entry = $t->getSampleEntry();
+    /**
+     * Checks return value of api.php?action=moderation&modaction=...
+     * @note Consequences of actions are checked by other tests (e.g. ModerationApproveTest).
+     * @dataProvider dataProviderModerationApi
+     */
+    public function testModerationApi(
+        $action,
+        array $expectedResult,
+        ModerationTestsuite $t,
+    ) {
+        /* Prepare a fake moderation entry */
+        $entry = $t->getSampleEntry();
 
-                $this->recursiveReplace($expectedResult, [
-                        "{{ID}}" => (int) $entry->id,
-                        "{{AUTHOR}}" => $entry->user,
-                        "{{TITLE}}" => $entry->title,
-                ]);
+        $this->recursiveReplace($expectedResult, [
+            "{{ID}}" => (int) $entry->id,
+            "{{AUTHOR}}" => $entry->user,
+            "{{TITLE}}" => $entry->title,
+        ]);
 
-                $ret = $t->query([
-                        "action" => "moderation",
-                        "modid" => $entry->id,
-                        "modaction" => $action,
-                        "token" => null,
-                ]);
+        $ret = $t->query([
+            "action" => "moderation",
+            "modid" => $entry->id,
+            "modaction" => $action,
+            "token" => null,
+        ]);
 
-                if (
-                        $action == "show" &&
-                        isset($ret["moderation"]["diff-html"])
-                ) {
-                        /* Correctness of diff is already checked in ModerationShowTest,
+        if ($action == "show" && isset($ret["moderation"]["diff-html"])) {
+            /* Correctness of diff is already checked in ModerationShowTest,
 				we don't want to duplicate the same check.
 			*/
-                        $ret["moderation"]["diff-html"] = "{{DIFF}}";
-                }
-
-                $this->assertSame(["moderation" => $expectedResult], $ret);
+            $ret["moderation"]["diff-html"] = "{{DIFF}}";
         }
 
-        /**
-         * Provide datasets for testModerationApi() runs.
-         * @return array
-         */
-        public function dataProviderModerationApi()
-        {
-                return [
-                        [
-                                "approve",
-                                [
-                                        "approved" => ["{{ID}}"],
-                                ],
-                        ],
-                        [
-                                "approveall",
-                                [
-                                        "approved" => ["{{ID}}" => ""],
-                                        "failed" => [],
-                                ],
-                        ],
-                        [
-                                "reject",
-                                [
-                                        "rejected-count" => 1,
-                                ],
-                        ],
-                        [
-                                "rejectall",
-                                [
-                                        "rejected-count" => 1,
-                                ],
-                        ],
-                        [
-                                "block",
-                                [
-                                        "action" => "block",
-                                        "username" => "{{AUTHOR}}",
-                                ],
-                        ],
-                        [
-                                "unblock",
-                                [
-                                        "action" => "unblock",
-                                        "username" => "{{AUTHOR}}",
-                                        "noop" => "",
-                                ],
-                        ],
-                        [
-                                "show",
-                                [
-                                        "diff-html" => "{{DIFF}}",
-                                        "title" => "{{TITLE}}",
-                                ],
-                        ],
-                ];
+        $this->assertSame(["moderation" => $expectedResult], $ret);
+    }
+
+    /**
+     * Provide datasets for testModerationApi() runs.
+     * @return array
+     */
+    public function dataProviderModerationApi()
+    {
+        return [
+            [
+                "approve",
+                [
+                    "approved" => ["{{ID}}"],
+                ],
+            ],
+            [
+                "approveall",
+                [
+                    "approved" => ["{{ID}}" => ""],
+                    "failed" => [],
+                ],
+            ],
+            [
+                "reject",
+                [
+                    "rejected-count" => 1,
+                ],
+            ],
+            [
+                "rejectall",
+                [
+                    "rejected-count" => 1,
+                ],
+            ],
+            [
+                "block",
+                [
+                    "action" => "block",
+                    "username" => "{{AUTHOR}}",
+                ],
+            ],
+            [
+                "unblock",
+                [
+                    "action" => "unblock",
+                    "username" => "{{AUTHOR}}",
+                    "noop" => "",
+                ],
+            ],
+            [
+                "show",
+                [
+                    "diff-html" => "{{DIFF}}",
+                    "title" => "{{TITLE}}",
+                ],
+            ],
+        ];
+    }
+
+    /**
+     * Recursively search $data for any strings and apply replacements to them.
+     * @param array|string &$data
+     * @param array $replacements E.g. [ 'A' => 'B', 'textToReplace' => 'newText' ].
+     */
+    protected function recursiveReplace(&$data, array $replacements): void
+    {
+        if (!is_array($data)) {
+            // Value found: replace it if needed.
+            if (array_key_exists($data, $replacements)) {
+                $data = $replacements[$data];
+            }
+            return;
         }
 
-        /**
-         * Recursively search $data for any strings and apply replacements to them.
-         * @param array|string &$data
-         * @param array $replacements E.g. [ 'A' => 'B', 'textToReplace' => 'newText' ].
-         */
-        protected function recursiveReplace(&$data, array $replacements): void
-        {
-                if (!is_array($data)) {
-                        // Value found: replace it if needed.
-                        if (array_key_exists($data, $replacements)) {
-                                $data = $replacements[$data];
-                        }
-                        return;
-                }
+        // Search the array and apply replacements to both keys and values.
+        $newArray = [];
+        foreach ($data as $key => $val) {
+            $this->recursiveReplace($key, $replacements);
+            $this->recursiveReplace($val, $replacements);
 
-                // Search the array and apply replacements to both keys and values.
-                $newArray = [];
-                foreach ($data as $key => $val) {
-                        $this->recursiveReplace($key, $replacements);
-                        $this->recursiveReplace($val, $replacements);
-
-                        $newArray[$key] = $val;
-                }
-                $data = $newArray;
+            $newArray[$key] = $val;
         }
+        $data = $newArray;
+    }
 }

@@ -26,46 +26,46 @@ use User;
 
 class GiveAnonChangesToNewUserConsequence implements IConsequence
 {
-        /** @var User */
-        protected $user;
+    /** @var User */
+    protected $user;
 
-        /** @var string */
-        protected $oldPreloadId;
+    /** @var string */
+    protected $oldPreloadId;
 
-        /** @var string */
-        protected $newPreloadId;
+    /** @var string */
+    protected $newPreloadId;
 
-        /**
-         * @param User $user
-         * @param string $oldPreloadId
-         * @param string $newPreloadId
-         */
-        public function __construct(User $user, $oldPreloadId, $newPreloadId)
-        {
-                $this->user = $user;
-                $this->oldPreloadId = $oldPreloadId;
-                $this->newPreloadId = $newPreloadId;
-        }
+    /**
+     * @param User $user
+     * @param string $oldPreloadId
+     * @param string $newPreloadId
+     */
+    public function __construct(User $user, $oldPreloadId, $newPreloadId)
+    {
+        $this->user = $user;
+        $this->oldPreloadId = $oldPreloadId;
+        $this->newPreloadId = $newPreloadId;
+    }
 
-        /**
-         * Execute the consequence.
-         */
-        public function run()
-        {
-                $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
-                $dbw->update(
-                        "moderation",
-                        [
-                                "mod_user" => $this->user->getId(),
-                                "mod_user_text" => $this->user->getName(),
-                                "mod_preload_id" => $this->newPreloadId,
-                        ],
-                        [
-                                "mod_preload_id" => $this->oldPreloadId,
-                                "mod_preloadable" => 0,
-                        ],
-                        __METHOD__,
-                        ["USE INDEX" => "moderation_signup"],
-                );
-        }
+    /**
+     * Execute the consequence.
+     */
+    public function run()
+    {
+        $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
+        $dbw->update(
+            "moderation",
+            [
+                "mod_user" => $this->user->getId(),
+                "mod_user_text" => $this->user->getName(),
+                "mod_preload_id" => $this->newPreloadId,
+            ],
+            [
+                "mod_preload_id" => $this->oldPreloadId,
+                "mod_preloadable" => 0,
+            ],
+            __METHOD__,
+            ["USE INDEX" => "moderation_signup"],
+        );
+    }
 }

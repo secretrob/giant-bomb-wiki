@@ -24,28 +24,28 @@ namespace MediaWiki\Moderation;
 
 class MarkAsConflictConsequence implements IConsequence
 {
-        /** @var int */
-        protected $modid;
+    /** @var int */
+    protected $modid;
 
-        /**
-         * @param int $modid
-         */
-        public function __construct($modid)
-        {
-                $this->modid = $modid;
-        }
+    /**
+     * @param int $modid
+     */
+    public function __construct($modid)
+    {
+        $this->modid = $modid;
+    }
 
-        /**
-         * Execute the consequence.
-         */
-        public function run()
-        {
-                $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
-                $dbw->update(
-                        "moderation",
-                        ["mod_conflict" => 1],
-                        ["mod_id" => $this->modid],
-                        __METHOD__,
-                );
-        }
+    /**
+     * Execute the consequence.
+     */
+    public function run()
+    {
+        $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
+        $dbw->update(
+            "moderation",
+            ["mod_conflict" => 1],
+            ["mod_id" => $this->modid],
+            __METHOD__,
+        );
+    }
 }

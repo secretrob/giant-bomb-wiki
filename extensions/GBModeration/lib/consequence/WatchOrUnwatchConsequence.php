@@ -28,38 +28,38 @@ use User;
 
 class WatchOrUnwatchConsequence implements IConsequence
 {
-        /** @var bool */
-        protected $watch;
+    /** @var bool */
+    protected $watch;
 
-        /** @var Title */
-        protected $title;
+    /** @var Title */
+    protected $title;
 
-        /** @var User */
-        protected $user;
+    /** @var User */
+    protected $user;
 
-        /**
-         * @param bool $watch If true, page will be watched. If false, page will be unwatched.
-         * @param Title $title
-         * @param User $user
-         */
-        public function __construct($watch, Title $title, User $user)
-        {
-                $this->watch = $watch;
-                $this->title = $title;
-                $this->user = $user;
-        }
+    /**
+     * @param bool $watch If true, page will be watched. If false, page will be unwatched.
+     * @param Title $title
+     * @param User $user
+     */
+    public function __construct($watch, Title $title, User $user)
+    {
+        $this->watch = $watch;
+        $this->title = $title;
+        $this->user = $user;
+    }
 
-        /**
-         * Execute the consequence.
-         */
-        public function run()
-        {
-                $watchlistManager = MediaWikiServices::getInstance()->getWatchlistManager();
-                $watchlistManager->setWatch(
-                        $this->watch,
-                        $this->user,
-                        $this->title,
-                        null,
-                );
-        }
+    /**
+     * Execute the consequence.
+     */
+    public function run()
+    {
+        $watchlistManager = MediaWikiServices::getInstance()->getWatchlistManager();
+        $watchlistManager->setWatch(
+            $this->watch,
+            $this->user,
+            $this->title,
+            null,
+        );
+    }
 }

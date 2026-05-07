@@ -27,20 +27,20 @@ use MediaWiki\Linker\LinkTarget;
 
 interface ModerationContinueEditingLinkHook
 {
-        /**
-         * Called when the user who just saved an edit is redirected back to the article.
-         * Can be used to modify the URL of that redirect.
-         *
-         * @param string &$returnto
-         * @param array &$returntoquery
-         * @param LinkTarget $title
-         * @param IContextSource $context
-         * @return bool|void
-         */
-        public function onModerationContinueEditingLink(
-                string &$returnto,
-                array &$returntoquery,
-                LinkTarget $title,
-                IContextSource $context,
-        );
+    /**
+     * Called when the user who just saved an edit is redirected back to the article.
+     * Can be used to modify the URL of that redirect.
+     *
+     * @param string &$returnto
+     * @param array &$returntoquery
+     * @param LinkTarget $title
+     * @param IContextSource $context
+     * @return bool|void
+     */
+    public function onModerationContinueEditingLink(
+        string &$returnto,
+        array &$returntoquery,
+        LinkTarget $title,
+        IContextSource $context,
+    );
 }

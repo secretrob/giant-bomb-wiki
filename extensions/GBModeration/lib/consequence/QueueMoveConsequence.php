@@ -28,49 +28,49 @@ use User;
 
 class QueueMoveConsequence implements IConsequence
 {
-        /** @var Title */
-        protected $oldTitle;
+    /** @var Title */
+    protected $oldTitle;
 
-        /** @var Title */
-        protected $newTitle;
+    /** @var Title */
+    protected $newTitle;
 
-        /** @var User */
-        protected $user;
+    /** @var User */
+    protected $user;
 
-        /** @var string */
-        protected $reason;
+    /** @var string */
+    protected $reason;
 
-        /**
-         * @param Title $oldTitle
-         * @param Title $newTitle
-         * @param User $user
-         * @param string $reason
-         */
-        public function __construct(
-                Title $oldTitle,
-                Title $newTitle,
-                User $user,
-                $reason,
-        ) {
-                $this->oldTitle = $oldTitle;
-                $this->newTitle = $newTitle;
-                $this->user = $user;
-                $this->reason = $reason;
-        }
+    /**
+     * @param Title $oldTitle
+     * @param Title $newTitle
+     * @param User $user
+     * @param string $reason
+     */
+    public function __construct(
+        Title $oldTitle,
+        Title $newTitle,
+        User $user,
+        $reason,
+    ) {
+        $this->oldTitle = $oldTitle;
+        $this->newTitle = $newTitle;
+        $this->user = $user;
+        $this->reason = $reason;
+    }
 
-        /**
-         * Execute the consequence.
-         * @return int mod_id of affected row.
-         */
-        public function run()
-        {
-                $factory = MediaWikiServices::getInstance()->getService(
-                        "Moderation.NewChangeFactory",
-                );
-                $change = $factory->makeNewChange($this->oldTitle, $this->user);
-                return $change
-                        ->move($this->newTitle)
-                        ->setSummary($this->reason)
-                        ->queue();
-        }
+    /**
+     * Execute the consequence.
+     * @return int mod_id of affected row.
+     */
+    public function run()
+    {
+        $factory = MediaWikiServices::getInstance()->getService(
+            "Moderation.NewChangeFactory",
+        );
+        $change = $factory->makeNewChange($this->oldTitle, $this->user);
+        return $change
+            ->move($this->newTitle)
+            ->setSummary($this->reason)
+            ->queue();
+    }
 }

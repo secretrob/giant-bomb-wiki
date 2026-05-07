@@ -38,91 +38,91 @@ use UploadFromFile;
  */
 trait UploadTestTrait
 {
-        /**
-         * Path to the locally stored image that will be uploaded.
-         * @var string
-         */
-        protected $sampleImageFile =
-                __DIR__ . "/../../../resources/image100x100.png";
+    /**
+     * Path to the locally stored image that will be uploaded.
+     * @var string
+     */
+    protected $sampleImageFile =
+        __DIR__ . "/../../../resources/image100x100.png";
 
-        /**
-         * Path to another locally stored image, which is different from $sampleImageFile.
-         * Can be used for reupload tests (to avoid "This is duplicate of existing file" upload error).
-         * @var string
-         */
-        protected $anotherSampleImageFile =
-                __DIR__ . "/../../../resources/image640x50.png";
+    /**
+     * Path to another locally stored image, which is different from $sampleImageFile.
+     * Can be used for reupload tests (to avoid "This is duplicate of existing file" upload error).
+     * @var string
+     */
+    protected $anotherSampleImageFile =
+        __DIR__ . "/../../../resources/image640x50.png";
 
-        /**
-         * Prepare a test upload. It won't actually start until its performUpload() method is called.
-         * @param Title $title
-         * @param string $srcPath
-         * @return UploadBase
-         */
-        protected function prepareTestUpload(Title $title, $srcPath = "")
-        {
-                if (!$srcPath) {
-                        $srcPath = $this->sampleImageFile;
-                }
-
-                /* Create a temporary copy of this file,
-                 so that the original file won't be deleted after the upload */
-                $tmpFileFactory = MediaWikiServices::getInstance()->getTempFSFileFactory();
-                $tmpFile = $tmpFileFactory->newTempFSFile(
-                        "testsuite.upload",
-                        basename($srcPath),
-                );
-                $tmpFile->preserve(); // Otherwise it will be deleted after exiting prepareTestUpload()
-
-                $tmpFilePath = $tmpFile->getPath();
-                copy($srcPath, $tmpFilePath);
-
-                $curlFile = new CURLFile($tmpFilePath);
-                $uploadData = [
-                        "name" => "whatever", # Not used anywhere
-                        "type" => $curlFile->getMimeType(),
-                        "tmp_name" => $curlFile->getFilename(),
-                        "size" => filesize($curlFile->getFilename()),
-                        "error" => 0,
-                ];
-
-                $fauxRequest = RequestContext::getMain()->getRequest();
-                '@phan-var FauxRequest $fauxRequest';
-
-                $fauxRequest->setUpload("wpUploadFile", $uploadData);
-
-                $upload = new UploadFromFile();
-                $upload->initialize(
-                        $title->getText(),
-                        $fauxRequest->getUpload("wpUploadFile"),
-                );
-
-                $this->assertSame(
-                        ["status" => UploadBase::OK],
-                        $upload->verifyUpload(),
-                );
-
-                return $upload;
+    /**
+     * Prepare a test upload. It won't actually start until its performUpload() method is called.
+     * @param Title $title
+     * @param string $srcPath
+     * @return UploadBase
+     */
+    protected function prepareTestUpload(Title $title, $srcPath = "")
+    {
+        if (!$srcPath) {
+            $srcPath = $this->sampleImageFile;
         }
 
-        /**
-         * Store test image into the ModerationUploadStorage and return its stash_key.
-         * @param string|null $srcPath
-         * @return string Valid stash_key of newly stored file.
-         */
-        protected function stashSampleImage($srcPath = null)
-        {
-                $file = MediaWikiServices::getInstance()
-                        ->getTempFSFileFactory()
-                        ->newTempFSFile("", "png");
-                $path = $file->getPath();
+        /* Create a temporary copy of this file,
+         so that the original file won't be deleted after the upload */
+        $tmpFileFactory = MediaWikiServices::getInstance()->getTempFSFileFactory();
+        $tmpFile = $tmpFileFactory->newTempFSFile(
+            "testsuite.upload",
+            basename($srcPath),
+        );
+        $tmpFile->preserve(); // Otherwise it will be deleted after exiting prepareTestUpload()
 
-                file_put_contents(
-                        $path,
-                        file_get_contents($srcPath ?? $this->sampleImageFile),
-                );
-                return ModerationUploadStorage::getStash()
-                        ->stashFile($path)
-                        ->getFileKey();
-        }
+        $tmpFilePath = $tmpFile->getPath();
+        copy($srcPath, $tmpFilePath);
+
+        $curlFile = new CURLFile($tmpFilePath);
+        $uploadData = [
+            "name" => "whatever", # Not used anywhere
+            "type" => $curlFile->getMimeType(),
+            "tmp_name" => $curlFile->getFilename(),
+            "size" => filesize($curlFile->getFilename()),
+            "error" => 0,
+        ];
+
+        $fauxRequest = RequestContext::getMain()->getRequest();
+        '@phan-var FauxRequest $fauxRequest';
+
+        $fauxRequest->setUpload("wpUploadFile", $uploadData);
+
+        $upload = new UploadFromFile();
+        $upload->initialize(
+            $title->getText(),
+            $fauxRequest->getUpload("wpUploadFile"),
+        );
+
+        $this->assertSame(
+            ["status" => UploadBase::OK],
+            $upload->verifyUpload(),
+        );
+
+        return $upload;
+    }
+
+    /**
+     * Store test image into the ModerationUploadStorage and return its stash_key.
+     * @param string|null $srcPath
+     * @return string Valid stash_key of newly stored file.
+     */
+    protected function stashSampleImage($srcPath = null)
+    {
+        $file = MediaWikiServices::getInstance()
+            ->getTempFSFileFactory()
+            ->newTempFSFile("", "png");
+        $path = $file->getPath();
+
+        file_put_contents(
+            $path,
+            file_get_contents($srcPath ?? $this->sampleImageFile),
+        );
+        return ModerationUploadStorage::getStash()
+            ->stashFile($path)
+            ->getFileKey();
+    }
 }

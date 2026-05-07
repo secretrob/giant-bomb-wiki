@@ -44,8 +44,8 @@ namespace MediaWiki\Moderation;
  */
 interface IConsequence
 {
-        /**
-         * Execute the consequence.
-         */
-        public function run();
+    /**
+     * Execute the consequence.
+     */
+    public function run();
 }

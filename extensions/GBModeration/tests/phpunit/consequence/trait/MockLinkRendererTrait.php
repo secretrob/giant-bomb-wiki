@@ -35,61 +35,57 @@ use MediaWiki\Title\Title;
  */
 trait MockLinkRendererTrait
 {
-        /**
-         * Mocks LinkRendererFactory service to return $linkText instead of link to $title.
-         * @param array $linkTextToTitle
-         * @phan-param array<string,LinkTarget> $linkTextToTitle
-         */
-        public function mockLinkRenderer(array $linkTextToTitle)
-        {
-                // Mock LinkRendererFactory service to ensure that OutputPage::addReturnTo() added expected link.
-                $callback = function (LinkTarget $title) use (
-                        $linkTextToTitle,
-                ) {
-                        foreach ($linkTextToTitle as $mockedText => $title2) {
-                                if ($title2 && $title->isSameLinkAs($title2)) {
-                                        return $mockedText;
-                                }
-                        }
-
-                        $this->assertTrue(
-                                false,
-                                "mockLinkRenderer: makeLink() was called for non-configured title: " .
-                                        Title::newFromLinkTarget(
-                                                $title,
-                                        )->getFullText(),
-                        );
-                };
-
-                $linkRenderer = $this->createMock(LinkRenderer::class);
-                foreach (["makeLink", "makeKnownLink"] as $methodName) {
-                        $linkRenderer
-                                ->expects($this->any())
-                                ->method($methodName)
-                                ->willReturnCallback($callback);
+    /**
+     * Mocks LinkRendererFactory service to return $linkText instead of link to $title.
+     * @param array $linkTextToTitle
+     * @phan-param array<string,LinkTarget> $linkTextToTitle
+     */
+    public function mockLinkRenderer(array $linkTextToTitle)
+    {
+        // Mock LinkRendererFactory service to ensure that OutputPage::addReturnTo() added expected link.
+        $callback = function (LinkTarget $title) use ($linkTextToTitle) {
+            foreach ($linkTextToTitle as $mockedText => $title2) {
+                if ($title2 && $title->isSameLinkAs($title2)) {
+                    return $mockedText;
                 }
-                $linkRenderer
-                        ->expects($this->any())
-                        ->method("getLinkClasses")
-                        ->willReturn("");
+            }
 
-                $lrFactory = $this->createMock(LinkRendererFactory::class);
-                $lrFactory
-                        ->expects($this->any())
-                        ->method("create")
-                        ->willReturn($linkRenderer);
-                $lrFactory
-                        ->expects($this->any())
-                        ->method("createFromLegacyOptions")
-                        ->willReturn($linkRenderer);
-                $this->setService("LinkRendererFactory", $lrFactory);
+            $this->assertTrue(
+                false,
+                "mockLinkRenderer: makeLink() was called for non-configured title: " .
+                    Title::newFromLinkTarget($title)->getFullText(),
+            );
+        };
+
+        $linkRenderer = $this->createMock(LinkRenderer::class);
+        foreach (["makeLink", "makeKnownLink"] as $methodName) {
+            $linkRenderer
+                ->expects($this->any())
+                ->method($methodName)
+                ->willReturnCallback($callback);
         }
+        $linkRenderer
+            ->expects($this->any())
+            ->method("getLinkClasses")
+            ->willReturn("");
 
-        // These methods are in MediaWikiIntegrationTestCase (this trait is used by its subclasses).
+        $lrFactory = $this->createMock(LinkRendererFactory::class);
+        $lrFactory
+            ->expects($this->any())
+            ->method("create")
+            ->willReturn($linkRenderer);
+        $lrFactory
+            ->expects($this->any())
+            ->method("createFromLegacyOptions")
+            ->willReturn($linkRenderer);
+        $this->setService("LinkRendererFactory", $lrFactory);
+    }
 
-        /** @inheritDoc */
-        abstract protected function setService(string $name, $service);
+    // These methods are in MediaWikiIntegrationTestCase (this trait is used by its subclasses).
 
-        /** @inheritDoc */
-        abstract protected function createMock(string $originalClassName);
+    /** @inheritDoc */
+    abstract protected function setService(string $name, $service);
+
+    /** @inheritDoc */
+    abstract protected function createMock(string $originalClassName);
 }

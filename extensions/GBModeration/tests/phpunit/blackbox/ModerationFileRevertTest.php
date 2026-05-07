@@ -29,44 +29,40 @@ require_once __DIR__ . "/../framework/ModerationTestsuite.php";
  */
 class ModerationFileRevertTest extends ModerationTestCase
 {
-        /**
-         * Check that index.php?action=revert can't be used to bypass Moderation.
-         * @covers MediaWiki\Moderation\ModerationUploadHooks::ongetUserPermissionsErrors
-         */
-        public function testFileRevert(ModerationTestsuite $t)
-        {
-                $t->loginAs($t->unprivilegedUser);
-                $req = $t->httpPost(wfScript("index"), [
-                        "action" => "revert",
-                ]);
-                $t->html->loadReq($req);
+    /**
+     * Check that index.php?action=revert can't be used to bypass Moderation.
+     * @covers MediaWiki\Moderation\ModerationUploadHooks::ongetUserPermissionsErrors
+     */
+    public function testFileRevert(ModerationTestsuite $t)
+    {
+        $t->loginAs($t->unprivilegedUser);
+        $req = $t->httpPost(wfScript("index"), [
+            "action" => "revert",
+        ]);
+        $t->html->loadReq($req);
 
-                $this->assertMatchesRegularExpression(
-                        "/\(moderation-revert-not-allowed\)/",
-                        $t->html->getMainText(),
-                        "testFileRevert(): Revert page doesn't contain (moderation-revert-not-allowed)",
-                );
-        }
+        $this->assertMatchesRegularExpression(
+            "/\(moderation-revert-not-allowed\)/",
+            $t->html->getMainText(),
+            "testFileRevert(): Revert page doesn't contain (moderation-revert-not-allowed)",
+        );
+    }
 
-        /**
-         * Check that api.php?action=filerevert can't be used to bypass Moderation.
-         * @covers MediaWiki\Moderation\ModerationApiHooks::onApiCheckCanExecute
-         */
-        public function testApiFileRevert(ModerationTestsuite $t)
-        {
-                $t->loginAs($t->unprivilegedUser);
-                $ret = $t->query([
-                        "action" => "filerevert",
-                        "filename" => "whatever",
-                        "archivename" => "whatever",
-                        "token" => null,
-                ]);
+    /**
+     * Check that api.php?action=filerevert can't be used to bypass Moderation.
+     * @covers MediaWiki\Moderation\ModerationApiHooks::onApiCheckCanExecute
+     */
+    public function testApiFileRevert(ModerationTestsuite $t)
+    {
+        $t->loginAs($t->unprivilegedUser);
+        $ret = $t->query([
+            "action" => "filerevert",
+            "filename" => "whatever",
+            "archivename" => "whatever",
+            "token" => null,
+        ]);
 
-                /* File revert shouldn't be allowed (this user is not automoderated) */
-                $t->assertApiError(
-                        "moderation-revert-not-allowed",
-                        $ret,
-                        $this,
-                );
-        }
+        /* File revert shouldn't be allowed (this user is not automoderated) */
+        $t->assertApiError("moderation-revert-not-allowed", $ret, $this);
+    }
 }

@@ -29,26 +29,24 @@ require_once __DIR__ . "/autoload.php";
 
 class ForgetAnonIdConsequenceTest extends ModerationUnitTestCase
 {
-        /**
-         * Verify that ForgetAnonIdConsequence removes anon_id from the current session.
-         * @covers MediaWiki\Moderation\ForgetAnonIdConsequence
-         */
-        public function testForgetAnonId()
-        {
-                $oldAnonId = 67890;
-                RequestContext::getMain()
-                        ->getRequest()
-                        ->setSessionData("anon_id", $oldAnonId);
+    /**
+     * Verify that ForgetAnonIdConsequence removes anon_id from the current session.
+     * @covers MediaWiki\Moderation\ForgetAnonIdConsequence
+     */
+    public function testForgetAnonId()
+    {
+        $oldAnonId = 67890;
+        RequestContext::getMain()
+            ->getRequest()
+            ->setSessionData("anon_id", $oldAnonId);
 
-                // Create and run the Consequence.
-                $consequence = new ForgetAnonIdConsequence();
-                $consequence->run();
+        // Create and run the Consequence.
+        $consequence = new ForgetAnonIdConsequence();
+        $consequence->run();
 
-                $this->assertNull(
-                        RequestContext::getMain()
-                                ->getRequest()
-                                ->getSessionData("anon_id"),
-                        "anon_id wasn't deleted from the session after ForgetAnonIdConsequence.",
-                );
-        }
+        $this->assertNull(
+            RequestContext::getMain()->getRequest()->getSessionData("anon_id"),
+            "anon_id wasn't deleted from the session after ForgetAnonIdConsequence.",
+        );
+    }
 }

@@ -35,55 +35,52 @@ require_once __DIR__ . "/autoload.php";
  */
 class SendNotificationEmailConsequenceTest extends ModerationUnitTestCase
 {
-        /**
-         * Verify that SendNotificationEmailConsequence sends an outgoing email.
-         * @covers MediaWiki\Moderation\SendNotificationEmailConsequence
-         */
-        public function testSendNotificationEmailConsequence()
-        {
-                $title = Title::newFromText("Project:Some page");
-                $user = User::newFromName("10.11.12.13", false);
-                $modid = 12345;
-                $expectedRecipient = "some.recipient@localhost";
-                $expectedSender = "some.sender@localhost";
+    /**
+     * Verify that SendNotificationEmailConsequence sends an outgoing email.
+     * @covers MediaWiki\Moderation\SendNotificationEmailConsequence
+     */
+    public function testSendNotificationEmailConsequence()
+    {
+        $title = Title::newFromText("Project:Some page");
+        $user = User::newFromName("10.11.12.13", false);
+        $modid = 12345;
+        $expectedRecipient = "some.recipient@localhost";
+        $expectedSender = "some.sender@localhost";
 
-                $expectedContent =
-                        "(moderation-notification-content: " .
-                        $title->getFullText() .
-                        ", " .
-                        $user->getName() .
-                        ", " .
-                        SpecialPage::getTitleFor("Moderation")->getCanonicalURL(
-                                [
-                                        "modaction" => "show",
-                                        "modid" => $modid,
-                                ],
-                        ) .
-                        ")";
+        $expectedContent =
+            "(moderation-notification-content: " .
+            $title->getFullText() .
+            ", " .
+            $user->getName() .
+            ", " .
+            SpecialPage::getTitleFor("Moderation")->getCanonicalURL([
+                "modaction" => "show",
+                "modid" => $modid,
+            ]) .
+            ")";
 
-                $this->setMwGlobals("wgModerationEmail", $expectedRecipient);
-                $this->setMwGlobals("wgPasswordSender", $expectedSender);
-                $this->overrideConfigValue("LanguageCode", "qqx");
+        $this->setMwGlobals("wgModerationEmail", $expectedRecipient);
+        $this->setMwGlobals("wgPasswordSender", $expectedSender);
+        $this->overrideConfigValue("LanguageCode", "qqx");
 
-                $emailer = $this->createMock(IEmailer::class);
-                $emailer->expects($this->once())
-                        ->method("send")
-                        ->with(
-                                $this->equalTo([$expectedRecipient]),
-                                $this->equalTo($expectedSender),
-                                $this->identicalTo(
-                                        "(moderation-notification-subject)",
-                                ),
-                                $this->identicalTo($expectedContent),
-                        );
-                $this->setService("Emailer", $emailer);
+        $emailer = $this->createMock(IEmailer::class);
+        $emailer
+            ->expects($this->once())
+            ->method("send")
+            ->with(
+                $this->equalTo([$expectedRecipient]),
+                $this->equalTo($expectedSender),
+                $this->identicalTo("(moderation-notification-subject)"),
+                $this->identicalTo($expectedContent),
+            );
+        $this->setService("Emailer", $emailer);
 
-                // Create and run the Consequence.
-                $consequence = new SendNotificationEmailConsequence(
-                        $title,
-                        $user,
-                        $modid,
-                );
-                $consequence->run();
-        }
+        // Create and run the Consequence.
+        $consequence = new SendNotificationEmailConsequence(
+            $title,
+            $user,
+            $modid,
+        );
+        $consequence->run();
+    }
 }

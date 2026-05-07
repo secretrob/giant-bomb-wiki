@@ -37,76 +37,71 @@ require_once __DIR__ . "/autoload.php";
  */
 class CreatingNewUserHasConsequencesTest extends ModerationUnitTestCase
 {
-        /**
-         * Test consequences when user who already made some edit creates an account.
-         * @covers MediaWiki\Moderation\GiveAnonChangesToNewUserConsequence
-         * @covers MediaWiki\Moderation\ModerationPreload
-         */
-        public function testCreateAccountAfterEditing()
-        {
-                $username = "Newly registered user " . rand(0, 100000);
-                $anonId = "SampleAnonId" . rand(0, 1000000);
+    /**
+     * Test consequences when user who already made some edit creates an account.
+     * @covers MediaWiki\Moderation\GiveAnonChangesToNewUserConsequence
+     * @covers MediaWiki\Moderation\ModerationPreload
+     */
+    public function testCreateAccountAfterEditing()
+    {
+        $username = "Newly registered user " . rand(0, 100000);
+        $anonId = "SampleAnonId" . rand(0, 1000000);
 
-                $newPreloadId = "[" . $username;
-                $oldPreloadId = "]" . $anonId;
+        $newPreloadId = "[" . $username;
+        $oldPreloadId = "]" . $anonId;
 
-                // This session key is always created when edit by anonymous user is queued for moderation,
-                // see RememberAnonIdConsequence and related tests.
-                $session = RequestContext::getMain()
-                        ->getRequest()
-                        ->getSession();
-                $session->set("anon_id", $anonId);
-                $session->persist();
+        // This session key is always created when edit by anonymous user is queued for moderation,
+        // see RememberAnonIdConsequence and related tests.
+        $session = RequestContext::getMain()->getRequest()->getSession();
+        $session->set("anon_id", $anonId);
+        $session->persist();
 
-                $manager = $this->mockConsequenceManager();
-                $this->createAccount($username);
+        $manager = $this->mockConsequenceManager();
+        $this->createAccount($username);
 
-                $this->assertConsequencesEqual(
-                        [
-                                new GiveAnonChangesToNewUserConsequence(
-                                        User::newFromName($username),
-                                        $oldPreloadId,
-                                        $newPreloadId,
-                                ),
-                                // Should also forget anon_id
-                                new ForgetAnonIdConsequence(),
-                        ],
-                        $manager->getConsequences(),
-                );
-        }
+        $this->assertConsequencesEqual(
+            [
+                new GiveAnonChangesToNewUserConsequence(
+                    User::newFromName($username),
+                    $oldPreloadId,
+                    $newPreloadId,
+                ),
+                // Should also forget anon_id
+                new ForgetAnonIdConsequence(),
+            ],
+            $manager->getConsequences(),
+        );
+    }
 
-        /**
-         * Test consequences when user who never edited before creates an account.
-         * @covers MediaWiki\Moderation\GiveAnonChangesToNewUserConsequence
-         * @covers MediaWiki\Moderation\ModerationPreload
-         */
-        public function testCreateAccountWithNoPriorEdits()
-        {
-                $manager = $this->mockConsequenceManager();
-                $this->createAccount(
-                        "Newly registered user " . rand(0, 100000),
-                );
-                $this->assertConsequencesEqual([], $manager->getConsequences());
-        }
+    /**
+     * Test consequences when user who never edited before creates an account.
+     * @covers MediaWiki\Moderation\GiveAnonChangesToNewUserConsequence
+     * @covers MediaWiki\Moderation\ModerationPreload
+     */
+    public function testCreateAccountWithNoPriorEdits()
+    {
+        $manager = $this->mockConsequenceManager();
+        $this->createAccount("Newly registered user " . rand(0, 100000));
+        $this->assertConsequencesEqual([], $manager->getConsequences());
+    }
 
-        /**
-         * Create account properly (via AuthManager), as real users would do.
-         * @param string $username
-         */
-        private function createAccount($username)
-        {
-                $user = User::newFromName($username, false);
-                $status = MediaWikiServices::getInstance()
-                        ->getAuthManager()
-                        ->autoCreateUser(
-                                $user,
-                                AuthManager::AUTOCREATE_SOURCE_SESSION,
-                                false,
-                        );
-                $this->assertTrue(
-                        $status->isOK(),
-                        "CreateAccount failed: " .
-                                $status->getMessage()->plain(),
-                );
-        }
+    /**
+     * Create account properly (via AuthManager), as real users would do.
+     * @param string $username
+     */
+    private function createAccount($username)
+    {
+        $user = User::newFromName($username, false);
+        $status = MediaWikiServices::getInstance()
+            ->getAuthManager()
+            ->autoCreateUser(
+                $user,
+                AuthManager::AUTOCREATE_SOURCE_SESSION,
+                false,
+            );
+        $this->assertTrue(
+            $status->isOK(),
+            "CreateAccount failed: " . $status->getMessage()->plain(),
+        );
+    }
 }

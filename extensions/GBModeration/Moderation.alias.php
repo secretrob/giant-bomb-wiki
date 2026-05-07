@@ -26,5 +26,5 @@ $specialPageAliases = [];
  * @author Edward Chernenko
  */
 $specialPageAliases["en"] = [
-        "Moderation" => ["Moderation"],
+    "Moderation" => ["Moderation"],
 ];

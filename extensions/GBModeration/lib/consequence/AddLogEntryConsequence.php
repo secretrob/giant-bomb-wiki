@@ -29,60 +29,60 @@ use User;
 
 class AddLogEntryConsequence implements IConsequence
 {
-        /** @var string */
-        protected $subtype;
+    /** @var string */
+    protected $subtype;
 
-        /** @var User */
-        protected $user;
+    /** @var User */
+    protected $user;
 
-        /** @var Title */
-        protected $title;
+    /** @var Title */
+    protected $title;
 
-        /** @var array */
-        protected $params;
+    /** @var array */
+    protected $params;
 
-        /** @var bool */
-        protected $runApproveHook;
+    /** @var bool */
+    protected $runApproveHook;
 
-        /**
-         * @param string $subtype
-         * @param User $user
-         * @param Title $title
-         * @param array $params
-         * @param bool $runApproveHook
-         */
-        public function __construct(
-                $subtype,
-                User $user,
-                Title $title,
-                array $params = [],
-                $runApproveHook = false,
-        ) {
-                $this->subtype = $subtype;
-                $this->user = $user;
-                $this->title = $title;
-                $this->params = $params;
-                $this->runApproveHook = $runApproveHook;
+    /**
+     * @param string $subtype
+     * @param User $user
+     * @param Title $title
+     * @param array $params
+     * @param bool $runApproveHook
+     */
+    public function __construct(
+        $subtype,
+        User $user,
+        Title $title,
+        array $params = [],
+        $runApproveHook = false,
+    ) {
+        $this->subtype = $subtype;
+        $this->user = $user;
+        $this->title = $title;
+        $this->params = $params;
+        $this->runApproveHook = $runApproveHook;
+    }
+
+    /**
+     * Execute the consequence.
+     */
+    public function run()
+    {
+        $logEntry = new ManualLogEntry("moderation", $this->subtype);
+        $logEntry->setPerformer($this->user);
+        $logEntry->setTarget($this->title);
+        $logEntry->setParameters($this->params);
+
+        $logid = $logEntry->insert();
+        $logEntry->publish($logid);
+
+        if ($this->runApproveHook) {
+            $approveHook = MediaWikiServices::getInstance()->getService(
+                "Moderation.ApproveHook",
+            );
+            $approveHook->checkLogEntry($logid, $logEntry);
         }
-
-        /**
-         * Execute the consequence.
-         */
-        public function run()
-        {
-                $logEntry = new ManualLogEntry("moderation", $this->subtype);
-                $logEntry->setPerformer($this->user);
-                $logEntry->setTarget($this->title);
-                $logEntry->setParameters($this->params);
-
-                $logid = $logEntry->insert();
-                $logEntry->publish($logid);
-
-                if ($this->runApproveHook) {
-                        $approveHook = MediaWikiServices::getInstance()->getService(
-                                "Moderation.ApproveHook",
-                        );
-                        $approveHook->checkLogEntry($logid, $logEntry);
-                }
-        }
+    }
 }

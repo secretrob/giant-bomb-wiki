@@ -28,50 +28,50 @@ require_once __DIR__ . "/../framework/ModerationTestsuite.php";
  */
 class ModerationTokensTest extends ModerationTestCase
 {
-        /**
-         * Verifies that moderation tokens are required.
-         * @coversNothing
-         */
-        public function testTokens(ModerationTestsuite $t)
-        {
-                $t->loginAs($t->unprivilegedUser);
-                $t->doTestEdit();
-                $t->fetchSpecial();
+    /**
+     * Verifies that moderation tokens are required.
+     * @coversNothing
+     */
+    public function testTokens(ModerationTestsuite $t)
+    {
+        $t->loginAs($t->unprivilegedUser);
+        $t->doTestEdit();
+        $t->fetchSpecial();
 
-                $entry = $t->new_entries[0];
-                $entry->fakeBlockLink();
+        $entry = $t->new_entries[0];
+        $entry->fakeBlockLink();
 
-                # Non-readonly actions require a correct token
-                $links = [
-                        $entry->approveLink,
-                        $entry->approveAllLink,
-                        $entry->rejectLink,
-                        $entry->rejectAllLink,
-                        $entry->blockLink,
-                        $entry->unblockLink,
-                ];
-                foreach ($links as $url) {
-                        $this->assertMatchesRegularExpression(
-                                "/\(sessionfailure-title\)/",
-                                $t->noTokenTitle($url),
-                        );
+        # Non-readonly actions require a correct token
+        $links = [
+            $entry->approveLink,
+            $entry->approveAllLink,
+            $entry->rejectLink,
+            $entry->rejectAllLink,
+            $entry->blockLink,
+            $entry->unblockLink,
+        ];
+        foreach ($links as $url) {
+            $this->assertMatchesRegularExpression(
+                "/\(sessionfailure-title\)/",
+                $t->noTokenTitle($url),
+            );
 
-                        /* Double-check that nothing happened */
-                        $t->fetchSpecial();
-                        $this->assertCount(0, $t->new_entries);
-                        $this->assertCount(0, $t->deleted_entries);
+            /* Double-check that nothing happened */
+            $t->fetchSpecial();
+            $this->assertCount(0, $t->new_entries);
+            $this->assertCount(0, $t->deleted_entries);
 
-                        # Would the wrong token work?
+            # Would the wrong token work?
 
-                        $this->assertMatchesRegularExpression(
-                                "/\(sessionfailure-title\)/",
-                                $t->badTokenTitle($url),
-                        );
+            $this->assertMatchesRegularExpression(
+                "/\(sessionfailure-title\)/",
+                $t->badTokenTitle($url),
+            );
 
-                        /* Double-check that nothing happened */
-                        $t->fetchSpecial();
-                        $this->assertCount(0, $t->new_entries);
-                        $this->assertCount(0, $t->deleted_entries);
-                }
+            /* Double-check that nothing happened */
+            $t->fetchSpecial();
+            $this->assertCount(0, $t->new_entries);
+            $this->assertCount(0, $t->deleted_entries);
         }
+    }
 }

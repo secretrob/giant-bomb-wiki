@@ -32,100 +32,89 @@ require_once __DIR__ . "/autoload.php";
  */
 class BlockUserConsequenceTest extends ModerationUnitTestCase
 {
-        /**
-         * Verify that BlockUserConsequence adds a block to the database.
-         * @param int $userId
-         * @param string $username
-         * @param string $moderatorName
-         * @covers MediaWiki\Moderation\BlockUserConsequence
-         * @dataProvider dataProviderBlockUser
-         */
-        public function testBlockUser($userId, $username, $moderatorName)
-        {
-                $moderator = User::createNew($moderatorName);
+    /**
+     * Verify that BlockUserConsequence adds a block to the database.
+     * @param int $userId
+     * @param string $username
+     * @param string $moderatorName
+     * @covers MediaWiki\Moderation\BlockUserConsequence
+     * @dataProvider dataProviderBlockUser
+     */
+    public function testBlockUser($userId, $username, $moderatorName)
+    {
+        $moderator = User::createNew($moderatorName);
 
-                // Create and run the Consequence.
-                $consequence = new BlockUserConsequence(
-                        $userId,
-                        $username,
-                        $moderator,
-                );
-                $somethingChanged = $consequence->run();
+        // Create and run the Consequence.
+        $consequence = new BlockUserConsequence($userId, $username, $moderator);
+        $somethingChanged = $consequence->run();
 
-                $this->assertTrue($somethingChanged);
+        $this->assertTrue($somethingChanged);
 
-                // New row should have appeared in the database.
-                $this->assertBlockRecorded($userId, $username, $moderator);
-        }
+        // New row should have appeared in the database.
+        $this->assertBlockRecorded($userId, $username, $moderator);
+    }
 
-        /**
-         * Verify that BlockUserConsequence on already blocked user returns false.
-         * @param int $userId
-         * @param string $username
-         * @param string $moderatorName
-         * @covers MediaWiki\Moderation\BlockUserConsequence
-         * @dataProvider dataProviderBlockUser
-         */
-        public function testNoopBlockUser($userId, $username, $moderatorName)
-        {
-                $moderator = User::createNew($moderatorName);
+    /**
+     * Verify that BlockUserConsequence on already blocked user returns false.
+     * @param int $userId
+     * @param string $username
+     * @param string $moderatorName
+     * @covers MediaWiki\Moderation\BlockUserConsequence
+     * @dataProvider dataProviderBlockUser
+     */
+    public function testNoopBlockUser($userId, $username, $moderatorName)
+    {
+        $moderator = User::createNew($moderatorName);
 
-                // Create and run the Consequence.
-                $consequence1 = new BlockUserConsequence(
-                        $userId,
-                        $username,
-                        $moderator,
-                );
-                $consequence1->run();
+        // Create and run the Consequence.
+        $consequence1 = new BlockUserConsequence(
+            $userId,
+            $username,
+            $moderator,
+        );
+        $consequence1->run();
 
-                $consequence2 = new BlockUserConsequence(
-                        $userId,
-                        $username,
-                        $moderator,
-                );
-                $somethingChanged = $consequence2->run();
-                $this->assertFalse($somethingChanged);
+        $consequence2 = new BlockUserConsequence(
+            $userId,
+            $username,
+            $moderator,
+        );
+        $somethingChanged = $consequence2->run();
+        $this->assertFalse($somethingChanged);
 
-                // Despite $consequence2 doing nothing, the row should still exist in the database.
-                $this->assertBlockRecorded($userId, $username, $moderator);
-        }
+        // Despite $consequence2 doing nothing, the row should still exist in the database.
+        $this->assertBlockRecorded($userId, $username, $moderator);
+    }
 
-        /**
-         * Assert that the block exists in the database.
-         * @param int $userId
-         * @param string $username
-         * @param User $moderator
-         */
-        private function assertBlockRecorded(
-                $userId,
-                $username,
-                User $moderator,
-        ) {
-                $this->assertSelect(
-                        "moderation_block",
-                        ["mb_user", "mb_by", "mb_by_text"],
-                        ["mb_address" => $username],
-                        [[$userId, $moderator->getId(), $moderator->getName()]],
-                );
-        }
+    /**
+     * Assert that the block exists in the database.
+     * @param int $userId
+     * @param string $username
+     * @param User $moderator
+     */
+    private function assertBlockRecorded($userId, $username, User $moderator)
+    {
+        $this->assertSelect(
+            "moderation_block",
+            ["mb_user", "mb_by", "mb_by_text"],
+            ["mb_address" => $username],
+            [[$userId, $moderator->getId(), $moderator->getName()]],
+        );
+    }
 
-        /**
-         * Provide datasets for testBlockUser() and testNoopBlockUser() runs.
-         * @return array
-         */
-        public function dataProviderBlockUser()
-        {
-                return [
-                        "anonymous user" => [
-                                0,
-                                "10.11.12.13",
-                                "First moderator",
-                        ],
-                        "registered user" => [
-                                1234,
-                                "Registered user (ID 1234)",
-                                "Second moderator",
-                        ],
-                ];
-        }
+    /**
+     * Provide datasets for testBlockUser() and testNoopBlockUser() runs.
+     * @return array
+     */
+    public function dataProviderBlockUser()
+    {
+        return [
+            "anonymous user" => [0, "10.11.12.13", "First moderator"],
+            "registered user" => [
+                1234,
+                "Registered user (ID 1234)",
+                "Second moderator",
+            ],
+        ];
+    }
 }

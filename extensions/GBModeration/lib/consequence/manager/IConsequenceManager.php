@@ -24,9 +24,9 @@ namespace MediaWiki\Moderation;
 
 interface IConsequenceManager
 {
-        /**
-         * Add a new consequence that must be executed.
-         * @param IConsequence $consequence
-         */
-        public function add(IConsequence $consequence);
+    /**
+     * Add a new consequence that must be executed.
+     * @param IConsequence $consequence
+     */
+    public function add(IConsequence $consequence);
 }

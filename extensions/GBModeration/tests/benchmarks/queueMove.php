@@ -34,60 +34,56 @@ require_once __DIR__ . "/ModerationBenchmark.php";
 
 class BenchmarkQueueMove extends ModerationBenchmark
 {
-        /** @var MovePageFactory */
-        private $movePageFactory;
+    /** @var MovePageFactory */
+    private $movePageFactory;
 
-        /**
-         * @param int $i
-         * @return Title
-         */
-        public function getOldTitle($i)
-        {
-                return $this->getTestTitle("Old title " . $i);
+    /**
+     * @param int $i
+     * @return Title
+     */
+    public function getOldTitle($i)
+    {
+        return $this->getTestTitle("Old title " . $i);
+    }
+
+    /**
+     * @param int $i
+     * @return Title
+     */
+    public function getNewTitle($i)
+    {
+        return $this->getTestTitle("New title " . $i);
+    }
+
+    /**
+     * @param int $numberOfLoops
+     */
+    public function beforeBenchmark($numberOfLoops)
+    {
+        $this->movePageFactory = MediaWikiServices::getInstance()->getMovePageFactory();
+
+        /* Create $numberOfLoops pages to be moved */
+        for ($i = 0; $i <= $numberOfLoops; $i++) {
+            $this->fastEdit($this->getOldTitle($i));
         }
+    }
 
-        /**
-         * @param int $i
-         * @return Title
-         */
-        public function getNewTitle($i)
-        {
-                return $this->getTestTitle("New title " . $i);
-        }
+    /**
+     * @param int $i
+     */
+    public function doActualWork($i)
+    {
+        $mp = $this->movePageFactory->newMovePage(
+            $this->getOldTitle($i),
+            $this->getNewTitle($i),
+        );
+        $status = $mp->move($this->getUser(), "Reason for moving #" . $i);
 
-        /**
-         * @param int $numberOfLoops
-         */
-        public function beforeBenchmark($numberOfLoops)
-        {
-                $this->movePageFactory = MediaWikiServices::getInstance()->getMovePageFactory();
-
-                /* Create $numberOfLoops pages to be moved */
-                for ($i = 0; $i <= $numberOfLoops; $i++) {
-                        $this->fastEdit($this->getOldTitle($i));
-                }
-        }
-
-        /**
-         * @param int $i
-         */
-        public function doActualWork($i)
-        {
-                $mp = $this->movePageFactory->newMovePage(
-                        $this->getOldTitle($i),
-                        $this->getNewTitle($i),
-                );
-                $status = $mp->move(
-                        $this->getUser(),
-                        "Reason for moving #" . $i,
-                );
-
-                Assert::postcondition(
-                        $status->getMessage()->getKey() ==
-                                "moderation-move-queued",
-                        "Move not queued",
-                );
-        }
+        Assert::postcondition(
+            $status->getMessage()->getKey() == "moderation-move-queued",
+            "Move not queued",
+        );
+    }
 }
 
 $maintClass = BenchmarkQueueMove::class;

@@ -36,115 +36,104 @@ require_once __DIR__ . "/autoload.php";
  */
 class ModerationEditChangePageTest extends ModerationUnitTestCase
 {
-        /**
-         * Ensure that showFormAfterText() adds HTML field 'token' (for modaction=editchangesubmit).
-         * @covers MediaWiki\Moderation\ModerationEditChangePage
-         */
-        public function testShowFormAfterText()
-        {
-                $context = new RequestContext();
-                $context->setUser(self::getTestUser()->getUser());
+    /**
+     * Ensure that showFormAfterText() adds HTML field 'token' (for modaction=editchangesubmit).
+     * @covers MediaWiki\Moderation\ModerationEditChangePage
+     */
+    public function testShowFormAfterText()
+    {
+        $context = new RequestContext();
+        $context->setUser(self::getTestUser()->getUser());
 
-                $article = Article::newFromTitle(
-                        Title::newFromText("pagename"),
-                        $context,
-                );
-                $editPage = new ModerationEditChangePage($article);
+        $article = Article::newFromTitle(
+            Title::newFromText("pagename"),
+            $context,
+        );
+        $editPage = new ModerationEditChangePage($article);
 
-                TestingAccessWrapper::newFromObject(
-                        $editPage,
-                )->showFormAfterText();
-                $printedString = $context->getOutput()->getHTML();
+        TestingAccessWrapper::newFromObject($editPage)->showFormAfterText();
+        $printedString = $context->getOutput()->getHTML();
 
-                $html = new ModerationTestHTML();
-                $html->loadString($printedString);
+        $html = new ModerationTestHTML();
+        $html->loadString($printedString);
 
-                $tokenInput = $html->getElementByXPath(
-                        '//input[@name="token"]',
-                );
-                $this->assertNotNull(
-                        $tokenInput,
-                        "<input name='token'> is missing.",
-                );
+        $tokenInput = $html->getElementByXPath('//input[@name="token"]');
+        $this->assertNotNull($tokenInput, "<input name='token'> is missing.");
 
-                $this->assertTrue(
-                        $context
-                                ->getUser()
-                                ->matchEditToken(
-                                        $tokenInput->getAttribute("value"),
-                                ),
-                        "Value of <input name='token'> is not a valid edit token.",
-                );
-        }
+        $this->assertTrue(
+            $context
+                ->getUser()
+                ->matchEditToken($tokenInput->getAttribute("value")),
+            "Value of <input name='token'> is not a valid edit token.",
+        );
+    }
 
-        /**
-         * Check return value of getActionURL().
-         * @covers MediaWiki\Moderation\ModerationEditChangePage
-         */
-        public function testGetActionURL()
-        {
-                $modid = 12345;
-                $context = new RequestContext();
-                $context->setRequest(new FauxRequest(["modid" => $modid]));
+    /**
+     * Check return value of getActionURL().
+     * @covers MediaWiki\Moderation\ModerationEditChangePage
+     */
+    public function testGetActionURL()
+    {
+        $modid = 12345;
+        $context = new RequestContext();
+        $context->setRequest(new FauxRequest(["modid" => $modid]));
 
-                $article = Article::newFromTitle(
-                        Title::newFromText("pagename"),
-                        $context,
-                );
-                $editPage = new ModerationEditChangePage($article);
+        $article = Article::newFromTitle(
+            Title::newFromText("pagename"),
+            $context,
+        );
+        $editPage = new ModerationEditChangePage($article);
 
-                $wrapper = TestingAccessWrapper::newFromObject($editPage);
-                $url = $wrapper->getActionURL(Title::newFromText("unused"));
+        $wrapper = TestingAccessWrapper::newFromObject($editPage);
+        $url = $wrapper->getActionURL(Title::newFromText("unused"));
 
-                $query = wfCgiToArray(
-                        ModerationTestUtil::parseUrl($url)["query"],
-                );
-                $expectedQuery = [
-                        "title" => "Special:Moderation",
-                        "modid" => (string) $modid,
-                        "modaction" => "editchangesubmit",
-                ];
+        $query = wfCgiToArray(ModerationTestUtil::parseUrl($url)["query"]);
+        $expectedQuery = [
+            "title" => "Special:Moderation",
+            "modid" => (string) $modid,
+            "modaction" => "editchangesubmit",
+        ];
 
-                $this->assertSame(
-                        $expectedQuery,
-                        $query,
-                        "Unexpected return value of getActionURL()",
-                );
-        }
+        $this->assertSame(
+            $expectedQuery,
+            $query,
+            "Unexpected return value of getActionURL()",
+        );
+    }
 
-        /**
-         * Check return value of getEditButtons().
-         * @covers MediaWiki\Moderation\ModerationEditChangePage
-         */
-        public function testGetEditButtons()
-        {
-                $editPage = new ModerationEditChangePage(
-                        new Article(Title::newFromText("pagename")),
-                );
+    /**
+     * Check return value of getEditButtons().
+     * @covers MediaWiki\Moderation\ModerationEditChangePage
+     */
+    public function testGetEditButtons()
+    {
+        $editPage = new ModerationEditChangePage(
+            new Article(Title::newFromText("pagename")),
+        );
 
-                $unused = 0;
-                $buttons = $editPage->getEditButtons($unused);
+        $unused = 0;
+        $buttons = $editPage->getEditButtons($unused);
 
-                // Preview/diff buttons are not yet supported.
-                $this->assertArrayHasKey("save", $buttons);
-                $this->assertArrayNotHasKey("preview", $buttons);
-                $this->assertArrayNotHasKey("diff", $buttons);
-        }
+        // Preview/diff buttons are not yet supported.
+        $this->assertArrayHasKey("save", $buttons);
+        $this->assertArrayNotHasKey("preview", $buttons);
+        $this->assertArrayNotHasKey("diff", $buttons);
+    }
 
-        /**
-         * Check return value of getContextTitle().
-         * @covers MediaWiki\Moderation\ModerationEditChangePage
-         */
-        public function testGetContextTitle()
-        {
-                $editPage = new ModerationEditChangePage(
-                        new Article(Title::newFromText("pagename")),
-                );
-                $title = $editPage->getContextTitle();
+    /**
+     * Check return value of getContextTitle().
+     * @covers MediaWiki\Moderation\ModerationEditChangePage
+     */
+    public function testGetContextTitle()
+    {
+        $editPage = new ModerationEditChangePage(
+            new Article(Title::newFromText("pagename")),
+        );
+        $title = $editPage->getContextTitle();
 
-                $this->assertTrue(
-                        $title->isSpecial("Moderation"),
-                        "getContextTitle() doesn't return Special:Moderation",
-                );
-        }
+        $this->assertTrue(
+            $title->isSpecial("Moderation"),
+            "getContextTitle() doesn't return Special:Moderation",
+        );
+    }
 }

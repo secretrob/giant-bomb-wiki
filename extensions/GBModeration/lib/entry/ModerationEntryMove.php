@@ -27,46 +27,46 @@ use User;
 
 class ModerationEntryMove extends ModerationApprovableEntry
 {
-        /**
-         * Approve this move.
-         * @param User $moderator
-         * @return Status object.
-         */
-        public function doApprove(User $moderator)
-        {
-                $row = $this->getRow();
+    /**
+     * Approve this move.
+     * @param User $moderator
+     * @return Status object.
+     */
+    public function doApprove(User $moderator)
+    {
+        $row = $this->getRow();
 
-                return $this->consequenceManager->add(
-                        new ApproveMoveConsequence(
-                                $moderator,
-                                $this->getTitle() /* old name of the article */,
-                                $this->getPage2Title() /* new (suggested) name of the article */,
-                                $this->getUser(),
-                                $row->comment,
-                        ),
-                );
-        }
+        return $this->consequenceManager->add(
+            new ApproveMoveConsequence(
+                $moderator,
+                $this->getTitle() /* old name of the article */,
+                $this->getPage2Title() /* new (suggested) name of the article */,
+                $this->getUser(),
+                $row->comment,
+            ),
+        );
+    }
 
-        /**
-         * Post-approval log subtype.
-         * @return string
-         */
-        protected function getApproveLogSubtype()
-        {
-                return "approve-move";
-        }
+    /**
+     * Post-approval log subtype.
+     * @return string
+     */
+    protected function getApproveLogSubtype()
+    {
+        return "approve-move";
+    }
 
-        /**
-         * Parameters for post-approval log.
-         * @return array
-         */
-        protected function getApproveLogParameters()
-        {
-                $row = $this->getRow();
-                return [
-                        "4::target" => $this->getPage2Title()->getPrefixedText(),
-                        "user" => (int) $row->user,
-                        "user_text" => $row->user_text,
-                ];
-        }
+    /**
+     * Parameters for post-approval log.
+     * @return array
+     */
+    protected function getApproveLogParameters()
+    {
+        $row = $this->getRow();
+        return [
+            "4::target" => $this->getPage2Title()->getPrefixedText(),
+            "user" => (int) $row->user,
+            "user_text" => $row->user_text,
+        ];
+    }
 }

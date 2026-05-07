@@ -38,128 +38,118 @@ require_once __DIR__ . "/autoload.php";
  */
 class ModerationActionPreviewTest extends ModerationUnitTestCase
 {
-        use ActionTestTrait;
+    use ActionTestTrait;
 
-        /**
-         * Check result/consequences of modaction=preview.
-         * @covers MediaWiki\Moderation\ModerationActionPreview
-         */
-        public function testExecute()
-        {
-                $title = Title::makeTitle(
-                        NS_PROJECT,
-                        "Some page " . rand(0, 100000),
-                );
-                $expectedResult = [
-                        "title" => $title->getFullText(),
-                        "html" => "{MockedParserOutput}",
-                        "categories" => ["Birds" => "", "Cats" => ""],
-                ];
+    /**
+     * Check result/consequences of modaction=preview.
+     * @covers MediaWiki\Moderation\ModerationActionPreview
+     */
+    public function testExecute()
+    {
+        $title = Title::makeTitle(NS_PROJECT, "Some page " . rand(0, 100000));
+        $expectedResult = [
+            "title" => $title->getFullText(),
+            "html" => "{MockedParserOutput}",
+            "categories" => ["Birds" => "", "Cats" => ""],
+        ];
 
-                $revision = $this->createMock(RevisionRecord::class);
+        $revision = $this->createMock(RevisionRecord::class);
 
-                $entry = $this->createMock(ModerationViewableEntry::class);
-                $entry->expects($this->once())
-                        ->method("getTitle")
-                        ->willReturn($title);
-                $entry->expects($this->once())
-                        ->method("getPendingRevision")
-                        ->willReturn($revision);
+        $entry = $this->createMock(ModerationViewableEntry::class);
+        $entry->expects($this->once())->method("getTitle")->willReturn($title);
+        $entry
+            ->expects($this->once())
+            ->method("getPendingRevision")
+            ->willReturn($revision);
 
-                $parserOutput = $this->createMock(ParserOutput::class);
-                $renderedRevision = $this->createMock(RenderedRevision::class);
-                $renderedRevision
-                        ->expects($this->once())
-                        ->method("getRevisionParserOutput")
-                        ->willReturn($parserOutput);
+        $parserOutput = $this->createMock(ParserOutput::class);
+        $renderedRevision = $this->createMock(RenderedRevision::class);
+        $renderedRevision
+            ->expects($this->once())
+            ->method("getRevisionParserOutput")
+            ->willReturn($parserOutput);
 
-                $processedOutput = $this->createMock(ParserOutput::class);
-                $processedOutput
-                        ->expects($this->once())
-                        ->method("getRawText")
-                        ->willReturn($expectedResult["html"]);
-                $processedOutput
-                        ->expects($this->once())
-                        ->method("getCategoryNames")
-                        ->willReturn(array_keys($expectedResult["categories"]));
+        $processedOutput = $this->createMock(ParserOutput::class);
+        $processedOutput
+            ->expects($this->once())
+            ->method("getRawText")
+            ->willReturn($expectedResult["html"]);
+        $processedOutput
+            ->expects($this->once())
+            ->method("getCategoryNames")
+            ->willReturn(array_keys($expectedResult["categories"]));
 
-                $pipeline = $this->createMock(OutputTransformPipeline::class);
-                $pipeline
-                        ->expects($this->once())
-                        ->method("run")
-                        ->with(
-                                $this->identicalTo($parserOutput),
-                                $this->isNull(),
-                                $this->identicalTo([
-                                        "enableSectionEditLinks" => false,
-                                ]),
-                        )
-                        ->willReturn($processedOutput);
-                $this->setService("DefaultOutputPipeline", $pipeline);
+        $pipeline = $this->createMock(OutputTransformPipeline::class);
+        $pipeline
+            ->expects($this->once())
+            ->method("run")
+            ->with(
+                $this->identicalTo($parserOutput),
+                $this->isNull(),
+                $this->identicalTo([
+                    "enableSectionEditLinks" => false,
+                ]),
+            )
+            ->willReturn($processedOutput);
+        $this->setService("DefaultOutputPipeline", $pipeline);
 
-                $action = $this->makeActionForTesting(
-                        ModerationActionPreview::class,
-                        function (
-                                $context,
-                                $entryFactory,
-                                $manager,
-                                $canSkip,
-                                $editFormOptions,
-                                $actionLinkRenderer,
-                                $repoGroup,
-                                $contentLanguage,
-                                $revisionRenderer,
-                        ) use ($entry, $renderedRevision, $revision) {
-                                $modid = 12345;
-                                $context->setRequest(
-                                        new FauxRequest(["modid" => $modid]),
-                                );
+        $action = $this->makeActionForTesting(
+            ModerationActionPreview::class,
+            function (
+                $context,
+                $entryFactory,
+                $manager,
+                $canSkip,
+                $editFormOptions,
+                $actionLinkRenderer,
+                $repoGroup,
+                $contentLanguage,
+                $revisionRenderer,
+            ) use ($entry, $renderedRevision, $revision) {
+                $modid = 12345;
+                $context->setRequest(new FauxRequest(["modid" => $modid]));
 
-                                $entryFactory
-                                        ->expects($this->once())
-                                        ->method("findViewableEntry")
-                                        ->with($this->identicalTo($modid))
-                                        ->willReturn($entry);
+                $entryFactory
+                    ->expects($this->once())
+                    ->method("findViewableEntry")
+                    ->with($this->identicalTo($modid))
+                    ->willReturn($entry);
 
-                                $revisionRenderer
-                                        ->expects($this->once())
-                                        ->method("getRenderedRevision")
-                                        ->with($this->identicalTo($revision))
-                                        ->willReturn($renderedRevision);
+                $revisionRenderer
+                    ->expects($this->once())
+                    ->method("getRenderedRevision")
+                    ->with($this->identicalTo($revision))
+                    ->willReturn($renderedRevision);
 
-                                // This is a readonly action. Ensure that it has no consequences.
-                                $manager->expects($this->never())->method(
-                                        "add",
-                                );
-                        },
-                );
-                $this->assertSame($expectedResult, $action->execute());
-        }
+                // This is a readonly action. Ensure that it has no consequences.
+                $manager->expects($this->never())->method("add");
+            },
+        );
+        $this->assertSame($expectedResult, $action->execute());
+    }
 
-        /**
-         * Verify that outputResult() correctly converts return value of execute() into HTML output.
-         * @covers MediaWiki\Moderation\ModerationActionPreview
-         */
-        public function testOutputResult()
-        {
-                $executeResult = [
-                        "title" => "Sample page",
-                        "html" => "{MockedParserOutput}",
-                        "categories" => ["Birds" => "", "Cats" => ""],
-                ];
+    /**
+     * Verify that outputResult() correctly converts return value of execute() into HTML output.
+     * @covers MediaWiki\Moderation\ModerationActionPreview
+     */
+    public function testOutputResult()
+    {
+        $executeResult = [
+            "title" => "Sample page",
+            "html" => "{MockedParserOutput}",
+            "categories" => ["Birds" => "", "Cats" => ""],
+        ];
 
-                $action = $this->makeActionForTesting(
-                        ModerationActionPreview::class,
-                );
+        $action = $this->makeActionForTesting(ModerationActionPreview::class);
 
-                $output = clone $action->getOutput();
-                $action->outputResult($executeResult, $output);
+        $output = clone $action->getOutput();
+        $action->outputResult($executeResult, $output);
 
-                $this->assertSame(
-                        "(moderation-preview-title: Sample page)",
-                        $output->getPageTitle(),
-                );
-                $this->assertSame("{MockedParserOutput}", $output->getHTML());
-                $this->assertSame(["Birds", "Cats"], $output->getCategories());
-        }
+        $this->assertSame(
+            "(moderation-preview-title: Sample page)",
+            $output->getPageTitle(),
+        );
+        $this->assertSame("{MockedParserOutput}", $output->getHTML());
+        $this->assertSame(["Birds", "Cats"], $output->getCategories());
+    }
 }

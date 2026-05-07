@@ -26,17 +26,17 @@ use ApiMain;
 
 class ModerationTestsuiteCliApiMain extends ApiMain
 {
-        public function execute()
-        {
-                $this->executeActionWithErrorHandling(); /* Run the API. Automatically prints errors */
+    public function execute()
+    {
+        $this->executeActionWithErrorHandling(); /* Run the API. Automatically prints errors */
 
-                if (!$this->getResult()->getResultData("error")) {
-                        /* Not an error: print the result */
-                        $this->setupExternalResponse(
-                                $this->getModule(),
-                                $this->extractRequestParams(),
-                        );
-                        $this->printResult(0);
-                }
+        if (!$this->getResult()->getResultData("error")) {
+            /* Not an error: print the result */
+            $this->setupExternalResponse(
+                $this->getModule(),
+                $this->extractRequestParams(),
+            );
+            $this->printResult(0);
         }
+    }
 }

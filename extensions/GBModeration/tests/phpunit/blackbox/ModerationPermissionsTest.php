@@ -28,18 +28,18 @@ require_once __DIR__ . "/../framework/ModerationTestsuite.php";
  */
 class ModerationPermissionsTest extends ModerationTestCase
 {
-        /**
-         * Ensures that only moderators can use Special:Moderation.
-         * @coversNothing
-         */
-        public function testPermissions(ModerationTestsuite $t)
-        {
-                $t->loginAs($t->unprivilegedUser);
-                $title = $t->html->loadUrl($t->getSpecialURL())->getTitle();
+    /**
+     * Ensures that only moderators can use Special:Moderation.
+     * @coversNothing
+     */
+    public function testPermissions(ModerationTestsuite $t)
+    {
+        $t->loginAs($t->unprivilegedUser);
+        $title = $t->html->loadUrl($t->getSpecialURL())->getTitle();
 
-                $this->assertMatchesRegularExpression(
-                        "/\(permissionserrors\)/",
-                        $title,
-                );
-        }
+        $this->assertMatchesRegularExpression(
+            "/\(permissionserrors\)/",
+            $title,
+        );
+    }
 }

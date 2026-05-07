@@ -24,18 +24,18 @@ namespace MediaWiki\Moderation\Tests;
 
 interface IModerationTestsuiteResponse
 {
-        /**
-         * @param string $headerName
-         * @return string|null
-         */
-        public function getResponseHeader($headerName);
+    /**
+     * @param string $headerName
+     * @return string|null
+     */
+    public function getResponseHeader($headerName);
 
-        /** @return int */
-        public function getStatus();
+    /** @return int */
+    public function getStatus();
 
-        /** @return string */
-        public function getContent();
+    /** @return string */
+    public function getContent();
 
-        /** @return bool */
-        public function isRedirect();
+    /** @return bool */
+    public function isRedirect();
 }

@@ -29,59 +29,55 @@ use SpecialPage;
 
 class ModerationEditChangePage extends EditPage
 {
-        /**
-         * When user clicks Submit, handle this back to Special:Moderation.
-         * @param Title $title @phan-unused-param
-         * @return string URL
-         */
-        protected function getActionURL(Title $title)
-        {
-                return SpecialPage::getTitleFor("Moderation")->getLocalURL([
-                        "modid" => $this->getContext()
-                                ->getRequest()
-                                ->getVal("modid"),
-                        "modaction" => "editchangesubmit",
-                ]);
-        }
+    /**
+     * When user clicks Submit, handle this back to Special:Moderation.
+     * @param Title $title @phan-unused-param
+     * @return string URL
+     */
+    protected function getActionURL(Title $title)
+    {
+        return SpecialPage::getTitleFor("Moderation")->getLocalURL([
+            "modid" => $this->getContext()->getRequest()->getVal("modid"),
+            "modaction" => "editchangesubmit",
+        ]);
+    }
 
-        /**
-         * Add CSRF token.
-         */
-        protected function showFormAfterText()
-        {
-                $this->getContext()
-                        ->getOutput()
-                        ->addHTML(
-                                Html::hidden(
-                                        "token",
-                                        $this->getContext()
-                                                ->getUser()
-                                                ->getEditToken(),
-                                ),
-                        );
-        }
+    /**
+     * Add CSRF token.
+     */
+    protected function showFormAfterText()
+    {
+        $this->getContext()
+            ->getOutput()
+            ->addHTML(
+                Html::hidden(
+                    "token",
+                    $this->getContext()->getUser()->getEditToken(),
+                ),
+            );
+    }
 
-        /**
-         * Remove "Preview" and "Show changes" buttons (not yet implemented).
-         * @param int &$tabindex
-         * @return array
-         */
-        public function getEditButtons(&$tabindex)
-        {
-                $buttons = parent::getEditButtons($tabindex);
+    /**
+     * Remove "Preview" and "Show changes" buttons (not yet implemented).
+     * @param int &$tabindex
+     * @return array
+     */
+    public function getEditButtons(&$tabindex)
+    {
+        $buttons = parent::getEditButtons($tabindex);
 
-                unset($buttons["preview"]);
-                unset($buttons["diff"]);
+        unset($buttons["preview"]);
+        unset($buttons["diff"]);
 
-                return $buttons;
-        }
+        return $buttons;
+    }
 
-        /**
-         * Point "Cancel" button to Special:Moderation, not to the nonexistent article.
-         * @return Title
-         */
-        public function getContextTitle()
-        {
-                return SpecialPage::getTitleFor("Moderation");
-        }
+    /**
+     * Point "Cancel" button to Special:Moderation, not to the nonexistent article.
+     * @return Title
+     */
+    public function getContextTitle()
+    {
+        return SpecialPage::getTitleFor("Moderation");
+    }
 }

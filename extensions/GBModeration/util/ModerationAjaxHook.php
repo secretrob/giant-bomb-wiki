@@ -28,50 +28,45 @@ use OutputPage;
 
 class ModerationAjaxHook
 {
-        /**
-         * Add needed modules to $out.
-         * @param OutputPage &$out
-         */
-        public static function add(OutputPage &$out)
-        {
-                $modules = [];
-                $services = MediaWikiServices::getInstance();
+    /**
+     * Add needed modules to $out.
+     * @param OutputPage &$out
+     */
+    public static function add(OutputPage &$out)
+    {
+        $modules = [];
+        $services = MediaWikiServices::getInstance();
 
-                if (
-                        $services->hasService("MobileFrontend.Context") &&
-                        $services
-                                ->getService("MobileFrontend.Context")
-                                ->shouldDisplayMobileView()
-                ) {
-                        $modules[] = "ext.moderation.mf.notify";
-                        $modules[] = "ext.moderation.mf.preload33";
+        if (
+            $services->hasService("MobileFrontend.Context") &&
+            $services
+                ->getService("MobileFrontend.Context")
+                ->shouldDisplayMobileView()
+        ) {
+            $modules[] = "ext.moderation.mf.notify";
+            $modules[] = "ext.moderation.mf.preload33";
 
-                        $title = $out->getTitle();
-                        $preload = $services->getService("Moderation.Preload");
+            $title = $out->getTitle();
+            $preload = $services->getService("Moderation.Preload");
 
-                        if (
-                                !$title->exists() &&
-                                $preload->findPendingEdit($title)
-                        ) {
-                                // This user has a pending revision in $title, but $title doesn't exist.
-                                // Non-existent pages have wgArticleId=0, and MobileFrontend won't even try
-                                // to load their text.
-                                // HACK: fake wgArticleId makes MobileFrontend think that this page exists.
-                                $out->addJsConfigVars("wgArticleId", -1); // Not 0 means "page exists"
-                        }
-                }
-
-                if (
-                        class_exists(
-                                "MediaWiki\Extension\VisualEditor\ApiVisualEditorEdit",
-                        )
-                ) {
-                        $modules[] = "ext.moderation.ve";
-                }
-
-                if ($modules) {
-                        $modules[] = "ext.moderation.ajaxhook";
-                        $out->addModules($modules);
-                }
+            if (!$title->exists() && $preload->findPendingEdit($title)) {
+                // This user has a pending revision in $title, but $title doesn't exist.
+                // Non-existent pages have wgArticleId=0, and MobileFrontend won't even try
+                // to load their text.
+                // HACK: fake wgArticleId makes MobileFrontend think that this page exists.
+                $out->addJsConfigVars("wgArticleId", -1); // Not 0 means "page exists"
+            }
         }
+
+        if (
+            class_exists("MediaWiki\Extension\VisualEditor\ApiVisualEditorEdit")
+        ) {
+            $modules[] = "ext.moderation.ve";
+        }
+
+        if ($modules) {
+            $modules[] = "ext.moderation.ajaxhook";
+            $out->addModules($modules);
+        }
+    }
 }

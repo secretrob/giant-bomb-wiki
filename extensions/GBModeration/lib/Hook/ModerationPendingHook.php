@@ -24,14 +24,14 @@ namespace MediaWiki\Moderation\Hook;
 
 interface ModerationPendingHook
 {
-        /**
-         * This hook is called when Moderation has successfully saved an intercepted edit into the database.
-         *
-         * @param array $fields All database fields, e.g. [ 'mod_type' => 'edit', 'mod_rejected' => 1, ... ].
-         * @param int $modid mod_id of the affected row.
-         * @return bool|void
-         *
-         * @phan-param array<string,string|int> $fields
-         */
-        public function onModerationPending(array $fields, $modid);
+    /**
+     * This hook is called when Moderation has successfully saved an intercepted edit into the database.
+     *
+     * @param array $fields All database fields, e.g. [ 'mod_type' => 'edit', 'mod_rejected' => 1, ... ].
+     * @param int $modid mod_id of the affected row.
+     * @return bool|void
+     *
+     * @phan-param array<string,string|int> $fields
+     */
+    public function onModerationPending(array $fields, $modid);
 }

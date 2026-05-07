@@ -22,14 +22,14 @@
 
 # Allow parallel runs via Fastest: each thread uses its own database.
 if (getenv("ENV_TEST_CHANNEL")) {
-        $wgDBname .= "_thread" . getenv("ENV_TEST_CHANNEL");
+    $wgDBname .= "_thread" . getenv("ENV_TEST_CHANNEL");
 } elseif (
-        getenv("PARALLEL_PHPUNIT_TESTS") &&
-        class_exists("MediaWikiIntegrationTestCase")
+    getenv("PARALLEL_PHPUNIT_TESTS") &&
+    class_exists("MediaWikiIntegrationTestCase")
 ) {
-        throw new MWException(
-                "ENV_TEST_CHANNEL not defined! Parallel testing is not possible.",
-        );
+    throw new MWException(
+        "ENV_TEST_CHANNEL not defined! Parallel testing is not possible.",
+    );
 }
 
 # URL of the testwiki (as configured in .travis.yml).
@@ -55,10 +55,10 @@ $wgGroupPermissions["*"]["noratelimit"] = true;
 
 # Allow testsuite accounts to have "123456" as a password.
 foreach (
-        ["default", "bureaucrat", "sysop", "interface-admin", "bot"]
-        as $group
+    ["default", "bureaucrat", "sysop", "interface-admin", "bot"]
+    as $group
 ) {
-        $wgPasswordPolicy["policies"][$group] = [];
+    $wgPasswordPolicy["policies"][$group] = [];
 }
 
 # Extensions below are needed for some tests of Extension:Moderation.
@@ -66,14 +66,14 @@ wfLoadExtension("AbuseFilter"); # For PHPUnit testsuite
 wfLoadExtension("CheckUser"); # For PHPUnit testsuite
 wfLoadExtension("PageForms"); # For PHPUnit testsuite
 wfLoadExtensions([
-        # For Selenium testsuite
-        "MobileFrontend",
-        "VisualEditor",
+    # For Selenium testsuite
+    "MobileFrontend",
+    "VisualEditor",
 ]);
 
 # ModerationNotifyModeratorTest should be tested with and without Extension:Echo.
 if (getenv("WITH_ECHO")) {
-        wfLoadExtension("Echo");
+    wfLoadExtension("Echo");
 }
 
 # Default skin for Extension:MobileFrontend
@@ -81,8 +81,8 @@ wfLoadSkin("MinervaNeue");
 
 # Parsoid configuration (used by Extension:VisualEditor)
 $wgVirtualRestConfig["modules"]["parsoid"] = [
-        "url" => "http://moderation.example.com:8142",
-        "domain" => "moderation.example.com",
+    "url" => "http://moderation.example.com:8142",
+    "domain" => "moderation.example.com",
 ];
 $wgDefaultUserOptions["visualeditor-enable"] = 1; # Enable VisualEditor for all users
 # Necessary for blackbox testsuite in MediaWiki 1.43+,

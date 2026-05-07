@@ -31,26 +31,26 @@ require_once __DIR__ . "/autoload.php";
  */
 class MarkAsConflictConsequenceTest extends ModerationUnitTestCase
 {
-        use ModifyDbRowTestTrait;
+    use ModifyDbRowTestTrait;
 
-        /**
-         * Verify that MarkAsConflictConsequence marks the database row as conflict.
-         * @covers MediaWiki\Moderation\MarkAsConflictConsequence
-         */
-        public function testMarkAsConflict()
-        {
-                $modid = $this->makeDbRow();
+    /**
+     * Verify that MarkAsConflictConsequence marks the database row as conflict.
+     * @covers MediaWiki\Moderation\MarkAsConflictConsequence
+     */
+    public function testMarkAsConflict()
+    {
+        $modid = $this->makeDbRow();
 
-                // Create and run the Consequence.
-                $consequence = new MarkAsConflictConsequence($modid);
-                $consequence->run();
+        // Create and run the Consequence.
+        $consequence = new MarkAsConflictConsequence($modid);
+        $consequence->run();
 
-                // Check the state of the database.
-                $this->assertSelect(
-                        "moderation",
-                        ["mod_conflict"],
-                        ["mod_id" => $modid],
-                        [[1]],
-                );
-        }
+        // Check the state of the database.
+        $this->assertSelect(
+            "moderation",
+            ["mod_conflict"],
+            ["mod_id" => $modid],
+            [[1]],
+        );
+    }
 }

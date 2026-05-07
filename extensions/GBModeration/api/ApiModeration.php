@@ -28,93 +28,89 @@ use Wikimedia\ParamValidator\ParamValidator;
 
 class ApiModeration extends ApiBase
 {
-        /** @var ActionFactory */
-        protected $actionFactory;
+    /** @var ActionFactory */
+    protected $actionFactory;
 
-        /**
-         * @param ApiMain $main
-         * @param string $action
-         * @param ActionFactory $actionFactory
-         */
-        public function __construct(
-                ApiMain $main,
-                $action,
-                ActionFactory $actionFactory,
-        ) {
-                parent::__construct($main, $action);
+    /**
+     * @param ApiMain $main
+     * @param string $action
+     * @param ActionFactory $actionFactory
+     */
+    public function __construct(
+        ApiMain $main,
+        $action,
+        ActionFactory $actionFactory,
+    ) {
+        parent::__construct($main, $action);
 
-                $this->actionFactory = $actionFactory;
+        $this->actionFactory = $actionFactory;
+    }
+
+    public function execute()
+    {
+        $this->checkUserRightsAny(["moderation"]);
+
+        $A = $this->actionFactory->makeAction($this->getContext());
+
+        try {
+            $result = $A->run();
+        } catch (ModerationError $e) {
+            $this->dieStatus($e->status);
         }
 
-        public function execute()
-        {
-                $this->checkUserRightsAny(["moderation"]);
+        $this->getResult()->addValue(null, $this->getModuleName(), $result);
+    }
 
-                $A = $this->actionFactory->makeAction($this->getContext());
+    public function mustBePosted()
+    {
+        return true;
+    }
 
-                try {
-                        $result = $A->run();
-                } catch (ModerationError $e) {
-                        $this->dieStatus($e->status);
-                }
+    public function isWriteMode()
+    {
+        return true;
+    }
 
-                $this->getResult()->addValue(
-                        null,
-                        $this->getModuleName(),
-                        $result,
-                );
-        }
+    public function needsToken()
+    {
+        return "csrf";
+    }
 
-        public function mustBePosted()
-        {
-                return true;
-        }
+    /**
+     * @inheritDoc
+     */
+    public function getAllowedParams()
+    {
+        return [
+            "modaction" => [
+                ParamValidator::PARAM_TYPE => [
+                    "approve",
+                    "approveall",
+                    "reject",
+                    "rejectall",
+                    "block",
+                    "unblock",
+                    "show",
+                    // 'showimg',
+                    // 'merge'
+                ],
+                ParamValidator::PARAM_REQUIRED => true,
+            ],
+            "modid" => [
+                ParamValidator::PARAM_TYPE => "integer",
+                ParamValidator::PARAM_REQUIRED => true,
+            ],
+        ];
+    }
 
-        public function isWriteMode()
-        {
-                return true;
-        }
-
-        public function needsToken()
-        {
-                return "csrf";
-        }
-
-        /**
-         * @inheritDoc
-         */
-        public function getAllowedParams()
-        {
-                return [
-                        "modaction" => [
-                                ParamValidator::PARAM_TYPE => [
-                                        "approve",
-                                        "approveall",
-                                        "reject",
-                                        "rejectall",
-                                        "block",
-                                        "unblock",
-                                        "show",
-                                        // 'showimg',
-                                        // 'merge'
-                                ],
-                                ParamValidator::PARAM_REQUIRED => true,
-                        ],
-                        "modid" => [
-                                ParamValidator::PARAM_TYPE => "integer",
-                                ParamValidator::PARAM_REQUIRED => true,
-                        ],
-                ];
-        }
-
-        /**
-         * @inheritDoc
-         */
-        protected function getExamplesMessages()
-        {
-                return [
-                        "action=moderation&modaction=approve&modid=123" =>
-                                "apihelp-moderation-approve-example",
-                ];
-        }
+    /**
+     * @inheritDoc
+     */
+    protected function getExamplesMessages()
+    {
+        return [
+            "action=moderation&modaction=approve&modid=123" =>
+                "apihelp-moderation-approve-example",
+        ];
+    }
 }

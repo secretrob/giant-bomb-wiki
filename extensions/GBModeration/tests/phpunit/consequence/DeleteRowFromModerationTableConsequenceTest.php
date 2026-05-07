@@ -31,28 +31,21 @@ require_once __DIR__ . "/autoload.php";
  */
 class DeleteRowFromModerationTableConsequenceTest extends ModerationUnitTestCase
 {
-        use ModifyDbRowTestTrait;
+    use ModifyDbRowTestTrait;
 
-        /**
-         * Verify that DeleteRowFromModerationTableConsequence removes the database row.
-         * @covers MediaWiki\Moderation\DeleteRowFromModerationTableConsequence
-         */
-        public function testMarkAsConflict()
-        {
-                $modid = $this->makeDbRow();
+    /**
+     * Verify that DeleteRowFromModerationTableConsequence removes the database row.
+     * @covers MediaWiki\Moderation\DeleteRowFromModerationTableConsequence
+     */
+    public function testMarkAsConflict()
+    {
+        $modid = $this->makeDbRow();
 
-                // Create and run the Consequence.
-                $consequence = new DeleteRowFromModerationTableConsequence(
-                        $modid,
-                );
-                $consequence->run();
+        // Create and run the Consequence.
+        $consequence = new DeleteRowFromModerationTableConsequence($modid);
+        $consequence->run();
 
-                // Check the state of the database.
-                $this->assertSelect(
-                        "moderation",
-                        ["mod_id"],
-                        ["mod_id" => $modid],
-                        [],
-                );
-        }
+        // Check the state of the database.
+        $this->assertSelect("moderation", ["mod_id"], ["mod_id" => $modid], []);
+    }
 }

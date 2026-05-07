@@ -28,5 +28,5 @@ use ArrayObject;
 
 class ModerationTestsuiteApiBotResponse extends ArrayObject
 {
-        use ModerationTestsuiteBotResponse;
+    use ModerationTestsuiteBotResponse;
 }

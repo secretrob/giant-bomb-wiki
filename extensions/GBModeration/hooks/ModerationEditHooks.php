@@ -50,101 +50,96 @@ use User;
 use WikiPage;
 
 class ModerationEditHooks implements
-        BeforePageDisplayHook,
-        ChangeTagsAllowedAddHook,
-        EditPage__showEditForm_fieldsHook,
-        ListDefinedTagsHook,
-        MultiContentSaveHook,
-        PageSaveCompleteHook
+    BeforePageDisplayHook,
+    ChangeTagsAllowedAddHook,
+    EditPage__showEditForm_fieldsHook,
+    ListDefinedTagsHook,
+    MultiContentSaveHook,
+    PageSaveCompleteHook
 {
-        /** @var IConsequenceManager */
-        protected $consequenceManager;
+    /** @var IConsequenceManager */
+    protected $consequenceManager;
 
-        /** @var ModerationCanSkip */
-        protected $canSkip;
+    /** @var ModerationCanSkip */
+    protected $canSkip;
 
-        /** @var EditFormOptions */
-        protected $editFormOptions;
+    /** @var EditFormOptions */
+    protected $editFormOptions;
 
-        /** @var HookRunner */
-        protected $hookRunner;
+    /** @var HookRunner */
+    protected $hookRunner;
 
-        /**
-         * @param IConsequenceManager $consequenceManager
-         * @param ModerationCanSkip $canSkip
-         * @param EditFormOptions $editFormOptions
-         * @param HookRunner $hookRunner
-         */
-        public function __construct(
-                IConsequenceManager $consequenceManager,
-                ModerationCanSkip $canSkip,
-                EditFormOptions $editFormOptions,
-                HookRunner $hookRunner,
-        ) {
-                $this->consequenceManager = $consequenceManager;
-                $this->canSkip = $canSkip;
-                $this->editFormOptions = $editFormOptions;
-                $this->hookRunner = $hookRunner;
+    /**
+     * @param IConsequenceManager $consequenceManager
+     * @param ModerationCanSkip $canSkip
+     * @param EditFormOptions $editFormOptions
+     * @param HookRunner $hookRunner
+     */
+    public function __construct(
+        IConsequenceManager $consequenceManager,
+        ModerationCanSkip $canSkip,
+        EditFormOptions $editFormOptions,
+        HookRunner $hookRunner,
+    ) {
+        $this->consequenceManager = $consequenceManager;
+        $this->canSkip = $canSkip;
+        $this->editFormOptions = $editFormOptions;
+        $this->hookRunner = $hookRunner;
+    }
+
+    /**
+     * MultiContentSave hook handler.
+     * Intercept normal edits and queue them for moderation.
+     * @param RenderedRevision $renderedRevision
+     * @param UserIdentity $user
+     * @param CommentStoreComment $storedSummary
+     * @param int $flags
+     * @param Status $status
+     * @return bool|void
+     */
+    public function onMultiContentSave(
+        $renderedRevision,
+        $user,
+        $storedSummary,
+        $flags,
+        $status,
+    ) {
+        $rev = $renderedRevision->getRevision();
+        $page = ModerationCompatTools::makeWikiPage(
+            $rev->getPageAsLinkTarget(),
+        );
+        $user = User::newFromIdentity($user);
+
+        $title = $page->getTitle();
+        if ($this->canSkip->canEditSkip($user, $title->getNamespace())) {
+            return;
         }
 
-        /**
-         * MultiContentSave hook handler.
-         * Intercept normal edits and queue them for moderation.
-         * @param RenderedRevision $renderedRevision
-         * @param UserIdentity $user
-         * @param CommentStoreComment $storedSummary
-         * @param int $flags
-         * @param Status $status
-         * @return bool|void
+        $summary = mb_strcut($storedSummary->text, 0, 250);
+        $content = $rev->getSlot(SlotRecord::MAIN)->getContent(); // TODO: support non-main slot edits
+        $is_minor = $flags & EDIT_MINOR;
+
+        /*
+         * Allow third-party extension to monitor edits that are about to be intercepted by Moderation.
+         * If this hook returns false, then Moderation won't intercept this edit.
          */
-        public function onMultiContentSave(
-                $renderedRevision,
+        if (
+            !$this->hookRunner->onModerationIntercept(
+                $page,
                 $user,
-                $storedSummary,
+                $content,
+                $summary,
+                $is_minor,
+                null,
+                null,
                 $flags,
                 $status,
+            )
         ) {
-                $rev = $renderedRevision->getRevision();
-                $page = ModerationCompatTools::makeWikiPage(
-                        $rev->getPageAsLinkTarget(),
-                );
-                $user = User::newFromIdentity($user);
+            return;
+        }
 
-                $title = $page->getTitle();
-                if (
-                        $this->canSkip->canEditSkip(
-                                $user,
-                                $title->getNamespace(),
-                        )
-                ) {
-                        return;
-                }
-
-                $summary = mb_strcut($storedSummary->text, 0, 250);
-                $content = $rev->getSlot(SlotRecord::MAIN)->getContent(); // TODO: support non-main slot edits
-                $is_minor = $flags & EDIT_MINOR;
-
-                /*
-                 * Allow third-party extension to monitor edits that are about to be intercepted by Moderation.
-                 * If this hook returns false, then Moderation won't intercept this edit.
-                 */
-                if (
-                        !$this->hookRunner->onModerationIntercept(
-                                $page,
-                                $user,
-                                $content,
-                                $summary,
-                                $is_minor,
-                                null,
-                                null,
-                                $flags,
-                                $status,
-                        )
-                ) {
-                        return;
-                }
-
-                /* Some extensions (e.g. Extension:Flow) use customized ContentHandlers.
+        /* Some extensions (e.g. Extension:Flow) use customized ContentHandlers.
 			They need special handling for Moderation to intercept them properly.
 
 			For example, Flow first creates a comments page and then a comment,
@@ -156,41 +151,40 @@ class ModerationEditHooks implements
 
 			NOTE: edits to Flow discussions will bypass moderation.
 		*/
-                $handler = $page->getContentHandler();
-                if (!($handler instanceof TextContentHandler)) {
-                        return;
-                }
+        $handler = $page->getContentHandler();
+        if (!($handler instanceof TextContentHandler)) {
+            return;
+        }
 
-                global $wgCommentStreamsNamespaceIndex;
-                if (
-                        $wgCommentStreamsNamespaceIndex &&
-                        $title->getNamespace() ==
-                                $wgCommentStreamsNamespaceIndex
-                ) {
-                        // Edits in discussions of Extension:CommentStreams will bypass moderation,
-                        // because CommentStreams treats "edit queued for moderation" as an error.
-                        // This can only be fixed in Extension:CommentStreams itself.
-                        return;
-                }
+        global $wgCommentStreamsNamespaceIndex;
+        if (
+            $wgCommentStreamsNamespaceIndex &&
+            $title->getNamespace() == $wgCommentStreamsNamespaceIndex
+        ) {
+            // Edits in discussions of Extension:CommentStreams will bypass moderation,
+            // because CommentStreams treats "edit queued for moderation" as an error.
+            // This can only be fixed in Extension:CommentStreams itself.
+            return;
+        }
 
-                $this->consequenceManager->add(
-                        new QueueEditConsequence(
-                                $page,
-                                $user,
-                                $content,
-                                $summary,
-                                $this->editFormOptions->getSection(),
-                                $this->editFormOptions->getSectionText(),
-                                (bool) ($flags & EDIT_FORCE_BOT),
-                                (bool) $is_minor,
-                        ),
-                );
+        $this->consequenceManager->add(
+            new QueueEditConsequence(
+                $page,
+                $user,
+                $content,
+                $summary,
+                $this->editFormOptions->getSection(),
+                $this->editFormOptions->getSectionText(),
+                (bool) ($flags & EDIT_FORCE_BOT),
+                (bool) $is_minor,
+            ),
+        );
 
-                /* Watch/Unwatch the page immediately:
-                 watchlist is the user's own business, no reason to wait for approval of the edit */
-                $this->editFormOptions->watchIfNeeded($user, [$title]);
+        /* Watch/Unwatch the page immediately:
+         watchlist is the user's own business, no reason to wait for approval of the edit */
+        $this->editFormOptions->watchIfNeeded($user, [$title]);
 
-                /*
+        /*
 			We have queued this edit for moderation.
 			No need to save anything at this point.
 			Later (if approved) the edit will be saved via doEditContent().
@@ -200,205 +194,191 @@ class ModerationEditHooks implements
 			Notification "Your edit was successfully sent to moderation"
 			will be shown by JavaScript.
 		*/
-                $out = RequestContext::getMain()->getOutput();
-                $out->redirect($this->getRedirectURL($title, $out));
+        $out = RequestContext::getMain()->getOutput();
+        $out->redirect($this->getRedirectURL($title, $out));
 
-                $status->fatal("moderation-edit-queued");
-                return false;
+        $status->fatal("moderation-edit-queued");
+        return false;
+    }
+
+    /**
+     * Returns the URL to where the user is redirected after successful edit.
+     * @param Title $title Article that was edited.
+     * @param IContextSource $context Any object that contains current context.
+     * @return string URL
+     */
+    protected function getRedirectURL(Title $title, IContextSource $context)
+    {
+        $query = ["modqueued" => 1];
+
+        /* Are customized "continue editing" links needed?
+         E.g. Special:FormEdit or ?action=formedit from Extension:PageForms. */
+        $returnto = "";
+        $returntoquery = [];
+        $this->hookRunner->onModerationContinueEditingLink(
+            $returnto,
+            $returntoquery,
+            $title,
+            $context,
+        );
+
+        if ($returnto || $returntoquery) {
+            /* Pack into one parameter to simplify the JavaScript part. */
+            $query["returnto"] = FormatJson::encode([
+                $returnto,
+                $returntoquery,
+            ]);
         }
 
-        /**
-         * Returns the URL to where the user is redirected after successful edit.
-         * @param Title $title Article that was edited.
-         * @param IContextSource $context Any object that contains current context.
-         * @return string URL
-         */
-        protected function getRedirectURL(Title $title, IContextSource $context)
-        {
-                $query = ["modqueued" => 1];
+        return $title->getFullURL($query);
+    }
 
-                /* Are customized "continue editing" links needed?
-                 E.g. Special:FormEdit or ?action=formedit from Extension:PageForms. */
-                $returnto = "";
-                $returntoquery = [];
-                $this->hookRunner->onModerationContinueEditingLink(
-                        $returnto,
-                        $returntoquery,
-                        $title,
-                        $context,
-                );
+    /**
+     * BeforePageDisplay hook handler.
+     * @param OutputPage $out
+     * @param Skin $skin @phan-unused-param
+     */
+    public function onBeforePageDisplay($out, $skin): void
+    {
+        $isAutomoderated = $this->canSkip->canEditSkip(
+            $out->getUser(),
+            $out->getTitle()->getNamespace(),
+        );
+        if (!$isAutomoderated) {
+            $out->addModules(["ext.moderation.notify"]);
+            ModerationAjaxHook::add($out);
 
-                if ($returnto || $returntoquery) {
-                        /* Pack into one parameter to simplify the JavaScript part. */
-                        $query["returnto"] = FormatJson::encode([
-                                $returnto,
-                                $returntoquery,
-                        ]);
-                }
+            // Add desktop-only notification script if needed (not used for MobileFrontend).
+            $services = MediaWikiServices::getInstance();
+            if (
+                !$services->hasService("MobileFrontend.Context") ||
+                !$services
+                    ->getService("MobileFrontend.Context")
+                    ->shouldDisplayMobileView()
+            ) {
+                $out->addModules(["ext.moderation.notify.desktop"]);
+            }
+        }
+    }
 
-                return $title->getFullURL($query);
+    /**
+     * PageSaveComplete hook handler.
+     * If this is a merged edit, then 'wpMergeID' is the ID of moderation entry.
+     * Here we mark this entry as merged.
+     *
+     * @param WikiPage $wikiPage
+     * @param UserIdentity $user
+     * @param string $summary @phan-unused-param
+     * @param int $flags @phan-unused-param
+     * @param RevisionRecord $revisionRecord
+     * @param EditResult $editResult
+     * @return bool|void
+     */
+    public function onPageSaveComplete(
+        $wikiPage,
+        $user,
+        $summary,
+        $flags,
+        $revisionRecord,
+        $editResult,
+    ) {
+        if ($editResult->isNullEdit()) {
+            // Moderator didn't do anything.
+            return;
         }
 
-        /**
-         * BeforePageDisplay hook handler.
-         * @param OutputPage $out
-         * @param Skin $skin @phan-unused-param
-         */
-        public function onBeforePageDisplay($out, $skin): void
-        {
-                $isAutomoderated = $this->canSkip->canEditSkip(
-                        $out->getUser(),
-                        $out->getTitle()->getNamespace(),
-                );
-                if (!$isAutomoderated) {
-                        $out->addModules(["ext.moderation.notify"]);
-                        ModerationAjaxHook::add($out);
+        $this->markAsMergedIfNeeded(
+            $wikiPage,
+            $revisionRecord->getId(),
+            User::newFromIdentity($user),
+        );
+    }
 
-                        // Add desktop-only notification script if needed (not used for MobileFrontend).
-                        $services = MediaWikiServices::getInstance();
-                        if (
-                                !$services->hasService(
-                                        "MobileFrontend.Context",
-                                ) ||
-                                !$services
-                                        ->getService("MobileFrontend.Context")
-                                        ->shouldDisplayMobileView()
-                        ) {
-                                $out->addModules([
-                                        "ext.moderation.notify.desktop",
-                                ]);
-                        }
-                }
+    /**
+     * Mark the revision as "merged edit" if this edit was made via modaction=merge.
+     * @param WikiPage $wikiPage
+     * @param int $revid
+     * @param User $user
+     * @return bool|void
+     */
+    protected function markAsMergedIfNeeded($wikiPage, $revid, $user)
+    {
+        /* Only moderators can merge. If someone else adds wpMergeID to the edit form, ignore it */
+        if (!$user->isAllowed("moderation")) {
+            return;
         }
 
-        /**
-         * PageSaveComplete hook handler.
-         * If this is a merged edit, then 'wpMergeID' is the ID of moderation entry.
-         * Here we mark this entry as merged.
-         *
-         * @param WikiPage $wikiPage
-         * @param UserIdentity $user
-         * @param string $summary @phan-unused-param
-         * @param int $flags @phan-unused-param
-         * @param RevisionRecord $revisionRecord
-         * @param EditResult $editResult
-         * @return bool|void
-         */
-        public function onPageSaveComplete(
-                $wikiPage,
-                $user,
-                $summary,
-                $flags,
-                $revisionRecord,
-                $editResult,
-        ) {
-                if ($editResult->isNullEdit()) {
-                        // Moderator didn't do anything.
-                        return;
-                }
-
-                $this->markAsMergedIfNeeded(
-                        $wikiPage,
-                        $revisionRecord->getId(),
-                        User::newFromIdentity($user),
-                );
+        $mergeID = RequestContext::getMain()->getRequest()->getInt("wpMergeID");
+        if (!$mergeID) {
+            return;
         }
 
-        /**
-         * Mark the revision as "merged edit" if this edit was made via modaction=merge.
-         * @param WikiPage $wikiPage
-         * @param int $revid
-         * @param User $user
-         * @return bool|void
-         */
-        protected function markAsMergedIfNeeded($wikiPage, $revid, $user)
-        {
-                /* Only moderators can merge. If someone else adds wpMergeID to the edit form, ignore it */
-                if (!$user->isAllowed("moderation")) {
-                        return;
-                }
+        $manager = $this->consequenceManager;
+        $somethingChanged = $manager->add(
+            new MarkAsMergedConsequence($mergeID, $revid),
+        );
 
-                $mergeID = RequestContext::getMain()
-                        ->getRequest()
-                        ->getInt("wpMergeID");
-                if (!$mergeID) {
-                        return;
-                }
+        if ($somethingChanged) {
+            $manager->add(
+                new AddLogEntryConsequence(
+                    "merge",
+                    $user,
+                    $wikiPage->getTitle(),
+                    [
+                        "modid" => $mergeID,
+                        "revid" => $revid,
+                    ],
+                ),
+            );
 
-                $manager = $this->consequenceManager;
-                $somethingChanged = $manager->add(
-                        new MarkAsMergedConsequence($mergeID, $revid),
-                );
+            /* Clear the cache of "Most recent mod_timestamp of pending edit"
+             - could have changed */
+            $manager->add(new InvalidatePendingTimeCacheConsequence());
 
-                if ($somethingChanged) {
-                        $manager->add(
-                                new AddLogEntryConsequence(
-                                        "merge",
-                                        $user,
-                                        $wikiPage->getTitle(),
-                                        [
-                                                "modid" => $mergeID,
-                                                "revid" => $revid,
-                                        ],
-                                ),
-                        );
-
-                        /* Clear the cache of "Most recent mod_timestamp of pending edit"
-                         - could have changed */
-                        $manager->add(
-                                new InvalidatePendingTimeCacheConsequence(),
-                        );
-
-                        /* Tag this edit as "manually merged" */
-                        $manager->add(
-                                new TagRevisionAsMergedConsequence($revid),
-                        );
-                }
+            /* Tag this edit as "manually merged" */
+            $manager->add(new TagRevisionAsMergedConsequence($revid));
         }
+    }
 
-        /**
-         * EditPage::showEditForm:fields hook handler.
-         * Add wpMergeID field to edit form when moderator is doing a manual merge.
-         * @param EditPage $editpage @phan-unused-param
-         * @param OutputPage $out
-         * @return bool|void
-         */
-        // phpcs:ignore MediaWiki.NamingConventions.LowerCamelFunctionsName.FunctionName, MediaWiki.Commenting.FunctionComment.MissingDocumentationPublic
-        public function onEditPage__showEditForm_fields($editpage, $out)
-        {
-                $mergeID = $this->editFormOptions->getMergeID();
-                if ($mergeID) {
-                        $out->addHTML(
-                                Html::hidden("wpMergeID", (string) $mergeID),
-                        );
-                        $out->addHTML(
-                                Html::hidden("wpIgnoreBlankSummary", "1"),
-                        );
-                }
+    /**
+     * EditPage::showEditForm:fields hook handler.
+     * Add wpMergeID field to edit form when moderator is doing a manual merge.
+     * @param EditPage $editpage @phan-unused-param
+     * @param OutputPage $out
+     * @return bool|void
+     */
+    // phpcs:ignore MediaWiki.NamingConventions.LowerCamelFunctionsName.FunctionName, MediaWiki.Commenting.FunctionComment.MissingDocumentationPublic
+    public function onEditPage__showEditForm_fields($editpage, $out)
+    {
+        $mergeID = $this->editFormOptions->getMergeID();
+        if ($mergeID) {
+            $out->addHTML(Html::hidden("wpMergeID", (string) $mergeID));
+            $out->addHTML(Html::hidden("wpIgnoreBlankSummary", "1"));
         }
+    }
 
-        /**
-         * ListDefinedTags hook handler.
-         * Registers 'moderation-merged' and 'moderation-spam' ChangeTag.
-         * @param string[] &$tags
-         * @return bool|void
-         */
-        public function onListDefinedTags(&$tags)
-        {
-                $tags[] = "moderation-merged";
-                $tags[] = "moderation-spam";
-        }
+    /**
+     * ListDefinedTags hook handler.
+     * Registers 'moderation-merged' and 'moderation-spam' ChangeTag.
+     * @param string[] &$tags
+     * @return bool|void
+     */
+    public function onListDefinedTags(&$tags)
+    {
+        $tags[] = "moderation-merged";
+        $tags[] = "moderation-spam";
+    }
 
-        /**
-         * ChangeTagsAllowedAdd hook handler.
-         * Allows third-party code (such as AbuseFilter) to assign 'moderation-spam' ChangeTag to edits.
-         * @param string[] &$allowedTags
-         * @param string[] $addTags @phan-unused-param
-         * @param User $user @phan-unused-param
-         * @return bool|void
-         */
-        public function onChangeTagsAllowedAdd(&$allowedTags, $addTags, $user)
-        {
-                $allowedTags[] = "moderation-spam";
-        }
+    /**
+     * ChangeTagsAllowedAdd hook handler.
+     * Allows third-party code (such as AbuseFilter) to assign 'moderation-spam' ChangeTag to edits.
+     * @param string[] &$allowedTags
+     * @param string[] $addTags @phan-unused-param
+     * @param User $user @phan-unused-param
+     * @return bool|void
+     */
+    public function onChangeTagsAllowedAdd(&$allowedTags, $addTags, $user)
+    {
+        $allowedTags[] = "moderation-spam";
+    }
 }

@@ -24,43 +24,43 @@ namespace MediaWiki\Moderation;
 
 class MarkAsMergedConsequence implements IConsequence
 {
-        /** @var int */
-        protected $modid;
+    /** @var int */
+    protected $modid;
 
-        /** @var int */
-        protected $revid;
+    /** @var int */
+    protected $revid;
 
-        /**
-         * @param int $modid
-         * @param int $revid
-         */
-        public function __construct($modid, $revid)
-        {
-                $this->modid = $modid;
-                $this->revid = $revid;
-        }
+    /**
+     * @param int $modid
+     * @param int $revid
+     */
+    public function __construct($modid, $revid)
+    {
+        $this->modid = $modid;
+        $this->revid = $revid;
+    }
 
-        /**
-         * Execute the consequence.
-         * @return bool True if non-merged edit was marked as merged, false otherwise.
-         */
-        public function run()
-        {
-                $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
-                $dbw->update(
-                        "moderation",
-                        [
-                                "mod_merged_revid" => $this->revid,
-                                "mod_preloadable=mod_id",
-                        ],
-                        [
-                                "mod_id" => $this->modid,
-                                "mod_merged_revid" => 0, # No more than one merging
-                                "mod_conflict" => 1, # Only changes with an edit conflict can be merged
-                        ],
-                        __METHOD__,
-                );
+    /**
+     * Execute the consequence.
+     * @return bool True if non-merged edit was marked as merged, false otherwise.
+     */
+    public function run()
+    {
+        $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
+        $dbw->update(
+            "moderation",
+            [
+                "mod_merged_revid" => $this->revid,
+                "mod_preloadable=mod_id",
+            ],
+            [
+                "mod_id" => $this->modid,
+                "mod_merged_revid" => 0, # No more than one merging
+                "mod_conflict" => 1, # Only changes with an edit conflict can be merged
+            ],
+            __METHOD__,
+        );
 
-                return $dbw->affectedRows() > 0;
-        }
+        return $dbw->affectedRows() > 0;
+    }
 }

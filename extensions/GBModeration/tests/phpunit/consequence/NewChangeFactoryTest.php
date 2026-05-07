@@ -38,51 +38,39 @@ require_once __DIR__ . "/autoload.php";
  */
 class NewChangeFactoryTest extends ModerationUnitTestCase
 {
-        /**
-         * Test that NewChangeFactory can create ModerationNewChange objects.
-         * @covers MediaWiki\Moderation\NewChangeFactory
-         */
-        public function testFactory()
-        {
-                $consequenceManager = $this->createMock(
-                        IConsequenceManager::class,
-                );
-                $preload = $this->createMock(ModerationPreload::class);
-                $hookRunner = $this->createMock(HookRunner::class);
-                $notifyModerator = $this->createMock(
-                        ModerationNotifyModerator::class,
-                );
-                $contentLanguage = $this->createMock(Language::class);
+    /**
+     * Test that NewChangeFactory can create ModerationNewChange objects.
+     * @covers MediaWiki\Moderation\NewChangeFactory
+     */
+    public function testFactory()
+    {
+        $consequenceManager = $this->createMock(IConsequenceManager::class);
+        $preload = $this->createMock(ModerationPreload::class);
+        $hookRunner = $this->createMock(HookRunner::class);
+        $notifyModerator = $this->createMock(ModerationNotifyModerator::class);
+        $contentLanguage = $this->createMock(Language::class);
 
-                $factory = new NewChangeFactory(
-                        // @phan-suppress-next-line PhanTypeMismatchArgument
-                        $consequenceManager,
-                        $preload,
-                        $hookRunner,
-                        $notifyModerator,
-                        $contentLanguage,
-                );
+        $factory = new NewChangeFactory(
+            // @phan-suppress-next-line PhanTypeMismatchArgument
+            $consequenceManager,
+            $preload,
+            $hookRunner,
+            $notifyModerator,
+            $contentLanguage,
+        );
 
-                $title = Title::newFromText(
-                        "Category:UTPage-" . rand(0, 100000),
-                );
-                $user = self::getTestUser()->getUser();
+        $title = Title::newFromText("Category:UTPage-" . rand(0, 100000));
+        $user = self::getTestUser()->getUser();
 
-                // Run the tested method.
-                $change = $factory->makeNewChange($title, $user);
+        // Run the tested method.
+        $change = $factory->makeNewChange($title, $user);
 
-                $this->assertInstanceOf(ModerationNewChange::class, $change);
-                $this->assertSame(
-                        $title->getNamespace(),
-                        $change->getField("mod_namespace"),
-                );
-                $this->assertSame(
-                        $title->getDBKey(),
-                        $change->getField("mod_title"),
-                );
-                $this->assertSame(
-                        $user->getName(),
-                        $change->getField("mod_user_text"),
-                );
-        }
+        $this->assertInstanceOf(ModerationNewChange::class, $change);
+        $this->assertSame(
+            $title->getNamespace(),
+            $change->getField("mod_namespace"),
+        );
+        $this->assertSame($title->getDBKey(), $change->getField("mod_title"));
+        $this->assertSame($user->getName(), $change->getField("mod_user_text"));
+    }
 }

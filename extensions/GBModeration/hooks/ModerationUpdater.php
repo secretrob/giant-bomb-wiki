@@ -28,78 +28,72 @@ use MediaWiki\MediaWikiServices;
 
 class ModerationUpdater implements LoadExtensionSchemaUpdatesHook
 {
-        /**
-         * @param DatabaseUpdater $updater
-         * @return bool|void
-         */
-        public function onLoadExtensionSchemaUpdates($updater)
-        {
-                $db = $updater->getDB();
-                $dbType = $db->getType();
+    /**
+     * @param DatabaseUpdater $updater
+     * @return bool|void
+     */
+    public function onLoadExtensionSchemaUpdates($updater)
+    {
+        $db = $updater->getDB();
+        $dbType = $db->getType();
 
-                $sqlDir = __DIR__ . "/../sql/" . $updater->getDB()->getType();
+        $sqlDir = __DIR__ . "/../sql/" . $updater->getDB()->getType();
 
-                /* Main database schema */
-                $updater->addExtensionTable(
-                        "moderation",
-                        "$sqlDir/tables-generated.sql",
-                );
+        /* Main database schema */
+        $updater->addExtensionTable(
+            "moderation",
+            "$sqlDir/tables-generated.sql",
+        );
 
-                /* DB changes needed when updating Moderation from its previous version */
-                if ($dbType == "postgres") {
-                        // PostgreSQL support was added in Moderation 1.4.12,
-                        // there were no schema changes since then.
-                } elseif ($dbType == "mysql") {
-                        // ... to Moderation 1.1.29
-                        $updater->addExtensionField(
-                                "moderation",
-                                "mod_tags",
-                                "$sqlDir/patch-moderation-mod_tags.sql",
-                        );
+        /* DB changes needed when updating Moderation from its previous version */
+        if ($dbType == "postgres") {
+            // PostgreSQL support was added in Moderation 1.4.12,
+            // there were no schema changes since then.
+        } elseif ($dbType == "mysql") {
+            // ... to Moderation 1.1.29
+            $updater->addExtensionField(
+                "moderation",
+                "mod_tags",
+                "$sqlDir/patch-moderation-mod_tags.sql",
+            );
 
-                        // ... to Moderation 1.1.31
-                        $updater->modifyExtensionField(
-                                "moderation",
-                                "mod_title",
-                                "$sqlDir/patch-fix-titledbkey.sql",
-                        );
+            // ... to Moderation 1.1.31
+            $updater->modifyExtensionField(
+                "moderation",
+                "mod_title",
+                "$sqlDir/patch-fix-titledbkey.sql",
+            );
 
-                        // ... to Moderation 1.2.9
-                        if (
-                                $db->tableExists("moderation", __METHOD__) &&
-                                !$db->indexUnique(
-                                        "moderation",
-                                        "moderation_load",
-                                        __METHOD__,
-                                )
-                        ) {
-                                $updater->addExtensionUpdate([
-                                        "applyPatch",
-                                        "$sqlDir/patch-make-preload-unique.sql",
-                                        true,
-                                ]);
-                        }
-
-                        // ... to Moderation 1.2.17
-                        $updater->addExtensionField(
-                                "moderation",
-                                "mod_type",
-                                "$sqlDir/patch-moderation-mod_type.sql",
-                        );
-                }
-
-                // Workaround for T258159 (extension-provided services are not loaded during the Web Updater,
-                // but Moderation.VersionCheck service is needed for invalidateCache() call below).
-                // This code is not needed during normal installation (when running update.php via the console).
-                $services = MediaWikiServices::getInstance();
-                if (!$services->hasService("Moderation.VersionCheck")) {
-                        $services->loadWiringFiles([
-                                __DIR__ . "/ServiceWiring.php",
-                        ]);
-                }
-
+            // ... to Moderation 1.2.9
+            if (
+                $db->tableExists("moderation", __METHOD__) &&
+                !$db->indexUnique("moderation", "moderation_load", __METHOD__)
+            ) {
                 $updater->addExtensionUpdate([
-                        "MediaWiki\Moderation\ModerationVersionCheck::invalidateCache",
+                    "applyPatch",
+                    "$sqlDir/patch-make-preload-unique.sql",
+                    true,
                 ]);
+            }
+
+            // ... to Moderation 1.2.17
+            $updater->addExtensionField(
+                "moderation",
+                "mod_type",
+                "$sqlDir/patch-moderation-mod_type.sql",
+            );
         }
+
+        // Workaround for T258159 (extension-provided services are not loaded during the Web Updater,
+        // but Moderation.VersionCheck service is needed for invalidateCache() call below).
+        // This code is not needed during normal installation (when running update.php via the console).
+        $services = MediaWikiServices::getInstance();
+        if (!$services->hasService("Moderation.VersionCheck")) {
+            $services->loadWiringFiles([__DIR__ . "/ServiceWiring.php"]);
+        }
+
+        $updater->addExtensionUpdate([
+            "MediaWiki\Moderation\ModerationVersionCheck::invalidateCache",
+        ]);
+    }
 }

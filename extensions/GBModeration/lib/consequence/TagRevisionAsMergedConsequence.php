@@ -27,30 +27,30 @@ use MediaWiki\MediaWikiServices;
 
 class TagRevisionAsMergedConsequence implements IConsequence
 {
-        /** @var int */
-        protected $revid;
+    /** @var int */
+    protected $revid;
 
-        /**
-         * @param int $revid
-         */
-        public function __construct($revid)
-        {
-                $this->revid = $revid;
-        }
+    /**
+     * @param int $revid
+     */
+    public function __construct($revid)
+    {
+        $this->revid = $revid;
+    }
 
-        /**
-         * Execute the consequence.
-         */
-        public function run()
-        {
-                DeferredUpdates::addCallableUpdate(function () {
-                        $changeTagsStore = MediaWikiServices::getInstance()->getChangeTagsStore();
-                        $changeTagsStore->addTags(
-                                "moderation-merged",
-                                null,
-                                $this->revid,
-                                null,
-                        );
-                });
-        }
+    /**
+     * Execute the consequence.
+     */
+    public function run()
+    {
+        DeferredUpdates::addCallableUpdate(function () {
+            $changeTagsStore = MediaWikiServices::getInstance()->getChangeTagsStore();
+            $changeTagsStore->addTags(
+                "moderation-merged",
+                null,
+                $this->revid,
+                null,
+            );
+        });
+    }
 }

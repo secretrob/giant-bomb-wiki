@@ -28,60 +28,58 @@ use Wikimedia\Services\DestructibleService;
 
 class RollbackResistantQuery implements DestructibleService
 {
-        /** @var callable[] All callables that were passed to perform() */
-        protected $operations = [];
+    /** @var callable[] All callables that were passed to perform() */
+    protected $operations = [];
 
-        /** @var ILoadBalancer */
-        protected $loadBalancer;
+    /** @var ILoadBalancer */
+    protected $loadBalancer;
 
-        /**
-         * @param ILoadBalancer $loadBalancer
-         */
-        public function __construct(ILoadBalancer $loadBalancer)
-        {
-                $this->loadBalancer = $loadBalancer;
+    /**
+     * @param ILoadBalancer $loadBalancer
+     */
+    public function __construct(ILoadBalancer $loadBalancer)
+    {
+        $this->loadBalancer = $loadBalancer;
 
-                // Install hooks that can detect a database rollback.
-                $this->loadBalancer->setTransactionListener(
-                        "moderation-on-rollback-or-commit",
-                        function ($trigger) {
-                                if ($trigger == IDatabase::TRIGGER_ROLLBACK) {
-                                        // Redo all operations, because rollback just undid them.
-                                        foreach ($this->operations as $func) {
-                                                $func();
-                                        }
-                                } elseif (
-                                        $trigger == IDatabase::TRIGGER_COMMIT
-                                ) {
-                                        // COMMIT was successful (previous queries will no longer be rolled back),
-                                        // so there is no longer any need to repeat them.
-                                        $this->operations = [];
-                                }
-                        },
-                );
-        }
+        // Install hooks that can detect a database rollback.
+        $this->loadBalancer->setTransactionListener(
+            "moderation-on-rollback-or-commit",
+            function ($trigger) {
+                if ($trigger == IDatabase::TRIGGER_ROLLBACK) {
+                    // Redo all operations, because rollback just undid them.
+                    foreach ($this->operations as $func) {
+                        $func();
+                    }
+                } elseif ($trigger == IDatabase::TRIGGER_COMMIT) {
+                    // COMMIT was successful (previous queries will no longer be rolled back),
+                    // so there is no longer any need to repeat them.
+                    $this->operations = [];
+                }
+            },
+        );
+    }
 
-        /**
-         * Unbind the listener, so that it wouldn't be called with reference to the destroyed service.
-         */
-        public function destroy()
-        {
-                $this->loadBalancer->setTransactionListener(
-                        "moderation-on-rollback-or-commit",
-                        null,
-                );
-        }
+    /**
+     * Unbind the listener, so that it wouldn't be called with reference to the destroyed service.
+     */
+    public function destroy()
+    {
+        $this->loadBalancer->setTransactionListener(
+            "moderation-on-rollback-or-commit",
+            null,
+        );
+    }
 
-        /**
-         * Perform some database operation that won't be undone by Database::rollback().
-         * @param callable $func A callback that uses methods like DB::insert(), etc.
-         */
-        public function perform(callable $func)
-        {
-                // The query is invoked immediately. If rollback() happens, the query will be repeated.
-                $func();
+    /**
+     * Perform some database operation that won't be undone by Database::rollback().
+     * @param callable $func A callback that uses methods like DB::insert(), etc.
+     */
+    public function perform(callable $func)
+    {
+        // The query is invoked immediately. If rollback() happens, the query will be repeated.
+        $func();
 
-                // All operations will be re-run after rollback()
-                $this->operations[] = $func;
-        }
+        // All operations will be re-run after rollback()
+        $this->operations[] = $func;
+    }
 }

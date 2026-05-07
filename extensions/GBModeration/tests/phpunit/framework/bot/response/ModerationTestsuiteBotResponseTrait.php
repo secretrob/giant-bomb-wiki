@@ -24,62 +24,62 @@ namespace MediaWiki\Moderation\Tests;
 
 trait ModerationTestsuiteBotResponse
 {
-        /** @var bool */
-        private $isIntercepted;
+    /** @var bool */
+    private $isIntercepted;
 
-        /** @var bool */
-        private $isBypassed;
+    /** @var bool */
+    private $isBypassed;
 
-        /** @var string|null */
-        private $error;
+    /** @var string|null */
+    private $error;
 
-        /**
-         * Construct new BotResponse object.
-         * @param array|IModerationTestsuiteResponse $nativeResponse Depends on bot type (API or not).
-         * @param bool $isIntercepted
-         * @param bool $isBypassed
-         * @param string|null $error
-         * @return ModerationTestsuiteApiBotResponse|ModerationTestsuiteNonApiBotResponse
-         */
-        public static function factory(
-                $nativeResponse,
-                $isIntercepted,
-                $isBypassed,
-                $error,
-        ) {
-                // @phan-suppress-next-line PhanUndeclaredMethod
-                $r = new static($nativeResponse);
-                $r->isIntercepted = $isIntercepted;
-                $r->isBypassed = $isBypassed;
-                $r->error = $error;
+    /**
+     * Construct new BotResponse object.
+     * @param array|IModerationTestsuiteResponse $nativeResponse Depends on bot type (API or not).
+     * @param bool $isIntercepted
+     * @param bool $isBypassed
+     * @param string|null $error
+     * @return ModerationTestsuiteApiBotResponse|ModerationTestsuiteNonApiBotResponse
+     */
+    public static function factory(
+        $nativeResponse,
+        $isIntercepted,
+        $isBypassed,
+        $error,
+    ) {
+        // @phan-suppress-next-line PhanUndeclaredMethod
+        $r = new static($nativeResponse);
+        $r->isIntercepted = $isIntercepted;
+        $r->isBypassed = $isBypassed;
+        $r->error = $error;
 
-                return $r;
-        }
+        return $r;
+    }
 
-        /**
-         * Check if this action was intercepted (and queued) by Moderation.
-         * @return bool
-         */
-        public function isIntercepted()
-        {
-                return $this->isIntercepted;
-        }
+    /**
+     * Check if this action was intercepted (and queued) by Moderation.
+     * @return bool
+     */
+    public function isIntercepted()
+    {
+        return $this->isIntercepted;
+    }
 
-        /**
-         * Check if this action has bypassed Moderation (was applied immediately).
-         * @return bool
-         */
-        public function isBypassed()
-        {
-                return $this->isBypassed;
-        }
+    /**
+     * Check if this action has bypassed Moderation (was applied immediately).
+     * @return bool
+     */
+    public function isBypassed()
+    {
+        return $this->isBypassed;
+    }
 
-        /**
-         * Returns the error string (if any) or null (if the operation was successful).
-         * @return string|null
-         */
-        public function getError()
-        {
-                return $this->error;
-        }
+    /**
+     * Returns the error string (if any) or null (if the operation was successful).
+     * @return string|null
+     */
+    public function getError()
+    {
+        return $this->error;
+    }
 }

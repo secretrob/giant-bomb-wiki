@@ -27,61 +27,54 @@ use User;
 
 class ModerationEntryEdit extends ModerationApprovableEntry
 {
-        /**
-         * Approve this edit.
-         * @param User $moderator @phan-unused-param
-         * @return Status object.
-         */
-        public function doApprove(User $moderator)
-        {
-                $row = $this->getRow();
-                $user = $this->getUser();
-                $title = $this->getTitle();
+    /**
+     * Approve this edit.
+     * @param User $moderator @phan-unused-param
+     * @return Status object.
+     */
+    public function doApprove(User $moderator)
+    {
+        $row = $this->getRow();
+        $user = $this->getUser();
+        $title = $this->getTitle();
 
-                $status = $this->consequenceManager->add(
-                        new ApproveEditConsequence(
-                                $user,
-                                $title,
-                                $row->text,
-                                $row->comment,
-                                $row->bot && $user->isAllowed("bot"),
-                                (bool) $row->minor,
-                                (int) $row->last_oldid,
-                        ),
-                );
+        $status = $this->consequenceManager->add(
+            new ApproveEditConsequence(
+                $user,
+                $title,
+                $row->text,
+                $row->comment,
+                $row->bot && $user->isAllowed("bot"),
+                (bool) $row->minor,
+                (int) $row->last_oldid,
+            ),
+        );
 
-                if ($status->hasMessage("moderation-edit-conflict")) {
-                        /* Failed to merge automatically.
-                         Can still be merged manually by moderator */
-                        $this->consequenceManager->add(
-                                new MarkAsConflictConsequence($row->id),
-                        );
-                } elseif ($status->hasMessage("edit-no-change")) {
-                        /* There is nothing to approve,
+        if ($status->hasMessage("moderation-edit-conflict")) {
+            /* Failed to merge automatically.
+             Can still be merged manually by moderator */
+            $this->consequenceManager->add(
+                new MarkAsConflictConsequence($row->id),
+            );
+        } elseif ($status->hasMessage("edit-no-change")) {
+            /* There is nothing to approve,
 				because this page already the same text as what this change is proposing.
 				Move this change from Pending folder to Rejected folder.
 			*/
-                        $rejectedCount = $this->consequenceManager->add(
-                                new RejectOneConsequence($row->id, $moderator),
-                        );
-                        if ($rejectedCount > 0) {
-                                $this->consequenceManager->add(
-                                        new AddLogEntryConsequence(
-                                                "reject",
-                                                $moderator,
-                                                $title,
-                                                [
-                                                        "modid" => $row->id,
-                                                        "user" =>
-                                                                (int) $row->user,
-                                                        "user_text" =>
-                                                                $row->user_text,
-                                                ],
-                                        ),
-                                );
-                        }
-                }
-
-                return $status;
+            $rejectedCount = $this->consequenceManager->add(
+                new RejectOneConsequence($row->id, $moderator),
+            );
+            if ($rejectedCount > 0) {
+                $this->consequenceManager->add(
+                    new AddLogEntryConsequence("reject", $moderator, $title, [
+                        "modid" => $row->id,
+                        "user" => (int) $row->user,
+                        "user_text" => $row->user_text,
+                    ]),
+                );
+            }
         }
+
+        return $status;
+    }
 }

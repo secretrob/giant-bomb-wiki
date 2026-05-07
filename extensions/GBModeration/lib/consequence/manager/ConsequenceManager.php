@@ -24,11 +24,11 @@ namespace MediaWiki\Moderation;
 
 class ConsequenceManager implements IConsequenceManager
 {
-        /**
-         * @inheritDoc
-         */
-        public function add(IConsequence $consequence)
-        {
-                return $consequence->run();
-        }
+    /**
+     * @inheritDoc
+     */
+    public function add(IConsequence $consequence)
+    {
+        return $consequence->run();
+    }
 }

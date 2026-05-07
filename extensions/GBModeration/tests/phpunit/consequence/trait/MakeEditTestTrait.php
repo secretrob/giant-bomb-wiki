@@ -34,45 +34,43 @@ use User;
  */
 trait MakeEditTestTrait
 {
-        /**
-         * Make one test edit on behalf of $user in page $title.
-         * @param Title $title
-         * @param User $user
-         * @param string|null $text
-         * @return int rev_id of the newly created edit.
-         */
-        protected function makeEdit(Title $title, User $user, $text = null)
-        {
-                if (!$text) {
-                        $text =
-                                "Some text " .
-                                rand(0, 100000) .
-                                " in page " .
-                                $title->getFullText() .
-                                " by " .
-                                $user->getName();
-                }
-
-                $page = ModerationCompatTools::makeWikiPage($title);
-                $content = ContentHandler::makeContent(
-                        $text,
-                        null,
-                        CONTENT_MODEL_WIKITEXT,
-                );
-                $summary = CommentStoreComment::newUnsavedComment(
-                        "Some edit summary",
-                );
-
-                $updater = $page->newPageUpdater($user);
-                $updater->setContent(SlotRecord::MAIN, $content);
-                $rev = $updater->saveRevision($summary, EDIT_INTERNAL);
-
-                $status = $updater->getStatus();
-                $this->assertTrue(
-                        $status->isGood(),
-                        "Edit failed: " . $status->getMessage()->plain(),
-                );
-
-                return $rev ? $rev->getId() : 0;
+    /**
+     * Make one test edit on behalf of $user in page $title.
+     * @param Title $title
+     * @param User $user
+     * @param string|null $text
+     * @return int rev_id of the newly created edit.
+     */
+    protected function makeEdit(Title $title, User $user, $text = null)
+    {
+        if (!$text) {
+            $text =
+                "Some text " .
+                rand(0, 100000) .
+                " in page " .
+                $title->getFullText() .
+                " by " .
+                $user->getName();
         }
+
+        $page = ModerationCompatTools::makeWikiPage($title);
+        $content = ContentHandler::makeContent(
+            $text,
+            null,
+            CONTENT_MODEL_WIKITEXT,
+        );
+        $summary = CommentStoreComment::newUnsavedComment("Some edit summary");
+
+        $updater = $page->newPageUpdater($user);
+        $updater->setContent(SlotRecord::MAIN, $content);
+        $rev = $updater->saveRevision($summary, EDIT_INTERNAL);
+
+        $status = $updater->getStatus();
+        $this->assertTrue(
+            $status->isGood(),
+            "Edit failed: " . $status->getMessage()->plain(),
+        );
+
+        return $rev ? $rev->getId() : 0;
+    }
 }

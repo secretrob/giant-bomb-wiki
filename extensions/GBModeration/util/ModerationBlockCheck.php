@@ -26,20 +26,20 @@ use User;
 
 class ModerationBlockCheck
 {
-        /**
-         * Returns true if $user is blacklisted, false otherwise.
-         * @param User $user
-         * @return bool
-         */
-        public function isModerationBlocked(User $user)
-        {
-                $dbw = ModerationCompatTools::getDB(DB_PRIMARY); # Need actual data
-                $blocked = $dbw->selectField(
-                        "moderation_block",
-                        "mb_id",
-                        ["mb_address" => $user->getName()],
-                        __METHOD__,
-                );
-                return (bool) $blocked;
-        }
+    /**
+     * Returns true if $user is blacklisted, false otherwise.
+     * @param User $user
+     * @return bool
+     */
+    public function isModerationBlocked(User $user)
+    {
+        $dbw = ModerationCompatTools::getDB(DB_PRIMARY); # Need actual data
+        $blocked = $dbw->selectField(
+            "moderation_block",
+            "mb_id",
+            ["mb_address" => $user->getName()],
+            __METHOD__,
+        );
+        return (bool) $blocked;
+    }
 }

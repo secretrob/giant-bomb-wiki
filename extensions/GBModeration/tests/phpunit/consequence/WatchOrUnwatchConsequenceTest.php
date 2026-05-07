@@ -34,124 +34,106 @@ require_once __DIR__ . "/autoload.php";
  */
 class WatchOrUnwatchConsequenceTest extends ModerationUnitTestCase
 {
-        /**
-         * Verify that WatchOrUnwatchConsequence watches/unwatches a page.
-         * @covers MediaWiki\Moderation\WatchOrUnwatchConsequence
-         * @param bool $watch
-         * @param bool $noop If true, "watch this" will be tested on already watched page
-         * (and "unwatch this" will be tested on non-watched page).
-         * @dataProvider dataProviderWatchUnwatch
-         */
-        public function testWatchUnwatch($watch, $noop)
-        {
-                $title = Title::newFromText("UTPage-" . rand(0, 100000));
-                $user = self::getTestUser()->getUser();
+    /**
+     * Verify that WatchOrUnwatchConsequence watches/unwatches a page.
+     * @covers MediaWiki\Moderation\WatchOrUnwatchConsequence
+     * @param bool $watch
+     * @param bool $noop If true, "watch this" will be tested on already watched page
+     * (and "unwatch this" will be tested on non-watched page).
+     * @dataProvider dataProviderWatchUnwatch
+     */
+    public function testWatchUnwatch($watch, $noop)
+    {
+        $title = Title::newFromText("UTPage-" . rand(0, 100000));
+        $user = self::getTestUser()->getUser();
 
-                $watchedItemStore = $this->createMock(WatchedItemStore::class);
-                $isWatched = ($watch && $noop) || (!$watch && !$noop);
+        $watchedItemStore = $this->createMock(WatchedItemStore::class);
+        $isWatched = ($watch && $noop) || (!$watch && !$noop);
 
-                $watchedItemStore
-                        ->expects($this->once())
-                        ->method("getWatchedItem")
-                        ->will(
-                                $this->returnCallback(function (
-                                        $hookUser,
-                                        $hookTitle,
-                                ) use ($isWatched, $user, $title) {
-                                        $this->assertSame($user, $hookUser);
-                                        $this->assertTrue(
-                                                $hookTitle->isSameLinkAs(
-                                                        $title,
-                                                ),
-                                        );
+        $watchedItemStore
+            ->expects($this->once())
+            ->method("getWatchedItem")
+            ->will(
+                $this->returnCallback(function ($hookUser, $hookTitle) use (
+                    $isWatched,
+                    $user,
+                    $title,
+                ) {
+                    $this->assertSame($user, $hookUser);
+                    $this->assertTrue($hookTitle->isSameLinkAs($title));
 
-                                        return $isWatched
-                                                ? new WatchedItem(
-                                                        $user,
-                                                        $title,
-                                                        null,
-                                                )
-                                                : false;
-                                }),
-                        );
+                    return $isWatched
+                        ? new WatchedItem($user, $title, null)
+                        : false;
+                }),
+            );
 
-                $watchHookFired = false;
-                $this->setTemporaryHook("WatchArticle", function (
-                        $userIdentity,
-                        $wikiPage,
-                ) use (&$watchHookFired, $title, $user) {
-                        $watchHookFired = true;
+        $watchHookFired = false;
+        $this->setTemporaryHook("WatchArticle", function (
+            $userIdentity,
+            $wikiPage,
+        ) use (&$watchHookFired, $title, $user) {
+            $watchHookFired = true;
 
-                        $this->assertSame(
-                                $title->getFullText(),
-                                $wikiPage->getTitle()->getFullText(),
-                        );
-                        $this->assertSame(
-                                $user->getName(),
-                                $userIdentity->getName(),
-                        );
+            $this->assertSame(
+                $title->getFullText(),
+                $wikiPage->getTitle()->getFullText(),
+            );
+            $this->assertSame($user->getName(), $userIdentity->getName());
 
-                        return true;
-                });
+            return true;
+        });
 
-                $unwatchHookFired = false;
-                $this->setTemporaryHook("UnwatchArticle", function (
-                        $userIdentity,
-                        $wikiPage,
-                ) use (&$unwatchHookFired, $title, $user) {
-                        $unwatchHookFired = true;
+        $unwatchHookFired = false;
+        $this->setTemporaryHook("UnwatchArticle", function (
+            $userIdentity,
+            $wikiPage,
+        ) use (&$unwatchHookFired, $title, $user) {
+            $unwatchHookFired = true;
 
-                        $this->assertSame(
-                                $title->getFullText(),
-                                $wikiPage->getTitle()->getFullText(),
-                        );
-                        $this->assertSame(
-                                $user->getName(),
-                                $userIdentity->getName(),
-                        );
+            $this->assertSame(
+                $title->getFullText(),
+                $wikiPage->getTitle()->getFullText(),
+            );
+            $this->assertSame($user->getName(), $userIdentity->getName());
 
-                        return true;
-                });
+            return true;
+        });
 
-                $this->setService("WatchedItemStore", $watchedItemStore);
+        $this->setService("WatchedItemStore", $watchedItemStore);
 
-                // Create and run the Consequence.
-                $consequence = new WatchOrUnwatchConsequence(
-                        $watch,
-                        $title,
-                        $user,
-                );
-                $consequence->run();
+        // Create and run the Consequence.
+        $consequence = new WatchOrUnwatchConsequence($watch, $title, $user);
+        $consequence->run();
 
-                $this->assertSame(
-                        [
-                                // Expected results
-                                "WatchArticle hook fired" => !$noop && $watch,
-                                "UnwatchArticle hook fired" =>
-                                        !$noop && !$watch,
-                        ],
-                        [
-                                // Actual results
-                                "WatchArticle hook fired" => $watchHookFired,
-                                "UnwatchArticle hook fired" => $unwatchHookFired,
-                        ],
-                );
-        }
+        $this->assertSame(
+            [
+                // Expected results
+                "WatchArticle hook fired" => !$noop && $watch,
+                "UnwatchArticle hook fired" => !$noop && !$watch,
+            ],
+            [
+                // Actual results
+                "WatchArticle hook fired" => $watchHookFired,
+                "UnwatchArticle hook fired" => $unwatchHookFired,
+            ],
+        );
+    }
 
-        /**
-         * Provide datasets for dataProviderWatchUnwatch() runs.
-         * @return array
-         */
-        public function dataProviderWatchUnwatch()
-        {
-                return [
-                        "watch" => [
-                                true, // True means "Watch", false means "Unwatch"
-                                false, // True means "noop test" (trying to watch already watched page)
-                        ],
-                        "unwatch" => [false, false],
-                        "watch (noop)" => [true, true],
-                        "unwatch (noop)" => [false, true],
-                ];
-        }
+    /**
+     * Provide datasets for dataProviderWatchUnwatch() runs.
+     * @return array
+     */
+    public function dataProviderWatchUnwatch()
+    {
+        return [
+            "watch" => [
+                true, // True means "Watch", false means "Unwatch"
+                false, // True means "noop test" (trying to watch already watched page)
+            ],
+            "unwatch" => [false, false],
+            "watch (noop)" => [true, true],
+            "unwatch (noop)" => [false, true],
+        ];
+    }
 }

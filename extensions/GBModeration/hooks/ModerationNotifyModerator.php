@@ -33,220 +33,216 @@ use User;
 
 class ModerationNotifyModerator implements GetNewMessagesAlertHook
 {
-        /** @var LinkRenderer */
-        protected $linkRenderer;
+    /** @var LinkRenderer */
+    protected $linkRenderer;
 
-        /** @var EntryFactory */
-        protected $entryFactory;
+    /** @var EntryFactory */
+    protected $entryFactory;
 
-        /** @var BagOStuff */
-        protected $cache;
+    /** @var BagOStuff */
+    protected $cache;
 
-        /**
-         * @param LinkRenderer $linkRenderer
-         * @param EntryFactory $entryFactory
-         * @param BagOStuff $cache
-         */
-        public function __construct(
-                LinkRenderer $linkRenderer,
-                EntryFactory $entryFactory,
-                BagOStuff $cache,
-        ) {
-                $this->linkRenderer = $linkRenderer;
-                $this->entryFactory = $entryFactory;
-                $this->cache = $cache;
+    /**
+     * @param LinkRenderer $linkRenderer
+     * @param EntryFactory $entryFactory
+     * @param BagOStuff $cache
+     */
+    public function __construct(
+        LinkRenderer $linkRenderer,
+        EntryFactory $entryFactory,
+        BagOStuff $cache,
+    ) {
+        $this->linkRenderer = $linkRenderer;
+        $this->entryFactory = $entryFactory;
+        $this->cache = $cache;
+    }
+
+    /**
+     * Used in extension.json to obtain this service as HookHandler.
+     * @return ModerationNotifyModerator
+     */
+    public static function hookHandlerFactory()
+    {
+        return MediaWikiServices::getInstance()->getService(
+            "Moderation.NotifyModerator",
+        );
+    }
+
+    /**
+     * EchoCanAbortNewMessagesAlert hook.
+     * Here we prevent Extension:Echo from suppressing our notification.
+     * @return bool
+     */
+    public function onEchoCanAbortNewMessagesAlert()
+    {
+        return false;
+    }
+
+    /**
+     * GetNewMessagesAlert hook.
+     * Shows in-wiki notification "new edits are pending moderation" to moderators.
+     * @param string &$newMessagesAlert
+     * @param array $newtalks @phan-unused-param
+     * @param User $user @phan-unused-param
+     * @param OutputPage $out
+     * @return bool|void
+     */
+    public function onGetNewMessagesAlert(
+        &$newMessagesAlert,
+        $newtalks,
+        $user,
+        $out,
+    ) {
+        $notificationHtml = $this->getNotificationHTML($out);
+        if ($notificationHtml) {
+            $newMessagesAlert .= "\n" . $notificationHtml;
+        }
+    }
+
+    /**
+     * Get the HTML of "new edits are pending" notification. Empty string if notification isn't needed.
+     * @param IContextSource $context
+     * @return string
+     */
+    protected function getNotificationHTML(IContextSource $context)
+    {
+        $user = $context->getUser();
+        if (!$user->isAllowed("moderation")) {
+            return ""; /* Not a moderator */
         }
 
-        /**
-         * Used in extension.json to obtain this service as HookHandler.
-         * @return ModerationNotifyModerator
-         */
-        public static function hookHandlerFactory()
-        {
-                return MediaWikiServices::getInstance()->getService(
-                        "Moderation.NotifyModerator",
-                );
+        if ($context->getTitle()->isSpecial("Moderation")) {
+            return ""; /* No need to show on Special:Moderation */
         }
 
-        /**
-         * EchoCanAbortNewMessagesAlert hook.
-         * Here we prevent Extension:Echo from suppressing our notification.
-         * @return bool
-         */
-        public function onEchoCanAbortNewMessagesAlert()
-        {
-                return false;
+        /* Determine the most recent mod_timestamp of pending edit */
+        $pendingTime = $this->getPendingTime();
+        if (!$pendingTime) {
+            return ""; /* No pending changes */
         }
 
-        /**
-         * GetNewMessagesAlert hook.
-         * Shows in-wiki notification "new edits are pending moderation" to moderators.
-         * @param string &$newMessagesAlert
-         * @param array $newtalks @phan-unused-param
-         * @param User $user @phan-unused-param
-         * @param OutputPage $out
-         * @return bool|void
-         */
-        public function onGetNewMessagesAlert(
-                &$newMessagesAlert,
-                $newtalks,
-                $user,
-                $out,
-        ) {
-                $notificationHtml = $this->getNotificationHTML($out);
-                if ($notificationHtml) {
-                        $newMessagesAlert .= "\n" . $notificationHtml;
-                }
-        }
-
-        /**
-         * Get the HTML of "new edits are pending" notification. Empty string if notification isn't needed.
-         * @param IContextSource $context
-         * @return string
-         */
-        protected function getNotificationHTML(IContextSource $context)
-        {
-                $user = $context->getUser();
-                if (!$user->isAllowed("moderation")) {
-                        return ""; /* Not a moderator */
-                }
-
-                if ($context->getTitle()->isSpecial("Moderation")) {
-                        return ""; /* No need to show on Special:Moderation */
-                }
-
-                /* Determine the most recent mod_timestamp of pending edit */
-                $pendingTime = $this->getPendingTime();
-                if (!$pendingTime) {
-                        return ""; /* No pending changes */
-                }
-
-                /*
+        /*
 			Determine if $user visited Special:Moderation after $pendingTime.
 
 			NOTE: $seenTime being false means that moderator hasn't visited
 			Special:Moderation for 7 days, so we always notify.
 		*/
-                $seenTime = $this->getSeen($user);
-                if ($seenTime && $seenTime >= $pendingTime) {
-                        return ""; /* No new changes appeared after this moderator last visited Special:Moderation */
-                }
-
-                return $this->linkRenderer->makeLink(
-                        SpecialPage::getTitleFor("Moderation"),
-                        $context
-                                ->msg("moderation-new-changes-appeared")
-                                ->plain(),
-                );
+        $seenTime = $this->getSeen($user);
+        if ($seenTime && $seenTime >= $pendingTime) {
+            return ""; /* No new changes appeared after this moderator last visited Special:Moderation */
         }
 
-        /**
-         * Returns memcached key used by getPendingTime()/setPendingTime()
-         * @return string
-         */
-        protected function getPendingCacheKey()
-        {
-                return $this->cache->makeKey(
-                        "moderation-newest-pending-timestamp",
-                );
+        return $this->linkRenderer->makeLink(
+            SpecialPage::getTitleFor("Moderation"),
+            $context->msg("moderation-new-changes-appeared")->plain(),
+        );
+    }
+
+    /**
+     * Returns memcached key used by getPendingTime()/setPendingTime()
+     * @return string
+     */
+    protected function getPendingCacheKey()
+    {
+        return $this->cache->makeKey("moderation-newest-pending-timestamp");
+    }
+
+    /**
+     * Returns most recent mod_timestamp of pending edit.
+     * @return string
+     */
+    protected function getPendingTime()
+    {
+        $cacheKey = $this->getPendingCacheKey();
+
+        $result = $this->cache->get($cacheKey);
+        if ($result === false) {
+            /* Not found in the cache */
+            $result = $this->getPendingTimeUncached();
+            if (!$result) {
+                /* Situation "there are no pending edits" must also be cached */
+                $result = 0;
+            }
+
+            // 24 hours, but can be explicitly renewed by setPendingTime()
+            $this->cache->set($cacheKey, $result, 86400);
         }
 
-        /**
-         * Returns most recent mod_timestamp of pending edit.
-         * @return string
-         */
-        protected function getPendingTime()
-        {
-                $cacheKey = $this->getPendingCacheKey();
+        return $result;
+    }
 
-                $result = $this->cache->get($cacheKey);
-                if ($result === false) {
-                        /* Not found in the cache */
-                        $result = $this->getPendingTimeUncached();
-                        if (!$result) {
-                                /* Situation "there are no pending edits" must also be cached */
-                                $result = 0;
-                        }
+    /**
+     * Uncached version of getPendingTime(). Shouldn't be used outside of getPendingTime().
+     * @return string|false
+     */
+    protected function getPendingTimeUncached()
+    {
+        $row = $this->entryFactory->loadRow(
+            ["mod_rejected" => 0, "mod_merged_revid" => 0],
+            ["mod_timestamp AS timestamp"],
+            DB_REPLICA,
+            ["USE INDEX" => "moderation_folder_pending"],
+        );
+        return $row ? $row->timestamp : false;
+    }
 
-                        // 24 hours, but can be explicitly renewed by setPendingTime()
-                        $this->cache->set($cacheKey, $result, 86400);
-                }
+    /**
+     * Update the cache of getPendingTime() with more actual value.
+     * @param string $newTimestamp
+     */
+    public function setPendingTime($newTimestamp)
+    {
+        $this->cache->set(
+            $this->getPendingCacheKey(),
+            $newTimestamp,
+            86400,
+        ); /* 24 hours */
+    }
 
-                return $result;
-        }
+    /**
+     * Clear the cache of getPendingTime().
+     * Used instead of setPendingTime() when we don't know $newTimestamp,
+     * e.g. in modaction=rejectall.
+     */
+    public function invalidatePendingTime()
+    {
+        $this->cache->delete($this->getPendingCacheKey());
+    }
 
-        /**
-         * Uncached version of getPendingTime(). Shouldn't be used outside of getPendingTime().
-         * @return string|false
-         */
-        protected function getPendingTimeUncached()
-        {
-                $row = $this->entryFactory->loadRow(
-                        ["mod_rejected" => 0, "mod_merged_revid" => 0],
-                        ["mod_timestamp AS timestamp"],
-                        DB_REPLICA,
-                        ["USE INDEX" => "moderation_folder_pending"],
-                );
-                return $row ? $row->timestamp : false;
-        }
+    /**
+     * Returns memcached key used by getSeen()/setSeen()
+     * @param User $user
+     * @return string
+     */
+    protected function getSeenCacheKey(User $user)
+    {
+        return $this->cache->makeKey(
+            "moderation-seen-timestamp",
+            (string) $user->getId(),
+        );
+    }
 
-        /**
-         * Update the cache of getPendingTime() with more actual value.
-         * @param string $newTimestamp
-         */
-        public function setPendingTime($newTimestamp)
-        {
-                $this->cache->set(
-                        $this->getPendingCacheKey(),
-                        $newTimestamp,
-                        86400,
-                ); /* 24 hours */
-        }
+    /**
+     * Get newest mod_timestamp seen by $user (if known) or false.
+     * @param User $user
+     * @return string|false
+     */
+    protected function getSeen(User $user)
+    {
+        return $this->cache->get($this->getSeenCacheKey($user));
+    }
 
-        /**
-         * Clear the cache of getPendingTime().
-         * Used instead of setPendingTime() when we don't know $newTimestamp,
-         * e.g. in modaction=rejectall.
-         */
-        public function invalidatePendingTime()
-        {
-                $this->cache->delete($this->getPendingCacheKey());
-        }
-
-        /**
-         * Returns memcached key used by getSeen()/setSeen()
-         * @param User $user
-         * @return string
-         */
-        protected function getSeenCacheKey(User $user)
-        {
-                return $this->cache->makeKey(
-                        "moderation-seen-timestamp",
-                        (string) $user->getId(),
-                );
-        }
-
-        /**
-         * Get newest mod_timestamp seen by $user (if known) or false.
-         * @param User $user
-         * @return string|false
-         */
-        protected function getSeen(User $user)
-        {
-                return $this->cache->get($this->getSeenCacheKey($user));
-        }
-
-        /**
-         * Remember the newest mod_timestamp seen by $user.
-         * @param User $user
-         * @param string $timestamp
-         */
-        public function setSeen(User $user, $timestamp)
-        {
-                $this->cache->set(
-                        $this->getSeenCacheKey($user),
-                        $timestamp,
-                        604800,
-                ); /* 7 days */
-        }
+    /**
+     * Remember the newest mod_timestamp seen by $user.
+     * @param User $user
+     * @param string $timestamp
+     */
+    public function setSeen(User $user, $timestamp)
+    {
+        $this->cache->set(
+            $this->getSeenCacheKey($user),
+            $timestamp,
+            604800,
+        ); /* 7 days */
+    }
 }

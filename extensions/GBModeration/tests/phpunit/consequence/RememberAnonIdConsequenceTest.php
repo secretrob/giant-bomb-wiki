@@ -29,37 +29,37 @@ require_once __DIR__ . "/autoload.php";
 
 class RememberAnonIdConsequenceTest extends ModerationUnitTestCase
 {
-        /**
-         * Verify that RememberAnonIdConsequence returns a newly generated ID, saving it into session.
-         * @covers MediaWiki\Moderation\RememberAnonIdConsequence
-         */
-        public function testNewAnonId()
-        {
-                // Sanity check: Session shouldn't have anon_id before the test.
-                $request = RequestContext::getMain()->getRequest();
-                $this->assertEmpty($request->getSessionData("anon_id"));
-                $this->assertFalse($request->getSession()->isPersistent());
+    /**
+     * Verify that RememberAnonIdConsequence returns a newly generated ID, saving it into session.
+     * @covers MediaWiki\Moderation\RememberAnonIdConsequence
+     */
+    public function testNewAnonId()
+    {
+        // Sanity check: Session shouldn't have anon_id before the test.
+        $request = RequestContext::getMain()->getRequest();
+        $this->assertEmpty($request->getSessionData("anon_id"));
+        $this->assertFalse($request->getSession()->isPersistent());
 
-                // Create and run the Consequence.
-                $consequence = new RememberAnonIdConsequence();
-                $id = $consequence->run();
+        // Create and run the Consequence.
+        $consequence = new RememberAnonIdConsequence();
+        $id = $consequence->run();
 
-                $this->assertNotEmpty($id);
-                $this->assertSame(
-                        32,
-                        strlen($id),
-                        "Length of newly generated anon_id string",
-                );
+        $this->assertNotEmpty($id);
+        $this->assertSame(
+            32,
+            strlen($id),
+            "Length of newly generated anon_id string",
+        );
 
-                $request = RequestContext::getMain()->getRequest();
-                $this->assertSame(
-                        $id,
-                        $request->getSessionData("anon_id"),
-                        "Newly generated anon_id wasn't saved into the session.",
-                );
-                $this->assertTrue(
-                        $request->getSession()->isPersistent(),
-                        "Session didn't become persistent after RememberAnonIdConsequence.",
-                );
-        }
+        $request = RequestContext::getMain()->getRequest();
+        $this->assertSame(
+            $id,
+            $request->getSessionData("anon_id"),
+            "Newly generated anon_id wasn't saved into the session.",
+        );
+        $this->assertTrue(
+            $request->getSession()->isPersistent(),
+            "Session didn't become persistent after RememberAnonIdConsequence.",
+        );
+    }
 }

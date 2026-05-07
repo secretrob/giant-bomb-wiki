@@ -27,23 +27,23 @@ use User;
 
 class ModerationEntryUpload extends ModerationApprovableEntry
 {
-        /**
-         * Approve this upload.
-         * @param User $moderator @phan-unused-param
-         * @return Status object.
-         */
-        public function doApprove(User $moderator)
-        {
-                $row = $this->getRow();
+    /**
+     * Approve this upload.
+     * @param User $moderator @phan-unused-param
+     * @return Status object.
+     */
+    public function doApprove(User $moderator)
+    {
+        $row = $this->getRow();
 
-                return $this->consequenceManager->add(
-                        new ApproveUploadConsequence(
-                                $row->stash_key,
-                                $this->getTitle(),
-                                $this->getUser(),
-                                $row->comment,
-                                $row->text,
-                        ),
-                );
-        }
+        return $this->consequenceManager->add(
+            new ApproveUploadConsequence(
+                $row->stash_key,
+                $this->getTitle(),
+                $this->getUser(),
+                $row->comment,
+                $row->text,
+            ),
+        );
+    }
 }

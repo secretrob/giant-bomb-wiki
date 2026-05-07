@@ -38,118 +38,116 @@ use User;
 
 class ModerationTestUtil
 {
-        /**
-         * Suppress unneeded/temporary deprecation messages caused by compatibility with older MediaWiki.
-         * @param MediaWikiIntegrationTestCase $tc @phan-unused-param
-         */
-        public static function ignoreKnownDeprecations(
-                MediaWikiIntegrationTestCase $tc,
-        ) {
-                // Temporary (1.44 only): MediaWiki core itself calls this in Skin.php.
-                $tc->hideDeprecated(
-                        "MediaWiki\\Skin\\Skin::appendSpecialPagesLinkIfAbsent",
-                );
+    /**
+     * Suppress unneeded/temporary deprecation messages caused by compatibility with older MediaWiki.
+     * @param MediaWikiIntegrationTestCase $tc @phan-unused-param
+     */
+    public static function ignoreKnownDeprecations(
+        MediaWikiIntegrationTestCase $tc,
+    ) {
+        // Temporary (1.44 only): MediaWiki core itself calls this in Skin.php.
+        $tc->hideDeprecated(
+            "MediaWiki\\Skin\\Skin::appendSpecialPagesLinkIfAbsent",
+        );
+    }
+
+    /**
+     * Edit the page by directly modifying the database. Very fast.
+     *
+     * This is used for initialization of tests.
+     * For example, if moveQueue benchmark needs 500 existing pages,
+     * it would take forever for doEditContent() to create them all,
+     * much longer than the actual benchmark.
+     * @param Title $title
+     * @param string $newText
+     * @param string $summary
+     * @param User|null $user
+     */
+    public static function fastEdit(
+        Title $title,
+        $newText = "Whatever",
+        $summary = "",
+        User $user = null,
+    ) {
+        $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
+
+        $page = ModerationCompatTools::makeWikiPage($title);
+        $page->insertOn($dbw);
+
+        if (!$user) {
+            $user = User::newFromName("127.0.0.1", false);
         }
 
-        /**
-         * Edit the page by directly modifying the database. Very fast.
-         *
-         * This is used for initialization of tests.
-         * For example, if moveQueue benchmark needs 500 existing pages,
-         * it would take forever for doEditContent() to create them all,
-         * much longer than the actual benchmark.
-         * @param Title $title
-         * @param string $newText
-         * @param string $summary
-         * @param User|null $user
-         */
-        public static function fastEdit(
-                Title $title,
-                $newText = "Whatever",
-                $summary = "",
-                User $user = null,
-        ) {
-                $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
+        $rev = new MutableRevisionRecord($title);
 
-                $page = ModerationCompatTools::makeWikiPage($title);
-                $page->insertOn($dbw);
+        $rev->setComment(CommentStoreComment::newUnsavedComment($summary));
+        $rev->setUser($user);
+        $rev->setTimestamp($dbw->timestamp());
 
-                if (!$user) {
-                        $user = User::newFromName("127.0.0.1", false);
-                }
+        $content = ContentHandler::makeContent(
+            $newText,
+            null,
+            CONTENT_MODEL_WIKITEXT,
+        );
+        $rev->setContent(SlotRecord::MAIN, $content);
 
-                $rev = new MutableRevisionRecord($title);
+        $store = MediaWikiServices::getInstance()->getRevisionStore();
+        $storedRecord = $store->insertRevisionOn($rev, $dbw);
 
-                $rev->setComment(
-                        CommentStoreComment::newUnsavedComment($summary),
-                );
-                $rev->setUser($user);
-                $rev->setTimestamp($dbw->timestamp());
+        $page->updateRevisionOn($dbw, $storedRecord);
+    }
 
-                $content = ContentHandler::makeContent(
-                        $newText,
-                        null,
-                        CONTENT_MODEL_WIKITEXT,
-                );
-                $rev->setContent(SlotRecord::MAIN, $content);
+    /**
+     * Render Special:Moderation with $params.
+     * @param User $user
+     * @param array $params
+     * @param bool $wasPosted
+     * @param IContextSource|null &$context Used context will be written here. @phan-output-reference
+     * @return string HTML of the result.
+     */
+    public static function runSpecialModeration(
+        User $user,
+        array $params,
+        $wasPosted = false,
+        IContextSource &$context = null,
+    ) {
+        $page = MediaWikiServices::getInstance()
+            ->getSpecialPageFactory()
+            ->getPage("Moderation");
 
-                $store = MediaWikiServices::getInstance()->getRevisionStore();
-                $storedRecord = $store->insertRevisionOn($rev, $dbw);
+        $context = new RequestContext();
+        $context->setRequest(new FauxRequest($params, $wasPosted));
+        $context->setTitle($page->getPageTitle());
+        $context->setUser($user);
+        $context->setLanguage(self::getLanguageQqx());
 
-                $page->updateRevisionOn($dbw, $storedRecord);
-        }
+        $page->setContext($context);
+        $page->execute("");
 
-        /**
-         * Render Special:Moderation with $params.
-         * @param User $user
-         * @param array $params
-         * @param bool $wasPosted
-         * @param IContextSource|null &$context Used context will be written here. @phan-output-reference
-         * @return string HTML of the result.
-         */
-        public static function runSpecialModeration(
-                User $user,
-                array $params,
-                $wasPosted = false,
-                IContextSource &$context = null,
-        ) {
-                $page = MediaWikiServices::getInstance()
-                        ->getSpecialPageFactory()
-                        ->getPage("Moderation");
+        return $context->getOutput()->getHTML();
+    }
 
-                $context = new RequestContext();
-                $context->setRequest(new FauxRequest($params, $wasPosted));
-                $context->setTitle($page->getPageTitle());
-                $context->setUser($user);
-                $context->setLanguage(self::getLanguageQqx());
+    /**
+     * Returns Language object for "qqx" pseudo-language (convenient for tests).
+     * @return Language
+     */
+    public static function getLanguageQqx()
+    {
+        return MediaWikiServices::getInstance()
+            ->getLanguageFactory()
+            ->getLanguage("qqx");
+    }
 
-                $page->setContext($context);
-                $page->execute("");
+    /**
+     * Shortcut for UrlUtils::parse(). Can use relative (non-expanded) URLs.
+     * @param string $url
+     * @return array
+     * @phan-return array<string,string>
+     */
+    public static function parseUrl($url)
+    {
+        $urlUtils = MediaWikiServices::getInstance()->getUrlUtils();
 
-                return $context->getOutput()->getHTML();
-        }
-
-        /**
-         * Returns Language object for "qqx" pseudo-language (convenient for tests).
-         * @return Language
-         */
-        public static function getLanguageQqx()
-        {
-                return MediaWikiServices::getInstance()
-                        ->getLanguageFactory()
-                        ->getLanguage("qqx");
-        }
-
-        /**
-         * Shortcut for UrlUtils::parse(). Can use relative (non-expanded) URLs.
-         * @param string $url
-         * @return array
-         * @phan-return array<string,string>
-         */
-        public static function parseUrl($url)
-        {
-                $urlUtils = MediaWikiServices::getInstance()->getUrlUtils();
-
-                return $urlUtils->parse($urlUtils->expand($url) ?? "") ?? [];
-        }
+        return $urlUtils->parse($urlUtils->expand($url) ?? "") ?? [];
+    }
 }

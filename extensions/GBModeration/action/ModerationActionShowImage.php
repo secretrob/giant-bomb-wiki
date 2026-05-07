@@ -31,87 +31,87 @@ use UploadStashException;
 
 class ModerationActionShowImage extends ModerationAction
 {
-        public const THUMB_WIDTH = 320;
+    public const THUMB_WIDTH = 320;
 
-        public function requiresEditToken()
-        {
-                return false;
+    public function requiresEditToken()
+    {
+        return false;
+    }
+
+    public function requiresWrite()
+    {
+        return false;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function outputResult(array $result, OutputPage $out)
+    {
+        $out->disable(); # No HTML output (image only)
+        if (isset($result["missing"])) {
+            HTTPFileStreamer::send404Message(""); // Send 404 Not Found
+            return;
         }
 
-        public function requiresWrite()
-        {
-                return false;
+        $headers = [];
+        $headers[] =
+            "Content-Disposition: " .
+            FileBackend::makeContentDisposition(
+                "inline",
+                $result["thumb-filename"],
+            );
+
+        $repo = $this->repoGroup->getLocalRepo();
+        $repo->streamFileWithStatus($result["thumb-path"], $headers);
+    }
+
+    public function execute()
+    {
+        $row = $this->entryFactory->loadRowOrThrow(
+            $this->id,
+            ["mod_title AS title", "mod_stash_key AS stash_key"],
+            DB_REPLICA,
+        );
+
+        $stash = ModerationUploadStorage::getStash();
+
+        try {
+            $file = $stash->getFile($row->stash_key);
+        } catch (UploadStashException $_) {
+            return ["missing" => ""];
         }
 
-        /**
-         * @inheritDoc
-         */
-        public function outputResult(array $result, OutputPage $out)
-        {
-                $out->disable(); # No HTML output (image only)
-                if (isset($result["missing"])) {
-                        HTTPFileStreamer::send404Message(""); // Send 404 Not Found
-                        return;
+        $isThumb = $this->getRequest()->getVal("thumb");
+        if ($isThumb) {
+            $thumb = $file->transform(
+                ["width" => self::THUMB_WIDTH],
+                File::RENDER_NOW,
+            );
+            if ($thumb) {
+                $storagePath = $thumb->getStoragePath();
+                if ($thumb->fileIsSource() || !$storagePath) {
+                    $isThumb = false;
+                } else {
+                    $file = new UnregisteredLocalFile(
+                        false,
+                        $stash->repo,
+                        $storagePath,
+                        false,
+                    );
                 }
-
-                $headers = [];
-                $headers[] =
-                        "Content-Disposition: " .
-                        FileBackend::makeContentDisposition(
-                                "inline",
-                                $result["thumb-filename"],
-                        );
-
-                $repo = $this->repoGroup->getLocalRepo();
-                $repo->streamFileWithStatus($result["thumb-path"], $headers);
+            }
         }
 
-        public function execute()
-        {
-                $row = $this->entryFactory->loadRowOrThrow(
-                        $this->id,
-                        ["mod_title AS title", "mod_stash_key AS stash_key"],
-                        DB_REPLICA,
-                );
-
-                $stash = ModerationUploadStorage::getStash();
-
-                try {
-                        $file = $stash->getFile($row->stash_key);
-                } catch (UploadStashException $_) {
-                        return ["missing" => ""];
-                }
-
-                $isThumb = $this->getRequest()->getVal("thumb");
-                if ($isThumb) {
-                        $thumb = $file->transform(
-                                ["width" => self::THUMB_WIDTH],
-                                File::RENDER_NOW,
-                        );
-                        if ($thumb) {
-                                $storagePath = $thumb->getStoragePath();
-                                if ($thumb->fileIsSource() || !$storagePath) {
-                                        $isThumb = false;
-                                } else {
-                                        $file = new UnregisteredLocalFile(
-                                                false,
-                                                $stash->repo,
-                                                $storagePath,
-                                                false,
-                                        );
-                                }
-                        }
-                }
-
-                $thumbFilename = "";
-                if ($isThumb) {
-                        $thumbFilename .= $file->getWidth() . "px-";
-                }
-                $thumbFilename .= $row->title;
-
-                return [
-                        "thumb-path" => $file->getPath(),
-                        "thumb-filename" => $thumbFilename,
-                ];
+        $thumbFilename = "";
+        if ($isThumb) {
+            $thumbFilename .= $file->getWidth() . "px-";
         }
+        $thumbFilename .= $row->title;
+
+        return [
+            "thumb-path" => $file->getPath(),
+            "thumb-filename" => $thumbFilename,
+        ];
+    }
 }

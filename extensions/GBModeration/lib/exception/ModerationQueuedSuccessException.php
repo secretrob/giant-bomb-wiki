@@ -36,44 +36,41 @@ use RequestContext;
 
 class ModerationQueuedSuccessException extends ErrorPageError
 {
-        /**
-         * Throw this exception if the user is on a special page that needs it.
-         * @param string $msg
-         * @param array $params
-         */
-        public static function throwIfNeeded($msg, array $params = [])
-        {
-                $title = RequestContext::getMain()->getTitle();
-                if (!$title) {
-                        return; /* We are in the maintenance script */
-                }
+    /**
+     * Throw this exception if the user is on a special page that needs it.
+     * @param string $msg
+     * @param array $params
+     */
+    public static function throwIfNeeded($msg, array $params = [])
+    {
+        $title = RequestContext::getMain()->getTitle();
+        if (!$title) {
+            return; /* We are in the maintenance script */
+        }
 
-                /* Special:{Upload,MovePage} treat "moderation-{image,move}-queued"
+        /* Special:{Upload,MovePage} treat "moderation-{image,move}-queued"
 			as an error.
 			Let's display a user-friendly results page instead. */
-                if (
-                        $title->isSpecial("Upload") ||
-                        $title->isSpecial("Movepage")
-                ) {
-                        throw new self($msg, $params);
-                }
+        if ($title->isSpecial("Upload") || $title->isSpecial("Movepage")) {
+            throw new self($msg, $params);
         }
+    }
 
-        /**
-         * @inheritDoc
-         */
-        public function isLoggable()
-        {
-                /* This is a successful action, not an error,
-                 it doesn't belong in the error log */
-                return false;
-        }
+    /**
+     * @inheritDoc
+     */
+    public function isLoggable()
+    {
+        /* This is a successful action, not an error,
+         it doesn't belong in the error log */
+        return false;
+    }
 
-        /**
-         * @inheritDoc
-         */
-        public function __construct($msg, array $params)
-        {
-                parent::__construct("moderation", $msg, $params);
-        }
+    /**
+     * @inheritDoc
+     */
+    public function __construct($msg, array $params)
+    {
+        parent::__construct("moderation", $msg, $params);
+    }
 }

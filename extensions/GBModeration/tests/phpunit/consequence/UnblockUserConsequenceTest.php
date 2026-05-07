@@ -34,75 +34,75 @@ require_once __DIR__ . "/autoload.php";
  */
 class UnblockUserConsequenceTest extends ModerationUnitTestCase
 {
-        /**
-         * Verify that UnblockUserConsequence returns false if the user wasn't blocked to begin with.
-         * @param string $username
-         * @covers MediaWiki\Moderation\BlockUserConsequence
-         * @dataProvider dataProviderUnblockUser
-         */
-        public function testNoopUnblockUser($username)
-        {
-                // Create and run the Consequence.
-                $consequence = new UnblockUserConsequence($username);
-                $somethingChanged = $consequence->run();
+    /**
+     * Verify that UnblockUserConsequence returns false if the user wasn't blocked to begin with.
+     * @param string $username
+     * @covers MediaWiki\Moderation\BlockUserConsequence
+     * @dataProvider dataProviderUnblockUser
+     */
+    public function testNoopUnblockUser($username)
+    {
+        // Create and run the Consequence.
+        $consequence = new UnblockUserConsequence($username);
+        $somethingChanged = $consequence->run();
 
-                $this->assertFalse($somethingChanged);
-                $this->assertNotBlocked($username);
+        $this->assertFalse($somethingChanged);
+        $this->assertNotBlocked($username);
+    }
+
+    /**
+     * Verify that UnblockUserConsequence removes an existing block from the database.
+     * @param string $username
+     * @covers MediaWiki\Moderation\UnblockUserConsequence
+     * @dataProvider dataProviderUnblockUser
+     */
+    public function testUnblockUser($username)
+    {
+        if (IPUtils::isIPAddress($username)) {
+            $this->disableAutoCreateTempUser();
         }
 
-        /**
-         * Verify that UnblockUserConsequence removes an existing block from the database.
-         * @param string $username
-         * @covers MediaWiki\Moderation\UnblockUserConsequence
-         * @dataProvider dataProviderUnblockUser
-         */
-        public function testUnblockUser($username)
-        {
-                if (IPUtils::isIPAddress($username)) {
-                        $this->disableAutoCreateTempUser();
-                }
+        // Make a currently blocked user.
+        $user = User::createNew($username);
+        $moderator = User::createNew("Some moderator");
+        $blockConsequence = new BlockUserConsequence(
+            $user->getId(),
+            $username,
+            $moderator,
+        );
+        $blockConsequence->run();
 
-                // Make a currently blocked user.
-                $user = User::createNew($username);
-                $moderator = User::createNew("Some moderator");
-                $blockConsequence = new BlockUserConsequence(
-                        $user->getId(),
-                        $username,
-                        $moderator,
-                );
-                $blockConsequence->run();
+        // Create and run the Consequence.
+        $consequence = new UnblockUserConsequence($username);
+        $somethingChanged = $consequence->run();
 
-                // Create and run the Consequence.
-                $consequence = new UnblockUserConsequence($username);
-                $somethingChanged = $consequence->run();
+        $this->assertTrue($somethingChanged);
+        $this->assertNotBlocked($username);
+    }
 
-                $this->assertTrue($somethingChanged);
-                $this->assertNotBlocked($username);
-        }
+    /**
+     * Assert that the block doesn't exist in the database.
+     * @param string $username
+     */
+    private function assertNotBlocked($username)
+    {
+        $this->assertSelect(
+            "moderation_block",
+            ["mb_id"],
+            ["mb_address" => $username],
+            [], // Expected result: no rows selected.
+        );
+    }
 
-        /**
-         * Assert that the block doesn't exist in the database.
-         * @param string $username
-         */
-        private function assertNotBlocked($username)
-        {
-                $this->assertSelect(
-                        "moderation_block",
-                        ["mb_id"],
-                        ["mb_address" => $username],
-                        [], // Expected result: no rows selected.
-                );
-        }
-
-        /**
-         * Provide datasets for testUnblockUser() and testNoopUnblockUser() runs.
-         * @return array
-         */
-        public function dataProviderUnblockUser()
-        {
-                return [
-                        "anonymous user" => ["10.11.12.13"],
-                        "registered user" => ["Registered user (ID 1234)"],
-                ];
-        }
+    /**
+     * Provide datasets for testUnblockUser() and testNoopUnblockUser() runs.
+     * @return array
+     */
+    public function dataProviderUnblockUser()
+    {
+        return [
+            "anonymous user" => ["10.11.12.13"],
+            "registered user" => ["Registered user (ID 1234)"],
+        ];
+    }
 }

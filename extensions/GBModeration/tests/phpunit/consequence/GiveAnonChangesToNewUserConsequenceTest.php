@@ -32,149 +32,148 @@ require_once __DIR__ . "/autoload.php";
  */
 class GiveAnonChangesToNewUserConsequenceTest extends ModerationUnitTestCase
 {
-        use ModifyDbRowTestTrait;
+    use ModifyDbRowTestTrait;
 
-        /**
-         * Verify that GiveAnonChangesToNewUserConsequence modifies the author of database rows.
-         * @covers MediaWiki\Moderation\GiveAnonChangesToNewUserConsequence
-         */
-        public function testGiveChanges()
-        {
-                [$idsToAffect, $idsToPreserve] = array_chunk(
-                        $this->makeSeveralDbRows(6),
-                        3,
-                );
+    /**
+     * Verify that GiveAnonChangesToNewUserConsequence modifies the author of database rows.
+     * @covers MediaWiki\Moderation\GiveAnonChangesToNewUserConsequence
+     */
+    public function testGiveChanges()
+    {
+        [$idsToAffect, $idsToPreserve] = array_chunk(
+            $this->makeSeveralDbRows(6),
+            3,
+        );
 
-                $oldPreloadId = "some anonymous preload ID";
-                $newPreloadId = "new non-anonymous preload ID";
-                $unrelatedPreloadId =
-                        'preload ID in rows that shouldn\'t be modified';
+        $oldPreloadId = "some anonymous preload ID";
+        $newPreloadId = "new non-anonymous preload ID";
+        $unrelatedPreloadId = 'preload ID in rows that shouldn\'t be modified';
 
-                // Make $idsToPreserve ineligible for modification due to having another mod_preload_id.
-                $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
-                $dbw->update(
-                        "moderation",
-                        ["mod_preload_id" => $unrelatedPreloadId],
-                        ["mod_id" => $idsToPreserve],
-                        __METHOD__,
-                );
+        // Make $idsToPreserve ineligible for modification due to having another mod_preload_id.
+        $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
+        $dbw->update(
+            "moderation",
+            ["mod_preload_id" => $unrelatedPreloadId],
+            ["mod_id" => $idsToPreserve],
+            __METHOD__,
+        );
 
-                // Make $idsToAffect targetable by modification
-                $dbw->update(
-                        "moderation",
-                        ["mod_preload_id" => $oldPreloadId],
-                        ["mod_id" => $idsToAffect],
-                        __METHOD__,
-                );
+        // Make $idsToAffect targetable by modification
+        $dbw->update(
+            "moderation",
+            ["mod_preload_id" => $oldPreloadId],
+            ["mod_id" => $idsToAffect],
+            __METHOD__,
+        );
 
-                // Create new user account.
-                $user = self::getTestUser()->getUser();
+        // Create new user account.
+        $user = self::getTestUser()->getUser();
 
-                // Create and run the Consequence.
-                $consequence = new GiveAnonChangesToNewUserConsequence(
-                        $user,
-                        $oldPreloadId,
-                        $newPreloadId,
-                );
-                $consequence->run();
+        // Create and run the Consequence.
+        $consequence = new GiveAnonChangesToNewUserConsequence(
+            $user,
+            $oldPreloadId,
+            $newPreloadId,
+        );
+        $consequence->run();
 
-                // Assert that $idsToAffect were modified.
-                $this->assertSelect(
-                        "moderation",
-                        ["mod_user", "mod_user_text", "mod_preload_id"],
-                        ["mod_id" => $idsToAffect],
-                        array_fill(0, count($idsToAffect), [
-                                $user->getId(),
-                                $user->getName(),
-                                $newPreloadId,
-                        ]),
-                );
+        // Assert that $idsToAffect were modified.
+        $this->assertSelect(
+            "moderation",
+            ["mod_user", "mod_user_text", "mod_preload_id"],
+            ["mod_id" => $idsToAffect],
+            array_fill(0, count($idsToAffect), [
+                $user->getId(),
+                $user->getName(),
+                $newPreloadId,
+            ]),
+        );
 
-                // Assert that $idsToPreserve were NOT changed.
-                $this->assertSelect(
-                        "moderation",
-                        ["mod_user", "mod_user_text", "mod_preload_id"],
-                        ["mod_id" => $idsToPreserve],
-                        array_fill(0, count($idsToPreserve), [
-                                $this->authorUser->getId(),
-                                $this->authorUser->getName(),
-                                $unrelatedPreloadId,
-                        ]),
-                );
-        }
+        // Assert that $idsToPreserve were NOT changed.
+        $this->assertSelect(
+            "moderation",
+            ["mod_user", "mod_user_text", "mod_preload_id"],
+            ["mod_id" => $idsToPreserve],
+            array_fill(0, count($idsToPreserve), [
+                $this->authorUser->getId(),
+                $this->authorUser->getName(),
+                $unrelatedPreloadId,
+            ]),
+        );
+    }
 
-        /**
-         * Verify that GiveAnonChangesToNewUserConsequence doesn't affect non-preloadable rows.
-         * @covers MediaWiki\Moderation\GiveAnonChangesToNewUserConsequence
-         */
-        public function testIgnoreNonPreloadableChanges()
-        {
-                [$idsToAffect, $idsToPreserve] = array_chunk(
-                        $this->makeSeveralDbRows(6),
-                        3,
-                );
+    /**
+     * Verify that GiveAnonChangesToNewUserConsequence doesn't affect non-preloadable rows.
+     * @covers MediaWiki\Moderation\GiveAnonChangesToNewUserConsequence
+     */
+    public function testIgnoreNonPreloadableChanges()
+    {
+        [$idsToAffect, $idsToPreserve] = array_chunk(
+            $this->makeSeveralDbRows(6),
+            3,
+        );
 
-                $oldPreloadId = "some anonymous preload ID";
-                $newPreloadId = "new non-anonymous preload ID";
+        $oldPreloadId = "some anonymous preload ID";
+        $newPreloadId = "new non-anonymous preload ID";
 
-                // Set mod_preload_id to a fixed known value (to check $idsToPreserve after the test)
-                $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
-                $dbw->update(
-                        "moderation",
-                        ["mod_preload_id" => $oldPreloadId],
-                        "*",
-                        __METHOD__,
-                );
+        // Set mod_preload_id to a fixed known value (to check $idsToPreserve after the test)
+        $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
+        $dbw->update(
+            "moderation",
+            ["mod_preload_id" => $oldPreloadId],
+            "*",
+            __METHOD__,
+        );
 
-                // Make $idsToPreserve ineligible for modification due to having mod_preloadable=0.
-                $dbw->update(
-                        "moderation",
-                        ["mod_preloadable=mod_id"], // mod_preloadable=mod_id means "NOT preloadable"
-                        ["mod_id" => $idsToPreserve],
-                        __METHOD__,
-                );
+        // Make $idsToPreserve ineligible for modification due to having mod_preloadable=0.
+        $dbw->update(
+            "moderation",
+            ["mod_preloadable=mod_id"], // mod_preloadable=mod_id means "NOT preloadable"
+            ["mod_id" => $idsToPreserve],
+            __METHOD__,
+        );
 
-                // Make $idsToAffect targetable for modification by GiveAnonChangesToNewUserConsequence
-                $dbw->update(
-                        "moderation",
-                        ["mod_preloadable" => 0], // mod_preloadable=0 means "prelodable"
-                        ["mod_id" => $idsToAffect],
-                        __METHOD__,
-                );
+        // Make $idsToAffect targetable for modification by GiveAnonChangesToNewUserConsequence
+        $dbw->update(
+            "moderation",
+            ["mod_preloadable" => 0], // mod_preloadable=0 means "prelodable"
+            ["mod_id" => $idsToAffect],
+            __METHOD__,
+        );
 
-                // Create new user account.
-                $user = self::getTestUser()->getUser();
+        // Create new user account.
+        $user = self::getTestUser()->getUser();
 
-                // Create and run the Consequence.
-                $consequence = new GiveAnonChangesToNewUserConsequence(
-                        $user,
-                        $oldPreloadId,
-                        $newPreloadId,
-                );
-                $consequence->run();
+        // Create and run the Consequence.
+        $consequence = new GiveAnonChangesToNewUserConsequence(
+            $user,
+            $oldPreloadId,
+            $newPreloadId,
+        );
+        $consequence->run();
 
-                // Assert that $idsToAffect were modified.
-                $this->assertSelect(
-                        "moderation",
-                        ["mod_user", "mod_user_text", "mod_preload_id"],
-                        ["mod_id" => $idsToAffect],
-                        array_fill(0, count($idsToAffect), [
-                                $user->getId(),
-                                $user->getName(),
-                                $newPreloadId,
-                        ]),
-                );
+        // Assert that $idsToAffect were modified.
+        $this->assertSelect(
+            "moderation",
+            ["mod_user", "mod_user_text", "mod_preload_id"],
+            ["mod_id" => $idsToAffect],
+            array_fill(0, count($idsToAffect), [
+                $user->getId(),
+                $user->getName(),
+                $newPreloadId,
+            ]),
+        );
 
-                // Assert that $idsToPreserve were NOT changed.
-                $this->assertSelect(
-                        "moderation",
-                        ["mod_user", "mod_user_text", "mod_preload_id"],
-                        ["mod_id" => $idsToPreserve],
-                        array_fill(0, count($idsToPreserve), [
-                                $this->authorUser->getId(),
-                                $this->authorUser->getName(),
-                                $oldPreloadId,
-                        ]),
-                );
-        }
+        // Assert that $idsToPreserve were NOT changed.
+        $this->assertSelect(
+            "moderation",
+            ["mod_user", "mod_user_text", "mod_preload_id"],
+            ["mod_id" => $idsToPreserve],
+            array_fill(0, count($idsToPreserve), [
+                $this->authorUser->getId(),
+                $this->authorUser->getName(),
+                $oldPreloadId,
+            ]),
+        );
+    }
 }

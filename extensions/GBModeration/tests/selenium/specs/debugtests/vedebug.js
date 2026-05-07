@@ -11,17 +11,17 @@
 const VisualEditor = require("../../pageobjects/visualeditor.page.js");
 
 describe("VisualEditor PageObject", function () {
-        for (var i = 1; i <= 10; i++) {
-                it("should edit without errors: attempt " + i, function () {
-                        this.timeout(10000);
+  for (var i = 1; i <= 10; i++) {
+    it("should edit without errors: attempt " + i, function () {
+      this.timeout(10000);
 
-                        var PageName = "Test" + Math.random(),
-                                Content = Date.now() + " " + Math.random();
+      var PageName = "Test" + Math.random(),
+        Content = Date.now() + " " + Math.random();
 
-                        VisualEditor.edit(PageName, Content);
+      VisualEditor.edit(PageName, Content);
 
-                        browser.pause(500);
-                        browser.refresh();
-                });
-        }
+      browser.pause(500);
+      browser.refresh();
+    });
+  }
 });

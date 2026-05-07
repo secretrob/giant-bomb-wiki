@@ -29,32 +29,32 @@ use WikiPage;
 
 interface ModerationInterceptHook
 {
-        /**
-         * When non-automoderated user makes an edit, Moderation calls this hook before intercepting that edit.
-         * If the hook returns false, this edit will be applied immediately (completely bypassing Moderation).
-         * Otherwise Moderation will decide whether to intercept the edit or not.
-         *
-         * Arguments are the same as in PageContentSave hook, but $summary is always a string.
-         * @param WikiPage $page
-         * @param User $user
-         * @param Content $content
-         * @param string $summary
-         * @param int $is_minor
-         * @param mixed $is_watch Unused.
-         * @param mixed $section Unused.
-         * @param int $flags
-         * @param Status $status
-         * @return bool|void
-         */
-        public function onModerationIntercept(
-                WikiPage $page,
-                User $user,
-                Content $content,
-                string $summary,
-                $is_minor,
-                $is_watch,
-                $section,
-                $flags,
-                Status $status,
-        );
+    /**
+     * When non-automoderated user makes an edit, Moderation calls this hook before intercepting that edit.
+     * If the hook returns false, this edit will be applied immediately (completely bypassing Moderation).
+     * Otherwise Moderation will decide whether to intercept the edit or not.
+     *
+     * Arguments are the same as in PageContentSave hook, but $summary is always a string.
+     * @param WikiPage $page
+     * @param User $user
+     * @param Content $content
+     * @param string $summary
+     * @param int $is_minor
+     * @param mixed $is_watch Unused.
+     * @param mixed $section Unused.
+     * @param int $flags
+     * @param Status $status
+     * @return bool|void
+     */
+    public function onModerationIntercept(
+        WikiPage $page,
+        User $user,
+        Content $content,
+        string $summary,
+        $is_minor,
+        $is_watch,
+        $section,
+        $flags,
+        Status $status,
+    );
 }

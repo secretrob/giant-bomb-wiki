@@ -24,49 +24,49 @@ namespace MediaWiki\Moderation;
 
 class ModifyPendingChangeConsequence implements IConsequence
 {
-        /** @var int */
-        protected $modid;
+    /** @var int */
+    protected $modid;
 
-        /** @var string */
-        protected $newText;
+    /** @var string */
+    protected $newText;
 
-        /** @var string */
-        protected $newComment;
+    /** @var string */
+    protected $newComment;
 
-        /** @var int */
-        protected $newLen;
+    /** @var int */
+    protected $newLen;
 
-        /**
-         * @param int $modid
-         * @param string $newText
-         * @param string $newComment
-         * @param int $newLen
-         */
-        public function __construct($modid, $newText, $newComment, $newLen)
-        {
-                $this->modid = $modid;
-                $this->newText = $newText;
-                $this->newComment = mb_strcut($newComment, 0, 250);
-                $this->newLen = $newLen;
-        }
+    /**
+     * @param int $modid
+     * @param string $newText
+     * @param string $newComment
+     * @param int $newLen
+     */
+    public function __construct($modid, $newText, $newComment, $newLen)
+    {
+        $this->modid = $modid;
+        $this->newText = $newText;
+        $this->newComment = mb_strcut($newComment, 0, 250);
+        $this->newLen = $newLen;
+    }
 
-        /**
-         * Execute the consequence.
-         */
-        public function run()
-        {
-                $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
-                $dbw->update(
-                        "moderation",
-                        [
-                                "mod_text" => $this->newText,
-                                "mod_new_len" => $this->newLen,
-                                "mod_comment" => $this->newComment,
-                        ],
-                        [
-                                "mod_id" => $this->modid,
-                        ],
-                        __METHOD__,
-                );
-        }
+    /**
+     * Execute the consequence.
+     */
+    public function run()
+    {
+        $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
+        $dbw->update(
+            "moderation",
+            [
+                "mod_text" => $this->newText,
+                "mod_new_len" => $this->newLen,
+                "mod_comment" => $this->newComment,
+            ],
+            [
+                "mod_id" => $this->modid,
+            ],
+            __METHOD__,
+        );
+    }
 }

@@ -43,237 +43,235 @@ use Xml;
 */
 
 class ModerationPreload implements
-        AlternateEditHook,
-        EditFormInitialTextHook,
-        EditFormPreloadTextHook,
-        LocalUserCreatedHook
+    AlternateEditHook,
+    EditFormInitialTextHook,
+    EditFormPreloadTextHook,
+    LocalUserCreatedHook
 {
-        /** @var EditPage|null Editor object passed from onAlternateEdit() to onEditFormPreloadText() */
-        protected $editPage = null;
+    /** @var EditPage|null Editor object passed from onAlternateEdit() to onEditFormPreloadText() */
+    protected $editPage = null;
 
-        /** @var User|null Current user. If not set, $wgUser will be used. */
-        private $user = null;
+    /** @var User|null Current user. If not set, $wgUser will be used. */
+    private $user = null;
 
-        /** @var EntryFactory */
-        protected $entryFactory;
+    /** @var EntryFactory */
+    protected $entryFactory;
 
-        /** @var IConsequenceManager */
-        protected $consequenceManager;
+    /** @var IConsequenceManager */
+    protected $consequenceManager;
 
-        /**
-         * @param EntryFactory $entryFactory
-         * @param IConsequenceManager $consequenceManager
-         */
-        public function __construct(
-                EntryFactory $entryFactory,
-                IConsequenceManager $consequenceManager,
-        ) {
-                $this->entryFactory = $entryFactory;
-                $this->consequenceManager = $consequenceManager;
+    /**
+     * @param EntryFactory $entryFactory
+     * @param IConsequenceManager $consequenceManager
+     */
+    public function __construct(
+        EntryFactory $entryFactory,
+        IConsequenceManager $consequenceManager,
+    ) {
+        $this->entryFactory = $entryFactory;
+        $this->consequenceManager = $consequenceManager;
+    }
+
+    /**
+     * Used in extension.json to obtain this service as HookHandler.
+     * @return ModerationPreload
+     */
+    public static function hookHandlerFactory()
+    {
+        return MediaWikiServices::getInstance()->getService(
+            "Moderation.Preload",
+        );
+    }
+
+    /**
+     * Get the request.
+     * @return WebRequest
+     */
+    protected function getRequest()
+    {
+        return RequestContext::getMain()->getRequest();
+    }
+
+    /**
+     * Get the user.
+     * @return User
+     */
+    protected function getUser()
+    {
+        if ($this->user) {
+            return $this->user;
         }
 
-        /**
-         * Used in extension.json to obtain this service as HookHandler.
-         * @return ModerationPreload
-         */
-        public static function hookHandlerFactory()
-        {
-                return MediaWikiServices::getInstance()->getService(
-                        "Moderation.Preload",
-                );
+        return RequestContext::getMain()->getUser();
+    }
+
+    /**
+     * Override the current user: preload for $user instead.
+     * @param User $user
+     */
+    public function setUser(User $user)
+    {
+        $this->user = $user;
+    }
+
+    /**
+     * Calculate value of mod_preload_id for the current user.
+     * @param bool $create If true, new preload ID will be generated for first-time anonymous editors.
+     * @return string|false Preload ID (string).
+     * Returns false if current user is anonymous AND hasn't edited before AND $create is false.
+     */
+    public function getId($create = false)
+    {
+        $user = $this->getUser();
+        if ($user->isRegistered()) {
+            return "[" . $user->getName();
         }
 
-        /**
-         * Get the request.
-         * @return WebRequest
-         */
-        protected function getRequest()
-        {
-                return RequestContext::getMain()->getRequest();
+        return $this->getAnonId($create);
+    }
+
+    /**
+     * Calculate mod_preload_id for anonymous user.
+     * @param bool $create If true, new preload ID will be generated for first-time anonymous editors.
+     * @return string|false Preload ID (string), if already existed or just created.
+     */
+    protected function getAnonId($create)
+    {
+        $anonToken = $this->getRequest()->getSessionData("anon_id");
+        if (!$anonToken) {
+            if (!$create) {
+                return false;
+            }
+
+            $anonToken = $this->consequenceManager->add(
+                new RememberAnonIdConsequence(),
+            );
         }
 
-        /**
-         * Get the user.
-         * @return User
-         */
-        protected function getUser()
-        {
-                if ($this->user) {
-                        return $this->user;
-                }
+        return "]" . $anonToken;
+    }
 
-                return RequestContext::getMain()->getUser();
+    /**
+     * LocalUserCreated hook handler - called when user creates an account.
+     * If the user did some anonymous edits before registering,
+     * this hook makes them non-anonymous, so that they could be preloaded.
+     * @param User $user
+     * @param bool $autocreated @phan-unused-param
+     * @return bool|void
+     */
+    public function onLocalUserCreated($user, $autocreated)
+    {
+        $this->setUser($user);
+
+        $anonId = $this->getAnonId(false);
+        if (!$anonId) {
+            # This visitor never saved any edits
+            return;
         }
 
-        /**
-         * Override the current user: preload for $user instead.
-         * @param User $user
-         */
-        public function setUser(User $user)
-        {
-                $this->user = $user;
+        $this->consequenceManager->add(
+            new GiveAnonChangesToNewUserConsequence(
+                $user,
+                $anonId,
+                $this->getId(),
+            ),
+        );
+
+        // Forget the fact that this user edited anonymously:
+        // this user is now registered and no longer needs anonymous preload.
+        $this->consequenceManager->add(new ForgetAnonIdConsequence());
+    }
+
+    /**
+     * Check if there is a pending-moderation edit of this user to this page,
+     * and if such edit exists, then load its text and edit comment.
+     * @param Title $title
+     * @return PendingEdit|false
+     */
+    public function findPendingEdit(Title $title)
+    {
+        $id = $this->getId();
+        if (!$id) {
+            # This visitor never saved any edits
+            return false;
         }
 
-        /**
-         * Calculate value of mod_preload_id for the current user.
-         * @param bool $create If true, new preload ID will be generated for first-time anonymous editors.
-         * @return string|false Preload ID (string).
-         * Returns false if current user is anonymous AND hasn't edited before AND $create is false.
-         */
-        public function getId($create = false)
-        {
-                $user = $this->getUser();
-                if ($user->isRegistered()) {
-                        return "[" . $user->getName();
-                }
+        return $this->entryFactory->findPendingEdit($id, $title);
+    }
 
-                return $this->getAnonId($create);
+    /**
+     * If there is an edit (currently pending moderation) made by the
+     * current user, inform EditPage object of its Text and Summary,
+     * so that the user can continue editing its own revision.
+     * @param string &$text @phan-output-reference
+     * @param Title $title
+     * @param EditPage|null $editPage
+     * @return bool|void
+     */
+    protected function showPendingEdit(&$text, $title, $editPage)
+    {
+        $section = $this->getRequest()->getVal("section", "");
+        if ($section == "new") {
+            # Nothing to preload if new section is being created
+            return;
         }
 
-        /**
-         * Calculate mod_preload_id for anonymous user.
-         * @param bool $create If true, new preload ID will be generated for first-time anonymous editors.
-         * @return string|false Preload ID (string), if already existed or just created.
-         */
-        protected function getAnonId($create)
-        {
-                $anonToken = $this->getRequest()->getSessionData("anon_id");
-                if (!$anonToken) {
-                        if (!$create) {
-                                return false;
-                        }
-
-                        $anonToken = $this->consequenceManager->add(
-                                new RememberAnonIdConsequence(),
-                        );
-                }
-
-                return "]" . $anonToken;
+        $pendingEdit = $this->findPendingEdit($title);
+        if (!$pendingEdit) {
+            return;
         }
 
-        /**
-         * LocalUserCreated hook handler - called when user creates an account.
-         * If the user did some anonymous edits before registering,
-         * this hook makes them non-anonymous, so that they could be preloaded.
-         * @param User $user
-         * @param bool $autocreated @phan-unused-param
-         * @return bool|void
-         */
-        public function onLocalUserCreated($user, $autocreated)
-        {
-                $this->setUser($user);
+        $out = RequestContext::getMain()->getOutput();
+        $out->addModules("ext.moderation.edit");
+        $out->addHTML(
+            Xml::tags(
+                "div",
+                ["id" => "mw-editing-your-version"],
+                $out->msg("moderation-editing-your-version")->parse(),
+            ),
+        );
 
-                $anonId = $this->getAnonId(false);
-                if (!$anonId) {
-                        # This visitor never saved any edits
-                        return;
-                }
-
-                $this->consequenceManager->add(
-                        new GiveAnonChangesToNewUserConsequence(
-                                $user,
-                                $anonId,
-                                $this->getId(),
-                        ),
-                );
-
-                // Forget the fact that this user edited anonymously:
-                // this user is now registered and no longer needs anonymous preload.
-                $this->consequenceManager->add(new ForgetAnonIdConsequence());
+        $text = $pendingEdit->getSectionText($section);
+        if ($editPage) {
+            $editPage->summary = $pendingEdit->getComment();
         }
+    }
 
-        /**
-         * Check if there is a pending-moderation edit of this user to this page,
-         * and if such edit exists, then load its text and edit comment.
-         * @param Title $title
-         * @return PendingEdit|false
-         */
-        public function findPendingEdit(Title $title)
-        {
-                $id = $this->getId();
-                if (!$id) {
-                        # This visitor never saved any edits
-                        return false;
-                }
+    /**
+     * AlternateEdit hook handler.
+     * Remember EditPage object, which will then be used in onEditFormPreloadText.
+     * @param EditPage $editPage
+     * @return bool|void
+     */
+    public function onAlternateEdit($editPage)
+    {
+        $this->editPage = $editPage;
+    }
 
-                return $this->entryFactory->findPendingEdit($id, $title);
-        }
+    /**
+     * EditFormPreloadText hook handler.
+     * Preloads text/summary when the article doesn't exist yet.
+     * @param string &$text
+     * @param Title $title
+     * @return bool|void
+     */
+    public function onEditFormPreloadText(&$text, $title)
+    {
+        $this->showPendingEdit($text, $title, $this->editPage);
+    }
 
-        /**
-         * If there is an edit (currently pending moderation) made by the
-         * current user, inform EditPage object of its Text and Summary,
-         * so that the user can continue editing its own revision.
-         * @param string &$text @phan-output-reference
-         * @param Title $title
-         * @param EditPage|null $editPage
-         * @return bool|void
-         */
-        protected function showPendingEdit(&$text, $title, $editPage)
-        {
-                $section = $this->getRequest()->getVal("section", "");
-                if ($section == "new") {
-                        # Nothing to preload if new section is being created
-                        return;
-                }
-
-                $pendingEdit = $this->findPendingEdit($title);
-                if (!$pendingEdit) {
-                        return;
-                }
-
-                $out = RequestContext::getMain()->getOutput();
-                $out->addModules("ext.moderation.edit");
-                $out->addHTML(
-                        Xml::tags(
-                                "div",
-                                ["id" => "mw-editing-your-version"],
-                                $out
-                                        ->msg("moderation-editing-your-version")
-                                        ->parse(),
-                        ),
-                );
-
-                $text = $pendingEdit->getSectionText($section);
-                if ($editPage) {
-                        $editPage->summary = $pendingEdit->getComment();
-                }
-        }
-
-        /**
-         * AlternateEdit hook handler.
-         * Remember EditPage object, which will then be used in onEditFormPreloadText.
-         * @param EditPage $editPage
-         * @return bool|void
-         */
-        public function onAlternateEdit($editPage)
-        {
-                $this->editPage = $editPage;
-        }
-
-        /**
-         * EditFormPreloadText hook handler.
-         * Preloads text/summary when the article doesn't exist yet.
-         * @param string &$text
-         * @param Title $title
-         * @return bool|void
-         */
-        public function onEditFormPreloadText(&$text, $title)
-        {
-                $this->showPendingEdit($text, $title, $this->editPage);
-        }
-
-        /**
-         * EditFormInitialText hook handler.
-         * Preloads text/summary when the article already exists.
-         * @param EditPage $editPage
-         * @return bool|void
-         */
-        public function onEditFormInitialText($editPage)
-        {
-                $this->showPendingEdit(
-                        $editPage->textbox1,
-                        $editPage->getTitle(),
-                        $editPage,
-                );
-        }
+    /**
+     * EditFormInitialText hook handler.
+     * Preloads text/summary when the article already exists.
+     * @param EditPage $editPage
+     * @return bool|void
+     */
+    public function onEditFormInitialText($editPage)
+    {
+        $this->showPendingEdit(
+            $editPage->textbox1,
+            $editPage->getTitle(),
+            $editPage,
+        );
+    }
 }

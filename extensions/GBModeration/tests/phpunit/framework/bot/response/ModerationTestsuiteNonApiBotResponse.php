@@ -25,45 +25,45 @@
 namespace MediaWiki\Moderation\Tests;
 
 class ModerationTestsuiteNonApiBotResponse implements
-        IModerationTestsuiteResponse
+    IModerationTestsuiteResponse
 {
-        use ModerationTestsuiteBotResponse;
+    use ModerationTestsuiteBotResponse;
 
-        /** @var IModerationTestsuiteResponse */
-        private $httpResp;
+    /** @var IModerationTestsuiteResponse */
+    private $httpResp;
 
-        /**
-         * @param IModerationTestsuiteResponse $httpResp
-         */
-        protected function __construct(IModerationTestsuiteResponse $httpResp)
-        {
-                $this->httpResp = $httpResp;
-        }
+    /**
+     * @param IModerationTestsuiteResponse $httpResp
+     */
+    protected function __construct(IModerationTestsuiteResponse $httpResp)
+    {
+        $this->httpResp = $httpResp;
+    }
 
-        /**
-         * @param string $headerName
-         * @return string|null
-         */
-        public function getResponseHeader($headerName)
-        {
-                return $this->httpResp->getResponseHeader($headerName);
-        }
+    /**
+     * @param string $headerName
+     * @return string|null
+     */
+    public function getResponseHeader($headerName)
+    {
+        return $this->httpResp->getResponseHeader($headerName);
+    }
 
-        /** @return int */
-        public function getStatus()
-        {
-                return $this->httpResp->getStatus();
-        }
+    /** @return int */
+    public function getStatus()
+    {
+        return $this->httpResp->getStatus();
+    }
 
-        /** @return string */
-        public function getContent()
-        {
-                return $this->httpResp->getContent();
-        }
+    /** @return string */
+    public function getContent()
+    {
+        return $this->httpResp->getContent();
+    }
 
-        /** @return bool */
-        public function isRedirect()
-        {
-                return $this->httpResp->isRedirect();
-        }
+    /** @return bool */
+    public function isRedirect()
+    {
+        return $this->httpResp->isRedirect();
+    }
 }

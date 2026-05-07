@@ -29,83 +29,80 @@ use WikiPage;
 
 class QueueEditConsequence implements IConsequence
 {
-        /** @var WikiPage */
-        protected $page;
+    /** @var WikiPage */
+    protected $page;
 
-        /** @var User */
-        protected $user;
+    /** @var User */
+    protected $user;
 
-        /** @var Content */
-        protected $content;
+    /** @var Content */
+    protected $content;
 
-        /** @var string */
-        protected $summary;
+    /** @var string */
+    protected $summary;
 
-        /** @var string */
-        protected $section;
+    /** @var string */
+    protected $section;
 
-        /** @var string */
-        protected $sectionText;
+    /** @var string */
+    protected $sectionText;
 
-        /** @var bool */
-        protected $isBot;
+    /** @var bool */
+    protected $isBot;
 
-        /** @var bool */
-        protected $isMinor;
+    /** @var bool */
+    protected $isMinor;
 
-        /**
-         * @param WikiPage $page
-         * @param User $user
-         * @param Content $content
-         * @param string $summary
-         * @param string $section
-         * @param string $sectionText
-         * @param bool $isBot
-         * @param bool $isMinor
-         */
-        public function __construct(
-                WikiPage $page,
-                User $user,
-                Content $content,
-                $summary,
-                $section,
-                $sectionText,
-                $isBot,
-                $isMinor,
-        ) {
-                $this->page = $page;
-                $this->user = $user;
-                $this->content = $content;
-                $this->summary = $summary;
-                $this->section = $section;
-                $this->sectionText = $sectionText;
-                $this->isBot = $isBot;
-                $this->isMinor = $isMinor;
-        }
+    /**
+     * @param WikiPage $page
+     * @param User $user
+     * @param Content $content
+     * @param string $summary
+     * @param string $section
+     * @param string $sectionText
+     * @param bool $isBot
+     * @param bool $isMinor
+     */
+    public function __construct(
+        WikiPage $page,
+        User $user,
+        Content $content,
+        $summary,
+        $section,
+        $sectionText,
+        $isBot,
+        $isMinor,
+    ) {
+        $this->page = $page;
+        $this->user = $user;
+        $this->content = $content;
+        $this->summary = $summary;
+        $this->section = $section;
+        $this->sectionText = $sectionText;
+        $this->isBot = $isBot;
+        $this->isMinor = $isMinor;
+    }
 
-        /**
-         * Execute the consequence.
-         * @return int mod_id of affected row.
-         */
-        public function run()
-        {
-                $factory = MediaWikiServices::getInstance()->getService(
-                        "Moderation.NewChangeFactory",
-                );
-                $change = $factory->makeNewChange(
-                        $this->page->getTitle(),
-                        $this->user,
-                );
-                return $change
-                        ->edit(
-                                $this->page,
-                                $this->content,
-                                $this->section,
-                                $this->sectionText,
-                        )
-                        ->setBot($this->isBot)
-                        ->setMinor($this->isMinor)
-                        ->setSummary($this->summary)
-                        ->queue();
-        }
+    /**
+     * Execute the consequence.
+     * @return int mod_id of affected row.
+     */
+    public function run()
+    {
+        $factory = MediaWikiServices::getInstance()->getService(
+            "Moderation.NewChangeFactory",
+        );
+        $change = $factory->makeNewChange($this->page->getTitle(), $this->user);
+        return $change
+            ->edit(
+                $this->page,
+                $this->content,
+                $this->section,
+                $this->sectionText,
+            )
+            ->setBot($this->isBot)
+            ->setMinor($this->isMinor)
+            ->setSummary($this->summary)
+            ->queue();
+    }
 }

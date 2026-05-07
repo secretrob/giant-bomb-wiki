@@ -27,104 +27,92 @@ use Xml;
 
 class ModerationActionShow extends ModerationAction
 {
-        public function requiresEditToken()
-        {
-                return false;
+    public function requiresEditToken()
+    {
+        return false;
+    }
+
+    public function requiresWrite()
+    {
+        return false;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function outputResult(array $result, OutputPage $out)
+    {
+        $out->addModuleStyles(["mediawiki.diff.styles"]);
+        $out->setPageTitle(
+            $this->msg("difference-title", $result["title"])->escaped(),
+        );
+
+        if (isset($result["image-thumb-html"])) {
+            $out->addHTML(
+                Xml::tags(
+                    "a",
+                    [
+                        "href" => $result["image-url"],
+                    ],
+                    $result["image-thumb-html"],
+                ),
+            );
         }
 
-        public function requiresWrite()
-        {
-                return false;
+        if (isset($result["diff-html"])) {
+            $out->addHTML($result["diff-html"]);
+        } else {
+            $out->addWikiMsg($result["nodiff-reason"]);
         }
 
-        /**
-         * @inheritDoc
-         */
-        public function outputResult(array $result, OutputPage $out)
-        {
-                $out->addModuleStyles(["mediawiki.diff.styles"]);
-                $out->setPageTitle(
-                        $this->msg(
-                                "difference-title",
-                                $result["title"],
-                        )->escaped(),
-                );
-
-                if (isset($result["image-thumb-html"])) {
-                        $out->addHTML(
-                                Xml::tags(
-                                        "a",
-                                        [
-                                                "href" => $result["image-url"],
-                                        ],
-                                        $result["image-thumb-html"],
-                                ),
-                        );
-                }
-
-                if (isset($result["diff-html"])) {
-                        $out->addHTML($result["diff-html"]);
-                } else {
-                        $out->addWikiMsg($result["nodiff-reason"]);
-                }
-
-                if (!isset($result["null-edit"])) {
-                        $out->addHTML(
-                                $this->actionLinkRenderer->makeLink(
-                                        "approve",
-                                        $this->id,
-                                ),
-                        );
-                        $out->addHTML(" / ");
-                }
-
-                if (isset($result["rejected-message"])) {
-                        $out->addHTML($result["rejected-message"]);
-                } else {
-                        $out->addHTML(
-                                $this->actionLinkRenderer->makeLink(
-                                        "reject",
-                                        $this->id,
-                                ),
-                        );
-                }
+        if (!isset($result["null-edit"])) {
+            $out->addHTML(
+                $this->actionLinkRenderer->makeLink("approve", $this->id),
+            );
+            $out->addHTML(" / ");
         }
 
-        public function execute()
-        {
-                $result = [];
-
-                $entry = $this->entryFactory->findViewableEntry($this->id);
-                $title = $entry->getTitle();
-
-                if ($entry->isUpload()) {
-                        $result["image-url"] = $entry->getImageURL();
-                        $result[
-                                "image-thumb-html"
-                        ] = $entry->getImageThumbHTML();
-                }
-
-                $diff = $entry->getDiffHTML($this->getContext());
-                if ($diff) {
-                        $result["diff-html"] = $diff;
-                } else {
-                        if ($entry->isUpload()) {
-                                $result["nodiff-reason"] = $title->exists()
-                                        ? "moderation-diff-reupload"
-                                        : "moderation-diff-upload-notext";
-                        } else {
-                                $result["nodiff-reason"] =
-                                        "moderation-diff-no-changes";
-                                $result["null-edit"] = "";
-                        }
-                }
-
-                $rejectedBy = $entry->getRejectedBy();
-                if ($rejectedBy) {
-                        $result["rejected-message"] = $rejectedBy;
-                }
-
-                $result["title"] = $title->getPrefixedText();
-                return $result;
+        if (isset($result["rejected-message"])) {
+            $out->addHTML($result["rejected-message"]);
+        } else {
+            $out->addHTML(
+                $this->actionLinkRenderer->makeLink("reject", $this->id),
+            );
         }
+    }
+
+    public function execute()
+    {
+        $result = [];
+
+        $entry = $this->entryFactory->findViewableEntry($this->id);
+        $title = $entry->getTitle();
+
+        if ($entry->isUpload()) {
+            $result["image-url"] = $entry->getImageURL();
+            $result["image-thumb-html"] = $entry->getImageThumbHTML();
+        }
+
+        $diff = $entry->getDiffHTML($this->getContext());
+        if ($diff) {
+            $result["diff-html"] = $diff;
+        } else {
+            if ($entry->isUpload()) {
+                $result["nodiff-reason"] = $title->exists()
+                    ? "moderation-diff-reupload"
+                    : "moderation-diff-upload-notext";
+            } else {
+                $result["nodiff-reason"] = "moderation-diff-no-changes";
+                $result["null-edit"] = "";
+            }
+        }
+
+        $rejectedBy = $entry->getRejectedBy();
+        if ($rejectedBy) {
+            $result["rejected-message"] = $rejectedBy;
+        }
+
+        $result["title"] = $title->getPrefixedText();
+        return $result;
+    }
 }

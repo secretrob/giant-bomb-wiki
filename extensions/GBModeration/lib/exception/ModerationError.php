@@ -29,54 +29,54 @@ use Xml;
 
 class ModerationError extends ErrorPageError
 {
-        /** @var Status Error details */
-        public $status;
+    /** @var Status Error details */
+    public $status;
 
-        /**
-         * @inheritDoc
-         */
-        public function __construct($message)
-        {
-                if ($message instanceof Status) {
-                        $this->status = $message;
-                        $message = $this->status->getMessage();
-                } else {
-                        $this->status = Status::newFatal($message);
-                }
-
-                parent::__construct("moderation", $message);
+    /**
+     * @inheritDoc
+     */
+    public function __construct($message)
+    {
+        if ($message instanceof Status) {
+            $this->status = $message;
+            $message = $this->status->getMessage();
+        } else {
+            $this->status = Status::newFatal($message);
         }
 
-        /**
-         * Completely override report() from ErrorPageError in order to wrap the message
-         * in <div id='mw-mod-error'></div>
-         * @param mixed $action @phan-unused-param
-         */
-        public function report($action = 0)
-        {
-                global $wgOut;
+        parent::__construct("moderation", $message);
+    }
 
-                $msg =
-                        $this->msg instanceof Message
-                                ? $this->msg
-                                : $wgOut->msg($this->msg);
+    /**
+     * Completely override report() from ErrorPageError in order to wrap the message
+     * in <div id='mw-mod-error'></div>
+     * @param mixed $action @phan-unused-param
+     */
+    public function report($action = 0)
+    {
+        global $wgOut;
 
-                $wgOut->prepareErrorPage();
-                $wgOut->setPageTitleMsg($msg);
+        $msg =
+            $this->msg instanceof Message
+                ? $this->msg
+                : $wgOut->msg($this->msg);
 
-                $wgOut->addHTML(
-                        Xml::tags(
-                                "div",
-                                [
-                                        "id" => "mw-mod-error",
-                                        "class" => "error",
-                                ],
-                                $msg->parse(),
-                        ),
-                );
-                $wgOut->addReturnTo($wgOut->getTitle());
-                $wgOut->output();
+        $wgOut->prepareErrorPage();
+        $wgOut->setPageTitleMsg($msg);
 
-                $wgOut->disable();
-        }
+        $wgOut->addHTML(
+            Xml::tags(
+                "div",
+                [
+                    "id" => "mw-mod-error",
+                    "class" => "error",
+                ],
+                $msg->parse(),
+            ),
+        );
+        $wgOut->addReturnTo($wgOut->getTitle());
+        $wgOut->output();
+
+        $wgOut->disable();
+    }
 }

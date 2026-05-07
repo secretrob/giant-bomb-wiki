@@ -30,195 +30,189 @@ require_once __DIR__ . "/../framework/ModerationTestsuite.php";
  */
 class ModerationPreloadIntegrationTest extends ModerationTestCase
 {
-        /** @covers MediaWiki\Moderation\ModerationPreload::onEditFormPreloadText */
-        public function testPreloadNewPage(ModerationTestsuite $t)
-        {
-                $t->loginAs($t->unprivilegedUser);
-                $t->doTestEdit(
-                        null,
-                        null,
-                        "The quick brown fox jumps over the lazy dog",
-                );
+    /** @covers MediaWiki\Moderation\ModerationPreload::onEditFormPreloadText */
+    public function testPreloadNewPage(ModerationTestsuite $t)
+    {
+        $t->loginAs($t->unprivilegedUser);
+        $t->doTestEdit(
+            null,
+            null,
+            "The quick brown fox jumps over the lazy dog",
+        );
 
-                $this->tryToPreload($t, __FUNCTION__);
-        }
+        $this->tryToPreload($t, __FUNCTION__);
+    }
 
-        /** @covers MediaWiki\Moderation\ModerationPreload::onEditFormInitialText */
-        public function testPreloadExistingPage(ModerationTestsuite $t)
-        {
-                $page = "Test page 1";
+    /** @covers MediaWiki\Moderation\ModerationPreload::onEditFormInitialText */
+    public function testPreloadExistingPage(ModerationTestsuite $t)
+    {
+        $page = "Test page 1";
 
-                $t->loginAs($t->automoderated); /* Create the page first */
-                $t->doTestEdit($page, "Text 1");
+        $t->loginAs($t->automoderated); /* Create the page first */
+        $t->doTestEdit($page, "Text 1");
 
-                $t->loginAs($t->unprivilegedUser);
-                $t->doTestEdit(
-                        $page,
-                        "Another text",
-                        "The quick brown fox jumps over the lazy dog",
-                );
+        $t->loginAs($t->unprivilegedUser);
+        $t->doTestEdit(
+            $page,
+            "Another text",
+            "The quick brown fox jumps over the lazy dog",
+        );
 
-                $this->tryToPreload($t, __FUNCTION__);
-        }
+        $this->tryToPreload($t, __FUNCTION__);
+    }
 
-        /** @covers MediaWiki\Moderation\ModerationPreload::onLocalUserCreated */
-        public function testAnonymousPreload(ModerationTestsuite $t)
-        {
-                $t->logout();
-                $t->doTestEdit();
+    /** @covers MediaWiki\Moderation\ModerationPreload::onLocalUserCreated */
+    public function testAnonymousPreload(ModerationTestsuite $t)
+    {
+        $t->logout();
+        $t->doTestEdit();
 
-                $this->assertSame(
-                        $t->lastEdit["Text"],
-                        $t->html->getPreloadedText($t->lastEdit["Title"]),
-                        "testAnonymousPreload(): Preloaded text differs from what the user saved before",
-                );
+        $this->assertSame(
+            $t->lastEdit["Text"],
+            $t->html->getPreloadedText($t->lastEdit["Title"]),
+            "testAnonymousPreload(): Preloaded text differs from what the user saved before",
+        );
 
-                /* Now create an account
-                 and check that text can still be preloaded */
+        /* Now create an account
+         and check that text can still be preloaded */
 
-                $username = "FinallyLoggedIn";
-                $user = $t->createAccount($username);
-                if (!$user) {
-                        $this->markTestIncomplete('testAnonymousPreload(): Failed to create account, ".
+        $username = "FinallyLoggedIn";
+        $user = $t->createAccount($username);
+        if (!$user) {
+            $this->markTestIncomplete('testAnonymousPreload(): Failed to create account, ".
 				"most likely the captcha is enabled.');
-                }
-
-                // Note: phan doesn't know that markTestIncomplete() unconditionally throws an exception.
-                // @phan-suppress-next-line PhanTypeMismatchArgumentNullable
-                $t->loginAs($user);
-                $this->assertSame(
-                        $t->lastEdit["Text"],
-                        $t->html->getPreloadedText($t->lastEdit["Title"]),
-                        "testAnonymousPreload(): Text was not preloaded after creating an account",
-                );
         }
 
-        /** @covers MediaWiki\Moderation\ApiQueryModerationPreload */
-        public function testApiPreload(ModerationTestsuite $t)
-        {
-                /* We make an edit with '''bold''' and ''italic'' markup
+        // Note: phan doesn't know that markTestIncomplete() unconditionally throws an exception.
+        // @phan-suppress-next-line PhanTypeMismatchArgumentNullable
+        $t->loginAs($user);
+        $this->assertSame(
+            $t->lastEdit["Text"],
+            $t->html->getPreloadedText($t->lastEdit["Title"]),
+            "testAnonymousPreload(): Text was not preloaded after creating an account",
+        );
+    }
+
+    /** @covers MediaWiki\Moderation\ApiQueryModerationPreload */
+    public function testApiPreload(ModerationTestsuite $t)
+    {
+        /* We make an edit with '''bold''' and ''italic'' markup
 			and then check for <b> and <i> tags in "mpmode=parsed" mode.
 		*/
-                $boldText = "very bold";
-                $italicText = "somewhat italic";
-                $categories = ["Example category", "Cats"];
-                $extraSectionText =
-                        "== More information ==\nText in section #1";
+        $boldText = "very bold";
+        $italicText = "somewhat italic";
+        $categories = ["Example category", "Cats"];
+        $extraSectionText = "== More information ==\nText in section #1";
 
-                $text = "This text is '''$boldText''' and ''$italicText''.";
-                foreach ($categories as $name) {
-                        $text .= "\n[[Category:$name]]";
-                }
-                $text .= "\n" . $extraSectionText;
+        $text = "This text is '''$boldText''' and ''$italicText''.";
+        foreach ($categories as $name) {
+            $text .= "\n[[Category:$name]]";
+        }
+        $text .= "\n" . $extraSectionText;
 
-                $t->loginAs($t->unprivilegedUser);
-                $t->doTestEdit(
-                        null,
-                        $text,
-                        "The quick brown fox jumps over the lazy dog",
-                );
+        $t->loginAs($t->unprivilegedUser);
+        $t->doTestEdit(
+            null,
+            $text,
+            "The quick brown fox jumps over the lazy dog",
+        );
 
-                /* Test 1: mpmode=wikitext */
-                $ret = $t->query([
-                        "action" => "query",
-                        "prop" => "moderationpreload",
-                        "mptitle" => $t->lastEdit["Title"],
-                ]);
+        /* Test 1: mpmode=wikitext */
+        $ret = $t->query([
+            "action" => "query",
+            "prop" => "moderationpreload",
+            "mptitle" => $t->lastEdit["Title"],
+        ]);
 
-                $this->assertArrayHasKey("query", $ret);
-                $this->assertArrayHasKey("moderationpreload", $ret["query"]);
+        $this->assertArrayHasKey("query", $ret);
+        $this->assertArrayHasKey("moderationpreload", $ret["query"]);
 
-                $mp = $ret["query"]["moderationpreload"];
-                $this->assertSame($t->lastEdit["User"], $mp["user"]);
-                $this->assertSame($t->lastEdit["Title"], $mp["title"]);
-                $this->assertSame($t->lastEdit["Summary"], $mp["comment"]);
-                $this->assertArrayHasKey("wikitext", $mp);
-                $this->assertArrayNotHasKey("parsed", $mp);
-                $this->assertSame($text, $mp["wikitext"]);
+        $mp = $ret["query"]["moderationpreload"];
+        $this->assertSame($t->lastEdit["User"], $mp["user"]);
+        $this->assertSame($t->lastEdit["Title"], $mp["title"]);
+        $this->assertSame($t->lastEdit["Summary"], $mp["comment"]);
+        $this->assertArrayHasKey("wikitext", $mp);
+        $this->assertArrayNotHasKey("parsed", $mp);
+        $this->assertSame($text, $mp["wikitext"]);
 
-                /* Test 2: mpmode=parsed */
-                $ret = $t->query([
-                        "action" => "query",
-                        "prop" => "moderationpreload",
-                        "mptitle" => $t->lastEdit["Title"],
-                        "mpmode" => "parsed",
-                ]);
+        /* Test 2: mpmode=parsed */
+        $ret = $t->query([
+            "action" => "query",
+            "prop" => "moderationpreload",
+            "mptitle" => $t->lastEdit["Title"],
+            "mpmode" => "parsed",
+        ]);
 
-                $mp = $ret["query"]["moderationpreload"];
-                $this->assertArrayHasKey("parsed", $mp);
-                $this->assertArrayNotHasKey("wikitext", $mp);
+        $mp = $ret["query"]["moderationpreload"];
+        $this->assertArrayHasKey("parsed", $mp);
+        $this->assertArrayNotHasKey("wikitext", $mp);
 
-                $parsed = $mp["parsed"];
-                $this->assertArrayHasKey("text", $parsed);
-                $this->assertArrayHasKey("categorieshtml", $parsed);
-                $this->assertArrayHasKey("displaytitle", $parsed);
+        $parsed = $mp["parsed"];
+        $this->assertArrayHasKey("text", $parsed);
+        $this->assertArrayHasKey("categorieshtml", $parsed);
+        $this->assertArrayHasKey("displaytitle", $parsed);
 
-                $this->assertStringContainsString(
-                        "<b>" . $boldText . "</b>",
-                        $parsed["text"],
-                );
-                $this->assertStringContainsString(
-                        "<i>" . $italicText . "</i>",
-                        $parsed["text"],
-                );
+        $this->assertStringContainsString(
+            "<b>" . $boldText . "</b>",
+            $parsed["text"],
+        );
+        $this->assertStringContainsString(
+            "<i>" . $italicText . "</i>",
+            $parsed["text"],
+        );
 
-                $this->assertStringContainsString(
-                        "(pagecategories: " . count($categories) . ")",
-                        $parsed["categorieshtml"],
-                );
-                foreach ($categories as $name) {
-                        $this->assertStringContainsString(
-                                $name,
-                                $parsed["categorieshtml"],
-                        );
-                }
-
-                /* Test 3: mpsection=N */
-                $ret = $t->query([
-                        "action" => "query",
-                        "prop" => "moderationpreload",
-                        "mptitle" => $t->lastEdit["Title"],
-                        "mpsection" => 1,
-                ]);
-                $this->assertSame(
-                        $extraSectionText,
-                        $ret["query"]["moderationpreload"]["wikitext"],
-                );
+        $this->assertStringContainsString(
+            "(pagecategories: " . count($categories) . ")",
+            $parsed["categorieshtml"],
+        );
+        foreach ($categories as $name) {
+            $this->assertStringContainsString($name, $parsed["categorieshtml"]);
         }
 
-        private function tryToPreload(ModerationTestsuite $t, $caller)
-        {
-                $this->assertSame(
-                        $t->lastEdit["Text"],
-                        $t->html->getPreloadedText($t->lastEdit["Title"]),
-                        "$caller(): Preloaded text differs from what the user saved before",
-                );
+        /* Test 3: mpsection=N */
+        $ret = $t->query([
+            "action" => "query",
+            "prop" => "moderationpreload",
+            "mptitle" => $t->lastEdit["Title"],
+            "mpsection" => 1,
+        ]);
+        $this->assertSame(
+            $extraSectionText,
+            $ret["query"]["moderationpreload"]["wikitext"],
+        );
+    }
 
-                $elem = $t->html->getElementByXPath(
-                        '//input[@name="wpSummary"]',
-                );
-                $this->assertSame(
-                        $t->lastEdit["Summary"],
-                        $elem->getAttribute("value"),
-                        "$caller(): Preloaded summary doesn't match",
-                );
+    private function tryToPreload(ModerationTestsuite $t, $caller)
+    {
+        $this->assertSame(
+            $t->lastEdit["Text"],
+            $t->html->getPreloadedText($t->lastEdit["Title"]),
+            "$caller(): Preloaded text differs from what the user saved before",
+        );
 
-                $this->assertContains(
-                        "ext.moderation.edit",
-                        $t->html->getLoaderModulesList(),
-                        "$caller(): Module ext.moderation.edit wasn't loaded",
-                );
+        $elem = $t->html->getElementByXPath('//input[@name="wpSummary"]');
+        $this->assertSame(
+            $t->lastEdit["Summary"],
+            $elem->getAttribute("value"),
+            "$caller(): Preloaded summary doesn't match",
+        );
 
-                $elem = $t->html->getElementById("mw-editing-your-version");
-                $this->assertNotNull(
-                        $elem,
-                        "$caller(): #mw-editing-your-version not found",
-                );
-                $this->assertSame(
-                        "(moderation-editing-your-version)",
-                        $elem->textContent,
-                        "$caller(): #mw-editing-your-version doesn't contain " .
-                                "(moderation-editing-your-version) message",
-                );
-        }
+        $this->assertContains(
+            "ext.moderation.edit",
+            $t->html->getLoaderModulesList(),
+            "$caller(): Module ext.moderation.edit wasn't loaded",
+        );
+
+        $elem = $t->html->getElementById("mw-editing-your-version");
+        $this->assertNotNull(
+            $elem,
+            "$caller(): #mw-editing-your-version not found",
+        );
+        $this->assertSame(
+            "(moderation-editing-your-version)",
+            $elem->textContent,
+            "$caller(): #mw-editing-your-version doesn't contain " .
+                "(moderation-editing-your-version) message",
+        );
+    }
 }

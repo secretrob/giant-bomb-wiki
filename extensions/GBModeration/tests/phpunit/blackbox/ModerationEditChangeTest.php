@@ -34,72 +34,65 @@ require_once __DIR__ . "/../framework/ModerationTestsuite.php";
  */
 class ModerationEditChangeTest extends ModerationTestCase
 {
-        /**
-         * Check the edit form of modaction=editchange.
-         * @covers MediaWiki\Moderation\ModerationActionEditChange
-         */
-        public function testEditChangeForm(ModerationTestsuite $t)
-        {
-                $t->setMwConfig("ModerationEnableEditChange", true);
+    /**
+     * Check the edit form of modaction=editchange.
+     * @covers MediaWiki\Moderation\ModerationActionEditChange
+     */
+    public function testEditChangeForm(ModerationTestsuite $t)
+    {
+        $t->setMwConfig("ModerationEnableEditChange", true);
 
-                $entry = $t->getSampleEntry();
-                $t->html->loadUrl($entry->editChangeLink);
+        $entry = $t->getSampleEntry();
+        $t->html->loadUrl($entry->editChangeLink);
 
-                $form = $t->html->getElementByXPath(
-                        '//form[contains(@action,"Special:Moderation")]',
-                );
-                $this->assertNotNull(
-                        $form,
-                        "testEditChangeForm(): <form> not found",
-                );
+        $form = $t->html->getElementByXPath(
+            '//form[contains(@action,"Special:Moderation")]',
+        );
+        $this->assertNotNull($form, "testEditChangeForm(): <form> not found");
 
-                $expectedAction = SpecialPage::getTitleFor(
-                        "Moderation",
-                )->getLocalURL([
-                        "modid" => $entry->id,
-                        "modaction" => "editchangesubmit",
-                ]);
-                $this->assertSame(
-                        $expectedAction,
-                        $form->getAttribute("action"),
-                        "testEditChangeForm(): Incorrect action= attribute in the edit form.",
-                );
+        $expectedAction = SpecialPage::getTitleFor("Moderation")->getLocalURL([
+            "modid" => $entry->id,
+            "modaction" => "editchangesubmit",
+        ]);
+        $this->assertSame(
+            $expectedAction,
+            $form->getAttribute("action"),
+            "testEditChangeForm(): Incorrect action= attribute in the edit form.",
+        );
 
-                $textarea = $t->html->getElementById("wpTextbox1");
-                $this->assertNotNull(
-                        $textarea,
-                        "testEditChangeForm(): <textarea> not found.",
-                );
-                $this->assertSame(
-                        $t->lastEdit["Text"],
-                        trim($textarea->textContent),
-                        "testEditChangeForm(): <textarea> doesn't contain the current text of pending change.",
-                );
+        $textarea = $t->html->getElementById("wpTextbox1");
+        $this->assertNotNull(
+            $textarea,
+            "testEditChangeForm(): <textarea> not found.",
+        );
+        $this->assertSame(
+            $t->lastEdit["Text"],
+            trim($textarea->textContent),
+            "testEditChangeForm(): <textarea> doesn't contain the current text of pending change.",
+        );
 
-                $summaryInput = $t->html->getElementByXPath(
-                        '//input[@name="wpSummary"]',
-                );
-                $this->assertSame(
-                        $t->lastEdit["Summary"],
-                        $summaryInput->getAttribute("value"),
-                        "testEditChangeForm(): Preloaded summary doesn't match.",
-                );
+        $summaryInput = $t->html->getElementByXPath(
+            '//input[@name="wpSummary"]',
+        );
+        $this->assertSame(
+            $t->lastEdit["Summary"],
+            $summaryInput->getAttribute("value"),
+            "testEditChangeForm(): Preloaded summary doesn't match.",
+        );
 
-                $tokenInput = $t->html->getElementByXPath(
-                        '//input[@name="token"]',
-                );
-                $this->assertNotNull(
-                        $tokenInput,
-                        "testEditChangeForm(): [input name='token'] is missing.",
-                );
+        $tokenInput = $t->html->getElementByXPath('//input[@name="token"]');
+        $this->assertNotNull(
+            $tokenInput,
+            "testEditChangeForm(): [input name='token'] is missing.",
+        );
 
-                $this->assertNull(
-                        $t->html->getElementById("wpPreview"),
-                        "testEditChangeForm(): unexpected Preview button found (not yet implemented).",
-                );
-                $this->assertNull(
-                        $t->html->getElementById("wpDiff"),
-                        "testEditChangeForm(): unexpected Diff button found (not yet implemented).",
-                );
-        }
+        $this->assertNull(
+            $t->html->getElementById("wpPreview"),
+            "testEditChangeForm(): unexpected Preview button found (not yet implemented).",
+        );
+        $this->assertNull(
+            $t->html->getElementById("wpDiff"),
+            "testEditChangeForm(): unexpected Diff button found (not yet implemented).",
+        );
+    }
 }

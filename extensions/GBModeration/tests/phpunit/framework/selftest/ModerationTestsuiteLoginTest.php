@@ -26,17 +26,17 @@ require_once __DIR__ . "/../ModerationTestsuite.php";
 
 class ModerationTestsuiteLoginTest extends ModerationTestCase
 {
-        /**
-         * Attempt to login via the ModerationTestsuite.
-         * @covers MediaWiki\Moderation\ModerationTestsuite::loginAs()
-         */
-        public function testLogin(ModerationTestsuite $t)
-        {
-                $t->loginAs($t->unprivilegedUser);
-                $this->assertSame(
-                        $t->unprivilegedUser,
-                        $t->loggedInAs(),
-                        "testLogin(): Login unsuccessful.",
-                );
-        }
+    /**
+     * Attempt to login via the ModerationTestsuite.
+     * @covers MediaWiki\Moderation\ModerationTestsuite::loginAs()
+     */
+    public function testLogin(ModerationTestsuite $t)
+    {
+        $t->loginAs($t->unprivilegedUser);
+        $this->assertSame(
+            $t->unprivilegedUser,
+            $t->loggedInAs(),
+            "testLogin(): Login unsuccessful.",
+        );
+    }
 }

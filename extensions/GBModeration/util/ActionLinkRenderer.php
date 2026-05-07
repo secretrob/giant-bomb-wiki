@@ -28,55 +28,53 @@ use MediaWiki\Title\Title;
 
 class ActionLinkRenderer
 {
-        /** @var IContextSource */
-        protected $context;
+    /** @var IContextSource */
+    protected $context;
 
-        /** @var LinkRenderer */
-        protected $linkRenderer;
+    /** @var LinkRenderer */
+    protected $linkRenderer;
 
-        /** @var Title */
-        protected $specialPageTitle;
+    /** @var Title */
+    protected $specialPageTitle;
 
-        /**
-         * @param IContextSource $context
-         * @param LinkRenderer $linkRenderer
-         * @param Title $specialPageTitle
-         */
-        public function __construct(
-                IContextSource $context,
-                LinkRenderer $linkRenderer,
-                Title $specialPageTitle,
-        ) {
-                $this->context = $context;
-                $this->linkRenderer = $linkRenderer;
-                $this->specialPageTitle = $specialPageTitle;
+    /**
+     * @param IContextSource $context
+     * @param LinkRenderer $linkRenderer
+     * @param Title $specialPageTitle
+     */
+    public function __construct(
+        IContextSource $context,
+        LinkRenderer $linkRenderer,
+        Title $specialPageTitle,
+    ) {
+        $this->context = $context;
+        $this->linkRenderer = $linkRenderer;
+        $this->specialPageTitle = $specialPageTitle;
+    }
+
+    /**
+     * Generate HTML of the link to Special:Moderation?modaction=something.
+     * @param string $action
+     * @param int $id
+     * @return string
+     */
+    public function makeLink($action, $id)
+    {
+        $params = ["modaction" => $action, "modid" => $id];
+        if ($action != "show" && $action != "preview") {
+            $params["token"] = $this->context->getUser()->getEditToken();
         }
 
-        /**
-         * Generate HTML of the link to Special:Moderation?modaction=something.
-         * @param string $action
-         * @param int $id
-         * @return string
-         */
-        public function makeLink($action, $id)
-        {
-                $params = ["modaction" => $action, "modid" => $id];
-                if ($action != "show" && $action != "preview") {
-                        $params["token"] = $this->context
-                                ->getUser()
-                                ->getEditToken();
-                }
-
-                return $this->linkRenderer->makePreloadedLink(
-                        $this->specialPageTitle,
-                        $this->context->msg("moderation-" . $action)->plain(),
-                        "",
-                        [
-                                "title" => $this->context
-                                        ->msg("tooltip-moderation-" . $action)
-                                        ->plain(),
-                        ],
-                        $params,
-                );
-        }
+        return $this->linkRenderer->makePreloadedLink(
+            $this->specialPageTitle,
+            $this->context->msg("moderation-" . $action)->plain(),
+            "",
+            [
+                "title" => $this->context
+                    ->msg("tooltip-moderation-" . $action)
+                    ->plain(),
+            ],
+            $params,
+        );
+    }
 }

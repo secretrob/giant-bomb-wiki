@@ -26,50 +26,47 @@ use MediaWiki\MediaWikiServices;
 
 class InsertRowIntoModerationTableConsequence implements IConsequence
 {
-        /** @var array */
-        protected $fields;
+    /** @var array */
+    protected $fields;
 
-        /**
-         * @param array $fields
-         */
-        public function __construct(array $fields)
-        {
-                $this->fields = $fields;
-        }
+    /**
+     * @param array $fields
+     */
+    public function __construct(array $fields)
+    {
+        $this->fields = $fields;
+    }
 
-        /**
-         * Execute the consequence.
-         * @return int mod_id of affected row.
-         */
-        public function run()
-        {
-                $uniqueFields = [
-                        "mod_preloadable",
-                        "mod_namespace",
-                        "mod_title",
-                        "mod_preload_id",
-                        "mod_type",
-                ];
+    /**
+     * Execute the consequence.
+     * @return int mod_id of affected row.
+     */
+    public function run()
+    {
+        $uniqueFields = [
+            "mod_preloadable",
+            "mod_namespace",
+            "mod_title",
+            "mod_preload_id",
+            "mod_type",
+        ];
 
-                $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
+        $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
 
-                $rrQuery = MediaWikiServices::getInstance()->getService(
-                        "Moderation.RollbackResistantQuery",
-                );
-                $rrQuery->perform(function () use ($dbw, $uniqueFields) {
-                        $set = array_diff_key(
-                                $this->fields,
-                                array_flip($uniqueFields),
-                        );
-                        $dbw->upsert(
-                                "moderation",
-                                $this->fields,
-                                [$uniqueFields],
-                                $set,
-                                "InsertRowIntoModerationTableConsequence::run",
-                        );
-                });
+        $rrQuery = MediaWikiServices::getInstance()->getService(
+            "Moderation.RollbackResistantQuery",
+        );
+        $rrQuery->perform(function () use ($dbw, $uniqueFields) {
+            $set = array_diff_key($this->fields, array_flip($uniqueFields));
+            $dbw->upsert(
+                "moderation",
+                $this->fields,
+                [$uniqueFields],
+                $set,
+                "InsertRowIntoModerationTableConsequence::run",
+            );
+        });
 
-                return $dbw->insertId();
-        }
+        return $dbw->insertId();
+    }
 }

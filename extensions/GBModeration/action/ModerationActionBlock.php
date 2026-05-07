@@ -27,69 +27,64 @@ use OutputPage;
 
 class ModerationActionBlock extends ModerationAction
 {
-        /**
-         * @inheritDoc
-         */
-        public function outputResult(array $result, OutputPage $out)
-        {
-                /* Messages used here (for grep)
+    /**
+     * @inheritDoc
+     */
+    public function outputResult(array $result, OutputPage $out)
+    {
+        /* Messages used here (for grep)
 			moderation-block-ok
 			moderation-unblock-ok
 		*/
-                $out->addWikiMsg(
-                        "moderation-" .
-                                ($result["action"] == "unblock" ? "un" : "") .
-                                "block-ok",
-                        $result["username"],
-                );
+        $out->addWikiMsg(
+            "moderation-" .
+                ($result["action"] == "unblock" ? "un" : "") .
+                "block-ok",
+            $result["username"],
+        );
+    }
+
+    public function execute()
+    {
+        $row = $this->entryFactory->loadRowOrThrow($this->id, [
+            "mod_user AS user",
+            "mod_user_text AS user_text",
+        ]);
+
+        if ($this->actionName == "block") {
+            $somethingChanged = $this->consequenceManager->add(
+                new BlockUserConsequence(
+                    (int) $row->user,
+                    $row->user_text,
+                    $this->moderator,
+                ),
+            );
+        } else {
+            $somethingChanged = $this->consequenceManager->add(
+                new UnblockUserConsequence($row->user_text),
+            );
         }
 
-        public function execute()
-        {
-                $row = $this->entryFactory->loadRowOrThrow($this->id, [
-                        "mod_user AS user",
-                        "mod_user_text AS user_text",
-                ]);
-
-                if ($this->actionName == "block") {
-                        $somethingChanged = $this->consequenceManager->add(
-                                new BlockUserConsequence(
-                                        (int) $row->user,
-                                        $row->user_text,
-                                        $this->moderator,
-                                ),
-                        );
-                } else {
-                        $somethingChanged = $this->consequenceManager->add(
-                                new UnblockUserConsequence($row->user_text),
-                        );
-                }
-
-                /*
+        /*
 			If the user was already (un)blocked and we attempt to (un)block,
 			we silently ignore this (saying "successfully (un)blocked!" to moderator),
 			because the desired outcome has been reached anyway.
 			E.g. this can happen if the moderator clicked "Mark as spammer" twice.
 		*/
-                if ($somethingChanged) {
-                        $this->consequenceManager->add(
-                                new AddLogEntryConsequence(
-                                        $this->actionName == "block"
-                                                ? "block"
-                                                : "unblock",
-                                        $this->moderator,
-                                        Title::makeTitle(
-                                                NS_USER,
-                                                $row->user_text,
-                                        ),
-                                ),
-                        );
-                }
-
-                return [
-                        "action" => $this->actionName,
-                        "username" => $row->user_text,
-                        "noop" => !$somethingChanged, // Already was blocked/unblocked
-                ];
+        if ($somethingChanged) {
+            $this->consequenceManager->add(
+                new AddLogEntryConsequence(
+                    $this->actionName == "block" ? "block" : "unblock",
+                    $this->moderator,
+                    Title::makeTitle(NS_USER, $row->user_text),
+                ),
+            );
         }
+
+        return [
+            "action" => $this->actionName,
+            "username" => $row->user_text,
+            "noop" => !$somethingChanged, // Already was blocked/unblocked
+        ];
+    }
 }

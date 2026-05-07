@@ -24,24 +24,24 @@ namespace MediaWiki\Moderation\Tests;
 
 class ModerationTestSetRegex
 {
-        /**
-         * @var string
-         */
-        protected $regex;
+    /**
+     * @var string
+     */
+    protected $regex;
 
-        /**
-         * @param string $regex
-         */
-        public function __construct($regex)
-        {
-                $this->regex = $regex;
-        }
+    /**
+     * @param string $regex
+     */
+    public function __construct($regex)
+    {
+        $this->regex = $regex;
+    }
 
-        /**
-         * @return string
-         */
-        public function __toString()
-        {
-                return $this->regex;
-        }
+    /**
+     * @return string
+     */
+    public function __toString()
+    {
+        return $this->regex;
+    }
 }

@@ -27,59 +27,57 @@ use MediaWiki\Logger\LegacyLogger;
 
 class ModerationTestsuiteLogger extends LegacyLogger
 {
-        /**
-         * @var string
-         * This name is mentioned by printBuffer() to avoid confusion "which test printed what".
-         */
-        protected static $currentTestName = "";
+    /**
+     * @var string
+     * This name is mentioned by printBuffer() to avoid confusion "which test printed what".
+     */
+    protected static $currentTestName = "";
 
-        /**
-         * @var array[]
-         * Accumulator of log entries.
-         * If the test succeeds, they are silently ignored.
-         * If the test fails, they are printed (to help with troubleshooting).
-         *
-         * @phan-var list<array{event:string}>
-         */
-        protected static $buffer = [];
+    /**
+     * @var array[]
+     * Accumulator of log entries.
+     * If the test succeeds, they are silently ignored.
+     * If the test fails, they are printed (to help with troubleshooting).
+     *
+     * @phan-var list<array{event:string}>
+     */
+    protected static $buffer = [];
 
-        /**
-         * Forget all stored entries. Meant to be used in ModerationTestCase::setUp().
-         * @param string $newTestName Name of the new test (will be used when printing a buffer later).
-         */
-        public static function prepareCleanBuffer($newTestName = "")
-        {
-                self::$buffer = [];
-                self::$currentTestName = $newTestName;
+    /**
+     * Forget all stored entries. Meant to be used in ModerationTestCase::setUp().
+     * @param string $newTestName Name of the new test (will be used when printing a buffer later).
+     */
+    public static function prepareCleanBuffer($newTestName = "")
+    {
+        self::$buffer = [];
+        self::$currentTestName = $newTestName;
+    }
+
+    /**
+     * Print all stored entries. Meant to be used in ModerationTestCase::onNotSuccessfulTest().
+     */
+    public static function printBuffer()
+    {
+        if (!self::$buffer) {
+            return; // No log entries
         }
 
-        /**
-         * Print all stored entries. Meant to be used in ModerationTestCase::onNotSuccessfulTest().
-         */
-        public static function printBuffer()
-        {
-                if (!self::$buffer) {
-                        return; // No log entries
-                }
+        $report = [
+            "testName" => self::$currentTestName,
+            "eventCount" => count(self::$buffer),
+            "events" => self::$buffer,
+        ];
+        error_log(FormatJson::encode($report, true, FormatJson::ALL_OK));
+    }
 
-                $report = [
-                        "testName" => self::$currentTestName,
-                        "eventCount" => count(self::$buffer),
-                        "events" => self::$buffer,
-                ];
-                error_log(
-                        FormatJson::encode($report, true, FormatJson::ALL_OK),
-                );
-        }
-
-        /**
-         * Add new log entry to accumulator.
-         * @param int $level @phan-unused-param
-         * @param mixed $message
-         * @param array $context
-         */
-        public function log($level, $message, array $context = []): void
-        {
-                self::$buffer[] = ["event" => $message] + $context;
-        }
+    /**
+     * Add new log entry to accumulator.
+     * @param int $level @phan-unused-param
+     * @param mixed $message
+     * @param array $context
+     */
+    public function log($level, $message, array $context = []): void
+    {
+        self::$buffer[] = ["event" => $message] + $context;
+    }
 }

@@ -34,61 +34,54 @@ use Wikimedia\TestingAccessWrapper;
  */
 trait MockModerationActionTrait
 {
-        /**
-         * Make a mock for ModerationAction class and make ActionFactory always return it.
-         * @param string $actionName
-         * @return \PHPUnit\Framework\MockObject\MockObject
-         */
-        private function addMockedAction($actionName)
-        {
-                $actionMock = $this->getMockBuilder(ModerationAction::class)
-                        ->disableOriginalConstructor()
-                        ->disableProxyingToOriginalMethods()
-                        ->setMethods([
-                                "requiresEditToken",
-                                "execute",
-                                "printReturnLinks",
-                        ])
-                        ->getMockForAbstractClass();
+    /**
+     * Make a mock for ModerationAction class and make ActionFactory always return it.
+     * @param string $actionName
+     * @return \PHPUnit\Framework\MockObject\MockObject
+     */
+    private function addMockedAction($actionName)
+    {
+        $actionMock = $this->getMockBuilder(ModerationAction::class)
+            ->disableOriginalConstructor()
+            ->disableProxyingToOriginalMethods()
+            ->setMethods(["requiresEditToken", "execute", "printReturnLinks"])
+            ->getMockForAbstractClass();
 
-                // Since we are not calling the constructor (which sets ReadOnlyMode via dependency injection),
-                // we must provide ReadOnlyMode object here.
-                $wrapper = TestingAccessWrapper::newFromObject($actionMock);
-                $wrapper->readOnlyMode = MediaWikiServices::getInstance()->getReadOnlyMode();
+        // Since we are not calling the constructor (which sets ReadOnlyMode via dependency injection),
+        // we must provide ReadOnlyMode object here.
+        $wrapper = TestingAccessWrapper::newFromObject($actionMock);
+        $wrapper->readOnlyMode = MediaWikiServices::getInstance()->getReadOnlyMode();
 
-                $factoryMock = $this->createMock(ActionFactory::class);
-                $factoryMock->method("makeAction")->will(
-                        $this->returnCallback(static function (
-                                IContextSource $context,
-                        ) use ($actionMock, $actionName) {
-                                if (
-                                        $context
-                                                ->getRequest()
-                                                ->getVal("modaction") !==
-                                        $actionName
-                                ) {
-                                        throw new MWException(
-                                                "This mocked ActionFactory only supports modaction=$actionName.",
-                                        );
-                                }
+        $factoryMock = $this->createMock(ActionFactory::class);
+        $factoryMock->method("makeAction")->will(
+            $this->returnCallback(static function (
+                IContextSource $context,
+            ) use ($actionMock, $actionName) {
+                if (
+                    $context->getRequest()->getVal("modaction") !== $actionName
+                ) {
+                    throw new MWException(
+                        "This mocked ActionFactory only supports modaction=$actionName.",
+                    );
+                }
 
-                                $actionMock->setContext($context);
-                                return $actionMock;
-                        }),
-                );
-
-                $this->setService("Moderation.ActionFactory", $factoryMock);
+                $actionMock->setContext($context);
                 return $actionMock;
-        }
+            }),
+        );
 
-        // These methods are in MediaWikiIntegrationTestCase (this trait is used by its subclasses).
+        $this->setService("Moderation.ActionFactory", $factoryMock);
+        return $actionMock;
+    }
 
-        /** @inheritDoc */
-        abstract protected function setService(string $name, $service);
+    // These methods are in MediaWikiIntegrationTestCase (this trait is used by its subclasses).
 
-        /** @inheritDoc */
-        abstract protected function createMock(string $originalClassName);
+    /** @inheritDoc */
+    abstract protected function setService(string $name, $service);
 
-        /** @inheritDoc */
-        abstract protected function getMockBuilder(string $originalClassName);
+    /** @inheritDoc */
+    abstract protected function createMock(string $originalClassName);
+
+    /** @inheritDoc */
+    abstract protected function getMockBuilder(string $originalClassName);
 }

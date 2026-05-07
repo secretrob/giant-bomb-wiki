@@ -5,31 +5,27 @@
 "use strict";
 
 var merge = require("deepmerge"),
-        conf = require("./wdio.conf").config;
+  conf = require("./wdio.conf").config;
 
 // Overwrite default settings
 conf = merge(conf, {
-        maxInstances: 2,
-        services: ["selenium-standalone"],
+  maxInstances: 2,
+  services: ["selenium-standalone"],
 });
 
 conf.capabilities = [
-        {
-                browserName: "firefox",
-                "moz:firefoxOptions": {
-                        args: ["-headless"],
-                },
-        },
-        {
-                browserName: "chrome",
-                "goog:chromeOptions": {
-                        args: [
-                                "--headless",
-                                "--disable-gpu",
-                                "--window-size=1280,800",
-                        ],
-                },
-        },
+  {
+    browserName: "firefox",
+    "moz:firefoxOptions": {
+      args: ["-headless"],
+    },
+  },
+  {
+    browserName: "chrome",
+    "goog:chromeOptions": {
+      args: ["--headless", "--disable-gpu", "--window-size=1280,800"],
+    },
+  },
 ];
 
 exports.config = conf;

@@ -31,30 +31,27 @@ use stdClass;
  */
 trait MockLoadRowTestTrait
 {
-        /**
-         * Returns mock of EntryFactory that will return $row when asked for $where and $fields.
-         * @param int|array $where
-         * @param array $fields
-         * @param stdClass $row
-         * @return EntryFactory
-         */
-        public function mockLoadRow($where, array $fields, $row)
-        {
-                $entryFactory = $this->createMock(EntryFactory::class);
-                $entryFactory
-                        ->expects($this->once())
-                        ->method("loadRow")
-                        ->with(
-                                $this->identicalTo($where),
-                                $this->identicalTo($fields),
-                        )
-                        ->willReturn($row);
+    /**
+     * Returns mock of EntryFactory that will return $row when asked for $where and $fields.
+     * @param int|array $where
+     * @param array $fields
+     * @param stdClass $row
+     * @return EntryFactory
+     */
+    public function mockLoadRow($where, array $fields, $row)
+    {
+        $entryFactory = $this->createMock(EntryFactory::class);
+        $entryFactory
+            ->expects($this->once())
+            ->method("loadRow")
+            ->with($this->identicalTo($where), $this->identicalTo($fields))
+            ->willReturn($row);
 
-                return $entryFactory;
-        }
+        return $entryFactory;
+    }
 
-        // These methods are in MediaWikiIntegrationTestCase (this trait is used by its subclasses).
+    // These methods are in MediaWikiIntegrationTestCase (this trait is used by its subclasses).
 
-        /** @inheritDoc */
-        abstract protected function createMock(string $originalClassName);
+    /** @inheritDoc */
+    abstract protected function createMock(string $originalClassName);
 }

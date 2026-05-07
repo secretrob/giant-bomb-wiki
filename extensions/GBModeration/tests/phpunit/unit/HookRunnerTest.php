@@ -30,11 +30,11 @@ use MediaWiki\Tests\HookContainer\HookRunnerTestBase;
  */
 class HookRunnerTest extends HookRunnerTestBase
 {
-        /**
-         * @return array
-         */
-        public static function provideHookRunners()
-        {
-                return [HookRunner::class => [HookRunner::class]];
-        }
+    /**
+     * @return array
+     */
+    public static function provideHookRunners()
+    {
+        return [HookRunner::class => [HookRunner::class]];
+    }
 }

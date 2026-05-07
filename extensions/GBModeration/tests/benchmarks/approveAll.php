@@ -35,97 +35,91 @@ require_once __DIR__ . "/ModerationBenchmark.php";
 
 class BenchmarkApproveAll extends ModerationBenchmark
 {
-        /**
-         * @var int[]
-         * mod_id of rows where ApproveAll should be applied
-         */
-        public $ids = [];
+    /**
+     * @var int[]
+     * mod_id of rows where ApproveAll should be applied
+     */
+    public $ids = [];
 
-        /**
-         * Default number of loops.
-         * @return int
-         */
-        public function getDefaultLoops()
-        {
-                return 10;
-        }
+    /**
+     * Default number of loops.
+     * @return int
+     */
+    public function getDefaultLoops()
+    {
+        return 10;
+    }
 
-        /**
-         * How many rows to approve with one approveall.
-         * @return int
-         */
-        public function getEditsPerUser()
-        {
-                return 10;
-        }
+    /**
+     * How many rows to approve with one approveall.
+     * @return int
+     */
+    public function getEditsPerUser()
+    {
+        return 10;
+    }
 
-        /**
-         * @param int $numberOfUsers
-         */
-        public function beforeBenchmark($numberOfUsers)
-        {
-                /* Prepopulate 'moderation' table */
-                $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
-                $editsPerUser = $this->getEditsPerUser();
+    /**
+     * @param int $numberOfUsers
+     */
+    public function beforeBenchmark($numberOfUsers)
+    {
+        /* Prepopulate 'moderation' table */
+        $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
+        $editsPerUser = $this->getEditsPerUser();
 
-                for ($i = 0; $i < $numberOfUsers; $i++) {
-                        $fakeIP = IPUtils::formatHex(
-                                base_convert("$i", 10, 16),
-                        );
-                        $user = User::newFromName($fakeIP, false);
+        for ($i = 0; $i < $numberOfUsers; $i++) {
+            $fakeIP = IPUtils::formatHex(base_convert("$i", 10, 16));
+            $user = User::newFromName($fakeIP, false);
 
-                        $dbw->delete(
-                                "moderation",
-                                ["mod_user_text" => $fakeIP],
-                                __METHOD__,
-                        );
+            $dbw->delete(
+                "moderation",
+                ["mod_user_text" => $fakeIP],
+                __METHOD__,
+            );
 
-                        $modid = 0;
-                        for ($j = 0; $j < $editsPerUser; $j++) {
-                                $modid = $this->fastQueue(
-                                        $this->getTestTitle(
-                                                $i + $j * $numberOfUsers,
-                                        ),
-                                        "Whatever",
-                                        "",
-                                        $user,
-                                );
-                        }
-
-                        $this->ids[$i] = $modid; /* Only one mod_id per User */
-                }
-
-                $this->becomeModerator();
-        }
-
-        /**
-         * @param int $i
-         */
-        public function doActualWork($i)
-        {
-                // Prevent DeferredUpdates::tryOpportunisticExecute() from running updates immediately
-                // @phan-suppress-next-line PhanUnusedVariable
-                $cleanup = DeferredUpdates::preventOpportunisticUpdates();
-
-                $html = $this->runSpecialModeration([
-                        "modaction" => "approveall",
-                        "modid" => $this->ids[$i],
-                        "token" => $this->getUser()->getEditToken(),
-                ]);
-
-                // Run the DeferredUpdates
-                DeferredUpdates::doUpdates();
-
-                Assert::postcondition(
-                        strpos(
-                                $html,
-                                "(moderation-approved-ok: " .
-                                        $this->getEditsPerUser() .
-                                        ")",
-                        ) !== false,
-                        "ApproveAll failed",
+            $modid = 0;
+            for ($j = 0; $j < $editsPerUser; $j++) {
+                $modid = $this->fastQueue(
+                    $this->getTestTitle($i + $j * $numberOfUsers),
+                    "Whatever",
+                    "",
+                    $user,
                 );
+            }
+
+            $this->ids[$i] = $modid; /* Only one mod_id per User */
         }
+
+        $this->becomeModerator();
+    }
+
+    /**
+     * @param int $i
+     */
+    public function doActualWork($i)
+    {
+        // Prevent DeferredUpdates::tryOpportunisticExecute() from running updates immediately
+        // @phan-suppress-next-line PhanUnusedVariable
+        $cleanup = DeferredUpdates::preventOpportunisticUpdates();
+
+        $html = $this->runSpecialModeration([
+            "modaction" => "approveall",
+            "modid" => $this->ids[$i],
+            "token" => $this->getUser()->getEditToken(),
+        ]);
+
+        // Run the DeferredUpdates
+        DeferredUpdates::doUpdates();
+
+        Assert::postcondition(
+            strpos(
+                $html,
+                "(moderation-approved-ok: " . $this->getEditsPerUser() . ")",
+            ) !== false,
+            "ApproveAll failed",
+        );
+    }
 }
 
 $maintClass = BenchmarkApproveAll::class;

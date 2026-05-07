@@ -40,224 +40,194 @@ require_once __DIR__ . "/autoload.php";
  */
 class EditFormOptionsTest extends ModerationUnitTestCase
 {
-        /**
-         * Test setMergeID() and getMergeID().
-         * @covers MediaWiki\Moderation\EditFormOptions
-         */
-        public function testMergeID()
-        {
-                $opt = new EditFormOptions(new MockConsequenceManager());
+    /**
+     * Test setMergeID() and getMergeID().
+     * @covers MediaWiki\Moderation\EditFormOptions
+     */
+    public function testMergeID()
+    {
+        $opt = new EditFormOptions(new MockConsequenceManager());
 
-                $val = 12345;
-                $opt->setMergeID($val);
-                $this->assertSame($val, $opt->getMergeID());
+        $val = 12345;
+        $opt->setMergeID($val);
+        $this->assertSame($val, $opt->getMergeID());
+    }
+
+    /**
+     * Verify that default return value of getMergeID() is wpMergeID parameter from WebRequest.
+     * @covers MediaWiki\Moderation\EditFormOptions
+     */
+    public function testDefaultMergeID()
+    {
+        $opt = new EditFormOptions(new MockConsequenceManager());
+
+        $val = 12345;
+        RequestContext::getMain()->getRequest()->setVal("wpMergeID", 12345);
+
+        $this->assertSame($val, $opt->getMergeID());
+    }
+
+    /**
+     * Verify that "watch this" checkbox is detected on Special:Movepage and Special:Upload.
+     * @param bool|null $expectedWatch True: page should be Watched, false: Unwatched, null: neither.
+     * @param string $specialPageName Name of special page, e.g. "Upload".
+     * @param array $requestParams Parameters im WebRequest, e.g. [ 'wpWatchthis' => 1 ].
+     * @dataProvider dataProviderSpecialPageHook
+     * @covers MediaWiki\Moderation\EditFormOptions
+     */
+    public function testSpecialPageHook(
+        $expectedWatch,
+        $specialPageName,
+        array $requestParams,
+    ) {
+        $opt = new EditFormOptions(new MockConsequenceManager());
+        $this->setService("Moderation.EditFormOptions", $opt);
+
+        RequestContext::getMain()->setRequest(new FauxRequest($requestParams));
+
+        $special = new SpecialPage($specialPageName);
+        $special->run("");
+
+        $wrapper = TestingAccessWrapper::newFromObject($opt);
+        $this->assertSame($expectedWatch, $wrapper->watchthis, "watchthis");
+    }
+
+    /**
+     * Provide datasets for testSpecialPageHook() runs.
+     * @return array
+     */
+    public function dataProviderSpecialPageHook()
+    {
+        return [
+            // Note: wpWatch is a checkbox, its mere presence means "true" (even if value is empty or 0)
+            "Special:MovePage, watch" => [true, "Movepage", ["wpWatch" => ""]],
+            "Special:MovePage, unwatch" => [false, "Movepage", []],
+            "Special:Upload, watch" => [true, "Upload", ["wpWatchthis" => 1]],
+            "Special:Upload, unwatch (wpWatchthis=0)" => [
+                false,
+                "Upload",
+                ["wpWatchthis" => 0],
+            ],
+            "Special:Upload, unwatch (wpWatchthis is empty string)" => [
+                false,
+                "Upload",
+                ["wpWatchthis" => ""],
+            ],
+            "Not Special:MovePage or Special:Upload, no need to neither Watch nor Unwatch" => [
+                null,
+                "Blankpage",
+                [],
+            ],
+        ];
+    }
+
+    /**
+     * Verify that "watch this" checkbox is detected on EditPage form.
+     * @param bool $isWatch True to test "Watch this" checkbox being checked, false - unchecked.
+     * @dataProvider dataProviderEditFilterHook
+     * @covers MediaWiki\Moderation\EditFormOptions::onEditFilter
+     * @covers MediaWiki\Moderation\EditFormOptions::getSectionText
+     * @covers MediaWiki\Moderation\EditFormOptions::getSection
+     */
+    public function testEditFilterHook($isWatch)
+    {
+        $opt = new EditFormOptions(new MockConsequenceManager());
+        $this->setService("Moderation.EditFormOptions", $opt);
+
+        $text = "Sample text " . rand(0, 1000000);
+        $section = rand(0, 2);
+
+        $params = [
+            "wpUnicodeCheck" => EditPage::UNICODE_CHECK,
+            "wpTextbox1" => $text,
+            "wpSection" => $section,
+        ];
+        if ($isWatch) {
+            // Checkbox: its mere presence means "true"  (even if value is empty or 0)
+            $params["wpWatchthis"] = "";
+        }
+        $request = new FauxRequest($params, true);
+
+        $editPage = new EditPage(new Article(Title::newFromText("whatever")));
+        $editPage->importFormData($request);
+
+        // Prevent attemptSave() from actually saving the edit.
+        $this->setTemporaryHook("MultiContentSave", static function () {
+            return false;
+        });
+
+        $unusedResult = [];
+        $editPage->attemptSave($unusedResult);
+
+        $this->assertSame($text, $opt->getSectionText(), "getSectionText()");
+        $this->assertSame(
+            (string) $section,
+            $opt->getSection(),
+            "getSection()",
+        );
+
+        $wrapper = TestingAccessWrapper::newFromObject($opt);
+        $this->assertSame($isWatch, $wrapper->watchthis, "watchthis");
+    }
+
+    /**
+     * Provide datasets for testEditFilterHook() runs.
+     * @return array
+     */
+    public function dataProviderEditFilterHook()
+    {
+        return [
+            "Watch" => [true],
+            "Unwatch" => [false],
+        ];
+    }
+
+    /**
+     * Verify that watchIfNeeded() watches or unwatches pages depending on the value of $watchthis.
+     * @param bool|null $watchthis True: pages should be Watched, false: Unwatched, null: neither.
+     * @dataProvider dataProviderWatchIfNeeded
+     * @covers MediaWiki\Moderation\EditFormOptions
+     */
+    public function testWatchIfNeeded($watchthis)
+    {
+        $user = User::newFromName("10.12.14.16", false);
+        $titles = [
+            Title::newFromText("First page"),
+            Title::newFromtext("Project:Another page"),
+        ];
+
+        $manager = new MockConsequenceManager();
+        $opt = new EditFormOptions($manager);
+
+        if ($watchthis !== null) {
+            $wrapper = TestingAccessWrapper::newFromObject($opt);
+            $wrapper->watchthis = $watchthis;
+
+            $expectedConsequences = [
+                new WatchOrUnwatchConsequence($watchthis, $titles[0], $user),
+                new WatchOrUnwatchConsequence($watchthis, $titles[1], $user),
+            ];
+        } else {
+            $expectedConsequences = [];
         }
 
-        /**
-         * Verify that default return value of getMergeID() is wpMergeID parameter from WebRequest.
-         * @covers MediaWiki\Moderation\EditFormOptions
-         */
-        public function testDefaultMergeID()
-        {
-                $opt = new EditFormOptions(new MockConsequenceManager());
+        $opt->watchIfNeeded($user, $titles);
+        $this->assertConsequencesEqual(
+            $expectedConsequences,
+            $manager->getConsequences(),
+        );
+    }
 
-                $val = 12345;
-                RequestContext::getMain()
-                        ->getRequest()
-                        ->setVal("wpMergeID", 12345);
-
-                $this->assertSame($val, $opt->getMergeID());
-        }
-
-        /**
-         * Verify that "watch this" checkbox is detected on Special:Movepage and Special:Upload.
-         * @param bool|null $expectedWatch True: page should be Watched, false: Unwatched, null: neither.
-         * @param string $specialPageName Name of special page, e.g. "Upload".
-         * @param array $requestParams Parameters im WebRequest, e.g. [ 'wpWatchthis' => 1 ].
-         * @dataProvider dataProviderSpecialPageHook
-         * @covers MediaWiki\Moderation\EditFormOptions
-         */
-        public function testSpecialPageHook(
-                $expectedWatch,
-                $specialPageName,
-                array $requestParams,
-        ) {
-                $opt = new EditFormOptions(new MockConsequenceManager());
-                $this->setService("Moderation.EditFormOptions", $opt);
-
-                RequestContext::getMain()->setRequest(
-                        new FauxRequest($requestParams),
-                );
-
-                $special = new SpecialPage($specialPageName);
-                $special->run("");
-
-                $wrapper = TestingAccessWrapper::newFromObject($opt);
-                $this->assertSame(
-                        $expectedWatch,
-                        $wrapper->watchthis,
-                        "watchthis",
-                );
-        }
-
-        /**
-         * Provide datasets for testSpecialPageHook() runs.
-         * @return array
-         */
-        public function dataProviderSpecialPageHook()
-        {
-                return [
-                        // Note: wpWatch is a checkbox, its mere presence means "true" (even if value is empty or 0)
-                        "Special:MovePage, watch" => [
-                                true,
-                                "Movepage",
-                                ["wpWatch" => ""],
-                        ],
-                        "Special:MovePage, unwatch" => [false, "Movepage", []],
-                        "Special:Upload, watch" => [
-                                true,
-                                "Upload",
-                                ["wpWatchthis" => 1],
-                        ],
-                        "Special:Upload, unwatch (wpWatchthis=0)" => [
-                                false,
-                                "Upload",
-                                ["wpWatchthis" => 0],
-                        ],
-                        "Special:Upload, unwatch (wpWatchthis is empty string)" => [
-                                false,
-                                "Upload",
-                                ["wpWatchthis" => ""],
-                        ],
-                        "Not Special:MovePage or Special:Upload, no need to neither Watch nor Unwatch" => [
-                                null,
-                                "Blankpage",
-                                [],
-                        ],
-                ];
-        }
-
-        /**
-         * Verify that "watch this" checkbox is detected on EditPage form.
-         * @param bool $isWatch True to test "Watch this" checkbox being checked, false - unchecked.
-         * @dataProvider dataProviderEditFilterHook
-         * @covers MediaWiki\Moderation\EditFormOptions::onEditFilter
-         * @covers MediaWiki\Moderation\EditFormOptions::getSectionText
-         * @covers MediaWiki\Moderation\EditFormOptions::getSection
-         */
-        public function testEditFilterHook($isWatch)
-        {
-                $opt = new EditFormOptions(new MockConsequenceManager());
-                $this->setService("Moderation.EditFormOptions", $opt);
-
-                $text = "Sample text " . rand(0, 1000000);
-                $section = rand(0, 2);
-
-                $params = [
-                        "wpUnicodeCheck" => EditPage::UNICODE_CHECK,
-                        "wpTextbox1" => $text,
-                        "wpSection" => $section,
-                ];
-                if ($isWatch) {
-                        // Checkbox: its mere presence means "true"  (even if value is empty or 0)
-                        $params["wpWatchthis"] = "";
-                }
-                $request = new FauxRequest($params, true);
-
-                $editPage = new EditPage(
-                        new Article(Title::newFromText("whatever")),
-                );
-                $editPage->importFormData($request);
-
-                // Prevent attemptSave() from actually saving the edit.
-                $this->setTemporaryHook("MultiContentSave", static function () {
-                        return false;
-                });
-
-                $unusedResult = [];
-                $editPage->attemptSave($unusedResult);
-
-                $this->assertSame(
-                        $text,
-                        $opt->getSectionText(),
-                        "getSectionText()",
-                );
-                $this->assertSame(
-                        (string) $section,
-                        $opt->getSection(),
-                        "getSection()",
-                );
-
-                $wrapper = TestingAccessWrapper::newFromObject($opt);
-                $this->assertSame($isWatch, $wrapper->watchthis, "watchthis");
-        }
-
-        /**
-         * Provide datasets for testEditFilterHook() runs.
-         * @return array
-         */
-        public function dataProviderEditFilterHook()
-        {
-                return [
-                        "Watch" => [true],
-                        "Unwatch" => [false],
-                ];
-        }
-
-        /**
-         * Verify that watchIfNeeded() watches or unwatches pages depending on the value of $watchthis.
-         * @param bool|null $watchthis True: pages should be Watched, false: Unwatched, null: neither.
-         * @dataProvider dataProviderWatchIfNeeded
-         * @covers MediaWiki\Moderation\EditFormOptions
-         */
-        public function testWatchIfNeeded($watchthis)
-        {
-                $user = User::newFromName("10.12.14.16", false);
-                $titles = [
-                        Title::newFromText("First page"),
-                        Title::newFromtext("Project:Another page"),
-                ];
-
-                $manager = new MockConsequenceManager();
-                $opt = new EditFormOptions($manager);
-
-                if ($watchthis !== null) {
-                        $wrapper = TestingAccessWrapper::newFromObject($opt);
-                        $wrapper->watchthis = $watchthis;
-
-                        $expectedConsequences = [
-                                new WatchOrUnwatchConsequence(
-                                        $watchthis,
-                                        $titles[0],
-                                        $user,
-                                ),
-                                new WatchOrUnwatchConsequence(
-                                        $watchthis,
-                                        $titles[1],
-                                        $user,
-                                ),
-                        ];
-                } else {
-                        $expectedConsequences = [];
-                }
-
-                $opt->watchIfNeeded($user, $titles);
-                $this->assertConsequencesEqual(
-                        $expectedConsequences,
-                        $manager->getConsequences(),
-                );
-        }
-
-        /**
-         * Provide datasets for testWatchIfNeeded() runs.
-         * @return array
-         */
-        public function dataProviderWatchIfNeeded()
-        {
-                return [
-                        "Watch" => [true],
-                        "Unwatch" => [false],
-                        "neither Watch nor Unwatch" => [null],
-                ];
-        }
+    /**
+     * Provide datasets for testWatchIfNeeded() runs.
+     * @return array
+     */
+    public function dataProviderWatchIfNeeded()
+    {
+        return [
+            "Watch" => [true],
+            "Unwatch" => [false],
+            "neither Watch nor Unwatch" => [null],
+        ];
+    }
 }

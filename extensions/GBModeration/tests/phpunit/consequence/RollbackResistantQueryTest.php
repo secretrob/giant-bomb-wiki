@@ -31,173 +31,158 @@ require_once __DIR__ . "/autoload.php";
 
 class RollbackResistantQueryTest extends ModerationUnitTestCase
 {
-        /**
-         * @var callable|null
-         * Populated by mock from mockLoadBalancer(). Cleared in setUp().
-         */
-        private $listenerFunc = null;
+    /**
+     * @var callable|null
+     * Populated by mock from mockLoadBalancer(). Cleared in setUp().
+     */
+    private $listenerFunc = null;
 
-        /**
-         * Verify that perform() runs its callback immediately.
-         * @covers MediaWiki\Moderation\RollbackResistantQuery
-         */
-        public function testPerform()
-        {
-                $rrQuery = new RollbackResistantQuery(
-                        $this->mockLoadBalancer(),
-                );
-                $this->assertNotNull(
-                        $this->listenerFunc,
-                        "TransactionListener wasn't installed.",
-                );
+    /**
+     * Verify that perform() runs its callback immediately.
+     * @covers MediaWiki\Moderation\RollbackResistantQuery
+     */
+    public function testPerform()
+    {
+        $rrQuery = new RollbackResistantQuery($this->mockLoadBalancer());
+        $this->assertNotNull(
+            $this->listenerFunc,
+            "TransactionListener wasn't installed.",
+        );
 
-                $cb = $this->makeCallCounter(1);
-                $rrQuery->perform($cb);
+        $cb = $this->makeCallCounter(1);
+        $rrQuery->perform($cb);
+    }
+
+    /**
+     * Verify that callback passed to perform() will be repeated on the database rollback.
+     * @covers MediaWiki\Moderation\RollbackResistantQuery
+     */
+    public function testRepeatOnRollback()
+    {
+        $rrQuery = new RollbackResistantQuery($this->mockLoadBalancer());
+        $this->assertNotNull(
+            $this->listenerFunc,
+            "TransactionListener wasn't installed.",
+        );
+
+        $cb = $this->makeCallCounter(2); // Must be called twice: 1) immediately, 2) after rollback
+        $rrQuery->perform($cb);
+
+        // Inform the listener that a DB rollback has happened.
+        ($this->listenerFunc)(IDatabase::TRIGGER_ROLLBACK);
+    }
+
+    /**
+     * Verify that a successful COMMIT erases any obligations to repeat the operations on ROLLBACK.
+     * @covers MediaWiki\Moderation\RollbackResistantQuery
+     */
+    public function testCommitClearsEverything()
+    {
+        $rrQuery = new RollbackResistantQuery($this->mockLoadBalancer());
+        $this->assertNotNull(
+            $this->listenerFunc,
+            "TransactionListener wasn't installed.",
+        );
+
+        $cb = $this->makeCallCounter(1);
+        $rrQuery->perform($cb);
+
+        // Inform the listener that a DB commit has happened.
+        ($this->listenerFunc)(IDatabase::TRIGGER_COMMIT);
+
+        // Inform the listener that a DB rollback has happened.
+        // This won't cause $cb to be repeated, because COMMIT already made this query completed.
+        ($this->listenerFunc)(IDatabase::TRIGGER_ROLLBACK);
+    }
+
+    /**
+     * Verify that destroying the service doesn't leave a remaining TransactionListener callback.
+     * @covers MediaWiki\Moderation\RollbackResistantQuery
+     */
+    public function testDestroyService()
+    {
+        $rrQuery = new RollbackResistantQuery($this->mockLoadBalancer());
+        $this->assertNotNull(
+            $this->listenerFunc,
+            "TransactionListener wasn't installed.",
+        );
+
+        $rrQuery->destroy();
+        $this->assertNull(
+            $this->listenerFunc,
+            "TransactionListener wasn't cleared after the service was destroyed.",
+        );
+    }
+
+    /**
+     * Verify that if perform() was called many times, then all callbacks are repeated on ROLLBACK.
+     * @covers MediaWiki\Moderation\RollbackResistantQuery
+     */
+    public function testManyQueries()
+    {
+        $rrQuery = new RollbackResistantQuery($this->mockLoadBalancer());
+        $this->assertNotNull(
+            $this->listenerFunc,
+            "TransactionListener wasn't installed.",
+        );
+
+        for ($i = 0; $i < 4; $i++) {
+            $rrQuery->perform($this->makeCallCounter(2));
         }
 
-        /**
-         * Verify that callback passed to perform() will be repeated on the database rollback.
-         * @covers MediaWiki\Moderation\RollbackResistantQuery
-         */
-        public function testRepeatOnRollback()
-        {
-                $rrQuery = new RollbackResistantQuery(
-                        $this->mockLoadBalancer(),
-                );
-                $this->assertNotNull(
-                        $this->listenerFunc,
-                        "TransactionListener wasn't installed.",
-                );
+        // Inform the listener that a DB rollback has happened.
+        ($this->listenerFunc)(IDatabase::TRIGGER_ROLLBACK);
+    }
 
-                $cb = $this->makeCallCounter(2); // Must be called twice: 1) immediately, 2) after rollback
-                $rrQuery->perform($cb);
+    /**
+     * Get a mocked LoadBalancer that will remember TransactionListener callback that was added to it.
+     * @return ILoadBalancer
+     */
+    private function mockLoadBalancer()
+    {
+        // Mock the LoadBalancer to remember TransactionListener callback that was added to it.
+        $loadBalancer = $this->createMock(ILoadBalancer::class);
+        $loadBalancer
+            ->expects($this->any())
+            ->method("setTransactionListener")
+            ->with(
+                $this->identicalTo("moderation-on-rollback-or-commit"),
+                $this->logicalOr($this->isType("callable"), $this->isNull()),
+            )
+            ->will(
+                $this->returnCallback(function ($_, $callback) {
+                    $this->listenerFunc = $callback;
+                }),
+            );
 
-                // Inform the listener that a DB rollback has happened.
-                ($this->listenerFunc)(IDatabase::TRIGGER_ROLLBACK);
-        }
+        '@phan-var ILoadBalancer $loadBalancer';
 
-        /**
-         * Verify that a successful COMMIT erases any obligations to repeat the operations on ROLLBACK.
-         * @covers MediaWiki\Moderation\RollbackResistantQuery
-         */
-        public function testCommitClearsEverything()
-        {
-                $rrQuery = new RollbackResistantQuery(
-                        $this->mockLoadBalancer(),
-                );
-                $this->assertNotNull(
-                        $this->listenerFunc,
-                        "TransactionListener wasn't installed.",
-                );
+        return $loadBalancer;
+    }
 
-                $cb = $this->makeCallCounter(1);
-                $rrQuery->perform($cb);
+    /**
+     * Returns a callback that will cause test failure if not called exactly $numberOfCalls times.
+     * @param int $numberOfCalls
+     * @return callable
+     */
+    private function makeCallCounter($numberOfCalls)
+    {
+        $callCounter = $this->getMockBuilder(stdClass::class)
+            ->addMethods(["doSomething"])
+            ->getMock();
+        $callCounter
+            ->expects($this->exactly($numberOfCalls))
+            ->method("doSomething");
 
-                // Inform the listener that a DB commit has happened.
-                ($this->listenerFunc)(IDatabase::TRIGGER_COMMIT);
+        return static function () use ($callCounter) {
+            // @phan-suppress-next-line PhanUndeclaredMethod
+            $callCounter->doSomething();
+        };
+    }
 
-                // Inform the listener that a DB rollback has happened.
-                // This won't cause $cb to be repeated, because COMMIT already made this query completed.
-                ($this->listenerFunc)(IDatabase::TRIGGER_ROLLBACK);
-        }
-
-        /**
-         * Verify that destroying the service doesn't leave a remaining TransactionListener callback.
-         * @covers MediaWiki\Moderation\RollbackResistantQuery
-         */
-        public function testDestroyService()
-        {
-                $rrQuery = new RollbackResistantQuery(
-                        $this->mockLoadBalancer(),
-                );
-                $this->assertNotNull(
-                        $this->listenerFunc,
-                        "TransactionListener wasn't installed.",
-                );
-
-                $rrQuery->destroy();
-                $this->assertNull(
-                        $this->listenerFunc,
-                        "TransactionListener wasn't cleared after the service was destroyed.",
-                );
-        }
-
-        /**
-         * Verify that if perform() was called many times, then all callbacks are repeated on ROLLBACK.
-         * @covers MediaWiki\Moderation\RollbackResistantQuery
-         */
-        public function testManyQueries()
-        {
-                $rrQuery = new RollbackResistantQuery(
-                        $this->mockLoadBalancer(),
-                );
-                $this->assertNotNull(
-                        $this->listenerFunc,
-                        "TransactionListener wasn't installed.",
-                );
-
-                for ($i = 0; $i < 4; $i++) {
-                        $rrQuery->perform($this->makeCallCounter(2));
-                }
-
-                // Inform the listener that a DB rollback has happened.
-                ($this->listenerFunc)(IDatabase::TRIGGER_ROLLBACK);
-        }
-
-        /**
-         * Get a mocked LoadBalancer that will remember TransactionListener callback that was added to it.
-         * @return ILoadBalancer
-         */
-        private function mockLoadBalancer()
-        {
-                // Mock the LoadBalancer to remember TransactionListener callback that was added to it.
-                $loadBalancer = $this->createMock(ILoadBalancer::class);
-                $loadBalancer
-                        ->expects($this->any())
-                        ->method("setTransactionListener")
-                        ->with(
-                                $this->identicalTo(
-                                        "moderation-on-rollback-or-commit",
-                                ),
-                                $this->logicalOr(
-                                        $this->isType("callable"),
-                                        $this->isNull(),
-                                ),
-                        )
-                        ->will(
-                                $this->returnCallback(function ($_, $callback) {
-                                        $this->listenerFunc = $callback;
-                                }),
-                        );
-
-                '@phan-var ILoadBalancer $loadBalancer';
-
-                return $loadBalancer;
-        }
-
-        /**
-         * Returns a callback that will cause test failure if not called exactly $numberOfCalls times.
-         * @param int $numberOfCalls
-         * @return callable
-         */
-        private function makeCallCounter($numberOfCalls)
-        {
-                $callCounter = $this->getMockBuilder(stdClass::class)
-                        ->addMethods(["doSomething"])
-                        ->getMock();
-                $callCounter
-                        ->expects($this->exactly($numberOfCalls))
-                        ->method("doSomething");
-
-                return static function () use ($callCounter) {
-                        // @phan-suppress-next-line PhanUndeclaredMethod
-                        $callCounter->doSomething();
-                };
-        }
-
-        public function setUp(): void
-        {
-                parent::setUp();
-                $this->listenerFunc = null;
-        }
+    public function setUp(): void
+    {
+        parent::setUp();
+        $this->listenerFunc = null;
+    }
 }

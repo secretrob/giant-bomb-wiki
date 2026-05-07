@@ -33,41 +33,41 @@ require_once __DIR__ . "/ModerationBenchmark.php";
 
 class BenchmarkFormatTimestamp extends ModerationBenchmark
 {
-        /**
-         * @var IContextSource
-         */
-        protected $context;
+    /**
+     * @var IContextSource
+     */
+    protected $context;
 
-        /**
-         * @var TimestampTools
-         */
-        protected $timestampTools;
+    /**
+     * @var TimestampTools
+     */
+    protected $timestampTools;
 
-        /**
-         * Default number of loops.
-         * @return int
-         */
-        public function getDefaultLoops()
-        {
-                return 100000;
-        }
+    /**
+     * Default number of loops.
+     * @return int
+     */
+    public function getDefaultLoops()
+    {
+        return 100000;
+    }
 
-        /**
-         * @param int $numberOfUsers @phan-unused-param
-         */
-        public function beforeBenchmark($numberOfUsers)
-        {
-                $this->context = RequestContext::getMain();
-                $this->timestampTools = new TimestampTools();
-        }
+    /**
+     * @param int $numberOfUsers @phan-unused-param
+     */
+    public function beforeBenchmark($numberOfUsers)
+    {
+        $this->context = RequestContext::getMain();
+        $this->timestampTools = new TimestampTools();
+    }
 
-        /**
-         * @param int $i @phan-unused-param
-         */
-        public function doActualWork($i)
-        {
-                $this->timestampTools->format("20180101000000", $this->context);
-        }
+    /**
+     * @param int $i @phan-unused-param
+     */
+    public function doActualWork($i)
+    {
+        $this->timestampTools->format("20180101000000", $this->context);
+    }
 }
 
 $maintClass = "BenchmarkFormatTimestamp";

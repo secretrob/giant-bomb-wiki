@@ -39,59 +39,55 @@ use RequestContext;
  */
 trait ActionTestTrait
 {
-        /**
-         * Create ModerationAction using $setupMocks() callback, which receives all mocked dependencies.
-         * @param string $class Name of the ModerationAction subclass.
-         * @param callable|null $setupMocks Callback that can configure MockObject dependencies.
-         * @return ModerationAction
-         *
-         * @phan-param class-string $class
-         */
-        private function makeActionForTesting(
-                $class,
-                callable $setupMocks = null,
-        ) {
-                $context = new RequestContext();
-                $entryFactory = $this->createMock(EntryFactory::class);
-                $manager = $this->createMock(IConsequenceManager::class);
-                $canSkip = $this->createMock(ModerationCanSkip::class);
-                $editFormOptions = $this->createMock(EditFormOptions::class);
-                $actionLinkRenderer = $this->createMock(
-                        ActionLinkRenderer::class,
-                );
-                $repoGroup = $this->createMock(RepoGroup::class);
-                $contentLanguage = $this->createMock(Language::class);
-                $revisionRenderer = $this->createMock(RevisionRenderer::class);
-                $readOnlyMode = $this->createMock(ReadOnlyMode::class);
+    /**
+     * Create ModerationAction using $setupMocks() callback, which receives all mocked dependencies.
+     * @param string $class Name of the ModerationAction subclass.
+     * @param callable|null $setupMocks Callback that can configure MockObject dependencies.
+     * @return ModerationAction
+     *
+     * @phan-param class-string $class
+     */
+    private function makeActionForTesting($class, callable $setupMocks = null)
+    {
+        $context = new RequestContext();
+        $entryFactory = $this->createMock(EntryFactory::class);
+        $manager = $this->createMock(IConsequenceManager::class);
+        $canSkip = $this->createMock(ModerationCanSkip::class);
+        $editFormOptions = $this->createMock(EditFormOptions::class);
+        $actionLinkRenderer = $this->createMock(ActionLinkRenderer::class);
+        $repoGroup = $this->createMock(RepoGroup::class);
+        $contentLanguage = $this->createMock(Language::class);
+        $revisionRenderer = $this->createMock(RevisionRenderer::class);
+        $readOnlyMode = $this->createMock(ReadOnlyMode::class);
 
-                $arguments = [
-                        $context,
-                        $entryFactory,
-                        $manager,
-                        $canSkip,
-                        $editFormOptions,
-                        $actionLinkRenderer,
-                        $repoGroup,
-                        $contentLanguage,
-                        $revisionRenderer,
-                        $readOnlyMode,
-                ];
+        $arguments = [
+            $context,
+            $entryFactory,
+            $manager,
+            $canSkip,
+            $editFormOptions,
+            $actionLinkRenderer,
+            $repoGroup,
+            $contentLanguage,
+            $revisionRenderer,
+            $readOnlyMode,
+        ];
 
-                $context->setLanguage("qqx");
+        $context->setLanguage("qqx");
 
-                if ($setupMocks) {
-                        $setupMocks(...$arguments);
-                } else {
-                        // Since we are not configuring a mock of ConsequenceManager,
-                        // it means that we expect no consequences to be added.
-                        $manager->expects($this->never())->method("add");
-                }
-
-                return new $class(...$arguments);
+        if ($setupMocks) {
+            $setupMocks(...$arguments);
+        } else {
+            // Since we are not configuring a mock of ConsequenceManager,
+            // it means that we expect no consequences to be added.
+            $manager->expects($this->never())->method("add");
         }
 
-        // These methods are in MediaWikiIntegrationTestCase (this trait is used by its subclasses).
+        return new $class(...$arguments);
+    }
 
-        /** @inheritDoc */
-        abstract protected function createMock(string $originalClassName);
+    // These methods are in MediaWikiIntegrationTestCase (this trait is used by its subclasses).
+
+    /** @inheritDoc */
+    abstract protected function createMock(string $originalClassName);
 }

@@ -31,65 +31,65 @@ require_once __DIR__ . "/autoload.php";
  */
 class ModifyPendingChangeConsequenceTest extends ModerationUnitTestCase
 {
-        use ModifyDbRowTestTrait;
+    use ModifyDbRowTestTrait;
 
-        /**
-         * Verify that ModifyPendingChangeConsequence changes mod_text, mod_comment and mod_new_len.
-         * @covers MediaWiki\Moderation\ModifyPendingChangeConsequence
-         */
-        public function testModify()
-        {
-                $modid = $this->makeDbRow();
-                $newText = "Modified text";
-                $newComment = "Another edit comment";
-                $newLen = strlen($newText);
+    /**
+     * Verify that ModifyPendingChangeConsequence changes mod_text, mod_comment and mod_new_len.
+     * @covers MediaWiki\Moderation\ModifyPendingChangeConsequence
+     */
+    public function testModify()
+    {
+        $modid = $this->makeDbRow();
+        $newText = "Modified text";
+        $newComment = "Another edit comment";
+        $newLen = strlen($newText);
 
-                // Create and run the Consequence.
-                $consequence = new ModifyPendingChangeConsequence(
-                        $modid,
-                        $newText,
-                        $newComment,
-                        $newLen,
-                );
-                $consequence->run();
+        // Create and run the Consequence.
+        $consequence = new ModifyPendingChangeConsequence(
+            $modid,
+            $newText,
+            $newComment,
+            $newLen,
+        );
+        $consequence->run();
 
-                // Check the state of the database.
-                $this->assertSelect(
-                        "moderation",
-                        ["mod_text", "mod_comment", "mod_new_len"],
-                        ["mod_id" => $modid],
-                        [[$newText, $newComment, $newLen]],
-                );
-        }
+        // Check the state of the database.
+        $this->assertSelect(
+            "moderation",
+            ["mod_text", "mod_comment", "mod_new_len"],
+            ["mod_id" => $modid],
+            [[$newText, $newComment, $newLen]],
+        );
+    }
 
-        /**
-         * Verify that ModifyPendingChangeConsequence truncates long mod_comment to fit the database field.
-         * @covers MediaWiki\Moderation\ModifyPendingChangeConsequence
-         */
-        public function testTruncateLongSummary()
-        {
-                $modid = $this->makeDbRow();
-                $newText = "Modified text";
-                $newLen = strlen($newText);
+    /**
+     * Verify that ModifyPendingChangeConsequence truncates long mod_comment to fit the database field.
+     * @covers MediaWiki\Moderation\ModifyPendingChangeConsequence
+     */
+    public function testTruncateLongSummary()
+    {
+        $modid = $this->makeDbRow();
+        $newText = "Modified text";
+        $newLen = strlen($newText);
 
-                $submittedComment = str_repeat("length 16 string", 100);
-                $expectedComment = mb_strcut($submittedComment, 0, 250);
+        $submittedComment = str_repeat("length 16 string", 100);
+        $expectedComment = mb_strcut($submittedComment, 0, 250);
 
-                // Create and run the Consequence.
-                $consequence = new ModifyPendingChangeConsequence(
-                        $modid,
-                        $newText,
-                        $submittedComment,
-                        $newLen,
-                );
-                $consequence->run();
+        // Create and run the Consequence.
+        $consequence = new ModifyPendingChangeConsequence(
+            $modid,
+            $newText,
+            $submittedComment,
+            $newLen,
+        );
+        $consequence->run();
 
-                // Check the state of the database.
-                $this->assertSelect(
-                        "moderation",
-                        ["mod_text", "mod_comment", "mod_new_len"],
-                        ["mod_id" => $modid],
-                        [[$newText, $expectedComment, $newLen]],
-                );
-        }
+        // Check the state of the database.
+        $this->assertSelect(
+            "moderation",
+            ["mod_text", "mod_comment", "mod_new_len"],
+            ["mod_id" => $modid],
+            [[$newText, $expectedComment, $newLen]],
+        );
+    }
 }

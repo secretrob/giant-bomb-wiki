@@ -30,68 +30,63 @@ use User;
 
 class ApproveUploadConsequence implements IConsequence
 {
-        /** @var string */
-        protected $stashKey;
+    /** @var string */
+    protected $stashKey;
 
-        /** @var Title */
-        protected $title;
+    /** @var Title */
+    protected $title;
 
-        /** @var User */
-        protected $user;
+    /** @var User */
+    protected $user;
 
-        /** @var string */
-        protected $comment;
+    /** @var string */
+    protected $comment;
 
-        /** @var string */
-        protected $pageText;
+    /** @var string */
+    protected $pageText;
 
-        /**
-         * @param string $stashKey
-         * @param Title $title
-         * @param User $user
-         * @param string $comment
-         * @param string $pageText
-         */
-        public function __construct(
-                $stashKey,
-                Title $title,
-                User $user,
-                $comment,
-                $pageText,
-        ) {
-                $this->stashKey = $stashKey;
-                $this->title = $title;
-                $this->user = $user;
-                $this->comment = $comment;
-                $this->pageText = $pageText;
+    /**
+     * @param string $stashKey
+     * @param Title $title
+     * @param User $user
+     * @param string $comment
+     * @param string $pageText
+     */
+    public function __construct(
+        $stashKey,
+        Title $title,
+        User $user,
+        $comment,
+        $pageText,
+    ) {
+        $this->stashKey = $stashKey;
+        $this->title = $title;
+        $this->user = $user;
+        $this->comment = $comment;
+        $this->pageText = $pageText;
+    }
+
+    /**
+     * Execute the consequence.
+     * @return Status
+     */
+    public function run()
+    {
+        # This is the upload from stash.
+        $stash = ModerationUploadStorage::getStash();
+        $upload = new UploadFromStash($this->user, $stash);
+
+        try {
+            $upload->initialize($this->stashKey, $this->title->getText());
+        } catch (UploadStashFileNotFoundException $_) {
+            return Status::newFatal("moderation-missing-stashed-image");
         }
 
-        /**
-         * Execute the consequence.
-         * @return Status
-         */
-        public function run()
-        {
-                # This is the upload from stash.
-                $stash = ModerationUploadStorage::getStash();
-                $upload = new UploadFromStash($this->user, $stash);
-
-                try {
-                        $upload->initialize(
-                                $this->stashKey,
-                                $this->title->getText(),
-                        );
-                } catch (UploadStashFileNotFoundException $_) {
-                        return Status::newFatal(
-                                "moderation-missing-stashed-image",
-                        );
-                }
-
-                return $upload->performUpload(
-                        $this->comment,
-                        $this->pageText,
-                        false,
-                        $this->user,
-                );
-        }
+        return $upload->performUpload(
+            $this->comment,
+            $this->pageText,
+            false,
+            $this->user,
+        );
+    }
 }

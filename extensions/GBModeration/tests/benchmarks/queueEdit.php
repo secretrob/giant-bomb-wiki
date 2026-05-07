@@ -31,23 +31,22 @@ require_once __DIR__ . "/ModerationBenchmark.php";
 
 class BenchmarkQueueEdit extends ModerationBenchmark
 {
-        /**
-         * @param int $i
-         */
-        public function doActualWork($i)
-        {
-                $status = $this->edit(
-                        $this->getTestTitle("Test page " . $i),
-                        "Test content " . $i,
-                        "Test summary " . $i,
-                );
+    /**
+     * @param int $i
+     */
+    public function doActualWork($i)
+    {
+        $status = $this->edit(
+            $this->getTestTitle("Test page " . $i),
+            "Test content " . $i,
+            "Test summary " . $i,
+        );
 
-                Assert::postcondition(
-                        $status->getMessage()->getKey() ==
-                                "moderation-edit-queued",
-                        "Edit not queued",
-                );
-        }
+        Assert::postcondition(
+            $status->getMessage()->getKey() == "moderation-edit-queued",
+            "Edit not queued",
+        );
+    }
 }
 
 $maintClass = BenchmarkQueueEdit::class;

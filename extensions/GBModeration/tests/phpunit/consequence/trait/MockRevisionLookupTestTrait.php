@@ -35,46 +35,41 @@ use TextContent;
  */
 trait MockRevisionLookupTestTrait
 {
-        /**
-         * Return mock of RevisionLookup that will return $text as current text of revision $revid.
-         * @param int $revid
-         * @param string|null $text If null, RevisionRecord won't be found.
-         * @param Title $title
-         * @return RevisionLookup
-         */
-        public function mockRevisionLookup($revid, $text, Title $title)
-        {
-                $revisionLookup = $this->createMock(RevisionLookup::class);
-                $revisionLookup
-                        ->expects($this->any())
-                        ->method("getRevisionById")
-                        ->with($this->identicalTo($revid))
-                        ->will(
-                                $this->returnCallback(static function (
-                                        $id,
-                                        $flags,
-                                ) use ($text, $title) {
-                                        if ($text === null) {
-                                                // Similate situation when RevisionRecord wasn't not found.
-                                                return null;
-                                        }
+    /**
+     * Return mock of RevisionLookup that will return $text as current text of revision $revid.
+     * @param int $revid
+     * @param string|null $text If null, RevisionRecord won't be found.
+     * @param Title $title
+     * @return RevisionLookup
+     */
+    public function mockRevisionLookup($revid, $text, Title $title)
+    {
+        $revisionLookup = $this->createMock(RevisionLookup::class);
+        $revisionLookup
+            ->expects($this->any())
+            ->method("getRevisionById")
+            ->with($this->identicalTo($revid))
+            ->will(
+                $this->returnCallback(static function ($id, $flags) use (
+                    $text,
+                    $title,
+                ) {
+                    if ($text === null) {
+                        // Similate situation when RevisionRecord wasn't not found.
+                        return null;
+                    }
 
-                                        $rec = new MutableRevisionRecord(
-                                                $title,
-                                        );
-                                        $rec->setContent(
-                                                SlotRecord::MAIN,
-                                                new TextContent($text),
-                                        );
-                                        return $rec;
-                                }),
-                        );
+                    $rec = new MutableRevisionRecord($title);
+                    $rec->setContent(SlotRecord::MAIN, new TextContent($text));
+                    return $rec;
+                }),
+            );
 
-                return $revisionLookup;
-        }
+        return $revisionLookup;
+    }
 
-        // These methods are in MediaWikiIntegrationTestCase (this trait is used by its subclasses).
+    // These methods are in MediaWikiIntegrationTestCase (this trait is used by its subclasses).
 
-        /** @inheritDoc */
-        abstract protected function createMock(string $originalClassName);
+    /** @inheritDoc */
+    abstract protected function createMock(string $originalClassName);
 }

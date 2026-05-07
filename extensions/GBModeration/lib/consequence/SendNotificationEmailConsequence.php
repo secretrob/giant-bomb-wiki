@@ -31,67 +31,62 @@ use User;
 
 class SendNotificationEmailConsequence implements IConsequence
 {
-        /** @var Title */
-        protected $title;
+    /** @var Title */
+    protected $title;
 
-        /** @var User */
-        protected $user;
+    /** @var User */
+    protected $user;
 
-        /** @var int */
-        protected $modid;
+    /** @var int */
+    protected $modid;
 
-        /**
-         * @param Title $title
-         * @param User $user
-         * @param int $modid
-         */
-        public function __construct(Title $title, User $user, $modid)
-        {
-                $this->title = $title;
-                $this->user = $user;
-                $this->modid = $modid;
-        }
+    /**
+     * @param Title $title
+     * @param User $user
+     * @param int $modid
+     */
+    public function __construct(Title $title, User $user, $modid)
+    {
+        $this->title = $title;
+        $this->user = $user;
+        $this->modid = $modid;
+    }
 
-        /**
-         * Execute the consequence.
-         */
-        public function run()
-        {
-                /* Sending may be slow, defer it
-                 until the user receives HTTP response */
-                DeferredUpdates::addCallableUpdate([
-                        $this,
-                        "sendNotificationEmailNow",
-                ]);
-        }
+    /**
+     * Execute the consequence.
+     */
+    public function run()
+    {
+        /* Sending may be slow, defer it
+         until the user receives HTTP response */
+        DeferredUpdates::addCallableUpdate([$this, "sendNotificationEmailNow"]);
+    }
 
-        /**
-         * Deliver the deferred letter from run().
-         */
-        public function sendNotificationEmailNow()
-        {
-                global $wgModerationEmail, $wgPasswordSender;
+    /**
+     * Deliver the deferred letter from run().
+     */
+    public function sendNotificationEmailNow()
+    {
+        global $wgModerationEmail, $wgPasswordSender;
 
-                $emailer = MediaWikiServices::getInstance()->getEmailer();
-                $to = new MailAddress($wgModerationEmail);
-                $from = new MailAddress($wgPasswordSender);
-                $subject = wfMessage("moderation-notification-subject")
-                        ->inContentLanguage()
-                        ->text();
-                $content = wfMessage(
-                        "moderation-notification-content",
-                        $this->title->getPrefixedText(),
-                        $this->user->getName(),
-                        SpecialPage::getTitleFor("Moderation")->getCanonicalURL(
-                                [
-                                        "modaction" => "show",
-                                        "modid" => $this->modid,
-                                ],
-                        ),
-                )
-                        ->inContentLanguage()
-                        ->text();
+        $emailer = MediaWikiServices::getInstance()->getEmailer();
+        $to = new MailAddress($wgModerationEmail);
+        $from = new MailAddress($wgPasswordSender);
+        $subject = wfMessage("moderation-notification-subject")
+            ->inContentLanguage()
+            ->text();
+        $content = wfMessage(
+            "moderation-notification-content",
+            $this->title->getPrefixedText(),
+            $this->user->getName(),
+            SpecialPage::getTitleFor("Moderation")->getCanonicalURL([
+                "modaction" => "show",
+                "modid" => $this->modid,
+            ]),
+        )
+            ->inContentLanguage()
+            ->text();
 
-                $emailer->send([$to], $from, $subject, $content);
-        }
+        $emailer->send([$to], $from, $subject, $content);
+    }
 }

@@ -29,23 +29,21 @@ require_once __DIR__ . "/autoload.php";
 
 class InvalidatePendingTimeCacheConsequenceTest extends ModerationUnitTestCase
 {
-        /**
-         * Verify that InvalidatePendingTimeCacheConsequence invalidates the cache
-         * used by ModerationNotifyModerator::getPendingTime().
-         * @covers MediaWiki\Moderation\InvalidatePendingTimeCacheConsequence
-         * @covers MediaWiki\Moderation\ModerationNotifyModerator
-         */
-        public function testPendingTimeCacheInvalidated()
-        {
-                $notify = $this->createMock(ModerationNotifyModerator::class);
-                $notify->expects($this->once())->method(
-                        "invalidatePendingTime",
-                );
+    /**
+     * Verify that InvalidatePendingTimeCacheConsequence invalidates the cache
+     * used by ModerationNotifyModerator::getPendingTime().
+     * @covers MediaWiki\Moderation\InvalidatePendingTimeCacheConsequence
+     * @covers MediaWiki\Moderation\ModerationNotifyModerator
+     */
+    public function testPendingTimeCacheInvalidated()
+    {
+        $notify = $this->createMock(ModerationNotifyModerator::class);
+        $notify->expects($this->once())->method("invalidatePendingTime");
 
-                $this->setService("Moderation.NotifyModerator", $notify);
+        $this->setService("Moderation.NotifyModerator", $notify);
 
-                // Create and run the Consequence.
-                $consequence = new InvalidatePendingTimeCacheConsequence();
-                $consequence->run();
-        }
+        // Create and run the Consequence.
+        $consequence = new InvalidatePendingTimeCacheConsequence();
+        $consequence->run();
+    }
 }

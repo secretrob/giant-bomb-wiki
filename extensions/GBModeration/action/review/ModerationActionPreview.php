@@ -27,53 +27,50 @@ use OutputPage;
 
 class ModerationActionPreview extends ModerationAction
 {
-        public function requiresEditToken()
-        {
-                return false;
-        }
+    public function requiresEditToken()
+    {
+        return false;
+    }
 
-        public function requiresWrite()
-        {
-                return false;
-        }
+    public function requiresWrite()
+    {
+        return false;
+    }
 
-        /**
-         * @inheritDoc
-         */
-        public function outputResult(array $result, OutputPage $out)
-        {
-                $out->setPageTitle(
-                        $this->msg(
-                                "moderation-preview-title",
-                                $result["title"],
-                        )->escaped(),
-                );
-                $out->addHTML($result["html"]);
-                $out->addCategoryLinks($result["categories"]);
-        }
+    /**
+     * @inheritDoc
+     */
+    public function outputResult(array $result, OutputPage $out)
+    {
+        $out->setPageTitle(
+            $this->msg("moderation-preview-title", $result["title"])->escaped(),
+        );
+        $out->addHTML($result["html"]);
+        $out->addCategoryLinks($result["categories"]);
+    }
 
-        public function execute()
-        {
-                $entry = $this->entryFactory->findViewableEntry($this->id);
-                $title = $entry->getTitle();
+    public function execute()
+    {
+        $entry = $this->entryFactory->findViewableEntry($this->id);
+        $title = $entry->getTitle();
 
-                $renderedRevision = $this->revisionRenderer->getRenderedRevision(
-                        $entry->getPendingRevision(),
-                );
-                $pout = $renderedRevision->getRevisionParserOutput();
+        $renderedRevision = $this->revisionRenderer->getRenderedRevision(
+            $entry->getPendingRevision(),
+        );
+        $pout = $renderedRevision->getRevisionParserOutput();
 
-                // Remove edit section links.
-                $pipeline = MediaWikiServices::getInstance()->getDefaultOutputPipeline();
-                $pout = $pipeline->run($pout, null, [
-                        "enableSectionEditLinks" => false,
-                ]);
+        // Remove edit section links.
+        $pipeline = MediaWikiServices::getInstance()->getDefaultOutputPipeline();
+        $pout = $pipeline->run($pout, null, [
+            "enableSectionEditLinks" => false,
+        ]);
 
-                return [
-                        "title" => $title->getPrefixedText(),
-                        "html" => $pout->getRawText(),
-                        "categories" => ModerationCompatTools::getParserOutputCategories(
-                                $pout,
-                        ),
-                ];
-        }
+        return [
+            "title" => $title->getPrefixedText(),
+            "html" => $pout->getRawText(),
+            "categories" => ModerationCompatTools::getParserOutputCategories(
+                $pout,
+            ),
+        ];
+    }
 }

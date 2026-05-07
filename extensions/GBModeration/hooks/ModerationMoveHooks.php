@@ -29,77 +29,64 @@ use User;
 
 class ModerationMoveHooks implements TitleMoveHook
 {
-        /** @var IConsequenceManager */
-        protected $consequenceManager;
+    /** @var IConsequenceManager */
+    protected $consequenceManager;
 
-        /** @var ModerationCanSkip */
-        protected $canSkip;
+    /** @var ModerationCanSkip */
+    protected $canSkip;
 
-        /** @var EditFormOptions */
-        protected $editFormOptions;
+    /** @var EditFormOptions */
+    protected $editFormOptions;
 
-        /**
-         * @param IConsequenceManager $consequenceManager
-         * @param ModerationCanSkip $canSkip
-         * @param EditFormOptions $editFormOptions
-         */
-        public function __construct(
-                IConsequenceManager $consequenceManager,
-                ModerationCanSkip $canSkip,
-                EditFormOptions $editFormOptions,
-        ) {
-                $this->consequenceManager = $consequenceManager;
-                $this->canSkip = $canSkip;
-                $this->editFormOptions = $editFormOptions;
-        }
+    /**
+     * @param IConsequenceManager $consequenceManager
+     * @param ModerationCanSkip $canSkip
+     * @param EditFormOptions $editFormOptions
+     */
+    public function __construct(
+        IConsequenceManager $consequenceManager,
+        ModerationCanSkip $canSkip,
+        EditFormOptions $editFormOptions,
+    ) {
+        $this->consequenceManager = $consequenceManager;
+        $this->canSkip = $canSkip;
+        $this->editFormOptions = $editFormOptions;
+    }
 
-        /**
-         * Intercept attempts to rename pages and queue them for moderation.
-         * @param Title $oldTitle
-         * @param Title $newTitle
-         * @param User $user
-         * @param string $reason
-         * @param Status &$status
-         * @return bool|void
-         */
-        public function onTitleMove(
-                $oldTitle,
-                $newTitle,
+    /**
+     * Intercept attempts to rename pages and queue them for moderation.
+     * @param Title $oldTitle
+     * @param Title $newTitle
+     * @param User $user
+     * @param string $reason
+     * @param Status &$status
+     * @return bool|void
+     */
+    public function onTitleMove($oldTitle, $newTitle, $user, $reason, &$status)
+    {
+        if (
+            $this->canSkip->canMoveSkip(
                 $user,
-                $reason,
-                &$status,
+                $oldTitle->getNamespace(),
+                $newTitle->getNamespace(),
+            )
         ) {
-                if (
-                        $this->canSkip->canMoveSkip(
-                                $user,
-                                $oldTitle->getNamespace(),
-                                $newTitle->getNamespace(),
-                        )
-                ) {
-                        // This user is allowed to bypass moderation
-                        return;
-                }
-
-                $this->consequenceManager->add(
-                        new QueueMoveConsequence(
-                                $oldTitle,
-                                $newTitle,
-                                $user,
-                                $reason,
-                        ),
-                );
-
-                /* Watch/Unwatch $oldTitle/$newTitle immediately:
-                 watchlist is the user's own business, no reason to wait for approval of the move */
-                $this->editFormOptions->watchIfNeeded($user, [
-                        $oldTitle,
-                        $newTitle,
-                ]);
-
-                $errorMsg = "moderation-move-queued";
-                ModerationQueuedSuccessException::throwIfNeeded($errorMsg);
-
-                $status->fatal($errorMsg);
-                return false;
+            // This user is allowed to bypass moderation
+            return;
         }
+
+        $this->consequenceManager->add(
+            new QueueMoveConsequence($oldTitle, $newTitle, $user, $reason),
+        );
+
+        /* Watch/Unwatch $oldTitle/$newTitle immediately:
+         watchlist is the user's own business, no reason to wait for approval of the move */
+        $this->editFormOptions->watchIfNeeded($user, [$oldTitle, $newTitle]);
+
+        $errorMsg = "moderation-move-queued";
+        ModerationQueuedSuccessException::throwIfNeeded($errorMsg);
+
+        $status->fatal($errorMsg);
+        return false;
+    }
 }

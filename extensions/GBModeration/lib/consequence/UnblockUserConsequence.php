@@ -24,30 +24,30 @@ namespace MediaWiki\Moderation;
 
 class UnblockUserConsequence implements IConsequence
 {
-        /** @var string */
-        protected $username;
+    /** @var string */
+    protected $username;
 
-        /**
-         * @param string $username
-         */
-        public function __construct($username)
-        {
-                $this->username = $username;
-        }
+    /**
+     * @param string $username
+     */
+    public function __construct($username)
+    {
+        $this->username = $username;
+    }
 
-        /**
-         * Execute the consequence.
-         * @return bool True if existing block was removed, false otherwise.
-         */
-        public function run()
-        {
-                $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
-                $dbw->delete(
-                        "moderation_block",
-                        ["mb_address" => $this->username],
-                        __METHOD__,
-                );
+    /**
+     * Execute the consequence.
+     * @return bool True if existing block was removed, false otherwise.
+     */
+    public function run()
+    {
+        $dbw = ModerationCompatTools::getDB(DB_PRIMARY);
+        $dbw->delete(
+            "moderation_block",
+            ["mb_address" => $this->username],
+            __METHOD__,
+        );
 
-                return $dbw->affectedRows() > 0;
-        }
+        return $dbw->affectedRows() > 0;
+    }
 }

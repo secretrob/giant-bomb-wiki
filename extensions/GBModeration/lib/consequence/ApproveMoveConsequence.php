@@ -29,58 +29,58 @@ use User;
 
 class ApproveMoveConsequence implements IConsequence
 {
-        /** @var User */
-        protected $moderator;
+    /** @var User */
+    protected $moderator;
 
-        /** @var Title */
-        protected $oldTitle;
+    /** @var Title */
+    protected $oldTitle;
 
-        /** @var Title */
-        protected $newTitle;
+    /** @var Title */
+    protected $newTitle;
 
-        /** @var User */
-        protected $user;
+    /** @var User */
+    protected $user;
 
-        /** @var string */
-        protected $reason;
+    /** @var string */
+    protected $reason;
 
-        /**
-         * @param User $moderator
-         * @param Title $oldTitle
-         * @param Title $newTitle
-         * @param User $user
-         * @param string $reason
-         */
-        public function __construct(
-                User $moderator,
-                Title $oldTitle,
-                Title $newTitle,
-                User $user,
-                $reason,
-        ) {
-                $this->moderator = $moderator;
-                $this->oldTitle = $oldTitle;
-                $this->newTitle = $newTitle;
-                $this->user = $user;
-                $this->reason = $reason;
+    /**
+     * @param User $moderator
+     * @param Title $oldTitle
+     * @param Title $newTitle
+     * @param User $user
+     * @param string $reason
+     */
+    public function __construct(
+        User $moderator,
+        Title $oldTitle,
+        Title $newTitle,
+        User $user,
+        $reason,
+    ) {
+        $this->moderator = $moderator;
+        $this->oldTitle = $oldTitle;
+        $this->newTitle = $newTitle;
+        $this->user = $user;
+        $this->reason = $reason;
+    }
+
+    /**
+     * Execute the consequence.
+     * @return Status
+     */
+    public function run()
+    {
+        $factory = MediaWikiServices::getInstance()->getMovePageFactory();
+        $mp = $factory->newMovePage($this->oldTitle, $this->newTitle);
+
+        /* Sanity checks like "page with the new name should not exist" */
+        $status = $mp->isValidMove();
+        if (!$status->isOK()) {
+            return $status;
         }
 
-        /**
-         * Execute the consequence.
-         * @return Status
-         */
-        public function run()
-        {
-                $factory = MediaWikiServices::getInstance()->getMovePageFactory();
-                $mp = $factory->newMovePage($this->oldTitle, $this->newTitle);
-
-                /* Sanity checks like "page with the new name should not exist" */
-                $status = $mp->isValidMove();
-                if (!$status->isOK()) {
-                        return $status;
-                }
-
-                /* There is no need to call $mp->authorizeMove( $this->getUser(), $reason ),
+        /* There is no need to call $mp->authorizeMove( $this->getUser(), $reason ),
 			because (1) it was already checked BEFORE the move was queued,
 			(2) this move is now being approved by moderator, so it doesn't matter
 			whether $user has lost its right to move (e.g. got blocked) or not.
@@ -90,19 +90,16 @@ class ApproveMoveConsequence implements IConsequence
 			and they don't necessarily want to give them "move" right,
 			because "move" right can be used for hard-to-revert vandalism.
 		*/
-                $permissionStatus = $mp->authorizeMove(
-                        $this->moderator,
-                        $this->reason,
-                );
-                if (!$permissionStatus->isOK()) {
-                        /* Moderator is not allowed to move */
-                        return Status::wrap($permissionStatus);
-                }
-
-                return $mp->move(
-                        $this->user /* User who suggested the move */,
-                        $this->reason,
-                        true /* Always create redirect. This may be changed in the future */,
-                );
+        $permissionStatus = $mp->authorizeMove($this->moderator, $this->reason);
+        if (!$permissionStatus->isOK()) {
+            /* Moderator is not allowed to move */
+            return Status::wrap($permissionStatus);
         }
+
+        return $mp->move(
+            $this->user /* User who suggested the move */,
+            $this->reason,
+            true /* Always create redirect. This may be changed in the future */,
+        );
+    }
 }

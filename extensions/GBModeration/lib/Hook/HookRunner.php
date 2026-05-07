@@ -31,73 +31,70 @@ use User;
 use WikiPage;
 
 class HookRunner implements
-        ModerationContinueEditingLinkHook,
-        ModerationInterceptHook,
-        ModerationPendingHook
+    ModerationContinueEditingLinkHook,
+    ModerationInterceptHook,
+    ModerationPendingHook
 {
-        /** @var HookContainer */
-        protected $container;
+    /** @var HookContainer */
+    protected $container;
 
-        /**
-         * @param HookContainer $container
-         */
-        public function __construct(HookContainer $container)
-        {
-                $this->container = $container;
-        }
+    /**
+     * @param HookContainer $container
+     */
+    public function __construct(HookContainer $container)
+    {
+        $this->container = $container;
+    }
 
-        /**
-         * @inheritDoc
-         */
-        public function onModerationContinueEditingLink(
-                string &$returnto,
-                array &$returntoquery,
-                LinkTarget $title,
-                IContextSource $context,
-        ) {
-                $this->container->run("ModerationContinueEditingLink", [
-                        &$returnto,
-                        &$returntoquery,
-                        $title,
-                        $context,
-                ]);
-        }
+    /**
+     * @inheritDoc
+     */
+    public function onModerationContinueEditingLink(
+        string &$returnto,
+        array &$returntoquery,
+        LinkTarget $title,
+        IContextSource $context,
+    ) {
+        $this->container->run("ModerationContinueEditingLink", [
+            &$returnto,
+            &$returntoquery,
+            $title,
+            $context,
+        ]);
+    }
 
-        /**
-         * @inheritDoc
-         */
-        public function onModerationIntercept(
-                WikiPage $page,
-                User $user,
-                Content $content,
-                string $summary,
-                $is_minor,
-                $is_watch,
-                $section,
-                $flags,
-                Status $status,
-        ) {
-                return $this->container->run("ModerationIntercept", [
-                        $page,
-                        $user,
-                        $content,
-                        $summary,
-                        $is_minor,
-                        $is_watch,
-                        $section,
-                        $flags,
-                        $status,
-                ]);
-        }
+    /**
+     * @inheritDoc
+     */
+    public function onModerationIntercept(
+        WikiPage $page,
+        User $user,
+        Content $content,
+        string $summary,
+        $is_minor,
+        $is_watch,
+        $section,
+        $flags,
+        Status $status,
+    ) {
+        return $this->container->run("ModerationIntercept", [
+            $page,
+            $user,
+            $content,
+            $summary,
+            $is_minor,
+            $is_watch,
+            $section,
+            $flags,
+            $status,
+        ]);
+    }
 
-        /**
-         * @inheritDoc
-         */
-        public function onModerationPending(array $fields, $modid)
-        {
-                return $this->container->run("ModerationPending", [
-                        $fields,
-                        $modid,
-                ]);
-        }
+    /**
+     * @inheritDoc
+     */
+    public function onModerationPending(array $fields, $modid)
+    {
+        return $this->container->run("ModerationPending", [$fields, $modid]);
+    }
 }

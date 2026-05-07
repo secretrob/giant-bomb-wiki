@@ -42,62 +42,44 @@ require_once __DIR__ . "/autoload.php";
 
 class ServiceWiringTest extends ModerationUnitTestCase
 {
-        /**
-         * Ensure that all Moderation services are instantiated without errors.
-         * @dataProvider dataProviderGetService
-         * @coversNothing Due to the current format of ServiceWiring.php (no classes). See T248172
-         */
-        public function testGetService($serviceName, $expectedClass)
-        {
-                $services = MediaWikiServices::getInstance();
-                $result = $services->getService($serviceName);
+    /**
+     * Ensure that all Moderation services are instantiated without errors.
+     * @dataProvider dataProviderGetService
+     * @coversNothing Due to the current format of ServiceWiring.php (no classes). See T248172
+     */
+    public function testGetService($serviceName, $expectedClass)
+    {
+        $services = MediaWikiServices::getInstance();
+        $result = $services->getService($serviceName);
 
-                // Technically there are strict return value typehints, but we can't trust tested code.
-                $this->assertInstanceOf($expectedClass, $result);
-        }
+        // Technically there are strict return value typehints, but we can't trust tested code.
+        $this->assertInstanceOf($expectedClass, $result);
+    }
 
-        /**
-         * Provide datasets for testGetService() runs.
-         * @return array
-         */
-        public function dataProviderGetService()
-        {
-                return [
-                        ["Moderation.ActionFactory", ActionFactory::class],
-                        [
-                                "Moderation.ActionLinkRenderer",
-                                ActionLinkRenderer::class,
-                        ],
-                        [
-                                "Moderation.ApproveHook",
-                                ModerationApproveHook::class,
-                        ],
-                        ["Moderation.CanSkip", ModerationCanSkip::class],
-                        [
-                                "Moderation.ConsequenceManager",
-                                ConsequenceManager::class,
-                        ],
-                        ["Moderation.EditFormOptions", EditFormOptions::class],
-                        ["Moderation.EntryFactory", EntryFactory::class],
-                        ["Moderation.HookRunner", HookRunner::class],
-                        [
-                                "Moderation.NewChangeFactory",
-                                NewChangeFactory::class,
-                        ],
-                        [
-                                "Moderation.NotifyModerator",
-                                ModerationNotifyModerator::class,
-                        ],
-                        ["Moderation.Preload", ModerationPreload::class],
-                        [
-                                "Moderation.RollbackResistantQuery",
-                                RollbackResistantQuery::class,
-                        ],
-                        ["Moderation.TimestampTools", TimestampTools::class],
-                        [
-                                "Moderation.VersionCheck",
-                                ModerationVersionCheck::class,
-                        ],
-                ];
-        }
+    /**
+     * Provide datasets for testGetService() runs.
+     * @return array
+     */
+    public function dataProviderGetService()
+    {
+        return [
+            ["Moderation.ActionFactory", ActionFactory::class],
+            ["Moderation.ActionLinkRenderer", ActionLinkRenderer::class],
+            ["Moderation.ApproveHook", ModerationApproveHook::class],
+            ["Moderation.CanSkip", ModerationCanSkip::class],
+            ["Moderation.ConsequenceManager", ConsequenceManager::class],
+            ["Moderation.EditFormOptions", EditFormOptions::class],
+            ["Moderation.EntryFactory", EntryFactory::class],
+            ["Moderation.HookRunner", HookRunner::class],
+            ["Moderation.NewChangeFactory", NewChangeFactory::class],
+            ["Moderation.NotifyModerator", ModerationNotifyModerator::class],
+            ["Moderation.Preload", ModerationPreload::class],
+            [
+                "Moderation.RollbackResistantQuery",
+                RollbackResistantQuery::class,
+            ],
+            ["Moderation.TimestampTools", TimestampTools::class],
+            ["Moderation.VersionCheck", ModerationVersionCheck::class],
+        ];
+    }
 }

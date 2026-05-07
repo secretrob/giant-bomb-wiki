@@ -32,48 +32,48 @@ require_once __DIR__ . "/autoload.php";
  */
 class TagRevisionAsMergedConsequenceTest extends ModerationUnitTestCase
 {
-        use MakeEditTestTrait;
+    use MakeEditTestTrait;
 
-        /**
-         * Verify that TagRevisionAsMergedConsequence adds a tag to selected revision.
-         * @covers MediaWiki\Moderation\TagRevisionAsMergedConsequence
-         */
-        public function testTagRevision()
-        {
-                $revid = $this->makeEdit(
-                        Title::newFromText("UTPage-" . rand(0, 100000)),
-                        self::getTestUser(["automoderated"])->getUser(),
-                );
+    /**
+     * Verify that TagRevisionAsMergedConsequence adds a tag to selected revision.
+     * @covers MediaWiki\Moderation\TagRevisionAsMergedConsequence
+     */
+    public function testTagRevision()
+    {
+        $revid = $this->makeEdit(
+            Title::newFromText("UTPage-" . rand(0, 100000)),
+            self::getTestUser(["automoderated"])->getUser(),
+        );
 
-                $hookFired = false;
+        $hookFired = false;
 
-                $this->setTemporaryHook("ChangeTagsAfterUpdateTags", function (
-                        $tagsToAdd,
-                        $tagsToRemove,
-                        $prevTags,
-                        $rc_id,
-                        $hookRevId,
-                        $log_id,
-                        $params,
-                        $rc,
-                        $user,
-                ) use (&$hookFired, $revid) {
-                        $hookFired = true;
+        $this->setTemporaryHook("ChangeTagsAfterUpdateTags", function (
+            $tagsToAdd,
+            $tagsToRemove,
+            $prevTags,
+            $rc_id,
+            $hookRevId,
+            $log_id,
+            $params,
+            $rc,
+            $user,
+        ) use (&$hookFired, $revid) {
+            $hookFired = true;
 
-                        $this->assertSame($revid, $hookRevId);
-                        $this->assertSame(["moderation-merged"], $tagsToAdd);
-                        $this->assertSame([], $tagsToRemove);
+            $this->assertSame($revid, $hookRevId);
+            $this->assertSame(["moderation-merged"], $tagsToAdd);
+            $this->assertSame([], $tagsToRemove);
 
-                        return true;
-                });
+            return true;
+        });
 
-                // Create and run the Consequence.
-                $consequence = new TagRevisionAsMergedConsequence($revid);
-                $consequence->run();
+        // Create and run the Consequence.
+        $consequence = new TagRevisionAsMergedConsequence($revid);
+        $consequence->run();
 
-                $this->assertTrue(
-                        $hookFired,
-                        "TagRevisionAsMergedConsequence didn't tag anything.",
-                );
-        }
+        $this->assertTrue(
+            $hookFired,
+            "TagRevisionAsMergedConsequence didn't tag anything.",
+        );
+    }
 }

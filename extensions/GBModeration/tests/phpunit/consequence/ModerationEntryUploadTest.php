@@ -34,64 +34,62 @@ require_once __DIR__ . "/autoload.php";
 
 class ModerationEntryUploadTest extends ModerationUnitTestCase
 {
-        /**
-         * Check result/consequences of ModerationEntryUpload::doApprove.
-         * @covers MediaWiki\Moderation\ModerationEntryUpload
-         */
-        public function testApprove()
-        {
-                $row = (object) [
-                        "stash_key" => "MockedStashKey.jpg",
-                        "comment" => "Upload comment",
-                        "text" => "Initial description",
-                ];
-                $title = $this->createMock(Title::class);
-                $authorUser = $this->createMock(User::class);
-                $status = $this->createMock(Status::class);
+    /**
+     * Check result/consequences of ModerationEntryUpload::doApprove.
+     * @covers MediaWiki\Moderation\ModerationEntryUpload
+     */
+    public function testApprove()
+    {
+        $row = (object) [
+            "stash_key" => "MockedStashKey.jpg",
+            "comment" => "Upload comment",
+            "text" => "Initial description",
+        ];
+        $title = $this->createMock(Title::class);
+        $authorUser = $this->createMock(User::class);
+        $status = $this->createMock(Status::class);
 
-                '@phan-var Title $title';
-                '@phan-var User $authorUser';
+        '@phan-var Title $title';
+        '@phan-var User $authorUser';
 
-                $manager = $this->createMock(IConsequenceManager::class);
-                $manager->expects($this->once())
-                        ->method("add")
-                        ->with(
-                                $this->consequenceEqualTo(
-                                        new ApproveUploadConsequence(
-                                                $row->stash_key,
-                                                $title,
-                                                $authorUser,
-                                                $row->comment,
-                                                $row->text,
-                                        ),
-                                ),
-                        )
-                        ->willReturn($status);
+        $manager = $this->createMock(IConsequenceManager::class);
+        $manager
+            ->expects($this->once())
+            ->method("add")
+            ->with(
+                $this->consequenceEqualTo(
+                    new ApproveUploadConsequence(
+                        $row->stash_key,
+                        $title,
+                        $authorUser,
+                        $row->comment,
+                        $row->text,
+                    ),
+                ),
+            )
+            ->willReturn($status);
 
-                $entry = $this->getMockBuilder(ModerationEntryUpload::class)
-                        ->disableOriginalConstructor()
-                        ->onlyMethods(["getRow", "getTitle", "getUser"])
-                        ->getMock();
+        $entry = $this->getMockBuilder(ModerationEntryUpload::class)
+            ->disableOriginalConstructor()
+            ->onlyMethods(["getRow", "getTitle", "getUser"])
+            ->getMock();
 
-                $entry->expects($this->once())
-                        ->method("getRow")
-                        ->willReturn($row);
-                $entry->expects($this->once())
-                        ->method("getUser")
-                        ->willReturn($authorUser);
-                $entry->expects($this->once())
-                        ->method("getTitle")
-                        ->willReturn($title);
+        $entry->expects($this->once())->method("getRow")->willReturn($row);
+        $entry
+            ->expects($this->once())
+            ->method("getUser")
+            ->willReturn($authorUser);
+        $entry->expects($this->once())->method("getTitle")->willReturn($title);
 
-                $wrapper = TestingAccessWrapper::newFromObject($entry);
-                $wrapper->consequenceManager = $manager;
+        $wrapper = TestingAccessWrapper::newFromObject($entry);
+        $wrapper->consequenceManager = $manager;
 
-                $result = $wrapper->doApprove($this->createMock(User::class));
+        $result = $wrapper->doApprove($this->createMock(User::class));
 
-                $this->assertSame(
-                        $status,
-                        $result,
-                        "Result of doApprove() doesn't match expected.",
-                );
-        }
+        $this->assertSame(
+            $status,
+            $result,
+            "Result of doApprove() doesn't match expected.",
+        );
+    }
 }
