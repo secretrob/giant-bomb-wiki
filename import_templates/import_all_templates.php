@@ -212,6 +212,7 @@ class ImportWikiTemplates extends Maintenance
             "Template:LandingPageQuery" => "$templateDir/Template_LandingPageQuery.wikitext",
 
             "Module:DateHelper" => "$moduleDir/Module_DateHelper.wikitext",
+            "Module:ImageUrl" => "$moduleDir/Module_ImageUrl.wikitext",
             "Template:DateDisplay" => "$templateDir/Template_DateDisplay.wikitext",
 
             //images page
