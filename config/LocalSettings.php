@@ -182,6 +182,8 @@ $wgObjectCaches['redis'] = [
 ];
 
 $wgMainCacheType = 'redis';
+# MainStash defaults to db-replicated -> objectcache REPLACE pileup on cloud sql
+$wgMainStash = 'redis';
 $wgMemCachedServers = [];
 $wgParserCacheType = 'redis';
 $wgParserCacheExpireTime = 86400 * 7;
@@ -225,9 +227,9 @@ if ($wikiEnv === "dev") {
 $wgUseETag = true;
 $wgInvalidateCacheOnLocalSettingsChange = true;
 
-# Jobs disabled on page views - run via cron/systemd instead
-# this can be set to 0.5 to run every other page, .25 every 4, etc. not set at all = 1 so on every page save
-$wgJobRunRate = 0.25;
+# prod drains jobs via docker/jobs-cron, not web workers (in-request job work
+# was OOMing the vm); dev has no cron so keep some on-request
+$wgJobRunRate = $wikiEnv === "prod" ? 0 : 0.25;
 
 # =============================================================================
 # UPLOADS & IMAGES

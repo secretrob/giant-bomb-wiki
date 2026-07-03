@@ -61,12 +61,20 @@ RUN cd /var/www/html \
 RUN sed -i "/'ACL'/d" /var/www/html/extensions/AWS/s3/AmazonS3FileBackend.php \
  && ! grep -q "'ACL'" /var/www/html/extensions/AWS/s3/AmazonS3FileBackend.php
 
+# smw 7.0 pins its query-cache stats to CACHE_DB -> every request rewrites one
+# hot objectcache row and convoys the db. route them to the main cache.
+RUN sed -i "s/getObjectCache( CACHE_DB )/getObjectCache( CACHE_ANYTHING )/" \
+      /var/www/html/extensions/SemanticMediaWiki/src/Services/ServicesFactory.php \
+ && ! grep -q "getObjectCache( CACHE_DB )" /var/www/html/extensions/SemanticMediaWiki/src/Services/ServicesFactory.php
+
 # GCS uses uniform bucket-level ACL, so re-uploads need ignorewarnings
 RUN sed -i 's/ignorewarnings: false/ignorewarnings: true/' /var/www/html/resources/src/mediawiki.Upload.js
 
+# web workers get 512M -- 4G x 150 workers was OOMing the 8G VM. maintenance
+# runs pass --memory-limit when they need more.
 RUN cp /usr/local/etc/php/php.ini-production /usr/local/etc/php/php.ini && \
     echo "session.gc_maxlifetime=86400" >> /usr/local/etc/php/php.ini && \
-    sed -i -e "s/^ *memory_limit.*/memory_limit = 4G/g" /usr/local/etc/php/php.ini && \
+    sed -i -e "s/^ *memory_limit.*/memory_limit = 512M/g" /usr/local/etc/php/php.ini && \
     echo "LimitRequestFieldSize 16384\nLimitRequestLine 16384" \
       > /etc/apache2/conf-enabled/request-limits.conf
 
@@ -110,6 +118,11 @@ COPY --chmod=755 scripts/wiki-admin.sh /usr/local/bin/wiki-admin
 COPY --chmod=644 docker/sitemap-cron /etc/cron.d/sitemap-cron
 RUN touch /var/log/mediawiki/sitemap-cron.log \
  && chown www-data:www-data /var/log/mediawiki/sitemap-cron.log
+
+# Bounded job-queue runner (see docker/jobs-cron; wgJobRunRate=0 in prod)
+COPY --chmod=644 docker/jobs-cron /etc/cron.d/jobs-cron
+RUN touch /var/log/mediawiki/jobs-cron.log \
+ && chown www-data:www-data /var/log/mediawiki/jobs-cron.log
 
 COPY entrypoint.sh /entrypoint.sh
 ENTRYPOINT ["/bin/sh", "/entrypoint.sh"]

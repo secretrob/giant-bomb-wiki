@@ -68,6 +68,12 @@ RUN cd /var/www/html \
 RUN sed -i "/'ACL'/d" /var/www/html/extensions/AWS/s3/AmazonS3FileBackend.php \
  && ! grep -q "'ACL'" /var/www/html/extensions/AWS/s3/AmazonS3FileBackend.php
 
+# smw 7.0 pins its query-cache stats to CACHE_DB -> every request rewrites one
+# hot objectcache row and convoys the db. route them to the main cache.
+RUN sed -i "s/getObjectCache( CACHE_DB )/getObjectCache( CACHE_ANYTHING )/" \
+      /var/www/html/extensions/SemanticMediaWiki/src/Services/ServicesFactory.php \
+ && ! grep -q "getObjectCache( CACHE_DB )" /var/www/html/extensions/SemanticMediaWiki/src/Services/ServicesFactory.php
+
 # GCS uses uniform bucket-level ACL, so re-uploads need ignorewarnings
 RUN sed -i 's/ignorewarnings: false/ignorewarnings: true/' /var/www/html/resources/src/mediawiki.Upload.js
 
