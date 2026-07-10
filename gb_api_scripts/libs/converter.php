@@ -267,6 +267,12 @@ class HtmlToMediaWikiConverter
                 "/<h{$level}.*?>(.*?)<\/h{$level}>/s",
                 function ($m) use ($marks) {
                     $inner = trim(preg_replace("/<br[^>]*>|\s+/", " ", $m[1]));
+                    // heading holding only <br>/whitespace slips past the
+                    // empty-heading regex -> a bare ==== line, which mw
+                    // renders as a heading of literal ='s. drop it instead
+                    if ($inner === "") {
+                        return "\n";
+                    }
                     return "\n{$marks}{$inner}{$marks}\n";
                 },
                 $description,
@@ -658,6 +664,13 @@ class HtmlToMediaWikiConverter
             ) {
                 // malformed legacy html nests lists directly inside lists
                 $mwList .= $this->convertList($child, $depth);
+            } elseif (
+                $child->nodeType === XML_ELEMENT_NODE &&
+                $child->tagName === "table"
+            ) {
+                // stray table inside a list -- convert it now, the list
+                // replacement removes it before the table pass would run
+                $mwList .= $this->convertTable($child) . "\n";
             } elseif ($child->nodeType === XML_ELEMENT_NODE) {
                 // stray non-li content (legacy wraps <p> in <ul>) -- dropping it ate whole blocks
                 $stray = trim($this->getInnerHtml($child));

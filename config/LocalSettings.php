@@ -203,8 +203,12 @@ if ($wikiEnv === "prod") {
     # edge-cache them. purge-on-edit is handled by GBCloudflarePurge (below),
     # NOT $wgCdnServers, so leave that unset. see the two required Cloudflare
     # cache rules in extensions/GBCloudflarePurge/README.md.
-    $wgUseCdn = true;
-    $wgCdnMaxAge = (int) (getenv("CDN_MAX_AGE") ?: 3600);
+    # gated on the purge credentials: edge-caching without purge-on-edit
+    # would leave edits invisible to anons until the ttl expires, silently.
+    if (getenv("CLOUDFLARE_ZONE_ID") && getenv("CLOUDFLARE_API_TOKEN")) {
+        $wgUseCdn = true;
+        $wgCdnMaxAge = (int) (getenv("CDN_MAX_AGE") ?: 3600);
+    }
 }
 
 $wgResourceLoaderMaxage = [
@@ -900,3 +904,20 @@ if ($wikiEnv === "dev") {
 wfLoadExtension("GBCloudflarePurge");
 $wgGBCloudflareZoneId = getenv("CLOUDFLARE_ZONE_ID") ?: "";
 $wgGBCloudflareApiToken = getenv("CLOUDFLARE_API_TOKEN") ?: "";
+
+# core relays every purged url (direct edits, template fan-out jobs, file +
+# thumbnail urls on reupload) through this channel -> send them to cloudflare
+$wgEventRelayerConfig["cdn-url-purges"] = [
+    "class" =>
+        \MediaWiki\Extension\GBCloudflarePurge\CloudflareEventRelayer::class,
+];
+
+# =============================================================================
+# GOOGLE ANALYTICS (GA4 via Extension:GTag -- gtag.js only, no tag manager)
+# =============================================================================
+
+$gaMeasurementId = getenv("GA_MEASUREMENT_ID");
+if ($gaMeasurementId) {
+    wfLoadExtension("GTag");
+    $wgGTagAnalyticsId = $gaMeasurementId;
+}

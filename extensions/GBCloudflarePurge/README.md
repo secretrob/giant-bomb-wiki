@@ -1,9 +1,15 @@
 # GBCloudflarePurge
 
-Purges the Cloudflare edge cache when wiki content changes (save, delete, move,
-undelete, `?action=purge`, file upload). Purge calls run post-send via
-DeferredUpdates so they never block the editor's request. The extension is a
-no-op when the Cloudflare credentials are unset, so it's safe to load in dev.
+Purges the Cloudflare edge cache when wiki content changes. Instead of hooking
+individual page events, `CloudflareEventRelayer` subscribes to core's
+`cdn-url-purges` relay channel (`$wgEventRelayerConfig` in LocalSettings), so
+it receives every URL MediaWiki itself decides to purge: direct edits, deletes,
+moves, undeletes, `?action=purge`, redirects, the HTMLCacheUpdateJob fan-out
+for pages transcluding an edited template/module, and file + thumbnail URLs on
+re-upload. Core batches and de-duplicates URLs (CdnCacheUpdate is a mergeable
+post-send deferred update), and the relayer chunks them 30 per API call.
+The extension is a no-op when the Cloudflare credentials are unset, so it's
+safe to load in dev.
 
 ## Configuration
 
@@ -55,11 +61,22 @@ hook sets the TTL on that path, so both layers emit `s-maxage` consistently.
 
 ## What is NOT purged
 
-Only the changed page (+ its `action=history` URL, and both titles on a move)
-is purged. Pages that *transclude* an edited template, or that render SMW
-`#ask` results affected by an edit, are not purged at the edge — they stay
-stale until `$wgCdnMaxAge` expires. That's why the TTL is a modest 1 hour
-rather than matching the 7-day parser cache.
+Pages whose rendering depends on SMW `#ask`/`mw.smw` query results affected by
+an edit to *another* page are not purged at the edge (SMW's dependency store
+invalidates the parser cache, but that invalidation does not flow through the
+CDN purge relay). They stay stale until `$wgCdnMaxAge` expires — the reason
+the TTL is a modest 1 hour rather than matching the 7-day parser cache.
+Template-transclusion fan-out IS covered (core's HTMLCacheUpdateJob relays
+those URLs), as are file/thumbnail URLs on re-upload.
+
+## Credential gating
+
+`$wgUseCdn` is only enabled in prod when `CLOUDFLARE_ZONE_ID` and
+`CLOUDFLARE_API_TOKEN` are both set — edge-caching without working purges
+would leave edits invisible to anons until TTL expiry with no error anywhere.
+If the token is ever revoked, rotate it in the environment rather than
+removing it; an invalid token logs `purge failed` to the GBCloudflarePurge
+debug channel.
 
 ## Verifying
 

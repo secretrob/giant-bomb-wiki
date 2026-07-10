@@ -39,9 +39,16 @@ end
 -- {{#invoke:CompanyGames|list|developed|limit=20|default=None}}
 function p.list(frame)
     local args = frame.args
-    local rows = fetch(args[1])
+    local fallback = '<li><em>' .. (args.default or 'None') .. '</em></li>'
+    -- positional #invoke args are not trimmed; a stray space in a template
+    -- edit would otherwise script-error every company page
+    local relation = mw.text.trim(args[1] or '')
+    if not PROPS[relation] then
+        return fallback
+    end
+    local rows = fetch(relation)
     if not rows or #rows == 0 then
-        return '<li><em>' .. (args.default or 'None') .. '</em></li>'
+        return fallback
     end
 
     local limit = math.min(tonumber(args.limit) or MAX, #rows)
