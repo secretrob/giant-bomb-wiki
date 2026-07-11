@@ -1,7 +1,5 @@
--- shared developed/published games queries for company pages.
--- CompanyEnd (limit 100) and CompanySidebar (limit 20) used to run the same
--- two store-wide reverse queries twice each; module state persists across
--- #invoke calls within a parse, so each relation is queried exactly once.
+-- developed/published games for company pages. module state persists across
+-- #invoke calls in a parse, so CompanyEnd + CompanySidebar share one query
 local p = {}
 
 local PROPS = {
@@ -40,8 +38,7 @@ end
 function p.list(frame)
     local args = frame.args
     local fallback = '<li><em>' .. (args.default or 'None') .. '</em></li>'
-    -- positional #invoke args are not trimmed; a stray space in a template
-    -- edit would otherwise script-error every company page
+    -- positional #invoke args arrive untrimmed
     local relation = mw.text.trim(args[1] or '')
     if not PROPS[relation] then
         return fallback

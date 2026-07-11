@@ -199,12 +199,9 @@ if ($wikiEnv === "prod") {
     $wgShowIPinHeader = false;
     $wgFileCacheDepth = 2;
 
-    # emit `Cache-Control: s-maxage=...` on anon page views so Cloudflare can
-    # edge-cache them. purge-on-edit is handled by GBCloudflarePurge (below),
-    # NOT $wgCdnServers, so leave that unset. see the two required Cloudflare
-    # cache rules in extensions/GBCloudflarePurge/README.md.
-    # gated on the purge credentials: edge-caching without purge-on-edit
-    # would leave edits invisible to anons until the ttl expires, silently.
+    # s-maxage on anon views so cloudflare edge-caches them (rules in
+    # extensions/GBCloudflarePurge/README.md). gated on the purge creds:
+    # caching without purge-on-edit would silently serve stale edits
     if (getenv("CLOUDFLARE_ZONE_ID") && getenv("CLOUDFLARE_API_TOKEN")) {
         $wgUseCdn = true;
         $wgCdnMaxAge = (int) (getenv("CDN_MAX_AGE") ?: 3600);
@@ -905,8 +902,7 @@ wfLoadExtension("GBCloudflarePurge");
 $wgGBCloudflareZoneId = getenv("CLOUDFLARE_ZONE_ID") ?: "";
 $wgGBCloudflareApiToken = getenv("CLOUDFLARE_API_TOKEN") ?: "";
 
-# core relays every purged url (direct edits, template fan-out jobs, file +
-# thumbnail urls on reupload) through this channel -> send them to cloudflare
+# core relays every purged url through this channel -> send to cloudflare
 $wgEventRelayerConfig["cdn-url-purges"] = [
     "class" =>
         \MediaWiki\Extension\GBCloudflarePurge\CloudflareEventRelayer::class,

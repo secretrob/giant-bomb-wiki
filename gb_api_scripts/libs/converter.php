@@ -267,9 +267,8 @@ class HtmlToMediaWikiConverter
                 "/<h{$level}.*?>(.*?)<\/h{$level}>/s",
                 function ($m) use ($marks) {
                     $inner = trim(preg_replace("/<br[^>]*>|\s+/", " ", $m[1]));
-                    // heading holding only <br>/whitespace slips past the
-                    // empty-heading regex -> a bare ==== line, which mw
-                    // renders as a heading of literal ='s. drop it instead
+                    // <br>-only heading -> bare ==== line -> mw renders
+                    // literal ='s. drop it
                     if ($inner === "") {
                         return "\n";
                     }

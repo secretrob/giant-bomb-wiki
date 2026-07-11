@@ -5,11 +5,8 @@ namespace MediaWiki\Extension\GBCloudflarePurge;
 use MediaWiki\MediaWikiServices;
 use Wikimedia\EventRelayer\EventRelayer;
 
-// core relays every url it purges (direct edits, htmlCacheUpdate template
-// fan-out jobs, file + thumbnail urls on reupload, redirects) through the
-// cdn-url-purges channel -> forward them all to the cloudflare purge api.
-// no-op when the credentials are unset (dev). runs inside CdnCacheUpdate,
-// which is already a post-send deferred update in web requests.
+// forwards core's cdn-url-purges channel (edits, template fan-out jobs,
+// file/thumb urls on reupload) to the cloudflare purge api. no-op without creds
 class CloudflareEventRelayer extends EventRelayer
 {
     // cloudflare caps purge-by-url at 30 files per call
