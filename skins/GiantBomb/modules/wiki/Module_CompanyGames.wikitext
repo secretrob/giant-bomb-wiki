@@ -1,125 +1,123 @@
--- company-page list helpers. module state persists across #invoke in a
--- parse, so CompanyEnd + CompanySidebar share one games query
+-- renders precomputed related content (gb_related table via mw.ext.gbrelated,
+-- maintained by the GBRelated save hook + rebuildRelated.php backfill)
 local p = {}
 
-local PROPS = {
-    developed = 'Has developers',
-    published = 'Has publishers',
-}
-local MAX = 100
+local cache
 
-local cache = {}
-
--- smw hands values back as wikitext links even with link=none -> unwrap
-local function plain(v)
-    local inner = tostring(v):match('^%[%[(.-)%]%]$')
-    if inner then
-        return inner:match('^(.-)|') or inner
+local function fetch()
+    if cache == nil then
+        cache = mw.ext.gbrelated.get() or {}
     end
-    return tostring(v)
+    return cache
 end
 
-local function renderRows(rows, limit)
+-- {{#invoke:CompanyGames|related|developed|limit=20|default=None}}
+function p.related(frame)
+    local args = frame.args
+    local fallback = '<li><em>' .. (args.default or 'None') .. '</em></li>'
+    -- positional #invoke args arrive untrimmed
+    local group = mw.text.trim(args[1] or '')
+    local rows = fetch()[group]
+    if not rows or #rows == 0 then
+        return fallback
+    end
     local items = {}
-    for i = 1, math.min(limit, #rows) do
+    for i = 1, math.min(tonumber(args.limit) or 20, #rows) do
         local row = rows[i]
-        local page = plain(row.page)
-        local display = row.display
-        if type(display) == 'table' then
-            display = display[1]
-        end
-        if display ~= nil and display ~= '' then
-            display = plain(display)
-        else
-            display = string.match(page, '([^/]+)$') or page
-        end
-        items[#items + 1] = '<li>[[' .. page .. '|' .. display .. ']]</li>'
+        items[#items + 1] =
+            '<li>[[' .. row.title .. '|' .. row.display .. ']]</li>'
     end
     return table.concat(items)
 end
 
-local function fetch(relation)
-    if cache[relation] == nil then
-        local page = mw.title.getCurrentTitle().prefixedText
-        cache[relation] = mw.smw.ask{
-            '[[' .. PROPS[relation] .. '::' .. page .. ']]',
-            '[[Category:Games]]',
-            '?Display title of=display',
-            'mainlabel=page',
-            'link=none',
-            'limit=' .. MAX,
-        } or false
+-- smw hands values back as wikitext links (with a leading colon) -> unwrap
+local function plain(v)
+    local inner = tostring(v):match('^%[%[(.-)%]%]$')
+    if inner then
+        inner = inner:match('^(.-)|') or inner
+        return inner:gsub('^:', '')
     end
-    return cache[relation]
+    return tostring(v)
 end
 
--- {{#invoke:CompanyGames|list|developed|limit=20|default=None}}
-function p.list(frame)
-    local args = frame.args
-    local fallback = '<li><em>' .. (args.default or 'None') .. '</em></li>'
-    -- positional #invoke args arrive untrimmed
-    local relation = mw.text.trim(args[1] or '')
-    if not PROPS[relation] then
-        return fallback
+local function joinValues(v)
+    if type(v) ~= 'table' then
+        return v and plain(v) or ''
     end
-    local rows = fetch(relation)
+    local out = {}
+    for _, item in ipairs(v) do
+        out[#out + 1] = plain(item)
+    end
+    return table.concat(out, ', ')
+end
+
+-- {{#invoke:CompanyGames|cards|developed|limit=12}}
+function p.cards(frame)
+    local args = frame.args
+    local group = mw.text.trim(args[1] or '')
+    local rows = fetch()[group]
     if not rows or #rows == 0 then
-        return fallback
+        return '<div class="no-results">No games found</div>'
     end
-    return renderRows(rows, tonumber(args.limit) or MAX)
-end
 
--- {{#invoke:CompanyGames|related|Has people|limit=20|default=None}}
--- inverse condition so limit caps values -- #show prints ALL of them,
--- which is thousands of links on the big companies
-function p.related(frame)
-    local args = frame.args
-    local fallback = '<li><em>' .. (args.default or 'None') .. '</em></li>'
-    local prop = mw.text.trim(args[1] or '')
-    if prop == '' then
-        return fallback
+    local limit = math.min(tonumber(args.limit) or 12, #rows)
+    local titles, rank = {}, {}
+    for i = 1, limit do
+        titles[#titles + 1] = rows[i].title
+        rank[rows[i].title] = i
     end
-    local rows = mw.smw.ask{
-        '[[-' .. prop .. '::' .. mw.title.getCurrentTitle().prefixedText .. ']]',
-        '?Display title of=display',
+
+    -- links stay on: with link=none smw captions the mainlabel with the
+    -- display title, which breaks keying by page title
+    local results = mw.smw.ask{
+        '[[' .. table.concat(titles, '||') .. ']]',
+        '?Has deck=deck',
+        '?Has image=image',
+        '?Has platforms=platforms',
+        '?Has release date=released',
         'mainlabel=page',
-        'link=none',
-        'limit=' .. (tonumber(args.limit) or 20),
-        -- oldest entries first (guid order) -- the notable ones
-        'sort=Creation date',
-        'order=asc',
-    }
-    if not rows or #rows == 0 then
-        return fallback
-    end
-    return renderRows(rows, tonumber(args.limit) or 20)
-end
+        'limit=' .. limit,
+    } or {}
 
--- {{#invoke:CompanyGames|setCsv|Has characters|{{{Characters|}}}}}
--- smw burns ~1.6ms of cpu per stored page value -- sega's 15k values was a
--- 20s parse. cap per property; accordions show 20, ask links show the cap
-local SET_CAP = 200
-
-function p.setCsv(frame)
-    local prop = mw.text.trim(frame.args[1] or '')
-    local csv = frame.args[2] or ''
-    if prop == '' or mw.text.trim(csv) == '' then
-        return ''
+    local byTitle = {}
+    for _, r in ipairs(results) do
+        byTitle[plain(r.page)] = r
     end
-    local values = {}
-    for v in csv:gmatch('[^,]+') do
-        v = mw.text.trim(v)
-        if v ~= '' then
-            values[#values + 1] = v
-            if #values >= SET_CAP then
-                break
-            end
+
+    local html = mw.html.create('div'):addClass('listing-grid')
+    for i = 1, limit do
+        local title = titles[i]
+        local r = byTitle[title] or {}
+
+        local image = plain(r.image or '')
+        image = image:gsub('Http', 'http'):gsub('%+', ' '):gsub(' ', '%%20')
+
+        local released = r.released
+        if type(released) == 'table' then
+            released = released.raw or released[1] or ''
         end
+        released = tostring(released or '')
+        local y, m, d = released:match('^1/(%d+)/(%d+)/(%d+)')
+        if y then
+            released = mw.language.getContentLanguage():formatDate(
+                'Y F j',
+                string.format('%04d-%02d-%02d', y, m, d)
+            )
+        end
+
+        html:wikitext(frame:expandTemplate{
+            title = 'GameCard',
+            args = {
+                url_title = title,
+                title = rows[i].display,
+                platforms = joinValues(r.platforms),
+                release_date = released ~= '' and released or nil,
+                deck = joinValues(r.deck),
+                image = image,
+            },
+        })
     end
-    if #values > 0 then
-        mw.smw.set({ [prop] = values })
-    end
-    return ''
+    return tostring(html)
 end
 
 return p

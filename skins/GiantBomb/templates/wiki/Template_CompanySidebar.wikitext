@@ -81,7 +81,7 @@ This template is called automatically by <code><nowiki>{{CompanyEnd}}</nowiki></
 <div class="gb-accordion gb-accordion--open">
 <div class="gb-accordion-header">Developed Games</div>
 <ul class="gb-accordion-content">
-{{#invoke:CompanyGames|list|developed|limit=20|default=None}}
+{{#invoke:CompanyGames|related|developed|limit=20|default=None}}
 <li class="gb-sidebar-more">[{{canonicalurl:{{FULLPAGENAME}}}}#DevelopedGames view all →]</li>
 </ul>
 </div>
@@ -89,31 +89,50 @@ This template is called automatically by <code><nowiki>{{CompanyEnd}}</nowiki></
 <div class="gb-accordion">
 <div class="gb-accordion-header">Published Games</div>
 <ul class="gb-accordion-content">
-{{#invoke:CompanyGames|list|published|limit=20|default=None}}
+{{#invoke:CompanyGames|related|published|limit=20|default=None}}
 <li class="gb-sidebar-more">[{{canonicalurl:{{FULLPAGENAME}}}}#PublishedGames view all →]</li>
+</ul>
+</div>
+
+<div class="gb-accordion">
+<div class="gb-accordion-header">Franchises</div>
+<ul class="gb-accordion-content">
+{{#invoke:CompanyGames|related|franchises|limit=20|default=None}}
 </ul>
 </div>
 
 <div class="gb-accordion">
 <div class="gb-accordion-header">People</div>
 <ul class="gb-accordion-content">
-{{#invoke:CompanyGames|related|Has people|limit=20|default=None}}
+{{#invoke:CompanyGames|related|people|limit=20|default=None}}
 </ul>
 </div>
 
 <div class="gb-accordion">
 <div class="gb-accordion-header">Characters</div>
 <ul class="gb-accordion-content">
-{{#invoke:CompanyGames|related|Has characters|limit=20|default=None}}
+{{#invoke:CompanyGames|related|characters|limit=20|default=None}}
 </ul>
 </div>
 
 <div class="gb-accordion">
-<div class="gb-accordion-header">Related</div>
+<div class="gb-accordion-header">Concepts</div>
 <ul class="gb-accordion-content">
-<li class="gb-sidebar-more">[{{fullurl:Special:Ask|q=%5B%5B-Has+concepts%3A%3A{{urlencode:{{FULLPAGENAME}}}}%5D%5D&p=format%3Dbroadtable&limit=500}} Concepts →]</li>
-<li class="gb-sidebar-more">[{{fullurl:Special:Ask|q=%5B%5B-Has+locations%3A%3A{{urlencode:{{FULLPAGENAME}}}}%5D%5D&p=format%3Dbroadtable&limit=500}} Locations →]</li>
-<li class="gb-sidebar-more">[{{fullurl:Special:Ask|q=%5B%5B-Has+objects%3A%3A{{urlencode:{{FULLPAGENAME}}}}%5D%5D&p=format%3Dbroadtable&limit=500}} Objects →]</li>
+{{#invoke:CompanyGames|related|concepts|limit=20|default=None}}
+</ul>
+</div>
+
+<div class="gb-accordion">
+<div class="gb-accordion-header">Locations</div>
+<ul class="gb-accordion-content">
+{{#invoke:CompanyGames|related|locations|limit=20|default=None}}
+</ul>
+</div>
+
+<div class="gb-accordion">
+<div class="gb-accordion-header">Objects</div>
+<ul class="gb-accordion-content">
+{{#invoke:CompanyGames|related|objects|limit=20|default=None}}
 </ul>
 </div>
 
