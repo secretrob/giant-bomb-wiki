@@ -33,17 +33,13 @@ Then renders the sidebar via <code><nowiki>{{CompanySidebar}}</nowiki></code> an
 * <code>.gb-company-page</code>
 </noinclude><includeonly>
 </div>
-<div id="DevelopedGames" class="gb-games-section">
-<div class="gb-games-section-header">Developed Games <span class="gb-games-view-all">[{{fullurl:Special:Ask|q=%5B%5BHas+developers%3A%3A{{urlencode:{{FULLPAGENAME}}}}%5D%5D+%5B%5BCategory%3AGames%5D%5D&po=%3FHas+name%3DName%0A%3FHas+release+date%3DRelease&p=mainlabel%3D-2F&sort=Has+name&order=asc&limit=500&offset=0}} view all →]]</span></div>
-<ul class="gb-games-section-list">
-{{#invoke:CompanyGames|list|developed|limit=100|default=No games found}}
-</ul>
+<div id="DevelopedGames" class="gb-games-section" style="clear:both">
+<div class="gb-games-section-header"><h2 class="gb-games-section-title">Developed Games</h2><span class="gb-view-all-btn">[{{fullurl:Special:Ask|q=%5B%5BHas+developers%3A%3A{{urlencode:{{FULLPAGENAME}}}}%5D%5D+%5B%5BCategory%3AGames%5D%5D&po=%3FHas+name%3DName%0A%3FHas+release+date%3DRelease&p=mainlabel%3D-2F&sort=Has+name&order=asc&limit=500&offset=0}} View all developed games]</span></div>
+{{#invoke:CompanyGames|cards|developed|limit=12}}
 </div>
-<div id="PublishedGames" class="gb-games-section">
-<div class="gb-games-section-header">Published Games <span class="gb-games-view-all">[{{fullurl:Special:Ask|q=%5B%5BHas+publishers%3A%3A{{urlencode:{{FULLPAGENAME}}}}%5D%5D+%5B%5BCategory%3AGames%5D%5D&po=%3FHas+name%3DName%0A%3FHas+release+date%3DRelease&p=mainlabel%3D-2F&sort=Has+name&order=asc&limit=500&offset=0}} view all →]]</span></div>
-<ul class="gb-games-section-list">
-{{#invoke:CompanyGames|list|published|limit=100|default=No games found}}
-</ul>
+<div id="PublishedGames" class="gb-games-section" style="clear:both">
+<div class="gb-games-section-header"><h2 class="gb-games-section-title">Published Games</h2><span class="gb-view-all-btn">[{{fullurl:Special:Ask|q=%5B%5BHas+publishers%3A%3A{{urlencode:{{FULLPAGENAME}}}}%5D%5D+%5B%5BCategory%3AGames%5D%5D&po=%3FHas+name%3DName%0A%3FHas+release+date%3DRelease&p=mainlabel%3D-2F&sort=Has+name&order=asc&limit=500&offset=0}} View all published games]</span></div>
+{{#invoke:CompanyGames|cards|published|limit=12}}
 </div>
 </div>
 <div class="gb-company-sidebar">{{CompanySidebar}}</div>

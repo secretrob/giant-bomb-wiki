@@ -98,6 +98,7 @@ COPY --chown=www-data:www-data ./extensions/GiantBombMetaTags /var/www/html/exte
 COPY --chown=www-data:www-data ./extensions/GbSessionProvider/ /var/www/html/extensions/GbSessionProvider
 COPY --chown=www-data:www-data ./extensions/GBModeration /var/www/html/extensions/GBModeration
 COPY --chown=www-data:www-data ./extensions/GBEnvLuaBridge /var/www/html/extensions/GBEnvLuaBridge
+COPY --chown=www-data:www-data ./extensions/GBRelated /var/www/html/extensions/GBRelated
 COPY --chown=www-data.www-data ./extensions/GBVirtualReviewPages /var/www/html/extensions/GBVirtualReviewPages
 COPY --chown=www-data:www-data ./extensions/GBCloudflarePurge /var/www/html/extensions/GBCloudflarePurge
 RUN cd /var/www/html/extensions/GbSessionProvider && composer update --no-dev

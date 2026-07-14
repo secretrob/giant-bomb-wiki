@@ -44,7 +44,7 @@ Called from Module:LocationQuery not directly used.
                 }}
         </div>
         <div class="listing-card-info">
-            <h3 class="listing-card-title clickable-box">{{{title}}}</h3>
+            <div class="listing-card-title clickable-box" role="heading" aria-level="3">{{{title}}}</div>
             <div class="listing-card-deck">{{{deck|}}}</div>
         </div>
     </div>

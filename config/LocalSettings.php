@@ -410,6 +410,7 @@ $wgExternalDataSources["*"]["allowed urls"] = [
     "https://giantbomb.com/api/",
 ];
 wfLoadExtension("GBEnvLuaBridge");
+wfLoadExtension("GBRelated");
 wfLoadExtension("GBVirtualReviewPages");
 
 # =============================================================================

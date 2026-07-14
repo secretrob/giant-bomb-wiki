@@ -52,10 +52,10 @@ Called from Module:CompanyQuery not directly used.
                 }}
         </div>
         <div class="listing-card-info">
-            <h3 class="listing-card-title clickable-box">{{{title}}}</h3>            
-            <div class="listing-card-deck">{{{deck|}}}</div>
-            <div class="listing-card-stat">Published {{{published|}}} games</div>
-            <div class="listing-card-stat">Developed {{{developed|}}} games</div>
+            <div class="listing-card-title clickable-box" role="heading" aria-level="3">{{{title}}}</div>            
+            <div class="listing-card-deck">{{{deck|}}}</div>{{#if:{{{published|}}}|
+            <div class="listing-card-stat">Published {{{published}}} games</div>}}{{#if:{{{developed|}}}|
+            <div class="listing-card-stat">Developed {{{developed}}} games</div>}}
         </div>
     </div>
 </div>

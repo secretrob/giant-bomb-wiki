@@ -1,0 +1,17 @@
+{
+  "name": "GBRelated",
+  "version": "1.0.0",
+  "author": ["Chuck Zimmerheld"],
+  "description": "Precomputes ranked related content (games, people, franchises...) for entity pages from the wiki link graph.",
+  "manifest_version": 2,
+  "AutoloadClasses": {
+    "MediaWiki\\Extension\\GBRelated\\Hooks": "src/Hooks.php",
+    "MediaWiki\\Extension\\GBRelated\\RelatedStore": "src/RelatedStore.php",
+    "MediaWiki\\Extension\\GBRelated\\RelatedLuaLibrary": "src/RelatedLuaLibrary.php"
+  },
+  "Hooks": {
+    "PageSaveComplete": "MediaWiki\\Extension\\GBRelated\\Hooks::onPageSaveComplete",
+    "LoadExtensionSchemaUpdates": "MediaWiki\\Extension\\GBRelated\\Hooks::onLoadExtensionSchemaUpdates",
+    "ScribuntoExternalLibraries": "MediaWiki\\Extension\\GBRelated\\RelatedLuaLibrary::onScribuntoExternalLibraries"
+  }
+}
