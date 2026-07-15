@@ -69,7 +69,7 @@ if a page with that name already exists, you will be sent to a form to edit that
 {{{end template}}}
 
 '''Description:'''
-{{{standard input|free text|editor=visualeditor|rows=30}}}
+{{{standard input|free text|editor=visualeditor|rows=30|class=toolbarOnTop}}}
 {{{standard input|summary}}}
 {{{standard input|save}}}
 {{{standard input|preview}}}
