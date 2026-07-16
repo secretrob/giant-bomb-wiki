@@ -86,12 +86,27 @@
     panel.insertBefore(controls, panel.firstChild);
   }
 
+  // structural subpages are never prose link targets -> hide from results
+  function filterResults() {
+    var opts = document.querySelectorAll(
+      ".mw-widget-titleOptionWidget:not(.gb-link-filtered)",
+    );
+    for (var i = 0; i < opts.length; i++) {
+      opts[i].classList.add("gb-link-filtered");
+      var label = opts[i].textContent.trim();
+      if (/\/(Images|Reviews)$/.test(label)) {
+        opts[i].style.display = "none";
+      }
+    }
+  }
+
   // inspectors mount lazily in a ve overlay; watch for them
   var observer = new MutationObserver(function () {
     var nodes = document.querySelectorAll(
       ".ve-ui-mwLinkAnnotationInspector:not(.gb-link-dialog-done)",
     );
     for (var i = 0; i < nodes.length; i++) enhance(nodes[i]);
+    filterResults();
   });
   observer.observe(document.body, { childList: true, subtree: true });
 })();

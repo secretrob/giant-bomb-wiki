@@ -30,6 +30,7 @@
   "ResourceModules": {
     "skins.giantbomb.styles": {
       "styles": [
+        "resources/css/fonts.css",
         "resources/css/accessory-wiki.css",
         "resources/css/character-wiki.css",
         "resources/css/company-wiki.css",

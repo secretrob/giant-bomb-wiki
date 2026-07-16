@@ -735,6 +735,18 @@ body .ve-ui-mwLinkAnnotationInspector .oo-ui-inputWidget-input {
   font-size: 14px;
 }
 
+/* dark theme hid core's .new redlink styling -> nonexistent pages looked real */
+body .ve-ui-mwLinkAnnotationInspector .mw-widget-titleOptionWidget .oo-ui-labelElement-label.new {
+  color: #e0655f;
+  font-style: italic;
+}
+
+body .ve-ui-mwLinkAnnotationInspector .mw-widget-titleOptionWidget .oo-ui-labelElement-label.new::after {
+  content: " — page doesn't exist yet";
+  font-size: 0.85em;
+  color: #999;
+}
+
 /* prefix chips injected by ve-link-dialog.js */
 .gb-link-prefix-controls {
   margin: 0 0 8px;
