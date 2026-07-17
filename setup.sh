@@ -1,6 +1,5 @@
 #!/bin/bash
 # Giant Bomb Wiki - Simple Setup Script
-# Uses database snapshot for instant startup
 
 set -e
 
@@ -21,53 +20,30 @@ fi
 
 export $(cat .env | grep -v '^#' | xargs)
 
-# Check if snapshot exists
-if [ ! -f docker/db-snapshot/gb_api_dump.sql.gz.data ] || [ ! -f docker/db-snapshot/gb_wiki.sql.gz.data ]; then
-    echo "⚠️  Database snapshot not found!"
-    echo ""
-    echo "First-time setup detected. The snapshot needs to be:"
-    echo "  1. Downloaded from project maintainer, OR"
-    echo "  2. Created by running the full import process"
-    echo ""
-    echo "To create a new snapshot (takes 10-15 min):"
-    echo "  ./setup_minimal.sh 100  # Import 100 games"
-    echo ""
-    echo "After that completes, run this command to create the snapshot:"
-    echo "  docker exec giant-bomb-wiki-db-1 mariadb-dump -uroot -p\$MARIADB_ROOT_PASSWORD gb_api_dump | gzip > docker/db-snapshot/gb_api_dump.sql.gz"
-    echo "  docker exec giant-bomb-wiki-db-1 mariadb-dump -uroot -p\$MARIADB_ROOT_PASSWORD gb_wiki | gzip > docker/db-snapshot/gb_wiki.sql.gz"
-    echo ""
-    exit 1
-fi
-
-echo "✓ Database snapshot found"
-echo "  - gb_api_dump.sql.gz.data ($(du -h docker/db-snapshot/gb_api_dump.sql.gz.data | cut -f1))"
-echo "  - gb_wiki.sql.gz.data ($(du -h docker/db-snapshot/gb_wiki.sql.gz.data | cut -f1))"
-echo ""
-
 # Stop existing containers
 echo "Stopping any existing containers..."
-docker compose -f docker-compose.snapshot.yml down 2>/dev/null || true
+docker compose -f docker-compose.yml down 2>/dev/null || true
 echo "✓ Stopped"
 echo ""
 
-# Build database image
-echo "Building database image with snapshot..."
-docker compose -f docker-compose.snapshot.yml build db
-echo "✓ Database image built"
+# Build all containers
+echo "Building containers..."
+docker compose -f docker-compose.yml build
+echo "✓ Containers built"
 echo ""
 
 # Start containers
 echo "Starting containers..."
-docker compose -f docker-compose.snapshot.yml up -d
+docker compose -f docker-compose.yml up -d
 echo "✓ Containers started"
 echo ""
 
 # Get dynamic container names
-DB_CONTAINER=$(docker compose -f docker-compose.snapshot.yml ps -q db)
-WIKI_CONTAINER=$(docker compose -f docker-compose.snapshot.yml ps -q wiki)
+DB_CONTAINER=$(docker compose -f docker-compose.yml ps -q db)
+WIKI_CONTAINER=$(docker compose -f docker-compose.yml ps -q wiki)
 
 # Wait for database
-echo "Waiting for database to load snapshot..."
+echo "Waiting for database to load..."
 echo "⏳ This takes 1-2 minutes on first run"
 echo "⏳ Subsequent runs are ~10 seconds (data persists in volume)"
 echo ""
@@ -92,7 +68,7 @@ echo "✓ Wiki can connect to database"
 echo ""
 
 # Wait for Redis
-REDIS_CONTAINER=$(docker compose -f docker-compose.snapshot.yml ps -q redis)
+REDIS_CONTAINER=$(docker compose -f docker-compose.yml ps -q redis)
 echo "Waiting for Redis..."
 until docker exec $REDIS_CONTAINER redis-cli ping 2>/dev/null | grep -q PONG; do
     printf "."
@@ -101,6 +77,15 @@ done
 echo ""
 echo "✓ Redis ready"
 echo ""
+
+# build fake aws image store
+MINIO_CONTAINER=$(docker compose -f docker-compose.yml ps -q local-gcs)
+echo "Building minio (aws) image bucket..."
+docker exec $MINIO_CONTAINER mc alias set local http://localhost:9000 dev test@test.com
+docker exec $MINIO_CONTAINER mc mb local/gb-wiki-mw
+docker exec $MINIO_CONTAINER mc anonymous set download local/gb-wiki-mw
+docker exec $MINIO_CONTAINER mc anonymous set public local/gb-wiki-mw
+echo "✓ Building minio complete."
 
 # Check MediaWiki installation
 if docker exec $WIKI_CONTAINER test -f /var/www/html/LocalSettings.php; then
@@ -116,6 +101,8 @@ echo ""
 echo "Processing MediaWiki jobs..."
 docker exec $WIKI_CONTAINER php /var/www/html/maintenance/run.php \
     runJobs --memory-limit=512M --maxjobs=100 2>&1 | tail -5
+docker exec $WIKI_CONTAINER php /var/www/html/maintenance/run.php \
+    /var/www/html/maintenance/import_templates/import_all_templates.php --type=all
 echo "✓ Jobs complete"
 echo ""
 
@@ -131,15 +118,14 @@ echo ""
 echo "🌐 Access at: http://localhost:8080"
 echo ""
 echo "📊 Status:"
-echo "   - Games in database: 86,147"
 echo "   - Games in wiki: ${GAME_COUNT}"
 echo ""
 echo "Useful commands:"
-echo "   docker compose -f docker-compose.snapshot.yml logs -f     # View logs"
-echo "   docker compose -f docker-compose.snapshot.yml down        # Stop"
-echo "   docker compose -f docker-compose.snapshot.yml restart     # Restart"
+echo "   docker compose -f docker-compose.yml logs -f     # View logs"
+echo "   docker compose -f docker-compose.yml down        # Stop"
+echo "   docker compose -f docker-compose.yml restart     # Restart"
 echo ""
 echo "To reset everything and start fresh:"
-echo "   docker compose -f docker-compose.snapshot.yml down -v"
+echo "   docker compose -f docker-compose.yml down -v"
 echo "   ./setup.sh"
 echo ""
