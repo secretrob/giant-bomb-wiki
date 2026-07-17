@@ -82,7 +82,7 @@ echo ""
 MINIO_CONTAINER=$(docker compose -f docker-compose.yml ps -q local-gcs)
 echo "Building minio (aws) image bucket..."
 docker exec $MINIO_CONTAINER mc alias set local http://localhost:9000 dev test@test.com
-docker exec $MINIO_CONTAINER mc mb local/gb-wiki-mw
+docker exec $MINIO_CONTAINER mc mb --ignore-existing local/gb-wiki-mw
 docker exec $MINIO_CONTAINER mc anonymous set download local/gb-wiki-mw
 docker exec $MINIO_CONTAINER mc anonymous set public local/gb-wiki-mw
 echo "✓ Building minio complete."
