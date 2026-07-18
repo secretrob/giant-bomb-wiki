@@ -70,7 +70,7 @@ $resolver = function ($guid) use ($lookupGuid) {
 // blocks any other statement on that connection
 $legacyImg = mysqli_connect("host.docker.internal", "root", getenv("LEGACY_PW"), "giantbomb", 3307);
 $legacyImg->set_charset("utf8mb4");
-$imgStmt = $legacyImg->prepare("SELECT name, path, deleted FROM image WHERE id = ?");
+$imgStmt = $legacyImg->prepare("SELECT name, path, deleted, image_sizes FROM image WHERE id = ?");
 $imageLookup = function ($id) use ($imgStmt) {
     $imgStmt->bind_param("i", $id);
     $imgStmt->execute();
@@ -121,11 +121,11 @@ $n = ["written" => 0, "review" => 0, "unresolved_guid" => 0, "missing_page" => 0
 $done = 0;
 
 foreach ($TABLES as $typeId => $table) {
-    // unbuffered: keep 200MB of blobs out of memory (13k rows across tables)
+    // buffered: an unbuffered stream held open for minutes (--refetch-api rtt
+    // slows the loop to ~3 rows/s) dies on the server's net_write_timeout
     $res = $legacy->query(
         "SELECT id, description FROM `$table`
-         WHERE description LIKE '%<image %' OR description LIKE '%<table%'",
-        MYSQLI_USE_RESULT
+         WHERE description LIKE '%<image %' OR description LIKE '%<table%'"
     );
     while ($row = $res->fetch_assoc()) {
         $guid = "$typeId-{$row["id"]}";

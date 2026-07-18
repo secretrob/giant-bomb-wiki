@@ -64,6 +64,31 @@ class HtmlToMediaWikiConverter
         $this->imageLookup = $lookup;
     }
 
+    // rendition keys vary per image: non-jpg often exists only as ignore_jpg_*
+    private function chooseRendition(array $row, string $size): string
+    {
+        $rendition = self::IMAGE_RENDITIONS[$size];
+        $ext = strtolower(pathinfo($row["name"], PATHINFO_EXTENSION));
+        $keys = array_map(
+            "trim",
+            explode(",", (string) ($row["image_sizes"] ?? "")),
+        );
+        if (
+            !in_array($ext, ["jpg", "jpeg"], true) &&
+            in_array("ignore_jpg_{$rendition}", $keys, true)
+        ) {
+            return "ignore_jpg_{$rendition}";
+        }
+        return $rendition;
+    }
+
+    // filenames can carry spaces etc -> encode, or the bare url breaks
+    private function buildUploadUrl(string $rendition, array $row): string
+    {
+        return "https://www.giantbomb.com/a/uploads/{$rendition}/{$row["path"]}" .
+            rawurlencode($row["name"]);
+    }
+
     // media.giantbomb.com urls carry stale buckets + size-suffixed filenames;
     // the image table knows the real path/name. null = not media-hosted,
     // false = drop (deleted or unresolvable), array = the image row
@@ -755,7 +780,10 @@ class HtmlToMediaWikiConverter
             return false;
         }
         if (is_array($hit)) {
-            return "https://www.giantbomb.com/a/uploads/scale_medium/{$hit["path"]}{$hit["name"]} ";
+            return $this->buildUploadUrl(
+                $this->chooseRendition($hit, "medium"),
+                $hit,
+            ) . " ";
         }
 
         return $this->rewriteImageHost($src) . " ";
@@ -785,16 +813,36 @@ class HtmlToMediaWikiConverter
         }
         if (is_array($hit)) {
             // stale media-host embed: rebuild both urls from the image row
-            $rendition = self::IMAGE_RENDITIONS[$size];
-            $full = "https://www.giantbomb.com/a/uploads/original/{$hit["path"]}{$hit["name"]}";
-            $src = "https://www.giantbomb.com/a/uploads/{$rendition}/{$hit["path"]}{$hit["name"]}";
+            $full = $this->buildUploadUrl("original", $hit);
+            $src = $this->buildUploadUrl(
+                $this->chooseRendition($hit, $size),
+                $hit,
+            );
         } else {
             // data-resize-url is the old site's own choice -> prefer it verbatim
             $src = $this->rewriteImageHost(
                 $image->getAttribute("data-resize-url"),
             );
             if ($src === "" || strpos($src, "media.giantbomb.com") !== false) {
-                $src = $this->buildScaledUrl($full, $size);
+                // data-ref-id = 1300-<image id> -> pick the rendition key that
+                // actually exists for this image when we can look it up
+                $row = null;
+                if (
+                    $this->imageLookup !== null &&
+                    preg_match(
+                        '/^1300-(\d+)$/',
+                        $image->getAttribute("data-ref-id"),
+                        $m,
+                    )
+                ) {
+                    $row = ($this->imageLookup)((int) $m[1]);
+                }
+                $src = $row && empty($row["deleted"])
+                    ? $this->buildUploadUrl(
+                        $this->chooseRendition($row, $size),
+                        $row,
+                    )
+                    : $this->buildScaledUrl($full, $size);
             }
         }
 
