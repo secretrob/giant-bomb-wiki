@@ -275,7 +275,7 @@ class UpdateTemplateImages extends Maintenance
                 // lazy core + \s* keeps internal spaces (legacy space-named
                 // files) inside the value
                 $newBody = preg_replace(
-                    "/(\|\s*Image\s*=[ \t]*)([^|}]*?)(\s*)(?=\||\})/i",
+                    "/(\|\s*Image\s*=[ \t]*)([^|}]*?)(\s*)(?=\||\}|$)/i",
                     "\${1}{$url}\${3}",
                     $templateBody,
                 );
