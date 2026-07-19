@@ -102,6 +102,15 @@ echo ""
 echo "✓ Redis ready"
 echo ""
 
+# build fake aws image store
+MINIO_CONTAINER=$(docker compose -f docker-compose.yml ps -q local-gcs)
+echo "Building minio (aws) image bucket..."
+docker exec $MINIO_CONTAINER mc alias set local http://localhost:9000 dev test@test.com
+docker exec $MINIO_CONTAINER mc mb --ignore-existing local/gb-wiki-mw
+docker exec $MINIO_CONTAINER mc anonymous set download local/gb-wiki-mw
+docker exec $MINIO_CONTAINER mc anonymous set public local/gb-wiki-mw
+echo "✓ Building minio complete."
+
 # Check MediaWiki installation
 if docker exec $WIKI_CONTAINER test -f /var/www/html/LocalSettings.php; then
     echo "✓ MediaWiki already installed"
@@ -116,6 +125,10 @@ echo ""
 echo "Processing MediaWiki jobs..."
 docker exec $WIKI_CONTAINER php /var/www/html/maintenance/run.php \
     runJobs --memory-limit=512M --maxjobs=100 2>&1 | tail -5
+docker exec $WIKI_CONTAINER php /var/www/html/maintenance/run.php \
+    createAndPromote --force --sysop "Maintenance script"
+docker exec $WIKI_CONTAINER php /var/www/html/maintenance/run.php \
+    /var/www/html/maintenance/import_templates/import_all_templates.php --type=all    
 echo "✓ Jobs complete"
 echo ""
 
