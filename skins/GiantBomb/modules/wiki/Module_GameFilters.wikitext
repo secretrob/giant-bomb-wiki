@@ -5,7 +5,7 @@ function p.renderSidebar(frame)
     local parentArgs = frame:getParent() and frame:getParent().args or {}
     local rawPlatform = args.chosen_platform or parentArgs.chosen_platform or "All"
     local currentSearchFilter = mw.uri.decode(args.search_filter or parentArgs.search_filter or "","QUERY")
-    local currentSort = mw.uri.decode(args.sort_by or parentArgs.sort_by or "newest", "WIKI"):lower()
+    local currentSort = mw.uri.decode(args.sort_by or parentArgs.sort_by or "", "WIKI"):lower()
     
     local currentPlatform = mw.uri.decode(rawPlatform, "WIKI")
     currentPlatform = currentPlatform:gsub("|.*$", ""):gsub("[%[%]]", ""):gsub("^:", "")
@@ -87,9 +87,10 @@ function p.renderSidebar(frame)
     
     -- SORT SELECT
      local sortOptions = {
+        { val = "popular", label = "Popular" },
         { val = "newest", label = "Newly Created" },
-        { val = "name", label = "Name (A-Z)" },
-        { val = "latest", label = "Recently Edited" }
+        { val = "latest", label = "Recent Edits" },
+        { val = "name", label = "Name (A-Z)" }
     }
     
     local sortContainer = form:tag('div'):addClass('filter-group')
@@ -100,6 +101,13 @@ function p.renderSidebar(frame)
         :attr('id', 'sort-by')
         :addClass('filter-select')
 
+    local defaultOpt = selectSort:tag('option')
+        :attr('value', '')
+        :wikitext(currentSearchFilter ~= "" and 'Best match' or 'Default')
+    if currentSort == "" then
+        defaultOpt:attr('selected', 'selected')
+    end
+
     for _, item in ipairs(sortOptions) do
         local opt = selectSort:tag('option')
             :attr('value', item.val)
@@ -108,7 +116,7 @@ function p.renderSidebar(frame)
     end    
     
     form:tag('button'):attr('id','reset-filter'):addClass('gb-button'):addClass('reset'):wikitext('Reset Filters')
-    form:tag('button'):attr('id','apply-filter'):attr('type', 'submit'):addClass('gb-button'):wikitext('Apply Filter')
+    form:tag('button'):attr('id','apply-filter'):attr('type', 'submit'):addClass('gb-button'):wikitext('Search')
         
     -- Wrap for JavaScript to find and decode
     return '<div class="lua-form-wrapper">' .. mw.text.nowiki(tostring(form)) .. '</div>'

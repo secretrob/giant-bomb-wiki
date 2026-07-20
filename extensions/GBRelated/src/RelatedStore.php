@@ -5,11 +5,12 @@ namespace MediaWiki\Extension\GBRelated;
 use MediaWiki\MediaWikiServices;
 use MediaWiki\Title\Title;
 
-// ranked related content for company pages, from the wiki link graph.
-// games (smw developed/published relations) rank by inbound links from
-// other games/franchises -- sequel and series references, immune to the
-// character-page fan-out that inflates global counts. everything else
-// ranks by affinity: how many of the company's games link to it.
+// ranked related content for entity pages, from the wiki link graph.
+// companies: games rank by inbound links from other games/franchises,
+// the rest by affinity (how many of the company's games link to it).
+// games: curated smw values first, topped up with the article's own links
+// (sole source for people), ranked by the same inbound signal; similar
+// games fall back to franchise-mates.
 class RelatedStore
 {
     private const LINK_GROUPS = [
@@ -26,15 +27,35 @@ class RelatedStore
         "published" => "Has_publishers",
     ];
 
+    private const GAME_GROUPS = [
+        "similar" => "Has_similar_games",
+        "franchises" => "Has_franchises",
+        "characters" => "Has_characters",
+        "concepts" => "Has_concepts",
+        "locations" => "Has_locations",
+        "objects" => "Has_objects",
+        "people" => "Has_people",
+    ];
+
     private const GROUP_CAPS = ["developed" => 100, "published" => 100];
+    private const GAME_GROUP_CAPS = ["similar" => 24];
     private const DEFAULT_CAP = 20;
     private const CANDIDATE_CAP = 5000;
     private const CHUNK = 500;
 
+    public const TYPE_PREFIXES = ["Companies/", "Games/"];
+
     public static function handles(Title $title): bool
     {
-        return $title->getNamespace() === NS_MAIN &&
-            str_starts_with($title->getDBkey(), "Companies/");
+        if ($title->getNamespace() !== NS_MAIN) {
+            return false;
+        }
+        foreach (self::TYPE_PREFIXES as $prefix) {
+            if (str_starts_with($title->getDBkey(), $prefix)) {
+                return true;
+            }
+        }
+        return false;
     }
 
     /**
@@ -46,6 +67,14 @@ class RelatedStore
             ->getConnectionProvider()
             ->getReplicaDatabase();
 
+        if (str_starts_with($title->getDBkey(), "Games/")) {
+            return self::computeGame($dbr, $title);
+        }
+        return self::computeCompany($dbr, $title);
+    }
+
+    private static function computeCompany($dbr, Title $title): array
+    {
         // [group => ["all" => [title => pageId], "exclusive" => ...]]
         $games = [];
         foreach (self::SMW_GROUPS as $group => $property) {
@@ -108,6 +137,83 @@ class RelatedStore
             });
             $cap = self::GROUP_CAPS[$group] ?? self::DEFAULT_CAP;
             $out[$group] = array_slice($rows, 0, $cap);
+        }
+        return $out;
+    }
+
+    private static function computeGame($dbr, Title $title): array
+    {
+        $dbkey = $title->getDBkey();
+
+        $curated = [];
+        foreach (self::GAME_GROUPS as $group => $property) {
+            $curated[$group] = self::pageValues($dbr, $property, $dbkey);
+        }
+
+        // article-linked targets fill curation gaps; tier keeps curated first
+        $linked = self::gameOutboundCounts($dbr, [$title->getArticleID()]);
+
+        // [group => [title => tier]]
+        $candidates = [];
+        foreach (array_keys(self::GAME_GROUPS) as $group) {
+            foreach ($curated[$group] as $t) {
+                $candidates[$group][$t] = 0;
+            }
+        }
+        foreach (["people", "characters", "concepts", "locations", "objects"]
+            as $group) {
+            foreach (array_keys($linked[$group] ?? []) as $t) {
+                if (!isset($candidates[$group][$t])) {
+                    $candidates[$group][$t] = 1;
+                }
+            }
+        }
+        // franchises stay curated-only: article links are too loose a signal
+
+        // similar games: curated, franchise-mates as fallback
+        if (empty($candidates["similar"])) {
+            foreach ($curated["franchises"] as $franchise) {
+                foreach (
+                    self::subjectGames($dbr, "Has_franchises", $franchise)
+                    as $t
+                ) {
+                    if ($t !== $dbkey && !isset($candidates["similar"][$t])) {
+                        $candidates["similar"][$t] = 1;
+                    }
+                }
+            }
+        }
+
+        // one notability pass over every candidate
+        $allTitles = [];
+        foreach ($candidates as $items) {
+            foreach ($items as $t => $tier) {
+                $allTitles[$t] = true;
+            }
+        }
+        $scores = self::gameInboundCounts($dbr, array_keys($allTitles));
+
+        $out = [];
+        foreach (array_keys(self::GAME_GROUPS) as $group) {
+            $rows = [];
+            $tiers = [];
+            foreach ($candidates[$group] ?? [] as $t => $tier) {
+                $tiers[$t] = $tier;
+                $rows[] = [
+                    "title" => $t,
+                    "pageId" => 0,
+                    "score" => $scores[$t] ?? 0,
+                ];
+            }
+            usort($rows, static function ($a, $b) use ($tiers) {
+                return $tiers[$a["title"]] <=> $tiers[$b["title"]] ?:
+                    ($b["score"] <=> $a["score"] ?:
+                    strcmp($a["title"], $b["title"]));
+            });
+            $cap = self::GAME_GROUP_CAPS[$group] ?? self::DEFAULT_CAP;
+            $rows = array_slice($rows, 0, $cap);
+            self::fillPageIds($dbr, $rows);
+            $out[$group] = $rows;
         }
         return $out;
     }
@@ -196,6 +302,91 @@ class RelatedStore
         return $out;
     }
 
+    /** smw internal id for a page or property (0 when unregistered) */
+    private static function smwId($dbr, int $namespace, string $title): int
+    {
+        return (int) $dbr
+            ->newSelectQueryBuilder()
+            ->select("smw_id")
+            ->from("smw_object_ids")
+            ->where([
+                "smw_namespace" => $namespace,
+                "smw_title" => $title,
+                "smw_iw" => "",
+                "smw_subobject" => "",
+            ])
+            ->caller(__METHOD__)
+            ->fetchField();
+    }
+
+    /** main-ns target titles of the page's own [[property::...]] values */
+    private static function pageValues(
+        $dbr,
+        string $property,
+        string $dbkey,
+    ): array {
+        $propId = self::smwId($dbr, 102, $property);
+        $subjId = self::smwId($dbr, NS_MAIN, $dbkey);
+        if (!$propId || !$subjId) {
+            return [];
+        }
+        $res = $dbr
+            ->newSelectQueryBuilder()
+            ->select("smw_title")
+            ->from("smw_di_wikipage")
+            ->join("smw_object_ids", null, "smw_id = o_id")
+            ->where([
+                "p_id" => $propId,
+                "s_id" => $subjId,
+                "smw_namespace" => NS_MAIN,
+                "smw_iw" => "",
+                "smw_subobject" => "",
+            ])
+            ->limit(self::CANDIDATE_CAP)
+            ->caller(__METHOD__)
+            ->fetchResultSet();
+        $out = [];
+        foreach ($res as $row) {
+            $out[] = $row->smw_title;
+        }
+        return $out;
+    }
+
+    /** Games/ pages holding [[property::object]] */
+    private static function subjectGames(
+        $dbr,
+        string $property,
+        string $objDbkey,
+    ): array {
+        $propId = self::smwId($dbr, 102, $property);
+        $objId = self::smwId($dbr, NS_MAIN, $objDbkey);
+        if (!$propId || !$objId) {
+            return [];
+        }
+        $res = $dbr
+            ->newSelectQueryBuilder()
+            ->select("smw_title")
+            ->from("smw_di_wikipage")
+            ->join("smw_object_ids", null, "smw_id = s_id")
+            ->where([
+                "p_id" => $propId,
+                "o_id" => $objId,
+                "smw_namespace" => NS_MAIN,
+                "smw_iw" => "",
+                "smw_subobject" => "",
+            ])
+            ->limit(self::CANDIDATE_CAP)
+            ->caller(__METHOD__)
+            ->fetchResultSet();
+        $out = [];
+        foreach ($res as $row) {
+            if (str_starts_with($row->smw_title, "Games/")) {
+                $out[] = $row->smw_title;
+            }
+        }
+        return $out;
+    }
+
     /**
      * smw subjects of [[property::page]]:
      * ["all" => [title => pageId], "exclusive" => same, sole-value only]
@@ -205,30 +396,8 @@ class RelatedStore
         string $property,
         string $dbkey,
     ): array {
-        $propId = $dbr
-            ->newSelectQueryBuilder()
-            ->select("smw_id")
-            ->from("smw_object_ids")
-            ->where([
-                "smw_namespace" => 102,
-                "smw_title" => $property,
-                "smw_iw" => "",
-                "smw_subobject" => "",
-            ])
-            ->caller(__METHOD__)
-            ->fetchField();
-        $objId = $dbr
-            ->newSelectQueryBuilder()
-            ->select("smw_id")
-            ->from("smw_object_ids")
-            ->where([
-                "smw_namespace" => NS_MAIN,
-                "smw_title" => $dbkey,
-                "smw_iw" => "",
-                "smw_subobject" => "",
-            ])
-            ->caller(__METHOD__)
-            ->fetchField();
+        $propId = self::smwId($dbr, 102, $property);
+        $objId = self::smwId($dbr, NS_MAIN, $dbkey);
         if (!$propId || !$objId) {
             return ["all" => [], "exclusive" => []];
         }

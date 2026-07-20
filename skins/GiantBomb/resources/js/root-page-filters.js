@@ -35,6 +35,12 @@ $(function () {
       }
     });
 
+    // Sort + platform dropdowns apply themselves
+    $sortField.add($selectField).on("change", function () {
+      if (typeof showGlobalLoading === "function") showGlobalLoading();
+      $form.submit();
+    });
+
     // 3. Accessibility: Focus cursor at end of text if search exists
     if ($searchField.val()) {
       $searchField.focus();
