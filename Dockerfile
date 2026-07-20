@@ -34,6 +34,9 @@ RUN chown -R www-data:www-data /var/www/html
 # versions still install. Dev/CI image only.
 RUN composer config --global policy.advisories.block false
 
+# local patches applied to cloned extensions below
+COPY ./docker/patches /tmp/patches
+
 # INSTALL SEMANTIC MEDIAWIKI
 # Due to an issue with phpunit 9.6.19, we have to force it to update:
 # See https://issues.apache.org/jira/browse/IGNITE-27681
@@ -49,12 +52,17 @@ RUN cd /var/www/html \
  && docker-php-ext-configure zip \
  && docker-php-ext-install zip \
  && cd /var/www/html/extensions/ \
+ # PageForms + VEForAll run master (REL branches lag; maintainers advise master) -> pin known-good commits
  && git clone https://gerrit.wikimedia.org/r/mediawiki/extensions/PageForms.git \
+ && git -C PageForms checkout ff33a2101a1a3588de29aa52c147e3e1d36672c0 \
+ # tokens fields with 3+ values get misread as dates -> php8 warnings (drop when upstreamed)
+ && git -C PageForms apply /tmp/patches/pageforms-tokens-not-a-date.patch \
  && git clone -b 'REL1_43' --single-branch --depth 1 https://gerrit.wikimedia.org/r/mediawiki/extensions/DisplayTitle \
  && git clone -b 'REL1_43' --single-branch --depth 1 https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateStyles \
  && git clone -b 'REL1_43' --single-branch --depth 1 https://gerrit.wikimedia.org/r/mediawiki/extensions/Popups \
  && git clone -b 'REL1_43' --single-branch --depth 1 https://gerrit.wikimedia.org/r/mediawiki/extensions/UrlGetParameters \
- && git clone -b 'REL1_43' --single-branch --depth 1 https://gerrit.wikimedia.org/r/mediawiki/extensions/VEForAll \
+ && git clone https://gerrit.wikimedia.org/r/mediawiki/extensions/VEForAll \
+ && git -C VEForAll checkout 636a718f0cbd70e25d5d2700d78dad204e1be5ee \
  && git clone -b 'REL1_43' --single-branch --depth 1 https://gerrit.wikimedia.org/r/mediawiki/extensions/ExternalData \
  && wget https://github.com/octfx/mediawiki-extensions-TemplateStylesExtender/archive/refs/tags/v2.0.0.zip \
  && unzip v2.0.0.zip && rm v2.0.0.zip && mv mediawiki-extensions-TemplateStylesExtender-2.0.0 TemplateStylesExtender \

@@ -86,6 +86,11 @@ class SkinGiantBomb extends SkinTemplate
 
         $pageTitle = $title->getText();
 
+        if (preg_match('#^([A-Za-z]+/[^/]+)/(Images|Reviews)$#', $pageTitle, $sub)) {
+            self::addSubpageSeoTags($out, $sub[1], $sub[2]);
+            return;
+        }
+
         // Process game, character, or franchise pages rendered via templates
         $isGamePage =
             strpos($pageTitle, "Games/") === 0 &&
@@ -229,7 +234,10 @@ class SkinGiantBomb extends SkinTemplate
         string $propertyName,
     ): ?string {
         try {
-            $property = new \SMW\DIProperty($propertyName);
+            // DIProperty wants the db key -> "Has guid" (label form) throws
+            $property = new \SMW\DIProperty(
+                str_replace(" ", "_", $propertyName),
+            );
             $values = $store->getPropertyValues($subject, $property);
             if (!empty($values)) {
                 $value = reset($values);
@@ -567,6 +575,150 @@ class SkinGiantBomb extends SkinTemplate
     // "Games/Sprout 64629" -> "Sprout"). Threshold is >=5 trailing digits so
     // legitimate year/sequel numbers survive: "Halo 2600", "Madden NFL 2008",
     // "FIFA 99", "Tekken 7".
+    // /Images + /Reviews meta -> parent entity's name/deck/cover
+    private static function addSubpageSeoTags(
+        OutputPage $out,
+        string $parentText,
+        string $kind,
+    ): void {
+        $parentTitle = \Title::newFromText($parentText);
+        if (!$parentTitle) {
+            return;
+        }
+        $store = \SMW\StoreFactory::getStore();
+        $subject = \SMW\DIWikiPage::newFromTitle($parentTitle);
+        $prefix = substr($parentText, 0, strpos($parentText, "/") + 1);
+        $name =
+            self::getSMWPropertyValue($store, $subject, "Has name") ?:
+            self::cleanSlugFallback($parentText, $prefix);
+        $deck = self::getSMWPropertyValue($store, $subject, "Has deck") ?: "";
+        $metaImage = self::getPageImage($parentTitle, $store, $subject);
+
+        if ($kind === "Images") {
+            $htmlTitle = "$name Images - " . $GLOBALS["wgSitename"];
+            $desc = "Images, screenshots, and artwork for $name.";
+            if ($deck !== "") {
+                $desc .= " " . $deck;
+            }
+        } else {
+            $htmlTitle = "$name Reviews - " . $GLOBALS["wgSitename"];
+            $guid = self::getSMWPropertyValue($store, $subject, "Has guid") ?: "";
+            $desc = self::buildReviewsDescription($name, $guid);
+            if ($desc === "") {
+                $desc = "Reviews and user ratings for $name on " . $GLOBALS["wgSitename"] . ".";
+            }
+        }
+
+        // decks carry emdashes -> plain hyphens in embed text
+        $desc = str_replace(["\u{2014}", "\u{2013}"], "-", $desc);
+        $htmlTitle = str_replace(["\u{2014}", "\u{2013}"], "-", $htmlTitle);
+
+        $out->setHTMLTitle($htmlTitle);
+        $out->addMeta("description", PageHelper::sanitizeMetaText($desc));
+        $canonicalUrl = $out->getTitle()->getFullURL();
+        $out->setCanonicalUrl($canonicalUrl);
+
+        PageHelper::addOpenGraphTags(
+            $out,
+            [
+                "og:title" => $htmlTitle,
+                "og:description" => PageHelper::sanitizeMetaText($desc),
+                "og:url" => $canonicalUrl,
+                "og:site_name" => $GLOBALS["wgSitename"],
+                "og:type" => "website",
+                "og:locale" => "en_US",
+            ],
+            $metaImage,
+        );
+        PageHelper::addTwitterTags(
+            $out,
+            [
+                "twitter:card" => $metaImage ? "summary_large_image" : "summary",
+                "twitter:title" => $htmlTitle,
+                "twitter:description" => PageHelper::sanitizeMetaText($desc),
+                "twitter:site" => "@giantbomb",
+            ],
+            $metaImage,
+            $name,
+        );
+    }
+
+    // user aggregate + staff score via the public api, wan-cached 1h
+    private static function buildReviewsDescription(
+        string $name,
+        string $guid,
+    ): string {
+        if ($guid === "" || !getenv("GB_API_KEY")) {
+            return "";
+        }
+        $cache = MediaWikiServices::getInstance()->getMainWANObjectCache();
+        return $cache->getWithSetCallback(
+            $cache->makeKey("gb-reviews-meta", $guid),
+            3600,
+            function ($oldValue, &$ttl) use ($name, $guid) {
+                $key = getenv("GB_API_KEY");
+                $http = MediaWikiServices::getInstance()->getHttpRequestFactory();
+                $get = function (string $url) use ($http) {
+                    $req = $http->create($url, ["timeout" => 4], __METHOD__);
+                    if (!$req->execute()->isOK()) {
+                        return null;
+                    }
+                    return json_decode($req->getContent(), true);
+                };
+
+                $parts = [];
+
+                // user scores are 0-100 -> shown /5
+                $sum = 0;
+                $count = 0;
+                for ($offset = 0; $offset < 500; $offset += 100) {
+                    $data = $get(
+                        "https://giantbomb.com/api/public/user-reviews?limit=100&offset=$offset&game_guid=$guid&api_key=$key&format=json",
+                    );
+                    foreach ($data["results"] ?? [] as $r) {
+                        $s = (float) ($r["score"] ?? -1);
+                        if ($s >= 0 && $s <= 100) {
+                            $sum += $s;
+                            $count++;
+                        }
+                    }
+                    if (empty($data["pagination"]["has_next"])) {
+                        break;
+                    }
+                }
+                if ($count > 0) {
+                    $parts[] = sprintf(
+                        "User rating %.1f/5 from %d review%s",
+                        $sum / $count / 20,
+                        $count,
+                        $count === 1 ? "" : "s",
+                    );
+                }
+
+                // staff score is already /5
+                $staff = $get(
+                    "https://giantbomb.com/api/public/reviews?limit=1&game_guid=$guid&api_key=$key&sort=publish_date:desc&format=json",
+                );
+                $sr = $staff["results"][0] ?? null;
+                if ($sr && isset($sr["score"])) {
+                    $by = $sr["reviewer"]["name"] ?? "";
+                    $parts[] = sprintf(
+                        "Giant Bomb review: %s/5%s",
+                        rtrim(rtrim(number_format((float) $sr["score"], 1), "0"), "."),
+                        $by !== "" ? " by $by" : "",
+                    );
+                }
+
+                if (!$parts) {
+                    // empty or failed fetch -> retry sooner
+                    $ttl = 300;
+                    return "";
+                }
+                return "$name reviews. " . implode(". ", $parts) . ".";
+            },
+        );
+    }
+
     private static function cleanSlugFallback( string $pageTitle, string $prefix ): string {
         $slug = str_replace( $prefix, '', $pageTitle );
         $slug = str_replace( '_', ' ', $slug );

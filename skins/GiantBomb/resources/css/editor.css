@@ -709,6 +709,63 @@ body .ve-ui-surface .ve-ce-documentNode {
   padding: 16px;
 }
 
+/* embedded form editor (veforall): surface collapses to content height without this.
+   !important beats veforall's inline max-height/overflow (data-max-height) -> internal
+   scrolling desyncs ve's focus-highlight overlay, hatching spills over the form */
+body .ve-area-wrapper .ve-ce-documentNode {
+  min-height: 320px;
+  max-height: none !important;
+  overflow-y: visible !important;
+}
+
+/* keep the form editor's toolbar on screen while scrolling the page.
+   z-index must beat ve's local overlay (3) or focused-node highlights cover the toolbar */
+body .ve-area-wrapper .oo-ui-toolbar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+/* link inspector: default frame is cramped */
+body .oo-ui-window-frame:has(.ve-ui-mwLinkAnnotationInspector) {
+  min-width: 480px;
+}
+body .ve-ui-mwLinkAnnotationInspector,
+body .ve-ui-mwLinkAnnotationInspector .oo-ui-inputWidget-input {
+  font-size: 14px;
+}
+
+/* dark theme hid core's .new redlink styling -> nonexistent pages looked real */
+body .ve-ui-mwLinkAnnotationInspector .mw-widget-titleOptionWidget .oo-ui-labelElement-label.new {
+  color: #e0655f;
+  font-style: italic;
+}
+
+body .ve-ui-mwLinkAnnotationInspector .mw-widget-titleOptionWidget .oo-ui-labelElement-label.new::after {
+  content: " — page doesn't exist yet";
+  font-size: 0.85em;
+  color: #999;
+}
+
+/* prefix chips injected by ve-link-dialog.js */
+.gb-link-prefix-controls {
+  margin: 0 0 8px;
+}
+.gb-link-prefix-btn {
+  cursor: pointer;
+  margin: 0 5px 5px 0;
+  padding: 2px 8px;
+  font-size: 0.85em;
+  color: #fff;
+  background-color: #252525;
+  border: 1px solid #333;
+  border-radius: 4px;
+}
+.gb-link-prefix-btn:hover {
+  background-color: #3a3a3a;
+  border-color: #b05f1c;
+}
+
 /* 1. MAIN DIALOG CONTAINERS */
 body .ui-dialog.wikiEditor-toolbar-dialog,
 body .oo-ui-windowManager-modal > .oo-ui-dialog > .oo-ui-window-frame {
