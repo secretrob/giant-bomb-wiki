@@ -11,6 +11,14 @@
     img.src = item.getAttribute("data-thumb");
     img.alt = item.getAttribute("data-alt") || "";
     img.loading = "lazy";
+    // some images never got scaled renditions -> fall back to the original
+    img.onerror = function () {
+      img.onerror = null;
+      var full = item.getAttribute("data-full");
+      if (full && img.src !== full) {
+        img.src = full;
+      }
+    };
     var link = item.querySelector("a");
     if (link) {
       link.prepend(img);

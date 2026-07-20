@@ -1,6 +1,6 @@
 body {
   background-color: #141414;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Geist", Arial, Helvetica, sans-serif;
 }
 
 .highlight {
@@ -16,7 +16,17 @@ a:link {
 }
 
 a:visited {
-  color: #666;
+  /* visited-purple, ~6.5:1 on dark (#666 was 2.6:1) */
+  color: #b18fd8;
+}
+
+/* gb-orange edit links everywhere; #e07f33 = text-safe #b05f1c (~6.2:1) */
+body .mw-parser-output .mw-editsection a {
+  color: #e07f33;
+}
+
+body .mw-parser-output .mw-editsection a:hover {
+  color: #f2984f;
 }
 
 .wikitable {
@@ -811,6 +821,110 @@ td.diff-marker {
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+
+/* long tocs scroll instead of dominating the page */
+#toc {
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+/* collapsed toc sections (toc-collapse.js) */
+#toc li.gb-toc-collapsed > ul {
+  display: none;
+}
+
+.gb-toc-toggle {
+  background: none;
+  border: 1px solid #333;
+  border-radius: 3px;
+  color: #aaa;
+  cursor: pointer;
+  font-size: 0.75em;
+  margin-left: 8px;
+  padding: 0 6px;
+  vertical-align: middle;
+}
+
+.gb-toc-toggle:hover {
+  color: #fff;
+  border-color: #b05f1c;
+}
+
+/* contain floats: without this, stacked floated figures escape the article
+   body and push the sidebar/infobox below the content */
+.mw-parser-output {
+  display: flow-root;
+}
+
+/* GB body figures ({{GBFigure}} - floated/captioned legacy CDN images) */
+.gb-figure {
+  max-width: 100%;
+  margin: 0.5em 0 1em;
+}
+
+/* !important -> entity css blanket img floats fight the figure from inside */
+.gb-figure img {
+  float: none !important;
+  clear: none !important;
+  margin: 0 !important;
+  max-width: 100% !important;
+  max-height: none !important;
+  width: auto !important;
+  height: auto;
+  display: block;
+}
+
+/* the bare url renders as <p><img></p>; collapse that wrapper */
+.gb-figure p {
+  margin: 0;
+}
+
+.gb-figure-left {
+  float: left;
+  clear: left;
+  margin: 0.5em 1.5rem 1rem 0;
+}
+
+.gb-figure-right {
+  float: right;
+  clear: right;
+  margin: 0.5em 0 1rem 1.5rem;
+}
+
+.gb-figure-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.gb-figure-caption {
+  padding: 0.4rem 0;
+  font-size: 0.85rem;
+  font-style: italic;
+  line-height: 1.3;
+  text-align: center;
+  /* 9.6:1 on #1a1a1a */
+  color: #c9c9c9;
+}
+
+/* lighter than body links -> readable at caption size */
+.gb-figure-caption a {
+  color: #8ec2ec;
+}
+
+@media (max-width: 768px) {
+  .gb-figure-left,
+  .gb-figure-right {
+    float: none;
+    clear: both;
+    margin: 1em auto;
+  }
+}
+
+/* natural-width tables from the re-migration (no data-max-width in legacy html).
+   !important: entity page css forces width:100% on all content tables */
+body.skin-giantbomb table.gb-table-natural {
+  width: auto !important;
 }
 
 /* GB Gallery Lightbox */

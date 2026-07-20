@@ -422,15 +422,17 @@ $wgDefaultUserOptions['visualeditor-editor'] = 'wikitext'; // We still want the 
 $wgDefaultUserOptions['visualeditor-tabs'] = 'prefer-wt';
 $wgDefaultUserOptions['usebetatoolbar'] = 1; 
 $wgDefaultUserOptions['visualeditor-newwikitext'] = 1;
+# group 4 = the 'insert' dropdown; wide (toolbarOnTop) already ships media
 $wgHooks['VEForAllToolbarConfigNormal'][] = function( &$defaultConfig ) {
     if ( isset( $defaultConfig[4] ) ) {
-        $defaultConfig[4]['include'][] = 'media';
+        array_unshift( $defaultConfig[4]['include'], 'media' );
+        $defaultConfig[4]['include'][] = 'transclusion';
     }
 };
 
 $wgHooks['VEForAllToolbarConfigWide'][] = function( &$defaultConfig ) {
     if ( isset( $defaultConfig[4] ) ) {
-        $defaultConfig[4]['include'][] = 'media';
+        $defaultConfig[4]['include'][] = 'transclusion';
     }
 };
 

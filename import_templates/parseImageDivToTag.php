@@ -195,14 +195,23 @@ class UpdateTemplateImages extends Maintenance
             return null;
         }
 
+        // non-jpg renditions often exist only under the ignore_jpg_ key
+        $ext = strtolower(pathinfo($file, PATHINFO_EXTENSION));
+        $notJpg = !in_array($ext, ["jpg", "jpeg"], true);
         $useSize = $sizes[0];
         foreach (self::PREFERRED_SIZES as $candidate) {
+            if ($notJpg && in_array("ignore_jpg_$candidate", $sizes)) {
+                $useSize = "ignore_jpg_$candidate";
+                break;
+            }
             if (in_array($candidate, $sizes)) {
                 $useSize = $candidate;
                 break;
             }
         }
 
+        // spaces etc in legacy filenames break bare urls -> encode
+        $file = rawurlencode($file);
         return self::LEGACY_UPLOAD_HOST . "/a/uploads/$useSize/$path/$file";
     }
 
@@ -261,9 +270,13 @@ class UpdateTemplateImages extends Maintenance
             $templateBody = $matches[1];
 
             if (preg_match("/\|\s*Image\s*=[^|}]*/i", $templateBody)) {
+                // swap the value only, preserving trailing whitespace --
+                // eating it made identical-url pages diff (newline before }}).
+                // lazy core + \s* keeps internal spaces (legacy space-named
+                // files) inside the value
                 $newBody = preg_replace(
-                    "/(\|\s*Image\s*=)[^|}]*/i",
-                    "$1$url",
+                    "/(\|\s*Image\s*=[ \t]*)([^|}]*?)(\s*)(?=\||\}|$)/i",
+                    "\${1}{$url}\${3}",
                     $templateBody,
                 );
             } else {

@@ -1,0 +1,15 @@
+diff --git a/includes/PFFormPrinter.php b/includes/PFFormPrinter.php
+index 14d274aa..06bce5a4 100644
+--- a/includes/PFFormPrinter.php
++++ b/includes/PFFormPrinter.php
+@@ -748,6 +748,10 @@ END;
+ 			return PFUtils::getWordForYesOrNo( true );
+ 		// if it's 3 or greater, assume it's a date or datetime
+ 		} elseif ( count( $value ) >= 3 ) {
++			// a plain list (e.g. tokens current values on render) lacks its 'is_list' marker -> not a date
++			if ( !isset( $value['month'], $value['day'], $value['year'] ) ) {
++				return implode( "$delimiter ", $value );
++			}
+ 			$month = $value['month'];
+ 			$day = $value['day'];
+ 			if ( $day !== '' ) {

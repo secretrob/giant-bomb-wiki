@@ -6,7 +6,23 @@ class HtmlToMediaWikiConverter
 {
     use CommonVariablesAndMethods;
 
+    // rendered width = min(data-width, cap); caps = measured rendition widths.
+    // data-size="large" serves scale_super (960w) -- scale_large is only 640w
+    private const IMAGE_WIDTH_CAPS = [
+        "small" => 320,
+        "medium" => 480,
+        "large" => 960,
+    ];
+    private const IMAGE_RENDITIONS = [
+        "small" => "scale_small",
+        "medium" => "scale_medium",
+        "large" => "scale_super",
+    ];
+
     private DbInterface $dbw;
+
+    // GBFigure calls pulled out of <li> content, re-emitted before the list
+    private array $hoistedFigures = [];
 
     private DOMDocument $dom;
     private int $typeId;
@@ -35,6 +51,61 @@ class HtmlToMediaWikiConverter
     public function setWikiPageTitleResolver(?callable $resolver): void
     {
         $this->wikiPageTitleResolver = $resolver;
+    }
+
+    /**
+     * Optional hook: look up a legacy image id in the `image` table.
+     * Return ['name' => ..., 'path' => ..., 'deleted' => 0|1] or null.
+     */
+    private $imageLookup = null;
+
+    public function setImageLookup(?callable $lookup): void
+    {
+        $this->imageLookup = $lookup;
+    }
+
+    // rendition keys vary per image: non-jpg often exists only as ignore_jpg_*
+    private function chooseRendition(array $row, string $size): string
+    {
+        $rendition = self::IMAGE_RENDITIONS[$size];
+        $ext = strtolower(pathinfo($row["name"], PATHINFO_EXTENSION));
+        $keys = array_map(
+            "trim",
+            explode(",", (string) ($row["image_sizes"] ?? "")),
+        );
+        if (
+            !in_array($ext, ["jpg", "jpeg"], true) &&
+            in_array("ignore_jpg_{$rendition}", $keys, true)
+        ) {
+            return "ignore_jpg_{$rendition}";
+        }
+        return $rendition;
+    }
+
+    // filenames can carry spaces etc -> encode, or the bare url breaks
+    private function buildUploadUrl(string $rendition, array $row): string
+    {
+        return "https://www.giantbomb.com/a/uploads/{$rendition}/{$row["path"]}" .
+            rawurlencode($row["name"]);
+    }
+
+    // media.giantbomb.com urls carry stale buckets + size-suffixed filenames;
+    // the image table knows the real path/name. null = not media-hosted,
+    // false = drop (deleted or unresolvable), array = the image row
+    private function lookupMediaImage(string $url): null|false|array
+    {
+        if (
+            strpos($url, "media.giantbomb.com/uploads") === false ||
+            $this->imageLookup === null
+        ) {
+            return null;
+        }
+        $base = basename((string) parse_url($url, PHP_URL_PATH));
+        if (!preg_match('/^(\d+)-/', $base, $m)) {
+            return false;
+        }
+        $row = ($this->imageLookup)((int) $m[1]);
+        return $row && empty($row["deleted"]) ? $row : false;
     }
 
     /**
@@ -99,7 +170,30 @@ class HtmlToMediaWikiConverter
             $parent->removeChild($figureTag);
         }
 
-        // followed by non-figure img tags
+        // <image> pass runs BEFORE the <img> pass: many legacy embeds nest
+        // <a><img/></a> inside <image> -- an earlier img pass turned that img
+        // into a bare url text node that convertImage then read as the caption,
+        // rendering a duplicate copy of the image
+        $imagesToProcess = [];
+        $images = $block->getElementsByTagName("image");
+        foreach ($images as $imageNode) {
+            $imagesToProcess[] = $imageNode;
+        }
+        foreach (array_reverse($imagesToProcess) as $image) {
+            $mwImage = $this->convertImage($image);
+            if ($mwImage === false) {
+                if ($image->parentNode) {
+                    $image->parentNode->removeChild($image);
+                }
+            } else {
+                $textNode = $this->dom->createTextNode($mwImage);
+                if ($image->parentNode) {
+                    $image->parentNode->replaceChild($textNode, $image);
+                }
+            }
+        }
+
+        // followed by remaining standalone img tags
         $imagesToProcess = [];
         $images = $block->getElementsByTagName("img");
         foreach ($images as $imageNode) {
@@ -113,26 +207,6 @@ class HtmlToMediaWikiConverter
                 continue;
             }
             $mwImage = $this->convertImg($image);
-            if ($mwImage === false) {
-                if ($image->parentNode) {
-                    $image->parentNode->removeChild($image);
-                }
-            } else {
-                $textNode = $this->dom->createTextNode($mwImage);
-                if ($image->parentNode) {
-                    $image->parentNode->replaceChild($textNode, $image);
-                }
-            }
-        }
-
-        // followed by non-figure image tags
-        $imagesToProcess = [];
-        $images = $block->getElementsByTagName("image");
-        foreach ($images as $imageNode) {
-            $imagesToProcess[] = $imageNode;
-        }
-        foreach (array_reverse($imagesToProcess) as $image) {
-            $mwImage = $this->convertImage($image);
             if ($mwImage === false) {
                 if ($image->parentNode) {
                     $image->parentNode->removeChild($image);
@@ -171,7 +245,14 @@ class HtmlToMediaWikiConverter
             $listsToProcess[] = $listNode;
         }
         foreach (array_reverse($listsToProcess) as $list) {
+            $this->hoistedFigures = [];
             $mwList = $this->convertList($list);
+            // figures found inside list items float beside the list on the old
+            // site; a block template inside a "#" line splits the list instead
+            if ($this->hoistedFigures) {
+                $mwList =
+                    implode("\n", $this->hoistedFigures) . "\n" . $mwList;
+            }
             $textNode = $this->dom->createTextNode($mwList);
             if ($list->parentNode) {
                 $list->parentNode->replaceChild($textNode, $list);
@@ -278,6 +359,10 @@ class HtmlToMediaWikiConverter
             );
         }
 
+        // unwrap spans -- old-editor font-size styling noise; leaving them in
+        // ends as literal &lt;span&gt; text once a saveHTML pass escapes them
+        $description = preg_replace("/<\/?span[^>]*>/i", "", $description);
+
         // replace the i|em with ''
         $description = preg_replace("/<\/?(?:i|em)>/", "''", $description);
 
@@ -304,6 +389,17 @@ class HtmlToMediaWikiConverter
         // account for entities that were not saved by the utf-8 encoding
         $description = str_replace("&amp;lt;", "&lt;", $description);
         $description = str_replace("&amp;gt;", "&gt;", $description);
+
+        // inline elements that survive to a text node get entity-escaped by the
+        // final saveHTML; these are all mw-legal attr-less tags -> restore them.
+        // p happens inside table cells (convertTable runs before the p pass)
+        foreach (["u", "sub", "sup", "s", "strike", "del", "p"] as $tag) {
+            $description = str_ireplace(
+                ["&lt;{$tag}&gt;", "&lt;/{$tag}&gt;"],
+                ["<{$tag}>", "</{$tag}>"],
+                $description,
+            );
+        }
 
         // replace the ampersand with and for page links
         $description = preg_replace_callback(
@@ -347,7 +443,12 @@ class HtmlToMediaWikiConverter
      */
     public function convertTable(DOMElement $table): string
     {
-        $mwTable = "\n{| class='wikitable' style='margin:auto;width:100%;'\n";
+        // legacy html only marks some tables full-width; the rest render natural
+        // (gb-table-natural beats the skin's forced 100% width)
+        $mwTable =
+            $table->getAttribute("data-max-width") === "true"
+                ? "\n{| class='wikitable' style='margin:auto;width:100%;'\n"
+                : "\n{| class='wikitable gb-table-natural'\n";
 
         $caption = $table->getElementsByTagName("caption")->item(0);
         if ($caption) {
@@ -555,30 +656,109 @@ class HtmlToMediaWikiConverter
      */
     public function convertFigure(DOMElement $figure): string|false
     {
-        $align = $figure->getAttribute("data-align");
-
-        $src = "";
         $img = $figure->getElementsByTagName("img")->item(0);
-
-        if ($img) {
-            $src = $img->getAttribute("data-src") ?: $img->getAttribute("src");
-            $src = str_replace(
-                "static.giantbomb.com",
-                "www.giantbomb.com/a",
-                $src,
-            );
-            $src = str_replace(
-                "giantbomb1.cbsistatic.com",
-                "www.giantbomb.com/a",
-                $src,
-            );
-        } else {
+        if (!$img) {
             echo "WARNING: Missing img tag in figure element.\r\n";
             // skip if image is missing
             return false;
         }
+        $full = $this->rewriteImageHost(
+            $img->getAttribute("data-src") ?: $img->getAttribute("src"),
+        );
+        if ($full === "") {
+            return false;
+        }
 
-        return $src . " ";
+        $size = strtolower($figure->getAttribute("data-size"));
+        if (!isset(self::IMAGE_WIDTH_CAPS[$size])) {
+            $size = "medium";
+        }
+
+        $src = $this->rewriteImageHost(
+            $figure->getAttribute("data-resize-url"),
+        );
+        if ($src === "") {
+            $src = $this->buildScaledUrl($full, $size);
+        }
+
+        $width = null;
+        $nativeWidth = (int) $figure->getAttribute("data-width");
+        if ($nativeWidth > 0) {
+            $width = min($nativeWidth, self::IMAGE_WIDTH_CAPS[$size]);
+        }
+
+        $caption = "";
+        $figcaption = $figure->getElementsByTagName("figcaption")->item(0);
+        if ($figcaption) {
+            $caption = trim($figcaption->textContent);
+        }
+
+        return $this->buildFigureTemplate(
+            $src,
+            $full,
+            $figure->getAttribute("data-align"),
+            $width,
+            $caption,
+        );
+    }
+
+    private function rewriteImageHost(string $url): string
+    {
+        return str_replace(
+            ["static.giantbomb.com", "giantbomb1.cbsistatic.com"],
+            "www.giantbomb.com/a",
+            $url,
+        );
+    }
+
+    // original -> sized rendition. plain size segments serve every format;
+    // ignore_jpg_ only exists on urls data-resize-url carried verbatim
+    private function buildScaledUrl(string $originalUrl, string $size): string
+    {
+        $rendition = self::IMAGE_RENDITIONS[$size];
+        $scaled = preg_replace(
+            "#/uploads/original/#",
+            "/uploads/{$rendition}/",
+            $originalUrl,
+            1,
+        );
+        return $scaled ?? $originalUrl;
+    }
+
+    private function escapeTemplateParam(string $value): string
+    {
+        // keep template syntax from breaking out of the param
+        return str_replace(
+            ["|", "{{", "}}"],
+            ["{{!}}", "&#123;&#123;", "&#125;&#125;"],
+            $value,
+        );
+    }
+
+    private function buildFigureTemplate(
+        string $src,
+        string $full,
+        string $align,
+        ?int $width,
+        string $caption,
+    ): string {
+        $align = strtolower($align);
+        if (!in_array($align, ["left", "right", "center"], true)) {
+            $align = "none";
+        }
+
+        $tpl = "{{GBFigure|src=" . $this->escapeTemplateParam($src);
+        if ($full !== "" && $full !== $src) {
+            $tpl .= "|full=" . $this->escapeTemplateParam($full);
+        }
+        $tpl .= "|align=" . $align;
+        if ($width !== null) {
+            $tpl .= "|width=" . $width;
+        }
+        if ($caption !== "") {
+            $tpl .= "|caption=" . $this->escapeTemplateParam($caption);
+        }
+        return "\n" . $tpl . "}}\n";
     }
 
     /**
@@ -595,14 +775,18 @@ class HtmlToMediaWikiConverter
             return false;
         }
 
-        $src = str_replace("static.giantbomb.com", "www.giantbomb.com/a", $src);
-        $src = str_replace(
-            "giantbomb1.cbsistatic.com",
-            "www.giantbomb.com/a",
-            $src,
-        );
+        $hit = $this->lookupMediaImage($src);
+        if ($hit === false) {
+            return false;
+        }
+        if (is_array($hit)) {
+            return $this->buildUploadUrl(
+                $this->chooseRendition($hit, "medium"),
+                $hit,
+            ) . " ";
+        }
 
-        return $src . " ";
+        return $this->rewriteImageHost($src) . " ";
     }
 
     /**
@@ -613,16 +797,76 @@ class HtmlToMediaWikiConverter
      */
     public function convertImage(DOMElement $image): string|false
     {
-        $src = $image->getAttribute("data-img-src");
+        $full = $this->rewriteImageHost($image->getAttribute("data-img-src"));
+        if ($full === "") {
+            return false;
+        }
 
-        $src = str_replace("static.giantbomb.com", "www.giantbomb.com/a", $src);
-        $src = str_replace(
-            "giantbomb1.cbsistatic.com",
-            "www.giantbomb.com/a",
+        $size = strtolower($image->getAttribute("data-size"));
+        if (!isset(self::IMAGE_WIDTH_CAPS[$size])) {
+            $size = "medium";
+        }
+
+        $hit = $this->lookupMediaImage($full);
+        if ($hit === false) {
+            return false;
+        }
+        if (is_array($hit)) {
+            // stale media-host embed: rebuild both urls from the image row
+            $full = $this->buildUploadUrl("original", $hit);
+            $src = $this->buildUploadUrl(
+                $this->chooseRendition($hit, $size),
+                $hit,
+            );
+        } else {
+            // data-resize-url is the old site's own choice -> prefer it verbatim
+            $src = $this->rewriteImageHost(
+                $image->getAttribute("data-resize-url"),
+            );
+            if ($src === "" || strpos($src, "media.giantbomb.com") !== false) {
+                // data-ref-id = 1300-<image id> -> pick the rendition key that
+                // actually exists for this image when we can look it up
+                $row = null;
+                if (
+                    $this->imageLookup !== null &&
+                    preg_match(
+                        '/^1300-(\d+)$/',
+                        $image->getAttribute("data-ref-id"),
+                        $m,
+                    )
+                ) {
+                    $row = ($this->imageLookup)((int) $m[1]);
+                }
+                $src = $row && empty($row["deleted"])
+                    ? $this->buildUploadUrl(
+                        $this->chooseRendition($row, $size),
+                        $row,
+                    )
+                    : $this->buildScaledUrl($full, $size);
+            }
+        }
+
+        $width = null;
+        $nativeWidth = (int) $image->getAttribute("data-width");
+        if ($nativeWidth > 0) {
+            $width = min($nativeWidth, self::IMAGE_WIDTH_CAPS[$size]);
+        }
+
+        // inner text is the caption; runs before the link pass so textContent is
+        // complete. bare urls in a caption would render as a second image -> strip
+        $caption = trim(preg_replace(
+            ["#https?://\S+#", "/\s+/"],
+            ["", " "],
+            $image->textContent,
+        ));
+
+        return $this->buildFigureTemplate(
             $src,
+            $full,
+            $image->getAttribute("data-align"),
+            $width,
+            $caption,
         );
-
-        return $src . " ";
     }
 
     /**
@@ -645,8 +889,29 @@ class HtmlToMediaWikiConverter
                 $currentLinePrefix = str_repeat($listPrefix, $depth);
                 $listContent = trim($this->getInnerHtml($child, ["ul", "ol"]));
 
-                // append the list item text
-                $mwList .= $currentLinePrefix . " " . $listContent . "\n";
+                // hoist figures out of the item: their newlines split the list
+                // and restart numbering. a list item is one line anyway, so
+                // collapsing the remaining whitespace is safe
+                if (
+                    preg_match_all(
+                        "/\{\{GBFigure\|[^}]*\}\}/",
+                        $listContent,
+                        $figs,
+                    )
+                ) {
+                    array_push($this->hoistedFigures, ...$figs[0]);
+                    $listContent = trim(preg_replace(
+                        ["/\{\{GBFigure\|[^}]*\}\}/", "/\s+/"],
+                        ["", " "],
+                        $listContent,
+                    ));
+                }
+
+                // append the list item text (figure-only items have none, but
+                // still fall through to the nested-list scan below)
+                if ($listContent !== "") {
+                    $mwList .= $currentLinePrefix . " " . $listContent . "\n";
+                }
 
                 // check for nested lists within this <li> element
                 foreach ($child->childNodes as $listChild) {
