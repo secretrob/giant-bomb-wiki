@@ -31,6 +31,7 @@ This will build a dev enviroment ready to work on from a working sample of produ
 
 1. Anything with File:xxx is due to the data cut not including images.
 2. Some items in characters, companies, etc may have a number in the name. This is from the live data to prevent duplicates and is expected.
+3. The images tabs won't have any data in them either.
 
 ## Common Commands
 

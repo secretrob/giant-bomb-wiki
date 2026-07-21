@@ -1,0 +1,1886 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Characters/Kagachi</title>
+    <ns>0</ns>
+    <id>57884</id>
+    <revision>
+      <id>58001</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58001</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="sxdjq1n2yd8yme6x0751fmgnakf5n9d" xml:space="preserve">{{Character
+| Name=Kagachi
+| Guid=3005-58667
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Ninja_Gaiden_4
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>sxdjq1n2yd8yme6x0751fmgnakf5n9d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Kaine 14901</title>
+    <ns>0</ns>
+    <id>464555</id>
+    <revision>
+      <id>995166</id>
+      <parentid>739599</parentid>
+      <timestamp>2026-07-19T02:03:26Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>995166</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2566" sha1="bmks4v8wavh2xngb4bmgzeb4oaiv1e7" xml:space="preserve">{{Character
+| Name=Kainé
+| Guid=3005-14901
+| Aliases=Kaine
+| Deck=A secondary character in the hack-n-slash title Nier.
+| Gender=Non-Binary
+| Concepts=Concepts/Dual_Wielding,Concepts/Intersex,Concepts/Magic,Concepts/Possession,Concepts/Profanity,Concepts/Revealing_Attire
+| Enemies=Characters/Grimoire_Noir,Characters/The_Shadowlord
+| Franchises=Franchises/Drakengard,Franchises/Final_Fantasy,Franchises/NieR
+| Friends=Characters/Emil,Characters/Grimoire_Weiss,Characters/Nier,Characters/Prince_of_Facade
+| Games=Games/Nier,Games/NieR_Reincarnation,Games/NieR_Replicant
+| Locations=
+| People=People/Atsuko_Tanaka,People/Laura_Bailey
+| Objects=Objects/Bandages,Objects/Sword
+| Image=https://www.giantbomb.com/a/uploads/scale_super/6/65194/1636878-nier_kaine.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"1636878-nier_kaine.jpg","path":"6\/65194\/","mime":"image\/jpeg","sizes":"square_avatar,square_mini,scale_small,square_small,square_tiny,square_medium,scale_medium,screen_medium,scale_large,scale_avatar,ignore_jpg_scale_small,scale_tiny,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+Kainé is a prominent secondary character in [[Games/Nier|Nier]] and [[Games/NieR_Replicant|Nier Replicant]]. Upon beginning a second playthrough, players have the opportunity to read through the dreams Kainé has during her five year petrification. In these dreams it is heavily hinted at but never outright stated that despite her female appearance, Kainé was born intersex. This leads to both she and her grandmother being driven from the Aerie. Kainé was possessed by the shade Tyrann (who offers to 'correct (your) little problem' if she wants him to) after the death of her grandmother at the hands of another Shade. She wears bandages along the left side of her body to hide the marks of her possession.
+
+Kainé is a sword-wielding fighter who accompanies [[Characters/Nier|Nier]] on his journey. She normally uses two small swords, as well as a wide array of magic. She is also ill-tempered, angers easily, and her dialogue is laced with profanity. The profanity can be traced to her grandmother, who was rather foul-mouthed as well, while Kainé's anger stems not only from the loss of her grandmother and the treatment she has received over her gender and Shade possession, but just as much from her own sense of self-loathing.
+
+[[People/Laura_Bailey|Laura Bailey]] voices Kainé in the English language version of Nier, although her role is uncredited. Her Japanese voice actress is [[People/Atsuko_Tanaka|Atsuko Tanaka]].</text>
+      <sha1>bmks4v8wavh2xngb4bmgzeb4oaiv1e7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Kalhar</title>
+    <ns>0</ns>
+    <id>57759</id>
+    <revision>
+      <id>721999</id>
+      <parentid>721997</parentid>
+      <timestamp>2026-02-14T19:40:46Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>721999</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="675" sha1="qbq2y4waldx7dsg0mu3zx5ijr4btnqm" xml:space="preserve">{{Character
+| Name=Kalhar
+| Guid=3005-58541
+| Deck=A famous Mantellian Savrip who worked as a brawler and gladiator.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3799392-image.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3799392-image.png","path":"45\/456753\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A famous Mantellian Savrip who worked as a brawler and gladiator.</text>
+      <sha1>qbq2y4waldx7dsg0mu3zx5ijr4btnqm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Kamila 58629</title>
+    <ns>0</ns>
+    <id>57846</id>
+    <revision>
+      <id>57963</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57963</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1102" sha1="o2r1eapuwzibvxwbk6pwa0jlfv2g4pr" xml:space="preserve">{{Character
+| Name=Kamila
+| Guid=3005-58629
+| Gender=Non-Binary
+| Concepts=Concepts/Digging,Concepts/Female_Protagonists,Concepts/Geriatric_Protagonist,Concepts/Gliding,Concepts/Idle_Animations,Concepts/Idle_Dialogue,Concepts/Sliding_Down_Ladders,Concepts/Voice_Acting
+| Enemies=Characters/Colonel_Hans_Foote,Characters/Demon_Mouse,Characters/Dog_58603,Characters/Twinkletoes
+| Franchises=Franchises/Super_Granny
+| Friends=Characters/Hilda_58632,Characters/Margaret_58630,Characters/Super_Granny
+| Games=Games/Super_Granny_4,Games/Super_Granny_5
+| Locations=Locations/Cannery,Locations/Cruise_Ship,Locations/Egypt,Locations/Las_Vegas,Locations/Meow_Aid
+| People=People/Gin_Hammond
+| Objects=Objects/Bomb,Objects/Earrings,Objects/Frying_Pan,Objects/Glasses,Objects/Jackhammer,Objects/Key,Objects/Kitty_Carrier,Objects/Lab_Coat,Objects/Pen,Objects/Pencil,Objects/Pipe_1348,Objects/Purse,Objects/Screwdriver,Objects/Shoes,Objects/Shopping_Bag,Objects/Super_Sneakers,Objects/Umbrella,Objects/Watering_Can,Objects/Whistle,Objects/Wrench
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>o2r1eapuwzibvxwbk6pwa0jlfv2g4pr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Kamishiro Rui</title>
+    <ns>0</ns>
+    <id>57715</id>
+    <revision>
+      <id>57831</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57831</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="245" sha1="lwttyuqi1tup6qa30wnq9h98ld0hy9i" xml:space="preserve">{{Character
+| Name=Kamishiro Rui
+| Guid=3005-58497
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Hatsune_Miku_Colorful_Stage
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>lwttyuqi1tup6qa30wnq9h98ld0hy9i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Kaname Date</title>
+    <ns>0</ns>
+    <id>58023</id>
+    <revision>
+      <id>58140</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58140</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="832" sha1="jqtn5ph3o88zo9prld90ib10jngervn" xml:space="preserve">{{Character
+| Name=Kaname Date
+| Guid=3005-58806
+| Deck=The police-detective protagonist of the Somnium Files series. While a competent detective, his tendency for perversion often irritates those around him.
+| Concepts=Concepts/Detective,Concepts/Pervert,Concepts/Police
+| Enemies=Characters/Saito_Sejima
+| Franchises=
+| Friends=Characters/Aiba_58812,Characters/Boss_58814,Characters/Iris_Sagan,Characters/Mizuki_Okiura,Characters/Pewter
+| Games=Games/AI_The_Somnium_Files,Games/AI_The_Somnium_Files_Nirvana_Initiative,Games/No_Sleep_for_Kaname_Date_From_AI_The_Somnium_File
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The police-detective protagonist of the Somnium Files series. While a competent detective, his tendency for perversion often irritates those around him.</text>
+      <sha1>jqtn5ph3o88zo9prld90ib10jngervn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Kannuki</title>
+    <ns>0</ns>
+    <id>57748</id>
+    <revision>
+      <id>57864</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57864</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="487" sha1="6euplyolp0x7d2in56onfrbytghchj3" xml:space="preserve">{{Character
+| Name=Kannuki
+| Guid=3005-58530
+| Deck=An assassin from the Ryukyu Islands in the Bushido Blade series.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Bushido_Blade,Games/Bushido_Blade_2
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+* Kannuki (風閂)
+* Full Name: Unknown
+* Age: 29 years
+* Height: 191.1 cm/6 feet 3 inches
+* Weight: 90 kg/198.4 lbs
+* Place of Birth: Okinawa Prefecture
+* Type: Power
+</text>
+      <sha1>6euplyolp0x7d2in56onfrbytghchj3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Kano 58578</title>
+    <ns>0</ns>
+    <id>57796</id>
+    <revision>
+      <id>722065</id>
+      <parentid>722063</parentid>
+      <timestamp>2026-02-14T19:41:05Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722065</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="768" sha1="of6nlcr33lrh0y3n04eb07iobim3449" xml:space="preserve">{{Character
+| Name=Kano
+| Guid=3005-58578
+| Deck=A clone trooper sergeant who served under General Skywalker and Captain Rex during the Battle of Ryloth.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3805569-maxresdefault.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3805569-maxresdefault.jpg","path":"45\/456753\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A clone trooper sergeant who served under General Skywalker and Captain Rex during the Battle of Ryloth.</text>
+      <sha1>of6nlcr33lrh0y3n04eb07iobim3449</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Kaori 58656</title>
+    <ns>0</ns>
+    <id>57873</id>
+    <revision>
+      <id>57990</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57990</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="261" sha1="qvck5idi4ae4jn3sc5ahlaf3as7knsa" xml:space="preserve">{{Character
+| Name=Kaori
+| Guid=3005-58656
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Ike_Ike_Nekketsu_Hockey_bu_Subete_Koronde_Dairantou
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>qvck5idi4ae4jn3sc5ahlaf3as7knsa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Karl Donitz</title>
+    <ns>0</ns>
+    <id>58033</id>
+    <revision>
+      <id>58150</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58150</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="255" sha1="f5h2oe4lv8vceqjabd0p8rxfu80kka4" xml:space="preserve">{{Character
+| Name=Karl Dönitz
+| Guid=3005-58816
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/P_T_O_Pacific_Theater_of_Operations_IV
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>f5h2oe4lv8vceqjabd0p8rxfu80kka4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Kayron</title>
+    <ns>0</ns>
+    <id>57908</id>
+    <revision>
+      <id>58025</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58025</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="472" sha1="6md3ww9csx7mb19mpbua1dpb5s1vsez" xml:space="preserve">{{Character
+| Name=Kayron
+| Guid=3005-58691
+| Deck=An Acolyte and commander of an undead army, and a major antagonist throughout the first story arc of Epic 7.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Chaos_Zero_Nightmare,Games/Epic_Seven
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+An Acolyte and commander of an undead army, and a major antagonist throughout the first story arc of Epic 7.</text>
+      <sha1>6md3ww9csx7mb19mpbua1dpb5s1vsez</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Kellie Newman</title>
+    <ns>0</ns>
+    <id>57851</id>
+    <revision>
+      <id>722082</id>
+      <parentid>722079</parentid>
+      <timestamp>2026-02-14T19:41:11Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722082</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="560" sha1="ts4bo8v9dii2kobr6rqtxb2uo5zsnet" xml:space="preserve">{{Character
+| Name=Kellie Newman
+| Guid=3005-58634
+| Deck=From The Tiger Woods PGA Tour Golf Game Series.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/239/2391650/3809808-kellienewman.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3809808-kellienewman.jpg","path":"239\/2391650\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_super,square_tiny","caption":null},"background":[]}' /&gt;
+From The Tiger Woods PGA Tour Golf Game Series.</text>
+      <sha1>ts4bo8v9dii2kobr6rqtxb2uo5zsnet</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Khalipe</title>
+    <ns>0</ns>
+    <id>57913</id>
+    <revision>
+      <id>58030</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58030</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="232" sha1="peq1am5p8y9ezgqy0r2hsn3cf53dcz1" xml:space="preserve">{{Character
+| Name=Khalipe
+| Guid=3005-58696
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Chaos_Zero_Nightmare
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>peq1am5p8y9ezgqy0r2hsn3cf53dcz1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Killer Tomato</title>
+    <ns>0</ns>
+    <id>57823</id>
+    <revision>
+      <id>57939</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57939</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="787" sha1="fllonzq9ysowus1xn4rsqbf06m1zhst" xml:space="preserve">{{Character
+| Name=Killer Tomato
+| Guid=3005-58605
+| Concepts=Concepts/Eating,Concepts/Sentient_Plant,Concepts/Trap
+| Enemies=Characters/Gnome_58602,Characters/Gorilla,Characters/Monkey_43350,Characters/Robo_Kitty,Characters/Robot,Characters/Tiki_Man
+| Franchises=
+| Friends=Characters/Super_Granny
+| Games=Games/Granny_in_Paradise,Games/Super_Granny,Games/Super_Granny_3,Games/Super_Granny_Winter_Wonderland
+| Locations=Locations/Cave,Locations/Factory,Locations/Farm,Locations/Forest,Locations/Ice_Cave,Locations/Jungle,Locations/Mount_Vertigo,Locations/Resort,Locations/Splashbucklers,Locations/The_American_FUNtier,Locations/Transylfangia,Locations/Underwater,Locations/Volcano
+| People=
+| Objects=Objects/Tomato
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>fllonzq9ysowus1xn4rsqbf06m1zhst</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Kindachi</title>
+    <ns>0</ns>
+    <id>57751</id>
+    <revision>
+      <id>57867</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57867</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="368" sha1="j7ocoeqck8o9m356trf8kmpz6diyi3g" xml:space="preserve">{{Character
+| Name=Kindachi
+| Guid=3005-58533
+| Deck=A mysterious armor-clad warrior and a secret boss in Bushido Blade.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Bushido_Blade
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+A mysterious armor-clad warrior and a secret boss in Bushido Blade.</text>
+      <sha1>j7ocoeqck8o9m356trf8kmpz6diyi3g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/King Homer</title>
+    <ns>0</ns>
+    <id>58000</id>
+    <revision>
+      <id>58117</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58117</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="267" sha1="jhnffyid7bhr1lrz7rtmn653dqoqoeo" xml:space="preserve">{{Character
+| Name=King Homer
+| Guid=3005-58783
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/The_Simpsons_Night_of_The_Living_Treehouse_of_Horror
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jhnffyid7bhr1lrz7rtmn653dqoqoeo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/King Minos 30556</title>
+    <ns>0</ns>
+    <id>464581</id>
+    <revision>
+      <id>995291</id>
+      <parentid>740490</parentid>
+      <timestamp>2026-07-19T02:10:12Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>995291</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1023" sha1="0on8f8lr7pd7kz3ujvhcg7fbiqgvtmz" xml:space="preserve">{{Character
+| Name=King Minos
+| Guid=3005-30556
+| Deck=King Minos was the ruler of Crete. He later became one of the judges of the dead in the afterlife.
+| Gender=Male
+| Concepts=Concepts/Greek_Mythology,Concepts/Royalty
+| Enemies=Characters/Dante_Alighieri
+| Franchises=
+| Friends=Characters/Hades,Characters/Zeus_1101
+| Games=Games/Age_of_Empires_Online,Games/Disneys_Hades_Challenge,Games/Escape_From_Hell,Games/Heroes_Evolved
+| Locations=Locations/Ancient_Greece,Locations/Greece
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/original/16/164924/2684878-1873642345-KingM.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2684878-1873642345-KingM.png","path":"16\/164924\/","mime":"image\/png","sizes":"scale_super,square_tiny,square_medium,square_small,scale_small,square_avatar,square_mini,scale_medium,screen_medium,scale_large,scale_avatar,screen_kubrick","caption":""},"background":[]}' /&gt;
+King Minos was the ruler of Crete. He later became one of the judges of the dead in the afterlife.</text>
+      <sha1>0on8f8lr7pd7kz3ujvhcg7fbiqgvtmz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Kintaro 205</title>
+    <ns>0</ns>
+    <id>464506</id>
+    <revision>
+      <id>995299</id>
+      <parentid>978602</parentid>
+      <timestamp>2026-07-19T02:10:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>995299</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6176" sha1="smr1131991ehq86g6v72o1mn8ibzmub" xml:space="preserve">{{Character
+| Name=Kintaro
+| Guid=3005-205
+| Deck=Kintaro is a tiger striped Mortal Kombat II sub-boss, who would later become playable in Mortal Kombat: Armageddon. He is said to be even more powerful and agile than the mighty Goro.
+| Gender=Male
+| Concepts=Concepts/Character_Select_Screen,Concepts/Fatality,Concepts/Mini_Boss,Concepts/More_Than_Two_Arms,Concepts/Playable_Boss,Concepts/Recurring_Boss,Concepts/Shokan,Concepts/SNK_Boss_Syndrome,Concepts/Special_Attack,Concepts/Teleportation,Concepts/Yin_yang_Symbol
+| Enemies=Characters/Baraka,Characters/Jax,Characters/Kano,Characters/Kitana,Characters/Kratos,Characters/Kuai_Liang,Characters/Kung_Lao,Characters/Kurtis_Stryker,Characters/Liu_Kang,Characters/Motaro,Characters/Nightwolf,Characters/Raiden,Characters/Scorpion,Characters/Shang_Tsung,Characters/Shao_Kahn,Characters/Sonya_Blade
+| Franchises=Franchises/Midway_Arcade_Treasures,Franchises/Mortal_Kombat
+| Friends=Characters/Goro,Characters/Shao_Kahn
+| Games=Games/Midway_Arcade_Treasures_2,Games/Midway_Arcade_Treasures_Deluxe_Edition,Games/Midway_Arcade_Treasures_Extended_Play,Games/Mortal_Kombat_11,Games/Mortal_Kombat_2011,Games/Mortal_Kombat_And_Mortal_Kombat_II,Games/Mortal_Kombat_Arcade_Kollection,Games/Mortal_Kombat_Armageddon,Games/Mortal_Kombat_Deception,Games/Mortal_Kombat_II,Games/Mortal_Kombat_Legacy_Kollection,Games/Mortal_Kombat_Mobile,Games/Mortal_Kombat_Shaolin_Monks,Games/Mortal_Kombat_Trilogy,Games/Mortal_Kombat_Unchained
+| Locations=Locations/Outworld,Locations/Shao_Kahns_Battle_Arena,Locations/The_Krypt
+| People=People/David_Gautrey
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/11/110502/1847736-ladder2kintaro.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"1847736-ladder2kintaro.png","path":"11\/110502\/","mime":"image\/png","sizes":"square_avatar,square_tiny,square_medium,square_small,square_mini,scale_small,screen_medium,scale_large,scale_medium,scale_avatar,scale_tiny,scale_super,screen_kubrick","caption":"Kintaro Ladder"},"background":[]}' /&gt;
+
+==Profile==
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/scale_super/11/118253/1662918-sheeva_kintaro.jpg|full=https://www.giantbomb.com/a/uploads/original/11/118253/1662918-sheeva_kintaro.jpg|align=right|width=320|caption= Sheeva and Kintaro: same race, different feet}}
+Kintaro belongs to the [[Concepts/Shokan|Shokan]], a race of towering half-human, half-dragon hybrids known for their massive strength and their extra pair of arms. He makes his first appearance in [[Games/Mortal_Kombat_II|Mortal Kombat II]] after the defeat of his compatriot [[Characters/Goro|Prince Goro]] in the [[Games/Mortal_Kombat|previous tournament]], and like Goro he is an enforcer for [[Characters/Shao_Kahn|Shao Kahn]], being the final obstacle Earthrealm's warriors must overcome before taking on the Emperor himself. He is portrayed in his debut as being even more fearsome than his predecessor, and his appearance reinforces this. While Goro wore little save his signature yin and yang briefs, Kintaro sports an intimidating pair of spiked shoulder plates, spiked bracers on each of his four arms, and a set of knee protectors. 
+
+ 
+
+The most notable aspects of Kintaro's design are his many tiger-like qualities. Initially, his appearance included tiger striping all over his body. Though this seemed to be mainly a cosmetic choice to differentiate him from Goro, when he later appears in [[Games/Mortal_Kombat_Armageddon|Mortal Kombat: Armageddon]], he is given further feline properties. Along with his stripes, Kintaro now possesses fangs, in addition to claws projecting from his hands and feet. Furthermore, his eyes appear more catlike, and most interestingly of all, he now has feet which resemble the padded feet of a tiger rather than the normal two-toed Shokan's feet. It is unclear if this is a sign of vast genetic variance among his race or if Kintaro's features were unnaturally created. Either way, Kintaro is unlike any other Shokan in [[Franchises/Mortal_Kombat|Mortal Kombat]] to date.
+
+
+=='''Story'''==
+
+
+
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/scale_super/11/118253/1662911-kintaro_concept.jpg|full=https://www.giantbomb.com/a/uploads/original/11/118253/1662911-kintaro_concept.jpg|align=right|width=320|caption=Kintaro concept art }}
+
+
+
+After hearing that Goro had been killed by [[Characters/Liu_Kang|Liu Kang]] and his Earthrealm companions, Kintaro is so enraged that he vows to personally punish them in the next tournament. Acting as Shao Kahn's bodyguard, Kintaro places himself directly in the path of [[Characters/Raiden|Raiden]]'s champions in order to mete out his own style of [[Locations/Outworld|Outworld]] justice, thereby ensuring that none will have the chance to challenge the Emperor. Despite being larger and more brutal than his comrade, Goro, he is ultimately defeated as well, followed soon after by his master. 
+
+ 
+
+Kintaro's Armageddon storyline is regrettable rather vague, doing little to account for his activities after his upset in Mortal Kombat II. It is stated that he "has served Shao Kahn for many years", though in what capacity it is not revealed. Presumably he enters the Battle for Armageddon to assist the Emperor in defeating the Forces of Light once and for all.
+
+
+==Ending==
+The mighty Kintaro has only two canonical appearances, and being an unplayable boss in one of them, this leaves him with a single ending. Fittingly for one who favors brute force, when he wins he is granted even more power with which to intimidate the enemies of Shao Kahn.
+
+ 
+
+'''[[Games/Mortal_Kombat_Armageddon|Mortal Kombat: Armageddon]] (non-canon)''' 
+
+After besting Blaze in single combat, a mysterious voice offers Kintaro a set of four enchanted swords which can be imbued with the powers of anyone he chooses. After Kintaro selects the powers of fire, ice, chaos and order, the blades seek out and slay [[Characters/Scorpion|Scorpion]], [[Characters/Kuai_Liang|Sub-Zero]], [[Characters/Havik|Havik]] and [[Characters/Hotaru|Hotaru]], stealing their souls. With the abilities of these warriors at his command, Kintaro is unstoppable, killing any foolish enough to challenge him. </text>
+      <sha1>smr1131991ehq86g6v72o1mn8ibzmub</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Kitty 58604</title>
+    <ns>0</ns>
+    <id>57822</id>
+    <revision>
+      <id>57938</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57938</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="368" sha1="8kxza8s3s4mu60rv99b1lgssoosepyn" xml:space="preserve">{{Character
+| Name=Kitty
+| Guid=3005-58604
+| Concepts=
+| Enemies=
+| Franchises=Franchises/Super_Granny
+| Friends=Characters/Super_Granny
+| Games=Games/Super_Granny,Games/Super_Granny_4,Games/Super_Granny_5,Games/Super_Granny_6,Games/Super_Granny_Winter_Wonderland
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>8kxza8s3s4mu60rv99b1lgssoosepyn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Klick</title>
+    <ns>0</ns>
+    <id>57758</id>
+    <revision>
+      <id>721998</id>
+      <parentid>721996</parentid>
+      <timestamp>2026-02-14T19:40:45Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>721998</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="654" sha1="026q38my5dlfsj67lwmyvcqm1q8p45a" xml:space="preserve">{{Character
+| Name=Klick
+| Guid=3005-58540
+| Deck=A clone trooper pilot who served the Galactic Republic.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3799390-image.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3799390-image.png","path":"45\/456753\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A clone trooper pilot who served the Galactic Republic.</text>
+      <sha1>026q38my5dlfsj67lwmyvcqm1q8p45a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Koji</title>
+    <ns>0</ns>
+    <id>57875</id>
+    <revision>
+      <id>57992</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57992</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="278" sha1="29o0qdazd6gpyt0adfdxty3czcaea30" xml:space="preserve">{{Character
+| Name=Koji
+| Guid=3005-58658
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=Characters/Hiroshi
+| Games=Games/Ike_Ike_Nekketsu_Hockey_bu_Subete_Koronde_Dairantou
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>29o0qdazd6gpyt0adfdxty3czcaea30</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Konosuke Todo</title>
+    <ns>0</ns>
+    <id>57810</id>
+    <revision>
+      <id>57926</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57926</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="253" sha1="a7fnj7eqzcejlrm5006ybeq7gy8tb1x" xml:space="preserve">{{Character
+| Name=Konosuke Tōdō
+| Guid=3005-58592
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Crash_N_the_Boys_Street_Challenge
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>a7fnj7eqzcejlrm5006ybeq7gy8tb1x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Ku 23802</title>
+    <ns>0</ns>
+    <id>464565</id>
+    <revision>
+      <id>740303</id>
+      <timestamp>2026-03-04T19:48:14Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>740303</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="372" sha1="axh6adomjj8kzu49t88364l3rcdj48m" xml:space="preserve">{{Character
+| Name=Kú
+| Guid=3005-23802
+| Deck=The main character from the game Kú.
+| Gender=Male
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Ku_Shroud_of_the_Morrigan
+| Locations=Locations/Ireland
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Kú is named after the hero Cúchulainn from Irish mythology.
+
+</text>
+      <sha1>axh6adomjj8kzu49t88364l3rcdj48m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Kumiko 58715</title>
+    <ns>0</ns>
+    <id>57932</id>
+    <revision>
+      <id>58049</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58049</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="219" sha1="9v3ary4se6s84lmngmj37362zlmyufi" xml:space="preserve">{{Character
+| Name=Kumiko
+| Guid=3005-58715
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Renegade
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9v3ary4se6s84lmngmj37362zlmyufi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Kurobo</title>
+    <ns>0</ns>
+    <id>57886</id>
+    <revision>
+      <id>58003</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58003</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="225" sha1="llaowpxq0i5tfjeetzgg6g8rej7jp03" xml:space="preserve">{{Character
+| Name=Kurobo
+| Guid=3005-58669
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Ninja_Gaiden_4
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>llaowpxq0i5tfjeetzgg6g8rej7jp03</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Kuruto Ryuki</title>
+    <ns>0</ns>
+    <id>58025</id>
+    <revision>
+      <id>58142</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58142</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="256" sha1="5gvtsx7stfyiavnno2rw308ulmkevxg" xml:space="preserve">{{Character
+| Name=Kuruto Ryuki
+| Guid=3005-58808
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/AI_The_Somnium_Files_Nirvana_Initiative
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5gvtsx7stfyiavnno2rw308ulmkevxg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Kusanagi Nene</title>
+    <ns>0</ns>
+    <id>57717</id>
+    <revision>
+      <id>57833</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57833</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="245" sha1="kr78z2jaq4izgrir01c1xjirsi40d2q" xml:space="preserve">{{Character
+| Name=Kusanagi Nene
+| Guid=3005-58499
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Hatsune_Miku_Colorful_Stage
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>kr78z2jaq4izgrir01c1xjirsi40d2q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Lady Nifle</title>
+    <ns>0</ns>
+    <id>57946</id>
+    <revision>
+      <id>58063</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58063</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="231" sha1="hmyu29k9dvcs7g69875r25x8bjqtscc" xml:space="preserve">{{Character
+| Name=Lady Nifle
+| Guid=3005-58729
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Duet_Night_Abyss
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>hmyu29k9dvcs7g69875r25x8bjqtscc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Lana Benton</title>
+    <ns>0</ns>
+    <id>57888</id>
+    <revision>
+      <id>722099</id>
+      <parentid>722096</parentid>
+      <timestamp>2026-02-14T19:41:17Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722099</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1192" sha1="oq5pxy718d4q7egnvqst3x816a8f1hq" xml:space="preserve">{{Character
+| Name=Lana Benton
+| Guid=3005-58671
+| Deck=A young girl at an orphanage in 1900s England, searching for her missing only friend and alternating between the real world and a world of fantasy. The protagonist of Bye, Sweet Carole.
+| Concepts=Concepts/Orphan,Concepts/Princess,Concepts/Rabbits,Concepts/Shape_Shifting,Concepts/The_Ingenue,Concepts/Tragic_Hero,Concepts/Young_Protagonist
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Bye_Sweet_Carole
+| Locations=
+| People=
+| Objects=Objects/Bow_1349,Objects/Dress,Objects/Opera_Gloves,Objects/Skirt
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3813734-screenshot2025-10-20234837.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3813734-screenshot2025-10-20234837.png","path":"77\/776653\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,scale_small,square_tiny,square_avatar,square_mini,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A young girl at an orphanage in 1900s England, searching for her missing only friend and alternating between the real world and a world of fantasy. The protagonist of Bye, Sweet Carole.</text>
+      <sha1>oq5pxy718d4q7egnvqst3x816a8f1hq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Lance Turner</title>
+    <ns>0</ns>
+    <id>57869</id>
+    <revision>
+      <id>57986</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57986</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="254" sha1="m9lr5uoqqfjhxsgnaoez21yxa4e712d" xml:space="preserve">{{Character
+| Name=Lance Turner
+| Guid=3005-58652
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Downtown_Nekketsu_Baseball_Monogatari
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>m9lr5uoqqfjhxsgnaoez21yxa4e712d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Lao Xing</title>
+    <ns>0</ns>
+    <id>58020</id>
+    <revision>
+      <id>58137</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58137</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="240" sha1="09v6yp4qj6on6r3mc2awfxgpf5k86c5" xml:space="preserve">{{Character
+| Name=Lao Xing
+| Guid=3005-58803
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Around_the_World_in_80_Days
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>09v6yp4qj6on6r3mc2awfxgpf5k86c5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Largo (Dota)</title>
+    <ns>0</ns>
+    <id>465173</id>
+    <revision>
+      <id>752716</id>
+      <timestamp>2026-03-10T14:43:14Z</timestamp>
+      <contributor>
+        <username>Darthbotto</username>
+        <id>118</id>
+      </contributor>
+      <comment>Created page with "{{Character |Guid=4f9ce74d-1212-46ea-bf4d-32e696b5335f |Name=Largo |Aliases=Bard Monk |Deck=A playable Dota character, Largo is a Strength hero. |RealName=Largo |Gender=Male |Concepts=Concepts/Bards, Concepts/Frogs |Franchises=Franchises/Dota |Games=Games/Dota 2 }}"</comment>
+      <origin>752716</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="265" sha1="i0jc7d9aj0iveuw1kmhbkl9uehfzf21" xml:space="preserve">{{Character
+|Guid=4f9ce74d-1212-46ea-bf4d-32e696b5335f
+|Name=Largo
+|Aliases=Bard Monk
+|Deck=A playable Dota character, Largo is a Strength hero.
+|RealName=Largo
+|Gender=Male
+|Concepts=Concepts/Bards, Concepts/Frogs
+|Franchises=Franchises/Dota
+|Games=Games/Dota 2
+}}</text>
+      <sha1>i0jc7d9aj0iveuw1kmhbkl9uehfzf21</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Larry Light</title>
+    <ns>0</ns>
+    <id>57789</id>
+    <revision>
+      <id>722051</id>
+      <parentid>722049</parentid>
+      <timestamp>2026-02-14T19:41:01Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722051</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1580" sha1="hdo1mv99vxwpvlhgm9uggh5s4z6twub" xml:space="preserve">{{Character
+| Name=Larry Light
+| Guid=3005-58571
+| Deck=An intelligent, honest and optimistic man, for whom to find true happiness is more important than money or power. He also is very good with cultural conversations. Larry's partner is Chris Wayne, a conflictual young man. He once helped Chris from being arrested for vandalism. Since then, Larry has been Chris's tutor and friend.
+| Concepts=Concepts/Descendants_of_Other_Characters,Concepts/Fire,Concepts/Fire_Manipulation,Concepts/Sexualized_Men,Concepts/Shoto_clone,Concepts/Teachers
+| Enemies=Characters/Bristol_Weller,Characters/Damian_Shade,Characters/Rudolph_Gartheimer,Characters/Ume_Goketsu
+| Franchises=
+| Friends=Characters/Chris_Wayne
+| Games=Games/Groove_on_Fight_Gouketsuji_Ichizoku_3
+| Locations=Locations/The_United_States_of_America
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/36/361609/3805637-larry_light.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3805637-larry_light.png","path":"36\/361609\/","mime":"image\/png","sizes":"scale_medium,scale_super,square_small,square_medium,square_avatar,scale_small,scale_tiny,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini,square_tiny","caption":null},"background":[]}' /&gt;
+An intelligent, honest and optimistic man, for whom to find true happiness is more important than money or power. He also is very good with cultural conversations. Larry's partner is Chris Wayne, a conflictual young man. He once helped Chris from being arrested for vandalism. Since then, Larry has been Chris's tutor and friend.</text>
+      <sha1>hdo1mv99vxwpvlhgm9uggh5s4z6twub</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Laufey Norse</title>
+    <ns>0</ns>
+    <id>624673</id>
+    <revision>
+      <id>975336</id>
+      <parentid>974253</parentid>
+      <timestamp>2026-07-03T18:11:29Z</timestamp>
+      <contributor>
+        <username>Solidejake</username>
+        <id>338</id>
+      </contributor>
+      <origin>975336</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="332" sha1="h0gzexj4gtibbjttsqbwvme3gmribue" xml:space="preserve">{{Character
+|Guid=13648530-9667-4b86-b1e7-f2826c9b8237
+|Name=Laufey
+|Aliases=Fey, Nál
+|Image=Fjr RjPUUAAxzwJ.webp
+|Deck=In Norse mythology, Laufey is the mother of Loki.
+|Gender=Female
+|Concepts=Concepts/Frost Giants
+|Friends=Characters/Kratos, Characters/Atreus
+|Franchises=Franchises/God of War
+|People=People/Deborah Ann Woll
+}}</text>
+      <sha1>h0gzexj4gtibbjttsqbwvme3gmribue</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Laura 3037</title>
+    <ns>0</ns>
+    <id>464521</id>
+    <revision>
+      <id>995429</id>
+      <parentid>979222</parentid>
+      <timestamp>2026-07-19T02:18:06Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>995429</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8762" sha1="ijh6tmxzouub2exh5jelswt7jamugym" xml:space="preserve">{{Character
+| Name=Laura
+| Guid=3005-3037
+| Deck=A cleric from Daein, spent her childhood with Aran.
+| Gender=Non-Binary
+| Concepts=Concepts/Beorc,Concepts/Dawn_Brigade,Concepts/Healer,Concepts/Random_Number_Generation,Concepts/Religion
+| Enemies=Characters/Ashera,Characters/Jarod
+| Franchises=Franchises/Fire_Emblem
+| Friends=Characters/Aran,Characters/Micaiah
+| Games=Games/Fire_Emblem_Radiant_Dawn
+| Locations=Locations/Daein,Locations/Tellius
+| People=
+| Objects=Objects/Magic_Staff
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/5555/284335-laura.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"284335-laura.jpg","path":"0\/5555\/","mime":"image\/jpeg","sizes":"square_avatar,scale_small,square_small,square_mini,scale_medium,screen_medium,scale_large,scale_avatar,square_tiny,square_medium,scale_super,screen_kubrick","caption":"Laura"},"background":[]}' /&gt;
+
+==Personality==
+&lt;blockquote&gt;"You have caused more suffering than any being I've ever met. Did you not learn that the goddess will someday punish those who harm others?" -- Laura, when fighting Numida
+
+&lt;/blockquote&gt;Being a [[Concepts/Priest|priest]], Laura is very pure and devoted to the goddess. It is also already clear that she fights for what she believes is right. She is also quite positive. As befits a [[Concepts/Healer|healer]], she is both kind and gentle, and she will do whatever it takes to help people that are in need of help. Although, Laura can be misled at times. She once believes that the Dawn Brigade is a group of bandits when she talks with Aran. She then goes on to tell him that even though they're both bandits now because they've joined the Dawn Brigade, they have to be "honorable" bandits. Micaiah doesn't understand how Laura mistook them for bandits, and Aran tries to grasp the concept of an "honorable" bandit.
+
+
+==Military Affiliation==
+Laura is one of the new characters in [[Games/Fire_Emblem_Radiant_Dawn|Fire Emblem: Radiant Dawn]], so she serves under [[Characters/Micaiah|Micaiah]]'s command in the [[Concepts/Dawn_Brigade|Dawn Brigade]], and later in the [[Locations/Daein|Daein]] Liberation Army. And like every new character that fights under Micaiah and [[Characters/Pelleas|Pelleas]], she too is not familiar with anyone from the [[Concepts/Greil_Mercenaries|Greil Mercenaries]], and will not be recruited to their side by anyone else ever. At least not until Part Four when all sides are on equal terms and the player can opt to place her in one of three armies.
+
+
+==Story==
+Laura was living in a small town in Daein where the abbot was teaching her to do the right thing, the way the goddess, [[Characters/Ashera|Ashera]], would want them to. However, her abbot fell sick at the time when the [[Locations/Begnion|Begnion]] Occupational Army came to Daein to do as they pleased. One group from the Occupational Army stole the medicine she needed for her abbot. After that, the Dawn Brigade had bumped into her, and she pleaded for them to help her get the medicine for the abbot back. Micaiah agreed immediately, and the player is put into a chapter to recover the medicine, raid chests, and kill soldiers. After they get the medicine, Laura has disappeared, so Micaiah goes to search for her. It is revealed that [[Characters/Jarod|Jarod]] has captured Laura, using her as bait to capture Micaiah as well. The two girls are later locked away, and they meet [[Characters/Ilyana|Ilyana]], [[Characters/Aimee|Aimee]], and [[Characters/Kurthnaga|Kurth]]. [[Characters/Sothe|Sothe]] comes by shortly to free them, but soldiers have surrounded the prison to keep them from escaping. Just then, the rest of the Dawn Brigade appears. Sothe questions how they managed to sneak past security, so [[Characters/Nolan|Nolan]] and [[Characters/Edward|Edward]] say that a Begnion soldier ordered them to follow him if they were going to save Laura. Micaiah and Laura then question why a Begnion soldier would mention Laura's name.
+
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_medium/12/120766/2139747-laura_and_aran.jpg|full=http://www.giantbomb.com/a/uploads/original/12/120766/2139747-laura_and_aran.jpg|align=right|caption=Laura and Aran}}
+As the fight goes on, a blue soldier appears very early. Laura will comment that he looks familiar. If the player allows Laura to talk to him, she finds out that the soldier is [[Characters/Aran|Aran]], her childhood friend! She asks why he, a Daein, would side with Begnion. He says that he's not sure if he considers himself a Daein since a family of merchants from Begnion took him in, but he could never bring himself to hurt Laura, who's been like a little sister to him. He then tells her to run for her life now, but she says she can't abandon Micaiah and Sothe, who have risked their lives for her to get the medicine and are still risking their lives for her. Aran concedes, and says he can't support the horrible things Begnion is doing to Daein. He then decides that he will fight for what's right, the way the abbot taught them, and he'll get her and everyone else out of this place. She cheers for him and says that he hasn't changed a bit; still so considerate.
+
+
+==Supports==
+Unlike [[Games/Fire_Emblem_Path_of_Radiance|Fire Emblem: Path of Radiance]] (and most other Fire Emblem games), the [[Concepts/Support_Relationship|support conversation]] (and system) are much more simplified in Fire Emblem: Radiant Dawn. Laura can have a support with anyone she spends a lot of time with. She can also only have one support with one character at any given time. For example, say Laura has a support with [[Characters/Leonardo_3035|Leonardo]], but the player decides that a support between Laura and Aran would be better. To make a support between Laura and Aran, the player would first have to delete the support between Laura and Leonardo before letting Laura make a new support with Aran. She cannot have a support with both characters ''at the same time''.
+
+In her C support conversation, she will tell the unit to stay safe. In her B support conversation, she tells the unit she wants to go with them to protect them. In her A support conversation, she says that something strange has happened. She confesses that she thinks of the unit during the goddess's teachings. She then pleads the unit to not die because she doesn't want the goddess to take the unit away from her.
+
+In most Fire Emblem games, two characters who have a particular bond yield a special ending if they have an A support. One can expect that Laura and Aran have a special ending if they have an A support, but for whatever reason, they do not.
+
+As it turns out, there is some unused content on the support system for Radiant Dawn. If Laura were to have a support with certain characters, then she would have a full-length support conversation in the A support conversation only. '''Of course, the full-length support conversation for the A support was cut out'''. This may be due to Ike and Micaiah having an immense amount of potential A support conversations...and either of them '''alone''' would be too many.
+
+The characters that were planned to have the special support conversation with (and the possible reasons) were:
+
+* '''Aran''' (childhood friend. Obvious)
+* '''Ilyana''' (both use magic and are female)
+* '''Fiona''' (both look up to Micaiah and are female)
+* '''Meg''' (both are in the Dawn Brigade and are female)
+* '''Micaiah''' (Laura is part of the Dawn Brigade)
+* '''Nealuchi''' (Like with Aran; no clue)
+* '''Nolan''' (no clue)
+* '''Tanith''' (Laura is sweet and kind. Tanith is feared and strict)
+
+==Classes==
+Laura starts off as a level 1 Priest. When she reaches level 21 or uses a Master Seal when she reaches level 10, then she will [[Concepts/Class_Change|promote]] to the second tier Bishop class and can now use Light [[Concepts/Magic|Magic]] tomes in addition to staves. When she reaches level 21 in this class or uses a Master Crown when she reaches level 10 in this class, then she will promote to the third tier Saint class and gains the Master Skill, Corona.
+
+Strangely enough, Laura is a priest even though she is female. In other Fire Emblem games, as well as in real life, only men were priests.
+
+
+==Unit Data==
+
+===Base Stats===
+* Affinity: Wind
+* HP: 16
+* Strength: 3
+* Magic: 8
+* Skill: 3
+* Speed: 5
+* Luck: 8
+* Defense: 2
+* Resistance: 10
+* Constitution/Build: 5
+* Weight: 5
+* Movement: 5
+* Weapon grade: Staves - D
+
+===Growth Rates===
+* Health: 45%
+* Strength: 20%
+* Magic: 70%
+* Skill: 70%
+* Speed: 70%
+* Luck: 50%
+* Defense: 20%
+* Resistance: 35%
+
+==Ending==
+Laura has one ending at the end of the game. It is as follows:
+
+
+===Carefree Saint - Laura===
+Laura returned to her home's church and became a mother to many orphans, all of whom loved her gentleness.</text>
+      <sha1>ijh6tmxzouub2exh5jelswt7jamugym</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Lazarus 9988</title>
+    <ns>0</ns>
+    <id>464550</id>
+    <revision>
+      <id>995436</id>
+      <parentid>739451</parentid>
+      <timestamp>2026-07-19T02:18:28Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>995436</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2958" sha1="hmfcix8xudm3v2hu113fpgsc658gh72" xml:space="preserve">{{Character
+| Name=Lazarus
+| Guid=3005-9988
+| Deck=Archbishop Lazarus, chief warden of the Primal Evil Mephisto's soulstone, acts as false adviser to King Leoric and plays a large hand in helping Diablo escape his imprisonment.
+| RealName=Lazarus
+| Gender=Male
+| Concepts=
+| Enemies=Characters/Wirt_the_Peg_Legged_Boy
+| Franchises=Franchises/Diablo
+| Friends=Characters/Diablo,Characters/King_Leoric,Characters/Mephisto,Characters/The_Butcher_3055
+| Games=Games/Diablo
+| Locations=Locations/Tristram
+| People=People/Paul_Eiding
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/1/10005/937194-ss46_hires.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"937194-ss46_hires.jpg","path":"1\/10005\/","mime":"image\/jpeg","sizes":"square_avatar,square_tiny,square_small,scale_small,square_mini,scale_medium,screen_medium,scale_large,scale_avatar,square_medium,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+Archbishop Lazarus, of the [[Concepts/Order_of_Zakarum|Order of Zakarum]]  from the lands of Kurast, acts as the warden of the Primal evil Mephisto's soulstone.  The once holy order has been twisted and corrupted by [[Characters/Mephisto|Mephisto]] over the course of 253 years.  Lazarus is sent to the domain of King Leoric to beguile him and free Mephisto's brother Diablo. Lazarus arrives and quickly charms Leoric and his people alike, hiding his true goals masterfully. Eventually Lazarus enters the catacombs beneath the monastery that serves as Leoric's court and confronts the trapped Diablo . The Primal Evil tells Lazarus he requires a body so they set there sights on  Leoric. Diablo, in his weakened state, is unable to fully dominate the man's mind and Leoric begins to act increasingly insane. Lazarus attempts to shield the battle raging within the king's mind from his people but eventually it can no longer be hid. Diablo forsakes Leoric, leaving him twisted and broken, and instead implores Lazarus to return with his son.  Lazarus abducts the king's young son Albrecht and brings him to Diablo to serve as a mortal shell for the lord of terror. By this point the townsfolk are enraged at the loss of there king and prince and Lazarus returns to them and deceives them one final time. Thinking quickly Lazarus rallies the townsfolk into a mob to hunt for the prince, but instead leads them to the lair of the butcher. The butcher , a fearsome demon who empowers Diablo by spilling  the blood of innocents, massacres the townsfolk and Lazarus disappears into the catacombs once again now serving as Diablo's lair. Lazarus now only has to help Diablo regain his full might before he breaks free of his prison and rejoins his brothers, the other two Primal Evils. It's at this point a brave and mighty hero enters the catacombs and slays Lazarus, ensuring that the treacherous archbishop  never deceives another liveing soul again. [[Characters/The_Butcher_3055|Characters/The_Butcher_3055]]</text>
+      <sha1>hmfcix8xudm3v2hu113fpgsc658gh72</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Lego Brick</title>
+    <ns>0</ns>
+    <id>57709</id>
+    <revision>
+      <id>57825</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57825</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="247" sha1="fpxux0qwa2ub8flw8uq9qqyn57r06q2" xml:space="preserve">{{Character
+| Name=Lego Brick
+| Guid=3005-58491
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Battle_For_Dream_Island_Again_5b
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>fpxux0qwa2ub8flw8uq9qqyn57r06q2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Lennie Briscoe</title>
+    <ns>0</ns>
+    <id>58049</id>
+    <revision>
+      <id>722154</id>
+      <parentid>722151</parentid>
+      <timestamp>2026-02-14T19:41:38Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722154</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="848" sha1="luebcm0tbb84bqy5mdjlhtgedsbooup" xml:space="preserve">{{Character
+| Name=Lennie Briscoe
+| Guid=3005-58832
+| Concepts=Concepts/Character_Models_Based_on_Actual_People,Concepts/Detective,Concepts/Voice_Acting
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Law_And_Order_Dead_on_the_Money,Games/Law_And_Order_II_Double_or_Nothing,Games/Law_And_Order_Justice_is_Served,Games/Law_And_Order_Legacies
+| Locations=Locations/Manhattan,Locations/New_York_City
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3828433-0261445437-hqdef.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3828433-0261445437-hqdef.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,square_small,square_medium,square_avatar,scale_medium,square_tiny,screen_medium,screen_kubrick,square_mini,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>luebcm0tbb84bqy5mdjlhtgedsbooup</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Leon Easton</title>
+    <ns>0</ns>
+    <id>57895</id>
+    <revision>
+      <id>58012</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58012</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="246" sha1="601aldnhfm3bd643upe4te1uhcv5l6r" xml:space="preserve">{{Character
+| Name=Leon Easton
+| Guid=3005-58678
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Death_Stranding_2_On_the_Beach
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>601aldnhfm3bd643upe4te1uhcv5l6r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Libra 25656</title>
+    <ns>0</ns>
+    <id>464571</id>
+    <revision>
+      <id>995469</id>
+      <parentid>980878</parentid>
+      <timestamp>2026-07-19T02:20:17Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>995469</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1816" sha1="4bsdevoyoeacxpc82bgggf0ieedufd2" xml:space="preserve">{{Character
+| Name=Libra
+| Guid=3005-25656
+| Deck=A saint of Ylisse, he is commonly mistaken for a woman.
+| Gender=Non-Binary
+| Concepts=Concepts/Androgyny,Concepts/Cross_dressing
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Fire_Emblem_Awakening,Games/Fire_Emblem_Heroes
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/18/181999/2439040-libra.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2439040-libra.jpg","path":"18\/181999\/","mime":"image\/jpeg","sizes":"square_small,square_tiny,square_medium,scale_small,square_avatar,square_mini,scale_medium,screen_medium,scale_large,scale_avatar,scale_super,scale_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/18/181999/2440823-libera.jpg|full=http://www.giantbomb.com/a/uploads/original/18/181999/2440823-libera.jpg|align=left|caption=Libra's Character Portrait}}
+Libra is a saint of Ylisse and typically come off with a calm and cool personality not really expressing his emotions either in battle or when talking with allies. He has a painful past and joined the clergy shortly after he was abandoned by his parents. His birthday is on July 1.
+
+
+
+In many of Libra's support conversations he is commonly mistaken for being a woman, much to the chagrin of male allies. However we also learn a bit about Libra's personality and personal life, finding him to doubt his want to be a priest and his views on humanity.
+
+
+
+Libra joins the party as a War Monk and is thus already promoted.
+
+
+
+
+==Stats &amp;amp; Growth==
+
+{| class='wikitable gb-table-natural'
+|-
+! Column Head||HP||Strength||Magic||Skill||Speed||Luck||Defense||Resistance
+|-
+| Base||39||14||16||13||14||10||11||16
+|-
+| Growth||90%||40%||50%||55%||50%||45%||35%||40%
+|}</text>
+      <sha1>4bsdevoyoeacxpc82bgggf0ieedufd2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Lilith 4066</title>
+    <ns>0</ns>
+    <id>464530</id>
+    <revision>
+      <id>995476</id>
+      <parentid>979367</parentid>
+      <timestamp>2026-07-19T02:20:41Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>995476</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5749" sha1="5rzz3tuwkpg4wfyj31bbymp85cp2lx9" xml:space="preserve">{{Character
+| Name=Lilith
+| Guid=3005-4066
+| Deck=A character in the Darkstalkers series spawned from Morrigan. She plays a prominent role in Darkstalkers 3 but also appears in a number of other Capcom fighting games.
+| RealName=Lilith Aensland
+| Gender=Non-Binary
+| Birthday=1980-10-20
+| Concepts=Concepts/Bust_Waist_Hip_Measurement,Concepts/Character_Select_Screen,Concepts/Clownish_Combatant,Concepts/Combo,Concepts/CPS,Concepts/Dark_Humor,Concepts/Double_Jump,Concepts/Flight,Concepts/Guest_Costume,Concepts/Juggling,Concepts/Jump,Concepts/Projectile,Concepts/Revealing_Attire,Concepts/Sexualized_Women,Concepts/Shoto_clone,Concepts/Special_Attack,Concepts/Succubus,Concepts/Tomboy
+| Enemies=Characters/B_B_Hood,Characters/Jedah_Dohma,Characters/Victor_von_Gerdenheim
+| Franchises=Franchises/Capcom_Versus,Franchises/Darkstalkers,Franchises/Marvel_vs_Capcom,Franchises/Tatsunoko,Franchises/Tatsunoko_vs_Capcom
+| Friends=Characters/Demitri_Maximoff,Characters/Jedah_Dohma,Characters/Morrigan_Aensland,Characters/Steve_Rogers
+| Games=Games/Capcom_Arcade_2nd_Stadium,Games/Capcom_Fighting_Collection,Games/Capcom_Fighting_Collection_2,Games/Capcom_Fighting_Evolution,Games/Cross_Edge,Games/Darkstalkers_3,Games/Darkstalkers_Chronicle_The_Chaos_Tower,Games/Darkstalkers_Resurrection,Games/Marvel_vs_Capcom_2_New_Age_of_Heroes,Games/Marvel_vs_Capcom_Clash_of_Super_Heroes,Games/Marvel_vs_Capcom_Fighting_Collection_Arcade_Classics,Games/Marvel_vs_Capcom_Origins,Games/Namco_x_Capcom,Games/Pocket_Fighter,Games/Street_Fighter_Battle_Combination,Games/Street_Fighter_X_All_Capcom,Games/Tatsunoko_vs_Capcom_Cross_Generation_of_Heroes,Games/Tatsunoko_vs_Capcom_Ultimate_All_Stars,Games/Teppen,Games/Ultimate_Marvel_vs_Capcom_3,Games/Vampire_Chronicle_For_Matching_Service,Games/Vampire_Darkstalkers_Collection
+| Locations=
+| People=People/Hiroko_Konishi
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/11/115746/2468846-darkstalkers_resurrection_lilith.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2468846-darkstalkers_resurrection_lilith.png","path":"11\/115746\/","mime":"image\/png","sizes":"square_small,square_tiny,square_medium,scale_tiny,scale_super,scale_medium,scale_small,square_avatar,square_mini,screen_medium,scale_avatar,scale_large,screen_kubrick","caption":"Darkstalkers Resurrection artwork"},"background":[]}' /&gt;
+
+==Overview==
+
+===Origin===
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/11/115746/2468848-darkstalkers_3_baby_bonnie_hood_lilith_morrigan.png|full=http://www.giantbomb.com/a/uploads/original/11/115746/2468848-darkstalkers_3_baby_bonnie_hood_lilith_morrigan.png|align=right|width=320}}
+Lilith was born from the [[Concepts/Succubus|succubus]][[Characters/Morrigan_Aensland|Morrigan Aensland]]who was born as an 'S-class' noble, however the noble houses of the land of Makai were in conflict with each other and as a succubus it was not acceptable for Morrigan to have rights to such power. By herself Morrigan could also not control her power and without the proper precautions Morrigan's power could have destroyed both herself and the land around her. As a solution Morrigan's father, the ruler of Makai, Belial, split her soul into two pieces at birth and placed one of the pieces in a negative space to contain it. Belial intended to return the piece of the soul to Morrigan when she was ready to control the entirety of her powers but died before this could be done.
+
+
+===Darkstalkers 3===
+After a roughly a decade the fragment of soul became self-aware and began to grow a will of its own, along with an instinct to return to where it came from, this conscious piece of soul was Lilith. In [[Games/Darkstalkers_3|Darkstalkers 3]]the evil [[Concepts/Demon|demon]][[Characters/Jedah_Dohma|Jedah Dohma]]gave Lilith a body of her own, attempting to use her to lure Morrigan and the other Darkstalkers to him. Lilith enjoyed her freedom until she eventually discovered that she was not a complete person and that she was just a piece of a complete soul. To continue her existence Lilith had to find the soul she was spawned from and so she began a quest to find her "soul mate".
+
+Realizing how desperately Lilith needed to find Morrigan, Jedah directly tried to manipulate Lilith to meet Morrigan as part of his trap, however Lilith saw through Jedah's deception. In Morrigan's ending Lilith is absorbed by Morrigan, making Morrigan a more cheerful person like Lilith and giving her a more optimistic view of the world. In Lilith's ending she fails to reach Morrigan's unconscious body in time and fades from existence, however when Morrigan awakens she feels something has changed in her.
+
+
+===Other Appearances===
+Lilith appears alongside Morrigan in [[Games/Marvel_vs_Capcom_Clash_of_Super_Heroes|Marvel vs. Capcom: Clash of Super Heroes]]
+
+where she aids Morrigan in combat. She also appears in [[Games/Marvel_vs_Capcom_2_New_Age_of_Heroes|Marvel vs Capcom 2: New Age of Heroes]]. She also appears in Morrigan's dark illusion hyper combo attack in [[Games/Tatsunoko_vs_Capcom_Ultimate_All_Stars|Tatsunoko vs. Capcom: Ultimate All Stars]]. She appears in [[Characters/Felicia|Felicia]]'s ending in [[Games/Capcom_Fighting_Evolution|Capcom Fighting Evolution]]and also appears in a number of other [[Companies/Capcom|Capcom]]titles. Lilith also makes an appearance in [[Games/Cross_Edge|Cross Edge]]as a playable party member.
+
+
+==Trivia==
+* Lilith is 168 cm tall and weighs 54kg. Her bust, waist and hip measurements are 74 cm, 59 cm, 83 cm.
+* The creators of Lilith originally intended her to be the half-demon, half-[[Concepts/Angel|angel]] sister of Morrigan.
+* Like Morrigan, Lilith has the ability to transform her clothes into any clothing she desires.</text>
+      <sha1>5rzz3tuwkpg4wfyj31bbymp85cp2lx9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Lisbell</title>
+    <ns>0</ns>
+    <id>57947</id>
+    <revision>
+      <id>58064</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58064</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" sha1="c72fy0gkragapv7yo5z46gwdei9sgsl" xml:space="preserve">{{Character
+| Name=Lisbell
+| Guid=3005-58730
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Duet_Night_Abyss
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>c72fy0gkragapv7yo5z46gwdei9sgsl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Longbow</title>
+    <ns>0</ns>
+    <id>57786</id>
+    <revision>
+      <id>722046</id>
+      <parentid>722045</parentid>
+      <timestamp>2026-02-14T19:40:59Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722046</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="652" sha1="ndzobhuhq7rhodgoww95xotf73kowna" xml:space="preserve">{{Character
+| Name=Longbow
+| Guid=3005-58568
+| Deck=Native American sniper in Delta Force.
+| RealName=Daniel Lonetree
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Delta_Force_Land_Warrior
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3809766-6409567362-chara.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3809766-6409567362-chara.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"scale_super,square_avatar,square_small,square_medium,scale_medium,scale_small,square_tiny,square_mini","caption":null},"background":[]}' /&gt;
+Native American sniper in Delta Force.</text>
+      <sha1>ndzobhuhq7rhodgoww95xotf73kowna</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Lord Richton</title>
+    <ns>0</ns>
+    <id>58005</id>
+    <revision>
+      <id>722137</id>
+      <parentid>722136</parentid>
+      <timestamp>2026-02-14T19:41:33Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722137</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1047" sha1="i7xrwhbbcs8awdh18y3kpa0umuehwl7" xml:space="preserve">{{Character
+| Name=Lord Richton
+| Guid=3005-58788
+| Deck=Lord-Admiral Richton was the Imperial Provisional Governor of Stros M'Kai and Admiral of the Imperial New West Navy in 2E 864.
+| Concepts=Concepts/Boss_Fight,Concepts/Imperial,Concepts/Military
+| Enemies=Characters/Cyrus_10493
+| Franchises=
+| Friends=
+| Games=Games/The_Elder_Scrolls_Adventures_Redguard
+| Locations=Locations/Stros_M_Kai,Locations/Tamriel
+| People=
+| Objects=Objects/Airship,Objects/Amulet_of_Kings
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3823765-screenshot2025-11-12172339.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3823765-screenshot2025-11-12172339.png","path":"151\/1511438\/","mime":"image\/png","sizes":"scale_super,scale_small,square_small,scale_medium,square_medium,square_tiny,square_avatar,scale_large,scale_avatar,square_mini,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+Lord-Admiral Richton was the Imperial Provisional Governor of Stros M'Kai and Admiral of the Imperial New West Navy in 2E 864.</text>
+      <sha1>i7xrwhbbcs8awdh18y3kpa0umuehwl7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Lori Young</title>
+    <ns>0</ns>
+    <id>57782</id>
+    <revision>
+      <id>722043</id>
+      <parentid>722042</parentid>
+      <timestamp>2026-02-14T19:40:59Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722043</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="710" sha1="9kwmswpwa0d2z16iike0jddsnxt5bnx" xml:space="preserve">{{Character
+| Name=Lori Young
+| Guid=3005-58564
+| Deck=A mechanic that resides in Providence Oaks.
+| Gender=Non-Binary
+| Concepts=Concepts/Wrench_Wench
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Lake
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/23/230867/3804417-8846643977-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3804417-8846643977-latest.png","path":"23\/230867\/","mime":"image\/png","sizes":"scale_medium,scale_super,scale_small,square_small,square_medium,square_avatar,square_tiny,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;
+A mechanic that resides in Providence Oaks.</text>
+      <sha1>9kwmswpwa0d2z16iike0jddsnxt5bnx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Lucas 58698</title>
+    <ns>0</ns>
+    <id>57915</id>
+    <revision>
+      <id>58032</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58032</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="230" sha1="3x1jzuwi96k11ex0x32l5kijg8z5frg" xml:space="preserve">{{Character
+| Name=Lucas
+| Guid=3005-58698
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Chaos_Zero_Nightmare
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3x1jzuwi96k11ex0x32l5kijg8z5frg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Lucia 2807</title>
+    <ns>0</ns>
+    <id>464519</id>
+    <revision>
+      <id>995542</id>
+      <parentid>739133</parentid>
+      <timestamp>2026-07-19T02:24:30Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>995542</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1140" sha1="37kzjtftjqfdgoac7rhd680xz5hqvza" xml:space="preserve">{{Character
+| Name=Lucia
+| Guid=3005-2807
+| Deck=Sister of Geoffrey and loyal retainer to Elincia, she spent most of her childhood with the future Queen of Crimea.
+| Gender=Non-Binary
+| Concepts=Concepts/Beorc,Concepts/Mid_Game_Haircut,Concepts/Random_Number_Generation
+| Enemies=Characters/Ashnard
+| Franchises=Franchises/Fire_Emblem
+| Friends=Characters/Amy,Characters/Elincia,Characters/Geoffrey,Characters/Ike,Characters/Micaiah,Characters/Sothe
+| Games=Games/Fire_Emblem_Awakening,Games/Fire_Emblem_Path_of_Radiance,Games/Fire_Emblem_Radiant_Dawn
+| Locations=Locations/Crimea,Locations/Tellius
+| People=
+| Objects=Objects/Sword
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/5555/260420-lucia.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"260420-lucia.png","path":"0\/5555\/","mime":"image\/png","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+Sister of Geoffrey and loyal retainer to Elincia, she spent most of her childhood with the future Queen of Crimea.</text>
+      <sha1>37kzjtftjqfdgoac7rhd680xz5hqvza</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Lucky McCoy</title>
+    <ns>0</ns>
+    <id>465164</id>
+    <revision>
+      <id>974745</id>
+      <parentid>771166</parentid>
+      <timestamp>2026-06-08T01:51:48Z</timestamp>
+      <contributor>
+        <username>Nickelodeon</username>
+        <id>1239</id>
+      </contributor>
+      <origin>974745</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="198" sha1="thmpptil6qn2bhv05awn3n1vm8h6dsz" xml:space="preserve">{{Character
+|Guid=b3abafbe-1122-4189-93c7-a64431fce3b3
+|Name=Lucky McCoy
+|Image=Lucky McCoy.jpg
+|Deck=The Host of Family Feud (2020).
+|Games=Games/Family Feud 2020
+}}
+The Host of Family Feud (2020).</text>
+      <sha1>thmpptil6qn2bhv05awn3n1vm8h6dsz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Luke 58697</title>
+    <ns>0</ns>
+    <id>57914</id>
+    <revision>
+      <id>58031</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58031</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="osk9yrk4w2d7tm0rtif7v5nkoj79wun" xml:space="preserve">{{Character
+| Name=Luke
+| Guid=3005-58697
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Chaos_Zero_Nightmare
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>osk9yrk4w2d7tm0rtif7v5nkoj79wun</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Lykaia Reign</title>
+    <ns>0</ns>
+    <id>57756</id>
+    <revision>
+      <id>57872</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57872</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="301" sha1="7jy06rf8drls1p2235i6aelebivmnij" xml:space="preserve">{{Character
+| Name=Lykaia Reign
+| Guid=3005-58538
+| Deck=Director of the NCCA and a wolfgirl
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Ananta
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Director of the NCCA and a wolfgirl</text>
+      <sha1>7jy06rf8drls1p2235i6aelebivmnij</sha1>
+    </revision>
+  </page>
+</mediawiki>

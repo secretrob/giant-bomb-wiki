@@ -1,0 +1,1732 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Concepts/Great Tusk</title>
+    <ns>0</ns>
+    <id>95999</id>
+    <revision>
+      <id>588478</id>
+      <parentid>487930</parentid>
+      <timestamp>2026-02-08T07:19:01Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588478</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="590" sha1="87eaady5xg6yu0ugpl99pg5pmwyrwrh" xml:space="preserve">{{Concept
+| Name=Great Tusk
+| Guid=3015-13556
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777870-1280px-0984great_tusk.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777870-1280px-0984great_tusk.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,scale_small,square_tiny,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;</text>
+      <sha1>87eaady5xg6yu0ugpl99pg5pmwyrwrh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Greavard</title>
+    <ns>0</ns>
+    <id>95989</id>
+    <revision>
+      <id>588456</id>
+      <parentid>487920</parentid>
+      <timestamp>2026-02-08T07:18:51Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588456</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="601" sha1="hq8iys0pwogfwd53ru5fdof4zrfu2vc" xml:space="preserve">{{Concept
+| Name=Greavard
+| Guid=3015-13546
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Go,Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777860-1280px-0971greavard.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777860-1280px-0971greavard.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_mini,screen_kubrick,scale_large,scale_avatar,square_avatar,screen_medium","caption":null},"background":[]}' /&gt;</text>
+      <sha1>hq8iys0pwogfwd53ru5fdof4zrfu2vc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Grunt 13261</title>
+    <ns>0</ns>
+    <id>95713</id>
+    <revision>
+      <id>587919</id>
+      <parentid>487720</parentid>
+      <timestamp>2026-02-08T07:14:28Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587919</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1078" sha1="cy2eeqkno16ivszmr1tawjupb7aaw0y" xml:space="preserve">{{Concept
+| Name=Grunt
+| Guid=3015-13261
+| Aliases=Sentō-in,Shock Trooper
+| Deck=One of the most basic enemies of Final Fantasy VII, only slightly tougher than the standard MP.
+| Characters=
+| Concepts=Concepts/Recurring_Minion,Concepts/Soldier
+| Franchises=
+| Games=Games/Final_Fantasy_Brave_Exvius,Games/Final_Fantasy_VII,Games/Final_Fantasy_VII_Final_Fantasy_VIII_Remastered_Twin_Pack,Games/Final_Fantasy_VII_Remake,Games/Pictlogica_Final_Fantasy
+| Locations=Locations/Midgar
+| Objects=Objects/Claw,Objects/Mask,Objects/Plasma_Beam
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3617965-6001485798-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3617965-6001485798-latest.png","path":"16\/164924\/","mime":"image\/png","sizes":"square_avatar,square_small,scale_super,scale_tiny,scale_small,scale_medium,scale_large,scale_avatar,square_medium,square_tiny,screen_kubrick,square_mini,screen_medium","caption":null},"background":[]}' /&gt;
+One of the most basic enemies of Final Fantasy VII, only slightly tougher than the standard MP.</text>
+      <sha1>cy2eeqkno16ivszmr1tawjupb7aaw0y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Guard Hound</title>
+    <ns>0</ns>
+    <id>95709</id>
+    <revision>
+      <id>587914</id>
+      <parentid>487717</parentid>
+      <timestamp>2026-02-08T07:14:26Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587914</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1336" sha1="pwaxkjxxl8qcpdlnqe0uqjmgwgcpab0" xml:space="preserve">{{Concept
+| Name=Guard Hound
+| Guid=3015-13257
+| Aliases=Guard Dog
+| Deck=A genetically modified canine; it is a recurring enemy in Final Fantasy VII-related projects.
+| Characters=Characters/Dark_Nation
+| Concepts=Concepts/Blood_Taste,Concepts/Dog,Concepts/euo0_an,Concepts/Shinra_Electric_Power_Company
+| Franchises=
+| Games=Games/Crisis_Core_Final_Fantasy_VII,Games/Crisis_Core_Final_Fantasy_VII_Reunion,Games/Dirge_of_Cerberus_Final_Fantasy_VII,Games/Final_Fantasy_Brave_Exvius,Games/Final_Fantasy_Record_Keeper,Games/Final_Fantasy_VII,Games/Final_Fantasy_VII_Ever_Crisis,Games/Final_Fantasy_VII_Final_Fantasy_VIII_Remastered_Twin_Pack,Games/Final_Fantasy_VII_G_Bike,Games/Final_Fantasy_VII_Remake,Games/Pictlogica_Final_Fantasy
+| Locations=Locations/Midgar
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3617638-guard_dog_from_ffvii_remake_render.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3617638-guard_dog_from_ffvii_remake_render.png","path":"16\/164924\/","mime":"image\/png","sizes":"scale_medium,scale_small,square_tiny,square_avatar,square_medium,square_small,scale_super,screen_medium,square_mini,scale_avatar,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+A genetically modified canine; it is a recurring enemy in Final Fantasy VII-related projects.</text>
+      <sha1>pwaxkjxxl8qcpdlnqe0uqjmgwgcpab0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Guerrilla</title>
+    <ns>0</ns>
+    <id>95740</id>
+    <revision>
+      <id>587999</id>
+      <parentid>487746</parentid>
+      <timestamp>2026-02-08T07:15:08Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587999</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="852" sha1="op358l19rkntpblrwl24s3tccdw3wis" xml:space="preserve">{{Concept
+| Name=Guerrilla
+| Guid=3015-13291
+| Aliases=Dosoki Yungu
+| Deck=A chained-up gorilla enemy in Super Mario RPG that looks suspiciously familiar.
+| Characters=
+| Concepts=Concepts/Gorillas
+| Franchises=
+| Games=Games/Super_Mario_RPG,Games/Super_Mario_RPG_Legend_of_the_Seven_Stars
+| Locations=
+| Objects=Objects/Chains
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3630247-9544655373-SMRPG.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3630247-9544655373-SMRPG.png","path":"16\/164924\/","mime":"image\/png","sizes":"scale_small,square_medium,square_small,scale_super,scale_tiny,scale_medium,square_tiny,square_avatar,scale_large,square_mini,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+A chained-up gorilla enemy in Super Mario RPG that looks suspiciously familiar.</text>
+      <sha1>op358l19rkntpblrwl24s3tccdw3wis</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Gunjin Shogi</title>
+    <ns>0</ns>
+    <id>95913</id>
+    <revision>
+      <id>588329</id>
+      <parentid>487865</parentid>
+      <timestamp>2026-02-08T07:17:47Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588329</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7242" sha1="1jbqob8niggphrwjut2viv57xlc12of" xml:space="preserve">{{Concept
+| Name=Gunjin Shogi
+| Guid=3015-13468
+| Deck=A war-themed board game of Japanese origin, where the initial placement of each player's army is hidden from their opponent, forcing them to deduce their enemy's composition. It is considered a predecessor to the French game L'Attaque, which inspired the modern Stratego series.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Card_Game_9,Games/Clubhouse_Games,Games/Daredemo_Asobi_Taizen,Games/Family_Gunjin_Shougi,Games/Gunjin_Shogi,Games/Gunshin_Mars,Games/Heisei_Gunjin_Shogi,Games/Kaettekita_Gunjin_Shogi_Nanya_Sore,Games/Kidou_Senshi_Gundam_The_Gunjin_Shogi,Games/Ultimate_Mind_Games
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/87790/3745587-3467146-7155343492-800px.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3745587-3467146-7155343492-800px.jpg","path":"8\/87790\/","mime":"image\/jpeg","sizes":"scale_super,square_tiny,square_medium,square_small,square_mini,scale_medium,square_avatar,scale_small,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+
+==Overview==
+Gunjin shogi, also known by its proper romanization ''gunjin shōgi'' (or ''gunjin shougi'') and as "Soldier Chess" or "Japanese Military Chess", is a [[Locations/Japan|Japanese]] board game believed to have originated in the late 19th century.
+Sometimes considered a variation of traditional [[Concepts/Shogi|shogi]], gunjin shogi uses a unique board layout and a unique set of pieces with special rules involving board setup, hidden pieces, and piece strength. Unlike traditional shogi, this game was intended for children.
+The game's origins are currently unknown, with the earliest mention of the game taking place in the year 1895. It is notable for being a precursor to the French game [https://en.wikipedia.org/wiki/L%27Attaque L'Attaque], which led to the Western board game [[Franchises/Stratego|Stratego]]. Several different publishers have created their own variations of the game, with special rules, boards, and pieces.
+There have been several video game adaptations of gunjin shogi, most of which are Japan-exclusive, and has been included in [https://www.giantbomb.com/clubhouse-games/3030-8573 Clubhouse Games] under the name "Field Tactics".
+
+==Game Rules==
+Players start the game by arranging their pieces on each of their board's spaces face-down, hidden from the opponent. The objective is to capture pieces through attacking and defending, with the end goal being to either occupy the enemy player's two-tile "headquarters" space with one of their higher-rank pieces, destroy all opposing pieces, or, in some rule variations, to defeat the opponent's highest-ranking piece.
+Each piece has their own specific orthogonal movement pattern and "strength", which is what determines which of the two pieces are captured (allowing defending pieces to capture attacking pieces). These pieces are:
+* '''General''' (大将) &amp;gt; '''Lieutenant General''' (中将) &amp;gt; '''Major General''' (少将) - Can move one square in any direction. Defeats all pieces with a lower rank, as well as every other piece except the Mine and, for the highest-ranked General, the Spy. Can capture the headquarters space.
+* '''Colonel''' (大佐) &amp;gt; '''Lieutenant Colonel''' (中佐) &amp;gt; '''Major''' (少佐) - Can move one square in any direction. Defeats all pieces with a lower rank, and can defeat all other pieces except the Generals, the Plane, the Tank, and the Mine. Can capture the headquarters space.
+* '''Captain''' (大尉) &amp;gt; '''First Lieutenant''' (中尉) &amp;gt; '''Second Lieutenant''' (少尉) - Can move one square in any direction. Defeats all pieces with a lower rank, and can defeat all other pieces except the Generals, higher Officers, the Plane, the Tank, and the Mine.
+* '''Plane''' (飛行機) - Can move any number of squares forwards or backwards, as well as one space left or right. Can ignore the entrance rule while moving and can jump over any number of pieces along the way. Can defeat all other pieces except the Generals.
+* '''Tank''' (タンク) - Can move one square in any direction, or two squares forward. Can defeat all except the Generals, the Plane, the Engineer, and the Mine.
+* '''Cavalry''' (騎兵) - Can move one square in any direction, or two squares forward. Can only defeat the Engineer and the Spy.
+* '''Engineer''' (工兵) - Can move any number of squares in any direction. Can only defeat the Tank, the Spy, and the Mine.
+* '''Spy''' (スパイ) - Can move one square in any direction. Can only defeat the highest-ranked General.
+* '''Mine''' (地雷) - Cannot move. Ties with all pieces except the Plane and the Engineer. Cannot be placed at the entrance spaces.
+* '''Flag''' (軍旗) - Cannot move. Shares the same strength as the piece in the row and column directly behind it, immediately losing if there is no piece behind it. Cannot be placed at the entrance spaces and cannot be placed at the back row.
+There are multiple variations to board size and piece count, with the most common being the 8×6 game board with 23 pieces (1 of each General and higher Officer, 2 of each lower Officer, 2 Planes, 2 Tanks, 1 Cavalry, 2 Engineers, 1 Spy, 2 Mines, and 1 Flag). The center of the board has multiple "entrances" by which most pieces can only go through to move-between boards.
+The game traditionally uses a third player as a referee, which secretly determines the outcome of each attack.
+Some variations use new pieces, such as a Marshal.
+
+==Comparison with Stratego==
+It is sometimes considered a distant ancestor with the popular modern Western game [[Franchises/Stratego|Stratego]], with similar rules for board setup, hidden pieces, and piece strengths. There are, however, notable differences:
+* Gunjin shogi generally gives each player a total of 23 pieces, comprised of 16 different types of pieces, while Stratego gives each player 40 pieces, comprised of 12 different types of pieces. Stratego uses a simpler set of pieces with rank-based strength and a limited amount of pieces with special movement properties (the only ones being the immovable Bomb and Flag pieces and the any-distance Scout).
+* Gunjin shogi generally uses a 6×8 board, split into each player's 6×4 placement zone (with the two center spaces closest to the player combined into a single "headquarters" space) and separated by two bridges (which determine how they connect to each-other but are not separate spaces). In Stratego, this is changed to a 10×10 board, split into each player's 10×4 placement zone (with no headquarters space) and separated by a neutral 10×2 zone (with three 2×2 spaces that are passable and two 2×2 spaces that are not).
+* The end goal of gunjin shogi is generally for a player to occupy their opponent's headquarters space with either a Flag piece or one of the six highest-ranked pieces, while the end goal of Stratego is to have any piece take control of the opponent's Flag piece.
+* Gunjin shogi generally require a [[Concepts/Referees|referee]] to quietly resolve battles, and that pieces are kept face-down throughout the game. In Stratego, this is changed so that both pieces are temporarily revealed while resolving each battle.</text>
+      <sha1>1jbqob8niggphrwjut2viv57xlc12of</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Hameln Entertainment</title>
+    <ns>0</ns>
+    <id>95764</id>
+    <revision>
+      <id>95898</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>95898</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="372" sha1="pu376xww1dg0j41cl877knzzr6p9d87" xml:space="preserve">{{Concept
+| Name=Hameln Entertainment 
+| Guid=3015-13315
+| Characters=Characters/Amanda_53163,Characters/Kate_Park,Characters/Riley_Park,Characters/Sam_Colton,Characters/Wooly
+| Concepts=
+| Franchises=
+| Games=Games/Amanda_the_Adventurer,Games/Amanda_the_Adventurer_2
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>pu376xww1dg0j41cl877knzzr6p9d87</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Handsfree Chest Opening</title>
+    <ns>0</ns>
+    <id>96045</id>
+    <revision>
+      <id>999500</id>
+      <parentid>588584</parentid>
+      <timestamp>2026-07-19T07:28:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>999500</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1712" sha1="h1x7ggkwq9vzfdxzrr5zg5jpsatvodp" xml:space="preserve">{{Concept
+| Name=Handsfree Chest Opening
+| Guid=3015-13604
+| Aliases=Opening Chest without Hands,Kicking Open a Chest
+| Deck=When a character opens chests in a non-obvious way. Instead of lifting the lid with their hands, they kick them, hit them with something, or use telekinesis.
+| Characters=
+| Concepts=Concepts/Item_Container,Concepts/Magically_Sealed_Chest
+| Franchises=
+| Games=Games/Kingdom_Hearts,Games/Kingdom_Hearts_3D_Dream_Drop_Distance,Games/Kingdom_Hearts_Birth_by_Sleep,Games/Kingdom_Hearts_HD_1_5_ReMIX,Games/Kingdom_Hearts_HD_I_5_II_5_Remix,Games/Kingdom_Hearts_HD_II_5_Remix,Games/Kingdom_Hearts_HD_II_8_Final_Chapter_Prologue,Games/Kingdom_Hearts_III,Games/Kingdom_Hearts_Union_ch_Cross,Games/Ninja_Gaiden_2004,Games/Ninja_Gaiden_Black,Games/Ninja_Gaiden_II,Games/Ninja_Gaiden_II_Black,Games/Ninja_Gaiden_Master_Collection,Games/Ninja_Gaiden_Sigma,Games/Ninja_Gaiden_Sigma_2
+| Locations=
+| Objects=Objects/Hidden_Treasure_Chest,Objects/Treasure_Chest,Objects/Wand
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3789954-ninjagaidensigma%28ps3%29.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3789954-ninjagaidensigma(ps3).jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,square_mini,square_avatar,square_medium,scale_medium,scale_super,scale_small,square_tiny,scale_tiny,screen_medium,scale_large,scale_avatar,screen_kubrick","caption":null},"background":[]}' /&gt;
+Do not confuse a chest with an [[Concepts/Item_Container|Item Container]], from which items are almost always obtained through force. Games where the character's interaction with objects is not animated (e.g., isometric RPGs such as Diablo) are also not suitable.</text>
+      <sha1>h1x7ggkwq9vzfdxzrr5zg5jpsatvodp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Heffalump</title>
+    <ns>0</ns>
+    <id>96074</id>
+    <revision>
+      <id>96209</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96209</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="269" sha1="g5nuaspsfoi312y1fnawdl7nq2awims" xml:space="preserve">{{Concept
+| Name=Heffalump
+| Guid=3015-13635
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Piglets_Big_Game,Games/Poohs_Party_Game_In_Search_of_the_Treasure
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>g5nuaspsfoi312y1fnawdl7nq2awims</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Hellsing Organization</title>
+    <ns>0</ns>
+    <id>95927</id>
+    <revision>
+      <id>96062</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96062</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="347" sha1="pn2g5676lozxy3rt3fqn4yxt17fshjf" xml:space="preserve">{{Concept
+| Name=Hellsing Organization
+| Guid=3015-13483
+| Characters=Characters/Alucard_51717,Characters/Integra_Hellsing,Characters/Seras_Victoria,Characters/Walter_C_Dornez
+| Concepts=
+| Franchises=
+| Games=Games/Hellsing_Pachiko_Pachislot
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>pn2g5676lozxy3rt3fqn4yxt17fshjf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Hikikomori</title>
+    <ns>0</ns>
+    <id>95902</id>
+    <revision>
+      <id>999529</id>
+      <parentid>588303</parentid>
+      <timestamp>2026-07-19T07:34:09Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>999529</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1035" sha1="3tohrcs0vsr0croh7muj1jh2t8x79xr" xml:space="preserve">{{Concept
+| Name=Hikikomori
+| Guid=3015-13454
+| Deck=Games about someone who isolates itself from the society while having extreme degrees of confinement.
+| Characters=
+| Concepts=Concepts/Isolation
+| Franchises=
+| Games=Games/Hikikomori_No_Chuunibyou,Games/Omori,Games/Pull_Stay,Games/Yume_Nikki,Games/Yume_Nikki_Dream_Diary
+| Locations=Locations/Living_Room
+| Objects=Objects/Computer,Objects/Game_Console,Objects/Television
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/59/594908/3723014-2275863861-%25E3%258.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3723014-2275863861-%E3%8.png","path":"59\/594908\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_medium,scale_small,square_avatar,square_mini,square_tiny,screen_medium,scale_large,scale_avatar,screen_kubrick","caption":"In Yo-kai Watch, this behavior is reprensented by Hidabat (Hikikoumori)"},"background":[]}' /&gt;
+Games about someone who isolates itself from the society while having extreme degrees of confinement.</text>
+      <sha1>3tohrcs0vsr0croh7muj1jh2t8x79xr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Hip Hop 2771</title>
+    <ns>0</ns>
+    <id>464613</id>
+    <revision>
+      <id>999530</id>
+      <parentid>741495</parentid>
+      <timestamp>2026-07-19T07:34:12Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>999530</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9506" sha1="r27dfaklnuk5gcx4ughuyg614j7xdur" xml:space="preserve">{{Concept
+| Name=Hip-Hop
+| Guid=3015-2771
+| Aliases=Rap Music,Rap,Gangsta Rap
+| Deck=Hip-Hop is a type of urban culture that has been featured in many videogames to varying extents, in movies, and in all around pop culture. Hip-Hop includes Rap music/Emceeing, graffiti art, DJ'ing, and breakdancing.
+| Characters=Characters/13_Amp,Characters/2Pac,Characters/50_Cent,Characters/Aisha_8441,Characters/apl_de_ap,Characters/Busta_Rhymes,Characters/Chad_Muska,Characters/Chop_Chop_Master_Onion,Characters/Chuck_D,Characters/Craig_Cuttlefish,Characters/Danny_Boy,Characters/Darryl_McDaniels,Characters/DJ_Jazzy_Jeff,Characters/DJ_Whoo_Kid,Characters/Duck_King,Characters/E_40,Characters/Eazy_E,Characters/Eminem,Characters/Emperor,Characters/Fat_Joe,Characters/Fergie,Characters/Flavor_Flav,Characters/Fredro_Starr,Characters/Fresh_Prince,Characters/Ghostface_Killah,Characters/Heavy_D,Characters/Ice_T,Characters/Inspectah_Deck,Characters/Kanye_West,Characters/Killer_Bee,Characters/Lion,Characters/LL_Cool_J,Characters/Lloyd_Banks,Characters/Ludacris,Characters/Madd_Dogg,Characters/Masta_Killa,Characters/Method_Man,Characters/OG_Loc,Characters/Ol_Dirty_Bastard,Characters/Parappa,Characters/Paris_Brown,Characters/Pearl_36135,Characters/PJ_Berri,Characters/Pumpkin_Rapper,Characters/Queen_Latifah,Characters/Raekwon,Characters/Redman,Characters/Sam_B,Characters/Shady,Characters/Slick_Rick,Characters/Sonny_Seeza,Characters/Sticky_Fingaz,Characters/Str8_Shoota,Characters/Taboo,Characters/Terminator_X,Characters/The_GZA,Characters/The_RZA,Characters/Timbaland,Characters/Tony_Yayo,Characters/Trane,Characters/Travis_Scott,Characters/U_God,Characters/Warren_G,Characters/will_i_am,Characters/Xzibit,Characters/Yo_Yo,Characters/Young_Buck
+| Concepts=Concepts/Ballas,Concepts/Breakdance,Concepts/Dancing,Concepts/Drugs,Concepts/Electronic_Music,Concepts/End_Credits_Rap_Songs,Concepts/Gangs,Concepts/Graffiti,Concepts/Hip_Hop_2771,Concepts/In_Game_Radio,Concepts/Licensed_Soundtrack,Concepts/Musician_Fighter,Concepts/Original_Soundtrack_Release,Concepts/Popping_and_Locking,Concepts/Racial_Stereotypes,Concepts/Rock_Music,Concepts/Sexualized_Women,Concepts/The_1970s,Concepts/The_1980s,Concepts/The_1990s,Concepts/The_Vice_Kings
+| Franchises=Franchises/50_Cent,Franchises/Activision_Hero,Franchises/Blitz_The_League,Franchises/Call_of_Duty,Franchises/Dance_Central,Franchises/Dead_Island,Franchises/Def_Jam,Franchises/DJ_Hero,Franchises/DJMAX,Franchises/Donkey_Kong,Franchises/Donkey_Kong_Country,Franchises/Far_Cry,Franchises/Grand_Theft_Auto,Franchises/Jet_Set_Radio,Franchises/Make_My_Video,Franchises/Mario,Franchises/Midnight_Club,Franchises/Modern_Warfare,Franchises/Parappa_the_Rapper,Franchises/Scarface,Franchises/The_Lost_Vikings,Franchises/Vib_Ribbon,Franchises/WWE
+| Games=Games/187_Ride_or_Die,Games/50_Cent_Blood_on_the_Sand,Games/50_Cent_Bulletproof,Games/50_Cent_Bulletproof_G_Unit_Edition,Games/B_Boy,Games/Blitz_The_League_II,Games/BMX_XXX,Games/Brute_Force_1991,Games/Call_of_Duty_4_Modern_Warfare,Games/Crackin_DJ,Games/Cuttin_Loose_In_Compton,Games/Dance_Central,Games/Daryl_F_Gates_Police_Quest_Open_Season,Games/Dead_Island_Riptide,Games/Def_Jam_Fight_for_NY,Games/Def_Jam_Fight_for_NY_The_Takeover,Games/Def_Jam_Icon,Games/Def_Jam_Rapstar,Games/Def_Jam_Vendetta,Games/DJ_Boy,Games/DJ_Hero,Games/DJ_Star,Games/DJMAX_Fever,Games/Donkey_Kong_64,Games/ESPN_NBA_2K5,Games/Fight_Night_Champion,Games/Get_on_Da_Mic,Games/Grand_Theft_Auto_III,Games/Grand_Theft_Auto_IV,Games/Grand_Theft_Auto_San_Andreas,Games/Grand_Theft_Auto_The_Trilogy_The_Definitive_Edition,Games/Grand_Theft_Auto_V,Games/Grand_Theft_Auto_Vice_City,Games/Jet_Grind_Radio,Games/JSRF_Jet_Set_Radio_Future,Games/Kanye_Quest_3030,Games/Kingpin_Life_of_Crime,Games/MadWorld,Games/Make_My_Video_Marky_Mark_and_the_Funky_Bunch,Games/Marc_Eckos_Getting_Up_Contents_Under_Pressure,Games/Midnight_Club_3_DUB_Edition,Games/Midnight_Club_Los_Angeles,Games/Mojib_Ribbon,Games/NBA_Ballers_Phenom,Games/NBA_Inside_Drive_2002,Games/NBA_Live_2003,Games/Need_for_Speed_Most_Wanted,Games/Norse_by_Norse_West_The_Return_of_the_Lost_Vikings,Games/One_Piece_Dance_Battle,Games/PaRappa_the_Rapper,Games/PaRappa_the_Rapper_2,Games/Play_The_Industry,Games/PlayStation_All_Stars_Battle_Royale,Games/Police_Quest_Collection_Step_Behind_the_Badge,Games/Relapse_Resistance,Games/Saints_Row,Games/Saints_Row_2,Games/Saints_Row_2022,Games/Saints_Row_IV,Games/Saints_Row_The_Third,Games/Samurai_Champloo_Sidetracked,Games/Scarface_The_World_is_Yours,Games/Scratch_The_Ultimate_DJ,Games/Sideway_New_York,Games/SRS_Street_Racing_Syndicate,Games/Streetkix_Freestyle,Games/The_Sims_3_Late_Night,Games/The_Urbz_Sims_in_the_City,Games/ToeJam_And_Earl_Back_in_the_Groove,Games/Tony_Hawks_American_Wasteland,Games/Tony_Hawks_Pro_Skater_2x,Games/Tony_Hawks_Proving_Ground,Games/Wu_Tang_Shaolin_Style,Games/WWF_No_Mercy
+| Locations=Locations/California,Locations/City,Locations/Concert_Stage,Locations/Detroit,Locations/Long_Beach,Locations/Los_Angeles,Locations/Michigan,Locations/New_York,Locations/New_York_City,Locations/The_United_States_of_America
+| Objects=Objects/Boombox,Objects/Drums,Objects/Microphone,Objects/Turntable
+| People=People/Calliope_Mori,People/Capone,People/David_Banner,People/Del_the_Funky_Homosapien,People/DMX,People/Eminem,People/Ghostface_Killah,People/Ice_Cube,People/Karen_Callani,People/Keith_David,People/Keith_Murray,People/Kevin_Liles,People/Lil_Kim,People/Masaya_Matsuura,People/Memphis_Bleek,People/N_O_R_E,People/Redman,People/Russell_Simmons,People/Shawn_Corey_Carter,People/Shoji_Meguro,People/Snoop_Dogg,People/Talib_Kweli,People/WC,People/Xzibit
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/6807/891388-hip_hop_revolution.preview.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"891388-hip_hop_revolution.preview.jpg","path":"0\/6807\/","mime":"image\/jpeg","sizes":"square_avatar,square_avatar,scale_tiny,scale_small,square_tiny,square_medium,square_small,square_mini,scale_medium,screen_medium,scale_large,scale_avatar,scale_super,screen_kubrick","caption":"DJing"},"background":[]}' /&gt;
+
+==Overview==
+
+===Rap===
+Rap has been featured in many videogames. While no karaoke games have focused solely on rap, the upcoming game [[Games/Def_Jam_Rapstar|Def Jam Rapstar]] is going to include -only- rap songs from different periods of time. Rap has also been featured in the soundtracks of a lot of games. Games like [[Games/Grand_Theft_Auto_San_Andreas|GTA: San Andreas]], [[Games/Saints_Row|Saints Row]] and other games of the free roam genre have included rap in their soundtracks, and many of these have received critical praise for being well put together. Rap music has also been featured in the [[Franchises/Def_Jam|Def Jam]] franchise. While the first two games of that franchise only had rap as a soundtrack, it played a much bigger role in the third entry of the series, [[Games/Def_Jam_Icon|Def Jam: Icon]]. In that game the music played a huge part in fights, because the player was able to activate environmental hazards by closely listening to the rhythm of the current song being played and using it to his/her advantage. Even videogames that are not at all based around Hip-Hop often have rap songs in their soundtracks. These include various boxing and wrestling games, basketball and football games, and more recently a lot of shooters. The games [[Games/Call_of_Duty_4_Modern_Warfare|Call Of Duty 4: Modern Warfare]] and [[Games/Rogue_Warrior|Rogue Warrior]] for example have both featured rap songs in their ending credits.
+
+
+===Graffiti===
+Graffiti has been featured in a lot of videogames. Oftentimes walls in open-world games that take place in big cities include walls with graffiti all over them. This can either be a design choice or an actual gameplay element. In the game [[Games/Grand_Theft_Auto_San_Andreas|GTA: San Andreas]] the player, who takes the role of a gang member, is able to mark his gang's territory by acquiring a spraycan and then finding rival tags and spraying them over. The "Jet Set Radio" games also put a heavy focus on putting up graffiti tags. The challenge in those games is to find the right way to get to a spot where the player can put up his tags, all while being chased by policemen and enemy gangs. Perhaps the game with the heaviest focus on graffiti is [[Games/Marc_Eckos_Getting_Up_Contents_Under_Pressure|Marc Ecko's Getting Up]], in which the player can choose from a huge number of graffiti tags, which have to be carefully sprayed onto walls. The game featured complex spraying mechanics in addition to brawling and jump n' run elements.
+
+
+===DJ'ing===
+DJ'ing has not been featured in that many games. The fighting game [[Games/Def_Jam_Icon|Def Jam: Icon]] includes a really basic scratching mechanic, which the player can use to his/her advantage by manipulating the current song being played, or skipping to other parts of the current song being played to set off rhythm-based environmental hazards. Perhaps the game with the biggest emphasis on DJ'ing is [[Games/DJ_Hero|DJ Hero]], which is the closest thing to actual DJ'ing in videogames. It includes special equipment that simulates actual DJ'ing quite accurately.
+
+ 
+
+
+===Breakdancing===
+Breakdancing has not been featured in many games at all. It is too complex to be done in dancing games that make the player use dancepads. With the recent focus of many developers on motion-controlled videogames, it is very well possible that there may be some breakdancing games coming out.</text>
+      <sha1>r27dfaklnuk5gcx4ughuyg614j7xdur</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Hockey Canada</title>
+    <ns>0</ns>
+    <id>95924</id>
+    <revision>
+      <id>96059</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96059</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="227" sha1="kfpid13rx9e2t3loqotgaul4trbgj8t" xml:space="preserve">{{Concept
+| Name=Hockey Canada
+| Guid=3015-13479
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/NHL_18,Games/NHL_21
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>kfpid13rx9e2t3loqotgaul4trbgj8t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Holliday</title>
+    <ns>0</ns>
+    <id>95783</id>
+    <revision>
+      <id>588093</id>
+      <parentid>487778</parentid>
+      <timestamp>2026-02-08T07:15:51Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588093</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="430" sha1="8aeopyz38dkv7v41e0fpj3o2zgdda6q" xml:space="preserve">{{Concept
+| Name=Holliday
+| Guid=3015-13334
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3648463-2holliday.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3648463-2holliday.png","path":"52\/520822\/","mime":"image\/png","sizes":"scale_super,scale_small,square_tiny,square_medium","caption":null},"background":[]}' /&gt;</text>
+      <sha1>8aeopyz38dkv7v41e0fpj3o2zgdda6q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Holy Roman Empire</title>
+    <ns>0</ns>
+    <id>96070</id>
+    <revision>
+      <id>96205</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96205</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="245" sha1="sk8ar940mby45nv8hy2ysiyhe0ciubi" xml:space="preserve">{{Concept
+| Name=Holy Roman Empire
+| Guid=3015-13631
+| Characters=Characters/Leopold_I_Holy_Roman_Emperor
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>sk8ar940mby45nv8hy2ysiyhe0ciubi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Houndstone</title>
+    <ns>0</ns>
+    <id>95990</id>
+    <revision>
+      <id>588458</id>
+      <parentid>487921</parentid>
+      <timestamp>2026-02-08T07:18:51Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588458</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="593" sha1="rxlqigmxe0ieso2ktwjx5xwpuiiup8b" xml:space="preserve">{{Concept
+| Name=Houndstone
+| Guid=3015-13547
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Go,Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777861-0972houndstone.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777861-0972houndstone.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>rxlqigmxe0ieso2ktwjx5xwpuiiup8b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Hulabee</title>
+    <ns>0</ns>
+    <id>96076</id>
+    <revision>
+      <id>96211</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96211</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="218" sha1="iaz1b0vzl71rd7inge2ax7c7njolics" xml:space="preserve">{{Concept
+| Name=Hulabee
+| Guid=3015-13637
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Piglets_Big_Game
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>iaz1b0vzl71rd7inge2ax7c7njolics</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Human Extinction</title>
+    <ns>0</ns>
+    <id>96073</id>
+    <revision>
+      <id>588640</id>
+      <parentid>487996</parentid>
+      <timestamp>2026-02-08T07:20:16Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588640</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1000" sha1="r115q5gpu1r0wi980bdt2kdio5i9nln" xml:space="preserve">{{Concept
+| Name=Human Extinction
+| Guid=3015-13634
+| Aliases=The Humans Are Dead
+| Deck=Games that take place in a time where all conventional humans are extinct, and robots and/or another species thrives in their place.
+| Characters=
+| Concepts=Concepts/Apocalypse,Concepts/The_Future,Concepts/Time_Travel
+| Franchises=
+| Games=Games/BROK_the_InvestiGator,Games/Fight_of_Steel_Infinity_Warrior
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3812911-7907758873-latest.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3812911-7907758873-latest.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_super,square_tiny,square_medium,square_small,scale_medium,scale_small,square_avatar,screen_medium,screen_kubrick,square_mini,scale_tiny,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+Games that take place in a time where all conventional humans are extinct, and robots and/or another species thrives in their place.</text>
+      <sha1>r115q5gpu1r0wi980bdt2kdio5i9nln</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Hummingbird</title>
+    <ns>0</ns>
+    <id>95747</id>
+    <revision>
+      <id>618686</id>
+      <parentid>588017</parentid>
+      <timestamp>2026-02-08T15:53:31Z</timestamp>
+      <contributor>
+        <username>Chucktowski</username>
+        <id>7</id>
+      </contributor>
+      <origin>618686</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="791" sha1="38x75w7e35vtsyhymvcdj8ov2a57idr" xml:space="preserve">{{Concept
+|Name=Hummingbird
+|Guid=3015-13298
+|Image=https://www.giantbomb.com/a/uploads/scale_super/0/3909/272169-10.jpg
+|Deck=Long-beaked birds that make a humming noise with their wings.
+|Characters=Characters/Kitana
+|Concepts=Concepts/Animality, Concepts/Birds
+|Games=Games/Kolibri, Games/Mortal_Kombat_1, Games/Path_of_Exile, Games/Wingspan
+|Objects=Objects/Flowers, Objects/Nectar
+}}
+&lt;div id='imageData' data-json='{"infobox":{"file":"272169-10.jpg","path":"0\/3909\/","mime":"image\/jpeg","sizes":"square_avatar,screen_medium,scale_large,scale_small,square_mini,square_tiny,square_medium,scale_super,scale_tiny,scale_medium,ignore_jpg_scale_small,screen_kubrick,scale_avatar,square_small","caption":""},"background":[]}' /&gt;
+Long-beaked birds that make a humming noise with their wings.</text>
+      <sha1>38x75w7e35vtsyhymvcdj8ov2a57idr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Huns</title>
+    <ns>0</ns>
+    <id>95938</id>
+    <revision>
+      <id>96073</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96073</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="416" sha1="5xdzzfzxr8btqilqpb142z2dxgzg5c7" xml:space="preserve">{{Concept
+| Name=Huns
+| Guid=3015-13495
+| Characters=Characters/Attila,Characters/Shan_Yu
+| Concepts=Concepts/Barbarians,Concepts/Nomads
+| Franchises=
+| Games=Games/Disneys_Animated_Storybook_Mulan,Games/Disneys_Mulan,Games/Rome_Total_War_Barbarian_Invasion,Games/Total_War_Attila
+| Locations=Locations/Asia,Locations/Europe
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5xdzzfzxr8btqilqpb142z2dxgzg5c7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Hydrapple</title>
+    <ns>0</ns>
+    <id>95940</id>
+    <revision>
+      <id>588344</id>
+      <parentid>487871</parentid>
+      <timestamp>2026-02-08T07:17:55Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588344</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1187" sha1="tqgjzp309hcj7c8nlrc042726d560zh" xml:space="preserve">{{Concept
+| Name=Hydrapple
+| Guid=3015-13497
+| Aliases=Kamitsuorochi
+| Deck=One of the final evolutions of the Applin line. It consists of seven symbiotic "syrpents" living in one apple-shaped blob of red syrup. It is a Grass/Dragon-type Pokémon.
+| Characters=
+| Concepts=Concepts/Dragon,Concepts/Dragon_type_Pokemon,Concepts/Evolution,Concepts/Gotta_catch_em_all,Concepts/Grass_Element,Concepts/Grass_type_Pokemon,Concepts/Hydra,Concepts/Pokemon,Concepts/Pokemon_Battle
+| Franchises=
+| Games=Games/Pokemon_Champions,Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3773222-8679687890-1019_.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3773222-8679687890-1019_.png","path":"16\/164924\/","mime":"image\/png","sizes":"scale_super,scale_medium,square_mini,square_medium,square_small,scale_tiny,scale_small,square_avatar,square_tiny,screen_medium,scale_avatar,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+One of the final evolutions of the Applin line. It consists of seven symbiotic "syrpents" living in one apple-shaped blob of red syrup. It is a Grass/Dragon-type Pokémon.</text>
+      <sha1>tqgjzp309hcj7c8nlrc042726d560zh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Ice Bros</title>
+    <ns>0</ns>
+    <id>95780</id>
+    <revision>
+      <id>588086</id>
+      <parentid>487776</parentid>
+      <timestamp>2026-02-08T07:15:49Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588086</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1389" sha1="g0i07jsytndhk9t7w5a5q0xwm0p18kc" xml:space="preserve">{{Concept
+| Name=Ice Bros.
+| Guid=3015-13331
+| Deck=Hammer/Fire Bro. variants that pitch ice.
+| Characters=Characters/Hammer_Bro
+| Concepts=Concepts/Cryokinesis,Concepts/Fire_Bros,Concepts/Hammer_Bros,Concepts/Koopa,Concepts/Koopa_Troop,Concepts/Recurring_Minion,Concepts/Sledge_Bros,Concepts/Turtle
+| Franchises=
+| Games=Games/Dr_Mario_World,Games/Mario_And_Luigi_Bowsers_Inside_Story,Games/Mario_And_Luigi_Brothership,Games/Mario_And_Luigi_Superstar_Saga_Bowsers_Minions,Games/Mario_Kart_Tour,Games/New_Super_Luigi_U,Games/New_Super_Mario_Bros_U,Games/New_Super_Mario_Bros_U_Deluxe,Games/New_Super_Mario_Bros_Wii,Games/Paper_Mario_Color_Splash,Games/Paper_Mario_Sticker_Star,Games/Paper_Mario_The_Origami_King,Games/Puzzle_And_Dragons_Super_Mario_Bros_Edition,Games/Puzzle_And_Dragons_Z_Puzzle_And_Dragons_Super_Mario_Bros_Edition
+| Locations=Locations/The_Mushroom_Kingdom
+| Objects=Objects/Helmet
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3647009-2368939826-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3647009-2368939826-latest.png","path":"16\/164924\/","mime":"image\/png","sizes":"scale_medium,scale_super,scale_small,square_avatar,square_small,square_medium,scale_tiny,square_tiny,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+Hammer/Fire Bro. variants that pitch ice.</text>
+      <sha1>g0i07jsytndhk9t7w5a5q0xwm0p18kc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Iron Boulder</title>
+    <ns>0</ns>
+    <id>96032</id>
+    <revision>
+      <id>588555</id>
+      <parentid>487963</parentid>
+      <timestamp>2026-02-08T07:19:36Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588555</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="596" sha1="k1sya5kso4g3cevmoy34k2fqizczxmo" xml:space="preserve">{{Concept
+| Name=Iron Boulder
+| Guid=3015-13589
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777914-1280px-1022iron_boulder.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777914-1280px-1022iron_boulder.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,scale_small,square_tiny,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;</text>
+      <sha1>k1sya5kso4g3cevmoy34k2fqizczxmo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Iron Bundle</title>
+    <ns>0</ns>
+    <id>96006</id>
+    <revision>
+      <id>588492</id>
+      <parentid>487937</parentid>
+      <timestamp>2026-02-08T07:19:09Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588492</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="610" sha1="hmxdm7uxjowb1epao6pt050h5teg7nt" xml:space="preserve">{{Concept
+| Name=Iron Bundle
+| Guid=3015-13563
+| Characters=
+| Concepts=Concepts/Delibird
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777883-1280px-0991iron_bundle.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777883-1280px-0991iron_bundle.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,square_mini,scale_medium,scale_small,square_tiny,scale_super,screen_medium,screen_kubrick,scale_large,scale_avatar,square_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>hmxdm7uxjowb1epao6pt050h5teg7nt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Iron Crown</title>
+    <ns>0</ns>
+    <id>96033</id>
+    <revision>
+      <id>588557</id>
+      <parentid>487964</parentid>
+      <timestamp>2026-02-08T07:19:37Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588557</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="590" sha1="i3qud8teluel8orwbtyqr823i87vy0e" xml:space="preserve">{{Concept
+| Name=Iron Crown
+| Guid=3015-13590
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777915-1280px-1023iron_crown.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777915-1280px-1023iron_crown.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,scale_super,scale_small,square_tiny,square_medium,scale_medium,square_mini,square_avatar,screen_medium,screen_kubrick,scale_avatar,scale_large","caption":null},"background":[]}' /&gt;</text>
+      <sha1>i3qud8teluel8orwbtyqr823i87vy0e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Iron Hands</title>
+    <ns>0</ns>
+    <id>96007</id>
+    <revision>
+      <id>588494</id>
+      <parentid>487938</parentid>
+      <timestamp>2026-02-08T07:19:09Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588494</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="576" sha1="ghh99635k1xgfb4wbp7ejv2rwb9illd" xml:space="preserve">{{Concept
+| Name=Iron Hands
+| Guid=3015-13564
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777884-0992iron_hands.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777884-0992iron_hands.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_mini,scale_medium,scale_super,scale_small,square_medium,square_tiny,square_avatar,screen_medium,screen_kubrick,scale_avatar,scale_large","caption":null},"background":[]}' /&gt;</text>
+      <sha1>ghh99635k1xgfb4wbp7ejv2rwb9illd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Iron Jugulis</title>
+    <ns>0</ns>
+    <id>96008</id>
+    <revision>
+      <id>588496</id>
+      <parentid>487939</parentid>
+      <timestamp>2026-02-08T07:19:10Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588496</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="582" sha1="flzyx1ta6ic7kuuzg304bjzw618drjv" xml:space="preserve">{{Concept
+| Name=Iron Jugulis
+| Guid=3015-13565
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777885-0993iron_jugulis.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777885-0993iron_jugulis.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,square_mini,scale_medium,scale_super,scale_small,square_tiny,screen_medium,screen_kubrick,scale_large,scale_avatar,square_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>flzyx1ta6ic7kuuzg304bjzw618drjv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Iron Knuckle</title>
+    <ns>0</ns>
+    <id>95759</id>
+    <revision>
+      <id>588050</id>
+      <parentid>487763</parentid>
+      <timestamp>2026-02-08T07:15:31Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588050</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1369" sha1="ij4f1oslqowen8mzfkqtrvowy57j0jw" xml:space="preserve">{{Concept
+| Name=Iron Knuckle
+| Guid=3015-13310
+| Deck=Iron Knuckles are heavily armored enemies in The Legend of Zelda series.
+| Characters=Characters/Nabooru,Characters/Rebonack
+| Concepts=Concepts/Black_Knight,Concepts/Boss_Fight,Concepts/Gerudo,Concepts/Mini_Boss,Concepts/Palette_Swap,Concepts/Recurring_Minion
+| Franchises=
+| Games=Games/Cadence_of_Hyrule_Crypt_of_the_NecroDancer_Featuring_The_Legend_of_Zelda,Games/The_Legend_of_Zelda_Collectors_Edition,Games/The_Legend_of_Zelda_Majoras_Mask,Games/The_Legend_of_Zelda_Ocarina_of_Time,Games/The_Legend_of_Zelda_Ocarina_of_Time_Master_Quest,Games/Zelda_II_The_Adventure_of_Link,Games/Zelda_The_Wand_of_Gamelon,Games/Zeldas_Adventure
+| Locations=Locations/Hyrule,Locations/Hyrule_Castle
+| Objects=Objects/Armor,Objects/Axe,Objects/Cape,Objects/Helmet,Objects/Knife,Objects/Shield,Objects/Sword
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3639669-9052313445-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3639669-9052313445-latest.png","path":"16\/164924\/","mime":"image\/png","sizes":"scale_super,square_small,square_avatar,scale_avatar,scale_small,scale_medium,scale_tiny,square_medium,screen_kubrick,square_mini,scale_large,screen_medium,square_tiny","caption":null},"background":[]}' /&gt;
+Iron Knuckles are heavily armored enemies in The Legend of Zelda series.</text>
+      <sha1>ij4f1oslqowen8mzfkqtrvowy57j0jw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Iron Leaves</title>
+    <ns>0</ns>
+    <id>96023</id>
+    <revision>
+      <id>588534</id>
+      <parentid>487954</parentid>
+      <timestamp>2026-02-08T07:19:27Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588534</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="593" sha1="3iv7ig0om2tphx9w12hz49eq6689fmf" xml:space="preserve">{{Concept
+| Name=Iron Leaves
+| Guid=3015-13580
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777905-1280px-1010iron_leaves.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777905-1280px-1010iron_leaves.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,square_mini,scale_medium,scale_small,square_tiny,scale_super,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>3iv7ig0om2tphx9w12hz49eq6689fmf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Iron Moth</title>
+    <ns>0</ns>
+    <id>96009</id>
+    <revision>
+      <id>588498</id>
+      <parentid>487940</parentid>
+      <timestamp>2026-02-08T07:19:11Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588498</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="573" sha1="70w7xs4c5dqyt0r0rf5x0mkruka2gob" xml:space="preserve">{{Concept
+| Name=Iron Moth
+| Guid=3015-13566
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777886-0994iron_moth.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777886-0994iron_moth.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,square_mini,scale_medium,scale_super,scale_small,square_tiny,screen_medium,square_avatar,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>70w7xs4c5dqyt0r0rf5x0mkruka2gob</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Iron Thorns</title>
+    <ns>0</ns>
+    <id>96010</id>
+    <revision>
+      <id>588501</id>
+      <parentid>487941</parentid>
+      <timestamp>2026-02-08T07:19:13Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588501</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="579" sha1="lpmj0n7z6ytg130xxmr4u8ycapogl8o" xml:space="preserve">{{Concept
+| Name=Iron Thorns
+| Guid=3015-13567
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777887-0995iron_thorns.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777887-0995iron_thorns.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_mini,square_small,scale_medium,scale_super,scale_small,square_tiny,square_medium,screen_medium,screen_kubrick,scale_large,scale_avatar,square_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>lpmj0n7z6ytg130xxmr4u8ycapogl8o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Iron Treads</title>
+    <ns>0</ns>
+    <id>96005</id>
+    <revision>
+      <id>588489</id>
+      <parentid>487936</parentid>
+      <timestamp>2026-02-08T07:19:06Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588489</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="593" sha1="d6hiqd9xmo1sl7r61evbwwrfwbs9ait" xml:space="preserve">{{Concept
+| Name=Iron Treads
+| Guid=3015-13562
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777876-1280px-0990iron_treads.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777876-1280px-0990iron_treads.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,square_mini,scale_medium,scale_super,scale_small,square_tiny,square_avatar,screen_medium,screen_kubrick,scale_avatar,scale_large","caption":null},"background":[]}' /&gt;</text>
+      <sha1>d6hiqd9xmo1sl7r61evbwwrfwbs9ait</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Iron Valiant</title>
+    <ns>0</ns>
+    <id>96021</id>
+    <revision>
+      <id>588528</id>
+      <parentid>487952</parentid>
+      <timestamp>2026-02-08T07:19:24Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588528</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="614" sha1="3dm12x9i64o8c8nfdelqtqipii1gvum" xml:space="preserve">{{Concept
+| Name=Iron Valiant
+| Guid=3015-13578
+| Characters=
+| Concepts=Concepts/Gardevoir
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777903-1280px-1006iron_valiant.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777903-1280px-1006iron_valiant.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,scale_small,square_tiny,square_avatar,screen_medium,screen_kubrick,scale_large,square_mini,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>3dm12x9i64o8c8nfdelqtqipii1gvum</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Iscariot Section XIII</title>
+    <ns>0</ns>
+    <id>95928</id>
+    <revision>
+      <id>96063</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96063</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="354" sha1="3cb976li3peue3ie6cwit18cksed9ge" xml:space="preserve">{{Concept
+| Name=Iscariot Section XIII
+| Guid=3015-13484
+| Characters=Characters/Alexander_Anderson,Characters/Enrico_Maxwell
+| Concepts=Concepts/Religion,Concepts/Rivals,Concepts/Vampire_Hunter
+| Franchises=
+| Games=Games/Hellsing_Pachiko_Pachislot
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3cb976li3peue3ie6cwit18cksed9ge</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Ithorian</title>
+    <ns>0</ns>
+    <id>95700</id>
+    <revision>
+      <id>587886</id>
+      <parentid>487709</parentid>
+      <timestamp>2026-02-08T07:14:13Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587886</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1231" sha1="abuw6vezhumzg3laxjwivqvifvyhoy9" xml:space="preserve">{{Concept
+| Name=Ithorian
+| Guid=3015-13247
+| Deck=Ithorians, commonly referred to as hammerheads or as leathernecks as an insult, were a sentient species from the planet Ithor.
+| Characters=
+| Concepts=Concepts/Alien
+| Franchises=
+| Games=Games/LEGO_Star_Wars_II_The_Original_Trilogy,Games/LEGO_Star_Wars_The_Complete_Saga,Games/Star_Wars_Battlefront_II,Games/Star_Wars_Episode_I_Racer,Games/Star_Wars_Episode_I_The_Phantom_Menace,Games/Star_Wars_Jedi_Knight_Mysteries_of_the_Sith,Games/Star_Wars_Knights_of_the_Old_Republic,Games/Star_Wars_Knights_of_the_Old_Republic_II_The_Sith_Lords,Games/Star_Wars_Obi_Wan,Games/Star_Wars_The_Old_Republic
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3609407-ithorian_senators.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3609407-ithorian_senators.png","path":"52\/520822\/","mime":"image\/png","sizes":"scale_super,square_small,square_medium,scale_small,scale_medium,square_avatar,screen_kubrick,scale_avatar,square_mini,square_tiny,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Ithorians, commonly referred to as hammerheads or as leathernecks as an insult, were a sentient species from the planet Ithor.</text>
+      <sha1>abuw6vezhumzg3laxjwivqvifvyhoy9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Jaguar Cars Ltd</title>
+    <ns>0</ns>
+    <id>96050</id>
+    <revision>
+      <id>588593</id>
+      <parentid>487978</parentid>
+      <timestamp>2026-02-08T07:19:53Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588593</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1937" sha1="dnar96hrlyj4ukdl93baj0k6fxxznza" xml:space="preserve">{{Concept
+| Name=Jaguar Cars Ltd
+| Guid=3015-13611
+| Deck=Jaguar Cars was a luxury British car company that creates luxurious cat shaped models.
+| Characters=
+| Concepts=Concepts/Licensed_Cars
+| Franchises=
+| Games=Games/007_First_Light,Games/Asphalt_8_Airborne,Games/Asphalt_9_Legends,Games/CSR_Racing,Games/CSR_Racing_2,Games/Driveclub,Games/Forza_Horizon,Games/Forza_Horizon_2,Games/Forza_Horizon_4,Games/Forza_Horizon_5,Games/Forza_Motorsport_2023,Games/Forza_Motorsport_3,Games/Forza_Motorsport_4,Games/Forza_Motorsport_6,Games/Gran_Turismo_2,Games/Gran_Turismo_3_A_Spec,Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_5_Prologue,Games/Gran_Turismo_6,Games/Gran_Turismo_7,Games/Gran_Turismo_Sport,Games/Grand_Prix_Challenge,Games/Grand_Theft_Auto_London_1961,Games/Grand_Theft_Auto_London_1969,Games/GT_Legends,Games/Jaguar_XJ220,Games/Need_for_Speed_Edge,Games/Need_for_Speed_No_Limits,Games/Need_for_Speed_Rivals,Games/Project_Gotham_Racing_2,Games/Project_Gotham_Racing_4,Games/Real_Racing_3,Games/SimRaceWay,Games/The_Crew_2,Games/The_Crew_Motorfest,Games/TOCA_Race_Driver_2
+| Locations=Locations/United_Kingdom
+| Objects=Objects/Jaguar_XJ,Objects/Jaguar_XJ220,Objects/Jaguar_XJR_15,Objects/Jaguar_XK,Objects/Jaguar_XK8,Objects/Jaguar_XKR_X100,Objects/Jaguar_XKR_X150
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3793678-img_3364.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3793678-img_3364.png","path":"137\/1377390\/","mime":"image\/png","sizes":"scale_super,square_medium,square_small,square_avatar,scale_medium,scale_small,square_tiny,square_mini,screen_medium,screen_kubrick,scale_avatar,scale_tiny,scale_large","caption":null},"background":[]}' /&gt;
+
+==History==
+The Jaguar Car Company was a multinational British luxury car company that was founded in 1922, originally their first two companies like the sidecar based company, Swallow Sidecar Company and SS Cars.</text>
+      <sha1>dnar96hrlyj4ukdl93baj0k6fxxznza</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Joy Con 2 Mouse Support</title>
+    <ns>0</ns>
+    <id>95892</id>
+    <revision>
+      <id>999609</id>
+      <parentid>588286</parentid>
+      <timestamp>2026-07-19T07:45:13Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>999609</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1122" sha1="auy77pppc8ifkdhg8y415z2jo2imn27" xml:space="preserve">{{Concept
+| Name=Joy-Con 2 Mouse Support
+| Guid=3015-13444
+| Deck=Games that utilize the mouse functionality within the Nintendo Switch 2 Joy-Con 2 controllers.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Bravely_Default_Flying_Fairy,Games/Card_en_Ciel,Games/Drag_x_Drive,Games/Gee_Bee,Games/Hogwarts_Legacy,Games/Mario_Paint,Games/Metroid_Prime_4_Beyond,Games/Nintendo_Switch_2_Welcome_Tour,Games/Puyo_Puyo_Tetris_2_The_Ultimate_Puzzle_Match,Games/Sid_Meiers_Civilization_VII,Games/Super_Mario_Party_Jamboree
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3716957-screenshot2025-04-02at11.58.22%E2%80%AFam.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3716957-screenshot2025-04-02at11.58.22\u202fam.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_medium,scale_super,scale_tiny,square_avatar,square_small,scale_small,square_medium,square_tiny,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":""},"background":[]}' /&gt;
+Games that utilize the mouse functionality within the Nintendo Switch 2 Joy-Con 2 controllers.</text>
+      <sha1>auy77pppc8ifkdhg8y415z2jo2imn27</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Junomon</title>
+    <ns>0</ns>
+    <id>95880</id>
+    <revision>
+      <id>588254</id>
+      <parentid>487838</parentid>
+      <timestamp>2026-02-08T07:17:10Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588254</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="865" sha1="no29kato404vam9tqh9zuikcg4sdszo" xml:space="preserve">{{Concept
+| Name=Junomon
+| Guid=3015-13432
+| Deck=Junomon is a Mega-level Shaman Digimon and a member of the Olympos XII.
+| Characters=
+| Concepts=Concepts/Digimon,Concepts/Digivolution,Concepts/God,Concepts/Sexualized_Women
+| Franchises=
+| Games=Games/Digimon_Collectors,Games/Digimon_Heroes,Games/Digimon_Story_Time_Stranger
+| Locations=Locations/Cyberspace
+| Objects=Objects/Cloud,Objects/Katar,Objects/Lance
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3814530-7986036319-latest.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3814530-7986036319-latest.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,scale_medium,scale_tiny,square_medium,square_small,square_tiny,square_avatar","caption":null},"background":[]}' /&gt;
+Junomon is a Mega-level Shaman Digimon and a member of the Olympos XII.</text>
+      <sha1>no29kato404vam9tqh9zuikcg4sdszo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Jupitermon</title>
+    <ns>0</ns>
+    <id>95881</id>
+    <revision>
+      <id>588257</id>
+      <parentid>487839</parentid>
+      <timestamp>2026-02-08T07:17:12Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588257</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="888" sha1="orpyrlrb1jsupjr7md26kmtzsgizu2k" xml:space="preserve">{{Concept
+| Name=Jupitermon
+| Guid=3015-13433
+| Deck=Jupitermon is a Mega-level Shaman Digimon and a member of the Olympos XII.
+| Characters=
+| Concepts=Concepts/Aegiomon,Concepts/Digimon,Concepts/Digivolution,Concepts/God,Concepts/Lightning_Manipulation
+| Franchises=
+| Games=Games/Digimon_Heroes,Games/Digimon_Soul_Chaser,Games/Digimon_Story_Time_Stranger
+| Locations=Locations/Cyberspace
+| Objects=Objects/Cape,Objects/Lightning_Bolt
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3814531-jupitermon_29_b.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3814531-jupitermon_29_b.png","path":"16\/164924\/","mime":"image\/png","sizes":"scale_super,square_medium,square_small,scale_medium,square_tiny,scale_tiny,scale_small,square_avatar","caption":null},"background":[]}' /&gt;
+Jupitermon is a Mega-level Shaman Digimon and a member of the Olympos XII.</text>
+      <sha1>orpyrlrb1jsupjr7md26kmtzsgizu2k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Kaminoan</title>
+    <ns>0</ns>
+    <id>95701</id>
+    <revision>
+      <id>587888</id>
+      <parentid>487710</parentid>
+      <timestamp>2026-02-08T07:14:14Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587888</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1624" sha1="ia8fe7bm9vznn559dn5o8x2sveluoc4" xml:space="preserve">{{Concept
+| Name=Kaminoan
+| Guid=3015-13248
+| Deck=The Kaminoans, were a tall, thin amphibian sentient species that hail from the aquatic planet of Kamino in Wild Space. Living in large stilted domed cities that rose high above the ocean surface, Kaminoans were known to specialize in pioneering cloning and genetic engineering technology as well as developing more conventional, non-biomedical technologies for various clients, including the Galactic Republic.
+| Characters=
+| Concepts=Concepts/Alien,Concepts/Amphibian_Humanoid,Concepts/Clone_Troopers
+| Franchises=
+| Games=Games/LEGO_Star_Wars_The_Complete_Saga,Games/LEGO_Star_Wars_The_Skywalker_Saga,Games/LEGO_Star_Wars_The_Video_Game,Games/Star_Wars_Battlefront_II,Games/Star_Wars_Republic_Commando
+| Locations=Locations/Kamino
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3609580-untitled.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3609580-untitled.png","path":"52\/520822\/","mime":"image\/png","sizes":"square_medium,square_small,scale_small,scale_medium,scale_super,square_avatar,screen_kubrick,scale_avatar,square_mini,square_tiny,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+The Kaminoans, were a tall, thin amphibian sentient species that hail from the aquatic planet of Kamino in Wild Space. Living in large stilted domed cities that rose high above the ocean surface, Kaminoans were known to specialize in pioneering cloning and genetic engineering technology as well as developing more conventional, non-biomedical technologies for various clients, including the Galactic Republic.</text>
+      <sha1>ia8fe7bm9vznn559dn5o8x2sveluoc4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Kansai dialect</title>
+    <ns>0</ns>
+    <id>96104</id>
+    <revision>
+      <id>96239</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96239</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="701" sha1="mcn7rw8zv53unengdvcpr3p3gswqyf4" xml:space="preserve">{{Concept
+| Name=Kansai dialect
+| Guid=3015-13666
+| Deck=A Japanese dialect known for be more melodic and harsher by speakers of the standard language.
+| Characters=Characters/Ayumu_Kasuga,Characters/Goro_Majima,Characters/Hermana_Largo,Characters/Kerberos
+| Concepts=Concepts/Gearmo
+| Franchises=
+| Games=Games/Super_Mario_Galaxy,Games/Super_Mario_Galaxy_2,Games/Super_Mario_Galaxy_Super_Mario_Galaxy_2,Games/Tales_of_Innocence,Games/Tales_of_Innocence_R
+| Locations=Locations/Japan,Locations/Kyoto,Locations/Osaka
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+A Japanese dialect known for be more melodic and harsher by speakers of the standard language.</text>
+      <sha1>mcn7rw8zv53unengdvcpr3p3gswqyf4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Kasa obake</title>
+    <ns>0</ns>
+    <id>95744</id>
+    <revision>
+      <id>588008</id>
+      <parentid>487749</parentid>
+      <timestamp>2026-02-08T07:15:12Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588008</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1804" sha1="92kf33nzv7k0tf5r112dvwdsvlb7mdy" xml:space="preserve">{{Concept
+| Name=Kasa-obake
+| Guid=3015-13295
+| Deck=A yōkai brought into being when an old umbrella sits untouched for 100 years.
+| Characters=Characters/Jumpershoot,Characters/Karakassa,Characters/Kasumi_Todoh,Characters/Kogasa_Tatara
+| Concepts=Concepts/Cyclops,Concepts/Drifter,Concepts/Ghost,Concepts/Youkai
+| Franchises=
+| Games=Games/BIT_TRIP_Presents_Runner2_Future_Legend_of_Rhythm_Alien,Games/Demons_World,Games/Ganso_Jajamaru_kun,Games/Izuna_Legend_of_the_Unemployed_Ninja,Games/Jitsu_Squad,Games/KiKi_KaiKai,Games/Kiki_Kaikai_Dotou_hen,Games/Kirbys_Dream_Collection_Special_Edition,Games/Kirbys_Dream_Land_2,Games/Kirbys_Dream_Land_3,Games/Kitsune_Tails,Games/Marios_Picross,Games/Ninja_JaJaMaru_kun,Games/Ninja_Jajamaru_kun_Collection,Games/Nioh,Games/PlayStation_Home,Games/Pocky_And_Rocky,Games/Pocky_And_Rocky_with_Becky,Games/Splatterhouse_Wanpaku_Graffiti,Games/Super_Mario_Land_2_6_Golden_Coins,Games/SVC_Chaos_SNK_vs_Capcom,Games/The_Flintstones_The_Rescue_of_Dino_And_Hoppy,Games/The_Legend_of_the_Mystical_Ninja,Games/The_Nioh_Collection,Games/Yo_Kai_Watch_2_Bony_Spirits_Fleshy_Souls,Games/Yodanji,Games/Yomawari_Midnight_Shadows,Games/Yomawari_Night_Alone,Games/Yomawari_The_Long_Night_Collection
+| Locations=Locations/Japan
+| Objects=Objects/Geta,Objects/Umbrella
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3631473-3137332882-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3631473-3137332882-latest.png","path":"16\/164924\/","mime":"image\/png","sizes":"scale_small,square_avatar,square_medium,square_small,scale_super,scale_medium,square_mini,scale_avatar,square_tiny,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+A yōkai brought into being when an old umbrella sits untouched for 100 years.</text>
+      <sha1>92kf33nzv7k0tf5r112dvwdsvlb7mdy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Katana Engine</title>
+    <ns>0</ns>
+    <id>95829</id>
+    <revision>
+      <id>588173</id>
+      <parentid>487809</parentid>
+      <timestamp>2026-02-08T07:16:33Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588173</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1191" sha1="70l9ixzq5wbnfjl67c42z8tgn7jpsqj" xml:space="preserve">{{Concept
+| Name=Katana Engine
+| Guid=3015-13381
+| Deck=Proprietary engine owned by Koei Tecmo.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Attack_on_Titan,Games/Attack_on_Titan_2,Games/Blue_Reflection,Games/Dynasty_Warriors_9,Games/Fairy_Tail_2,Games/Fate_Samurai_Remnant,Games/Fire_Emblem_Warriors_Three_Hopes,Games/Hyrule_Warriors_Age_of_Imprisonment,Games/One_Piece_Pirate_Warriors_3,Games/One_Piece_Pirate_Warriors_4,Games/Persona_5_Strikers,Games/Rise_of_the_Ronin,Games/Samurai_Warriors_5,Games/Venus_Vacation_Prism_Dead_or_Alive_Xtreme,Games/Warriors_Orochi_3,Games/Warriors_Orochi_4,Games/Warriors_Orochi_4_Ultimate,Games/Wild_Hearts,Games/Wo_Long_Fallen_Dynasty
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/59/594908/3673970-5832428007-Katan.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3673970-5832428007-Katan.jpg","path":"59\/594908\/","mime":"image\/jpeg","sizes":"square_medium,scale_super,square_small,square_avatar,scale_small,scale_medium,square_mini,scale_avatar,square_tiny,screen_kubrick,scale_large,scale_tiny,screen_medium","caption":null},"background":[]}' /&gt;
+Proprietary engine owned by Koei Tecmo.</text>
+      <sha1>70l9ixzq5wbnfjl67c42z8tgn7jpsqj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Kilowattrel</title>
+    <ns>0</ns>
+    <id>95963</id>
+    <revision>
+      <id>588396</id>
+      <parentid>487894</parentid>
+      <timestamp>2026-02-08T07:18:22Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588396</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="579" sha1="cfqgryrymn0oi92fxfpw4s5l2c6jv1t" xml:space="preserve">{{Concept
+| Name=Kilowattrel
+| Guid=3015-13520
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777828-0941kilowattrel.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777828-0941kilowattrel.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,square_mini,scale_medium,scale_super,scale_small,square_tiny,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>cfqgryrymn0oi92fxfpw4s5l2c6jv1t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Kingambit</title>
+    <ns>0</ns>
+    <id>95998</id>
+    <revision>
+      <id>588476</id>
+      <parentid>487929</parentid>
+      <timestamp>2026-02-08T07:19:00Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588476</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="590" sha1="gt6vive416cwx4jaodmvps1scfpyhic" xml:space="preserve">{{Concept
+| Name=Kingambit
+| Guid=3015-13555
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Go,Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777869-0983kingambit.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777869-0983kingambit.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_small,scale_super,square_tiny,square_mini,screen_kubrick,scale_large,scale_avatar,square_avatar,screen_medium","caption":null},"background":[]}' /&gt;</text>
+      <sha1>gt6vive416cwx4jaodmvps1scfpyhic</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Klawf</title>
+    <ns>0</ns>
+    <id>95971</id>
+    <revision>
+      <id>588415</id>
+      <parentid>487902</parentid>
+      <timestamp>2026-02-08T07:18:31Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588415</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="575" sha1="9jyei1u821r9hdij9glbmib0wd0guu8" xml:space="preserve">{{Concept
+| Name=Klawf
+| Guid=3015-13528
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777838-1280px-0950klawf.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777838-1280px-0950klawf.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_small,square_tiny,scale_super,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>9jyei1u821r9hdij9glbmib0wd0guu8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Knuckle Cracking</title>
+    <ns>0</ns>
+    <id>96046</id>
+    <revision>
+      <id>588585</id>
+      <parentid>487975</parentid>
+      <timestamp>2026-02-08T07:19:49Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588585</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="999" sha1="6q2g3i2u888rbfoiaxze5op669rojgf" xml:space="preserve">{{Concept
+| Name=Knuckle Cracking
+| Guid=3015-13605
+| Aliases=Cracking Knuckles
+| Deck=When characters demonstratively crunch their fingers by tensely twisting them or pressing one hand against the other
+| Characters=Characters/Bayman,Characters/Gene
+| Concepts=Concepts/Taunting
+| Franchises=
+| Games=Games/Dead_or_Alive_4,Games/God_Hand,Games/Rogue_Galaxy
+| Locations=
+| Objects=Objects/Fist
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3790374-godhand-characterscracktheirfingers.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3790374-godhand-characterscracktheirfingers.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,square_medium,square_mini,scale_medium,scale_super,square_avatar,scale_small,screen_medium,screen_kubrick,scale_large,scale_avatar,square_tiny","caption":"God Hand - Characters Crack Their Fingers"},"background":[]}' /&gt;
+Typical movement of tough characters in games with fist fights before or after the fight.</text>
+      <sha1>6q2g3i2u888rbfoiaxze5op669rojgf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Kozachok</title>
+    <ns>0</ns>
+    <id>95815</id>
+    <revision>
+      <id>999647</id>
+      <parentid>742179</parentid>
+      <timestamp>2026-07-19T07:49:47Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>999647</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1711" sha1="ir40v52s43bc7201rmtronw7k5fn50i" xml:space="preserve">{{Concept
+| Name=Kozachok
+| Guid=3015-13367
+| Deck=Slavic folk dance. Its signature part - squats with alternate throwing forward of legs is sometimes parodied by some game characters
+| Characters=Characters/Beowulf_26159,Characters/Demoman,Characters/Engineer,Characters/Heavy,Characters/Jack_7591,Characters/Kuma,Characters/Medic_486,Characters/Mikhail_Gorbachev,Characters/Pyro,Characters/Rasputin,Characters/Scout,Characters/Sniper,Characters/Soda_Popinski,Characters/Soldier,Characters/Spy,Characters/Zangief
+| Concepts=Concepts/Dance_Fighting,Concepts/Dancehall,Concepts/Dancing,Concepts/Moonwalk,Concepts/Taunting
+| Franchises=
+| Games=Games/Aero_the_Acro_Bat_2,Games/Pocket_Fighter,Games/Punch_Out,Games/Skullgirls,Games/Street_Fighter_30th_Anniversary_Collection,Games/Street_Fighter_II_The_World_Warrior,Games/Super_Street_Fighter_IV,Games/Team_Fortress_2,Games/Tekken_3,Games/The_Legend_of_Zelda_Majoras_Mask
+| Locations=Locations/Belarus,Locations/Hungary,Locations/Poland,Locations/Russia,Locations/Soviet_Union,Locations/The_Commonwealth_of_Independent_States,Locations/Ukraine,Locations/Yugoslavia
+| Objects=Objects/Majoras_Mask
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3664982-5406632490-215.g.gif
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3664982-5406632490-215.g.gif","path":"16\/164924\/","mime":"image\/gif","sizes":"square_small,square_avatar,scale_super,scale_medium,square_medium,scale_small,screen_medium,scale_large,scale_avatar,square_mini,square_tiny,screen_kubrick","caption":null},"background":[]}' /&gt;
+Slavic folk dance. Its signature part - squats with alternate throwing forward of legs is sometimes parodied by some game characters</text>
+      <sha1>ir40v52s43bc7201rmtronw7k5fn50i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Krakkiss</title>
+    <ns>0</ns>
+    <id>96081</id>
+    <revision>
+      <id>96216</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96216</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="505" sha1="tbmx96uq4o0wv9dwhvq97lljjkkv42j" xml:space="preserve">{{Concept
+| Name=Krakkiss
+| Guid=3015-13642
+| Deck=The Armored Krakkiss appears in the 2000 video game Star Wars: Episode I Jedi Power Battles.
+| Characters=
+| Concepts=Concepts/Armadillo,Concepts/Boss_Fight,Concepts/Roll
+| Franchises=
+| Games=Games/Star_Wars_Episode_I_Jedi_Power_Battles
+| Locations=Locations/Tatooine
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The Armored Krakkiss appears in the 2000 video game Star Wars: Episode I Jedi Power Battles.
+
+</text>
+      <sha1>tbmx96uq4o0wv9dwhvq97lljjkkv42j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Kubfu</title>
+    <ns>0</ns>
+    <id>96037</id>
+    <revision>
+      <id>588567</id>
+      <parentid>487968</parentid>
+      <timestamp>2026-02-08T07:19:41Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588567</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="590" sha1="2upsxkkbvur30yucq0cpqf509b106w7" xml:space="preserve">{{Concept
+| Name=Kubfu
+| Guid=3015-13594
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Go,Games/Pokemon_Sword_Shield
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3778935-1280px-0891kubfu.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3778935-1280px-0891kubfu.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,scale_medium,square_medium,scale_super,scale_small,square_mini,square_tiny,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>2upsxkkbvur30yucq0cpqf509b106w7</sha1>
+    </revision>
+  </page>
+</mediawiki>

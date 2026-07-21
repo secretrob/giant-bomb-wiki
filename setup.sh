@@ -37,21 +37,6 @@ echo ""
 DB_CONTAINER=$(docker compose -f docker-compose.yml ps -q db)
 WIKI_CONTAINER=$(docker compose -f docker-compose.yml ps -q wiki)
 
-# Wait for database
-echo "Waiting for database to load snapshot..."
-echo "⏳ This takes 1-2 minutes on first run"
-echo "⏳ Subsequent runs are ~10 seconds (data persists in volume)"
-echo ""
-
-sleep 5
-until docker exec $DB_CONTAINER mariadb -uroot -p${MARIADB_ROOT_PASSWORD} -e "SELECT 1 FROM gb_wiki.page LIMIT 1" &> /dev/null; do
-    printf "."
-    sleep 3
-done
-echo ""
-echo "✓ Database ready with data loaded"
-echo ""
-
 # Wait for wiki container to be able to connect to database
 echo "Waiting for wiki container to connect to database..."
 until docker exec $WIKI_CONTAINER php -r "new mysqli('db', 'root', '${MARIADB_ROOT_PASSWORD}', 'gb_wiki');" &> /dev/null; do

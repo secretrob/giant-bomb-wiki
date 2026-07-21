@@ -1,0 +1,1742 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Objects/McLaren 720S GT3 Evo</title>
+    <ns>0</ns>
+    <id>464285</id>
+    <revision>
+      <id>464873</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464873</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="rsfyzwonu0ranl2memahxxcunwuah6z" xml:space="preserve">{{Object
+| Name=McLaren 720S GT3 Evo
+| Guid=3055-7702
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Le_Mans_Ultimate
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>rsfyzwonu0ranl2memahxxcunwuah6z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mercedes Benz 300 SEL</title>
+    <ns>0</ns>
+    <id>464218</id>
+    <revision>
+      <id>729233</id>
+      <parentid>464806</parentid>
+      <timestamp>2026-02-14T21:33:20Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729233</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1319" sha1="naoiwmxh6rn7mjcc94msdpbgjovsvcu" xml:space="preserve">{{Object
+| Name=Mercedes-Benz 300 SEL
+| Guid=3055-7631
+| Deck=The 300 SEL 6.3 is the high-end model of the W109 full-size luxury car that was produced from 1965 to 1973. In 1975, the 450 SEL 6.9 based on the first generation Mercedes-Benz S-Class was introduced to replace the 300 SEL 6.3.
+| Characters=
+| Concepts=Concepts/Licensed_Cars,Concepts/The_1970s
+| Franchises=
+| Games=Games/Forza_Horizon_3,Games/Forza_Motorsport_4,Games/Forza_Motorsport_7,Games/Gran_Turismo_7,Games/Gran_Turismo_Sport,Games/Hot_Wheels_Unleashed_2_Turbocharged,Games/Project_CARS,Games/Project_CARS_2,Games/Project_CARS_3
+| Locations=Locations/Germany
+| People=
+| Objects=Objects/Car
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3652328-0714459850-245.j.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3652328-0714459850-245.j.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_medium,square_small,scale_small,scale_medium,square_mini,scale_super,square_avatar,square_tiny,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+The 300 SEL 6.3 is the high-end model of the W109 full-size luxury car that was produced from 1965 to 1973. In 1975, the 450 SEL 6.9 based on the first generation Mercedes-Benz S-Class was introduced to replace the 300 SEL 6.3.</text>
+      <sha1>naoiwmxh6rn7mjcc94msdpbgjovsvcu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mercedes Benz AMG E 55</title>
+    <ns>0</ns>
+    <id>464217</id>
+    <revision>
+      <id>729232</id>
+      <parentid>464805</parentid>
+      <timestamp>2026-02-14T21:33:19Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729232</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1286" sha1="pzqemqo3lmut398l795bazlbo38rvh6" xml:space="preserve">{{Object
+| Name=Mercedes-Benz AMG E 55
+| Guid=3055-7630
+| Deck=The Mercedes-Benz W211 is the third generation Mercedes-Benz E-Class made from 2001 to 2009 in sedan/saloon and station wagon/estate configurations – replacing the W210 E-Class models and superseded by the Mercedes-Benz W212 in 2009.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Gran_Turismo_2,Games/Gran_Turismo_2009,Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_6,Games/Sega_GT,Games/Top_Drives,Games/World_Racing
+| Locations=Locations/Germany
+| People=
+| Objects=Objects/Car,Objects/Mercedes_Benz_SL_65_AMG,Objects/Mercedes_CL55_AMG
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3651155-2030904379-350.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3651155-2030904379-350.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"scale_super,square_mini,square_small,square_medium,scale_medium,square_avatar,scale_small,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Mercedes-Benz W211 is the third generation Mercedes-Benz E-Class made from 2001 to 2009 in sedan/saloon and station wagon/estate configurations – replacing the W210 E-Class models and superseded by the Mercedes-Benz W212 in 2009.</text>
+      <sha1>pzqemqo3lmut398l795bazlbo38rvh6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mercedes Benz CLK DTM AMG</title>
+    <ns>0</ns>
+    <id>464194</id>
+    <revision>
+      <id>464782</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464782</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="236" sha1="dfnxtbfznaeor415gohk4cocewn61e5" xml:space="preserve">{{Object
+| Name=Mercedes-Benz CLK-DTM AMG
+| Guid=3055-7607
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/TOCA_Race_Driver_2
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>dfnxtbfznaeor415gohk4cocewn61e5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mercedes Benz Patent Motor Wagen 1886</title>
+    <ns>0</ns>
+    <id>464002</id>
+    <revision>
+      <id>729107</id>
+      <parentid>464590</parentid>
+      <timestamp>2026-02-14T21:31:36Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729107</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="718" sha1="nht70qisg8hya4ipiby2rdbjy5pc530" xml:space="preserve">{{Object
+| Name=Mercedes-Benz Patent Motor Wagen 1886
+| Guid=3055-7414
+| Characters=
+| Concepts=Concepts/The_19th_Century,Concepts/Unlockables,Concepts/Useable_Vehicles
+| Franchises=
+| Games=Games/Gran_Turismo_4,Games/Motor_City
+| Locations=Locations/Germany
+| People=
+| Objects=Objects/Car
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3574798-6818007471-1000.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3574798-6818007471-1000.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_avatar,square_medium,square_small,scale_small,scale_medium,scale_super,square_tiny,square_mini,screen_medium,screen_kubrick,scale_avatar,scale_large","caption":null},"background":[]}' /&gt;</text>
+      <sha1>nht70qisg8hya4ipiby2rdbjy5pc530</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mercedes Benz Race Truck</title>
+    <ns>0</ns>
+    <id>464037</id>
+    <revision>
+      <id>464625</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464625</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="cakedbq01wyavwvt0tiue8c1lhjl456" xml:space="preserve">{{Object
+| Name=Mercedes-Benz Race Truck
+| Guid=3055-7449
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/World_Racing
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>cakedbq01wyavwvt0tiue8c1lhjl456</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mercedes Benz SL600</title>
+    <ns>0</ns>
+    <id>464083</id>
+    <revision>
+      <id>978138</id>
+      <parentid>729172</parentid>
+      <timestamp>2026-07-07T22:47:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore content truncated by the legacy migration (3055-7495, guid-audit)</comment>
+      <origin>978138</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2802" sha1="3bwef8o1xiwgnvzxial64xq532k15l3" xml:space="preserve">{{Object
+| Name=Mercedes-Benz SL600
+| Guid=3055-7495
+| Deck=The 1997 Mercedes-Benz SL 600 (R129) is the top model in the R129 Mercedes-Benz SL lineup, which was produced from 1989 to 2002.
+| Characters=
+| Concepts=Concepts/Licensed_Cars
+| Franchises=
+| Games=Games/Gran_Turismo_2009,Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_6,Games/Need_for_Speed_III_Hot_Pursuit
+| Locations=Locations/Germany
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3645501-5281001615-1000.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3645501-5281001615-1000.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_mini,square_small,square_medium,square_tiny,scale_small,square_avatar,scale_medium,scale_super,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":"in Gran Turismo 4"},"background":[]}' /&gt;
+
+The SL is a series of luxury sport roadsters from Mercedes Benz. Compared to the flagship S series saloons, the SL is lighter and generally more sports-oriented, sharing the same high-power engines built in-house by Mercedes.
+
+At its launch in 1989, only the 3.0L I6 and 5.0L V8 engines were available. With the introduction of the M120 engine in 1991, the 6.0L V12-powered 600 SL became the new flagship. In 1993, Mercedes changed the naming rule, and the designation changed to SL 600 onward.
+
+Over its production run, the series saw several design changes. For example, digital odometer was introduced in 1994, and the automatic-triggered rain brush in 1995. AMG offered several customised R129 models, including the SL 55, 60, 70, 72, and 73. Some of these are limited editions and are extremely rare and prohibitively expensive.
+
+In compliance with German law, all SL models were electronically limited to a top speed of 155 mph (250 km/h).
+
+The M120 V12 engine equipped in SL600 was widely regarded as one of the finest automobile engine ever made. In its stock form, with around 400 horsepower (reduced to 389 later in compliance of emission regulations), it can push the 2-tonne car to around 290 km/h with the speed limiter removed. Heavily-modified and racing-tuned M120s are equipped in supercars like Mercedes CLK-GTRs and Pagani Zondas, demonstrating the engine's true potential: an outrageous 750+ horsepower.
+
+
+===''NEED FOR SPEED III: HOT PURSUIT''===
+The SL 600 appears in the PC release of ''Need for Speed III: Hot Pursuit'' as a class C car.
+
+Overall, it is the best car in its class. With its powerful V12 engine, it easily outperforms the [[Objects/Jaguar_XK8|Jaguar XK8]] and [[Objects/Aston_Martin_DB7|Aston Martin DB7]] in both acceleration and top speed. Thanks to its advanced traction system, handling is not compromised much for such a heavy car.
+
+The SL600 is not available in Hot Pursuit mode.</text>
+      <sha1>3bwef8o1xiwgnvzxial64xq532k15l3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mercedes Benz SLK 230</title>
+    <ns>0</ns>
+    <id>464116</id>
+    <revision>
+      <id>729187</id>
+      <parentid>464704</parentid>
+      <timestamp>2026-02-14T21:32:41Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729187</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1462" sha1="99ykxb50uu2ylef88fbdrc0g30lgior" xml:space="preserve">{{Object
+| Name=Mercedes-Benz SLK 230
+| Guid=3055-7528
+| Deck=The 1999 Mercedes-Benz SLK 230 Kompressor (R170) is a roadster produced by Mercedes-Benz from 1996 to 2004.
+| Characters=
+| Concepts=Concepts/Licensed_Cars
+| Franchises=
+| Games=Games/Apex,Games/Gran_Turismo_2,Games/Gran_Turismo_2009,Games/Gran_Turismo_3_A_Spec,Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_6,Games/Metropolis_Street_Racer,Games/Need_for_Speed_High_Stakes,Games/Sega_GT,Games/World_Racing
+| Locations=Locations/Germany
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3645511-9762145599-1000.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3645511-9762145599-1000.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,square_medium,square_mini,scale_medium,scale_super,scale_small,square_tiny,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+
+===''NEED FOR SPEED: HIGH STAKES''===
+The SLK 230 Kompressor appears in ''Need for Speed: High Stakes'' as a class B vehicle with a cost of $20,000.
+It is one of the first two cars the player can buy in career mode alongside the [[Objects/BMW_Z3|BMW Z3]] in the same class.
+It outperforms the Z3 in terms of top speed and handling, which is balanced by slower acceleration and less responsive brakes. The SLK 230 is capable of keeping up with stock class A cars when upgraded with performance parts.</text>
+      <sha1>99ykxb50uu2ylef88fbdrc0g30lgior</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mercedes Benz SL 65 AMG</title>
+    <ns>0</ns>
+    <id>463972</id>
+    <revision>
+      <id>464560</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464560</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="255" sha1="h6ao8yd24c6g0e7m0z9gqrsey5ibzn5" xml:space="preserve">{{Object
+| Name=Mercedes-Benz SL 65 AMG
+| Guid=3055-7384
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Asphalt_5
+| Locations=
+| People=
+| Objects=Objects/Mercedes_Benz_AMG_E_55
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>h6ao8yd24c6g0e7m0z9gqrsey5ibzn5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mercedes Benz S Class</title>
+    <ns>0</ns>
+    <id>464030</id>
+    <revision>
+      <id>729132</id>
+      <parentid>464618</parentid>
+      <timestamp>2026-02-14T21:31:57Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729132</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="959" sha1="tmz5h0qp5tc5sos2lnlj4lxb6sog8ym" xml:space="preserve">{{Object
+| Name=Mercedes Benz S-Class
+| Guid=3055-7442
+| Deck=Mercedes Benz S-Class is a German full-sized luxury sedan that was popular around the world.
+| Characters=
+| Concepts=Concepts/Licensed_Cars
+| Franchises=
+| Games=Games/007_Tomorrow_Never_Dies,Games/Forza_Horizon,Games/Midnight_Club_Los_Angeles,Games/Midnight_Club_Los_Angeles_Remix,Games/World_Racing
+| Locations=Locations/Germany
+| People=
+| Objects=Objects/Car,Objects/Sedan
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3604964-img_2285.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3604964-img_2285.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"scale_medium,scale_small,square_medium,square_small,square_avatar,square_mini,scale_super,scale_avatar,screen_kubrick,square_tiny,scale_tiny,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Mercedes Benz S-Class is a German full-sized luxury sedan that was popular around the world.</text>
+      <sha1>tmz5h0qp5tc5sos2lnlj4lxb6sog8ym</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mercedes Benz W196</title>
+    <ns>0</ns>
+    <id>464191</id>
+    <revision>
+      <id>464779</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464779</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="3dawo2ye13by7k6702ofr0xkxrmfbvg" xml:space="preserve">{{Object
+| Name=Mercedes-Benz W196
+| Guid=3055-7604
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/TOCA_Race_Driver_3
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3dawo2ye13by7k6702ofr0xkxrmfbvg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mercedes Benz W25</title>
+    <ns>0</ns>
+    <id>464192</id>
+    <revision>
+      <id>729215</id>
+      <parentid>464780</parentid>
+      <timestamp>2026-02-14T21:33:05Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729215</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1532" sha1="kyfgxqtsn92559kycy19q53lpe9pj8h" xml:space="preserve">{{Object
+| Name=Mercedes-Benz W25
+| Guid=3055-7605
+| Deck=The Mercedes-Benz W25 was a Grand Prix racing car designed by Daimler-Benz AG for the 1934 Grand Prix season, in which new rules were introduced, and no championship was held. In 1935, the European Championship was resumed, and it was won by Rudolf Caracciola in a W25. In modified form, the W25 remained in use until 1937, when it was succeeded by the Mercedes-Benz W125.
+| Characters=
+| Concepts=Concepts/Licensed_Cars,Concepts/The_1930s,Concepts/Unlockables
+| Franchises=
+| Games=Games/Assetto_Corsa,Games/Sega_GT_Online,Games/TOCA_Race_Driver_3,Games/TOCA_Race_Driver_3_Challenge
+| Locations=Locations/Germany,Locations/Race_Track
+| People=
+| Objects=Objects/Race_Car
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3646466-2155127342-hq720.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3646466-2155127342-hq720.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_small,square_avatar,square_medium,scale_medium,scale_super,scale_small,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Mercedes-Benz W25 was a Grand Prix racing car designed by Daimler-Benz AG for the 1934 Grand Prix season, in which new rules were introduced, and no championship was held. In 1935, the European Championship was resumed, and it was won by Rudolf Caracciola in a W25. In modified form, the W25 remained in use until 1937, when it was succeeded by the Mercedes-Benz W125.</text>
+      <sha1>kyfgxqtsn92559kycy19q53lpe9pj8h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mercedes Maybach S Class</title>
+    <ns>0</ns>
+    <id>464031</id>
+    <revision>
+      <id>729133</id>
+      <parentid>464619</parentid>
+      <timestamp>2026-02-14T21:31:58Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729133</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="956" sha1="he2bm6g30du1sqn02jzit2hw2w8d4kp" xml:space="preserve">{{Object
+| Name=Mercedes Maybach S-Class
+| Guid=3055-7443
+| Deck=Mercedes Maybach S-Class is a premium full sized sedan version of the S-Class, that was made from Mercedes’ luxury division Maybach.
+| Characters=
+| Concepts=Concepts/Licensed_Cars
+| Franchises=
+| Games=Games/Drift_Spirits,Games/Need_for_Speed_Unbound
+| Locations=Locations/Germany
+| People=
+| Objects=Objects/Car,Objects/Sedan
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3604971-img_2294.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3604971-img_2294.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_super,scale_small,square_avatar,scale_medium,square_tiny,square_mini,scale_tiny,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+Mercedes Maybach S-Class is a premium full sized sedan version of the S-Class, that was made from Mercedes’ luxury division Maybach.</text>
+      <sha1>he2bm6g30du1sqn02jzit2hw2w8d4kp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Messerschmitt Bf 109</title>
+    <ns>0</ns>
+    <id>463997</id>
+    <revision>
+      <id>464585</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464585</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="277" sha1="puvghlg2p3tcxo82i5fct0h9ux4taxn" xml:space="preserve">{{Object
+| Name=Messerschmitt Bf 109
+| Guid=3055-7409
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Medal_of_Honor_Above_and_Beyond,Games/Medal_of_Honor_Infiltrator
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>puvghlg2p3tcxo82i5fct0h9ux4taxn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Metal Gear Chaioth Ha Qadesh</title>
+    <ns>0</ns>
+    <id>463873</id>
+    <revision>
+      <id>729003</id>
+      <parentid>464461</parentid>
+      <timestamp>2026-02-14T21:30:16Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729003</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="856" sha1="gg4mc7fqyw0dmyio0ntd5jeimd40lra" xml:space="preserve">{{Object
+| Name=Metal Gear Chaioth Ha Qadesh
+| Guid=3055-7284
+| Deck=Metal Gear Chaioth Ha Qadesh is the Metal Gear made by SaintLogic.
+| Characters=Characters/Lucy_56303,Characters/Snake,Characters/Thomas_Koppelthorn,Characters/Venus
+| Concepts=
+| Franchises=
+| Games=Games/Metal_Gear_Ac_d_2
+| Locations=
+| People=
+| Objects=Objects/Metal_Gear
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3497818-metal_gear_chaioth_ha_qadesh.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3497818-metal_gear_chaioth_ha_qadesh.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_medium,scale_super,scale_small,square_small,square_medium,square_mini,square_avatar,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Metal Gear Chaioth Ha Qadesh is the Metal Gear made by SaintLogic.</text>
+      <sha1>gg4mc7fqyw0dmyio0ntd5jeimd40lra</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Metal Gear KODOQUE</title>
+    <ns>0</ns>
+    <id>463872</id>
+    <revision>
+      <id>729002</id>
+      <parentid>464460</parentid>
+      <timestamp>2026-02-14T21:30:15Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729002</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="780" sha1="b8xc1gj3ymebvm1zsol7cz9v43xk8or" xml:space="preserve">{{Object
+| Name=Metal Gear KODOQUE
+| Guid=3055-7283
+| Deck=Metal Gear KODOQUE was the project Pythagoras.
+| Characters=Characters/Solid_Snake,Characters/Teliko_Friedman,Characters/William_L_Flemming
+| Concepts=
+| Franchises=
+| Games=Games/Metal_Gear_Ac_d,Games/Metal_Gear_Ac_d_2
+| Locations=
+| People=
+| Objects=Objects/Metal_Gear
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3497817-kodoque.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3497817-kodoque.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_medium,scale_super,scale_small,square_small,square_medium,square_avatar,square_mini,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Metal Gear KODOQUE was the project Pythagoras.</text>
+      <sha1>b8xc1gj3ymebvm1zsol7cz9v43xk8or</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Metal Gear Mk III</title>
+    <ns>0</ns>
+    <id>463874</id>
+    <revision>
+      <id>729004</id>
+      <parentid>464462</parentid>
+      <timestamp>2026-02-14T21:30:16Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729004</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="967" sha1="hyr7tm64ne3o23wsdtekvs7gxc8ignq" xml:space="preserve">{{Object
+| Name=Metal Gear Mk. III
+| Guid=3055-7285
+| Deck=Metal Gear Mk. III was the successor to the previously destroyed Mk. II.
+| Characters=Characters/Otacon,Characters/Solid_Snake,Characters/Sunny_Gurlukovich
+| Concepts=
+| Franchises=
+| Games=Games/Metal_Gear_Solid_4_Guns_of_the_Patriots
+| Locations=Locations/Alaska,Locations/Outer_Haven,Locations/Shadow_Moses,Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Metal_Gear,Objects/Metal_Gear_Mk_II
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3497819-metal_gear_mk_iii.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3497819-metal_gear_mk_iii.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_medium,scale_super,scale_small,square_small,square_medium,square_mini,square_avatar,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Metal Gear Mk. III was the successor to the previously destroyed Mk. II.</text>
+      <sha1>hyr7tm64ne3o23wsdtekvs7gxc8ignq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Metal Gear ZEKE</title>
+    <ns>0</ns>
+    <id>463875</id>
+    <revision>
+      <id>729005</id>
+      <parentid>464463</parentid>
+      <timestamp>2026-02-14T21:30:17Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729005</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="952" sha1="qvsrob0b8thl46w4jq7li1mhplbrpzc" xml:space="preserve">{{Object
+| Name=Metal Gear ZEKE
+| Guid=3055-7286
+| Deck=Metal Gear ZEKE was the Metal Gear build by MSF.
+| Characters=Characters/Big_Boss,Characters/Huey_Emmerich,Characters/Master_Miller,Characters/Paz_Ortega_Andrade,Characters/Strangelove
+| Concepts=Concepts/Titular_Weapon
+| Franchises=
+| Games=Games/Metal_Gear_Solid_HD_Collection,Games/Metal_Gear_Solid_Peace_Walker
+| Locations=Locations/Mother_Base
+| People=
+| Objects=Objects/Chrysalis,Objects/Cocoon,Objects/Metal_Gear,Objects/Peace_Walker_Basilisk
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3497820-zeke.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3497820-zeke.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_medium,scale_super,scale_small,square_small,square_avatar,square_medium,square_mini,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Metal Gear ZEKE was the Metal Gear build by MSF.</text>
+      <sha1>qvsrob0b8thl46w4jq7li1mhplbrpzc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Metalion</title>
+    <ns>0</ns>
+    <id>464013</id>
+    <revision>
+      <id>729117</id>
+      <parentid>464601</parentid>
+      <timestamp>2026-02-14T21:31:44Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729117</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1164" sha1="6fsy15q4fvg925pjq87inb2me75hzso" xml:space="preserve">{{Object
+| Name=Metalion
+| Guid=3055-7425
+| Deck=The spaceship utilized by Gradius series protagonist James Burton during the events of Gradius Rebirth and Nemesis 2, and Aoba Anoa in Otomedius Excellent in her hyper mode.
+| Characters=Characters/Aoba_Anoa,Characters/Dr_Venom,Characters/James_Burton
+| Concepts=
+| Franchises=
+| Games=Games/Gradius_ReBirth,Games/Konami_Antiques_MSX_Collection_Ultra_Pack,Games/Konami_Antiques_MSX_Collection_Vol_2,Games/Nemesis_2,Games/Otomedius_Excellent
+| Locations=Locations/Gradius_8183
+| People=
+| Objects=Objects/Spaceship
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3593213-2790062808-latest.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3593213-2790062808-latest.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_super,square_medium,square_small,square_avatar,scale_medium,scale_small,square_tiny,screen_kubrick,scale_large,scale_avatar,square_mini,screen_medium","caption":null},"background":[]}' /&gt;
+The spaceship utilized by Gradius series protagonist James Burton during the events of Gradius Rebirth and Nemesis 2, and Aoba Anoa in Otomedius Excellent in her hyper mode.</text>
+      <sha1>6fsy15q4fvg925pjq87inb2me75hzso</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Meth</title>
+    <ns>0</ns>
+    <id>464368</id>
+    <revision>
+      <id>464956</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464956</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="669" sha1="1dvg7yd1ovnhqt5az10kw17l1htx0dm" xml:space="preserve">{{Object
+| Name=Meth
+| Guid=3055-7785
+| Deck=A stimulant. While sometimes prescribed for treatment of ADHD, it is most famous in pop culture as an illicit drug, often in crystallized form.
+| Characters=Characters/Gus_Fring,Characters/Jesse_Pinkman,Characters/Walter_White
+| Concepts=Concepts/Drug_Use,Concepts/Drugs
+| Franchises=
+| Games=Games/Breaking_Bad_Criminal_Elements,Games/Law_And_Order_Legacies
+| Locations=Locations/Meth_Lab
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+A stimulant. While sometimes prescribed for treatment of ADHD, it is most famous in pop culture as an illicit drug, often in crystallized form.</text>
+      <sha1>1dvg7yd1ovnhqt5az10kw17l1htx0dm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mikan</title>
+    <ns>0</ns>
+    <id>463924</id>
+    <revision>
+      <id>729054</id>
+      <parentid>464512</parentid>
+      <timestamp>2026-02-14T21:30:54Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729054</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="620" sha1="l3yttba5afunqw5ulzrmk95n4ocdq4c" xml:space="preserve">{{Object
+| Name=Mikan
+| Guid=3055-7335
+| Characters=Characters/Nami
+| Concepts=
+| Franchises=
+| Games=Games/Tomodachi_Collection,Games/Tomodachi_Life
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/59/594908/3513794-8917305450-mikan.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3513794-8917305450-mikan.jpg","path":"59\/594908\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,scale_medium,square_small,square_avatar,square_medium,square_tiny,scale_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;</text>
+      <sha1>l3yttba5afunqw5ulzrmk95n4ocdq4c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mikrosil</title>
+    <ns>0</ns>
+    <id>464369</id>
+    <revision>
+      <id>464957</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464957</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="339" sha1="czdnta00v4j4y58k63cu0vpa8ibu3dv" xml:space="preserve">{{Object
+| Name=Mikrosil
+| Guid=3055-7786
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/CSI_Crime_Scene_Investigation,Games/CSI_Crime_Scene_Investigation_3_Dimensions_of_Murder,Games/CSI_Crime_Scene_Investigation_Hard_Evidence
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>czdnta00v4j4y58k63cu0vpa8ibu3dv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Milk Tea</title>
+    <ns>0</ns>
+    <id>463885</id>
+    <revision>
+      <id>729015</id>
+      <parentid>464473</parentid>
+      <timestamp>2026-02-14T21:30:24Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729015</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="915" sha1="77kdnccsx7120xg7o0utz29gtcfauoe" xml:space="preserve">{{Object
+| Name=Milk Tea
+| Guid=3055-7296
+| Deck=Milk Tea is a popular drink in Asian regions of the world. Simply mixing milk with certain types of tea, many variations of this exist.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Judgment
+| Locations=
+| People=
+| Objects=Objects/Coffee,Objects/Cup,Objects/Milk,Objects/Tea,Objects/Teacup
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3505024-royal-milk-tea-4730-i.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3505024-royal-milk-tea-4730-i.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_small,square_mini,scale_super,scale_medium,scale_small,square_avatar,square_medium,square_tiny,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+Milk Tea is a popular drink in Asian regions of the world. Simply mixing milk with certain types of tea, many variations of this exist.</text>
+      <sha1>77kdnccsx7120xg7o0utz29gtcfauoe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mitsubishi Lancer</title>
+    <ns>0</ns>
+    <id>464090</id>
+    <revision>
+      <id>729173</id>
+      <parentid>464678</parentid>
+      <timestamp>2026-02-14T21:32:30Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729173</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1121" sha1="8fhamf6vi1le472xhb010boyb50t3i9" xml:space="preserve">{{Object
+| Name=Mitsubishi Lancer
+| Guid=3055-7502
+| Deck=Mitsubishi Lancer was a popular compact model that was sold worldwide and used for rallies to win races.
+| Characters=
+| Concepts=Concepts/Mitsubishi_Motors_Corporation
+| Franchises=
+| Games=Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_6,Games/Rally_de_Europe,Games/Toca_World_Touring_Cars,Games/Tom_Clancys_Ghost_Recon_Wildlands,Games/Top_Drives,Games/WRC_Rally_Evolved
+| Locations=Locations/Japan
+| People=
+| Objects=Objects/Mitsubishi_Lancer_Evolution,Objects/Mitsubishi_Lancer_Evolution_V,Objects/Mitsubishi_Lancer_Evolution_VI,Objects/Mitsubishi_Lancer_Evolution_X
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3819275-img_3575.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3819275-img_3575.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,scale_medium,square_small,square_medium,square_tiny,square_avatar,scale_tiny,square_mini","caption":null},"background":[]}' /&gt;
+Mitsubishi Lancer was a popular compact model that was sold worldwide and used for rallies to win races.</text>
+      <sha1>8fhamf6vi1le472xhb010boyb50t3i9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mitsubishi Lancer EV4</title>
+    <ns>0</ns>
+    <id>464080</id>
+    <revision>
+      <id>464668</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464668</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="369" sha1="jk4c4iao6vaqn63p5xdzilxlfqprwwm" xml:space="preserve">{{Object
+| Name=Mitsubishi Lancer EV4
+| Guid=3055-7492
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Need_for_Speed_V_Rally,Games/TOCA_Race_Driver_3,Games/Tokyo_Xtreme_Racer_Drift_2
+| Locations=
+| People=
+| Objects=Objects/Mitsubishi_Lancer_Evolution_V,Objects/Mitsubishi_Lancer_Evolution_X
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jk4c4iao6vaqn63p5xdzilxlfqprwwm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mitsubishi Lancer Evo VII</title>
+    <ns>0</ns>
+    <id>464143</id>
+    <revision>
+      <id>729198</id>
+      <parentid>464731</parentid>
+      <timestamp>2026-02-14T21:32:50Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729198</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="648" sha1="pofhtf18i9swf6gyckl0u8qmci70921" xml:space="preserve">{{Object
+| Name=Mitsubishi Lancer Evo VII
+| Guid=3055-7556
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Colin_McRae_Rally_3,Games/Pro_Rally,Games/TOCA_Race_Driver_2,Games/Tokyo_Xtreme_Racer_Drift_2
+| Locations=
+| People=
+| Objects=Objects/Mitsubishi_Lancer_Evolution
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3819295-img_3590.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3819295-img_3590.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,scale_medium,square_medium,scale_tiny,square_small,square_avatar,square_tiny,square_mini","caption":null},"background":[]}' /&gt;</text>
+      <sha1>pofhtf18i9swf6gyckl0u8qmci70921</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mitsubishi Lancer Evolution</title>
+    <ns>0</ns>
+    <id>464183</id>
+    <revision>
+      <id>729207</id>
+      <parentid>464771</parentid>
+      <timestamp>2026-02-14T21:32:58Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729207</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2285" sha1="i7lvsxwz9vzv6w5qne5jzyezfjgpjf6" xml:space="preserve">{{Object
+| Name=Mitsubishi Lancer Evolution
+| Guid=3055-7596
+| Deck=The Mitsubishi Lancer Evolution was an popular sports package version of the compact model that used to win rallies and JDM styles.
+| Characters=Characters/Brian_OConnor
+| Concepts=Concepts/Rally
+| Franchises=
+| Games=Games/Forza_Horizon,Games/Forza_Horizon_2,Games/Forza_Horizon_3,Games/Forza_Horizon_4,Games/Forza_Horizon_5,Games/Forza_Horizon_6,Games/Forza_Motorsport,Games/Forza_Motorsport_2,Games/Forza_Motorsport_2023,Games/Forza_Motorsport_3,Games/Forza_Motorsport_4,Games/Forza_Motorsport_5,Games/Forza_Motorsport_6,Games/Forza_Motorsport_7,Games/Gran_Turismo,Games/Gran_Turismo_2,Games/Gran_Turismo_3_A_Spec,Games/Gran_Turismo_4,Games/Gran_Turismo_4_Prologue,Games/Gran_Turismo_5_Prologue,Games/Gran_Turismo_6,Games/Gran_Turismo_7,Games/Gran_Turismo_Sport,Games/Need_for_Speed,Games/Need_for_Speed_Carbon,Games/Need_for_Speed_Carbon_Own_the_City,Games/Need_for_Speed_Heat,Games/Need_for_Speed_Hot_Pursuit,Games/Need_for_Speed_Most_Wanted,Games/Need_for_Speed_Most_Wanted_2012,Games/Need_for_Speed_No_Limits,Games/Need_for_Speed_Payback,Games/Need_for_Speed_Unbound,Games/Need_for_Speed_V_Rally,Games/Need_for_Speed_V_Rally_2,Games/Tokyo_Xtreme_Racer,Games/Tokyo_Xtreme_Racer_2,Games/Tokyo_Xtreme_Racer_3,Games/Tokyo_Xtreme_Racer_Drift,Games/Tokyo_Xtreme_Racer_Drift_2,Games/Tokyo_Xtreme_Racer_Zero,Games/V_Rally_3,Games/V_Rally_4,Games/Zero_4_Champ_RR_Z,Games/Zero4_Champ_DooZy_J,Games/Zero4_Champ_Series_Drift_Champ
+| Locations=Locations/Japan
+| People=
+| Objects=Objects/Car,Objects/Mitsubishi_Lancer,Objects/Mitsubishi_Lancer_Evo_VII,Objects/Mitsubishi_Lancer_Evolution_2,Objects/Mitsubishi_Lancer_Evolution_IX,Objects/Mitsubishi_Lancer_Evolution_V,Objects/Mitsubishi_Lancer_Evolution_X,Objects/Sedan
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3819294-img_3589.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3819294-img_3589.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"scale_super,square_small,square_mini,square_medium,square_tiny,scale_tiny,scale_medium,scale_small,square_avatar","caption":null},"background":[]}' /&gt;
+The Mitsubishi Lancer Evolution was an popular sports package version of the compact model that used to win rallies and JDM styles.</text>
+      <sha1>i7lvsxwz9vzv6w5qne5jzyezfjgpjf6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mitsubishi Lancer Evolution 2</title>
+    <ns>0</ns>
+    <id>464184</id>
+    <revision>
+      <id>729208</id>
+      <parentid>464772</parentid>
+      <timestamp>2026-02-14T21:32:59Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729208</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1339" sha1="q8a3m0u1yxw54r6upgejjti2s9gjhlo" xml:space="preserve">{{Object
+| Name=Mitsubishi Lancer Evolution 2
+| Guid=3055-7597
+| Deck=In December 1993, Mitsubishi unveiled the Lancer Evolution II, whose engine output was increased to 256 HP. A loyal following of the car soon developed, and they started referring to the hot Mitsubishi as the "Lan Evo".
+| Characters=
+| Concepts=Concepts/Licensed_Cars,Concepts/Mitsubishi_Motors_Corporation,Concepts/The_1990s
+| Franchises=
+| Games=Games/Gran_Turismo_2,Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_6,Games/Sega_GT_Online,Games/Super_Drift_Out,Games/Tokyo_Xtreme_Racer_Drift_2,Games/Top_Drives
+| Locations=Locations/Japan
+| People=
+| Objects=Objects/Mitsubishi_Lancer_Evolution
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3646975-9315742199-321.j.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3646975-9315742199-321.j.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_avatar,square_medium,scale_medium,square_tiny,scale_small,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium,scale_tiny","caption":null},"background":[]}' /&gt;
+In December 1993, Mitsubishi unveiled the Lancer Evolution II, whose engine output was increased to 256 HP. A loyal following of the car soon developed, and they started referring to the hot Mitsubishi as the "Lan Evo".</text>
+      <sha1>q8a3m0u1yxw54r6upgejjti2s9gjhlo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mitsubishi Lancer Evolution 3</title>
+    <ns>0</ns>
+    <id>464185</id>
+    <revision>
+      <id>729209</id>
+      <parentid>464773</parentid>
+      <timestamp>2026-02-14T21:33:00Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729209</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2487" sha1="rim5hjczc9x3agct338voki2uw9k95b" xml:space="preserve">{{Object
+| Name=Mitsubishi Lancer Evolution 3
+| Guid=3055-7598
+| Deck=This is the 3rd-gen model from 1995, the 'Evo III.' It was famously the car that delivered Mitsubishi ace Tommi Mäkinen his first world rally drivers' title. From the wide, open-mouth front bumper to the rear spoiler wing—everything on it was rally-spec. Truly an evolutionary leap from the 1st- and 2nd-gen Evos, it was faster and stronger than its predecessors. What's more, the Evo III was designed to have an anti-lag system from the production stage
+| Characters=
+| Concepts=Concepts/Licensed_Cars,Concepts/The_1990s
+| Franchises=
+| Games=Games/Auto_Modellista,Games/Battle_Gear_4,Games/Enthusia_Professional_Racing,Games/Forza_Horizon_5,Games/Forza_Motorsport_2023,Games/Gran_Turismo,Games/Gran_Turismo_2,Games/Gran_Turismo_2009,Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_6,Games/Gran_Turismo_7,Games/GT_Advance_2_Rally_Racing,Games/GT_Advance_3_Pro_Concept_Racing,Games/GT_Advance_Championship_Racing,Games/Initial_D_Arcade_Stage_6_AA,Games/Initial_D_Arcade_Stage_8_Infinity,Games/Initial_D_Arcade_Stage_Zero,Games/Initial_D_Special_Stage,Games/Initial_D_Street_Stage,Games/Initial_D_The_Arcade,Games/Kaido_Battle_2_Chain_Reaction,Games/Racing_Master,Games/Sega_GT_Online,Games/Sega_Rally_2,Games/Tokyo_Xtreme_Racer_Drift_2,Games/Top_Drives,Games/Wangan_Midnight_Maximum_Tune_2,Games/Wangan_Midnight_Maximum_Tune_3,Games/Wangan_Midnight_Maximum_Tune_4,Games/Wangan_Midnight_Maximum_Tune_6,Games/WRC_2_FIA_World_Rally_Championship,Games/WRC_3
+| Locations=Locations/Japan
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3646987-6127082655-824.j.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3646987-6127082655-824.j.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,square_tiny,scale_small,scale_super,square_medium,scale_medium,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium,scale_tiny","caption":null},"background":[]}' /&gt;
+This is the 3rd-gen model from 1995, the 'Evo III.' It was famously the car that delivered Mitsubishi ace Tommi Mäkinen his first world rally drivers' title. From the wide, open-mouth front bumper to the rear spoiler wing—everything on it was rally-spec. Truly an evolutionary leap from the 1st- and 2nd-gen Evos, it was faster and stronger than its predecessors. What's more, the Evo III was designed to have an anti-lag system from the production stage</text>
+      <sha1>rim5hjczc9x3agct338voki2uw9k95b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mitsubishi Lancer Evolution V</title>
+    <ns>0</ns>
+    <id>464186</id>
+    <revision>
+      <id>729210</id>
+      <parentid>464774</parentid>
+      <timestamp>2026-02-14T21:33:00Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729210</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2263" sha1="3kyy8xi1nss5uqeoh0tha0soacb9qr7" xml:space="preserve">{{Object
+| Name=Mitsubishi Lancer Evolution V
+| Guid=3055-7599
+| Deck=Sports sedan and rally car based on the Lancer that was manufactured by Japanese manufacturer Mitsubishi Motors from January 1998 - January 1999.
+| Characters=
+| Concepts=Concepts/Licensed_Cars,Concepts/Mitsubishi_Motors_Corporation,Concepts/The_1990s
+| Franchises=
+| Games=Games/Gran_Turismo_2,Games/Gran_Turismo_2009,Games/Gran_Turismo_3_A_Spec,Games/Gran_Turismo_4,Games/Gran_Turismo_4_Prologue,Games/Gran_Turismo_6,Games/Gran_Turismo_7,Games/GT_Advance_2_Rally_Racing,Games/Initial_D_Arcade_Stage_8_Infinity,Games/Initial_D_Street_Stage,Games/Initial_D_The_Arcade,Games/Kaido_Battle_2_Chain_Reaction,Games/Mobil_1_British_Rally_Championship,Games/Racing_Battle_C1_Grand_Prix,Games/Rally_Challenge_2000,Games/Sega_GT_Online,Games/Sega_Rally_2,Games/Tokyo_Xtreme_Racer_Drift_2,Games/Top_Drives,Games/Top_Gear_Rally_2,Games/TORCS,Games/Touge_Max_G,Games/Wangan_Midnight_Maximum_Tune_5,Games/Wangan_Midnight_Maximum_Tune_6,Games/WRC_10_FIA_World_Rally_Championship,Games/WRC_Generations
+| Locations=Locations/Japan
+| People=
+| Objects=Objects/Car,Objects/Mitsubishi_Lancer,Objects/Mitsubishi_Lancer_EV4,Objects/Mitsubishi_Lancer_Evolution,Objects/Mitsubishi_Lancer_Evolution_VI,Objects/Sedan,Objects/Sports_Car
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3646044-8836398682-1998-.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3646044-8836398682-1998-.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_mini,square_small,square_avatar,scale_small,scale_medium,square_tiny,scale_super,scale_avatar,scale_large,screen_kubrick,screen_medium,square_medium,scale_tiny","caption":null},"background":[]}' /&gt;
+
+===Variants===
+* '''RS''' – "rally sport" close-ratio 5-speed manual transmission, minimal interior, rally suspension, 1.5-way limited-slip differential, (auto air conditioner, Enkei wheels, Recaro bucket seats, Brembo brakes, power windows are available as an option).
+* '''GSR''' – 5-speed manual transmission, gauge pack, AYC (Active Yaw Control), anti-lock brakes, driver and passenger-side airbags, Recaro front bucket and rear seats, auto air conditioner, single DIN AM/FM/cassette stereo player, power windows, and Brembo brakes.</text>
+      <sha1>3kyy8xi1nss5uqeoh0tha0soacb9qr7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mitsubishi Lancer Evolution VI</title>
+    <ns>0</ns>
+    <id>464187</id>
+    <revision>
+      <id>729211</id>
+      <parentid>464775</parentid>
+      <timestamp>2026-02-14T21:33:02Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729211</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3371" sha1="hql3tgjoiauqlwxvahb7nislr48xk6w" xml:space="preserve">{{Object
+| Name=Mitsubishi Lancer Evolution VI
+| Guid=3055-7600
+| Deck=The Evolution VI's changes mainly focused on cooling and engine durability. It received a larger intercooler, larger oil cooler, and new pistons, along with a titanium-aluminide turbine wheel for the RS model, which was a first in a production car. Output was rated at 280 PS (276 hp; 206 kW) at 6,500 rpm and maximum torque of 373 N⋅m (275 lb⋅ft) at 3,000 rpm.
+| Characters=
+| Concepts=Concepts/Licensed_Cars,Concepts/Mitsubishi_Motors_Corporation,Concepts/Rally,Concepts/Unlockables
+| Franchises=
+| Games=Games/Auto_Modellista,Games/Battle_Gear,Games/ChoroQ,Games/Colin_McRae_Rally_2_0,Games/Colin_McRae_Rally_2013,Games/DiRT_4,Games/Dirt_5,Games/Dirt_Rally_2_0,Games/Driving_Emotion_Type_S,Games/EA_Sports_WRC,Games/Enthusia_Professional_Racing,Games/Forza_Horizon,Games/Forza_Horizon_2,Games/Forza_Horizon_3,Games/Forza_Horizon_4,Games/Forza_Horizon_5,Games/Forza_Motorsport,Games/Forza_Motorsport_2,Games/Forza_Motorsport_2023,Games/Forza_Motorsport_3,Games/Forza_Motorsport_4,Games/Forza_Motorsport_5,Games/Forza_Motorsport_6,Games/Forza_Motorsport_7,Games/Gran_Turismo_2,Games/Gran_Turismo_2009,Games/Gran_Turismo_3_A_Spec,Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_6,Games/Gran_Turismo_7,Games/Gran_Turismo_Concept_2002_Tokyo_Geneva,Games/Gravel,Games/GRID_2019,Games/GRID_Legends,Games/GT_Advance_2_Rally_Racing,Games/GT_Advance_3_Pro_Concept_Racing,Games/GT_Advance_Championship_Racing,Games/Initial_D_Arcade_Stage_8_Infinity,Games/Initial_D_The_Arcade,Games/Metropolis_Street_Racer,Games/Michelin_Rally_Masters_Race_of_Champions,Games/Need_for_Speed_No_Limits,Games/Need_for_Speed_V_Rally_2,Games/Pro_Rally,Games/Project_CARS,Games/Project_CARS_2,Games/Project_CARS_3,Games/Racing_Battle_C1_Grand_Prix,Games/RalliSport_Challenge,Games/RalliSport_Challenge_2,Games/Rally_Fusion_Race_of_Champions,Games/Real_Racing_3,Games/Rebel_Racing,Games/Road_Rage_3,Games/Sebastien_Loeb_Rally_Evo,Games/Sega_GT,Games/Sega_GT_Online,Games/Sega_Rally_2,Games/Shox,Games/The_Crew_2,Games/The_Crew_Motorfest,Games/TOCA_Race_Driver_3,Games/Toca_World_Touring_Cars,Games/Tokyo_Xtreme_Racer_Drift_2,Games/Top_Drives,Games/TORCS,Games/Wangan_Midnight,Games/Wangan_Midnight_Maximum_Tune_2,Games/Wangan_Midnight_Maximum_Tune_4,Games/Wangan_Midnight_Maximum_Tune_5,Games/Wangan_Midnight_Maximum_Tune_6,Games/WRC_World_Rally_Championship,Games/Zero4_Champ_Series_Drift_Champ
+| Locations=Locations/Japan
+| People=
+| Objects=Objects/Mitsubishi_Lancer,Objects/Mitsubishi_Lancer_Evolution_V
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3646484-9990382427-836.j.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3646484-9990382427-836.j.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"scale_small,scale_super,square_medium,square_avatar,square_small,scale_medium,square_mini,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium,scale_tiny","caption":null},"background":[]}' /&gt;
+The Evolution VI's changes mainly focused on cooling and engine durability. It received a larger intercooler, larger oil cooler, and new pistons, along with a titanium-aluminide turbine wheel for the RS model, which was a first in a production car. Output was rated at 280 PS (276 hp; 206 kW) at 6,500 rpm and maximum torque of 373 N⋅m (275 lb⋅ft) at 3,000 rpm.</text>
+      <sha1>hql3tgjoiauqlwxvahb7nislr48xk6w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mitsubishi Lancer Evolution VIII</title>
+    <ns>0</ns>
+    <id>464188</id>
+    <revision>
+      <id>729212</id>
+      <parentid>464776</parentid>
+      <timestamp>2026-02-14T21:33:02Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729212</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="610" sha1="k9c0jbciqwnt2lulxn06jd930rzldro" xml:space="preserve">{{Object
+| Name=Mitsubishi Lancer Evolution VIII
+| Guid=3055-7601
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/GT_Advance_2_Rally_Racing,Games/TOCA_Race_Driver_2,Games/Tokyo_Xtreme_Racer_Drift_2
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3819297-img_3592.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3819297-img_3592.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,scale_tiny,scale_medium,square_medium,square_small,square_tiny,square_mini,square_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>k9c0jbciqwnt2lulxn06jd930rzldro</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Molasses</title>
+    <ns>0</ns>
+    <id>463930</id>
+    <revision>
+      <id>729060</id>
+      <parentid>464518</parentid>
+      <timestamp>2026-02-14T21:30:59Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729060</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="916" sha1="0178w7dmobjaeph8z7nx5983anqccii" xml:space="preserve">{{Object
+| Name=Molasses
+| Guid=3055-7341
+| Deck=Molasses is a viscous form of sugar, and a key ingredient in brown sugar.
+| Characters=Characters/Stranger
+| Concepts=
+| Franchises=
+| Games=Games/Marvels_Spider_Man_2,Games/Oregon_Trail_II
+| Locations=Locations/North_America,Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Barbecue_Sauce,Objects/Sugar
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3514623-molasses-5941b263fac44b77aeb6b58d80084f98.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3514623-molasses-5941b263fac44b77aeb6b58d80084f98.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,scale_small,scale_super,scale_medium,square_medium,square_mini,square_tiny,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Molasses is a viscous form of sugar, and a key ingredient in brown sugar.</text>
+      <sha1>0178w7dmobjaeph8z7nx5983anqccii</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Monkey Bar</title>
+    <ns>0</ns>
+    <id>464337</id>
+    <revision>
+      <id>464925</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464925</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="317" sha1="9w9790swy2ffa70ktp75e7u5ye4mygn" xml:space="preserve">{{Object
+| Name=Monkey Bar
+| Guid=3055-7754
+| Characters=
+| Concepts=
+| Franchises=Franchises/Super_Granny
+| Games=Games/Super_Granny,Games/Super_Granny_5,Games/Super_Granny_6,Games/Super_Granny_Winter_Wonderland
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9w9790swy2ffa70ktp75e7u5ye4mygn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Monkey Shaker</title>
+    <ns>0</ns>
+    <id>463979</id>
+    <revision>
+      <id>729092</id>
+      <parentid>464567</parentid>
+      <timestamp>2026-02-14T21:31:23Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729092</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1138" sha1="hg10x8sv4ho0j2c4htcrxlfqhw15k8o" xml:space="preserve">{{Object
+| Name=Monkey Shaker
+| Guid=3055-7391
+| Deck=The Monkey Shaker (known as Saru-Gun-Shake in Japan) is the stun gun that Solid Snake uses to capture monkeys in Ape vs. Monkey.
+| Characters=Characters/Snake,Characters/Solid_Snake,Characters/Venus
+| Concepts=Concepts/Enemy_Capture,Concepts/Monkeys,Concepts/Pipo_Monkey,Concepts/Stun
+| Franchises=
+| Games=Games/Metal_Gear_Ac_d_2,Games/Metal_Gear_Solid_3_Snake_Eater,Games/Metal_Gear_Solid_3_Subsistence,Games/Metal_Gear_Solid_D_Snake_Eater
+| Locations=
+| People=
+| Objects=Objects/Gun,Objects/Laser_Sight,Objects/Pistol,Objects/Tranquilizer
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3541712-monkeyshaker.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3541712-monkeyshaker.png","path":"8\/82962\/","mime":"image\/png","sizes":"square_small,square_avatar,square_medium,scale_medium,scale_super,scale_small,square_tiny,scale_large,scale_avatar,screen_medium,screen_kubrick,square_mini","caption":null},"background":[]}' /&gt;
+The Monkey Shaker (known as Saru-Gun-Shake in Japan) is the stun gun that Solid Snake uses to capture monkeys in Ape vs. Monkey.</text>
+      <sha1>hg10x8sv4ho0j2c4htcrxlfqhw15k8o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mount Fuji</title>
+    <ns>0</ns>
+    <id>464237</id>
+    <revision>
+      <id>729245</id>
+      <parentid>464825</parentid>
+      <timestamp>2026-02-14T21:33:31Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729245</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1037" sha1="bl7zaeu5ay5ulgq09fobbkw5a5o07xm" xml:space="preserve">{{Object
+| Name=Mount Fuji
+| Guid=3055-7652
+| Deck=When we only see that mountain in the game as an object, but have never been on it or at its foot.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Need_for_Speed_Porsche_Unleashed,Games/Ninja_Gaiden_1988
+| Locations=Locations/Japan,Locations/Mount_Fuji,Locations/Mountains
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/2023215-mountfuji.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2023215-mountfuji.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_avatar,scale_small,square_small,square_tiny,square_medium,scale_medium,screen_medium,scale_large,scale_avatar,square_mini,scale_super,screen_kubrick,scale_tiny","caption":"Mount Fuji"},"background":[]}' /&gt;
+For example, it is shown far away in the background of the level, it is there on a picture standing in the room or a poster on the wall, it is there as a miniature figure or a model for a child's constructor, we fly over it in a helicopter in a video clip, etc.</text>
+      <sha1>bl7zaeu5ay5ulgq09fobbkw5a5o07xm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mouthwash</title>
+    <ns>0</ns>
+    <id>464242</id>
+    <revision>
+      <id>464830</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464830</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="388" sha1="iuky5m6wimeeb343ug56p711ben7n2e" xml:space="preserve">{{Object
+| Name=Mouthwash
+| Guid=3055-7657
+| Deck=A liquid meant to be taken orally (but not ingested) in an effort to promote dental hygiene.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+A liquid meant to be taken orally (but not ingested) in an effort to promote dental hygiene.</text>
+      <sha1>iuky5m6wimeeb343ug56p711ben7n2e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mr Invincibility</title>
+    <ns>0</ns>
+    <id>464293</id>
+    <revision>
+      <id>729273</id>
+      <parentid>464881</parentid>
+      <timestamp>2026-02-14T21:33:53Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729273</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1145" sha1="90ycu8zm8xvjtw3pww4tlp5wmfo47tc" xml:space="preserve">{{Object
+| Name=Mr. Invincibility
+| Guid=3055-7710
+| Deck=A power-up in the first TMNT NES/computer game that makes the player's Turtle curl up into an invincible ball with his weapon out and spin.
+| Characters=Characters/Donatello,Characters/Leonardo,Characters/Michelangelo,Characters/Raphael
+| Concepts=Concepts/Power_Up,Concepts/Spin_Attack,Concepts/Temporary_Invincibility
+| Franchises=
+| Games=Games/Teenage_Mutant_Ninja_Turtles,Games/Teenage_Mutant_Ninja_Turtles_The_Cowabunga_Collection
+| Locations=Locations/New_York_City,Locations/Sewer
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3732731-9720426556-latest.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3732731-9720426556-latest.png","path":"16\/164924\/","mime":"image\/png","sizes":"square_medium,square_small,scale_small,scale_medium,scale_super,screen_medium,square_mini,square_tiny,scale_tiny,scale_large,scale_avatar,screen_kubrick,square_avatar","caption":null},"background":[]}' /&gt;
+A power-up in the first TMNT NES/computer game that makes the player's Turtle curl up into an invincible ball with his weapon out and spin.</text>
+      <sha1>90ycu8zm8xvjtw3pww4tlp5wmfo47tc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mr Socko</title>
+    <ns>0</ns>
+    <id>463951</id>
+    <revision>
+      <id>464539</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464539</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="254" sha1="fqiexbb4w64ayx2h1tly6ymlcbp53he" xml:space="preserve">{{Object
+| Name=Mr. Socko
+| Guid=3055-7362
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/WWE_Day_of_Reckoning,Games/WWE_SmackDown_vs_RAW_2006
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>fqiexbb4w64ayx2h1tly6ymlcbp53he</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Mung Bean Sprouts</title>
+    <ns>0</ns>
+    <id>463918</id>
+    <revision>
+      <id>729048</id>
+      <parentid>464506</parentid>
+      <timestamp>2026-02-14T21:30:50Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729048</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="790" sha1="4at64ok56n13h2diu9s5az77ljugqpf" xml:space="preserve">{{Object
+| Name=Mung Bean Sprouts
+| Guid=3055-7329
+| Deck=Mung Bean Sprouts are a popular side for Asian cuisines.
+| Characters=Characters/Mung_Daal,Characters/Takayuki_Yagami
+| Concepts=
+| Franchises=
+| Games=Games/Lost_Judgment
+| Locations=Locations/Asia,Locations/Japan
+| People=
+| Objects=Objects/Yakisoba
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3511756-mung_bean_sprouts.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3511756-mung_bean_sprouts.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_small,square_mini,square_medium,scale_super,square_avatar,scale_small,scale_medium,square_tiny,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+Mung Bean Sprouts are a popular side for Asian cuisines.</text>
+      <sha1>4at64ok56n13h2diu9s5az77ljugqpf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/NES Zapper</title>
+    <ns>0</ns>
+    <id>464047</id>
+    <revision>
+      <id>729143</id>
+      <parentid>464635</parentid>
+      <timestamp>2026-02-14T21:32:05Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729143</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="765" sha1="d6jptevne1sbilzx1wix700nuvcpdfn" xml:space="preserve">{{Object
+| Name=NES Zapper
+| Guid=3055-7459
+| Deck=In-game appearances of the infamous Light Gun accessory.
+| Characters=Characters/Duck_Hunt_Dog
+| Concepts=Concepts/Light_Gun
+| Franchises=
+| Games=Games/Combate_Monero,Games/Super_Smash_Bros_Ultimate
+| Locations=
+| People=
+| Objects=Objects/Gun
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3619710-nes_zapper.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3619710-nes_zapper.png","path":"16\/164924\/","mime":"image\/png","sizes":"square_avatar,square_small,scale_small,square_tiny,square_medium,scale_super,scale_medium,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+In-game appearances of the infamous Light Gun accessory.</text>
+      <sha1>d6jptevne1sbilzx1wix700nuvcpdfn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Nintendo Switch 2</title>
+    <ns>0</ns>
+    <id>464355</id>
+    <revision>
+      <id>464943</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464943</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="432" sha1="6md7d5wrv9k3um2elqg6inoduj07a2b" xml:space="preserve">{{Object
+| Name=Nintendo Switch 2
+| Guid=3055-7772
+| Deck=The Nintendo Switch 2 as it appears as an in-game object.
+| Characters=
+| Concepts=Concepts/Video_Game_Characters_That_Play_Video_Games
+| Franchises=
+| Games=Games/Animal_Crossing_New_Horizons
+| Locations=
+| People=
+| Objects=Objects/Game_Console
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The Nintendo Switch 2 as it appears as an in-game object.</text>
+      <sha1>6md7d5wrv9k3um2elqg6inoduj07a2b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Nissan 180SX Type X</title>
+    <ns>0</ns>
+    <id>464058</id>
+    <revision>
+      <id>729154</id>
+      <parentid>464646</parentid>
+      <timestamp>2026-02-14T21:32:14Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729154</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="649" sha1="7pub9x09lunyagyyo7jj19kwu973o44" xml:space="preserve">{{Object
+| Name=Nissan 180SX Type X
+| Guid=3055-7470
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Nissan_presents_Over_Drivin_GT_R,Games/Road_And_Track_presents_The_Need_for_Speed
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3646184-img_2628.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3646184-img_2628.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"square_tiny,square_small,square_medium,scale_super,scale_medium,scale_small,square_mini,scale_tiny,square_avatar,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;</text>
+      <sha1>7pub9x09lunyagyyo7jj19kwu973o44</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Nissan Almera Kitcar</title>
+    <ns>0</ns>
+    <id>464074</id>
+    <revision>
+      <id>464662</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464662</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="262" sha1="l7ff11t8uf57xofp9xip4c61jx2bbah" xml:space="preserve">{{Object
+| Name=Nissan Almera Kitcar
+| Guid=3055-7486
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Need_for_Speed_V_Rally,Games/Rally_Challenge_2000
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>l7ff11t8uf57xofp9xip4c61jx2bbah</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Nissan Fairlady 240ZG</title>
+    <ns>0</ns>
+    <id>464064</id>
+    <revision>
+      <id>729160</id>
+      <parentid>464652</parentid>
+      <timestamp>2026-02-14T21:32:20Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729160</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="672" sha1="p5kcn77xs7o67yfxwvurizpvxzcgv6u" xml:space="preserve">{{Object
+| Name=Nissan Fairlady 240ZG
+| Guid=3055-7476
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Nissan_presents_Over_Drivin_GT_R,Games/Project_CARS_3,Games/Road_And_Track_presents_The_Need_for_Speed
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3646185-img_2630.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3646185-img_2630.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"scale_small,scale_super,square_tiny,square_medium,square_mini,scale_medium,square_small,scale_tiny,square_avatar,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;</text>
+      <sha1>p5kcn77xs7o67yfxwvurizpvxzcgv6u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Nissan Fairlady 300ZX</title>
+    <ns>0</ns>
+    <id>464065</id>
+    <revision>
+      <id>729161</id>
+      <parentid>464653</parentid>
+      <timestamp>2026-02-14T21:32:21Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729161</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="651" sha1="s7xolpajjd83qrrje03x3segaco8b30" xml:space="preserve">{{Object
+| Name=Nissan Fairlady 300ZX
+| Guid=3055-7477
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Nissan_presents_Over_Drivin_GT_R,Games/Road_And_Track_presents_The_Need_for_Speed
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3646201-img_2633.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3646201-img_2633.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"scale_medium,square_tiny,square_medium,scale_super,scale_tiny,square_small,square_mini,scale_small,square_avatar,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;</text>
+      <sha1>s7xolpajjd83qrrje03x3segaco8b30</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Nissan Fairlady Z</title>
+    <ns>0</ns>
+    <id>464032</id>
+    <revision>
+      <id>729134</id>
+      <parentid>464620</parentid>
+      <timestamp>2026-02-14T21:31:58Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729134</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1836" sha1="t40ul06rcdg1m84azt5o6tjrsylawul" xml:space="preserve">{{Object
+| Name=Nissan Fairlady Z
+| Guid=3055-7444
+| Deck=Nissan Fairlady Z is a grand tourer model that was made with a partnership by Yamaha.
+| Characters=Characters/Akio_Asakura,Characters/Namiko,Characters/Rachel_Teller
+| Concepts=Concepts/Nissan_Motor_Company
+| Franchises=
+| Games=Games/Drift_Spirits,Games/Forza_Horizon_5,Games/Forza_Motorsport,Games/Forza_Motorsport_2,Games/Forza_Motorsport_2023,Games/Forza_Motorsport_3,Games/Gran_Turismo,Games/Gran_Turismo_2,Games/Gran_Turismo_3_A_Spec,Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_6,Games/Gran_Turismo_7,Games/Gran_Turismo_Concept_2001_Tokyo,Games/Gran_Turismo_Concept_2002_Tokyo_Geneva,Games/Gran_Turismo_Concept_2002_Tokyo_Seoul,Games/Gran_Turismo_Sport,Games/GT_Advance_2_Rally_Racing,Games/Juiced,Games/Juiced_2_Hot_Import_Nights,Games/Juiced_Eliminator,Games/Midnight_Club_3_DUB_Edition,Games/Midnight_Club_Los_Angeles,Games/Midnight_Club_Los_Angeles_Remix,Games/Need_for_Speed,Games/Need_for_Speed_Hot_Pursuit,Games/Need_for_Speed_No_Limits,Games/Need_for_Speed_Payback,Games/Need_for_Speed_ProStreet,Games/Need_for_Speed_Unbound,Games/Need_for_Speed_Underground,Games/Road_And_Track_presents_The_Need_for_Speed,Games/Tokyo_Xtreme_Racer_Drift_2
+| Locations=Locations/Japan
+| People=
+| Objects=Objects/Car,Objects/Devil_Z,Objects/Sports_Car
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3605410-img_2303.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3605410-img_2303.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"square_medium,scale_medium,scale_small,scale_super,square_small,square_avatar,square_mini,scale_tiny,square_tiny,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+Nissan Fairlady Z is a grand tourer model that was made with a partnership by Yamaha.</text>
+      <sha1>t40ul06rcdg1m84azt5o6tjrsylawul</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Nissan Micra</title>
+    <ns>0</ns>
+    <id>464091</id>
+    <revision>
+      <id>464679</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464679</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="247" sha1="sey567g2h1yv4kwzdb6tg39t4s7khth" xml:space="preserve">{{Object
+| Name=Nissan Micra
+| Guid=3055-7503
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Need_for_Speed_V_Rally_2,Games/The_Getaway
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>sey567g2h1yv4kwzdb6tg39t4s7khth</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Nissan Silvia Ks</title>
+    <ns>0</ns>
+    <id>464059</id>
+    <revision>
+      <id>729155</id>
+      <parentid>464647</parentid>
+      <timestamp>2026-02-14T21:32:15Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729155</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1633" sha1="rzbsx5rnz6ocqkogv2sy0r8wafaju2e" xml:space="preserve">{{Object
+| Name=Nissan Silvia K's
+| Guid=3055-7471
+| Deck=The Nissan Silvia (Japanese: 日産・シルビア, Hepburn: Nissan Shirubia) is the series of small sports cars produced by Nissan. Versions of the Silvia have been marketed as the 200SX or 240SX for export, with some export versions being sold under the Datsun brand.
+| Characters=
+| Concepts=Concepts/Licensed_Cars,Concepts/Nissan_Motor_Company
+| Franchises=
+| Games=Games/Forza_Horizon_2,Games/Forza_Horizon_3,Games/Forza_Horizon_4,Games/Forza_Horizon_5,Games/Forza_Motorsport_2,Games/Forza_Motorsport_2023,Games/Forza_Motorsport_3,Games/Forza_Motorsport_7,Games/Gran_Turismo_2,Games/Gran_Turismo_3_A_Spec,Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_5_Prologue_Spec_III,Games/Gran_Turismo_6,Games/Need_for_Speed_Unbound,Games/Nissan_presents_Over_Drivin_GT_R,Games/Road_And_Track_presents_The_Need_for_Speed
+| Locations=Locations/Japan
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3653711-6603827778-1200.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3653711-6603827778-1200.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_small,square_medium,square_avatar,scale_super,scale_medium,square_mini,scale_small,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Nissan Silvia (Japanese: 日産・シルビア, Hepburn: Nissan Shirubia) is the series of small sports cars produced by Nissan. Versions of the Silvia have been marketed as the 200SX or 240SX for export, with some export versions being sold under the Datsun brand.</text>
+      <sha1>rzbsx5rnz6ocqkogv2sy0r8wafaju2e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Nissan Skyline</title>
+    <ns>0</ns>
+    <id>463968</id>
+    <revision>
+      <id>729084</id>
+      <parentid>464556</parentid>
+      <timestamp>2026-02-14T21:31:16Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729084</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1463" sha1="gc41p57iv2cysai4rvf8hvf44l3shp7" xml:space="preserve">{{Object
+| Name=Nissan Skyline
+| Guid=3055-7380
+| Deck=Nissan Skyline is a mid-sized automobile, that was produced by Nissan and Prince, available for a sedan, coupe, SUV or convertible model variants.
+| Characters=
+| Concepts=Concepts/Licensed_Cars,Concepts/Nissan_Motor_Company
+| Franchises=
+| Games=Games/Drift_Spirits,Games/Gran_Turismo,Games/Gran_Turismo_2,Games/Gran_Turismo_3_A_Spec,Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_5_Prologue,Games/Gran_Turismo_6,Games/Gran_Turismo_Concept_2001_Tokyo,Games/Gran_Turismo_Concept_2002_Tokyo_Geneva,Games/Gran_Turismo_Concept_2002_Tokyo_Seoul,Games/Nissan_presents_Over_Drivin_GT_R,Games/Road_And_Track_presents_The_Need_for_Speed
+| Locations=Locations/Japan
+| People=
+| Objects=Objects/Car,Objects/Nissan_Skyline_BNR34_R34,Objects/Sedan,Objects/Sports_Car,Objects/Sports_Utility_Vehicle
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3600756-img_2091.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3600756-img_2091.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"scale_super,square_medium,square_avatar,square_small,square_mini,square_tiny,scale_medium,scale_small,scale_tiny,screen_medium,screen_kubrick,scale_avatar,scale_large","caption":"Nissan Skyline Sedan 250GT Four (V35)"},"background":[]}' /&gt;
+Nissan Skyline is a mid-sized automobile, that was produced by Nissan and Prince, available for a sedan, coupe, SUV or convertible model variants.</text>
+      <sha1>gc41p57iv2cysai4rvf8hvf44l3shp7</sha1>
+    </revision>
+  </page>
+</mediawiki>

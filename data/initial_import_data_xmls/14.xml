@@ -1,0 +1,1809 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Characters/The World Machine</title>
+    <ns>0</ns>
+    <id>57726</id>
+    <revision>
+      <id>57842</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57842</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="pj0qr2uo3e2uoiy4jan54c69niy2gdw" xml:space="preserve">{{Character
+| Name=The World Machine
+| Guid=3005-58508
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/OneShot
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>pj0qr2uo3e2uoiy4jan54c69niy2gdw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Thula</title>
+    <ns>0</ns>
+    <id>57838</id>
+    <revision>
+      <id>57955</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57955</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="223" sha1="17xsqygszntdsvrmnrwz9y8mrj8szw0" xml:space="preserve">{{Character
+| Name=Thula
+| Guid=3005-58621
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Invincible_Vs
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>17xsqygszntdsvrmnrwz9y8mrj8szw0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Tiki Man</title>
+    <ns>0</ns>
+    <id>57825</id>
+    <revision>
+      <id>57941</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57941</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="864" sha1="pl1o8bnranhht7x87ydfchijbt8g3ol" xml:space="preserve">{{Character
+| Name=Tiki Man
+| Guid=3005-58607
+| Gender=Male
+| Concepts=Concepts/Artificial_Intelligence,Concepts/Cameo,Concepts/Climbing,Concepts/Dust,Concepts/Idle_Animations,Concepts/No_Fall_Damage,Concepts/No_Jumping,Concepts/Player_Taunting,Concepts/Respawn,Concepts/Tikis,Concepts/Tour_Guide,Concepts/Voice_Acting,Concepts/Wait_Staff
+| Enemies=Characters/Killer_Tomato,Characters/Super_Granny
+| Franchises=Franchises/Super_Granny
+| Friends=Characters/Dog_23103,Characters/Dog_58603,Characters/Gorilla,Characters/Robo_Kitty,Characters/Twinkletoes
+| Games=Games/Granny_in_Paradise,Games/Super_Granny_4,Games/Super_Granny_5
+| Locations=Locations/Jungle,Locations/Resort,Locations/Space
+| People=
+| Objects=Objects/Grass,Objects/Leaf,Objects/Mask,Objects/Skirt,Objects/Spear,Objects/Tiki_Mask
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>pl1o8bnranhht7x87ydfchijbt8g3ol</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Tina Green</title>
+    <ns>0</ns>
+    <id>57942</id>
+    <revision>
+      <id>997249</id>
+      <parentid>740793</parentid>
+      <timestamp>2026-07-19T04:03:30Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>997249</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="985" sha1="bjuq9dy9yxvygsfpz69fu0ql70jz09h" xml:space="preserve">{{Character
+| Name=Tina Green
+| Guid=3005-58725
+| Deck=Dr. Green was saved by Spider-Man during an attack with the Free Radicals. Later, she helped Spidey to stop the chaos across New York City due to the Lizard's actions.
+| Concepts=Concepts/Scientist_5852
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/The_Amazing_Spider_Man_2013
+| Locations=Locations/Oscorp
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3818057-5417195030-latest.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3818057-5417195030-latest.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,square_small,square_medium,scale_medium,square_tiny,square_avatar,square_mini,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+Dr. Green was saved by Spider-Man during an attack with the Free Radicals. Later, she helped Spidey to stop the chaos across New York City due to the Lizard's actions.</text>
+      <sha1>bjuq9dy9yxvygsfpz69fu0ql70jz09h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Titus 58581</title>
+    <ns>0</ns>
+    <id>57799</id>
+    <revision>
+      <id>57915</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57915</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="227" sha1="357nd7qc7dhqxjgoo3nzy1x6vinxz2l" xml:space="preserve">{{Character
+| Name=Titus
+| Guid=3005-58581
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/River_City_Ransom
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>357nd7qc7dhqxjgoo3nzy1x6vinxz2l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Todd Thornley</title>
+    <ns>0</ns>
+    <id>57797</id>
+    <revision>
+      <id>57913</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57913</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="390" sha1="e49ncb0ecumw62tqcaxdsgqqagq18t0" xml:space="preserve">{{Character
+| Name=Todd Thornley
+| Guid=3005-58579
+| Concepts=
+| Enemies=Characters/Crusher_58593,Characters/Mr_Thornley,Characters/Skip_Hildegard
+| Franchises=
+| Friends=Characters/Mr_Lee,Characters/Mr_Thornley,Characters/Skip_Hildegard
+| Games=Games/Crash_N_the_Boys_Street_Challenge
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>e49ncb0ecumw62tqcaxdsgqqagq18t0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Tom Tom 43065</title>
+    <ns>0</ns>
+    <id>464596</id>
+    <revision>
+      <id>740644</id>
+      <timestamp>2026-03-04T19:51:39Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>740644</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="243" sha1="bzuyfao73jtoz9dm42lu7ie8rcuexxh" xml:space="preserve">{{Character
+| Name=Tom Tom
+| Guid=3005-43065
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Strawberry_Shortcake_Berry_Rush
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>bzuyfao73jtoz9dm42lu7ie8rcuexxh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Tomaas Azzameen</title>
+    <ns>0</ns>
+    <id>57731</id>
+    <revision>
+      <id>721964</id>
+      <parentid>721961</parentid>
+      <timestamp>2026-02-14T19:40:35Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>721964</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="734" sha1="m64chl9pqd308xewdnbosgocl7cc920" xml:space="preserve">{{Character
+| Name=Tomaas Azzameen
+| Guid=3005-58513
+| Deck=Head of the Azzameen family and of Twin Suns Transport Services
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=Characters/Ace_Azzameen
+| Games=Games/Star_Wars_X_Wing_Alliance
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3796663-image.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3796663-image.png","path":"45\/456753\/","mime":"image\/png","sizes":"square_small,scale_super,square_medium,scale_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+Head of the Azzameen family and of Twin Suns Transport Services</text>
+      <sha1>m64chl9pqd308xewdnbosgocl7cc920</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Torkil Mux</title>
+    <ns>0</ns>
+    <id>57739</id>
+    <revision>
+      <id>721978</id>
+      <parentid>721977</parentid>
+      <timestamp>2026-02-14T19:40:39Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>721978</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="665" sha1="f0o5z1c7me5h1wkdcxjvdl4oa5k25zs" xml:space="preserve">{{Character
+| Name=Torkil Mux
+| Guid=3005-58521
+| Deck=An Arcona pilot and miner in the employ of Jabba the Hutt.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3797403-image.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3797403-image.png","path":"45\/456753\/","mime":"image\/png","sizes":"square_small,scale_super,square_medium,scale_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+An Arcona pilot and miner in the employ of Jabba the Hutt.</text>
+      <sha1>f0o5z1c7me5h1wkdcxjvdl4oa5k25zs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Toru 23829</title>
+    <ns>0</ns>
+    <id>464566</id>
+    <revision>
+      <id>997301</id>
+      <parentid>740305</parentid>
+      <timestamp>2026-07-19T04:06:32Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>997301</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="959" sha1="3cqed0i34khhkipgqfc019dbg2esyuu" xml:space="preserve">{{Character
+| Name=Toru
+| Guid=3005-23829
+| Deck=Toru is one of the early encountered characters in Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus.
+| Gender=Male
+| Concepts=
+| Enemies=
+| Franchises=Franchises/Yu_Gi_Oh
+| Friends=
+| Games=Games/Yu_Gi_Oh_5Ds_World_Championship_2011_Over_the_Nexus
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/10/103881/2272770-toru.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2272770-toru.jpg","path":"10\/103881\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,scale_small,scale_medium,screen_medium,scale_large,scale_avatar,square_mini,square_tiny,square_medium,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+Toru is one of the characters that the player encounters close to the beginning of the story mode in Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus. Later on in the game Toru teams up with the player.</text>
+      <sha1>3cqed0i34khhkipgqfc019dbg2esyuu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Toxic</title>
+    <ns>0</ns>
+    <id>58065</id>
+    <revision>
+      <id>722159</id>
+      <parentid>58182</parentid>
+      <timestamp>2026-02-14T19:41:40Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722159</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1226" sha1="f5mn07r0y52nd6mo67dcm83lhs3ah7f" xml:space="preserve">{{Character
+| Name=Toxic
+| Guid=3005-58848
+| Deck=A mean-spirited and obnoxious supervillain with the power to turn his body acidic, as well as having flight and enhanced endurance and strength. Unfortunately, this transformation also leaves him nude.
+| Concepts=Concepts/Flight,Concepts/Henchman,Concepts/Lawbreaking,Concepts/Nudity,Concepts/Poison,Concepts/Sadism,Concepts/Super_Strength,Concepts/Supervillain
+| Enemies=Characters/Invisigal,Characters/Robert_Robertson_III
+| Franchises=
+| Friends=Characters/Armstrong,Characters/Shroud_58847
+| Games=Games/Dispatch
+| Locations=Locations/California
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3828164-toxic.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3828164-toxic.jpg","path":"77\/776653\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_tiny,scale_medium,square_medium,scale_small,square_mini,square_avatar,screen_medium,scale_large,scale_avatar,screen_kubrick","caption":null},"background":[]}' /&gt;
+A mean-spirited and obnoxious supervillain with the power to turn his body acidic, as well as having flight and enhanced endurance and strength. Unfortunately, this transformation also leaves him nude.</text>
+      <sha1>f5mn07r0y52nd6mo67dcm83lhs3ah7f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Tressa</title>
+    <ns>0</ns>
+    <id>57917</id>
+    <revision>
+      <id>58034</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58034</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="231" sha1="sf060b4ni7sf27odbqqxia1g5xrxvev" xml:space="preserve">{{Character
+| Name=Tressa
+| Guid=3005-58700
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Chaos_Zero_Nightmare
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>sf060b4ni7sf27odbqqxia1g5xrxvev</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Troy Noise Jackson</title>
+    <ns>0</ns>
+    <id>57867</id>
+    <revision>
+      <id>57984</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57984</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="qpqffa4a9u11jyktqqo5yieq38jpxg1" xml:space="preserve">{{Character
+| Name=Troy "Noise" Jackson
+| Guid=3005-58650
+| Concepts=
+| Enemies=Characters/Arthur_Van_Smythe,Characters/Skip_Hildegard
+| Franchises=
+| Friends=
+| Games=Games/Crash_N_the_Boys_Street_Challenge
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>qpqffa4a9u11jyktqqo5yieq38jpxg1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Truffle</title>
+    <ns>0</ns>
+    <id>57949</id>
+    <revision>
+      <id>58066</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58066</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" sha1="ql59cujv9wp0sp01pnp8zyarexljowx" xml:space="preserve">{{Character
+| Name=Truffle
+| Guid=3005-58732
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Duet_Night_Abyss
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ql59cujv9wp0sp01pnp8zyarexljowx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Tumble 58766</title>
+    <ns>0</ns>
+    <id>57983</id>
+    <revision>
+      <id>58100</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58100</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" sha1="9wj6efz4t8whi00kt5jt3df03ygwdnj" xml:space="preserve">{{Character
+| Name=Tumble
+| Guid=3005-58766
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Mario_Party_The_Top_100
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9wj6efz4t8whi00kt5jt3df03ygwdnj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Twinkletoes</title>
+    <ns>0</ns>
+    <id>57824</id>
+    <revision>
+      <id>57940</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57940</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="922" sha1="eowhtdz7cxjvx0q4bq7ow8gmd4a187w" xml:space="preserve">{{Character
+| Name=Twinkletoes
+| Guid=3005-58606
+| Gender=Male
+| Concepts=Concepts/Evil_Laugh,Concepts/Mad_Scientist
+| Enemies=Characters/Kamila_58629,Characters/Margaret_58630,Characters/Mr_Fang,Characters/Super_Granny
+| Franchises=Franchises/Super_Granny
+| Friends=Characters/Mr_Fang,Characters/Super_Granny,Characters/Tiki_Man
+| Games=Games/Granny_in_Paradise,Games/Super_Granny_3,Games/Super_Granny_4,Games/Super_Granny_5,Games/Super_Granny_6,Games/Super_Granny_Winter_Wonderland
+| Locations=Locations/Basement,Locations/Desert,Locations/Ice_Cave,Locations/Volcano
+| People=People/Mark_Lund
+| Objects=Objects/Bell,Objects/Bow_1349,Objects/Collar,Objects/Flowers,Objects/Helmet,Objects/Lab_Coat,Objects/Monocle,Objects/Parachute,Objects/Potion,Objects/Shirt,Objects/Shorts,Objects/Shrink_ray,Objects/Ski_Goggles,Objects/Suit_and_Tie,Objects/Sweater
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>eowhtdz7cxjvx0q4bq7ow8gmd4a187w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Tyler Dinky Doo</title>
+    <ns>0</ns>
+    <id>625003</id>
+    <revision>
+      <id>974749</id>
+      <timestamp>2026-06-08T02:15:49Z</timestamp>
+      <contributor>
+        <username>Nickelodeon</username>
+        <id>1239</id>
+      </contributor>
+      <comment>Created page with "{{Character |Guid=e9b8b1f3-f312-498c-9ad7-e0cdbb17fed9 |Name=Tyler Dinky Doo |Image=Tyler Dinky Doo.png |Deck=Pinky's Brother from Pinky Dinky Doo. |Gender=Male |Friends=Characters/Pinky Dinky Doo |Games=Games/Pinky Dinky Doo Eat It or Wear It }} Pinky's Brother from Pinky Dinky Doo."</comment>
+      <origin>974749</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="284" sha1="4ldka8osz7a3j37elh31z525haqm77f" xml:space="preserve">{{Character
+|Guid=e9b8b1f3-f312-498c-9ad7-e0cdbb17fed9
+|Name=Tyler Dinky Doo
+|Image=Tyler Dinky Doo.png
+|Deck=Pinky's Brother from Pinky Dinky Doo.
+|Gender=Male
+|Friends=Characters/Pinky Dinky Doo
+|Games=Games/Pinky Dinky Doo Eat It or Wear It
+}}
+Pinky's Brother from Pinky Dinky Doo.</text>
+      <sha1>4ldka8osz7a3j37elh31z525haqm77f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Tyran</title>
+    <ns>0</ns>
+    <id>57885</id>
+    <revision>
+      <id>58002</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58002</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="224" sha1="j85y255ek50fm63m6r765kk5igbq4ke" xml:space="preserve">{{Character
+| Name=Tyran
+| Guid=3005-58668
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Ninja_Gaiden_4
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>j85y255ek50fm63m6r765kk5igbq4ke</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Umi</title>
+    <ns>0</ns>
+    <id>57883</id>
+    <revision>
+      <id>58000</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58000</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="222" sha1="5b0p0f7285nnx9dxlrp51qmo0orh3a5" xml:space="preserve">{{Character
+| Name=Umi
+| Guid=3005-58666
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Ninja_Gaiden_4
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5b0p0f7285nnx9dxlrp51qmo0orh3a5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Uzi Doorman</title>
+    <ns>0</ns>
+    <id>58012</id>
+    <revision>
+      <id>722142</id>
+      <parentid>722140</parentid>
+      <timestamp>2026-02-14T19:41:34Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722142</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="810" sha1="1u0h26mjqmsrqi00o5aal7ic2znjnpn" xml:space="preserve">{{Character
+| Name=Uzi Doorman
+| Guid=3005-58795
+| Deck=A worker drone, and the main character of the animated series "Murder Drones".
+| Gender=Non-Binary
+| Concepts=Concepts/Games_Based_on_Television_Shows,Concepts/Robot
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Glitch_Karts
+| Locations=
+| People=
+| Objects=Objects/Railgun
+| Image=https://www.giantbomb.com/a/uploads/scale_super/38/386689/3824672-uzi.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3824672-uzi.png","path":"38\/386689\/","mime":"image\/png","sizes":"scale_super,scale_small,scale_medium,square_medium,square_avatar,square_mini,square_small,square_tiny,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A worker drone, and the main character of the animated series "Murder Drones".</text>
+      <sha1>1u0h26mjqmsrqi00o5aal7ic2znjnpn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Vecna 58857</title>
+    <ns>0</ns>
+    <id>58074</id>
+    <revision>
+      <id>58191</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58191</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="278" sha1="hgg3ys2e0eteyl02bopj1neik2aixd5" xml:space="preserve">{{Character
+| Name=Vecna
+| Guid=3005-58857
+| RealName=Henry Creel
+| Gender=Male
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Dead_by_Daylight,Games/Fortnite
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>hgg3ys2e0eteyl02bopj1neik2aixd5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Venus Horror Trap</title>
+    <ns>0</ns>
+    <id>57857</id>
+    <revision>
+      <id>57974</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57974</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="384" sha1="4b3aa48jm8vlz2v91n5upwvmvpux9kp" xml:space="preserve">{{Character
+| Name=Venus Horror Trap
+| Guid=3005-58640
+| Concepts=Concepts/Respawn,Concepts/Sentient_Plant,Concepts/Trap,Concepts/Violent_Plants
+| Enemies=Characters/Super_Granny
+| Franchises=
+| Friends=
+| Games=Games/Super_Granny_5
+| Locations=Locations/Basement,Locations/Garden
+| People=
+| Objects=Objects/Leaf
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>4b3aa48jm8vlz2v91n5upwvmvpux9kp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Veronica 58693</title>
+    <ns>0</ns>
+    <id>57910</id>
+    <revision>
+      <id>58027</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58027</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="233" sha1="tlsrjgscctv345pyeywjschoq162z2h" xml:space="preserve">{{Character
+| Name=Veronica
+| Guid=3005-58693
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Chaos_Zero_Nightmare
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>tlsrjgscctv345pyeywjschoq162z2h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Vessery</title>
+    <ns>0</ns>
+    <id>57735</id>
+    <revision>
+      <id>721971</id>
+      <parentid>721968</parentid>
+      <timestamp>2026-02-14T19:40:38Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>721971</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="638" sha1="d65tgnvm2yi3x9r5osmxgiwd2hw2zoc" xml:space="preserve">{{Character
+| Name=Vessery
+| Guid=3005-58517
+| Deck=An Imperial TIE pilot who flew a TIE Defender.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3797131-image.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3797131-image.png","path":"45\/456753\/","mime":"image\/png","sizes":"square_small,scale_super,square_tiny,square_medium,scale_medium,scale_small,square_mini,square_avatar,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+An Imperial TIE pilot who flew a TIE Defender.</text>
+      <sha1>d65tgnvm2yi3x9r5osmxgiwd2hw2zoc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Vex 58526</title>
+    <ns>0</ns>
+    <id>57744</id>
+    <revision>
+      <id>57860</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57860</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="221" sha1="qnce1jb0oaeb7lxc3thugotteud6wny" xml:space="preserve">{{Character
+| Name=Vex
+| Guid=3005-58526
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Borderlands_4
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>qnce1jb0oaeb7lxc3thugotteud6wny</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Victor Oakville</title>
+    <ns>0</ns>
+    <id>57976</id>
+    <revision>
+      <id>58093</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58093</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="258" sha1="njsfrl29jzwzky9u50rgf1ettrr5pwl" xml:space="preserve">{{Character
+| Name=Victor Oakville
+| Guid=3005-58759
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Star_Ocean_Integrity_and_Faithlessness
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>njsfrl29jzwzky9u50rgf1ettrr5pwl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Viktor Frank</title>
+    <ns>0</ns>
+    <id>57902</id>
+    <revision>
+      <id>58019</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58019</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="247" sha1="sm1m3i8w5xx63fhltlfnoqzae2k25r1" xml:space="preserve">{{Character
+| Name=Viktor Frank
+| Guid=3005-58685
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Death_Stranding_2_On_the_Beach
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>sm1m3i8w5xx63fhltlfnoqzae2k25r1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Vincent 6300</title>
+    <ns>0</ns>
+    <id>464539</id>
+    <revision>
+      <id>997480</id>
+      <parentid>739333</parentid>
+      <timestamp>2026-07-19T04:16:36Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>997480</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2051" sha1="1s14a2wvrh0tc6uloitciuk7q7xugco" xml:space="preserve">{{Character
+| Name=Vincent
+| Guid=3005-6300
+| Deck=Vincent is a priest within Silent Hill's main cult and has accompanied Claudia Wolf in her quest to rebirth God. Eventually he rejects Claudia's vision and attempts to join Heather Mason's side.
+| Gender=Male
+| Concepts=Concepts/Betrayal,Concepts/Cult_Leader,Concepts/Cults,Concepts/Desperation_Move,Concepts/Evil_Organization,Concepts/Fate,Concepts/Good_vs_Evil,Concepts/Mysterious_Ally,Concepts/Priest,Concepts/Religion,Concepts/Revive
+| Enemies=Characters/Claudia_Wolf
+| Franchises=Franchises/Silent_Hill
+| Friends=Characters/Claudia_Wolf,Characters/Douglas_Cartland,Characters/Heather_Mason
+| Games=Games/Silent_Hill_3,Games/Silent_Hill_Experience,Games/Silent_Hill_HD_Collection
+| Locations=Locations/Church,Locations/Silent_Hill
+| People=People/Clifford_Rippel,People/Yuri_Lowenthal
+| Objects=Objects/Book,Objects/Glasses
+| Image=https://www.giantbomb.com/a/uploads/scale_super/9/96986/1781894-vincentfull.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"1781894-vincentfull.png","path":"9\/96986\/","mime":"image\/png","sizes":"square_tiny,square_medium,scale_super,scale_medium,square_small,scale_small,square_avatar,square_mini,scale_large,screen_kubrick,scale_avatar,screen_medium","caption":""},"background":[]}' /&gt;
+Vincent first appear when he urges Heather to go to Leonard Wolf and retrieve the Seal of Metatron which he mistakenly believes will repel God. He gives Heather a book that provides information. 
+ 
+When he is being questioned whose side is he on, Vincent tells Heather that he is on her side. She asks him why is he helping her and Vincent replies that he doesn't feel like stopping God's birth. In the end, Heather finds Vincent arguing with Claudia. He orders the former to kill the latter. However, Claudia stabs him in the back. Vincent tells Heather to use the Seal of Metatron, but it didn't work. Claudia stabs Vincent in the chest, finally killing him.
+ 
+When examining Vincent's body, Heather says that she may hated him, but doesn't deserve that fate.</text>
+      <sha1>1s14a2wvrh0tc6uloitciuk7q7xugco</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Virginia 52559</title>
+    <ns>0</ns>
+    <id>464609</id>
+    <revision>
+      <id>997489</id>
+      <parentid>740727</parentid>
+      <timestamp>2026-07-19T04:17:04Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>997489</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="915" sha1="rcvq9x2wk9d3w85d8aaq6q3672zckqz" xml:space="preserve">{{Character
+| Name=Virginia
+| Guid=3005-52559
+| Deck=Niece of Queen Ilenia (who she looks almost identical to), and older cousin of Alain. Found sanctuary in Drakenhold after Cornia fell.
+| Concepts=
+| Enemies=Characters/Galerius
+| Franchises=
+| Friends=Characters/Alain
+| Games=Games/Unicorn_Overlord
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3558678-screenshot2024-03-19093327.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3558678-screenshot2024-03-19093327.png","path":"77\/776653\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_small,scale_medium,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium,square_tiny,square_avatar","caption":null},"background":[]}' /&gt;
+Niece of Queen Ilenia (who she looks almost identical to), and older cousin of Alain. Found sanctuary in Drakenhold after Cornia fell.</text>
+      <sha1>rcvq9x2wk9d3w85d8aaq6q3672zckqz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Volan Das</title>
+    <ns>0</ns>
+    <id>57736</id>
+    <revision>
+      <id>721972</id>
+      <parentid>57852</parentid>
+      <timestamp>2026-02-14T19:40:38Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>721972</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="709" sha1="3jlznd3by713xngj4h53oj7gh3qro2t" xml:space="preserve">{{Character
+| Name=Volan Das
+| Guid=3005-58518
+| Deck=A Separatist allied bounty hunter who operated a modified Droid Trilogy-fighter.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3797132-image.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3797132-image.png","path":"45\/456753\/","mime":"image\/png","sizes":"square_small,scale_super,square_tiny,square_medium,scale_medium,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A Separatist allied bounty hunter who operated a modified Droid Trilogy-fighter.</text>
+      <sha1>3jlznd3by713xngj4h53oj7gh3qro2t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Vulko 58751</title>
+    <ns>0</ns>
+    <id>57968</id>
+    <revision>
+      <id>722113</id>
+      <parentid>722110</parentid>
+      <timestamp>2026-02-14T19:41:21Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722113</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1303" sha1="lg1kus494mueixcw5b8h732g3m03zh5" xml:space="preserve">{{Character
+| Name=Vulko
+| Guid=3005-58751
+| Deck=A Romani man traveling through Transylvania with his daughter, Esmeralda. They befriend the Ninja Turtles, but he is secretly a werewolf who becomes under the thrall of Savanti Romero in that form.
+| Concepts=Concepts/Gypsies,Concepts/Romani,Concepts/Werewolf
+| Enemies=Characters/Donatello,Characters/Leonardo,Characters/Michelangelo,Characters/Raphael,Characters/Savanti_Romero
+| Franchises=
+| Friends=Characters/Donatello,Characters/Leonardo,Characters/Michelangelo,Characters/Raphael,Characters/Savanti_Romero
+| Games=Games/Teenage_Mutant_Ninja_Turtles_Monsters_vs_Mutants
+| Locations=Locations/Transylvania
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3818696-tmnt515_29.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3818696-tmnt515_29.png","path":"16\/164924\/","mime":"image\/png","sizes":"scale_super,scale_medium,square_tiny,square_medium,square_small,square_avatar,scale_small,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini,scale_tiny","caption":null},"background":[]}' /&gt;
+A Romani man traveling through Transylvania with his daughter, Esmeralda. They befriend the Ninja Turtles, but he is secretly a werewolf who becomes under the thrall of Savanti Romero in that form.</text>
+      <sha1>lg1kus494mueixcw5b8h732g3m03zh5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Walter Bedell Smith</title>
+    <ns>0</ns>
+    <id>58034</id>
+    <revision>
+      <id>58151</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58151</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="265" sha1="234ke0btkmc3ojw2wkpvm0s0zjaq3pr" xml:space="preserve">{{Character
+| Name=Walter Bedell Smith.
+| Guid=3005-58817
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Operation_Europe_Path_to_Victory_1939_45
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>234ke0btkmc3ojw2wkpvm0s0zjaq3pr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Wataru Sasaki</title>
+    <ns>0</ns>
+    <id>57864</id>
+    <revision>
+      <id>57981</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57981</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="231" sha1="24szern8iaroiaecrierzuie8n6u2ul" xml:space="preserve">{{Character
+| Name=Wataru Sasaki
+| Guid=3005-58647
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Riki_Densetsu
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>24szern8iaroiaecrierzuie8n6u2ul</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Waterboy</title>
+    <ns>0</ns>
+    <id>57990</id>
+    <revision>
+      <id>722123</id>
+      <parentid>58107</parentid>
+      <timestamp>2026-02-14T19:41:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722123</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1176" sha1="jva6dq0rd7m1o8wpwcp9nwd7xjuwbmr" xml:space="preserve">{{Character
+| Name=Waterboy
+| Guid=3005-58773
+| Deck=A timid and socially awkward would-be Superhero whose power is spitting out torrents of water. Works at the Superhero Dispatch Network as a janitor, but can be allowed to join the Z-Team.
+| Concepts=
+| Enemies=Characters/Armstrong,Characters/Coupe,Characters/Shroud_58847
+| Franchises=
+| Friends=Characters/Blonde_Blazer,Characters/Chase_58771,Characters/Coupe,Characters/Golem_58781,Characters/Invisigal,Characters/Prism,Characters/Robert_Robertson_III
+| Games=Games/Dispatch
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3821246-dossier_waterboy.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3821246-dossier_waterboy.png","path":"77\/776653\/","mime":"image\/png","sizes":"square_small,scale_super,square_medium,square_tiny,scale_medium,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A timid and socially awkward would-be Superhero whose power is spitting out torrents of water. Works at the Superhero Dispatch Network as a janitor, but can be allowed to join the Z-Team.</text>
+      <sha1>jva6dq0rd7m1o8wpwcp9nwd7xjuwbmr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Weiss 13313</title>
+    <ns>0</ns>
+    <id>464554</id>
+    <revision>
+      <id>997537</id>
+      <parentid>739560</parentid>
+      <timestamp>2026-07-19T04:19:53Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>997537</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1086" sha1="gt9rm3841il6kzo4jr4v7g8ah3heapg" xml:space="preserve">{{Character
+| Name=Weiß
+| Guid=3005-13313
+| Aliases=Weiss
+| Deck=One of the new characters joining the cast of Arcana Heart as of the third installment.
+| RealName=Sophie
+| Gender=Non-Binary
+| Concepts=Concepts/Cameo,Concepts/Female_Protagonists,Concepts/New_Protagonist_in_Sequel,Concepts/Teenager
+| Enemies=
+| Franchises=Franchises/Arcana_Heart
+| Friends=
+| Games=Games/Arcana_Heart_3,Games/Arcana_Heart_3_LOVE_MAX,Games/Arcana_Heart_3_LOVE_MAX_SIX_STARS,Games/BlazBlue_Cross_Tag_Battle,Games/Hello_Kitty_Mahou_no_Apron
+| Locations=
+| People=
+| Objects=Objects/School_Uniform,Objects/Skirt,Objects/Sword
+| Image=https://www.giantbomb.com/a/uploads/scale_super/1/12288/1205505-weiss.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"1205505-weiss.jpg","path":"1\/12288\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,square_tiny,scale_large,scale_avatar,screen_kubrick","caption":""},"background":[]}' /&gt;
+* Age: 14
+* Height:  115cm
+* Weight:  44kg
+* Sizes: B75/W54/H79
+* Blood Type: O</text>
+      <sha1>gt9rm3841il6kzo4jr4v7g8ah3heapg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Whammy</title>
+    <ns>0</ns>
+    <id>57781</id>
+    <revision>
+      <id>722040</id>
+      <parentid>722039</parentid>
+      <timestamp>2026-02-14T19:40:58Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722040</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="669" sha1="78zlg7hvt7dxe5b4qsebsxq25jr313o" xml:space="preserve">{{Character
+| Name=Whammy
+| Guid=3005-58563
+| Deck=From the game show Press Your Luck.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Press_Your_Luck,Games/Press_Your_Luck_2010
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/239/2391650/3803762-whammy.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3803762-whammy.png","path":"239\/2391650\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+From the game show Press Your Luck.</text>
+      <sha1>78zlg7hvt7dxe5b4qsebsxq25jr313o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Wild Fang 35416</title>
+    <ns>0</ns>
+    <id>464586</id>
+    <revision>
+      <id>740569</id>
+      <timestamp>2026-03-04T19:50:54Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>740569</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="250" sha1="3agfg9wqwyybb2xlhlekrrdr60qmqmg" xml:space="preserve">{{Character
+| Name=Wild Fang
+| Guid=3005-35416
+| Concepts=
+| Enemies=Characters/Keith_Martin
+| Franchises=
+| Friends=
+| Games=Games/Time_Crisis_3
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3agfg9wqwyybb2xlhlekrrdr60qmqmg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Yakumo</title>
+    <ns>0</ns>
+    <id>57880</id>
+    <revision>
+      <id>722098</id>
+      <parentid>722094</parentid>
+      <timestamp>2026-02-14T19:41:16Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722098</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="811" sha1="hbpa4g66kl06eowfzku9d7q1zwgvvsi" xml:space="preserve">{{Character
+| Name=Yakumo
+| Guid=3005-58663
+| Deck=The new protagonist of Ninja Gaiden 4, a young ninja with the Raven Clan, following in the steps of Ryu Hayabusa.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Ninja_Gaiden_4
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/2/24786/3815052-7060853027-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3815052-7060853027-latest.png","path":"2\/24786\/","mime":"image\/png","sizes":"scale_super,scale_small,scale_medium,square_tiny,square_medium,square_small,square_avatar,screen_medium,scale_large,square_mini,screen_kubrick,scale_avatar","caption":null},"background":[]}' /&gt;
+The new protagonist of Ninja Gaiden 4, a young ninja with the Raven Clan, following in the steps of Ryu Hayabusa.</text>
+      <sha1>hbpa4g66kl06eowfzku9d7q1zwgvvsi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Yale</title>
+    <ns>0</ns>
+    <id>57959</id>
+    <revision>
+      <id>58076</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58076</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="225" sha1="90i2i7p2kdgcpid5j3sqhf3k9zlrzxu" xml:space="preserve">{{Character
+| Name=Yale
+| Guid=3005-58742
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Duet_Night_Abyss
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>90i2i7p2kdgcpid5j3sqhf3k9zlrzxu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Yang 3112</title>
+    <ns>0</ns>
+    <id>464524</id>
+    <revision>
+      <id>997614</id>
+      <parentid>979239</parentid>
+      <timestamp>2026-07-19T04:24:22Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>997614</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8926" sha1="cd2d3pyph0b0xyx46aghf30yyz9gnba" xml:space="preserve">{{Character
+| Name=Yang
+| Guid=3005-3112
+| Deck=Known as The Wind Gust Dragon, Yang is one of the series of new characters to appear in the Street Fighter III. He is also featured in Super Street Fighter IV along with his brother Yun.
+| Gender=Male
+| Birthday=1981-12-12
+| Concepts=Concepts/Command_Grab,Concepts/Divekick,Concepts/False_Death,Concepts/Martial_Arts,Concepts/Rekka_Character
+| Enemies=Characters/Gill,Characters/Sean_3103
+| Franchises=Franchises/Capcom_Versus,Franchises/SNK_vs_Capcom,Franchises/Street_Fighter,Franchises/Street_Fighter_Alpha,Franchises/Street_Fighter_III,Franchises/Tekken
+| Friends=Characters/Chun_Li,Characters/Fei_Long,Characters/Gen,Characters/Jamie_48715,Characters/Lee,Characters/Yun
+| Games=Games/Capcom_Fighting_Collection_2,Games/Capcom_Fighting_Evolution,Games/Capcom_vs_SNK_2_Mark_of_the_Millennium,Games/Street_Fighter_30th_Anniversary_Collection,Games/Street_Fighter_6,Games/Street_Fighter_Alpha_3,Games/Street_Fighter_Alpha_3_MAX,Games/Street_Fighter_Duel,Games/Street_Fighter_III_2nd_Impact,Games/Street_Fighter_III_3rd_Strike,Games/Street_Fighter_III_Double_Impact,Games/Street_Fighter_III_New_Generation,Games/Street_Fighter_IV_Volt,Games/Super_Street_Fighter_IV_Pachislot_Edition,Games/Ultra_Street_Fighter_IV
+| Locations=Locations/Hong_Kong
+| People=People/Hideki_Okugawa,People/Tessho_Genda,People/Wataru_Takagi
+| Objects=Objects/Inline_Skates,Objects/Qipao
+| Image=https://www.giantbomb.com/a/uploads/scale_super/11/115901/1650193-7809bdbdfe98ddba3c91e50fadc2d055.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"1650193-7809bdbdfe98ddba3c91e50fadc2d055.jpg","path":"11\/115901\/","mime":"image\/jpeg","sizes":"square_avatar,scale_small,square_small,square_tiny,square_medium,square_mini,scale_medium,screen_medium,scale_large,scale_avatar,scale_tiny,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+Yang is a Chinese martial artist in the [[Franchises/Street_Fighter|Street Fighter series]]. First appearing in [[Games/Street_Fighter_III_New_Generation|Street Fighter III: New Generation]], [[Characters/Yun|Yun]] and his older twin brother Yun are one of the many characters originally intended to replace the regular Street Fighter cast. Originally, Yang served as a palette swap to Yun but would later become a unique character after subsequent [[Franchises/Street_Fighter_III|Street Fighter III]] games
+
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_medium/10/100729/1530750-twins2.jpg|full=http://www.giantbomb.com/a/uploads/original/10/100729/1530750-twins2.jpg|align=right|caption=Yun fighting Ryu with the Ultra Combo the "Tenshin Senkyuutai" in Super Street Fighter IV.}}
+Both Yang and Yun are relatives of original [[Games/Street_Fighter|Street Fighter]] combatant Lee and are generally referred to as "The Lee Brothers" in their home town in Hong Kong. Yun and Yang practice Chinese Kenpo but differentiate themselves with their own unique set of moves.
+
+While Yun is older, Yang acts as the more mature and serious of the twins. Yang has spiked quiff hair and wears similar clothing to Yun (kung-fu shirt, baggy pants, and sneakers). While Yun enjoys [[Objects/Skateboard|skateboarding,]] Yang [[Objects/Inline_Skates|inline skates]].
+
+
+==Story==
+Both brothers Yun and Yang were orphaned when young but would be adopted by a grandfather while being supervised by Hong Kong's underground crime bosses serving as step-uncles. Their adoptive grandfather taught the brothers martial arts while having them help him in his resturant. They would later gain reputation for being well known in their home area in Hong Kong.
+
+
+===[[Games/Street_Fighter_Alpha_3|Street Fighter Alpha 3]]===
+Yun and Yang's involvement in Street Fighter Alpha 3 are non-canonical and Yang acts as a special assist to Yun. Both brothers hear rumors of their favorite martial arts movie star [[Characters/Fei_Long|Fei Long]] has been dealing drugs. Yun and Yang get to the bottom of the situation and eventually stumble to Fei Long's friend [[Characters/Dee_Jay|Dee Jay]] who reveal a possible location Fei Long is dealing at. Yun and Yang discover Fei Long and fight him to reveal the reasons behind the drug dealing. Defeated, Fei Long tells the brothers that he is trying to see if the drugs are related to [[Concepts/Shadaloo|Shadaloo]] which would later turn out true.
+
+Hong Kong would be under the threat of [[Characters/M_Bison|M. Bison's]] organization and Fei Long, Yun, and Yang attempt to stop the dictator once and for all. Successful, Bison dies from the trio's hands. Grateful for their help, Fei Long asks Yun and Yang to help star in the latest Hong Kong fighting film "Street King II: Three Dragons." The film becomes successful with Yun and Yang enjoying their stardom.
+
+
+===[[Games/Super_Street_Fighter_IV|Super Street Fighter IV]]===
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_medium/2/29889/950772-yang_capstyle_cool.jpg|full=http://www.giantbomb.com/a/uploads/original/2/29889/950772-yang_capstyle_cool.jpg|align=left|caption=Yang and his girlfriend Shomei.}}
+Yun and Yang would be two of the featured characters in the "Arcade Edition" build in Super Street Fighter IV. Both brothers appear in a introduction cinematic for [[Characters/Chun_Li|Chun-Li]].
+
+Yun and Yang hears about the [[Concepts/S_I_N_Corporation|S.I.N.]] tournament and participate to help examine their skills with no one from Hong Kong knowing. After the tournament, Yun and Yang returned to Hong Kong realizing that they will be in trouble for their absence. Later on, while working, Yun and Yang would see Chun-Li leaving after paying her respects to Lee. Yun and Yang hope to see Chun-Li once again in the future.
+
+
+===Street Fighter III===
+Yun and Yang would participate in the third World Warriors tournament after Hong Kong becomes threatened by tournament leader [[Characters/Gill|Gill]]. Both brothers confront Gill and defeat him. Impressed, Gill offers the brothers ownership of Hong Kong as part of his plan for world domination. They turn him down leaving them temporarily troubled. Returning to Hong Kong, Yun and Yang receive hits from Yun's angered girlfriend Hoimei. Stressed out, Yang is cheered up by Hoimei's sister Shomei.
+
+
+==Gameplay==
+Yang was originally a palette swap to Yun in Street Fighter III: New Generation. Yang had the same exact moves from Yun but following games would differentiate Yang with his own set until finalized in [[Games/Street_Fighter_III_3rd_Strike|Street Fighter III: 3rd Strike]]. Yang is a quick character like which encourages use of his quick poke attacks. Like Yun, Yang has low attack power and vitality so it forces quick thinking.
+
+
+===Special moves===
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_medium/10/100729/1530752-twins4.jpg|full=http://www.giantbomb.com/a/uploads/original/10/100729/1530752-twins4.jpg|align=right|caption=Yang landing the final strike of the "Torou Zan."}}
+Different from Yun, Yang has a special move that can be comparable to Fei Long. The "Torou Zan" performs almost exactly as Fei Long's "Rekka Ken" but Yang does slash motions and knocks down an enemy on the final strike. Depending on kick buttons, the "Senkyuutai" has Yun perform a ground to air kick to send an opponent flying and can help dodge projectiles. Yang can perform a dash teleport called the "Kaihou" can confuse enemies. Like Yun, Yang can perform the palm defense "Byakko Soushoda" and can set up combos by transferring positions with the "Zenpou Tenshin."
+
+
+===Super moves/Ultra moves===
+The "Raishin Mahhaken" is a powerful attack with Yang performing a deadly single strike across the screen. In [[Games/Capcom_vs_SNK_2_Mark_of_the_Millennium|Capcom vs. SNK 2: Mark of the Millennium]], one of Yun's super moves has Yang assisting with his Raishin Mahhaken. In Super Street Fighter IV, Yang has his Raishin Mahhaken performs multiple strikes. The "Tenshin Senkyuutai" has Yang performing the Senkyuutai and then immediately landing more hits in the air. The "Seiei Enbu" can be comparable to Yun's "Genei Jin" but Yang's variant doesn't focus on speed but has shadows mimics his attacks increasing attack power when moves land.
+
+
+==Yang's Win Quotes==
+" Where my potential will take me, no one knows. "
+
+" Go home and watch more match videos. Leave the actual fighting to the pros! "
+
+" Is that all you have? You'll need more if you wish to defeat me. "
+
+" Keep your cool in battle next time. It'll do you wonders. "
+
+" Talent or brainpower? You need both to win in this world. "
+
+" That ought to put you out of commission for a while. "
+
+" Don't assume similar tactics you have used on others will work on me. "
+
+" I understand not being able to keep up, but that was faster than I anticipated. "
+
+" Why don't you try using your head for once? "
+
+" Every wound you have is punishment for your careless training. "
+
+" I guess I just wanted victory more than you. "</text>
+      <sha1>cd2d3pyph0b0xyx46aghf30yyz9gnba</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Yar the Housefly</title>
+    <ns>0</ns>
+    <id>625067</id>
+    <revision>
+      <id>974985</id>
+      <timestamp>2026-06-11T23:03:34Z</timestamp>
+      <contributor>
+        <username>Nickelodeon</username>
+        <id>1239</id>
+      </contributor>
+      <comment>Created page with "{{Character |Guid=bdce8d37-39e4-49ab-8813-96e55540f2e8 |Name=Yar the Housefly |Image=Yar from Yar's Revenge.png |Deck=From the best Atari 2600 game: Yar's Revenge. |RealName=Yar |Games=Games/Yars Revenge 14821, Games/Yars Return }} From the best Atari 2600 game: Yar's Revenge."</comment>
+      <origin>974985</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="277" sha1="agx9ckzi7xzmfv6p6bargvvri1veezq" xml:space="preserve">{{Character
+|Guid=bdce8d37-39e4-49ab-8813-96e55540f2e8
+|Name=Yar the Housefly
+|Image=Yar from Yar's Revenge.png
+|Deck=From the best Atari 2600 game: Yar's Revenge.
+|RealName=Yar
+|Games=Games/Yars Revenge 14821, Games/Yars Return
+}}
+From the best Atari 2600 game: Yar's Revenge.</text>
+      <sha1>agx9ckzi7xzmfv6p6bargvvri1veezq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Ying 39455</title>
+    <ns>0</ns>
+    <id>464591</id>
+    <revision>
+      <id>997627</id>
+      <parentid>740619</parentid>
+      <timestamp>2026-07-19T04:25:08Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>997627</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1274" sha1="ivgsl2j4ljisj1kz3mz1aaycn8q0zso" xml:space="preserve">{{Character
+| Name=Ying
+| Guid=3005-39455
+| Deck=A policewoman who mostly focused on VIP and witness protection, later studied counter-terror tactics in Tel Aviv and then joined the SDU. Her Candela charges can stick to walls or roll along floors and cover a room in flashbangs, blinding everyone but herself for several seconds.
+| RealName=Siu Mei Lin
+| Gender=Non-Binary
+| Birthday=1983-05-12
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=Characters/Lesion
+| Games=Games/Tom_Clancys_Rainbow_Six_Siege
+| Locations=Locations/Hong_Kong
+| People=
+| Objects=Objects/Flashbang
+| Image=https://www.giantbomb.com/a/uploads/scale_super/2/24786/3076747-9207355144-368
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3076747-9207355144-368","path":"2\/24786\/","mime":"image\/png","sizes":"scale_super,square_small,square_medium,square_avatar,scale_medium,square_tiny,scale_small,scale_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A policewoman who mostly focused on VIP and witness protection, later studied counter-terror tactics in Tel Aviv and then joined the SDU. Her Candela charges can stick to walls or roll along floors and cover a room in flashbangs, blinding everyone but herself for several seconds.</text>
+      <sha1>ivgsl2j4ljisj1kz3mz1aaycn8q0zso</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Yoichi 58657</title>
+    <ns>0</ns>
+    <id>57874</id>
+    <revision>
+      <id>57991</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57991</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="262" sha1="7adqu7ifxjo8u8oo1jgxef508pq4wqd" xml:space="preserve">{{Character
+| Name=Yoichi
+| Guid=3005-58657
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Ike_Ike_Nekketsu_Hockey_bu_Subete_Koronde_Dairantou
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>7adqu7ifxjo8u8oo1jgxef508pq4wqd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Yorikazu Minamoto</title>
+    <ns>0</ns>
+    <id>57876</id>
+    <revision>
+      <id>57993</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57993</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="247" sha1="9nj8y77sge92ti8oaoziygq97nqpqur" xml:space="preserve">{{Character
+| Name=Yorikazu Minamoto
+| Guid=3005-58659
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/River_City_Rival_Showdown
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9nj8y77sge92ti8oaoziygq97nqpqur</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Yuki 58713</title>
+    <ns>0</ns>
+    <id>57930</id>
+    <revision>
+      <id>58047</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58047</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="250" sha1="r2o6ydv19esm1urg0naurmj4wdmh2y9" xml:space="preserve">{{Character
+| Name=Yuki
+| Guid=3005-58713
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=Characters/Amir_58704
+| Games=Games/Chaos_Zero_Nightmare
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>r2o6ydv19esm1urg0naurmj4wdmh2y9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Zarien Kheev</title>
+    <ns>0</ns>
+    <id>58011</id>
+    <revision>
+      <id>58128</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58128</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="602" sha1="1xkpluoh39z48bj2rxtxjn4k4545g83" xml:space="preserve">{{Character
+| Name=Zarien Kheev
+| Guid=3005-58794
+| Deck=Zarien Kheev was a Zabrak slave master of the Galactic Empire whose defining attribute was his sadistic personality.
+| Concepts=Concepts/Boss_Fight,Concepts/Galactic_Empire,Concepts/Slavery,Concepts/Zabrak
+| Enemies=Characters/Rianna_Saren
+| Franchises=
+| Friends=
+| Games=Games/Star_Wars_Lethal_Alliance
+| Locations=Locations/Mustafar
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Zarien Kheev was a Zabrak slave master of the Galactic Empire whose defining attribute was his sadistic personality.
+
+</text>
+      <sha1>1xkpluoh39z48bj2rxtxjn4k4545g83</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Zeus 1101</title>
+    <ns>0</ns>
+    <id>464512</id>
+    <revision>
+      <id>997682</id>
+      <parentid>978918</parentid>
+      <timestamp>2026-07-19T04:28:23Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>997682</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9324" sha1="csogd366ugv922ji36ecl2fndbhshh6" xml:space="preserve">{{Character
+| Name=Zeus
+| Guid=3005-1101
+| Deck=The King of the Gods in Greek mythology, Zeus is the master of the sky. His brothers Poseidon and Hades rule the sea and the underworld, respectively.
+| RealName=Zeus
+| Gender=Male
+| Concepts=Concepts/Adultery,Concepts/Apocalypse,Concepts/Bad_Parents,Concepts/Bangsian_Fantasy,Concepts/Catch_Phrase,Concepts/Characters_Without_Pupils,Concepts/Deicide,Concepts/Demiurge,Concepts/Downloadable_Content,Concepts/Giant_Killing,Concepts/Gift_of_the_Gods,Concepts/God,Concepts/God_Complex,Concepts/Greek_Mythology,Concepts/Incest,Concepts/Lightning_Manipulation,Concepts/Mentor,Concepts/Mythology,Concepts/Pegasus,Concepts/Pervert,Concepts/Rape,Concepts/Religion,Concepts/Revealing_Attire,Concepts/Revenge,Concepts/Transforming_Boss,Concepts/Unbeatable_Boss,Concepts/Villain,Concepts/Voice_Acting
+| Enemies=Characters/Ares,Characters/Asteria,Characters/Atlas_1328,Characters/Cronos,Characters/Deimos,Characters/Gaia,Characters/Hades,Characters/Kratos,Characters/Neff,Characters/Pandora_14625,Characters/Prometheus,Characters/Typhon_21663
+| Franchises=Franchises/Age_of_Empires,Franchises/Age_of_Mythology,Franchises/Altered_Beast,Franchises/Devil_Children,Franchises/Digital_Devil_Monogatari,Franchises/Disney,Franchises/God_of_War,Franchises/Kid_Icarus,Franchises/Majin_Tensei,Franchises/Megami_Tensei,Franchises/Shanghai,Franchises/The_Settlers
+| Friends=Characters/Ajax_5636,Characters/Apollo,Characters/Aquagirl,Characters/Ares,Characters/Ares_28589,Characters/Artemis,Characters/Athena,Characters/Callisto_23362,Characters/Dionysus,Characters/Fenyx,Characters/Hades,Characters/Hecatoncheires,Characters/Helios,Characters/Hephaestus,Characters/Hercules,Characters/Hermes,Characters/Iris_23476,Characters/Jason_Greek,Characters/King_Minos_30556,Characters/Palutena,Characters/Perun,Characters/Pit,Characters/Poseidon,Characters/Talos,Characters/Theseus,Characters/Wonder_Woman
+| Games=Games/Age_of_Empires_Mythologies,Games/Age_of_Mythology,Games/Age_of_Mythology_The_Titans,Games/Altered_Beast,Games/Altered_Beast_Guardian_of_the_Realms,Games/Anthropomachy,Games/Apotheon,Games/Cavequest,Games/Clash_of_the_Titans,Games/Classic_Collection,Games/DC_Universe_Online,Games/Disney_Sorcerers_Arena,Games/Disneys_Hercules_Action_Game,Games/Dragon_Poker,Games/Fight_of_Gods,Games/Full_Bokko_Heroes_X,Games/God_of_War,Games/God_of_War_Ascension,Games/God_of_War_Chains_of_Olympus,Games/God_of_War_Collection,Games/God_of_War_Ghost_of_Sparta,Games/God_of_War_II,Games/God_of_War_III,Games/God_of_War_Origins_Collection,Games/God_of_War_Saga,Games/Gods_of_Rome,Games/Gods_Rush,Games/Grepolis,Games/Hades_2020,Games/Hades_II,Games/Hercules_The_Legendary_Journeys,Games/Heroes_Evolved,Games/Immortals_Fenyx_Rising,Games/Injustice_Gods_Among_Us,Games/Injustice_Gods_Among_Us_2013,Games/Kid_Icarus,Games/Kid_Icarus_Of_Myths_and_Monsters,Games/Kingdom_Hearts_III,Games/Kyuuyaku_Megami_Tensei,Games/Marvel_War_of_Heroes,Games/Monster_Strike,Games/Mytheon,Games/Mythic_Heroes,Games/NES_Remix_2,Games/NES_Remix_Pack,Games/Odyssey_RPG,Games/Percy_Jackson_And_the_Olympians_The_Lightning_Thief,Games/Persona_Q_Shadow_of_the_Labyrinth,Games/Pinball_Pulse_The_Ancients_Beckon,Games/PlayStation_All_Stars_Battle_Royale,Games/Puzzle_And_Dragons,Games/Puzzle_And_Dragons_Nintendo_Switch_Edition,Games/Ronde,Games/Science_Kombat,Games/Scribblenauts_Mega_Pack,Games/Scribblenauts_Unlimited,Games/Scribblenauts_Unmasked_A_DC_Comics_Adventure,Games/Sega_Archives_from_U_S_A_vol_1,Games/Sega_Classics,Games/Sega_Genesis_Classics,Games/Shin_Megami_Tensei_Devil_Children_Black_Book_Red_Book,Games/Shin_Megami_Tensei_Strange_Journey_Redux,Games/Smite,Games/Smite_2,Games/Soul_Hackers_2,Games/Super_Shanghai_Dragons_Eye,Games/The_Battle_of_Olympus,Games/The_Settlers_III,Games/Titan_Quest,Games/Warriors_Orochi_4,Games/Warriors_Orochi_4_Ultimate,Games/Will_Rock,Games/Wishbone_and_the_Amazing_Odyssey,Games/Zeus_Master_of_Olympus,Games/Zeus_Official_Expansion_Poseidon
+| Locations=Locations/Ancient_Greece,Locations/Arena,Locations/Greece,Locations/Olympus,Locations/Solana_Galaxy,Locations/Sparta,Locations/Sun,Locations/Tartarus
+| People=People/Corey_Burton,People/Marc_Graue,People/Paul_Eiding,People/Rip_Torn,People/SungWon_Cho
+| Objects=Objects/Lightning,Objects/Lightning_Bolt,Objects/The_Blade_of_Olympus,Objects/The_Gauntlet_of_Zeus
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3802786-0084920140-1200.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3802786-0084920140-1200.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_super,scale_small,square_small,square_medium,square_avatar,square_mini,square_tiny,scale_medium,screen_medium,screen_kubrick,scale_large,scale_avatar,scale_tiny","caption":null},"background":[]}' /&gt;
+
+==Overview==
+Zeus, a god of the ancient Greek pantheon, is the son of [[Concepts/Titan|titans]]; his father, Cronus, attempted to eat Zeus once he was born, but his mother Rhea saved him by pulling him from Cronus's maw. It is then said that Zeus was raised by [[Concepts/Nymphs|nymphs]] on the island of Samos until he reached maturity. When he had grown, with the help of his mother and siblings, Zeus overthrew and castrated his father. He then assumed Cronus's position as king of the immortals, just as Cronus had once done to his own father, Ouranos.
+
+Zeus is married to Hera, goddess of women and marriage. He also has many children, both god and demigod. Among his progeny are [[Characters/Ares|Ares]], [[Characters/Athena|Athena]], [[Characters/Apollo|Apollo]], Artemis, [[Characters/Aphrodite_14622|Aphrodite]], [[Characters/Dionysus|Dionysus]], Hebe, [[Characters/Hermes_7188|Hermes]], Heracles, Helen, [[Characters/Hephaestus|Hephaestus]], [[Characters/Perseus|Perseus]] and Minos.
+
+Other than the battle for Olympus between the divinities, most of the surviving tales about Zeus concern his interactions with mortals. More specifically, Zeus a number of tales related to Zeus refer to his pursuits of mortal women with whom to sow his seed. He is also known for casting spontaneous, generally harsh judgements upon mortals and immortals alike. He banishes men and punishes gods furiously when he is disobeyed.
+
+In Roman [[Concepts/Mythology|mythology]], which borrows liberally from the Greek pantheon, Zeus became Jove or Jupiter. By the time Christianity arose in Rome, the bearded image of Zeus had become the de facto characterization of God, and remains so to this day.
+
+
+==In God of War==
+In the God of War series, Zeus is the father of [[Characters/Kratos|Kratos]]. He has the power to shapeshift into forms such as an eagle and grow to the size of a giant He also possesses control over the weather, particularly thunder and lightning. But, like all gods, he is vulnerable to the [[Objects/The_Blade_of_Olympus|Blade of Olympus]], his own powerful weapon. In battle, he is capable of moving at immense supernatural speed and creating powerful barriers to shield himself. He also had an attack which creates an electrical silhouette of himself. After draining power from [[Characters/Gaia|Gaia]], Zeus also gains the ability to make full clones of himself that, although not nearly as powerful as the original, could still put up a fight.
+
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/original/88/887274/3354487-maxresdefault.jpg|align=right|width=480|caption=Zeus in God of War}}
+When Zeus unleashes the full wrath of his power, Kratos is unable to overpower him even though he had used the Blade of Olympus to weaken him beforehand. In [[Games/God_of_War_III|God of War III]], after Kratos stabs Zeus through Gaia's heart, Zeus's spirit fights Kratos and overpowers him; he disarms Kratos of all of his weapons and equipment, and then infects the Spartan with fear itself. Zeus takes Kratos to the brink of death until [[Characters/Pandora_14625|Pandora]] helps Kratos unleash the power of Hope. This power causes Zeus to become vulnerable Zeus, and with the tables turned, Kratos beats him to death with his bare hands.
+
+
+==In Kid Icarus==
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/0/6228/2164263-zeus_kid_icarus.png|full=https://www.giantbomb.com/a/uploads/original/0/6228/2164263-zeus_kid_icarus.png|align=right|width=179|caption=Zeus's design in the Kid Icarus series.}}
+Zeus is a minor figure in the [[Franchises/Kid_Icarus|Kid Icarus series]]. Though unnamed in the original [[Games/Kid_Icarus|Kid Icarus]], he is revealed to be Zeus in [[Games/Kid_Icarus_Of_Myths_and_Monsters|Kid Icarus: Of Myths and Monsters]]. Zeus tests [[Characters/Pit|Pit]], and the rewards for passing his tests include receiving gifts, increased strength, or an increased health bar. He does not otherwise play an important role in any game in the series to date, nor is it indicated that he is in any way the most powerful god in the universe's pantheon. His appearance is like that of a stereotypical, if elderly angel, with wings and a halo.
+
+
+==Wonder Woman==
+Zeus allowed [[Characters/Wonder_Woman|Wonder Woman]] to be granted powers from the blessing of the Gods of Olympus. In DC comic new 52 Zeus is the father of [[Characters/Wonder_Woman|Wonder Woman]].
+
+Zeus is the Father of [[Characters/Wonder_Girl|Wonder Girl]], making her a demigod like her brother [[Characters/Hercules|Hercules]].</text>
+      <sha1>csogd366ugv922ji36ecl2fndbhshh6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/1+1 Studios</title>
+    <ns>0</ns>
+    <id>625086</id>
+    <revision>
+      <id>975046</id>
+      <timestamp>2026-06-14T19:07:07Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=4885bda6-c9c8-4013-8d3f-a2113692518e |Name=1+1 Studios }}"</comment>
+      <origin>975046</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="73" sha1="p9zzz3n1fqrgl1kp36irns1f1w9q823" xml:space="preserve">{{Company
+|Guid=4885bda6-c9c8-4013-8d3f-a2113692518e
+|Name=1+1 Studios
+}}</text>
+      <sha1>p9zzz3n1fqrgl1kp36irns1f1w9q823</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/100 Cozy Games</title>
+    <ns>0</ns>
+    <id>83352</id>
+    <revision>
+      <id>83485</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83485</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="242" sha1="9oh6khijjvudzai1au17c183m6ogg4l" xml:space="preserve">{{Company
+| Name=100 Cozy Games
+| Guid=3010-26459
+| Characters=
+| Concepts=
+| Developed_games=
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/100_Christmas_Cats
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9oh6khijjvudzai1au17c183m6ogg4l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/100 Hidden Animals</title>
+    <ns>0</ns>
+    <id>83350</id>
+    <revision>
+      <id>83483</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83483</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="247" sha1="ltwagu8otoysrhupgz0ia5y2e03iizt" xml:space="preserve">{{Company
+| Name= 100 Hidden Animals
+| Guid=3010-26457
+| Characters=
+| Concepts=
+| Developed_games=Games/100_Christmas_Cats
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ltwagu8otoysrhupgz0ia5y2e03iizt</sha1>
+    </revision>
+  </page>
+</mediawiki>

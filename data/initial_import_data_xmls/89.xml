@@ -1,0 +1,999 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ratings/CERO All Ages</title>
+    <ns>0</ns>
+    <id>264508</id>
+    <revision>
+      <id>264967</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264967</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="260" sha1="dghf0wygnd3yenljkbwci50k0706yd9" xml:space="preserve">{{Rating
+| Name=CERO: All Ages
+| Guid=3065-19
+| Image=CERO: All Ages.png
+| Caption=Logo for CERO: All Ages
+| Explanation=All Ages
+}}
+Expressions and content subjected to age-specific limitation are not included in the game, thereby being suitable for all ages.</text>
+      <sha1>dghf0wygnd3yenljkbwci50k0706yd9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/CERO B</title>
+    <ns>0</ns>
+    <id>264509</id>
+    <revision>
+      <id>264968</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264968</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="262" sha1="i9buf903ivza80ix91sf4x29ifiauza" xml:space="preserve">{{Rating
+| Name=CERO: B
+| Guid=3065-33
+| Image=CERO B.png
+| Caption=Logo for CERO B
+| Explanation=Ages 12 and up
+}}
+Expression and content suitable only to 12-year-olds and above are included in the game. All games that used to be rated 12 go into this category.</text>
+      <sha1>i9buf903ivza80ix91sf4x29ifiauza</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/CERO C</title>
+    <ns>0</ns>
+    <id>264510</id>
+    <revision>
+      <id>264969</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264969</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="262" sha1="rbvjadmkjqfa3kyagiz1tg2hxf65fj2" xml:space="preserve">{{Rating
+| Name=CERO: C
+| Guid=3065-27
+| Image=CERO C.png
+| Caption=Logo for CERO C
+| Explanation=Ages 15 and up
+}}
+Expression and content suitable only to 15-year-olds and above are included in the game. All games that used to be rated 15 go into this category.</text>
+      <sha1>rbvjadmkjqfa3kyagiz1tg2hxf65fj2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/CERO D</title>
+    <ns>0</ns>
+    <id>264511</id>
+    <revision>
+      <id>264970</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264970</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="288" sha1="i3603cql1az4do49p5d28mrff2ri81p" xml:space="preserve">{{Rating
+| Name=CERO: D
+| Guid=3065-32
+| Image=CERO D.png
+| Caption=Logo for CERO D
+| Explanation=Ages 17 and up
+}}
+Contains adult material. Expression and content suitable only to 17-year-olds and above are included in the game. Some games that used to be rated 18 go into this category.</text>
+      <sha1>i3603cql1az4do49p5d28mrff2ri81p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/CERO Z</title>
+    <ns>0</ns>
+    <id>264512</id>
+    <revision>
+      <id>264971</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264971</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="371" sha1="oxc0fc82ph0ybacoffbr0eox8g9cop1" xml:space="preserve">{{Rating
+| Name=CERO: Z
+| Guid=3065-34
+| Image=CERO Z.png
+| Caption=Logo for CERO Z
+| Explanation=Ages 18 and up only
+}}
+Contains strong adult material. It is illegal for anyone under 18 to buy video games with this rating. Expression and content suitable only to 18-year-olds and above are included in the game. Some games that used to be rated 18 go into this category.</text>
+      <sha1>oxc0fc82ph0ybacoffbr0eox8g9cop1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/ESRB AO</title>
+    <ns>0</ns>
+    <id>264513</id>
+    <revision>
+      <id>264972</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264972</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="9f1qazx8hpm2t0cvefuzibmtpuj5r3h" xml:space="preserve">{{Rating
+| Name=ESRB: AO
+| Guid=3065-23
+| Image=ESRB AO.png
+| Caption=Logo for ESRB: AO
+| Explanation=Adults Only 18+
+}}
+Content that the ESRB believes is suitable for ages 18 and over.</text>
+      <sha1>9f1qazx8hpm2t0cvefuzibmtpuj5r3h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/ESRB E</title>
+    <ns>0</ns>
+    <id>264514</id>
+    <revision>
+      <id>264973</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264973</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="248" sha1="ncodcahqidp8z43j7nq1vmorynbi6ux" xml:space="preserve">{{Rating
+| Name=ESRB: E
+| Guid=3065-6
+| Image=ESRB E.png
+| Caption=Logo for ESRB: E
+| Explanation=Everyone
+}}
+Content is generally suitable for all ages. May contain minimal cartoon, fantasy or mild violence, and/or infrequent use of mild language.</text>
+      <sha1>ncodcahqidp8z43j7nq1vmorynbi6ux</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/ESRB E10</title>
+    <ns>0</ns>
+    <id>264515</id>
+    <revision>
+      <id>264974</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264974</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="335" sha1="5k1wynklq7x1zxbnwa7k07jpqjq49q9" xml:space="preserve">{{Rating
+| Name=ESRB: E10+
+| Guid=3065-29
+| Image=ESRB E10.png
+| Caption=Logo for ESRB: E10+
+| Explanation=Everyone 10+
+}}
+Content suitable for ages 10 and over, including a larger amount of cartoon, fantasy, or mild violence than the "E" rating can accommodate, mild to moderate use of profane language, and minimal suggestive themes.</text>
+      <sha1>5k1wynklq7x1zxbnwa7k07jpqjq49q9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/ESRB EC</title>
+    <ns>0</ns>
+    <id>264516</id>
+    <revision>
+      <id>264975</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264975</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="191" sha1="1oiop98qtl1y3tpgt2j1pbbw0l1hgqw" xml:space="preserve">{{Rating
+| Name=ESRB: EC
+| Guid=3065-26
+| Image=ESRB EC.png
+| Caption=Logo for ESRB: EC
+| Explanation=Early Childhood
+}}
+Content that parents would find objectionable to a preschool audience.</text>
+      <sha1>1oiop98qtl1y3tpgt2j1pbbw0l1hgqw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/ESRB K A</title>
+    <ns>0</ns>
+    <id>264517</id>
+    <revision>
+      <id>264976</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264976</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="240" sha1="cushzrhqow8ubeqzvjytr48agcw2zp6" xml:space="preserve">{{Rating
+| Name=ESRB: K-A
+| Guid=3065-9
+| Image=ESRB K-A.png
+| Caption=Logo for ESRB: K-A
+| Explanation=Kids to Adults
+}}
+Content suitable for everyone. Actively used between 1994 to 1998 before being replaced by [[Ratings/ESRB_E|ESRB: E]].</text>
+      <sha1>cushzrhqow8ubeqzvjytr48agcw2zp6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/ESRB M</title>
+    <ns>0</ns>
+    <id>264518</id>
+    <revision>
+      <id>264977</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264977</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="247" sha1="beyapr4d9ejictnokgs39zqtzx88jog" xml:space="preserve">{{Rating
+| Name=ESRB: M
+| Guid=3065-16
+| Image=ESRB M.png
+| Caption=Logo for ESRB: M
+| Explanation=Mature 17+
+}}
+Content is generally suitable for ages 17 and up. May contain intense violence, blood and gore, sexual content and/or strong language.</text>
+      <sha1>beyapr4d9ejictnokgs39zqtzx88jog</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/ESRB T</title>
+    <ns>0</ns>
+    <id>264519</id>
+    <revision>
+      <id>264978</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264978</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="287" sha1="4urq45salpi3o220r3vlfeyc6hgthr9" xml:space="preserve">{{Rating
+| Name=ESRB: T
+| Guid=3065-1
+| Image=ESRB T.png
+| Caption=Logo for ESRB: T
+| Explanation=Teen
+}}
+Content suitable for ages 13 and over, including aggressive depictions of violence with minimal blood, moderate suggestive themes, crude humor, and stronger use of profane language.</text>
+      <sha1>4urq45salpi3o220r3vlfeyc6hgthr9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/OFLC G</title>
+    <ns>0</ns>
+    <id>264520</id>
+    <revision>
+      <id>264979</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264979</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="379" sha1="tctz3veb5jv90ztpz29xpo5ovpcuc81" xml:space="preserve">{{Rating
+| Name=OFLC: G
+| Guid=3065-14
+| Image=OFLC G.png
+| Caption=Logo for OFLC: G
+| Explanation=Suitable for general audiences
+}}
+Content should have very low levels of things like frightening scenes. However, not all G level content are intended for family audiences and it is always a good idea to look at reviews and plot information before letting children play the games.</text>
+      <sha1>tctz3veb5jv90ztpz29xpo5ovpcuc81</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/OFLC GB</title>
+    <ns>0</ns>
+    <id>264521</id>
+    <revision>
+      <id>264980</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264980</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="221" sha1="cssxt6jcjjghi6tfl61vjf4c83dj1qz" xml:space="preserve">{{Rating
+| Name=OFLC: GB+
+| Guid=3065-15
+| Image=OFLC GB.png
+| Caption=Logo for OFLC: GB+
+| Explanation=Green band; approved for all audiences
+}}
+Indicates that the trailer has been approved for all audiences by the MPAA.</text>
+      <sha1>cssxt6jcjjghi6tfl61vjf4c83dj1qz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/OFLC M</title>
+    <ns>0</ns>
+    <id>264522</id>
+    <revision>
+      <id>264981</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264981</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="233" sha1="ns7bkpzr435roev70206n68s2es0h0b" xml:space="preserve">{{Rating
+| Name=OFLC: M
+| Guid=3065-31
+| Image=OFLC M.png
+| Caption=Logo for OFLC: M
+| Explanation=Suitable for (but not restricted to) mature audiences 16 years and up
+}}
+Games with an M label are more suitable for mature audiences.</text>
+      <sha1>ns7bkpzr435roev70206n68s2es0h0b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/OFLC M15</title>
+    <ns>0</ns>
+    <id>264523</id>
+    <revision>
+      <id>264982</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264982</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="bv48nlgp4txccy05karmx2yyiu6jyms" xml:space="preserve">{{Rating
+| Name=OFLC: M15+
+| Guid=3065-13
+| Image=OFLC M15.png
+| Caption=Logo for OFLC: M15+
+| Explanation=Mature
+}}
+Despite the title, material classified M15+ is not recommended for people under 15 years of age. Nonetheless, there are still no legal restrictions thus any age is allowed to access these titles.</text>
+      <sha1>bv48nlgp4txccy05karmx2yyiu6jyms</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/OFLC MA15</title>
+    <ns>0</ns>
+    <id>264524</id>
+    <revision>
+      <id>264983</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264983</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="374" sha1="oifwct7znxtpo8j1c9n7qwlccerigji" xml:space="preserve">{{Rating
+| Name=OFLC: MA15+
+| Guid=3065-12
+| Image=OFLC MA15.png
+| Caption=Logo for OFLC: MA15+
+| Explanation=Mature Accompanied
+}}
+Content is considered unsuitable for exhibition by persons under the age of 15. Persons under this age may only legally purchase or exhibit MA15+ rated content under the supervision of an adult guardian. This is a legally restricted category.</text>
+      <sha1>oifwct7znxtpo8j1c9n7qwlccerigji</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/OFLC PG</title>
+    <ns>0</ns>
+    <id>264525</id>
+    <revision>
+      <id>264984</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264984</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="375" sha1="hyf84xaf5w048gh4o2mga10ap75wkah" xml:space="preserve">{{Rating
+| Name=OFLC: PG
+| Guid=3065-38
+| Image=OFLC PG.png
+| Caption=Logo for OFLC: PG
+| Explanation=Parental guidance recommended for younger viewers
+}}
+The PG label means guidance from a parent or guardian is recommended for younger viewers. It is important to remember that PG games can be aimed at an adult audience and to be aware of the content of a game for children.</text>
+      <sha1>hyf84xaf5w048gh4o2mga10ap75wkah</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/OFLC R13</title>
+    <ns>0</ns>
+    <id>264526</id>
+    <revision>
+      <id>264985</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264985</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="378" sha1="4vkzn7kge4onzcky7nk54ecpkjzoohr" xml:space="preserve">{{Rating
+| Name=OFLC: R13
+| Image=OFLC R13.png
+| Caption=Logo for OFLC: R13
+| Explanation=Restricted to persons 13 years of age and over
+}}
+If something has one of these labels it can only be supplied to people of and over the age shown on the label. A parent or shop is breaking the law if they supply an age-restricted item to someone who is not legally allowed to access it. </text>
+      <sha1>4vkzn7kge4onzcky7nk54ecpkjzoohr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/OFLC R18</title>
+    <ns>0</ns>
+    <id>264527</id>
+    <revision>
+      <id>264986</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264986</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="237" sha1="bl66yfaaatm95ez8eowp0mwhu9gxz0r" xml:space="preserve">{{Rating
+| Name=OFLC: R18+
+| Guid=3065-39
+| Image=OFLC R18.png
+| Caption=Logo for OFLC: R18+
+| Explanation=Restricted to 18 and over
+}}
+People under 18 may not buy, rent or exhibit these films. Games rated this are banned from Australia.</text>
+      <sha1>bl66yfaaatm95ez8eowp0mwhu9gxz0r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/PEGI 12</title>
+    <ns>0</ns>
+    <id>264528</id>
+    <revision>
+      <id>264987</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264987</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="410" sha1="tqttjs215rw5jeqxgw8352e9zkslq3h" xml:space="preserve">{{Rating
+| Name=PEGI: 12
+| Guid=3065-36
+| Image=PEGI 12.png
+| Caption=Logo for PEGI: 12
+| Explanation=Suitable for 12 and over
+}}
+Games that show violence of a slightly more graphic nature towards fantasy characters or non-realistic violence towards human-like characters would fall in this age category. Sexual innuendo or sexual posturing can be present, while any bad language in this category must be mild.</text>
+      <sha1>tqttjs215rw5jeqxgw8352e9zkslq3h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/PEGI 16</title>
+    <ns>0</ns>
+    <id>264529</id>
+    <revision>
+      <id>264988</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264988</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="424" sha1="9wk4cbc29n024i5y92hdit471435pm1" xml:space="preserve">{{Rating
+| Name=PEGI: 16+
+| Guid=3065-2
+| Image=PEGI 16.png
+| Caption=Logo for PEGI: 16+
+| Explanation=Suitable for ages 16 and over
+}}
+Rating is applied once the depiction of violence (or sexual activity) reaches a stage that looks the same as would be expected in real life. The use of bad language in games with a PEGI 16 rating can be more extreme, while the use of tobacco, alcohol or illegal drugs can also be present.</text>
+      <sha1>9wk4cbc29n024i5y92hdit471435pm1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/PEGI 18</title>
+    <ns>0</ns>
+    <id>264530</id>
+    <revision>
+      <id>264989</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264989</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="485" sha1="ltfe1bol55gvdujl4uuf4fd1jrh79it" xml:space="preserve">{{Rating
+| Name=PEGI: 18+
+| Guid=3065-37
+| Image=PEGI 18.png
+| Caption=Logo for PEGI: 18+
+| Explanation=Suitable for adults only
+}}
+The adult classification is applied when the level of violence reaches a stage where it becomes a depiction of gross violence, apparently motiveless killing, or violence towards defenceless characters. The glamorisation of the use of illegal drugs and of the simulation of gambling, and explicit sexual activity should also fall into this age category. </text>
+      <sha1>ltfe1bol55gvdujl4uuf4fd1jrh79it</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/PEGI 3</title>
+    <ns>0</ns>
+    <id>264531</id>
+    <revision>
+      <id>264990</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264990</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="401" sha1="tsa2zs1cdtl8l3drz671t5sg63iabe1" xml:space="preserve">{{Rating
+| Name=PEGI: 3+
+| Guid=3065-7
+| Image=PEGI 3.png
+| Caption=Logo for PEGI: 3
+| Explanation=Suitable for all ages
+}}
+Content of games is considered suitable for all age groups. The game should not contain any sounds or pictures that are likely to frighten young children. A very mild form of violence (in a comical context or a childlike setting) is acceptable. No bad language should be heard.</text>
+      <sha1>tsa2zs1cdtl8l3drz671t5sg63iabe1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ratings/PEGI 7</title>
+    <ns>0</ns>
+    <id>264532</id>
+    <revision>
+      <id>264991</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264991</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="372" sha1="70j14e9yozax4i527b6vgu02pux22lf" xml:space="preserve">{{Rating
+| Name=PEGI: 7+
+| Guid=3065-18
+| Image=PEGI 7.png
+| Caption=Logo for PEGI: 7+
+| Explanation=Suitable for ages 7 and over
+}}
+Content with scenes or sounds that can possibly be frightening to younger children should fall in this category. Very mild forms of violence (implied, non-detailed, or non-realistic violence) are acceptable for a game with a PEGI 7 rating.</text>
+      <sha1>70j14e9yozax4i527b6vgu02pux22lf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resolutions/1080i</title>
+    <ns>0</ns>
+    <id>264534</id>
+    <revision>
+      <id>264993</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264993</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="37" sha1="nrzigo8uuk597v1ook9u8zqkm7425nf" xml:space="preserve">{{Resolution
+| Name=1080i
+| Guid=6
+}}</text>
+      <sha1>nrzigo8uuk597v1ook9u8zqkm7425nf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resolutions/1080p</title>
+    <ns>0</ns>
+    <id>264533</id>
+    <revision>
+      <id>264992</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264992</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="37" sha1="ahtsmxnajbgbe9syfio1w4hlzrzksza" xml:space="preserve">{{Resolution
+| Name=1080p
+| Guid=5
+}}</text>
+      <sha1>ahtsmxnajbgbe9syfio1w4hlzrzksza</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resolutions/480p</title>
+    <ns>0</ns>
+    <id>264536</id>
+    <revision>
+      <id>264995</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264995</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="89xh2kjubd3ntnbe437u2ny1wz7up79" xml:space="preserve">{{Resolution
+| Name=480p
+| Guid=8
+}}</text>
+      <sha1>89xh2kjubd3ntnbe437u2ny1wz7up79</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resolutions/720p</title>
+    <ns>0</ns>
+    <id>264535</id>
+    <revision>
+      <id>264994</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264994</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="stigy0schzxz3oqqcyr7qrf27wmu7ba" xml:space="preserve">{{Resolution
+| Name=720p
+| Guid=7
+}}</text>
+      <sha1>stigy0schzxz3oqqcyr7qrf27wmu7ba</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resolutions/Other Console Resolution</title>
+    <ns>0</ns>
+    <id>264548</id>
+    <revision>
+      <id>265007</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>265007</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="57" sha1="sp5hgbid4ea3mopzxa4it8ly1ng3y4t" xml:space="preserve">{{Resolution
+| Name=Other Console Resolution
+| Guid=20
+}}</text>
+      <sha1>sp5hgbid4ea3mopzxa4it8ly1ng3y4t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resolutions/Other PC Resolution</title>
+    <ns>0</ns>
+    <id>264547</id>
+    <revision>
+      <id>265006</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>265006</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="52" sha1="jnoaczgtzljkidmcy1hu84rro27d190" xml:space="preserve">{{Resolution
+| Name=Other PC Resolution
+| Guid=19
+}}</text>
+      <sha1>jnoaczgtzljkidmcy1hu84rro27d190</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resolutions/PC 1024x768</title>
+    <ns>0</ns>
+    <id>264542</id>
+    <revision>
+      <id>265001</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>265001</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="ahpnp42tmproegidiqth3o1xjvul4m8" xml:space="preserve">{{Resolution
+| Name=PC 1024x768
+| Guid=14
+}}</text>
+      <sha1>ahpnp42tmproegidiqth3o1xjvul4m8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resolutions/PC 1440x900</title>
+    <ns>0</ns>
+    <id>264543</id>
+    <revision>
+      <id>265002</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>265002</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="79dwn4g89h8k9jaytkriijd4warkcuw" xml:space="preserve">{{Resolution
+| Name=PC 1440x900
+| Guid=15
+}}</text>
+      <sha1>79dwn4g89h8k9jaytkriijd4warkcuw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resolutions/PC 1600x1200</title>
+    <ns>0</ns>
+    <id>264544</id>
+    <revision>
+      <id>265003</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>265003</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="45" sha1="bs7vncrfj73udodyu5dd7sa7y5mfkmo" xml:space="preserve">{{Resolution
+| Name=PC 1600x1200
+| Guid=16
+}}</text>
+      <sha1>bs7vncrfj73udodyu5dd7sa7y5mfkmo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resolutions/PC 2560x1440</title>
+    <ns>0</ns>
+    <id>264545</id>
+    <revision>
+      <id>265004</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>265004</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="45" sha1="0oeof071ffn40xbblbk7zq7uiuvl7t8" xml:space="preserve">{{Resolution
+| Name=PC 2560x1440
+| Guid=17
+}}</text>
+      <sha1>0oeof071ffn40xbblbk7zq7uiuvl7t8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resolutions/PC 2560x1600</title>
+    <ns>0</ns>
+    <id>264546</id>
+    <revision>
+      <id>265005</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>265005</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="45" sha1="74r7cogki097u7nb2jmul221zw2duw0" xml:space="preserve">{{Resolution
+| Name=PC 2560x1600
+| Guid=18
+}}</text>
+      <sha1>74r7cogki097u7nb2jmul221zw2duw0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resolutions/PC CGA 320x200</title>
+    <ns>0</ns>
+    <id>264537</id>
+    <revision>
+      <id>264996</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264996</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="46" sha1="ssmupjugyw5xyspaliaew2o3s5gviah" xml:space="preserve">{{Resolution
+| Name=PC CGA 320x200
+| Guid=9
+}}</text>
+      <sha1>ssmupjugyw5xyspaliaew2o3s5gviah</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resolutions/PC EGA 640x350</title>
+    <ns>0</ns>
+    <id>264538</id>
+    <revision>
+      <id>264997</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264997</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="jiwlht2myo5cdhdtakfx4ibn6inf888" xml:space="preserve">{{Resolution
+| Name=PC EGA 640x350
+| Guid=10
+}}</text>
+      <sha1>jiwlht2myo5cdhdtakfx4ibn6inf888</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resolutions/PC SVGA 800x600</title>
+    <ns>0</ns>
+    <id>264541</id>
+    <revision>
+      <id>265000</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>265000</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="48" sha1="7xm09b9c2x71xiu2zdrl0msym1k6q5r" xml:space="preserve">{{Resolution
+| Name=PC SVGA 800x600
+| Guid=13
+}}</text>
+      <sha1>7xm09b9c2x71xiu2zdrl0msym1k6q5r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resolutions/PC VGA 640x480</title>
+    <ns>0</ns>
+    <id>264539</id>
+    <revision>
+      <id>264998</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264998</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="5zanpint0ei019egukwxms63zbd7f2w" xml:space="preserve">{{Resolution
+| Name=PC VGA 640x480
+| Guid=11
+}}</text>
+      <sha1>5zanpint0ei019egukwxms63zbd7f2w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resolutions/PC WVGA 768x480</title>
+    <ns>0</ns>
+    <id>264540</id>
+    <revision>
+      <id>264999</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264999</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="48" sha1="kq37tnqgh1lvsk53db9a0zl42qzcbte" xml:space="preserve">{{Resolution
+| Name=PC WVGA 768x480
+| Guid=12
+}}</text>
+      <sha1>kq37tnqgh1lvsk53db9a0zl42qzcbte</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,4556 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Games/One Piece: Grand Gourmet</title>
+    <ns>0</ns>
+    <id>625026</id>
+    <revision>
+      <id>974871</id>
+      <parentid>974844</parentid>
+      <timestamp>2026-06-09T15:38:25Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974871</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="743" sha1="ihd4qpyoqgplgsa7g5xonvyqtt8kup5" xml:space="preserve">{{Game
+|Guid=828d242a-58b2-4051-b9ce-1ec2657efb00
+|Name=One Piece: Grand Gourmet
+|Image=https://giantbomb.com/api/media/file/media--file--screenshot-2026-06-09-at-11-36-17-am-06-09-2026.png
+|Deck=Over 400 characters from One Piece come together for the biggest restaurant simulator ever.
+|ReleaseDateType=Full
+|ReleaseDate=2026-10-23
+|Concepts=Concepts/Deliberately Retro, Concepts/Licensed Game, Concepts/Digital Distribution, Concepts/2D
+|Developers=Companies/Kairosoft Co LTD
+|Franchises=Franchises/One Piece
+|Genres=Genres/Simulation
+|Platforms=Platforms/Nintendo Switch 2, Platforms/Nintendo Switch, Platforms/PC, Platforms/iPhone, Platforms/iPad, Platforms/Android
+|Publishers=Companies/Bandai Namco Entertainment
+|Themes=Themes/Anime
+}}</text>
+      <sha1>ihd4qpyoqgplgsa7g5xonvyqtt8kup5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/One Piece Grand Battle 2154/Credits</title>
+    <ns>0</ns>
+    <id>464656</id>
+    <revision>
+      <id>743241</id>
+      <timestamp>2026-03-04T20:56:56Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>743241</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5721" sha1="42j6873qs10vrqbs1840wezdygkd3qz" xml:space="preserve">{{Credits
+|ParentPage=Games/One_Piece_Grand_Battle_2154
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Ikue_Ohtani
+|Company=
+|Department=Voice Actor
+|Role=Tony Tony Chopper (Japanese version)
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Hiroaki_Hirata
+|Company=
+|Department=Voice Actor
+|Role=Sanji (Japanese version)
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Jason_Griffith
+|Company=
+|Department=Voice Actor
+|Role=Usopp
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Marc_Thompson
+|Company=
+|Department=Voice Actor
+|Role=Don Krieg
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Yuriko_Yamaguchi
+|Company=
+|Department=Voice Actor
+|Role=Nico Robin (Japanese version)
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Toshiyuki_Morikawa
+|Company=
+|Department=Voice Actor
+|Role=Eneru (Japanese version)
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Takeshi_Aono
+|Company=
+|Department=Voice Actor
+|Role=Dracule Mihawk (Japanese version)
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Takehito_Koyasu
+|Company=
+|Department=Voice Actor
+|Role=Aokiji (Japanese version)
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Shuichi_Ikeda
+|Company=
+|Department=Voice Actor
+|Role=Shanks (Japanese version)
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Shigeru_Chiba
+|Company=
+|Department=Voice Actor
+|Role=Buggy (Japanese version)
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Mayumi_Tanaka
+|Company=
+|Department=Voice Actor
+|Role=Monkey D. Luffy (Japanese version)
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Ryuzaburo_Ohtomo
+|Company=
+|Department=Voice Actor
+|Role=Crocodile (Japanese version)
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Mahito_Oba
+|Company=
+|Department=Voice Actor
+|Role=Smoker (Japanese version)
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Koichi_Hashimoto
+|Company=
+|Department=Voice Actor
+|Role=Klahadore (Kuro) (Japanese version)
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Kazuya_Nakai
+|Company=
+|Department=Voice Actor
+|Role=Roronoa Zoro (Japanese version)
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Kazuki_Yao
+|Company=
+|Department=Voice Actor
+|Role=Bentham (Mr. 2 Bon Clay) (Japanese version)
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Kappei_Yamaguchi
+|Company=
+|Department=Voice Actor
+|Role=Usopp (Japanese version)
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Jurota_Kosugi
+|Company=
+|Department=Voice Actor
+|Role=Arlong
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Lisa_Ortiz
+|Company=
+|Department=Voice Actor
+|Role=Tony Tony Chopper
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Fumihiko_Tachiki
+|Company=
+|Department=Voice Actor
+|Role=Don Krieg (Japanese version)
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Bin_Shimada
+|Company=
+|Department=Voice Actor
+|Role=Foxy (Japanese version)
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Akemi_Okamura
+|Company=
+|Department=Voice Actor
+|Role=Nami (Japanese version)
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Veronica_Taylor
+|Company=
+|Department=Voice Actor
+|Role=Nico Robin
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Tom_Souhrada
+|Company=
+|Department=Voice Actor
+|Role=Shanks
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Marc_Diraison
+|Company=
+|Department=Voice Actor
+|Role=Roronoa Zolo
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Kevin_Kolack
+|Company=
+|Department=Voice Actor
+|Role=Mr. 2 Bon Clay
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Kerry_Williams
+|Company=
+|Department=Voice Actor
+|Role=Nami
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/David_Brimmer
+|Company=
+|Department=Voice Actor
+|Role=Crocodile
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Gary_Mack
+|Company=
+|Department=Voice Actor
+|Role=Kuro
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Bella_Hudson
+|Company=
+|Department=Voice Actor
+|Role=Monkey D. Luffy
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/David_Moo
+|Company=
+|Department=Voice Actor
+|Role=Sanji
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Andrew_Paull
+|Company=
+|Department=Voice Actor
+|Role=Dracule Mihawk
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/David_Wills
+|Company=
+|Department=Voice Actor
+|Role=Arlong/Buggy
+}}
+{{CreditSubobject
+|Game=Games/One_Piece_Grand_Battle_2154
+|Release=
+|Dlc=
+|Person=People/Russell_Velazquez
+|Company=
+|Department=Voice Actor
+|Role=Chaser
+}}
+</text>
+      <sha1>42j6873qs10vrqbs1840wezdygkd3qz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Operation Thunder 35224</title>
+    <ns>0</ns>
+    <id>464952</id>
+    <revision>
+      <id>796894</id>
+      <parentid>749372</parentid>
+      <timestamp>2026-03-12T06:28:30Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796894</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1212" sha1="p5qc9lvm6rbwsyt7ta951kq5iah0ojh" xml:space="preserve">{{Game
+| Name=Operation: Thunder
+| Guid=3030-35224
+| Deck=Operation: Thunder is a pinball machine.
+| ReleaseDate=1992-03-31
+| ReleaseDateType=Month
+| Characters=
+| Concepts=
+| Developers=Companies/Gottlieb
+| Franchises=
+| Genres=Genres/Pinball
+| Locations=
+| Objects=Objects/Drop_Target,Objects/F_15_Strike_Eagle,Objects/Pinball,Objects/Pinball_Flippers
+| Platforms=Platforms/Pinball
+| Publishers=Companies/Gottlieb
+| Games=
+| Themes=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/10/103881/1781555-operation_thunder.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"1781555-operation_thunder.jpg","path":"10\/103881\/","mime":"image\/jpeg","sizes":"square_avatar,scale_small,scale_avatar,scale_medium,screen_medium,scale_large,square_mini,square_tiny,square_medium,square_small,scale_super,scale_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+Operation: Thunder is a [[Platforms/Pinball|pinball machine]] developed and manufactured by [[Companies/Gottlieb|Gottlieb]] in 1992. Operation: Thunder is the last pinball machine made by Gottlieb to use an alphanumeric display. All of the Gottlieb machines produced after Operation: Thunder used a dot-matrix display instead.</text>
+      <sha1>p5qc9lvm6rbwsyt7ta951kq5iah0ojh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Operation Thunder 35224/Credits</title>
+    <ns>0</ns>
+    <id>464953</id>
+    <revision>
+      <id>749373</id>
+      <timestamp>2026-03-04T22:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>749373</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="934" sha1="0v1hcu0ds9ffk61l8qw6t02tykqb830" xml:space="preserve">{{Credits
+|ParentPage=Games/Operation_Thunder_35224
+}}
+{{CreditSubobject
+|Game=Games/Operation_Thunder_35224
+|Release=
+|Dlc=
+|Person=People/Dave_Zabriskie
+|Company=
+|Department=Audio
+|Role=Sound
+}}
+{{CreditSubobject
+|Game=Games/Operation_Thunder_35224
+|Release=
+|Dlc=
+|Person=People/Ray_Tanzer
+|Company=
+|Department=Design
+|Role=Design
+}}
+{{CreditSubobject
+|Game=Games/Operation_Thunder_35224
+|Release=
+|Dlc=
+|Person=People/Jon_Norris
+|Company=
+|Department=Programming
+|Role=Software
+}}
+{{CreditSubobject
+|Game=Games/Operation_Thunder_35224
+|Release=
+|Dlc=
+|Person=People/Constantino_Mitchell
+|Company=
+|Department=Visual Arts
+|Role=Art
+}}
+{{CreditSubobject
+|Game=Games/Operation_Thunder_35224
+|Release=
+|Dlc=
+|Person=People/Bob_Wilson
+|Company=
+|Department=Programming
+|Role=Software
+}}
+{{CreditSubobject
+|Game=Games/Operation_Thunder_35224
+|Release=
+|Dlc=
+|Person=People/Craig_Beierwaltes
+|Company=
+|Department=Audio
+|Role=Sound
+}}
+</text>
+      <sha1>0v1hcu0ds9ffk61l8qw6t02tykqb830</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Opossum Country/Credits</title>
+    <ns>0</ns>
+    <id>250107</id>
+    <revision>
+      <id>250552</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250552</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="483" sha1="ipngum5trtz5idp4hjcw7sg1xhiqtwj" xml:space="preserve">{{Credits
+|ParentPage=Games/Opossum_Country
+}}
+{{CreditSubobject
+|Game=Games/Opossum_Country
+|Release=
+|Dlc=
+|Person=People/Dana_Jennings
+|Company=
+|Department=Unclassified
+|Role=Story  and  Dialog
+}}
+{{CreditSubobject
+|Game=Games/Opossum_Country
+|Release=
+|Dlc=
+|Person=People/Ben_Jelter
+|Company=
+|Department=Design
+|Role=Art  and  Game Design
+}}
+{{CreditSubobject
+|Game=Games/Opossum_Country
+|Release=
+|Dlc=
+|Person=People/Lunchz
+|Company=
+|Department=Unclassified
+|Role=Music
+}}
+</text>
+      <sha1>ipngum5trtz5idp4hjcw7sg1xhiqtwj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Orbital 93990/Credits</title>
+    <ns>0</ns>
+    <id>256014</id>
+    <revision>
+      <id>256469</id>
+      <timestamp>2025-12-08T07:32:24Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>256469</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2649" sha1="6phg70ccoovvezi83pt08d3sv9tsmxe" xml:space="preserve">{{Credits
+|ParentPage=Games/Orbital_93990
+}}
+{{CreditSubobject
+|Game=Games/Orbital_93990
+|Release=
+|Dlc=
+|Person=People/Clint_Levijoki
+|Company=
+|Department=Unclassified
+|Role=Programming and Art
+}}
+{{CreditSubobject
+|Game=Games/Orbital_93990
+|Release=
+|Dlc=
+|Person=People/Israel_Evans
+|Company=
+|Department=Unclassified
+|Role=Art and Animation
+}}
+{{CreditSubobject
+|Game=Games/Orbital_93990
+|Release=
+|Dlc=
+|Person=People/Daniel_Bernstein
+|Company=
+|Department=Unclassified
+|Role=Music and Sound
+}}
+{{CreditSubobject
+|Game=Games/Orbital_93990
+|Release=
+|Dlc=
+|Person=People/David_Schwartz
+|Company=
+|Department=Unclassified
+|Role=VP of Development
+}}
+{{CreditSubobject
+|Game=Games/Orbital_93990
+|Release=
+|Dlc=
+|Person=People/David_Selle
+|Company=
+|Department=Unclassified
+|Role=Senior Producer
+}}
+{{CreditSubobject
+|Game=Games/Orbital_93990
+|Release=
+|Dlc=
+|Person=People/Bill_Beach
+|Company=
+|Department=Unclassified
+|Role=QA Manager
+}}
+{{CreditSubobject
+|Game=Games/Orbital_93990
+|Release=
+|Dlc=
+|Person=People/Susi_Kalles
+|Company=
+|Department=Unclassified
+|Role=QA Testing
+}}
+{{CreditSubobject
+|Game=Games/Orbital_93990
+|Release=
+|Dlc=
+|Person=People/Keith_Souhrada
+|Company=
+|Department=Unclassified
+|Role=QA Testing
+}}
+{{CreditSubobject
+|Game=Games/Orbital_93990
+|Release=
+|Dlc=
+|Person=People/Brishan_Merrill_Brown
+|Company=
+|Department=Unclassified
+|Role=QA Testing
+}}
+{{CreditSubobject
+|Game=Games/Orbital_93990
+|Release=
+|Dlc=
+|Person=People/Marcus_King
+|Company=
+|Department=Unclassified
+|Role=QA Testing
+}}
+{{CreditSubobject
+|Game=Games/Orbital_93990
+|Release=
+|Dlc=
+|Person=People/Rodd_Karp
+|Company=
+|Department=Unclassified
+|Role=QA Testing
+}}
+{{CreditSubobject
+|Game=Games/Orbital_93990
+|Release=
+|Dlc=
+|Person=People/Bill_Dennes
+|Company=
+|Department=Unclassified
+|Role=QA Testing
+}}
+{{CreditSubobject
+|Game=Games/Orbital_93990
+|Release=
+|Dlc=
+|Person=People/Deon_Miyoi
+|Company=
+|Department=Unclassified
+|Role=QA Testing
+}}
+{{CreditSubobject
+|Game=Games/Orbital_93990
+|Release=
+|Dlc=
+|Person=People/Joe_Melin
+|Company=
+|Department=Unclassified
+|Role=QA Testing
+}}
+{{CreditSubobject
+|Game=Games/Orbital_93990
+|Release=
+|Dlc=
+|Person=People/John_Dunbar
+|Company=
+|Department=Unclassified
+|Role=QA Testing
+}}
+{{CreditSubobject
+|Game=Games/Orbital_93990
+|Release=
+|Dlc=
+|Person=People/Webster_Qi
+|Company=
+|Department=Unclassified
+|Role=Programming
+}}
+{{CreditSubobject
+|Game=Games/Orbital_93990
+|Release=
+|Dlc=
+|Person=People/China_Zuo
+|Company=
+|Department=Unclassified
+|Role=Programming
+}}
+{{CreditSubobject
+|Game=Games/Orbital_93990
+|Release=
+|Dlc=
+|Person=People/Jack_Xu
+|Company=
+|Department=Unclassified
+|Role=Programming
+}}
+</text>
+      <sha1>6phg70ccoovvezi83pt08d3sv9tsmxe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Orbitals</title>
+    <ns>0</ns>
+    <id>625025</id>
+    <revision>
+      <id>974870</id>
+      <parentid>974869</parentid>
+      <timestamp>2026-06-09T15:34:05Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974870</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="470" sha1="so16byp8bygii78o37grv6aq3g5kjty" xml:space="preserve">{{Game
+|Guid=67f6ea7a-0b3e-4970-97e2-abf9ebdceda0
+|Name=Orbitals
+|Image=https://giantbomb.com/api/media/file/media--file--1196743_front-06-09-2026.jpg
+|Deck=A cooperative action adventure full of puzzles set in a 1980s-style anime.
+|ReleaseDateType=Full
+|ReleaseDate=2026-09-03
+|Concepts=Concepts/Digital Distribution, Concepts/Cooperative Play
+|Genres=Genres/Action
+|Platforms=Platforms/Nintendo Switch 2
+|Publishers=Companies/Kepler Interactive
+|Themes=Themes/Anime
+}}</text>
+      <sha1>so16byp8bygii78o37grv6aq3g5kjty</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Ornélia</title>
+    <ns>0</ns>
+    <id>624551</id>
+    <revision>
+      <id>974926</id>
+      <parentid>973985</parentid>
+      <timestamp>2026-06-09T22:44:50Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974926</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="604" sha1="sw6i30s9brqgs9oea0c1j83pvoi9ul2" xml:space="preserve">{{Game
+|Guid=c9f1d796-0476-4c00-8ee9-97436a5c380a
+|Name=Ornélia
+|Image=https://giantbomb.com/api/media/file/media--file--ornelia-1780524300385-06-09-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--ss_ad4586ded28a286cca1ac5fcdef92b1dd0026b59-1920x1080-06-09-2026.jpg
+|Deck=A cozy god game and village simulator.
+|ReleaseDateType=Full
+|Concepts=Concepts/Dolby Digital, Concepts/Steam, Concepts/Polygonal 3D
+|Developers=Companies/Gameleon Studio
+|Genres=Genres/Simulation
+|Platforms=Platforms/PC
+|Publishers=Companies/Gameleon Studio
+|Themes=Themes/Fantasy, Themes/Management
+}}</text>
+      <sha1>sw6i30s9brqgs9oea0c1j83pvoi9ul2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Othello 1984/Credits</title>
+    <ns>0</ns>
+    <id>254469</id>
+    <revision>
+      <id>254921</id>
+      <timestamp>2025-12-08T07:32:20Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254921</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="176" sha1="1yb76727lwvwjbczu4ojtnu7b5kt29o" xml:space="preserve">{{Credits
+|ParentPage=Games/Othello_1984
+}}
+{{CreditSubobject
+|Game=Games/Othello_1984
+|Release=
+|Dlc=
+|Person=People/Susumu_Koyama
+|Company=
+|Department=Programming
+|Role=
+}}
+</text>
+      <sha1>1yb76727lwvwjbczu4ojtnu7b5kt29o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Othello 6030/Credits</title>
+    <ns>0</ns>
+    <id>464729</id>
+    <revision>
+      <id>744092</id>
+      <timestamp>2026-03-04T21:09:57Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>744092</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="176" sha1="j6hqs64w6zd6tz4m8mdarqt0nrwuxjv" xml:space="preserve">{{Credits
+|ParentPage=Games/Othello_6030
+}}
+{{CreditSubobject
+|Game=Games/Othello_6030
+|Release=
+|Dlc=
+|Person=People/Satoru_Iwata
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>j6hqs64w6zd6tz4m8mdarqt0nrwuxjv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Otterly Lost</title>
+    <ns>0</ns>
+    <id>624856</id>
+    <revision>
+      <id>975120</id>
+      <parentid>974593</parentid>
+      <timestamp>2026-06-16T22:32:23Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975120</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="730" sha1="24zlc8jijt8epvhot3iv06vsd2kqqmd" xml:space="preserve">{{Game
+|Guid=6fb93955-18f5-4eb3-bc1a-53c952439b42
+|Name=Otterly Lost
+|Image=https://giantbomb.com/api/media/file/media--file--otterly-lost-06-16-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--otterly-lostb-06-16-2026.jpg
+|Deck=A narrative adventure about an otter finding its way home.
+|ReleaseDateType=Month
+|MonthPart=September
+|MonthYearPart=2026
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Otters, Concepts/Underwater Gameplay, Concepts/Swimming, Concepts/Polygonal 3D, Concepts/Open World, Concepts/Animal Protagonists
+|Developers=Companies/Soulworks Interactive
+|Genres=Genres/Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/Soulworks Interactive
+}}</text>
+      <sha1>24zlc8jijt8epvhot3iv06vsd2kqqmd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Out Fishing</title>
+    <ns>0</ns>
+    <id>624611</id>
+    <revision>
+      <id>974132</id>
+      <parentid>974131</parentid>
+      <timestamp>2026-06-02T10:12:11Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974132</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="477" sha1="tfrz7m5ddxnsmjsy798z0k8chvq2t5m" xml:space="preserve">{{Game
+|Guid=7a3dd2f0-8743-4e34-b8ca-bdc91b26ec97
+|Name=Out Fishing
+|Image=OutFishing.jpg
+|BackgroundImage=Out Fishing2.jpg
+|Deck=A first-person fishing game with a horror twist.
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/Polygonal 3D, Concepts/First Person Perspective, Concepts/Fishing, Concepts/Steam
+|Developers=Companies/Mūn Mūn Games
+|Genres=Genres/Fishing
+|Platforms=Platforms/PC
+|Publishers=Companies/UNIKAT Label
+|Themes=Themes/Horror
+}}</text>
+      <sha1>tfrz7m5ddxnsmjsy798z0k8chvq2t5m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Outbound</title>
+    <ns>0</ns>
+    <id>624906</id>
+    <revision>
+      <id>975257</id>
+      <parentid>975255</parentid>
+      <timestamp>2026-06-27T23:42:03Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975257</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="813" sha1="pmp6lc83bp8r61r9uw0pp5w8g5ao3ss" xml:space="preserve">{{Game
+|Guid=d26f7273-46e1-4afe-ada4-5f4766b595e1
+|Name=Outbound
+|Image=https://giantbomb.com/api/media/file/media--file--outbound-06-27-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--outboundb-06-27-2026.jpg
+|Deck=A cozy settlement simulator centered around having the best camper van.
+|ReleaseDateType=Full
+|ReleaseDate=2026-05-11
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Polygonal 3D, Concepts/Farming, Concepts/Crafting, Concepts/Fishing, Concepts/Exploration, Concepts/Base Building, Concepts/Cooperative Play, Concepts/Online, Concepts/Steam Achievements, Concepts/Steam Cloud
+|Developers=Companies/Square Glade Games
+|Genres=Genres/Simulation
+|Platforms=Platforms/PC
+|Publishers=Companies/Square Glade Games
+|Themes=Themes/Management
+}}</text>
+      <sha1>pmp6lc83bp8r61r9uw0pp5w8g5ao3ss</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Overhours</title>
+    <ns>0</ns>
+    <id>624831</id>
+    <revision>
+      <id>975059</id>
+      <parentid>974566</parentid>
+      <timestamp>2026-06-15T00:28:23Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975059</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="699" sha1="1ucc1xsfasnano51nq1mh53h466jio6" xml:space="preserve">{{Game
+|Guid=af7cad27-6c6a-47c5-ba86-1b88c7365465
+|Name=Overhours
+|Image=https://giantbomb.com/api/media/file/media--file--overhours-06-15-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--overhoursb-06-15-2026.jpg
+|Deck=Working the graveyard shift in this action tower defense game.
+|ReleaseDateType=Quarter
+|QuarterPart=Q4
+|QuarterYearPart=2026
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Tower Defense, Concepts/Isometric Viewpoint, Concepts/2D, Concepts/Female Protagonists, Concepts/Steam
+|Developers=Companies/CtrlD Studio
+|Genres=Genres/Action, Genres/Strategy
+|Platforms=Platforms/PC
+|Publishers=Companies/CtrlD Studio
+|Themes=Themes/Sci Fi
+}}</text>
+      <sha1>1ucc1xsfasnano51nq1mh53h466jio6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Overscore/Credits</title>
+    <ns>0</ns>
+    <id>255156</id>
+    <revision>
+      <id>255609</id>
+      <timestamp>2025-12-08T07:32:22Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>255609</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="176" sha1="nwf6p5layylalnpg4p3f9zxvsx9luak" xml:space="preserve">{{Credits
+|ParentPage=Games/Overscore
+}}
+{{CreditSubobject
+|Game=Games/Overscore
+|Release=
+|Dlc=
+|Person=People/Victor_van_Schagen
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>nwf6p5layylalnpg4p3f9zxvsx9luak</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/P.O.N.</title>
+    <ns>0</ns>
+    <id>624803</id>
+    <revision>
+      <id>974936</id>
+      <parentid>974933</parentid>
+      <timestamp>2026-06-10T00:33:47Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974936</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="569" sha1="g5xym4w8omc6zgnbngbg0o4oyd0e4d8" xml:space="preserve">{{Game
+|Guid=fc7246c9-da9c-4192-9718-c4d2830374d8
+|Name=P.O.N.
+|Image=https://giantbomb.com/api/media/file/media--file--gkgjhkfuykfyusaa-06-10-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--httkulig-06-10-2026.jpg
+|Deck=Players work cooperatively as basic thugs being hunted by a superhero.
+|ReleaseDateType=None
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam
+|Developers=Companies/Team VAC
+|Genres=Genres/Action
+|Platforms=Platforms/PC
+|Publishers=Companies/Spaghetti Cat
+|Themes=Themes/Horror, Themes/Superhero
+}}</text>
+      <sha1>g5xym4w8omc6zgnbngbg0o4oyd0e4d8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/PAW Patrol Grand Prix/Credits</title>
+    <ns>0</ns>
+    <id>250134</id>
+    <revision>
+      <id>250579</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250579</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="12305" sha1="0aacskhfl5o85nfbj206hh31i669h2o" xml:space="preserve">{{Credits
+|ParentPage=Games/PAW_Patrol_Grand_Prix
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Bentley_Griffin
+|Company=
+|Department=Voice Actor
+|Role=Ryder
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Olivia_Washington
+|Company=
+|Department=Voice Actor
+|Role=Mayor Goodway
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Justin_Badger
+|Company=
+|Department=Voice Actor
+|Role=Mayor Humdinger
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Grace_DeAmicis
+|Company=
+|Department=Voice Actor
+|Role=Skye
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/David_Mattle
+|Company=
+|Department=Voice Actor
+|Role=Tracker
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Roman_Engel
+|Company=
+|Department=Voice Actor
+|Role=Chase
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Jack_Stanton
+|Company=
+|Department=Voice Actor
+|Role=Marshall
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Brody_Bett
+|Company=
+|Department=Voice Actor
+|Role=Rocky
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Zachary_Golinger
+|Company=
+|Department=Voice Actor
+|Role=Rex
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Archer_Vattano
+|Company=
+|Department=Voice Actor
+|Role=Zuma
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Gabriele_Blum
+|Company=
+|Department=Voice Actor
+|Role=Everest
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Jordan_Coastes
+|Company=
+|Department=Voice Actor
+|Role=Rubble
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Lorenzo_Crisci
+|Company=
+|Department=Voice Actor
+|Role=Ryder (Italian)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Jaime_Johnson
+|Company=
+|Department=Audio
+|Role=Voice Director (English)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Valentina_Pallavicino
+|Company=
+|Department=Voice Actor
+|Role=Rocky (Italian)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Ilaria_Latini
+|Company=
+|Department=Voice Actor
+|Role=Tracker (Italian)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Veronica_Cuscusa
+|Company=
+|Department=Voice Actor
+|Role=Zuma (Italian)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Veronica_Puccio
+|Company=
+|Department=Voice Actor
+|Role=Everest (Italian)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Maurizio_Fiorentini
+|Company=
+|Department=Voice Actor
+|Role=Mayor Humdinger (Italian)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Valeria_Perilli
+|Company=
+|Department=Voice Actor
+|Role=Mayor Goodway (Italian)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Barbara_Villa
+|Company=
+|Department=Voice Actor
+|Role=Chase (Italian)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Cristina_Garosi
+|Company=
+|Department=Voice Actor
+|Role=Marshall (Italian)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Paola_Majano
+|Company=
+|Department=Voice Actor
+|Role=Rex (Italian)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Emanuela_Damasio
+|Company=
+|Department=Voice Actor
+|Role=Rubble (Italian)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Katharina_von_Keller
+|Company=
+|Department=Voice Actor
+|Role=Skye (German)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Nils_Rieke
+|Company=
+|Department=Voice Actor
+|Role=Rocky (German)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Julia_Folster
+|Company=
+|Department=Voice Actor
+|Role=Zuma (German)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Liza_Ohm
+|Company=
+|Department=Unclassified
+|Role=Everest (German)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Julian_Henneberg
+|Company=
+|Department=Voice Actor
+|Role=Ryder (German)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Tina_Eschmann
+|Company=
+|Department=Voice Actor
+|Role=Mayor Goodway (German)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Sven_Dahlem
+|Company=
+|Department=Voice Actor
+|Role=Mayor Humdinger (German)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Robert_Knorr
+|Company=
+|Department=Voice Actor
+|Role=Tracker (German)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Flemming_Stein
+|Company=
+|Department=Voice Actor
+|Role=Chase (German)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Arlette_Stanschus
+|Company=
+|Department=Voice Actor
+|Role=Marshall (German)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Daniel_Axt
+|Company=
+|Department=Voice Actor
+|Role=Rex (German)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Ivo_Moller
+|Company=
+|Department=Voice Actor
+|Role=Rubble (German)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Megumi_Han
+|Company=
+|Department=Voice Actor
+|Role=Ryder (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Masako_Katsuki
+|Company=
+|Department=Voice Actor
+|Role=Mayor Goodway (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Ken_Uo
+|Company=
+|Department=Voice Actor
+|Role=Mayor Humdinger (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Shiori_Izawa
+|Company=
+|Department=Voice Actor
+|Role=Skye (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Sachi_Matsumoto
+|Company=
+|Department=Voice Actor
+|Role=Tracker (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Shizuka_Ishigami
+|Company=
+|Department=Voice Actor
+|Role=Chase (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Makoto_Koichi
+|Company=
+|Department=Voice Actor
+|Role=Marshall (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Miyuki_Kobori
+|Company=
+|Department=Voice Actor
+|Role=Rocky (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Akari_Iryo
+|Company=
+|Department=Voice Actor
+|Role=Rex (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Sayuri_Yahagi
+|Company=
+|Department=Voice Actor
+|Role=Zuma (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Haruka_Sugita
+|Company=
+|Department=Voice Actor
+|Role=Everest (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Satsumi_Matsuda
+|Company=
+|Department=Voice Actor
+|Role=Rubble (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Lewis_Crabb_La_Hei
+|Company=
+|Department=Voice Actor
+|Role=Ryder (UK)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Mike_Gross
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Niki_Felstead
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Holly_Thomas
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Jacob_Farr
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Matthew_Campbell_192548
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Alfie_Elliott
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Courage_Clutterbuck
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Ollie_Evans
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Lois_Craig
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Piers_Gardner
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Miriam_Valencia
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Mariano_Garcia_Espada
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Blanca_Rada
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Miguel_Angel_Perez
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Maria_Sanchez
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Maria_Blanco
+|Company=
+|Department=Voice Actor
+|Role=Tracker (Castilian Spanish)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Diana_Torres
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Patricia_Rada
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Marta_Almazan
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Carol_Tak
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Jerome_Soufflet
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Quentin_Thebault
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Violaine_Fumeau
+|Company=
+|Department=Voice Actor
+|Role=Mayor Goodway (French)
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Maryne_Bertieaux
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Alicia_Fleury
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Gwenaelle_Jegou
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Nadine_Girard
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Nelly_Rebibo
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Perrine_Megret
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Lou_Vigueir
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Eloise_Berou
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/PAW_Patrol_Grand_Prix
+|Release=
+|Dlc=
+|Person=People/Natalia_Pujszo
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>0aacskhfl5o85nfbj206hh31i669h2o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Pac Man Museum 43368</title>
+    <ns>0</ns>
+    <id>464976</id>
+    <revision>
+      <id>796904</id>
+      <parentid>750345</parentid>
+      <timestamp>2026-03-12T06:28:38Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796904</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4122" sha1="m1zb2s57wjutmtypampw0wjlngwt1oz" xml:space="preserve">{{Game
+| Name=Pac-Man Museum
+| Guid=3030-43368
+| Deck=Pac-Man Museum is a digital compilation of many traditional Pac-Man titles, from his "humble beginnings" to later entries like Pac-Man Battle Royale.
+| ReleaseDate=2014-02-25
+| Characters=Characters/Blinky,Characters/Clyde,Characters/Cylindria,Characters/Funky,Characters/Inky,Characters/Miru,Characters/Ms_Pac_Man,Characters/Pac_Man,Characters/Pac_Man_Jr,Characters/Pinky,Characters/Spiral_27456,Characters/Spunky_32207,Characters/Sue_4073
+| Concepts=Concepts/Canceled_Ports,Concepts/Day_One_DLC,Concepts/Digital_Distribution,Concepts/Downloadable_Content,Concepts/E3_2013,Concepts/Eating,Concepts/Ghost,Concepts/Leaderboard,Concepts/Maze,Concepts/Power_Up,Concepts/Spherical_Protagonist,Concepts/Titular_Protagonist,Concepts/Xbox_Game_Pass,Concepts/Xbox_One_Backwards_Compatibility
+| Developers=Companies/Mineloader_Software_Co_Ltd,Companies/Namco
+| Franchises=Franchises/Namco_Museum,Franchises/Pac_Man
+| Genres=Genres/Compilation
+| Locations=Locations/Pac_Land
+| Objects=Objects/Apple,Objects/Bell,Objects/Cherry,Objects/Dot,Objects/Fruit,Objects/Galaxian_Flagship,Objects/Key,Objects/Melon,Objects/Orange,Objects/Power_Pellet,Objects/Pretzel,Objects/Race_Car,Objects/Strawberry,Objects/Trumpet
+| Platforms=Platforms/PC,Platforms/PlayStation_Network_PS3,Platforms/Xbox_360_Games_Store
+| Publishers=Companies/Bandai_Namco_Entertainment
+| Games=Games/Atari_Vault,Games/Mega_Man_Anniversary_Collection,Games/PacMax_Classics,Games/Sonics_Ultimate_Genesis_Collection,Games/Super_Mario_All_Stars
+| Themes=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/87790/2604871-box_pmm.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2604871-box_pmm.png","path":"8\/87790\/","mime":"image\/png","sizes":"square_tiny,square_medium,scale_tiny,square_mini,square_small,scale_avatar,square_avatar,scale_medium,screen_medium,scale_large,scale_small,scale_super,screen_kubrick","caption":null},"background":[]}' /&gt;
+
+==Overview==
+Pac-Man Museum is a game compilation developed and digitally published by [[Companies/Bandai_Namco_Entertainment|Bandai Namco Games]] for the [[Platforms/Xbox_360|Xbox 360]], [[Platforms/PlayStation_3|PlayStation 3]], and [[Platforms/PC|PC]] on February 25, 2014, with the Japanese 360/PS3 versions delayed on June 25, 2014. It was later [[Concepts/Removed_from_XBLA|delisted]] on July 20, 2020, with an [[Games/Pac_Man_Museum|enhanced version]] released in 2022.
+
+It includes 10 games from the [[Franchises/Pac_Man|Pac-Man]] series, as well as a bonus award system called the "Stampbook" that can be used to unlock bonus figurines (most of which are from the 2013 cartoon series [https://en.wikipedia.org/wiki/Pac-Man_and_the_Ghostly_Adventures Pac-Man and the Ghostly Adventures]) for the main menu "Pac-Room".
+
+The game was announced to be released on the [[Platforms/Wii_U|Wii U]] and [[Platforms/Nintendo_3DS|Nintendo 3DS]], but was cancelled.
+
+
+==Game List==
+* [https://www.giantbomb.com/pac-man/3030-7624 Pac-Man] (arcade, 1980)
+* [[Games/Ms_Pac_Man|Ms. Pac-Man]] (arcade, 1982) - Offered as free [[Concepts/Downloadable_Content|DLC]] prior to March 31, 2014, changed to $4.99 afterwards.
+* [https://www.giantbomb.com/super-pac-man/3030-1559 Super Pac-Man] (arcade, 1982)
+* [https://www.giantbomb.com/pac-pal/3030-23313 Pac &amp;amp;amp; Pal] (arcade, 1983)
+* [https://www.giantbomb.com/pac-land/3030-8575 Pac-Land] (arcade, 1984)
+* [https://www.giantbomb.com/pac-mania/3030-861 Pac-Mania] (arcade, 1987)
+* [https://www.giantbomb.com/pac-attack/3030-13943 Pac-Attack] (Genesis, 1993)
+* [https://www.giantbomb.com/namco-museum-battle-collection/3030-31470 Pac-Man Arrangement] (PSP, 2005)
+* [https://www.giantbomb.com/pac-man-championship-edition/3030-19552 Pac-Man Championship Edition] (Xbox 360, 2007)
+* [https://www.giantbomb.com/pac-man-battle-royale/3030-32149 Pac-Man Battle Royale] (arcade, 2011)
+
+==Trivia==
+* Pac-Man Championship Edition was originally not going to be included in the PS3 and 360 versions of the game. Along with the cancellation of the WiiU and 3DS versions, the title was instead included in all versions.</text>
+      <sha1>m1zb2s57wjutmtypampw0wjlngwt1oz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Pac Man Museum 43368/Credits</title>
+    <ns>0</ns>
+    <id>464977</id>
+    <revision>
+      <id>750346</id>
+      <timestamp>2026-03-04T22:44:58Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>750346</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32441" sha1="s2ocsk9csclz6zq5d4754lbfojrapv4" xml:space="preserve">{{Credits
+|ParentPage=Games/Pac_Man_Museum_43368
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Kunihisa_Yagishita
+|Company=
+|Department=Production
+|Role=Executive Producer | NAMCO BANDAI Games Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Kunito_Momori
+|Company=
+|Department=Production
+|Role=Producer | NAMCO BANDAI Games Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Erica_Haga
+|Company=
+|Department=Business
+|Role=PAC-MAN IP Marketing Team | NAMCO BANDAI Games Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Tomoko_Yamamoto
+|Company=
+|Department=Business
+|Role=PAC-MAN IP Marketing Team | NAMCO BANDAI Games Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Rie_Nishimura
+|Company=
+|Department=Business
+|Role=PAC-MAN IP Marketing Team | NAMCO BANDAI Games Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Ryo_Tanaka_137303
+|Company=
+|Department=Quality Assurance
+|Role=Quality Assurance | NAMCO BANDAI Games Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Yohta_Fukuda
+|Company=
+|Department=Quality Assurance
+|Role=Quality Assurance | NAMCO BANDAI Games Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Masahito_Kikuta
+|Company=
+|Department=Quality Assurance
+|Role=Quality Assurance | NAMCO BANDAI Games Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Ryuta_Sano
+|Company=
+|Department=Quality Assurance
+|Role=Quality Assurance | NAMCO BANDAI Games Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Jun_Yoshikawa
+|Company=
+|Department=Quality Assurance
+|Role=Quality Assurance | NAMCO BANDAI Games Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Ahn_Youngmi
+|Company=
+|Department=Thanks
+|Role=Special Thanks | NAMCO BANDAI Games Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Junichiro_Hosokawa
+|Company=
+|Department=Production
+|Role=Producer | NAMCO BANDAI Studios Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Shinichiro_Okamoto
+|Company=
+|Department=Business
+|Role=Director | NAMCO BANDAI Studios Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Tomoko_Iura
+|Company=
+|Department=Business
+|Role=Director | NAMCO BANDAI Studios Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Midori_Takahashi
+|Company=
+|Department=Business
+|Role=Director | NAMCO BANDAI Studios Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Shinji_Nagatani
+|Company=
+|Department=Visual Arts
+|Role=Art Direction / Visual Designer | NAMCO BANDAI Studios Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Masaki_Iwabuchi
+|Company=
+|Department=Programming
+|Role=Programmer | NAMCO BANDAI Studios Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Tsuyoshi_Nakazawa
+|Company=
+|Department=Programming
+|Role=Programmer | NAMCO BANDAI Studios Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Kazumasa_Koseki
+|Company=
+|Department=Programming
+|Role=Programmer | NAMCO BANDAI Studios Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Hideyuki_Fujiwara
+|Company=
+|Department=Programming
+|Role=Programmer | NAMCO BANDAI Studios Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Motonaga_Ishii
+|Company=
+|Department=Programming
+|Role=Programmer | NAMCO BANDAI Studios Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Katsurou_Tajima
+|Company=
+|Department=Audio
+|Role=Sound Designer | NAMCO BANDAI Studios Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Jeremy_Clark
+|Company=
+|Department=Production
+|Role=Lead Localization Producer | NAMCO BANDAI Studios Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Shintaro_Noda
+|Company=
+|Department=Production
+|Role=Assistant Localization Producer | NAMCO BANDAI Studios Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Masanori_Kato
+|Company=
+|Department=Production
+|Role=Supervisor | NAMCO BANDAI Studios Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Tsuyoshi_Kobayashi
+|Company=
+|Department=Production
+|Role=Supervisor | NAMCO BANDAI Studios Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Tohru_Takahashi
+|Company=
+|Department=Production
+|Role=Supervisor | NAMCO BANDAI Studios Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Makoto_Ando
+|Company=
+|Department=Production
+|Role=Supervisor | NAMCO BANDAI Studios Inc.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Mark_Tsuji
+|Company=
+|Department=Business
+|Role=President / CEO | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Nobuhiro_Kasahara
+|Company=
+|Department=Business
+|Role=Executive VP / COO | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Shuji_Nakata
+|Company=
+|Department=Business
+|Role=Executive VP / CFO | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Tad_Hirabayashi
+|Company=
+|Department=Business
+|Role=Director of Production Services, QA | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Ryota_Toyama
+|Company=
+|Department=Business
+|Role=Senior Manager, Localization | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Ted_Tsung
+|Company=
+|Department=Production
+|Role=Localization Producer / Outsource Lead | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Yoshi_Niki
+|Company=
+|Department=Business
+|Role=VP, Publishing and IP Strategy | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Taka_Akiyama
+|Company=
+|Department=Business
+|Role=Director of IP Strategy | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Chris_Gilbert
+|Company=
+|Department=Business
+|Role=Senior Vice President of Sales and Marketing | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Terry_Carlson
+|Company=
+|Department=Business
+|Role=Sr. Sales Operations Manager | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Michi_Wang
+|Company=
+|Department=Business
+|Role=Director, Marketing Services and Branding | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Dennis_Lee
+|Company=
+|Department=Business
+|Role=Director of Brand Marketing and Marcom | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Wyman_Jung
+|Company=
+|Department=Business
+|Role=Associate Brand Manager | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Denny_Chiu
+|Company=
+|Department=Business
+|Role=Senior Manager, Marketing Communications | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Nick_OLeary
+|Company=
+|Department=Business
+|Role=Senior Public Relations Specialist | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Grace_Liu
+|Company=
+|Department=Business
+|Role=Associate PR Specialist | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Damon_Bernal
+|Company=
+|Department=Quality Assurance
+|Role=QA Manager | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/David_Moya
+|Company=
+|Department=Quality Assurance
+|Role=CQC Supervisor | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Jesse_Mejia
+|Company=
+|Department=Production
+|Role=Project Coordinator | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Y_Pham
+|Company=
+|Department=Quality Assurance
+|Role=QA Lead | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Victor_Del_Rosario
+|Company=
+|Department=Quality Assurance
+|Role=CQC Analyst | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/David_Humbert
+|Company=
+|Department=Quality Assurance
+|Role=CQC Analyst | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Alisa_Lin
+|Company=
+|Department=Quality Assurance
+|Role=CQC Tester | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Micah_Geary
+|Company=
+|Department=Quality Assurance
+|Role=CQC Tester | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Kevin_Chen
+|Company=
+|Department=Quality Assurance
+|Role=CQC Tester | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Eric_Sawi
+|Company=
+|Department=Quality Assurance
+|Role=CQC Tester | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Matt_Warner
+|Company=
+|Department=Quality Assurance
+|Role=CQC Tester | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Richard_Navarro
+|Company=
+|Department=Quality Assurance
+|Role=CQC Tester | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Kimo_Pamintuan
+|Company=
+|Department=Quality Assurance
+|Role=CQC Tester | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Veronica_Canalez
+|Company=
+|Department=Quality Assurance
+|Role=CQC Tester | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Anthony_Tran
+|Company=
+|Department=Quality Assurance
+|Role=CQC Tester | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Gabriel_Barrera
+|Company=
+|Department=Quality Assurance
+|Role=CQC Tester | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Enrique_Jacob
+|Company=
+|Department=Quality Assurance
+|Role=CQC Tester | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Charles_Calland
+|Company=
+|Department=Quality Assurance
+|Role=CQC Tester | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Johnny_Moya
+|Company=
+|Department=Quality Assurance
+|Role=CQC Tester | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Jesus_Barragan
+|Company=
+|Department=Business
+|Role=Customer Support Manager | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Takumi_Kobayashi
+|Company=
+|Department=Business
+|Role=Customer Support Representative | NAMCO BANDAI Games America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Jordan_Overmyer
+|Company=
+|Department=Quality Assurance
+|Role=QA Test Lead | Pole To Win America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Alexx_Bond
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester | Pole To Win America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Jeremy_Duke
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester | Pole To Win America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Mario_Ferrini
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester | Pole To Win America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Andrew_Heinen
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester | Pole To Win America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Cassandra_Johnson
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester | Pole To Win America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Blake_McLemore
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester | Pole To Win America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Josh_Meyre
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester | Pole To Win America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Richard_Moss
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester | Pole To Win America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Olwen_Robinson
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester | Pole To Win America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Trevor_Shephard
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester | Pole To Win America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Stephen_Torick
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester | Pole To Win America
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Naoki_Katashima
+|Company=
+|Department=Business
+|Role=President and CEO | NAMCO BANDAI Games Europe, S.A.S.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Kevin_Yanagihara
+|Company=
+|Department=Business
+|Role=Senior VP | NAMCO BANDAI Games Europe, S.A.S.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Hiroaki_Ochiai
+|Company=
+|Department=Business
+|Role=VP, Sales and Marketing | NAMCO BANDAI Games Europe, S.A.S.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Tatsuya_Kubota
+|Company=
+|Department=Business
+|Role=Director, Sales and Marketing | NAMCO BANDAI Games Europe, S.A.S.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Samuel_Gatte
+|Company=
+|Department=Business
+|Role=Publishing and Product Support Director | NAMCO BANDAI Games Europe, S.A.S.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Ai_Lich_Nguyen
+|Company=
+|Department=Production
+|Role=Senior Producer | NAMCO BANDAI Games Europe, S.A.S.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Benjamin_Prenom
+|Company=
+|Department=Production
+|Role=Associate Producer | NAMCO BANDAI Games Europe, S.A.S.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Franck_Genty
+|Company=
+|Department=Production
+|Role=Localization Manager | NAMCO BANDAI Games Europe, S.A.S.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Manuela_Riboldi
+|Company=
+|Department=Production
+|Role=Localization Project Manager | NAMCO BANDAI Games Europe, S.A.S.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Olivier_Robin
+|Company=
+|Department=Quality Assurance
+|Role=Quality Control Manager | NAMCO BANDAI Games Europe, S.A.S.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Aurelie_Baudy
+|Company=
+|Department=Quality Assurance
+|Role=Quality Control Project Manager | NAMCO BANDAI Games Europe, S.A.S.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Claire_McGowan
+|Company=
+|Department=Production
+|Role=Certification Project Manager | NAMCO BANDAI Games Europe, S.A.S.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Eri_Omori
+|Company=
+|Department=Production
+|Role=Junior Certification Project Manager | NAMCO BANDAI Games Europe, S.A.S.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Thomas_Boissier
+|Company=
+|Department=Production
+|Role=Junior Certification Project Manager | NAMCO BANDAI Games Europe, S.A.S.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Heloise_Ribeaucourt
+|Company=
+|Department=Business
+|Role=PR Specialist | NAMCO BANDAI Games Europe, S.A.S.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Arnaud_Staebler
+|Company=
+|Department=Business
+|Role=Brand Manager | NAMCO BANDAI Games Europe, S.A.S.
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Liam_Ross
+|Company=
+|Department=Business
+|Role=Project Manager | Pole To Win - Glasgow Studio
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Steven_Sutherland
+|Company=
+|Department=Quality Assurance
+|Role=Test Lead | Pole To Win - Glasgow Studio
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Aloys_Vadon
+|Company=
+|Department=Quality Assurance
+|Role=Test Lead | Pole To Win - Glasgow Studio
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Monica_Zamboni
+|Company=
+|Department=Quality Assurance
+|Role=Test Lead | Pole To Win - Glasgow Studio
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Alex_Lorente_Rivera
+|Company=
+|Department=Quality Assurance
+|Role=Tester | Pole To Win - Glasgow Studio
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Amandine_Fernandes
+|Company=
+|Department=Quality Assurance
+|Role=Tester | Pole To Win - Glasgow Studio
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Daniel_Vargas_Llopis
+|Company=
+|Department=Quality Assurance
+|Role=Tester | Pole To Win - Glasgow Studio
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Fabiano_Raffaelli
+|Company=
+|Department=Quality Assurance
+|Role=Tester | Pole To Win - Glasgow Studio
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Fabrizio_Deagostini
+|Company=
+|Department=Quality Assurance
+|Role=Tester | Pole To Win - Glasgow Studio
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Geoffroy_Rech
+|Company=
+|Department=Quality Assurance
+|Role=Tester | Pole To Win - Glasgow Studio
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Janin_Benecke
+|Company=
+|Department=Quality Assurance
+|Role=Tester | Pole To Win - Glasgow Studio
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Leslie_Robb
+|Company=
+|Department=Quality Assurance
+|Role=Tester | Pole To Win - Glasgow Studio
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Mareike_Brensing
+|Company=
+|Department=Quality Assurance
+|Role=Tester | Pole To Win - Glasgow Studio
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Nayira_Sanchez_Jozami
+|Company=
+|Department=Quality Assurance
+|Role=Tester | Pole To Win - Glasgow Studio
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Nico_Feller
+|Company=
+|Department=Quality Assurance
+|Role=Tester | Pole To Win - Glasgow Studio
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Paola_Monaldi
+|Company=
+|Department=Quality Assurance
+|Role=Tester | Pole To Win - Glasgow Studio
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Sumit_Arora
+|Company=
+|Department=Production
+|Role=Project Manager | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Piyoosh_Sah
+|Company=
+|Department=Production
+|Role=Project Manager | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Amol_Bora
+|Company=
+|Department=Quality Assurance
+|Role=Test Lead | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Chetan_Soni
+|Company=
+|Department=Quality Assurance
+|Role=Test Lead | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Hemant_Kale
+|Company=
+|Department=Quality Assurance
+|Role=Test Lead | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Aditya_Kumar_Behera
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Aditya_Sharma
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Altaf_Shabbir_Pathan
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Anand_Kumar_Gupta
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Ashish_Kumar
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Ayushi_Maurya
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Chidananda_Achary
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Gaurav_Kumar_Singh
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Hirendra_Singh_Rajawat
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Jitendra_Pawar
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Kusumesh_Vyas
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Meenakshi_Mohite
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Nagaraju_Dhiddi
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Prasad_Pakale
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Prashant_Lolage
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Prateek_Yadav
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Rahul_Dwivedi
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Ravi_Sinha
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Ravikishor_Talla
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Rohan_Patange
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Sagar_Dhammankar
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Sandeep_Pandita
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Shashidhar_Boddula
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Siva_Ramana_Kumar_Raavi
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Srikanth_Patnam
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Vikas_Salunkhe
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Vishal_Kakade
+|Company=
+|Department=Quality Assurance
+|Role=Tester | GlobalStep LLC
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Mao_Yi_Ying
+|Company=
+|Department=Production
+|Role=Project Manager | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Zhang_Zao_Dong
+|Company=
+|Department=Production
+|Role=Assistant Project Manager | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/He_Zhi_He
+|Company=
+|Department=Programming
+|Role=Lead Programmer | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Li_Chun_Liang
+|Company=
+|Department=Business
+|Role=Art Director | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Liu_Yang
+|Company=
+|Department=Programming
+|Role=Programmer | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Xi_Meng
+|Company=
+|Department=Programming
+|Role=Programmer | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Sun_Chao
+|Company=
+|Department=Programming
+|Role=Programmer | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Cai_Wen_Hua
+|Company=
+|Department=Programming
+|Role=Programmer | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Guo_Chuan_Min
+|Company=
+|Department=Programming
+|Role=Programmer | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Wang_Hai_Ji
+|Company=
+|Department=Programming
+|Role=Programmer | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Zhao_Xiong_Hui
+|Company=
+|Department=Programming
+|Role=Programmer | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Yang_Qing_Qing
+|Company=
+|Department=Programming
+|Role=Programmer | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Wei_Wu_Hao
+|Company=
+|Department=Programming
+|Role=Programmer | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Wei_Shu_Zheng
+|Company=
+|Department=Programming
+|Role=Programmer | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Wang_Hong
+|Company=
+|Department=Programming
+|Role=Programmer | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Zhu_Wenli
+|Company=
+|Department=Visual Arts
+|Role=Artist | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Tao_Yanhua
+|Company=
+|Department=Visual Arts
+|Role=Artist | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Ma_Yi_Ming
+|Company=
+|Department=Visual Arts
+|Role=3D Artist | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Yu_Lin
+|Company=
+|Department=Visual Arts
+|Role=3D Artist | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Tao_Zhang_Zhi
+|Company=
+|Department=Visual Arts
+|Role=3D Artist | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Wang_Zheng
+|Company=
+|Department=Visual Arts
+|Role=3D Artist | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Liu_Li_Mei
+|Company=
+|Department=Visual Arts
+|Role=3D Artist | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Jiang_Wen_Ting
+|Company=
+|Department=Visual Arts
+|Role=3D Artist | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Gao_Lang
+|Company=
+|Department=Visual Arts
+|Role=3D Artist | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Xu_Ming_Hui
+|Company=
+|Department=Quality Assurance
+|Role=QC Team | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Ji_Jun
+|Company=
+|Department=Quality Assurance
+|Role=QC Team | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Sun_Ze_Wei
+|Company=
+|Department=Quality Assurance
+|Role=QC Team | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Jiang_Yingquan
+|Company=
+|Department=Quality Assurance
+|Role=QC Team | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Wang_Xue_Jun
+|Company=
+|Department=Quality Assurance
+|Role=QC Team | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Ni_Jia_QI
+|Company=
+|Department=Quality Assurance
+|Role=QC Team | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Li_Hua_Shi
+|Company=
+|Department=Quality Assurance
+|Role=QC Team | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Kang_Tian_Hao
+|Company=
+|Department=Thanks
+|Role=Special Thanks | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Zhou_Biao
+|Company=
+|Department=Thanks
+|Role=Special Thanks | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Zhang_Wen_Ke
+|Company=
+|Department=Thanks
+|Role=Special Thanks | Software Development (MINE LOADER)
+}}
+{{CreditSubobject
+|Game=Games/Pac_Man_Museum_43368
+|Release=
+|Dlc=
+|Person=People/Li_Dan
+|Company=
+|Department=Thanks
+|Role=Special Thanks | Software Development (MINE LOADER)
+}}
+</text>
+      <sha1>s2ocsk9csclz6zq5d4754lbfojrapv4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Pachinko 4425/Credits</title>
+    <ns>0</ns>
+    <id>464713</id>
+    <revision>
+      <id>743782</id>
+      <timestamp>2026-03-04T21:05:26Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>743782</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="176" sha1="h4jlk7fy66guij7jut08s1idcjeogjw" xml:space="preserve">{{Credits
+|ParentPage=Games/Pachinko_4425
+}}
+{{CreditSubobject
+|Game=Games/Pachinko_4425
+|Release=
+|Dlc=
+|Person=People/Ed_Averett
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>h4jlk7fy66guij7jut08s1idcjeogjw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Pale Tide</title>
+    <ns>0</ns>
+    <id>624571</id>
+    <revision>
+      <id>974022</id>
+      <parentid>974021</parentid>
+      <timestamp>2026-06-01T23:06:25Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974022</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="635" sha1="p196r7bjbugcweekgofidl0m6kukp8w" xml:space="preserve">{{Game
+|Guid=73de1738-1a2f-4d7b-9f5d-5fec290fb041
+|Name=Pale Tide
+|Image=https://giantbomb.com/api/media/file/media--file--library_capsule_jjj2x-06-01-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--library_hero_2mmfdx-06-01-2026.jpg
+|Deck=A fast-paced, top-down zombie survival game.
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/Top Down Perspective, Concepts/Survival, Concepts/Zombie, Concepts/Undead, Concepts/Dog, Concepts/A I Companion, Concepts/Steam
+|Developers=Companies/Aberratic
+|Platforms=Platforms/PC
+|Publishers=Companies/Aberratic
+|Themes=Themes/Post Apocalyptic
+}}</text>
+      <sha1>p196r7bjbugcweekgofidl0m6kukp8w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Papas Pizzeria Deluxe/Credits</title>
+    <ns>0</ns>
+    <id>254296</id>
+    <revision>
+      <id>254747</id>
+      <timestamp>2025-12-08T07:32:20Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254747</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="186" sha1="3reouscgeh8r9f5a0wux3hbcjowc2jb" xml:space="preserve">{{Credits
+|ParentPage=Games/Papas_Pizzeria_Deluxe
+}}
+{{CreditSubobject
+|Game=Games/Papas_Pizzeria_Deluxe
+|Release=
+|Dlc=
+|Person=People/Tony_Solary
+|Company=
+|Department=Audio
+|Role=
+}}
+</text>
+      <sha1>3reouscgeh8r9f5a0wux3hbcjowc2jb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Papaya Plaza</title>
+    <ns>0</ns>
+    <id>624866</id>
+    <revision>
+      <id>975141</id>
+      <parentid>974603</parentid>
+      <timestamp>2026-06-17T20:20:46Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975141</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="619" sha1="hdph96vynas6pfivlpd36wsj3226pky" xml:space="preserve">{{Game
+|Guid=4081362b-1156-4f6d-87c3-fadad0aa2e94
+|Name=Papaya Plaza
+|Image=https://giantbomb.com/api/media/file/media--file--papaya-plaza-06-17-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--papaya-plazab-06-17-2026.jpg
+|Deck=Become the mayor of this tourist town in a cozy life sim city builder.
+|ReleaseDateType=Year
+|YearPart=2027
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Anthropomorphism, Concepts/City Building
+|Developers=Companies/Biscuit Factory Games
+|Genres=Genres/Simulation
+|Platforms=Platforms/PC
+|Publishers=Companies/Weekend Games
+}}</text>
+      <sha1>hdph96vynas6pfivlpd36wsj3226pky</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Paperhead</title>
+    <ns>0</ns>
+    <id>624579</id>
+    <revision>
+      <id>974072</id>
+      <parentid>974071</parentid>
+      <timestamp>2026-06-02T00:41:46Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974072</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="654" sha1="pg9m5b1az7xes4lx1d6xds7s5nhnnt3" xml:space="preserve">{{Game
+|Guid=067c62d9-275b-4e9e-b405-e6d60002917d
+|Name=Paperhead
+|Image=https://giantbomb.com/api/media/file/media--file--library_600x900_2x-06-02-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--library_hero_2asdfasdx-06-02-2026.jpg
+|Deck=A first-person shooter horror game in a world made of cardboard.
+|ReleaseDateType=Full
+|ReleaseDate=2026-09-18
+|Concepts=Concepts/Digital Distribution, Concepts/Polygonal 3D, Concepts/First Person Perspective, Concepts/Steam
+|Developers=Companies/Paperhead te4m
+|Genres=Genres/First Person Shooter
+|Platforms=Platforms/PC
+|Publishers=Companies/HypeTrain Digital
+|Themes=Themes/Horror
+}}</text>
+      <sha1>pg9m5b1az7xes4lx1d6xds7s5nhnnt3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Paradoxical</title>
+    <ns>0</ns>
+    <id>624946</id>
+    <revision>
+      <id>974683</id>
+      <timestamp>2026-06-08T01:02:14Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=3719b143-1952-4bc9-8ed3-4cb396d21a49 |Name=Paradoxical |ReleaseDateType=None }}"</comment>
+      <origin>974683</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="92" sha1="opxyi7xmdttphnt1aomumx7ws1jk5an" xml:space="preserve">{{Game
+|Guid=3719b143-1952-4bc9-8ed3-4cb396d21a49
+|Name=Paradoxical
+|ReleaseDateType=None
+}}</text>
+      <sha1>opxyi7xmdttphnt1aomumx7ws1jk5an</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Paris in Danger/Credits</title>
+    <ns>0</ns>
+    <id>250232</id>
+    <revision>
+      <id>250677</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250677</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="196" sha1="e9dfq56q3fy7ufo0p1nmof9l8634hou" xml:space="preserve">{{Credits
+|ParentPage=Games/Paris_in_Danger
+}}
+{{CreditSubobject
+|Game=Games/Paris_in_Danger
+|Release=
+|Dlc=
+|Person=People/John_Bell
+|Company=
+|Department=Design
+|Role=Atari 8-bit game design
+}}
+</text>
+      <sha1>e9dfq56q3fy7ufo0p1nmof9l8634hou</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Patience is a Virtue</title>
+    <ns>0</ns>
+    <id>624848</id>
+    <revision>
+      <id>975099</id>
+      <parentid>974585</parentid>
+      <timestamp>2026-06-15T22:52:28Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975099</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="553" sha1="87ey0c6bclejricdhuov3vruj96ru1w" xml:space="preserve">{{Game
+|Guid=24785a42-9561-4871-b2d0-935aef9d1ffe
+|Name=Patience is a Virtue
+|Image=https://giantbomb.com/api/media/file/media--file--patience-is-a-virtue-06-15-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--patience-is-a-virtueb-06-15-2026.jpg
+|Deck=A creepy puzzle game about a cassette player.
+|ReleaseDateType=None
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/2D
+|Developers=Companies/teaisfortoby!
+|Genres=Genres/Puzzle
+|Platforms=Platforms/PC
+|Publishers=Companies/teaisfortoby!
+}}</text>
+      <sha1>87ey0c6bclejricdhuov3vruj96ru1w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Pawsome Resort</title>
+    <ns>0</ns>
+    <id>624907</id>
+    <revision>
+      <id>974644</id>
+      <timestamp>2026-06-08T00:32:34Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=0f05e7d1-4d61-4370-b61b-bcd05cc394d0 |Name=Pawsome Resort |ReleaseDateType=None }}"</comment>
+      <origin>974644</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="95" sha1="b17ku1h21ybvmzyg8ygiifkvexldcy8" xml:space="preserve">{{Game
+|Guid=0f05e7d1-4d61-4370-b61b-bcd05cc394d0
+|Name=Pawsome Resort
+|ReleaseDateType=None
+}}</text>
+      <sha1>b17ku1h21ybvmzyg8ygiifkvexldcy8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Pelican Post</title>
+    <ns>0</ns>
+    <id>624865</id>
+    <revision>
+      <id>975134</id>
+      <parentid>974602</parentid>
+      <timestamp>2026-06-17T18:42:40Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975134</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="623" sha1="9fdo5w75v6g0r9vahjeglyiejuxh83t" xml:space="preserve">{{Game
+|Guid=2c33a2ea-ec65-4fdb-92e2-d120abcb4110
+|Name=Pelican Post
+|Image=https://giantbomb.com/api/media/file/media--file--pelican-post-06-17-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--pelican-postb-06-17-2026.jpg
+|Deck=A narrative adventure about Pepper, a pelican postal delivery person.
+|ReleaseDateType=None
+|Concepts=Concepts/Indie, Concepts/Steam, Concepts/Digital Distribution, Concepts/Pelicans, Concepts/Anthropomorphism, Concepts/Postal Service
+|Developers=Companies/Shoreside Studio
+|Genres=Genres/Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/MAGIC Spell Studios
+}}</text>
+      <sha1>9fdo5w75v6g0r9vahjeglyiejuxh83t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Pengo 4196/Credits</title>
+    <ns>0</ns>
+    <id>464701</id>
+    <revision>
+      <id>743743</id>
+      <timestamp>2026-03-04T21:04:46Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>743743</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="169" sha1="i2s525xsezqz4ju0u1477za3huixzln" xml:space="preserve">{{Credits
+|ParentPage=Games/Pengo_4196
+}}
+{{CreditSubobject
+|Game=Games/Pengo_4196
+|Release=
+|Dlc=
+|Person=People/Mark_Hahn
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>i2s525xsezqz4ju0u1477za3huixzln</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Penguin Colony</title>
+    <ns>0</ns>
+    <id>624873</id>
+    <revision>
+      <id>975148</id>
+      <parentid>974610</parentid>
+      <timestamp>2026-06-17T22:22:54Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975148</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="698" sha1="hc3rlypu86vfnmf8r9irsygde59o1b7" xml:space="preserve">{{Game
+|Guid=301b6eb0-8e14-4062-954a-9096988b26f4
+|Name=Penguin Colony
+|Image=https://giantbomb.com/api/media/file/media--file--penguin-colony-06-17-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--penguin-colonyb-06-17-2026.jpg
+|Deck=Watch the descent into madness through the eyes of a penguin in this cosmic horror story.
+|ReleaseDateType=Year
+|YearPart=2026
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Penguins, Concepts/Polygonal 3D, Concepts/Steam Achievements, Concepts/Human
+|Developers=Companies/Origame Digital
+|Genres=Genres/Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/Fellow Traveller
+|Themes=Themes/Horror
+}}</text>
+      <sha1>hc3rlypu86vfnmf8r9irsygde59o1b7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Pennys Big Breakaway/Credits</title>
+    <ns>0</ns>
+    <id>250643</id>
+    <revision>
+      <id>251088</id>
+      <timestamp>2025-12-08T07:32:12Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251088</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="329" sha1="bsisrrvruhyd1r0jkfm9r374k6j1g15" xml:space="preserve">{{Credits
+|ParentPage=Games/Pennys_Big_Breakaway
+}}
+{{CreditSubobject
+|Game=Games/Pennys_Big_Breakaway
+|Release=
+|Dlc=
+|Person=People/Christian_Whitehead
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Pennys_Big_Breakaway
+|Release=
+|Dlc=
+|Person=People/Tee_Lopes
+|Company=
+|Department=Audio
+|Role=
+}}
+</text>
+      <sha1>bsisrrvruhyd1r0jkfm9r374k6j1g15</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Permafrost</title>
+    <ns>0</ns>
+    <id>624900</id>
+    <revision>
+      <id>975245</id>
+      <parentid>974637</parentid>
+      <timestamp>2026-06-27T03:18:56Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975245</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="840" sha1="cujkv2n4ryfbtiatxpfj2e3z5xgmbfs" xml:space="preserve">{{Game
+|Guid=236307df-7c25-4293-9e09-728bfe74671f
+|Name=Permafrost
+|Image=https://giantbomb.com/api/media/file/media--file--permafrost-06-27-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--permafrostb-06-27-2026.jpg
+|Deck=A post-apocalyptic ice age survival game for up to four players.
+|ReleaseDateType=None
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Polygonal 3D, Concepts/Steam, Concepts/Steam Trading Cards, Concepts/Steam Achievements, Concepts/Steam Cloud, Concepts/Online, Concepts/Cooperative Play, Concepts/Survival, Concepts/Third Person Perspective, Concepts/Dog, Concepts/A I Companion
+|Developers=Companies/SpaceRocket Games
+|Genres=Genres/Action Adventure, Genres/Simulation
+|Platforms=Platforms/PC
+|Publishers=Companies/Toplitz Productions
+|Themes=Themes/Post Apocalyptic
+}}</text>
+      <sha1>cujkv2n4ryfbtiatxpfj2e3z5xgmbfs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Persona 3 Reload/Credits</title>
+    <ns>0</ns>
+    <id>250479</id>
+    <revision>
+      <id>250924</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250924</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="322" sha1="94prgyoq32xka9cyg6ir3y7fk19q3vn" xml:space="preserve">{{Credits
+|ParentPage=Games/Persona_3_Reload
+}}
+{{CreditSubobject
+|Game=Games/Persona_3_Reload
+|Release=
+|Dlc=
+|Person=People/Andre_Sogliuzzo
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Persona_3_Reload
+|Release=
+|Dlc=
+|Person=People/Suzie_Yeung
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>94prgyoq32xka9cyg6ir3y7fk19q3vn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Persona 6</title>
+    <ns>0</ns>
+    <id>624751</id>
+    <revision>
+      <id>974500</id>
+      <parentid>974487</parentid>
+      <timestamp>2026-06-07T22:21:01Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974500</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="728" sha1="cs7z2l9o3bnlnxo79kqcpvaxzmhl3qo" xml:space="preserve">{{Game
+|Guid=75019cf9-6b3c-4734-9c55-08f9bc07af74
+|Name=Persona 6
+|Image=https://giantbomb.com/api/media/file/media--file--screenshot-2026-06-07-at-3-57-57-pm-06-07-2026.png
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--persona-6-teaser-trailer-_-xbox-games-showcase-2026---0-0-58-06-07-2026.jpeg
+|Deck=The sixth mainline entry in the long-running role-playing game series from Atlus.
+|ReleaseDateType=None
+|Concepts=Concepts/Digital Distribution, Concepts/Sequel
+|Developers=Companies/P Studio, Companies/Atlus
+|Franchises=Franchises/Persona, Franchises/Shin Megami Tensei
+|Genres=Genres/Role Playing
+|Platforms=Platforms/PC, Platforms/Xbox Series X S, Platforms/PlayStation 5
+|Publishers=Companies/Sega
+}}</text>
+      <sha1>cs7z2l9o3bnlnxo79kqcpvaxzmhl3qo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Peter Pack Rat/Credits</title>
+    <ns>0</ns>
+    <id>250009</id>
+    <revision>
+      <id>250447</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250447</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="349" sha1="i7idrizlrymnpy72ip5285ggv03o10z" xml:space="preserve">{{Credits
+|ParentPage=Games/Peter_Pack_Rat
+}}
+{{CreditSubobject
+|Game=Games/Peter_Pack_Rat
+|Release=
+|Dlc=
+|Person=People/Brad_Fuller
+|Company=
+|Department=Audio
+|Role=Arcade sound designer
+}}
+{{CreditSubobject
+|Game=Games/Peter_Pack_Rat
+|Release=
+|Dlc=
+|Person=People/Mike_Albaugh
+|Company=
+|Department=Programming
+|Role=Arcade software support
+}}
+</text>
+      <sha1>i7idrizlrymnpy72ip5285ggv03o10z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Phantasie Memorial Set/Credits</title>
+    <ns>0</ns>
+    <id>249740</id>
+    <revision>
+      <id>250174</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250174</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="223" sha1="oeh6sdsaqaccv0mta49qajouae04ry9" xml:space="preserve">{{Credits
+|ParentPage=Games/Phantasie_Memorial_Set
+}}
+{{CreditSubobject
+|Game=Games/Phantasie_Memorial_Set
+|Release=
+|Dlc=
+|Person=People/Akira_Komeda
+|Company=
+|Department=Visual Arts
+|Role=PC-98 cover artwork (ak '90)
+}}
+</text>
+      <sha1>oeh6sdsaqaccv0mta49qajouae04ry9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Phantom Brave The Lost Hero/Credits</title>
+    <ns>0</ns>
+    <id>252894</id>
+    <revision>
+      <id>253344</id>
+      <timestamp>2025-12-08T07:32:17Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>253344</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="202" sha1="3066e12h5ntac5f3b0nqkjakyetu22j" xml:space="preserve">{{Credits
+|ParentPage=Games/Phantom_Brave_The_Lost_Hero
+}}
+{{CreditSubobject
+|Game=Games/Phantom_Brave_The_Lost_Hero
+|Release=
+|Dlc=
+|Person=People/Risa_Mei
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>3066e12h5ntac5f3b0nqkjakyetu22j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Phytomancer/Credits</title>
+    <ns>0</ns>
+    <id>251867</id>
+    <revision>
+      <id>252315</id>
+      <timestamp>2025-12-08T07:32:15Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>252315</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="578" sha1="mn9ktu5sbzjls0thgemrf4emqq7djb8" xml:space="preserve">{{Credits
+|ParentPage=Games/Phytomancer
+}}
+{{CreditSubobject
+|Game=Games/Phytomancer
+|Release=
+|Dlc=
+|Person=People/Adrian_Gaudebert
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Phytomancer
+|Release=
+|Dlc=
+|Person=People/Alexis_Caroff
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Phytomancer
+|Release=
+|Dlc=
+|Person=People/Alexis_Saler
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Phytomancer
+|Release=
+|Dlc=
+|Person=People/Ana_Maria_De_Jesus
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>mn9ktu5sbzjls0thgemrf4emqq7djb8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Picross S 61476</title>
+    <ns>0</ns>
+    <id>465005</id>
+    <revision>
+      <id>796921</id>
+      <parentid>751282</parentid>
+      <timestamp>2026-03-12T06:28:50Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796921</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2308" sha1="mlei87pcs8rpi9nj81kjkoygjf5ast7" xml:space="preserve">{{Game
+| Name=Picross S
+| Guid=3030-61476
+| Deck=The first in Jupiter's long-running Picross series to be released on the Nintendo Switch, featuring 300 nonogram puzzles in both Picross and Mega Picross modes.
+| ReleaseDate=2017-09-28
+| Characters=
+| Concepts=Concepts/2D,Concepts/Digital_Distribution,Concepts/Nonogram,Concepts/Pictographic_Level_Design,Concepts/Pixel_Art,Concepts/Platform_Exclusive,Concepts/Puzzle,Concepts/Time_Limit
+| Developers=Companies/Jupiter_Corp
+| Franchises=Franchises/Picross,Franchises/Picross_S
+| Genres=Genres/Puzzle
+| Locations=
+| Objects=
+| Platforms=Platforms/Nintendo_Switch
+| Publishers=Companies/Jupiter_Corp
+| Games=Games/Hatsune_Miku_Logic_Paint_S,Games/Hexologic,Games/Picross_S3,Games/Pixross,Games/Tents_And_Trees
+| Themes=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/87790/3264063-box_ps.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3264063-box_ps.png","path":"8\/87790\/","mime":"image\/png","sizes":"scale_super,square_mini,screen_medium,scale_small,scale_avatar,scale_tiny,scale_large,screen_kubrick,square_small,scale_medium,square_avatar,square_medium,square_tiny","caption":null},"background":{"file":"2965174-dkklunmwsaa7eyt.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_tiny,square_avatar,scale_super,scale_large,square_medium,screen_kubrick,square_tiny,screen_medium,square_mini,screen_kubrick_wide,scale_small,scale_medium,ignore_jpg_scale_medium,scale_avatar","caption":""}}' /&gt;
+
+==Overview==
+Picross S is a puzzle game developed and digitally published by [[Companies/Jupiter_Corp|Jupiter]] for the [[Platforms/Nintendo_Switch|Nintendo Switch]] on September 28, 2017.
+
+The first entry in the long-running [[Franchises/Picross|Picross]] series to be released for the Switch, Picross S is a successor to the [[Franchises/Picross_e|Picross e]] series, featuring 300 [[Concepts/Nonogram|nonogram]] puzzles in two modes: Picross or Mega Picross. It later received [[Franchises/Picross_S|multiple sequels]], each featuring a new set of puzzles while adding new features and/or game modes.
+
+Along with optional assistance options, the game features local two-player multiplayer, allowing players to play both co-operatively (by solving the puzzle) or competitively (by tracking who fills in the most correct spaces).</text>
+      <sha1>mlei87pcs8rpi9nj81kjkoygjf5ast7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Picross S Konami Antiques</title>
+    <ns>0</ns>
+    <id>465235</id>
+    <revision>
+      <id>797267</id>
+      <parentid>797266</parentid>
+      <timestamp>2026-03-22T22:57:17Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>797267</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="739" sha1="f140ovy3nqpkolzwnjxzfzx8y6uuxl9" xml:space="preserve">{{Game
+|Guid=afd87915-537e-4d4b-a24e-6d0d892533ee
+|Name=Picross S Konami Antiques Edition
+|Image=https://giantbomb.com/api/media/file/media--file--picross-s-konami-antiques-edition_2026_03-22-26_002-03-22-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--picross-s-konami-antiques-edition_2026_03-22-26_002-03-22-2026.jpg
+|Deck=After having done the same with Sega, Namco, Capcom, and SNK, Jupiter brings Picross to Konami.
+|ReleaseDateType=Full
+|ReleaseDate=2026-04-30
+|Concepts=Concepts/Digital Distribution, Concepts/Nonogram
+|Developers=Companies/Jupiter Corp
+|Franchises=Franchises/Picross, Franchises/Picross S
+|Genres=Genres/Puzzle
+|Platforms=Platforms/Nintendo Switch
+|Publishers=Companies/Jupiter Corp
+}}</text>
+      <sha1>f140ovy3nqpkolzwnjxzfzx8y6uuxl9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Pikuniku 2</title>
+    <ns>0</ns>
+    <id>625034</id>
+    <revision>
+      <id>974885</id>
+      <parentid>974861</parentid>
+      <timestamp>2026-06-09T16:32:29Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974885</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="387" sha1="j9f4t1g4ccmtylmaa1urcwn3xtenmn7" xml:space="preserve">{{Game
+|Guid=cd9694ea-49b6-4320-83f3-4bb244c12a72
+|Name=Pikuniku 2
+|Image=Untitled-1-1781019515544.webp
+|Deck=The sequel to Sectordub's puzzle platformer.
+|ReleaseDateType=Year
+|YearPart=2027
+|Concepts=Concepts/Digital Distribution, Concepts/Sequel
+|Developers=Companies/Sectordub
+|Genres=Genres/Platformer
+|Platforms=Platforms/Nintendo Switch 2
+|Publishers=Companies/Devolver Digital
+}}</text>
+      <sha1>j9f4t1g4ccmtylmaa1urcwn3xtenmn7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Ping 42568</title>
+    <ns>0</ns>
+    <id>464973</id>
+    <revision>
+      <id>796903</id>
+      <parentid>750240</parentid>
+      <timestamp>2026-03-12T06:28:37Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796903</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3280" sha1="1h8j7ipnkfw3ws893plrotf9o4iscvh" xml:space="preserve">{{Game
+| Name=Ping!
+| Guid=3030-42568
+| Deck=Ping! was the first video game release from CC &amp;amp; SH. It is a strategic take on the "collect items in a maze" formula.
+| ReleaseDate=2005-08-12
+| Characters=Characters/Bloxx,Characters/Boxx_Golem,Characters/Boxx_King,Characters/Ping,Characters/Pingella,Characters/Square_Admiral,Characters/Warbloxx
+| Concepts=Concepts/Boxx_Soldier,Concepts/Boxx_Wizard,Concepts/Developed_by_One_Person,Concepts/Digital_Distribution,Concepts/Distaff_Counterpart,Concepts/Easter_Egg,Concepts/Enemy_Roll_Call,Concepts/Freeware,Concepts/GameMaker_Studio,Concepts/Palette_Swap,Concepts/Single_Player_Only,Concepts/Single_Word_Titles,Concepts/Spherical_Protagonist,Concepts/Titular_Protagonist,Concepts/Xxombie
+| Developers=Companies/CC_And_SH
+| Franchises=Franchises/Ping
+| Genres=Genres/Action,Genres/Puzzle
+| Locations=
+| Objects=Objects/Coin_Bombs,Objects/Diamond,Objects/Kra_Z_Bomb
+| Platforms=Platforms/PC
+| Publishers=Companies/CC_And_SH
+| Games=Games/Chomperman,Games/Dangerbots,Games/Devil_World,Games/Go_Go_Ackman_1995,Games/Monaco_Whats_Yours_Is_Mine,Games/Pac_Man,Games/Scamperghost
+| Themes=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/2480120-pingscreen.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2480120-pingscreen.png","path":"16\/164924\/","mime":"image\/png","sizes":"square_small,square_tiny,square_medium,scale_small,square_avatar,square_mini,scale_avatar,scale_medium,screen_medium,scale_large,scale_tiny,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+ 
+
+
+==Overview==
+Ping! revolves around a character of the same name, who is a small, green ball. His girlfriend, [[Characters/Pingella|Pingella]] has been kidnapped by the Boxx Empire, and he must battle their forces to save her.
+
+
+==Gameplay==
+Players control Ping! with the arrow keys. The space bar drops "[[Objects/Coin_Bombs|Coin Bombs]]", which are small traps that can defeat enemies. Players can collect [[Objects/Diamond|diamonds]] to receive points.
+
+Unlike [[Games/Chomperman|Chomperman]] (which released later that same year), Ping!'s take on the [[Games/Pac_Man|Pac-Man]] formula is more centered on puzzle-solving. Instead of simply clearing the [[Concepts/Maze|maze]] and dodging enemies, the player sometimes is required to complete a task in order to collect the level's diamonds or deal with unique circumstances within the level.
+
+
+==Development==
+The idea for Ping! was developed after [[People/Steven_W_Hunt|Steven W. Hunt]] had read an article detailing that a [[Platforms/Jaguar|Jaguar]] game called "Pong 2000" was supposed to be in development, where Pong was an anthropomorphic ball in a platforming environment to save his girlfriend. After the game apparently had not been released, he took the idea and went forward with it. Initially there was supposed to be a "prequel" game called Ping (without the exclamation point), where players knocked the character between two Boxx Soldier paddles, like [[Games/Pong|Pong]]. Ping was scrapped after development on [[Games/Shadys_Poopong|Shady's Poopong]] began.
+
+
+==Release==
+Ping! was released in mid-2005 as a downloadable title for PC. It was later included on the disc release "[[Games/CC_And_SH_Smash_Hits|CC andamp;amp;amp; SH Smash Hits]]" in 2006.</text>
+      <sha1>1h8j7ipnkfw3ws893plrotf9o4iscvh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Ping 42568/Credits</title>
+    <ns>0</ns>
+    <id>464974</id>
+    <revision>
+      <id>750241</id>
+      <timestamp>2026-03-04T22:43:07Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>750241</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="341" sha1="0pbs0kmy2yp5t0shbxqn3h5yi3laycb" xml:space="preserve">{{Credits
+|ParentPage=Games/Ping_42568
+}}
+{{CreditSubobject
+|Game=Games/Ping_42568
+|Release=
+|Dlc=
+|Person=People/Tasha_Bourne
+|Company=
+|Department=Voice Actor
+|Role=Voice of Pingella
+}}
+{{CreditSubobject
+|Game=Games/Ping_42568
+|Release=
+|Dlc=
+|Person=People/Steven_W_Hunt
+|Company=
+|Department=Programming
+|Role=Also voice of Boxx King
+}}
+</text>
+      <sha1>0pbs0kmy2yp5t0shbxqn3h5yi3laycb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Pipes.exe</title>
+    <ns>0</ns>
+    <id>624797</id>
+    <revision>
+      <id>974833</id>
+      <parentid>974532</parentid>
+      <timestamp>2026-06-09T02:56:01Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974833</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="736" sha1="ldcljwdxel2fkvc1qbha9y89h58f61x" xml:space="preserve">{{Game
+|Guid=1745baa3-b6b5-4066-b7bd-89640c224f21
+|Name=Pipes.exe
+|Image=https://giantbomb.com/api/media/file/media--file--game-page-box-art_pipes-exe-inits-320x480-06-09-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--ss_b075b70fc76d5ed6c846d4205d387e3395873a63-1920x1080-06-09-2026.jpg
+|Deck=A cooperative horror game for up to four players who are QA testing 90s software.
+|ReleaseDateType=Full
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/First Person Perspective, Concepts/Cooperative Play, Concepts/Online, Concepts/Steam
+|Developers=Companies/Moving Pieces Interactive
+|Genres=Genres/Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/Critical Reflex
+|Themes=Themes/Horror
+}}</text>
+      <sha1>ldcljwdxel2fkvc1qbha9y89h58f61x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Pixel Washer</title>
+    <ns>0</ns>
+    <id>624557</id>
+    <revision>
+      <id>974000</id>
+      <parentid>973998</parentid>
+      <timestamp>2026-06-01T20:56:17Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974000</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="608" sha1="429uqsoe4f5wx2y7vw9zw8slx6q5guz" xml:space="preserve">{{Game
+|Guid=c7e3e902-2c80-4fc4-b051-56447f4ba5a2
+|Name=Pixel Washer
+|Image=https://giantbomb.com/api/media/file/media--file--library_600x900_2xnnn-06-01-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--library_hero_2xqqt-06-01-2026.jpg
+|Deck=Power wash through a myriad of retro games cleaning dirty sprites.
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/Steam, Concepts/2D
+|Developers=Companies/Valadria
+|Genres=Genres/Simulation
+|Platforms=Platforms/PC
+|Publishers=Companies/Acclaim Inc.
+|Games=Games/PowerWash Simulator, Games/PowerWash Simulator 2
+}}</text>
+      <sha1>429uqsoe4f5wx2y7vw9zw8slx6q5guz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Planet Zoo 2</title>
+    <ns>0</ns>
+    <id>624782</id>
+    <revision>
+      <id>974811</id>
+      <parentid>974809</parentid>
+      <timestamp>2026-06-08T22:13:26Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974811</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="843" sha1="lthgohfrcs84m8f485wf7u1vs5o43p1" xml:space="preserve">{{Game
+|Guid=e978c306-d319-477e-adb1-aefd52d41833
+|Name=Planet Zoo 2
+|Image=https://giantbomb.com/api/media/file/media--file--apps-6240-14498232295889844-e376dfd7-8c83-4c3f-9c16-ac31ae6c483a-06-08-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--21_wallace_announce_shot05_wildlife_reserve_watering_hole_1920x1080-756ac14e591e9af16c68-1900x1080-06-08-2026.jpg
+|Deck=Frontier Developments brings their simulator prowess back to the zoo.
+|ReleaseDateType=Full
+|ReleaseDate=2026-10-13
+|Concepts=Concepts/Digital Distribution, Concepts/Sequel, Concepts/Steam
+|Developers=Companies/Frontier Developments Ltd
+|Franchises=Franchises/Project Zoo
+|Genres=Genres/Simulation
+|Platforms=Platforms/PC, Platforms/Xbox Series X S, Platforms/PlayStation 5
+|Publishers=Companies/Frontier Developments Ltd
+|Themes=Themes/Management
+}}</text>
+      <sha1>lthgohfrcs84m8f485wf7u1vs5o43p1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/PlayM2M</title>
+    <ns>0</ns>
+    <id>624427</id>
+    <revision>
+      <id>973607</id>
+      <timestamp>2026-04-11T10:24:40Z</timestamp>
+      <contributor>
+        <username>Megaming</username>
+        <id>2789</id>
+      </contributor>
+      <comment>Request for correction of missing information.</comment>
+      <origin>973607</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1148" sha1="iis77bah9ta00ct2zt4lp80ngrn9s2t" xml:space="preserve">{{Game
+|Guid=f1b26d92-21af-41b9-bdb7-ef14abeef707
+|Name=PlayM2M
+|Deck=Online Free to Play MMORPG Game
+|ReleaseDateType=Full
+|ReleaseDate=2025-03-28
+|Developers=Companies/Laniatus LLC
+|Genres=Genres/MMORPG
+|Platforms=Platforms/PC
+|Publishers=Companies/Laniatus LLC
+|Themes=Themes/Fantasy
+}}
+PlayM2M is a developed fantasy, mythological MMORPG developed and published by Laniatus LLC. The game uses a proprietary game engine. Its official early access date was March 28, 2025.
+
+PlayM2M is an open-world, fantasy-style online role-playing game '''MMORPG''' in which players can choose from four character classes: Dorhan, Skogr, Petrun, and Wizard. Each class has two specializations that offer different combat styles for Player vs. Environment (PvE) and Player versus Player (PvP) modes.
+
+The game features three selectable dynasties from which players can choose: the Rasan Dynasty, the Teven Dynasty, and the Solon Dynasty; players select one of these three at the start of the game. New players are introduced to the game through tutorial quests that cover basic mechanics such as movement controls, combat, equipment management, and mount usage.</text>
+      <sha1>iis77bah9ta00ct2zt4lp80ngrn9s2t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Plots 8656/Credits</title>
+    <ns>0</ns>
+    <id>464760</id>
+    <revision>
+      <id>744605</id>
+      <timestamp>2026-03-04T21:19:40Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>744605</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="306" sha1="mopu57oj60vxj5lbmhnuyfrqazg9y7g" xml:space="preserve">{{Credits
+|ParentPage=Games/Plots_8656
+}}
+{{CreditSubobject
+|Game=Games/Plots_8656
+|Release=
+|Dlc=
+|Person=People/Maik_Heinzig
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Plots_8656
+|Release=
+|Dlc=
+|Person=People/Katrin_Bernecker
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>mopu57oj60vxj5lbmhnuyfrqazg9y7g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Plunge 61914</title>
+    <ns>0</ns>
+    <id>465007</id>
+    <revision>
+      <id>1004999</id>
+      <parentid>796922</parentid>
+      <timestamp>2026-07-19T15:28:12Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1004999</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1201" sha1="iy99jaw37ljmos522puh08qhf9o78k7" xml:space="preserve">{{Game
+| Name=Plunge
+| Guid=3030-61914
+| Deck=Plunge is an isometric puzzle game set within a medieval prison.
+| ReleaseDate=2019-08-23
+| Characters=
+| Concepts=Concepts/Bundle_for_Racial_Justice_and_Equality,Concepts/Convict,Concepts/Digital_Distribution,Concepts/Escaping_Imprisonment,Concepts/Indie,Concepts/itch_io,Concepts/PAX_West_2017,Concepts/PAX_West_2019,Concepts/Single_Word_Titles,Concepts/The_PAX_10,Concepts/Trap
+| Developers=Companies/SpookyBuns
+| Franchises=
+| Genres=Genres/Puzzle
+| Locations=
+| Objects=
+| Platforms=Platforms/Android,Platforms/iPad,Platforms/iPhone,Platforms/Mac,Platforms/PC
+| Publishers=
+| Games=
+| Themes=Themes/Medieval
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/2967620-screen%20shot%202017-10-02%20at%205.21.51%20pm.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2967620-screen shot 2017-10-02 at 5.21.51 pm.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_medium,square_medium,square_tiny,scale_small,scale_super,scale_avatar,square_small,square_avatar,scale_large,screen_medium,square_mini,scale_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+Plunge is an isometric puzzle game set within a medieval prison.</text>
+      <sha1>iy99jaw37ljmos522puh08qhf9o78k7</sha1>
+    </revision>
+  </page>
+</mediawiki>

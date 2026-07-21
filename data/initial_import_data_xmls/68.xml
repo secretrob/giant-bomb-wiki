@@ -1,0 +1,1782 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Objects/Ford Fiesta R5</title>
+    <ns>0</ns>
+    <id>464142</id>
+    <revision>
+      <id>464730</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464730</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="236" sha1="etd8n5ngq3ijpa1c08xudj3oxcmbd7x" xml:space="preserve">{{Object
+| Name=Ford Fiesta R5
+| Guid=3055-7555
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/WRC_5,Games/WRC_Rally_Evolved
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>etd8n5ngq3ijpa1c08xudj3oxcmbd7x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ford Focus</title>
+    <ns>0</ns>
+    <id>464088</id>
+    <revision>
+      <id>464676</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464676</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="357" sha1="fm6cs4nj3z4i41amh2zt1e5u2mm7xzg" xml:space="preserve">{{Object
+| Name=Ford Focus
+| Guid=3055-7500
+| Characters=Characters/Colin_McRae
+| Concepts=
+| Franchises=
+| Games=Games/Gravel,Games/Need_for_Speed_V_Rally_2,Games/Real_Racing_3,Games/V_Rally_3,Games/WRC_Rally_Evolved,Games/WRC_World_Rally_Championship
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>fm6cs4nj3z4i41amh2zt1e5u2mm7xzg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ford Focus RS WRC</title>
+    <ns>0</ns>
+    <id>464144</id>
+    <revision>
+      <id>464732</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464732</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="250" sha1="9e2lzv0m7dosqby43y7gl628mryc0s6" xml:space="preserve">{{Object
+| Name=Ford Focus RS WRC
+| Guid=3055-7557
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Colin_McRae_Rally_3,Games/WRC_II_Extreme
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9e2lzv0m7dosqby43y7gl628mryc0s6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ford Indigo</title>
+    <ns>0</ns>
+    <id>464071</id>
+    <revision>
+      <id>729167</id>
+      <parentid>464659</parentid>
+      <timestamp>2026-02-14T21:32:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729167</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="832" sha1="dex0q4w1wurp65udycztfy0usr8upvi" xml:space="preserve">{{Object
+| Name=Ford Indigo
+| Guid=3055-7483
+| Deck=Ford Indigo was a V12 RR concept super convertible that was developed by Ford Indy’s Technology.
+| Characters=
+| Concepts=Concepts/Unlockables
+| Franchises=
+| Games=Games/Need_for_Speed_II
+| Locations=
+| People=
+| Objects=Objects/Car,Objects/Sports_Car
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3667666-img_2821.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3667666-img_2821.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"scale_small,scale_super,square_medium,square_small,square_mini,scale_medium,square_tiny,scale_tiny,scale_avatar,screen_kubrick,scale_large,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;
+Ford Indigo was a V12 RR concept super convertible that was developed by Ford Indy’s Technology.</text>
+      <sha1>dex0q4w1wurp65udycztfy0usr8upvi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ford Ka</title>
+    <ns>0</ns>
+    <id>464196</id>
+    <revision>
+      <id>993079</id>
+      <parentid>729218</parentid>
+      <timestamp>2026-07-18T02:32:59Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3055-7609)</comment>
+      <origin>993079</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3241" sha1="5gc4o68zilzrbjvxnqikjjzw0o9es8a" xml:space="preserve">{{Object
+| Name=Ford Ka
+| Guid=3055-7609
+| Deck=The Ford Ka is a microcar manufactured by the Ford Motor Corporation from 1996 to 2021. The car was designed by Ford to be small, practical, and cost effective, optimal for operation in Europe's crowded cities. Therefore, performance has been sacrificed for ergonomics.
+| Characters=
+| Concepts=Concepts/Ford_Motor_Company,Concepts/Licensed_Cars
+| Franchises=
+| Games=Games/Ford_Racing,Games/Forza_Horizon_2,Games/Forza_Horizon_2_Presents_Fast_And_Furious,Games/Forza_Motorsport_4,Games/Gran_Turismo_2,Games/Gran_Turismo_2009,Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_6,Games/Gran_Turismo_Concept_2002_Tokyo_Geneva,Games/Top_Drives
+| Locations=
+| People=
+| Objects=Objects/Car,Objects/Ford_Fiesta,Objects/Ford_Puma
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3646546-5721198089-1000.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3646546-5721198089-1000.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_tiny,square_small,scale_small,square_medium,scale_super,scale_medium,square_avatar,square_mini,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+
+===Gran Turismo 2 Description===
+Ford's wacky little Ka arrived in 1996 after appearing in concept form at motor shows throughout the early 1990s. Its original bubble-car styling was gone, replaced by what Ford called 'New Edge' design. The Ka was the first to sport this new look, which now features across the Ford range in the Focus, Puma, Cougar and Mondeo. The Ka was also Ford's first micro-car. Although based on the platform and running gear of the Fiesta the three-door Ka is a full 20cm shorter, yet still has room for four inside. Powered by a 1.3-litre 59bhp four-cylinder motor driving the front wheels through a slick- shifting five-speed manual 'box, the Ka isn't much of a sprinter. Top speed is 96mph and it takes 13.8 seconds to reach 60mph. But that's not the point. The Ka may not be fast, but it's still a complete hoot to drive as competitors in the one-make Ka rally championship will testify. The front suspension is independent, using MacPherson struts and the rear end features a semi-independent twist-beam setup and this endow the Ka with tremendously entertaining handling and a good ride. The 13-inch wheels wear relatively skinny 165/65R13 tyres so there's not an enormous amount of grip, but the Ka can use this to its advantage. A well-timed lift of the throttle in mid-corner will see the rear end take over the steering. The power steering is quick to react should the tail-slide begin to get out of hand and Kas can be specified with ABS brakes should you overstep the mark. Kas can also be trimmed out as little limousines, with such luxuries as air conditioning and CD players for in-car entertainment. But really there's no need since the Ka is so entertaining on its own.
+
+
+===Second Generation===
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/original/151/1511438/3646557-2409762481-1000.png|align=right|width=320}}
+The 2011 model is featured in ''Forza Motorsport 4'' and in ''Forza Horizon 2'' as a traffic car. It can be chosen as the player's first car in ''Forza Motorsport 4''.</text>
+      <sha1>5gc4o68zilzrbjvxnqikjjzw0o9es8a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ford Mustang</title>
+    <ns>0</ns>
+    <id>464023</id>
+    <revision>
+      <id>729126</id>
+      <parentid>464611</parentid>
+      <timestamp>2026-02-14T21:31:52Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729126</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1594" sha1="kp4f2b3yusien8sbatc1gwojyctqh7t" xml:space="preserve">{{Object
+| Name=Ford Mustang
+| Guid=3055-7435
+| Deck=Ford Mustang was a grand touring muscle car that was produced in 1964 and become the most popular sports car icon of the United States of America.
+| Characters=Characters/John_Tanner,Characters/John_Wick,Characters/Razor_Callahan
+| Concepts=
+| Franchises=
+| Games=Games/Driver,Games/Driver_San_Francisco,Games/Ford_Bold_Moves_Street_Racing,Games/Ford_Mustang_The_Legend_Lives,Games/Global_Touring_Challenge_Africa,Games/Gran_Turismo_2,Games/Gran_Turismo_3_A_Spec,Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_6,Games/Gran_Turismo_7,Games/Mustang_2014,Games/Need_for_Speed,Games/Road_And_Track_presents_The_Need_for_Speed,Games/Street_Rod,Games/Street_Rod_2_The_Next_Generation,Games/TOCA_Race_Driver_2
+| Locations=Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Car,Objects/Ford_Mustang_Dark_Horse,Objects/Ford_Mustang_GT3,Objects/Ford_Mustang_Mach_III,Objects/Ford_Mustang_SVT_Cobra_R,Objects/Muscle_Car
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3601133-img_2132.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601133-img_2132.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"scale_super,square_small,square_tiny,square_medium,scale_small,scale_medium,square_avatar,square_mini,scale_avatar,screen_kubrick,scale_tiny,scale_large,screen_medium","caption":"Ford Mustang (First Generation)"},"background":[]}' /&gt;
+Ford Mustang was a grand touring muscle car that was produced in 1964 and become the most popular sports car icon of the United States of America.</text>
+      <sha1>kp4f2b3yusien8sbatc1gwojyctqh7t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ford Mustang Dark Horse</title>
+    <ns>0</ns>
+    <id>464294</id>
+    <revision>
+      <id>729274</id>
+      <parentid>464882</parentid>
+      <timestamp>2026-02-14T21:33:54Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729274</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="956" sha1="dkdyqfs2jykvnwhruijmyimlpqfmnii" xml:space="preserve">{{Object
+| Name=Ford Mustang Dark Horse
+| Guid=3055-7711
+| Deck=Ford Mustang Dark Horse is a elite performance version of the seventh version of the Ford Mustang.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Forza_Horizon_5,Games/Forza_Motorsport_2023,Games/Need_for_Speed_No_Limits,Games/Need_for_Speed_Unbound,Games/The_Crew_Motorfest
+| Locations=
+| People=
+| Objects=Objects/Car,Objects/Ford_Mustang,Objects/Muscle_Car
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3739753-img_3194.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3739753-img_3194.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"square_medium,square_small,scale_small,square_avatar,scale_super,scale_medium,scale_tiny,square_mini,square_tiny,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+Ford Mustang Dark Horse is a elite performance version of the seventh version of the Ford Mustang.</text>
+      <sha1>dkdyqfs2jykvnwhruijmyimlpqfmnii</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ford Mustang GT3</title>
+    <ns>0</ns>
+    <id>464286</id>
+    <revision>
+      <id>729271</id>
+      <parentid>464874</parentid>
+      <timestamp>2026-02-14T21:33:51Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729271</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="854" sha1="js6s9z5etk5z3309bfnzqgc0qk0d6fh" xml:space="preserve">{{Object
+| Name=Ford Mustang GT3
+| Guid=3055-7703
+| Deck=The Ford Mustang GT3 was a gran touring race car of the seventh version of the Mustang.
+| Characters=
+| Concepts=Concepts/Endurance_Racing
+| Franchises=
+| Games=Games/Forza_Motorsport_2023,Games/Le_Mans_Ultimate
+| Locations=
+| People=
+| Objects=Objects/Ford_Mustang,Objects/Race_Car
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3739925-img_3198.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3739925-img_3198.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_medium,square_small,square_avatar,scale_small,square_mini,square_tiny,scale_tiny,screen_medium,screen_kubrick,scale_avatar,scale_large","caption":null},"background":[]}' /&gt;
+The Ford Mustang GT3 was a gran touring race car of the seventh version of the Mustang.</text>
+      <sha1>js6s9z5etk5z3309bfnzqgc0qk0d6fh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ford WRC Replica Transit Van</title>
+    <ns>0</ns>
+    <id>464145</id>
+    <revision>
+      <id>729199</id>
+      <parentid>464733</parentid>
+      <timestamp>2026-02-14T21:32:51Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729199</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="847" sha1="tt4uqn9fjqycoe5wsyfikbfuxb3elcq" xml:space="preserve">{{Object
+| Name=Ford WRC Replica Transit Van
+| Guid=3055-7558
+| Deck=The Ford WRC Replica Transit Van is an Extra car in Colin McRae Rally 3 and 4.
+| Characters=
+| Concepts=Concepts/Ford_Motor_Company,Concepts/Unlockables
+| Franchises=
+| Games=Games/Colin_McRae_Rally_04,Games/Colin_McRae_Rally_3
+| Locations=
+| People=
+| Objects=Objects/Van
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3645493-0139631992-1000.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3645493-0139631992-1000.png","path":"151\/1511438\/","mime":"image\/png","sizes":"square_small,scale_medium,square_avatar,square_medium,scale_super,scale_small,square_mini,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Ford WRC Replica Transit Van is an Extra car in Colin McRae Rally 3 and 4.</text>
+      <sha1>tt4uqn9fjqycoe5wsyfikbfuxb3elcq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ford XR8</title>
+    <ns>0</ns>
+    <id>464114</id>
+    <revision>
+      <id>464702</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464702</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="227" sha1="huy63b7lgfe51zkfjqag22bkvi4bfiq" xml:space="preserve">{{Object
+| Name=Ford XR8
+| Guid=3055-7526
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Need_for_Speed_High_Stakes
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>huy63b7lgfe51zkfjqag22bkvi4bfiq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Fried Chikipi</title>
+    <ns>0</ns>
+    <id>463984</id>
+    <revision>
+      <id>729097</id>
+      <parentid>464572</parentid>
+      <timestamp>2026-02-14T21:31:26Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729097</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1246" sha1="gdgwpi7fmrxkpguv398eosqqux1qwae" xml:space="preserve">{{Object
+| Name=Fried Chikipi
+| Guid=3055-7396
+| Deck=A food item from Palworld.
+| Characters=
+| Concepts=Concepts/Cooking
+| Franchises=
+| Games=Games/Palworld
+| Locations=
+| People=
+| Objects=Objects/Chikipi_Poultry,Objects/Egg,Objects/Flour,Objects/High_Quality_Pal_Oil
+| Image=https://www.giantbomb.com/a/uploads/scale_super/10/103881/3544941-fried_chikipi.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3544941-fried_chikipi.png","path":"10\/103881\/","mime":"image\/png","sizes":"scale_super,scale_small,square_medium,square_small,scale_medium,square_avatar,square_tiny,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+
+==Overview==
+Fried Chikipi is a cooked consumable food item in [https://www.giantbomb.com/palworld/3030-82842 Palworld].
+
+==In-Game Description==
+&lt;blockquote&gt;Magnificently juicy poultry. 
+Eat to increase work speed and make SAN decrease slower for a period of time.&lt;/blockquote&gt;
+==Stats==
+* Weight: 0.5
+* Nutrition: 108
+* SAN: 14
+
+==Cooking==
+Chikipi Poultry is created by cooking the following ingredients on an Electric Kitchen:
+* 1 [[Objects/Chikipi_Poultry|Chikipi Poultry]]
+* 1 Flour
+* 1 Egg
+* 1 [[Objects/High_Quality_Pal_Oil|High Quality Pal Oil]]</text>
+      <sha1>gdgwpi7fmrxkpguv398eosqqux1qwae</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Fried Rice</title>
+    <ns>0</ns>
+    <id>463915</id>
+    <revision>
+      <id>729045</id>
+      <parentid>464503</parentid>
+      <timestamp>2026-02-14T21:30:47Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729045</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1341" sha1="chbxddgnuyc24ulp5t411zfm9rhhwec" xml:space="preserve">{{Object
+| Name=Fried Rice
+| Guid=3055-7326
+| Deck=Fried Rice is an Asian dish that takes cooked rice that has been chilled and stir-fries it, typically with eggs and vegetables.
+| Characters=Characters/Forrest_Law,Characters/Marshall_Law,Characters/Paul_Phoenix,Characters/Takayuki_Yagami
+| Concepts=
+| Franchises=
+| Games=Games/Lost_Judgment
+| Locations=Locations/Asia,Locations/California,Locations/China,Locations/Earth,Locations/Japan,Locations/Kamurocho,Locations/Los_Angeles,Locations/Madam_Chens_Restaurant,Locations/North_America,Locations/San_Francisco,Locations/Santa_Barbara,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America,Locations/Thousand_Oaks,Locations/Tokyo,Locations/Ventura_County
+| People=
+| Objects=Objects/Egg,Objects/Rice,Objects/Yakisoba
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3511752-fried-rice-9-500x500.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3511752-fried-rice-9-500x500.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_small,square_medium,square_avatar,scale_medium,scale_super,scale_small,square_mini,square_tiny,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Fried Rice is an Asian dish that takes cooked rice that has been chilled and stir-fries it, typically with eggs and vegetables.</text>
+      <sha1>chbxddgnuyc24ulp5t411zfm9rhhwec</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Funnel</title>
+    <ns>0</ns>
+    <id>463935</id>
+    <revision>
+      <id>729065</id>
+      <parentid>464523</parentid>
+      <timestamp>2026-02-14T21:31:03Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729065</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="928" sha1="lm2nwpqw86sxidlssar6yipfgku3xqo" xml:space="preserve">{{Object
+| Name=Funnel
+| Guid=3055-7346
+| Deck=Funnels are instruments that help transport liquid from one container to another without the risk of spilling.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Hidden_Runaway,Games/Marvels_Spider_Man_2,Games/Runaway_2_The_Dream_of_the_Turtle,Games/Runaway_A_Twist_of_Fate
+| Locations=
+| People=
+| Objects=Objects/Cup,Objects/Oil_Drum,Objects/Water
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3514628-kitchen_funnel.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3514628-kitchen_funnel.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,scale_small,square_medium,square_avatar,square_small,square_tiny,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Funnels are instruments that help transport liquid from one container to another without the risk of spilling.</text>
+      <sha1>lm2nwpqw86sxidlssar6yipfgku3xqo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Funnel Cake</title>
+    <ns>0</ns>
+    <id>463944</id>
+    <revision>
+      <id>729070</id>
+      <parentid>464532</parentid>
+      <timestamp>2026-02-14T21:31:07Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729070</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1233" sha1="obuacv4q35jatgoka90c33bk46b8b2e" xml:space="preserve">{{Object
+| Name=Funnel Cake
+| Guid=3055-7355
+| Deck=Funnel Cake is a dessert dish made of fried batter that is typically topped with sweets such as powdered sugar or strawberries.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Marvels_Spider_Man_2
+| Locations=Locations/Amusement_Park,Locations/Cafeteria,Locations/Coney_Island,Locations/Kitchen
+| People=
+| Objects=Objects/Baking_Ingredients,Objects/Biscuit,Objects/Cake,Objects/Cookies,Objects/Cupcake,Objects/Deep_Fryer,Objects/Egg,Objects/Flour,Objects/Oven,Objects/Pie,Objects/Strawberry,Objects/Sugar
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3517386-622445-funnel-cakes-iii-footballgrl16-4x3-1-d9f5daeb58304342a919d28fb820788b.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3517386-622445-funnel-cakes-iii-footballgrl16-4x3-1-d9f5daeb58304342a919d28fb820788b.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_super,square_avatar,square_medium,scale_small,square_tiny,square_mini,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+Funnel Cake is a dessert dish made of fried batter that is typically topped with sweets such as powdered sugar or strawberries.</text>
+      <sha1>obuacv4q35jatgoka90c33bk46b8b2e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Furnace</title>
+    <ns>0</ns>
+    <id>464345</id>
+    <revision>
+      <id>464933</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464933</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="317" sha1="ocshwu2xa6dl23mjdptb1raomy24bf9" xml:space="preserve">{{Object
+| Name=Furnace
+| Guid=3055-7762
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Going_Medieval,Games/Minecraft,Games/Rust,Games/Super_Granny_5,Games/The_Long_Dark,Games/The_Simpsons_Barts_Nightmare
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ocshwu2xa6dl23mjdptb1raomy24bf9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/GLOO Cannon</title>
+    <ns>0</ns>
+    <id>464211</id>
+    <revision>
+      <id>464799</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464799</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="233" sha1="1qyrr227nzq0s7r7ssesa3fnaqzlbcg" xml:space="preserve">{{Object
+| Name=GLOO Cannon
+| Guid=3055-7624
+| Characters=Characters/Morgan_Yu
+| Concepts=
+| Franchises=
+| Games=Games/Prey_2017
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>1qyrr227nzq0s7r7ssesa3fnaqzlbcg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Game Controller</title>
+    <ns>0</ns>
+    <id>463934</id>
+    <revision>
+      <id>729064</id>
+      <parentid>464522</parentid>
+      <timestamp>2026-02-14T21:31:02Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729064</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3396" sha1="0bbjmscf4di0bs62ebqyb970fmxs7dg" xml:space="preserve">{{Object
+| Name=Game Controller
+| Guid=3055-7345
+| Deck=For the more generic game controller that appears with a license free game console that appears in many games.
+| Characters=Characters/Abe,Characters/Arina,Characters/Astro_Bot,Characters/Cassie_Drake,Characters/Derrick_Acosta,Characters/Drake_Parker,Characters/Elena_Fisher,Characters/Hideo_Kojima,Characters/Josh_Nichols,Characters/Megan_Parker,Characters/Nathan_Drake,Characters/Otacon,Characters/Rocco_Botte,Characters/Sackboy,Characters/Shawn_Chatfield,Characters/Solid_Snake,Characters/Takayuki_Yagami,Characters/Yeony
+| Concepts=
+| Franchises=
+| Games=Games/3_2_1_Rattle_Battle,Games/Astro_Bot,Games/Astros_Playroom,Games/Conduit_2,Games/Death_Stranding,Games/Geom_Cube,Games/Helix,Games/LittleBigPlanet,Games/LittleBigPlanet_2,Games/LittleBigPlanet_2009,Games/LittleBigPlanet_3,Games/LittleBigPlanet_Karting,Games/LittleBigPlanet_PS_Vita,Games/Lost_Judgment,Games/Marvels_Spider_Man_2,Games/Metal_Gear_Solid,Games/Metal_Gear_Solid_4_Guns_of_the_Patriots,Games/Metal_Gear_Solid_Master_Collection_Vol_1,Games/Metal_Gear_Solid_Portable_Ops,Games/Metal_Gear_Solid_The_Legacy_Collection_1987_2012,Games/Metal_Gear_Solid_The_Twin_Snakes,Games/Monster_Hunter_Tri,Games/PAIN,Games/Persona_2_Eternal_Punishment,Games/PlayStation_Home,Games/Rabbids_Go_Home_A_Comedy_Adventure,Games/Rabbids_Lab,Games/Returnal,Games/Star_Ocean_The_Second_Story,Games/Super_Paper_Mario,Games/Super_Smash_Bros_Brawl,Games/Tasogare_no_Sinsemilla,Games/Tatsunoko_vs_Capcom_Cross_Generation_of_Heroes,Games/The_Last_of_Us,Games/The_Last_of_Us_Left_Behind,Games/The_Last_of_Us_Part_II,Games/The_Playroom_2013,Games/The_Playroom_VR,Games/The_Sims_3_Pets_2011,Games/Uncharted_4_A_Thiefs_End,Games/Uncharted_Legacy_of_Thieves_Collection,Games/Unpacking,Games/WarioWare_Smooth_Moves,Games/We_Dare,Games/Wii_Sports,Games/Zack_And_Wiki_Quest_for_Barbaros_Treasure
+| Locations=Locations/Asia,Locations/California,Locations/China,Locations/Japan,Locations/Mexico,Locations/New_York,Locations/New_York_City,Locations/North_America,Locations/San_Diego,Locations/Santa_Barbara,Locations/The_United_States_of_America,Locations/Thousand_Oaks,Locations/Ventura_County
+| People=
+| Objects=Objects/Atari_CX40_Joystick,Objects/Dreamcast,Objects/DualSense,Objects/DualShock,Objects/DualShock_2,Objects/DualShock_3,Objects/DualShock_4,Objects/GameCube,Objects/NES,Objects/Nintendo_Switch,Objects/PlayStation,Objects/PlayStation_2,Objects/PlayStation_3,Objects/PlayStation_4,Objects/PlayStation_5,Objects/PlayStation_Controller,Objects/PlayStation_Portable,Objects/PlayStation_Vita,Objects/Sega_Genesis,Objects/Sega_Master_System,Objects/Sega_Saturn,Objects/Sixaxis_Controller,Objects/SNES,Objects/Television,Objects/Wii,Objects/Wii_Balance_Board,Objects/Wii_Classic_Controller,Objects/Wii_Remote,Objects/Wii_U,Objects/Xbox,Objects/Xbox_360,Objects/Xbox_One_Box
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3514627-5315686.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3514627-5315686.png","path":"8\/82962\/","mime":"image\/png","sizes":"square_medium,square_avatar,square_small,scale_medium,scale_small,scale_super,square_tiny,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick,scale_tiny","caption":null},"background":[]}' /&gt;
+For the more generic game controller that appears with a license free game console that appears in many games.</text>
+      <sha1>0bbjmscf4di0bs62ebqyb970fmxs7dg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Gate</title>
+    <ns>0</ns>
+    <id>464343</id>
+    <revision>
+      <id>464931</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464931</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="641" sha1="m29r25rdbiz89u3a51msz6tqhv4ibua" xml:space="preserve">{{Object
+| Name=Gate
+| Guid=3055-7760
+| Characters=
+| Concepts=
+| Franchises=Franchises/Super_Granny
+| Games=Games/Art_of_Murder_Hunt_for_the_Puppeteer,Games/Assassins_Creed_Chronicles_China,Games/Going_Medieval,Games/LEGO_Harry_Potter_Years_5_7,Games/Minecraft_Legends,Games/Nobunagas_Ambition_Rise_to_Power,Games/One_Night_Stand,Games/Piglets_Big_Game,Games/Super_Granny_3,Games/Super_Granny_5,Games/Super_Granny_6,Games/The_Elder_Scrolls_Adventures_Redguard,Games/The_Simpsons_Barts_House_of_Weirdness,Games/Winter_Resort_Simulator_2
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>m29r25rdbiz89u3a51msz6tqhv4ibua</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Geyser</title>
+    <ns>0</ns>
+    <id>464354</id>
+    <revision>
+      <id>464942</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464942</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="743" sha1="ivye5zzyz3y8vue7s02ljll47pk2xgf" xml:space="preserve">{{Object
+| Name=Geyser
+| Guid=3055-7771
+| Deck=Natural formations which spew water and steam from underground. In games, they often pose hazards or enable further platforming for the player.
+| Characters=
+| Concepts=Concepts/Hazardous_Water
+| Franchises=
+| Games=Games/Antonblast,Games/Bayonetta,Games/Chicory_A_Colorful_Tale,Games/Mario_Kart_7,Games/Mario_Kart_8,Games/Mario_Kart_Double_Dash,Games/Minecraft_Legends,Games/New_Super_Mario_Bros_U,Games/Oxygen_Not_Included,Games/Peak
+| Locations=
+| People=
+| Objects=Objects/Water
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Natural formations which spew water and steam from underground. In games, they often pose hazards or enable further platforming for the player.</text>
+      <sha1>ivye5zzyz3y8vue7s02ljll47pk2xgf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Girl with a Pearl Earring</title>
+    <ns>0</ns>
+    <id>464121</id>
+    <revision>
+      <id>729190</id>
+      <parentid>464709</parentid>
+      <timestamp>2026-02-14T21:32:44Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729190</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1589" sha1="sbz6411i6rjx02zt5436t3npx211m14" xml:space="preserve">{{Object
+| Name=Girl with a Pearl Earring
+| Guid=3055-7533
+| Aliases=Meisje met de Parel
+| Deck=A 17th century painting by Dutch artist Johannes Vermeer, by the 21st century it had become a recognizable mass-media object, often appearing in films, graffiti, and on covers. Sometimes it can also be found in the gaming industry.
+| Characters=Characters/Redd
+| Concepts=Concepts/Black_Market,Concepts/Drawing,Concepts/Graffiti,Concepts/Pop_Culture_Reference
+| Franchises=
+| Games=Games/Animal_Crossing_City_Folk,Games/Animal_Crossing_Happy_Home_Designer,Games/Animal_Crossing_New_Horizons,Games/Animal_Crossing_New_Leaf,Games/Legacy_of_Kain_Blood_Omen_2,Games/Tomb_Raider_I_II_III_Remastered
+| Locations=Locations/Europe,Locations/The_Netherlands
+| People=
+| Objects=Objects/Earrings,Objects/Headband,Objects/Mona_Lisa,Objects/Paintings,Objects/Pearl,Objects/Portrait
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3636100-1665_girl_with_a_pearl_earring.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3636100-1665_girl_with_a_pearl_earring.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,square_mini,square_small,scale_medium,square_medium,square_avatar,square_tiny,scale_tiny,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":"Girl with a Pearl Earring"},"background":[]}' /&gt;
+A 17th century painting by Dutch artist Johannes Vermeer, by the 21st century it had become a recognizable mass-media object, often appearing in films, graffiti, and on covers. Sometimes it can also be found in the gaming industry.</text>
+      <sha1>sbz6411i6rjx02zt5436t3npx211m14</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Glickenhaus SCG 007</title>
+    <ns>0</ns>
+    <id>464278</id>
+    <revision>
+      <id>464866</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464866</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" sha1="e52vcvp4rehiglkopcfmppl3sidivbd" xml:space="preserve">{{Object
+| Name=Glickenhaus SCG 007
+| Guid=3055-7695
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Le_Mans_Ultimate
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>e52vcvp4rehiglkopcfmppl3sidivbd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Golden Gate Bridge</title>
+    <ns>0</ns>
+    <id>464123</id>
+    <revision>
+      <id>729191</id>
+      <parentid>464711</parentid>
+      <timestamp>2026-02-14T21:32:44Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729191</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1114" sha1="e2vjj3qo6xq4g17qtb6od9iw9r0t8sl" xml:space="preserve">{{Object
+| Name=Golden Gate Bridge
+| Guid=3055-7536
+| Deck=When we see this bridge in the game only as an object, but we have never been on it.
+| Characters=
+| Concepts=Concepts/Pop_Culture_Reference
+| Franchises=
+| Games=Games/Arabian_Nights,Games/Ninja_Gaiden_1988
+| Locations=Locations/San_Francisco,Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Bridge,Objects/Empire_State_Building,Objects/The_Statue_of_Liberty
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3642599-0912752752-32060.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3642599-0912752752-32060.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"scale_super,square_medium,scale_tiny,scale_small,square_small,scale_medium,square_tiny,square_mini,square_avatar,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+For example, it is shown in the background of the level, it is on a photo or poster on the wall in the room, it is there as a miniature figure or model for a child's construction kit, we fly over it in a helicopter in a video clip, etc.</text>
+      <sha1>e2vjj3qo6xq4g17qtb6od9iw9r0t8sl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Gondola</title>
+    <ns>0</ns>
+    <id>464318</id>
+    <revision>
+      <id>1007884</id>
+      <parentid>729295</parentid>
+      <timestamp>2026-07-19T18:17:53Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007884</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1022" sha1="e39apr73txdgv10nlixo2are6o4f7kr" xml:space="preserve">{{Object
+| Name=Gondola
+| Guid=3055-7735
+| Deck=Venice's sea cab. Also used by tourists for leisurely romantic trips. Usually comes with a boatman called a gondolier
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Impostor_Factory,Games/Ninja_Gaiden_II,Games/Ninja_Gaiden_Sigma_2,Games/Soccer_Kid,Games/Tomb_Raider_I_II_III_Remastered,Games/Tomb_Raider_II
+| Locations=Locations/River,Locations/Venice_Italy
+| People=
+| Objects=Objects/Boat,Objects/Water
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3784246-gondolier_on_the_grand_canal%2C_venice%2C_italy.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3784246-gondolier_on_the_grand_canal,_venice,_italy.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,scale_small,square_medium,square_small,square_avatar,scale_tiny,square_tiny","caption":null},"background":[]}' /&gt;
+Venice's sea cab. Also used by tourists for leisurely romantic trips. Usually comes with a boatman called a gondolier</text>
+      <sha1>e39apr73txdgv10nlixo2are6o4f7kr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Grapefruit</title>
+    <ns>0</ns>
+    <id>463921</id>
+    <revision>
+      <id>729051</id>
+      <parentid>464509</parentid>
+      <timestamp>2026-02-14T21:30:52Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729051</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1021" sha1="3rkmujyox09qe9s2wtowte8sog6yv47" xml:space="preserve">{{Object
+| Name=Grapefruit
+| Guid=3055-7332
+| Deck=Grapefruit, not to be confused with the fruit Grape, is a citrus fruit known for its very bitter taste.
+| Characters=Characters/Takayuki_Yagami
+| Concepts=
+| Franchises=
+| Games=Games/Infinite_Chef,Games/Lost_Judgment,Games/Project_Zomboid
+| Locations=Locations/Asia,Locations/California,Locations/Japan,Locations/The_United_States_of_America,Locations/Tokyo
+| People=
+| Objects=Objects/Citrus,Objects/Fruit,Objects/Lemon,Objects/Lime,Objects/Orange,Objects/Soft_Drink
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3511759-afsd.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3511759-afsd.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_small,scale_super,scale_small,scale_medium,square_medium,square_avatar,square_tiny,square_mini,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+Grapefruit, not to be confused with the fruit Grape, is a citrus fruit known for its very bitter taste.</text>
+      <sha1>3rkmujyox09qe9s2wtowte8sog6yv47</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Grilled Chikipi</title>
+    <ns>0</ns>
+    <id>463982</id>
+    <revision>
+      <id>729095</id>
+      <parentid>464570</parentid>
+      <timestamp>2026-02-14T21:31:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729095</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1135" sha1="33e2ppdn17jcdiv3ey2cl3cimxr1iyn" xml:space="preserve">{{Object
+| Name=Grilled Chikipi
+| Guid=3055-7394
+| Deck=A food item from Palworld.
+| Characters=
+| Concepts=Concepts/Cooking
+| Franchises=
+| Games=Games/Palworld
+| Locations=
+| People=
+| Objects=Objects/Chikipi_Poultry
+| Image=https://www.giantbomb.com/a/uploads/scale_super/10/103881/3544937-grilled_chikipi.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3544937-grilled_chikipi.png","path":"10\/103881\/","mime":"image\/png","sizes":"scale_super,scale_small,square_medium,square_small,scale_medium,square_tiny,square_avatar,scale_avatar,square_mini,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+
+==Overview==
+Grilled Chikipi is a consumable food item in [https://www.giantbomb.com/palworld/3030-82842 Palworld]. It is a cooked food item that is created by cooking [[Objects/Chikipi_Poultry|Chikipi Poultry]].
+
+==In-Game Description==
+&lt;blockquote&gt;Chicken skewer slow-grilled over a charcoal fire.
+Light and refreshing on the tongue.
+&lt;/blockquote&gt;
+==Stats==
+* Weight: 1
+* Nutrition: 50
+* SAN: 1
+
+==Cooking==
+Chikipi Poultry is created by cooking [[Objects/Chikipi_Poultry|Chikipi Poultry]].</text>
+      <sha1>33e2ppdn17jcdiv3ey2cl3cimxr1iyn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Guacamole</title>
+    <ns>0</ns>
+    <id>464335</id>
+    <revision>
+      <id>464923</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464923</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="543" sha1="nivdrbgshuf8ysy3v21rj4mixf8m2dw" xml:space="preserve">{{Object
+| Name=Guacamole
+| Guid=3055-7752
+| Deck=Guacamole is a Mexican food made of mashed avocado. It is usually mixed with chopped Tomatoes and onions.
+| Characters=Characters/Papa_Louie
+| Concepts=
+| Franchises=
+| Games=Games/Papas_Taco_Mia,Games/Project_Zomboid
+| Locations=Locations/Mexico
+| People=
+| Objects=Objects/Avocado,Objects/Onion_3380,Objects/Tomato
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Guacamole is a Mexican food made of mashed avocado. It is usually mixed with chopped Tomatoes and onions.
+</text>
+      <sha1>nivdrbgshuf8ysy3v21rj4mixf8m2dw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Gyrocopter</title>
+    <ns>0</ns>
+    <id>464326</id>
+    <revision>
+      <id>1007890</id>
+      <parentid>729301</parentid>
+      <timestamp>2026-07-19T18:18:51Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007890</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="870" sha1="7u33a0goj26799vwnbze6847d4wjz5a" xml:space="preserve">{{Object
+| Name=Gyrocopter
+| Guid=3055-7743
+| Deck=A compact helicopter, often with an open cockpit
+| Characters=Characters/Ajay_Ghale,Characters/Hurk
+| Concepts=
+| Franchises=
+| Games=Games/Far_Cry_4,Games/Ninja_Gaiden_1988,Games/Ninja_Gaiden_93686,Games/Reign_of_Fire,Games/Shinobi_1991
+| Locations=Locations/Asia,Locations/Kyrat
+| People=
+| Objects=Objects/Helicopter
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3788433-ninjagaiden%28arcade%29-gyrocopter.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3788433-ninjagaiden(arcade)-gyrocopter.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,square_tiny,square_medium,scale_medium,scale_super,scale_small,square_avatar,scale_tiny,square_mini","caption":"Ninja Gaiden (Arcade) - Gyrocopter"},"background":[]}' /&gt;
+A compact helicopter, often with an open cockpit</text>
+      <sha1>7u33a0goj26799vwnbze6847d4wjz5a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/HSV SV99</title>
+    <ns>0</ns>
+    <id>464115</id>
+    <revision>
+      <id>464703</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464703</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="227" sha1="d8z9y3crdbkyvz3o1dit9sg2l54rf8h" xml:space="preserve">{{Object
+| Name=HSV SV99
+| Guid=3055-7527
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Need_for_Speed_High_Stakes
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>d8z9y3crdbkyvz3o1dit9sg2l54rf8h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Harley Davidson Fat Boy</title>
+    <ns>0</ns>
+    <id>464043</id>
+    <revision>
+      <id>464631</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464631</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="d9973wnl87qvk44ces8ri08rcdpgp13" xml:space="preserve">{{Object
+| Name=Harley-Davidson Fat Boy
+| Guid=3055-7455
+| Characters=
+| Concepts=Concepts/Biker_Gang
+| Franchises=
+| Games=Games/Harley_Davidson_Race_Around_the_World,Games/Harley_Davidson_Wheels_of_Freedom
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>d9973wnl87qvk44ces8ri08rcdpgp13</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Harley Davidson Super Glide</title>
+    <ns>0</ns>
+    <id>464042</id>
+    <revision>
+      <id>464630</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464630</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="314" sha1="d5rcabh6qhadt6lp7qimq1zh61ov84i" xml:space="preserve">{{Object
+| Name=Harley-Davidson Super Glide
+| Guid=3055-7454
+| Characters=
+| Concepts=Concepts/Biker_Gang
+| Franchises=
+| Games=Games/Harley_Davidson_Race_Across_America,Games/Harley_Davidson_Wheels_of_Freedom
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>d5rcabh6qhadt6lp7qimq1zh61ov84i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Helsingborgs IF</title>
+    <ns>0</ns>
+    <id>463990</id>
+    <revision>
+      <id>464578</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464578</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="404" sha1="1zqbwwmi7oyoyelwg096uas2exzx3eb" xml:space="preserve">{{Object
+| Name=Helsingborgs IF
+| Guid=3055-7402
+| Deck=Helsingborgs IF is a sports club in Helsingborg, Sweden, mostly famous for its men's soccer team.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Helsingborgs IF is a sports club in Helsingborg, Sweden, mostly famous for its men's soccer team.</text>
+      <sha1>1zqbwwmi7oyoyelwg096uas2exzx3eb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Hersheys Kiss</title>
+    <ns>0</ns>
+    <id>464005</id>
+    <revision>
+      <id>729110</id>
+      <parentid>464593</parentid>
+      <timestamp>2026-02-14T21:31:38Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729110</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="755" sha1="c7wmz89lhuzt1xus2m38ag3lflzvwoh" xml:space="preserve">{{Object
+| Name=Hershey's Kiss
+| Guid=3055-7417
+| Deck=A chocolate drop from the Hershey's company which has a distinctive shape.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Yuki_Nae_no_Ge_mu_no_Tsubo
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3581514-1695812627-10048.gif
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3581514-1695812627-10048.gif","path":"16\/164924\/","mime":"image\/png","sizes":"scale_super,scale_small,square_small,scale_tiny,scale_medium,square_avatar,square_medium,square_tiny,square_mini,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A chocolate drop from the Hershey's company which has a distinctive shape.</text>
+      <sha1>c7wmz89lhuzt1xus2m38ag3lflzvwoh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/High Quality Pal Oil</title>
+    <ns>0</ns>
+    <id>463985</id>
+    <revision>
+      <id>729098</id>
+      <parentid>464573</parentid>
+      <timestamp>2026-02-14T21:31:28Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729098</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1895" sha1="6gyr10gg0gzp934lzo3ow9ktrvbctxb" xml:space="preserve">{{Object
+| Name=High Quality Pal Oil
+| Guid=3055-7397
+| Deck=A crafting item from Palworld.
+| Characters=
+| Concepts=Concepts/Digtoise,Concepts/Dumud,Concepts/Elphidran,Concepts/Flambelle,Concepts/Grintale,Concepts/Mammorest,Concepts/Quivern,Concepts/Relaxaurus,Concepts/Woolipop
+| Franchises=
+| Games=Games/Palworld
+| Locations=
+| People=
+| Objects=Objects/Fried_Chikipi,Objects/Musket,Objects/Pistol
+| Image=https://www.giantbomb.com/a/uploads/scale_super/10/103881/3544942-paloil.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3544942-paloil.png","path":"10\/103881\/","mime":"image\/png","sizes":"square_avatar,scale_small,square_medium,square_small,scale_medium,scale_super,square_tiny,scale_avatar,square_mini,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+
+==Overview==
+High Quality Pal Oil is a crafting item used to create different items in Palworld.
+
+==In-Game Description==
+&lt;blockquote&gt;High-quality oil that can be extracted from Pal. Necessary for making Polymer.
+&lt;/blockquote&gt;
+==Stats==
+* Weight: 0.2
+
+==Dropped By==
+High Quality Pal Oil is dropped by the following Pals:
+* [[Concepts/Digtoise|Digtoise]]
+* [[Concepts/Dumud|Dumud]]
+* [[Concepts/Elphidran|Elphidran]]
+* Elphidran Aqua
+* [[Concepts/Flambelle|Flambelle]]
+* [[Concepts/Grintale|Grintale]]
+* Jormuntide Ignis
+* [[Concepts/Mammorest|Mammorest]]
+* Mammorest Cryst
+* [[Concepts/Quivern|Quivern]]
+* [[Concepts/Relaxaurus|Relaxaurus]]
+* Relaxaurus Lux
+* [[Concepts/Woolipop|Woolipop]]
+
+==Crafting==
+High Quality Pal Oil is used as a crafting material in the following recipes:
+* Musket
+* Makeshift Handgun
+* Handgun
+* Handgun +1
+* Handgun +2
+* Handgun +3
+* Handgun +4
+* Decal Ink
+* Polymer
+* Mossandra's Grenade Launcher
+* Mossandra Lux's Grenade Launcher
+* Mammorest Saddle
+* Mammorest Cryst Saddle
+* Grizzbolt's Minigun
+* [[Objects/Fried_Chikipi|Fried Chikipi]]
+* Friend Kelpsea</text>
+      <sha1>6gyr10gg0gzp934lzo3ow9ktrvbctxb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Honda Accord</title>
+    <ns>0</ns>
+    <id>464155</id>
+    <revision>
+      <id>464743</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464743</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="252" sha1="oa7e19rlqycq7ggxl7r2kkgbh41yqc9" xml:space="preserve">{{Object
+| Name=Honda Accord
+| Guid=3055-7568
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/The_Getaway,Games/TOCA_Touring_Car_Championship
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>oa7e19rlqycq7ggxl7r2kkgbh41yqc9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Honda Beat</title>
+    <ns>0</ns>
+    <id>464180</id>
+    <revision>
+      <id>464768</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464768</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="nyrnfc2rigkxq3l8w97b9i6y1ewpad8" xml:space="preserve">{{Object
+| Name=Honda Beat
+| Guid=3055-7593
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Tokyo_Xtreme_Racer_Drift_2
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>nyrnfc2rigkxq3l8w97b9i6y1ewpad8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Honda CRX</title>
+    <ns>0</ns>
+    <id>464208</id>
+    <revision>
+      <id>729225</id>
+      <parentid>464796</parentid>
+      <timestamp>2026-02-14T21:33:13Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729225</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="579" sha1="66z0q23vxd9ws8akqla4r9t9eovrsk5" xml:space="preserve">{{Object
+| Name=Honda CRX
+| Guid=3055-7621
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| People=
+| Objects=Objects/Honda_CR_X_del_Sol
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3648878-0131499987-1200.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3648878-0131499987-1200.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_super,square_tiny,square_avatar,scale_small,scale_medium,square_mini,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;</text>
+      <sha1>66z0q23vxd9ws8akqla4r9t9eovrsk5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Honda CR X del Sol</title>
+    <ns>0</ns>
+    <id>464209</id>
+    <revision>
+      <id>729226</id>
+      <parentid>464797</parentid>
+      <timestamp>2026-02-14T21:33:14Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729226</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1202" sha1="siazx2s8i2v3rahsh70bnvrwke5squw" xml:space="preserve">{{Object
+| Name=Honda CR-X del Sol
+| Guid=3055-7622
+| Deck=The CR-X, after pioneering the world of front wheel drive sports cars, underwent a full model change in 1992, under the "Del Sol" sub name.
+| Characters=
+| Concepts=Concepts/Honda,Concepts/Licensed_Cars
+| Franchises=
+| Games=Games/Forza_Motorsport_2,Games/Forza_Motorsport_3,Games/Forza_Motorsport_4,Games/Gran_Turismo,Games/Gran_Turismo_2,Games/Gran_Turismo_2009,Games/Gran_Turismo_3_A_Spec,Games/Gran_Turismo_4,Games/Gran_Turismo_4_Prologue,Games/Gran_Turismo_5,Games/Gran_Turismo_6,Games/Gran_Turismo_Sport
+| Locations=Locations/Japan
+| People=
+| Objects=Objects/Honda_CRX
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3648890-8776547062-1000.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3648890-8776547062-1000.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_tiny,square_medium,scale_small,square_avatar,scale_medium,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+The CR-X, after pioneering the world of front wheel drive sports cars, underwent a full model change in 1992, under the "Del Sol" sub name.</text>
+      <sha1>siazx2s8i2v3rahsh70bnvrwke5squw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Honda Civic</title>
+    <ns>0</ns>
+    <id>464033</id>
+    <revision>
+      <id>729135</id>
+      <parentid>464621</parentid>
+      <timestamp>2026-02-14T21:31:59Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729135</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1676" sha1="s5sjxtt6d9x8bjg597ryl4gs3csfquv" xml:space="preserve">{{Object
+| Name=Honda Civic
+| Guid=3055-7445
+| Deck=Honda Civic is a compact model that was becoming a phenomenon across the globe for everyone.
+| Characters=Characters/Dominic_Toretto
+| Concepts=Concepts/Honda,Concepts/Licensed_Cars,Concepts/Street_Racing
+| Franchises=
+| Games=Games/CSR_Racing_2,Games/Drift_Spirits,Games/Forza_Motorsport,Games/Forza_Motorsport_2,Games/Forza_Motorsport_2023,Games/Forza_Motorsport_3,Games/Forza_Motorsport_4,Games/Gran_Turismo,Games/Gran_Turismo_2,Games/Gran_Turismo_3_A_Spec,Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_6,Games/Gran_Turismo_7,Games/Initial_D,Games/Initial_D_Extreme_Stage,Games/Initial_D_Mountain_Vengeance,Games/Initial_D_Special_Stage,Games/Need_for_Speed,Games/Need_for_Speed_ProStreet,Games/Need_for_Speed_Unbound,Games/Need_for_Speed_Underground,Games/Need_for_Speed_Underground_2,Games/The_Fast_and_the_Furious,Games/The_Getaway,Games/Tokyo_Highway_Battle
+| Locations=Locations/Japan,Locations/The_United_States_of_America,Locations/United_Kingdom
+| People=
+| Objects=Objects/Car,Objects/Honda_Civic_Type_R,Objects/Race_Car,Objects/Sedan,Objects/Sports_Car
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3605431-img_2318.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3605431-img_2318.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"square_medium,scale_super,scale_small,square_small,square_avatar,scale_tiny,scale_medium,square_mini,scale_avatar,screen_medium,square_tiny,scale_large,screen_kubrick","caption":"Red Honda Civic Coupe (EM)"},"background":[]}' /&gt;
+Honda Civic is a compact model that was becoming a phenomenon across the globe for everyone.</text>
+      <sha1>s5sjxtt6d9x8bjg597ryl4gs3csfquv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Honda Civic Type R</title>
+    <ns>0</ns>
+    <id>464034</id>
+    <revision>
+      <id>729136</id>
+      <parentid>464622</parentid>
+      <timestamp>2026-02-14T21:32:00Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729136</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1645" sha1="5hbku3kxno5afcu5fx00uh1xzlm1ysy" xml:space="preserve">{{Object
+| Name=Honda Civic Type R
+| Guid=3055-7446
+| Deck=Honda Civic Type R is a tuned up version of the popular model, the Civic and sold it, worldwide.
+| Characters=
+| Concepts=Concepts/Endurance_Racing,Concepts/Honda,Concepts/Licensed_Cars,Concepts/Street_Racing
+| Franchises=
+| Games=Games/Drift_Spirits,Games/Forza_Horizon_2,Games/Forza_Motorsport,Games/Forza_Motorsport_2,Games/Forza_Motorsport_2023,Games/Forza_Motorsport_3,Games/Forza_Motorsport_4,Games/Gran_Turismo,Games/Gran_Turismo_2,Games/Gran_Turismo_3_A_Spec,Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_6,Games/Gran_Turismo_7,Games/Initial_D_Arcade_Stage_Zero,Games/Initial_D_Extreme_Stage,Games/Initial_D_Special_Stage,Games/Initial_D_The_Arcade,Games/Juiced,Games/Juiced_2_Hot_Import_Nights,Games/Need_for_Speed,Games/Need_for_Speed_Heat,Games/Need_for_Speed_Payback,Games/Need_for_Speed_Unbound,Games/Project_CARS_3,Games/The_Fast_and_the_Furious,Games/Tokyo_Xtreme_Racer_Drift_2
+| Locations=Locations/Japan,Locations/United_Kingdom
+| People=
+| Objects=Objects/Car,Objects/Honda_Civic,Objects/Race_Car,Objects/Sedan,Objects/Sports_Car
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3605442-img_2325.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3605442-img_2325.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"square_medium,scale_medium,scale_small,square_avatar,square_small,scale_super,square_tiny,scale_tiny,square_mini,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+Honda Civic Type R is a tuned up version of the popular model, the Civic and sold it, worldwide.</text>
+      <sha1>5hbku3kxno5afcu5fx00uh1xzlm1ysy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Honda Fit</title>
+    <ns>0</ns>
+    <id>464181</id>
+    <revision>
+      <id>464769</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464769</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" sha1="f117kj6l2it66nebg44u6aoyu9g5c2j" xml:space="preserve">{{Object
+| Name=Honda Fit
+| Guid=3055-7594
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Tokyo_Xtreme_Racer_Drift_2
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>f117kj6l2it66nebg44u6aoyu9g5c2j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Honda Logo TS</title>
+    <ns>0</ns>
+    <id>464189</id>
+    <revision>
+      <id>729213</id>
+      <parentid>464777</parentid>
+      <timestamp>2026-02-14T21:33:03Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729213</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="839" sha1="jnrfrd9xxm00hk1035y2ikusff4u64y" xml:space="preserve">{{Object
+| Name=Honda Logo TS
+| Guid=3055-7602
+| Deck=The Honda Logo TS (J) '98 is a road car produced by Honda. It only appears in Gran Turismo 2.
+| Characters=
+| Concepts=Concepts/Honda,Concepts/Licensed_Cars
+| Franchises=
+| Games=Games/Gran_Turismo_2
+| Locations=Locations/Japan
+| People=
+| Objects=Objects/Car
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3646155-5453374357-latest.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3646155-5453374357-latest.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_small,square_medium,square_avatar,square_tiny,scale_super,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Honda Logo TS (J) '98 is a road car produced by Honda. It only appears in Gran Turismo 2.</text>
+      <sha1>jnrfrd9xxm00hk1035y2ikusff4u64y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Honda NSX R</title>
+    <ns>0</ns>
+    <id>464182</id>
+    <revision>
+      <id>464770</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464770</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="276" sha1="1y4f1e085rgo3ugbdt8lcjxtqvti9hh" xml:space="preserve">{{Object
+| Name=Honda NSX-R
+| Guid=3055-7595
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/GRID_Autosport,Games/TOCA_Race_Driver_3,Games/Tokyo_Xtreme_Racer_Drift_2
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>1y4f1e085rgo3ugbdt8lcjxtqvti9hh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Honda Prelude</title>
+    <ns>0</ns>
+    <id>464210</id>
+    <revision>
+      <id>729227</id>
+      <parentid>464798</parentid>
+      <timestamp>2026-02-14T21:33:15Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729227</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1996" sha1="60r45m6sszpw8w7erxtvd3oam89gxbm" xml:space="preserve">{{Object
+| Name=Honda Prelude
+| Guid=3055-7623
+| Deck=The Honda PRELUDE Si '91 is a road car produced by Honda. It so far appeared only in the first two games of the Gran Turismo series, before being overshadowed by the Honda PRELUDE Si VTEC '91.
+| Characters=
+| Concepts=Concepts/Honda,Concepts/Licensed_Cars,Concepts/The_1990s
+| Franchises=
+| Games=Games/Fast_And_Furious_6_The_Game,Games/Forza_Motorsport,Games/Forza_Motorsport_2,Games/Forza_Motorsport_2023,Games/Forza_Motorsport_3,Games/Forza_Motorsport_4,Games/Gran_Turismo,Games/Gran_Turismo_2,Games/Gran_Turismo_2009,Games/Gran_Turismo_4,Games/Gran_Turismo_6,Games/Kaido_Battle_2_Chain_Reaction,Games/Sega_GT,Games/Top_Drives,Games/Zero4_Champ_Series_Drift_Champ
+| Locations=Locations/Japan
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3648891-2257368863-1000.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3648891-2257368863-1000.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_avatar,square_medium,scale_super,square_tiny,scale_medium,scale_small,square_small,square_mini,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+This sportier Prelude was launched in 1991, with the body expanded to 1,765 mm wide, and a more accentuated low-slung shape. Both are 2.2-litre inline 4-cylinder DOHC engines, but the basic grade Si's F22B delivers 160 PS and 20.5 kgm, while the sports grade Si-VTEC's H22A engine packs in 200 PS and 22.3 kgm. Transmission is available in 5-speed manual and 4-speed automatic for each car. The double-wishbone suspension was further refined, and the 4-wheel steering was retained, and it gives a thrilling drive with a natural feel. The Si's 160 PS engine moves through the ranges smoothly, and gives a well-balanced drive, the Si-VTEC providing even more stimulation. The engine surges through to the high range in a flash. The body size is a worry on winding roads, but it's a comfortable drive.</text>
+      <sha1>60r45m6sszpw8w7erxtvd3oam89gxbm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Hummer H1</title>
+    <ns>0</ns>
+    <id>464195</id>
+    <revision>
+      <id>729217</id>
+      <parentid>464783</parentid>
+      <timestamp>2026-02-14T21:33:06Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729217</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1521" sha1="2rb5m5tkcmi8m8ijla667x87q1vjajb" xml:space="preserve">{{Object
+| Name=Hummer H1
+| Guid=3055-7608
+| Deck=The Hummer H1, a large 4x4 light truck, is a civilian model derived from the military HMMWV. It shares most components with the HMMWV including chassis, powertrain, body, and body panels. The most important difference to the HMMWV is the added luxury and amenitites in the interior to serve as a better civilian vehicle.
+| Characters=
+| Concepts=Concepts/Licensed_Cars,Concepts/Military
+| Franchises=
+| Games=Games/Asphalt_Urban_GT,Games/Forza_Horizon,Games/Forza_Horizon_2,Games/Forza_Horizon_4,Games/Midnight_Club_3_DUB_Edition,Games/MudRunner,Games/Need_for_Speed_World,Games/The_Crew_2
+| Locations=Locations/The_United_States_of_America
+| People=
+| Objects=Objects/HMMWV,Objects/Hummer_H2,Objects/Patriot,Objects/Truck
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3646479-8761644423-1000.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3646479-8761644423-1000.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_medium,square_small,square_avatar,scale_medium,scale_small,square_tiny,scale_super,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Hummer H1, a large 4x4 light truck, is a civilian model derived from the military HMMWV. It shares most components with the HMMWV including chassis, powertrain, body, and body panels. The most important difference to the HMMWV is the added luxury and amenitites in the interior to serve as a better civilian vehicle.</text>
+      <sha1>2rb5m5tkcmi8m8ijla667x87q1vjajb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Hyundai Accent</title>
+    <ns>0</ns>
+    <id>464135</id>
+    <revision>
+      <id>464723</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464723</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="299" sha1="nh19xxrev06gdof1a3m2eqq6cynuz95" xml:space="preserve">{{Object
+| Name=Hyundai Accent
+| Guid=3055-7548
+| Characters=Characters/Kenneth_Erikkson
+| Concepts=
+| Franchises=
+| Games=Games/V_Rally_3,Games/WRC_II_Extreme,Games/WRC_World_Rally_Championship
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>nh19xxrev06gdof1a3m2eqq6cynuz95</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Hyundai Acent</title>
+    <ns>0</ns>
+    <id>464134</id>
+    <revision>
+      <id>464722</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464722</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="215" sha1="17aa4kh2aba279cz2d5gy1yhawwn2zo" xml:space="preserve">{{Object
+| Name=Hyundai Acent
+| Guid=3055-7547
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/V_Rally_3
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>17aa4kh2aba279cz2d5gy1yhawwn2zo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Hyundai Coupe</title>
+    <ns>0</ns>
+    <id>464089</id>
+    <revision>
+      <id>464677</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464677</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="304" sha1="gnmtn9j3opk9cte8kl6x13wxw6sc837" xml:space="preserve">{{Object
+| Name=Hyundai Coupe
+| Guid=3055-7501
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Michelin_Rally_Masters_Race_of_Champions,Games/Need_for_Speed_V_Rally_2,Games/Rally_Challenge_2000
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>gnmtn9j3opk9cte8kl6x13wxw6sc837</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/IS 2</title>
+    <ns>0</ns>
+    <id>463992</id>
+    <revision>
+      <id>464580</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464580</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="268" sha1="elkqu8wqsbinuw6eplpq3ijyz85bw5g" xml:space="preserve">{{Object
+| Name=IS-2
+| Guid=3055-7404
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Men_of_War_Assault_Squad_2,Games/Sudden_Strike_4,Games/Sudden_Strike_II
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>elkqu8wqsbinuw6eplpq3ijyz85bw5g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Incense</title>
+    <ns>0</ns>
+    <id>464044</id>
+    <revision>
+      <id>464632</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464632</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="267" sha1="heu8rlfjboes67kjf6qqg8stjxrt4ga" xml:space="preserve">{{Object
+| Name=Incense
+| Guid=3055-7456
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Black_Myth_Wukong,Games/Oriental_Legend,Games/Oriental_Legend_Super
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>heu8rlfjboes67kjf6qqg8stjxrt4ga</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Iron Maiden 7427</title>
+    <ns>0</ns>
+    <id>464015</id>
+    <revision>
+      <id>729119</id>
+      <parentid>464603</parentid>
+      <timestamp>2026-02-14T21:31:45Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729119</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1338" sha1="65u60pj4ijha9y7tyujge5mebdokyax" xml:space="preserve">{{Object
+| Name=Iron Maiden
+| Guid=3055-7427
+| Deck=Iron Maiden is a recurring mini-boss (and sometimes common enemy) in the Gradius series.
+| Characters=
+| Concepts=Concepts/Bacterian_Empire,Concepts/Music_Reference
+| Franchises=
+| Games=Games/Arcade_Classics_Anniversary_Collection,Games/Gradius,Games/Gradius_Collection,Games/Gradius_Deluxe_Pack,Games/Gradius_III,Games/Gradius_III_and_IV,Games/Gradius_Origins,Games/Gradius_ReBirth,Games/Konami_Antiques_MSX_Collection_Ultra_Pack,Games/Konami_Antiques_MSX_Collection_Vol_1,Games/Konami_Antiques_MSX_Collection_Vol_3,Games/Konami_Classics_Series_Arcade_Hits,Games/Konami_Game_Collection_Vol_3,Games/Life_Force,Games/Otomedius_Excellent,Games/Salamander_Deluxe_Pack_Plus,Games/Salamander_Portable
+| Locations=Locations/Space
+| People=
+| Objects=Objects/Drone
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3593369-4503373118-latest.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3593369-4503373118-latest.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_medium,square_small,scale_small,square_avatar,square_tiny,scale_tiny,square_mini,screen_kubrick,screen_medium,scale_avatar,scale_large","caption":null},"background":[]}' /&gt;
+Iron Maiden is a recurring mini-boss (and sometimes common enemy) in the Gradius series.</text>
+      <sha1>65u60pj4ijha9y7tyujge5mebdokyax</sha1>
+    </revision>
+  </page>
+</mediawiki>

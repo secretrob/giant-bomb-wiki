@@ -1,0 +1,1687 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Objects/The Swinging Guillotine</title>
+    <ns>0</ns>
+    <id>464314</id>
+    <revision>
+      <id>729291</id>
+      <parentid>464902</parentid>
+      <timestamp>2026-02-14T21:34:07Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729291</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1153" sha1="rtkve120em6br5edgyc9rue3i2py072" xml:space="preserve">{{Object
+| Name=The Swinging Guillotine
+| Guid=3055-7731
+| Deck=A type of cutting trap that prevents us from moving freely around the location
+| Characters=
+| Concepts=Concepts/Instant_Death,Concepts/Trap
+| Franchises=
+| Games=Games/Adventure_of_Little_Ralph,Games/Blood_Omen_Legacy_of_Kain,Games/Die_by_the_Sword,Games/Drakan_Order_of_the_Flame,Games/Mortal_Kombat_Mythologies_Sub_Zero,Games/Resident_Evil_4,Games/The_Elder_Scrolls_V_Skyrim
+| Locations=
+| People=
+| Objects=Objects/Ball_and_Chain,Objects/Guillotine,Objects/Spike_Ball
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3782567-mortalkombatmythologysub-zero-theswingingguillotine.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3782567-mortalkombatmythologysub-zero-theswingingguillotine.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,square_mini,square_medium,square_tiny,scale_tiny,scale_super,scale_medium,scale_small,square_avatar,screen_medium,scale_large","caption":"Mortal Kombat Mythology Sub-Zero - The Swinging Guillotine"},"background":[]}' /&gt;
+A type of cutting trap that prevents us from moving freely around the location</text>
+      <sha1>rtkve120em6br5edgyc9rue3i2py072</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/The Watchers Seal</title>
+    <ns>0</ns>
+    <id>464324</id>
+    <revision>
+      <id>464912</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464912</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="220" sha1="jx8u9zw6prwzri8jpe2rvkwcfw9zr6l" xml:space="preserve">{{Object
+| Name=The Watcher’s Seal
+| Guid=3055-7741
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Dewazma
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jx8u9zw6prwzri8jpe2rvkwcfw9zr6l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Thigh High Boots</title>
+    <ns>0</ns>
+    <id>464366</id>
+    <revision>
+      <id>729317</id>
+      <parentid>464954</parentid>
+      <timestamp>2026-02-14T21:34:30Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729317</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2663" sha1="7w7zfvt8ru9pkbftj7541vazhoka0lv" xml:space="preserve">{{Object
+| Name=Thigh-High Boots
+| Guid=3055-7783
+| Deck=Boots that go up to the thighs. Almost always include high heels and usually worn by women.
+| Characters=Characters/Angol_Fear,Characters/Arachne,Characters/Baroness,Characters/Blonde_Blazer,Characters/Brunnya,Characters/Camilla_32956,Characters/Captain_Marvel,Characters/Cassandra_Alexandra,Characters/Catwoman,Characters/Colossus,Characters/Coupe,Characters/Emma_Frost,Characters/Harley_Quinn,Characters/Hilde_von_Krone,Characters/Invisible_Woman,Characters/Ishtar_22709,Characters/Jean_Grey,Characters/Kang_the_Conqueror,Characters/Miranda_Lawson,Characters/Mystique,Characters/Nova,Characters/Phyla_Vell,Characters/Poison_Ivy,Characters/Power_Girl,Characters/Prism,Characters/Psylocke,Characters/Raven_8266,Characters/Scarlet_Witch,Characters/Selene_18686,Characters/Star_Sapphire_28884,Characters/Starfire,Characters/Storm,Characters/Valeera_Sanguinar,Characters/Vixen,Characters/Yennefer_of_Vengerberg,Characters/Zatanna
+| Concepts=Concepts/Alternate_Costume,Concepts/Femme_Fatale,Concepts/Sexualized_Women,Concepts/Superhero,Concepts/Supervillain
+| Franchises=
+| Games=Games/Batman_Arkham_City,Games/Batman_Arkham_Knight,Games/DC_Universe_Online,Games/Dispatch,Games/Fire_Emblem_Fates,Games/Fire_Emblem_Fuuin_no_Tsurugi,Games/Fire_Emblem_Heroes,Games/Fire_Emblem_Seisen_no_Keifu,Games/Heroes_of_the_Storm,Games/Infinite_Crisis,Games/Injustice_2,Games/Injustice_Gods_Among_Us,Games/League_of_Legends,Games/Marvel_Avengers_Alliance,Games/Marvel_Cosmic_Invasion,Games/Marvel_Future_Fight,Games/Marvel_Rivals,Games/Marvel_Super_Heroes,Games/Marvel_Ultimate_Alliance,Games/Marvel_Ultimate_Alliance_2,Games/Marvel_Ultimate_Alliance_3_The_Black_Order,Games/Marvel_vs_Capcom_2_New_Age_of_Heroes,Games/Marvel_vs_Capcom_3_Fate_of_Two_Worlds,Games/Marvel_vs_Capcom_Fighting_Collection_Arcade_Classics,Games/Mass_Effect_2,Games/Mass_Effect_3,Games/Mass_Effect_Legendary_Edition,Games/Smite,Games/Soulcalibur_IV,Games/Soulcalibur_V,Games/Soulcalibur_VI,Games/The_Witcher_3_Wild_Hunt,Games/Ultimate_Marvel_vs_Capcom_3,Games/Unicorn_Overlord,Games/World_of_Warcraft
+| Locations=
+| People=
+| Objects=Objects/Boots,Objects/High_Heels
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3822475-screenshot2025-11-10000611.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3822475-screenshot2025-11-10000611.png","path":"77\/776653\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_mini,square_avatar","caption":null},"background":[]}' /&gt;
+Boots that go up to the thighs. Almost always include high heels and usually worn by women.</text>
+      <sha1>7w7zfvt8ru9pkbftj7541vazhoka0lv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Thrasher</title>
+    <ns>0</ns>
+    <id>464011</id>
+    <revision>
+      <id>729115</id>
+      <parentid>464599</parentid>
+      <timestamp>2026-02-14T21:31:42Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729115</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="952" sha1="n66cu3yd4eiehqanbl1rvy2yrikx0sa" xml:space="preserve">{{Object
+| Name=Thrasher
+| Guid=3055-7423
+| Deck=Zowie Scott's spaceship. It only appears in the MSX version of Salamander.
+| Characters=Characters/Zowie_Scott
+| Concepts=Concepts/Music_Reference,Concepts/Player_2_Character
+| Franchises=
+| Games=Games/Konami_Antiques_MSX_Collection_Ultra_Pack,Games/Konami_Antiques_MSX_Collection_Vol_3,Games/Life_Force
+| Locations=Locations/Space
+| People=
+| Objects=Objects/Laser,Objects/Missile,Objects/Spaceship
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3593030-1976354788-latest.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3593030-1976354788-latest.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_medium,square_small,scale_small,square_medium,square_avatar,square_tiny,scale_super,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Zowie Scott's spaceship. It only appears in the MSX version of Salamander.</text>
+      <sha1>n66cu3yd4eiehqanbl1rvy2yrikx0sa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Thunder Hammer</title>
+    <ns>0</ns>
+    <id>463987</id>
+    <revision>
+      <id>729100</id>
+      <parentid>464575</parentid>
+      <timestamp>2026-02-14T21:31:29Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729100</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1283" sha1="lybvran1jm5tanxnch607niqhykxqh3" xml:space="preserve">{{Object
+| Name=Thunder Hammer
+| Guid=3055-7399
+| Deck=A futuristic take on a classic warhammer used by Space Marines and others in the setting of Warhammer 40,000.
+| Characters=Characters/Captain_Titus,Characters/Gabriel_Angelos,Characters/Mordecai_Toth
+| Concepts=Concepts/Adeptus_Astartes,Concepts/Black_Templar,Concepts/Blood_Ravens,Concepts/Imperial_Fists,Concepts/Inquisitor,Concepts/Iron_Warriors,Concepts/Night_Lords,Concepts/Space_Marine,Concepts/Space_Wolves,Concepts/Ultramarines
+| Franchises=
+| Games=Games/Warhammer_40_000_Dawn_of_War,Games/Warhammer_40_000_Dawn_of_War_III,Games/Warhammer_40_000_Space_Marine,Games/Warhammer_40_000_Space_Marine_II
+| Locations=
+| People=
+| Objects=Objects/Hammer,Objects/War_Hammer
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3545992-screenshot2024-02-06052630.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3545992-screenshot2024-02-06052630.png","path":"77\/776653\/","mime":"image\/png","sizes":"square_medium,square_small,scale_super,scale_medium,square_tiny,square_mini,scale_small,square_avatar,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A futuristic take on a classic warhammer used by Space Marines and others in the setting of Warhammer 40,000.</text>
+      <sha1>lybvran1jm5tanxnch607niqhykxqh3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Tissue Paper</title>
+    <ns>0</ns>
+    <id>463890</id>
+    <revision>
+      <id>729020</id>
+      <parentid>464478</parentid>
+      <timestamp>2026-02-14T21:30:27Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729020</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="995" sha1="9f4cnook8kw38hbqkdcgaa0rs4240c5" xml:space="preserve">{{Object
+| Name=Tissue Paper
+| Guid=3055-7301
+| Deck=Tissue paper is a commodity that many use for anything from being sick, crying, and even toilet paper substitutes.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Life_Is_Strange,Games/Like_a_Dragon_Gaiden_The_Man_Who_Erased_His_Name,Games/Lost_Judgment,Games/Omori,Games/Project_Zomboid
+| Locations=
+| People=
+| Objects=Objects/Paper,Objects/Paper_Towel,Objects/Toilet,Objects/Toilet_Paper,Objects/Trash,Objects/Tree
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3507803-nat5701.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3507803-nat5701.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_small,scale_super,scale_small,scale_medium,square_medium,square_avatar,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Tissue paper is a commodity that many use for anything from being sick, crying, and even toilet paper substitutes.</text>
+      <sha1>9f4cnook8kw38hbqkdcgaa0rs4240c5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Toaster Oven</title>
+    <ns>0</ns>
+    <id>463959</id>
+    <revision>
+      <id>729079</id>
+      <parentid>464547</parentid>
+      <timestamp>2026-02-14T21:31:13Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729079</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="829" sha1="pj6ww7dok8ci6pk52bg9f01euw35wc9" xml:space="preserve">{{Object
+| Name=Toaster Oven
+| Guid=3055-7370
+| Deck=A toaster oven is a small electric oven that uses heated coils to toast food.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Marvels_Spider_Man_2
+| Locations=Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Microwave,Objects/Oven,Objects/Pizza,Objects/Toaster
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3520939-www.krupsusa.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3520939-www.krupsusa.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_super,square_medium,square_small,scale_medium,scale_small,square_tiny,square_avatar,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A toaster oven is a small electric oven that uses heated coils to toast food.</text>
+      <sha1>pj6ww7dok8ci6pk52bg9f01euw35wc9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Tortilla Chips</title>
+    <ns>0</ns>
+    <id>463925</id>
+    <revision>
+      <id>729055</id>
+      <parentid>464513</parentid>
+      <timestamp>2026-02-14T21:30:55Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729055</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1797" sha1="cd5lt931q5sa0r4wf4bmmcxb9iarm14" xml:space="preserve">{{Object
+| Name=Tortilla Chips
+| Guid=3055-7336
+| Deck=Tortilla Chips are triangular fried corn tortillas.
+| Characters=Characters/Beavis,Characters/Big_Boss,Characters/Butthead,Characters/Fred_Fredburger,Characters/Hellboy,Characters/Ron_Stoppable,Characters/Rufus_14762
+| Concepts=
+| Franchises=
+| Games=Games/Cook_Serve_Delicious,Games/Cook_Serve_Delicious_3,Games/Doritos_VR_Battle,Games/Marvels_Spider_Man_2,Games/Metal_Gear_Solid_HD_Collection,Games/Metal_Gear_Solid_Peace_Walker,Games/Saints_Row_2,Games/Scott_Pilgrim_vs_The_World_The_Game,Games/Scribblenauts,Games/Scribblenauts_Unlimited,Games/Taco_Bell_Tasty_Temple_Challenge,Games/The_Grim_Adventures_of_Billy_And_Mandy,Games/The_Sims_2,Games/Uno_2016
+| Locations=Locations/California,Locations/Earth,Locations/Los_Angeles,Locations/Mexico,Locations/Mexico_City,Locations/New_Mexico,Locations/New_York,Locations/New_York_City,Locations/North_America,Locations/Pacific_Ocean,Locations/Restaurant,Locations/San_Diego,Locations/South_America,Locations/The_Milky_Way_Galaxy,Locations/Thousand_Oaks,Locations/Ventura_County
+| People=
+| Objects=Objects/Burrito,Objects/Cheese,Objects/Corn,Objects/Deep_Fryer,Objects/Doritos,Objects/Hamburger,Objects/Mountain_Dew,Objects/Nachos,Objects/Potato_Chips,Objects/Sandwich,Objects/Taco,Objects/Tortillas,Objects/Vegetable_Oil
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3514140-tortilla-chips-7.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3514140-tortilla-chips-7.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_avatar,square_medium,square_small,scale_medium,scale_super,scale_small,square_tiny,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+Tortilla Chips are triangular fried corn tortillas.</text>
+      <sha1>cd5lt931q5sa0r4wf4bmmcxb9iarm14</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Toyota Corolla</title>
+    <ns>0</ns>
+    <id>464102</id>
+    <revision>
+      <id>729178</id>
+      <parentid>464690</parentid>
+      <timestamp>2026-02-14T21:32:35Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729178</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1624" sha1="8g2k6405s58lkzdzx2xzjjjxl3lx9tk" xml:space="preserve">{{Object
+| Name=Toyota Corolla
+| Guid=3055-7514
+| Deck=Toyota Corolla was a popular international compact model that was available for four different body styles.
+| Characters=
+| Concepts=Concepts/Rally,Concepts/Toyota_Motor_Corporation
+| Franchises=
+| Games=Games/Counter_Strike_Source,Games/Drift_Spirits,Games/Forza_Horizon,Games/Forza_Horizon_4,Games/Forza_Horizon_5,Games/Forza_Motorsport_6,Games/Gran_Turismo,Games/Gran_Turismo_2,Games/Gran_Turismo_2009,Games/Gran_Turismo_3_A_Spec,Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_6,Games/Gran_Turismo_7,Games/GT_Advance_2_Rally_Racing,Games/Half_Life_Counter_Strike,Games/Michelin_Rally_Masters_Race_of_Champions,Games/Need_for_Speed_V_Rally_2,Games/Rally_Challenge_2000,Games/The_Getaway,Games/Tokyo_Xtreme_Racer_3,Games/Tokyo_Xtreme_Racer_Drift,Games/Tokyo_Xtreme_Racer_Drift_2,Games/V_Rally_3,Games/WRC_10_FIA_World_Rally_Championship
+| Locations=Locations/Australia,Locations/Brazil,Locations/Canada,Locations/Indonesia,Locations/Japan,Locations/New_Zealand,Locations/The_United_States_of_America,Locations/United_Kingdom
+| People=
+| Objects=Objects/Car,Objects/Race_Car
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3810611-img_3474.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3810611-img_3474.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"scale_super,scale_medium,square_tiny,square_medium,scale_small,square_small,square_avatar,square_mini,scale_tiny","caption":null},"background":[]}' /&gt;
+Toyota Corolla was a popular international compact model that was available for four different body styles.</text>
+      <sha1>8g2k6405s58lkzdzx2xzjjjxl3lx9tk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Toyota GR010</title>
+    <ns>0</ns>
+    <id>464270</id>
+    <revision>
+      <id>464858</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464858</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="254" sha1="j45yg3d88s8zote30dj0akojmgzzh3b" xml:space="preserve">{{Object
+| Name=Toyota GR010
+| Guid=3055-7687
+| Characters=
+| Concepts=Concepts/Toyota_Motor_Corporation
+| Franchises=
+| Games=Games/Le_Mans_Ultimate
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>j45yg3d88s8zote30dj0akojmgzzh3b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Toyota HiAce</title>
+    <ns>0</ns>
+    <id>464175</id>
+    <revision>
+      <id>464763</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464763</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="216" sha1="mtpk7mhy5cpuiwy7y8hnuqbgqb1413f" xml:space="preserve">{{Object
+| Name=Toyota HiAce
+| Guid=3055-7588
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/The_Getaway
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>mtpk7mhy5cpuiwy7y8hnuqbgqb1413f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Toyota Hilux</title>
+    <ns>0</ns>
+    <id>464129</id>
+    <revision>
+      <id>464717</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464717</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="255" sha1="0pt9aukmzi8gew27dwaq6yeppz7e0lh" xml:space="preserve">{{Object
+| Name=Toyota Hilux
+| Guid=3055-7542
+| Characters=
+| Concepts=Concepts/Toyota_Motor_Corporation
+| Franchises=
+| Games=Games/Paris_Dakar_Rally
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>0pt9aukmzi8gew27dwaq6yeppz7e0lh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Toyota MR2</title>
+    <ns>0</ns>
+    <id>464172</id>
+    <revision>
+      <id>464760</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464760</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="247" sha1="c1avqk0cydy3bjrxmo3kmprdkdyvgup" xml:space="preserve">{{Object
+| Name=Toyota MR2
+| Guid=3055-7585
+| Characters=
+| Concepts=Concepts/Toyota_Motor_Corporation
+| Franchises=
+| Games=Games/The_Getaway
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>c1avqk0cydy3bjrxmo3kmprdkdyvgup</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Toyota RAV 4</title>
+    <ns>0</ns>
+    <id>464199</id>
+    <revision>
+      <id>729220</id>
+      <parentid>464787</parentid>
+      <timestamp>2026-02-14T21:33:09Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729220</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1391" sha1="7a11ugh830lhee2u112x5qqttz4hasr" xml:space="preserve">{{Object
+| Name=Toyota RAV 4
+| Guid=3055-7612
+| Deck=Compact crossover SUV produced by the Japanese automobile manufacturer Toyota. It is known for starting the wave of compact crossovers. The RAV4 is one of the best-selling SUVs of all time. By February 2020, a total of 10 million RAV4s had been sold globally.
+| Characters=
+| Concepts=Concepts/Licensed_Cars,Concepts/Rally,Concepts/Toyota_Motor_Corporation
+| Franchises=
+| Games=Games/Car_Town,Games/Forza_Motorsport_6,Games/Forza_Motorsport_6_Apex,Games/Forza_Motorsport_7,Games/Michelin_Rally_Masters_Race_of_Champions,Games/Rally_Fusion_Race_of_Champions
+| Locations=Locations/Japan
+| People=
+| Objects=Objects/Car,Objects/Sports_Utility_Vehicle
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3648945-7093038884-002.j.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3648945-7093038884-002.j.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"scale_super,square_tiny,square_medium,scale_medium,square_small,square_avatar,scale_small,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Compact crossover SUV produced by the Japanese automobile manufacturer Toyota. It is known for starting the wave of compact crossovers. The RAV4 is one of the best-selling SUVs of all time. By February 2020, a total of 10 million RAV4s had been sold globally.</text>
+      <sha1>7a11ugh830lhee2u112x5qqttz4hasr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Toyota TownAce</title>
+    <ns>0</ns>
+    <id>464171</id>
+    <revision>
+      <id>464759</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464759</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="218" sha1="l68rku99ua0cd0jwoha847wqrwm562q" xml:space="preserve">{{Object
+| Name=Toyota TownAce
+| Guid=3055-7584
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/The_Getaway
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>l68rku99ua0cd0jwoha847wqrwm562q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Training Dummy</title>
+    <ns>0</ns>
+    <id>464330</id>
+    <revision>
+      <id>729304</id>
+      <parentid>464918</parentid>
+      <timestamp>2026-02-14T21:34:18Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729304</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1278" sha1="aim2yo917o36hllbrx2aeo4j9zg934w" xml:space="preserve">{{Object
+| Name=Training Dummy
+| Guid=3055-7747
+| Characters=Characters/Mokujin,Characters/Tetsujin
+| Concepts=Concepts/Martial_Arts,Concepts/Training_Mode
+| Franchises=
+| Games=Games/Blade_of_Darkness,Games/Darksiders_II,Games/Deltarune_Chapter_1_And_2,Games/Die_by_the_Sword,Games/Drakan_The_Ancients_Gates,Games/Hitman_2_Silent_Assassin,Games/inFamous,Games/Killer_Instinct_2,Games/Killer_Instinct_Gold,Games/Legacy_of_Kain_Defiance,Games/Legion_The_Legend_of_Excalibur,Games/Minecraft_Dungeons,Games/Neopets_The_Darkest_Faerie,Games/Samurai_Shodown,Games/Tekken_3,Games/Tekken_5,Games/Tekken_6,Games/Tekken_6_Bloodline_Rebellion,Games/Tekken_Card_Challenge,Games/Tekken_Dark_Resurrection,Games/Tekken_Hybrid,Games/Tekken_Tag_Tournament,Games/Tekken_Tag_Tournament_2,Games/Vagrant_Story
+| Locations=Locations/Dojo,Locations/Training_Course,Locations/Training_Stage
+| People=
+| Objects=Objects/Punching_Bag
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3791318-trainingdummy.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3791318-trainingdummy.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_small,square_medium,scale_super,square_tiny,square_mini,square_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>aim2yo917o36hllbrx2aeo4j9zg934w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Tribune</title>
+    <ns>0</ns>
+    <id>464365</id>
+    <revision>
+      <id>464953</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464953</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="212" sha1="f01zc4x8xy7b9r8o61mna94erj3hhko" xml:space="preserve">{{Object
+| Name=Tribune
+| Guid=3055-7782
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Formula_1_98
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>f01zc4x8xy7b9r8o61mna94erj3hhko</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Triple Barrel Shotgun</title>
+    <ns>0</ns>
+    <id>464204</id>
+    <revision>
+      <id>729223</id>
+      <parentid>464792</parentid>
+      <timestamp>2026-02-14T21:33:12Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729223</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1283" sha1="i1tnm8f8cwa5davngucmcxadsdmwi4g" xml:space="preserve">{{Object
+| Name=Triple Barrel Shotgun
+| Guid=3055-7617
+| Deck=This is a kind of shotgun who has 3 barrels instead of usually 1 or 2, this weapon often exists as a fictional weapon or as a home made one
+| Characters=Characters/Edward_Carnby
+| Concepts=Concepts/Exploding_Head,Concepts/Gib
+| Franchises=
+| Games=Games/Alone_in_the_Dark_The_New_Nightmare,Games/ATOM_RPG_Post_Apocalyptic_Indie_Game,Games/Kreed
+| Locations=
+| People=
+| Objects=Objects/Ammo,Objects/Double_Barreled_Shotgun,Objects/Explosive_Shotgun_Shells,Objects/Gun,Objects/Hydra_3407,Objects/Quad_Barrel_Shotgun,Objects/Sawed_Off_Shotgun,Objects/Shotgun,Objects/Shotgun_Shells
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3721495-aloneinthedarkthenewnightmare.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3721495-aloneinthedarkthenewnightmare.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_avatar,square_medium,scale_super,square_small,scale_medium,square_tiny,scale_small,square_mini,scale_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":"Alone in the Dark - The New Nightmare"},"background":[]}' /&gt;
+This is a kind of shotgun who has 3 barrels instead of usually 1 or 2, this weapon often exists as a fictional weapon or as a home made one</text>
+      <sha1>i1tnm8f8cwa5davngucmcxadsdmwi4g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Tripod</title>
+    <ns>0</ns>
+    <id>463938</id>
+    <revision>
+      <id>464526</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464526</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="380" sha1="go77y85wo9cxwi5ihay6jk52u0jyaze" xml:space="preserve">{{Object
+| Name=Tripod
+| Guid=3055-7349
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Cabelas_Big_Game_Hunter_2012,Games/Command_And_Conquer_3_Kanes_Wrath,Games/Deer_Hunter_5_Tracking_Trophies,Games/Rocky_Mountain_Trophy_Hunter_3,Games/Rocky_Mountain_Trophy_Hunter_II
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>go77y85wo9cxwi5ihay6jk52u0jyaze</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Trombone</title>
+    <ns>0</ns>
+    <id>463956</id>
+    <revision>
+      <id>1008027</id>
+      <parentid>729076</parentid>
+      <timestamp>2026-07-19T18:27:15Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1008027</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1042" sha1="rpfpsxr5fap4rz6uq30lla0js0ttm4u" xml:space="preserve">{{Object
+| Name=Trombone
+| Guid=3055-7367
+| Deck=The trombone is a brass instrument that is used in many orchestras.
+| Characters=
+| Concepts=Concepts/Busking,Concepts/Music_Creation,Concepts/Musicians,Concepts/Victory_Music
+| Franchises=
+| Games=Games/Children_of_Silentown,Games/Marvels_Spider_Man_2,Games/Wii_Music
+| Locations=Locations/Concert_Stage,Locations/Europe,Locations/France,Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Saxophone,Objects/Sheet_Music,Objects/Trumpet
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3520914-yamaha_tenor_trombone_ysl-891z_%28re-crop%29.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3520914-yamaha_tenor_trombone_ysl-891z_(re-crop).jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_small,scale_super,square_tiny,scale_medium,square_avatar,square_mini,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+The trombone is a brass instrument that is used in many orchestras.</text>
+      <sha1>rpfpsxr5fap4rz6uq30lla0js0ttm4u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Truckasaurus</title>
+    <ns>0</ns>
+    <id>464364</id>
+    <revision>
+      <id>464952</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464952</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="241" sha1="8cq2pn1vxh4ehmvd9rwwh61qyc5pfzm" xml:space="preserve">{{Object
+| Name=Truckasaurus
+| Guid=3055-7781
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/The_Simpsons_Bart_vs_the_Juggernauts
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>8cq2pn1vxh4ehmvd9rwwh61qyc5pfzm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Tunnel Boring Machine 7740</title>
+    <ns>0</ns>
+    <id>464323</id>
+    <revision>
+      <id>1008029</id>
+      <parentid>729300</parentid>
+      <timestamp>2026-07-19T18:27:20Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1008029</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1644" sha1="rrjw8lkcz0iewg65gw0dirm4x2c2mok" xml:space="preserve">{{Object
+| Name=Tunnel Boring Machine
+| Guid=3055-7740
+| Deck=Any massive drilling machine designed to tunnel underground
+| Characters=Characters/Rocksteady,Characters/Shredder,Characters/Tora_24575
+| Concepts=Concepts/Advancing_Wall_of_Doom,Concepts/Destructible_Environment,Concepts/Digging,Concepts/Foot_Clan,Concepts/Instant_Death,Concepts/Miner,Concepts/Mining,Concepts/Tubular_Transport
+| Franchises=
+| Games=Games/Contra_Shattered_Soldier,Games/Dead_Space_2,Games/Drakan_Order_of_the_Flame,Games/Grand_Theft_Auto_V,Games/Injustice_Gods_Among_Us,Games/Quake_II,Games/Red_Faction,Games/Resident_Evil_4,Games/Taz_in_Escape_from_Mars,Games/Teenage_Mutant_Ninja_Turtles_1989,Games/Teenage_Mutant_Ninja_Turtles_Shredders_Revenge,Games/Teenage_Mutant_Ninja_Turtles_The_Cowabunga_Collection,Games/The_Callisto_Protocol
+| Locations=Locations/Mine,Locations/The_Technodrome,Locations/Underground
+| People=
+| Objects=Objects/Drill,Objects/Miners_Helmet,Objects/Pickaxe
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3786628-teenagemutantninjaturtlesshredder%E2%80%99srevenge.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3786628-teenagemutantninjaturtlesshredder\u2019srevenge.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_small,square_medium,scale_super,square_avatar,square_tiny,square_mini,scale_tiny","caption":null},"background":[]}' /&gt;
+In games, it often becomes a transport for getting to new locations, a deadly enemy from which you need to escape, and if it is massive enough and has a platform for transporting equipment, then it becomes an arena for battles.</text>
+      <sha1>rrjw8lkcz0iewg65gw0dirm4x2c2mok</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Type 11 LMG</title>
+    <ns>0</ns>
+    <id>463995</id>
+    <revision>
+      <id>464583</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464583</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="r5sdkfqw1p9w94eu6pa9xgpud71a8gc" xml:space="preserve">{{Object
+| Name=Type 11 LMG
+| Guid=3055-7407
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Medal_of_Honor_Rising_Sun
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>r5sdkfqw1p9w94eu6pa9xgpud71a8gc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/UFC Championship Belt</title>
+    <ns>0</ns>
+    <id>464215</id>
+    <revision>
+      <id>729230</id>
+      <parentid>464803</parentid>
+      <timestamp>2026-02-14T21:33:18Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729230</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3383" sha1="ocif3ybljbfv5pufesdy81l02kffr0c" xml:space="preserve">{{Object
+| Name=UFC Championship Belt
+| Guid=3055-7628
+| Deck=The UFC Championship Belt is the goal of most fighters on the roster. It means that the fighter won a championship in their weight class.
+| Characters=Characters/Anderson_Silva,Characters/Andrei_Arlovski,Characters/Anthony_Pettis,Characters/Antonio_Rodrigo_Minotauro_Nogueira,Characters/B_J_Penn,Characters/Bas_Rutten,Characters/Benson_Henderson,Characters/Brock_Lesnar,Characters/Cain_Velasquez,Characters/Carla_Esparza,Characters/Carlos_Condit,Characters/Carlos_Newton,Characters/Chael_Sonnen,Characters/Charles_Oliveira,Characters/Chris_Weidman,Characters/Chuck_Liddell,Characters/Colby_Covington,Characters/Conor_McGregor,Characters/Dan_Henderson,Characters/Dan_Severn,Characters/Daniel_Cormier,Characters/Dave_Menne,Characters/Demetrious_Johnson,Characters/Dominick_Cruz,Characters/Don_Frye,Characters/Dustin_Poirier,Characters/Eddie_Alvarez,Characters/Evan_Tanner,Characters/Fabricio_Werdum,Characters/Forrest_Griffin,Characters/Frank_Mir,Characters/Frank_Shamrock,Characters/Frankie_Edgar,Characters/Georges_St_Pierre,Characters/Glover_Teixeira,Characters/Guy_Mezger,Characters/Holly_Holm,Characters/Jens_Pulver,Characters/Joanna_Jedrzejczyk,Characters/Johny_Hendricks,Characters/Jon_Jones,Characters/Jose_Aldo,Characters/Josh_Barnett,Characters/Junior_dos_Santos,Characters/Kazushi_Sakuraba,Characters/Ken_Shamrock,Characters/Kevin_Randleman,Characters/Khabib_Nurmagomedov,Characters/Luke_Rockhold,Characters/Lyoto_Machida,Characters/Marco_Ruas,Characters/Mark_Coleman,Characters/Mark_Kerr,Characters/Matt_Hughes,Characters/Matt_Serra,Characters/Maurice_Smith,Characters/Mauricio_Shogun_Rua,Characters/Michael_Bisping,Characters/Miesha_Tate,Characters/Murilo_Bustamante,Characters/Pat_Miletich,Characters/Quinton_Rampage_Jackson,Characters/Rafael_dos_Anjos,Characters/Randy_Couture,Characters/Rashad_Evans,Characters/Renan_Barao,Characters/Ricco_Rodriguez,Characters/Rich_Franklin,Characters/Robbie_Lawler,Characters/Ronda_Rousey,Characters/Royce_Gracie,Characters/Sean_Sherk,Characters/Shane_Carwin,Characters/Stipe_Miocic,Characters/T_J_Dillashaw,Characters/Tim_Sylvia,Characters/Tito_Ortiz,Characters/Tony_Ferguson,Characters/Tyron_Woodley,Characters/Vitor_Belfort
+| Concepts=Concepts/Boss_Fight,Concepts/Hand_to_Hand_Combat,Concepts/Mixed_Martial_Arts,Concepts/Ultimate_Fighting_Championship
+| Franchises=
+| Games=Games/EA_Sports_UFC,Games/EA_Sports_UFC_2,Games/EA_Sports_UFC_3,Games/EA_Sports_UFC_4,Games/EA_Sports_UFC_5,Games/UFC_2009_Undisputed,Games/UFC_Personal_Trainer,Games/UFC_Sudden_Impact,Games/UFC_Tapout,Games/UFC_Tapout_2,Games/UFC_Throwdown,Games/UFC_Undisputed_2010,Games/UFC_Undisputed_3
+| Locations=Locations/Octagon_Ring
+| People=
+| Objects=Objects/Belt,Objects/BMF_Championship_Belt,Objects/Gold
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3650941-legacychampioshipreplicabelt_1_jpg.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3650941-legacychampioshipreplicabelt_1_jpg.png","path":"8\/82962\/","mime":"image\/png","sizes":"square_small,square_avatar,scale_medium,scale_super,scale_small,square_mini,square_medium,square_tiny,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+The UFC Championship Belt is the goal of most fighters on the roster. It means that the fighter won a championship in their weight class.</text>
+      <sha1>ocif3ybljbfv5pufesdy81l02kffr0c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/VW Beetle RX</title>
+    <ns>0</ns>
+    <id>464128</id>
+    <revision>
+      <id>464716</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464716</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="211" sha1="fpeldvjac634mpfm5z5fc9vznj5teeb" xml:space="preserve">{{Object
+| Name=VW Beetle RX
+| Guid=3055-7541
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Gravel
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>fpeldvjac634mpfm5z5fc9vznj5teeb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/VW Golf V</title>
+    <ns>0</ns>
+    <id>464226</id>
+    <revision>
+      <id>464814</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464814</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="218" sha1="3bz1d1ngc8uyp441b3s4cwuz4gf5f4q" xml:space="preserve">{{Object
+| Name=VW Golf V
+| Guid=3055-7639
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Asphalt_Urban_GT
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3bz1d1ngc8uyp441b3s4cwuz4gf5f4q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/VW New Beetle</title>
+    <ns>0</ns>
+    <id>464227</id>
+    <revision>
+      <id>464815</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464815</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="222" sha1="lt3yds4amhd58e41x0n13q4xl4jidjy" xml:space="preserve">{{Object
+| Name=VW New Beetle
+| Guid=3055-7640
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Asphalt_Urban_GT
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>lt3yds4amhd58e41x0n13q4xl4jidjy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/VW Polo</title>
+    <ns>0</ns>
+    <id>464132</id>
+    <revision>
+      <id>464720</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464720</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="230" sha1="3hlmvr9bh9avwaytd8q3z9fj85z1cxa" xml:space="preserve">{{Object
+| Name=VW Polo
+| Guid=3055-7545
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/V_Rally_3
+| Locations=
+| People=
+| Objects=Objects/VW_Polo_R_WRC
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3hlmvr9bh9avwaytd8q3z9fj85z1cxa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/VW Polo R WRC</title>
+    <ns>0</ns>
+    <id>464131</id>
+    <revision>
+      <id>464719</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464719</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1319" sha1="q5a23nkbadvt6h5phjx3kat86nc580w" xml:space="preserve">{{Object
+| Name=VW Polo R WRC
+| Guid=3055-7544
+| Deck=The Volkswagen Polo R WRC is a World Rally Car built and operated by Volkswagen Motorsport and based on the Volkswagen Polo for use in the World Rally Championship. The car, which made its début at the start of the 2013 season, is built to the second generation of World Rally Car regulations that were introduced in 2011, which are based upon the existing Super 2000 regulations, but powered by a turbocharged 1.6-litre engine rather than the naturally aspirated 2-litre engine found in Super 2000 cars.
+| Characters=
+| Concepts=Concepts/Rally
+| Franchises=
+| Games=Games/WRC_10_FIA_World_Rally_Championship,Games/WRC_5
+| Locations=Locations/Germany
+| People=
+| Objects=Objects/VW_Polo
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The Volkswagen Polo R WRC is a World Rally Car built and operated by Volkswagen Motorsport and based on the Volkswagen Polo for use in the World Rally Championship. The car, which made its début at the start of the 2013 season, is built to the second generation of World Rally Car regulations that were introduced in 2011, which are based upon the existing Super 2000 regulations, but powered by a turbocharged 1.6-litre engine rather than the naturally aspirated 2-litre engine found in Super 2000 cars.
+
+</text>
+      <sha1>q5a23nkbadvt6h5phjx3kat86nc580w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Vanwall Vanderwell 680</title>
+    <ns>0</ns>
+    <id>464279</id>
+    <revision>
+      <id>464867</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464867</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="231" sha1="bbcigwnrs12hubw9zolrxpd0yr5n5jw" xml:space="preserve">{{Object
+| Name=Vanwall Vanderwell 680
+| Guid=3055-7696
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Le_Mans_Ultimate
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>bbcigwnrs12hubw9zolrxpd0yr5n5jw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Vauxhall Astra</title>
+    <ns>0</ns>
+    <id>464103</id>
+    <revision>
+      <id>464691</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464691</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="249" sha1="cdh4syd0rui9nc9vbvup2ervbd8xjar" xml:space="preserve">{{Object
+| Name=Vauxhall Astra
+| Guid=3055-7515
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Need_for_Speed_V_Rally_2,Games/The_Getaway
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>cdh4syd0rui9nc9vbvup2ervbd8xjar</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Vauxhall Vectra</title>
+    <ns>0</ns>
+    <id>464174</id>
+    <revision>
+      <id>464762</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464762</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="255" sha1="klwd9cv153nq7b6pzc019kbty0csppz" xml:space="preserve">{{Object
+| Name=Vauxhall Vectra
+| Guid=3055-7587
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/The_Getaway,Games/TOCA_Touring_Car_Championship
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>klwd9cv153nq7b6pzc019kbty0csppz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Vest</title>
+    <ns>0</ns>
+    <id>464228</id>
+    <revision>
+      <id>729238</id>
+      <parentid>464816</parentid>
+      <timestamp>2026-02-14T21:33:24Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729238</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5796" sha1="hxt68pcdf199gjz5qcto7elvwit39dj" xml:space="preserve">{{Object
+| Name=Vest
+| Guid=3055-7641
+| Aliases=Waistcoat
+| Deck=A vest or waistcoat is a sleeveless top garment.
+| Characters=Characters/Aladdin,Characters/Archer_Fordham,Characters/Asuma_Sarutobi,Characters/Bao_32512,Characters/Don_Salieri,Characters/Gogeta,Characters/Gotenks,Characters/Kakashi_Hatake,Characters/Kazuo_Ozawa,Characters/Kei_Iwase,Characters/Kollector,Characters/Love_Heart,Characters/Might_Guy,Characters/Mr_Burns,Characters/Mr_Popo,Characters/Nelson,Characters/Pigsy,Characters/Rig,Characters/Rock_Lee,Characters/Shikamaru_Nara,Characters/Terry_Bogard,Characters/Veku,Characters/Zarina
+| Concepts=
+| Franchises=
+| Games=Games/ACA_NeoGeo_Selection_Vol_1,Games/ACA_NEOGEO_Selection_Vol_2,Games/ACA_NeoGeo_Selection_Vol_3,Games/ACA_NeoGeo_Selection_Vol_4,Games/Aladdin_Fate_of_Agrabah,Games/Alone_in_the_Dark_2024,Games/Axel_City,Games/Axel_City_2,Games/Battle_High_2,Games/Blazing_Strike,Games/Capcom_Fighting_Collection_2,Games/Capcom_vs_SNK_2_Mark_of_the_Millennium,Games/Capcom_vs_SNK_Millennium_Fight_2000,Games/Critical_Blow,Games/Croket_2_Yami_no_Bank_to_Banqueen,Games/Croket_3_Granyuu_Oukoku_no_Nazo,Games/Croket_4_Bank_no_Mori_no_Shugoshin,Games/Croket_DS_Tenku_no_Yusha_tachi,Games/Croket_Kindan_no_Kinka_Box,Games/Croket_Yume_no_Banker_Survival,Games/Data_Cardass_Dragon_Ball_Z_2,Games/Dead_or_Alive_3,Games/Dead_or_Alive_4,Games/Dead_or_Alive_5,Games/Dead_or_Alive_5_Last_Round,Games/Dead_or_Alive_5_Ultimate,Games/Dead_or_Alive_6,Games/Demon_Slayer_Kimetsu_no_Yaiba_The_Hinokami_Chronicles,Games/Disney_Classic_Games_Aladdin_and_The_Lion_King,Games/Disney_Classic_Games_Collection_Aladdin_The_Lion_King_and_The_Jungle_Book,Games/Disneys_Aladdin,Games/Disneys_Aladdin_Chess_Adventures,Games/Disneys_Aladdin_in_Nasiras_Revenge,Games/Disneys_Math_Quest_with_Aladdin,Games/Dragon_Ball_FighterZ,Games/Dragon_Ball_Heroes,Games/Dragon_Ball_Heroes_Ultimate_Mission,Games/Dragon_Ball_Raging_Blast_2,Games/Dragon_Ball_Sparking_Zero,Games/Dragon_Ball_Xenoverse,Games/Dragon_Ball_Xenoverse_2,Games/Dragon_Ball_Z_Battle_of_Z,Games/Dragon_Ball_Z_Budokai_3,Games/Dragon_Ball_Z_Budokai_HD_Collection,Games/Dragon_Ball_Z_Budokai_Tenkaichi,Games/Dragon_Ball_Z_Budokai_Tenkaichi_2,Games/Dragon_Ball_Z_Budokai_Tenkaichi_3,Games/Dragon_Ball_Z_Hyper_Dimension,Games/Dragon_Ball_Z_Ultimate_Battle_22,Games/Dragon_Ball_Z_Ultimate_Tenkaichi,Games/DragonBall_Heroes_Ultimate_Mission_2,Games/DragonBall_Heroes_Ultimate_Mission_X,Games/Fatal_Fury_2,Games/Fatal_Fury_3_Road_to_the_Final_Victory,Games/Fatal_Fury_Battle_Archives_Volume_1,Games/Fatal_Fury_Battle_Archives_Volume_2,Games/Fatal_Fury_Special,Games/Fatal_Fury_Wild_Ambition,Games/Fighting_EX_Layer,Games/Gado_Fight,Games/Genei_Tougi_Shadow_Struggle,Games/Go_All_Out,Games/Jin_Yong_Kuai_Da,Games/Jump_Force,Games/King_of_Fighters_R_1,Games/King_of_Fighters_R_2,Games/Kingdom_Hearts,Games/Kingdom_Hearts_All_In_One_Package,Games/Kingdom_Hearts_HD_I_5_II_5_Remix,Games/Kingdom_Hearts_HD_II_5_Remix,Games/Kingdom_Hearts_The_Story_So_Far,Games/Kung_Fu_Panda_Showdown_of_Legendary_Legends,Games/Lost_Via_Domus,Games/Mortal_Kombat_1,Games/Mortal_Kombat_11,Games/Mortal_Kombat_2011,Games/Mortal_Kombat_X,Games/Naruto_Powerful_Shippuden,Games/Naruto_Shippuden_Naruto_vs_Sasuke,Games/Naruto_Shippuden_Ultimate_Ninja_Blazing,Games/Naruto_to_Boruto_Shinobi_Striker,Games/Naruto_x_Boruto_Ninja_Voltage,Games/Naruto_X_Boruto_Ultimate_Ninja_Storm_Connections,Games/NeoGeo_Arcade_3,Games/NeoGeo_Pocket_Color_Selection_Vol_1,Games/NeoGeo_Pocket_Color_Selection_Vol_2,Games/Real_Bout_Fatal_Fury,Games/Real_Bout_Fatal_Fury_2_The_Newcomers,Games/Real_Bout_Fatal_Fury_Best_Collection,Games/Real_Bout_Fatal_Fury_Special,Games/Real_Bout_Garou_Densetsu_Special_Dominated_Mind,Games/Rust,Games/SNK_Heroines_Tag_Team_Frenzy,Games/SNK_vs_Capcom_Match_of_the_Millennium,Games/Street_Fighter_6,Games/Street_Heroes,Games/Super_Dragon_Ball_Heroes_World_Mission,Games/Super_Smash_Bros_Ultimate,Games/SVC_Chaos_SNK_vs_Capcom,Games/The_King_of_Fighters_02_03,Games/The_King_of_Fighters_2000,Games/The_King_of_Fighters_2000_2001,Games/The_King_of_Fighters_2001,Games/The_King_of_Fighters_2002_Unlimited_Match,Games/The_King_of_Fighters_2006,Games/The_King_of_Fighters_94,Games/The_King_of_Fighters_94_Re_bout,Games/The_King_of_Fighters_95,Games/The_King_of_Fighters_96,Games/The_King_of_Fighters_97,Games/The_King_of_Fighters_97_OL,Games/The_King_of_Fighters_98_The_Slugfest,Games/The_King_of_Fighters_98_Ultimate_Match,Games/The_King_of_Fighters_98_Ultimate_Match_Online,Games/The_King_of_Fighters_99,Games/The_King_of_Fighters_AllStar,Games/The_King_of_Fighters_Collection_The_Orochi_Saga,Games/The_King_of_Fighters_Dream_Match_1999,Games/The_King_of_Fighters_Evolution,Games/The_King_of_Fighters_EX_Neo_Blood,Games/The_King_of_Fighters_EX2_Howling_Blood,Games/The_King_of_Fighters_i_002,Games/The_King_of_Fighters_Maximum_Impact,Games/The_King_of_Fighters_Maximum_Impact_Regulation_A,Games/The_King_of_Fighters_Neowave,Games/The_King_of_Fighters_NESTS_Hen,Games/The_King_of_Fighters_XII,Games/The_King_of_Fighters_XIII,Games/The_King_of_Fighters_XIV,Games/The_King_of_Fighters_XV,Games/The_Long_Dark,Games/The_White_Chamber,Games/Tom_Clancys_Ghost_Recon_Breakpoint,Games/Z1_Battle_Royale
+| Locations=
+| People=
+| Objects=Objects/Ballistic_Vest,Objects/Life_Jacket,Objects/Powered_Combat_Vest
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3656609-0500965878-terry.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3656609-0500965878-terry.png","path":"16\/164924\/","mime":"image\/png","sizes":"scale_super,square_small,scale_medium,scale_small,square_medium,square_avatar,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A vest or waistcoat is a sleeveless top garment.</text>
+      <sha1>hxt68pcdf199gjz5qcto7elvwit39dj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Vinegar</title>
+    <ns>0</ns>
+    <id>464007</id>
+    <revision>
+      <id>464595</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464595</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="273" sha1="m2jnouny7u7sr2g7ly38sqw7kwrjgu6" xml:space="preserve">{{Object
+| Name=Vinegar
+| Guid=3055-7419
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Going_Medieval,Games/Infinite_Chef,Games/Project_Zomboid,Games/Sandboxels
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>m2jnouny7u7sr2g7ly38sqw7kwrjgu6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/WWE United States Championship</title>
+    <ns>0</ns>
+    <id>464045</id>
+    <revision>
+      <id>464633</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464633</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="243" sha1="gk6cevc4w4dky1g7mts80gjk2na19cp" xml:space="preserve">{{Object
+| Name=WWE United States Championship
+| Guid=3055-7457
+| Characters=Characters/Santino_Marella
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>gk6cevc4w4dky1g7mts80gjk2na19cp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Walker Gear</title>
+    <ns>0</ns>
+    <id>463876</id>
+    <revision>
+      <id>729006</id>
+      <parentid>464464</parentid>
+      <timestamp>2026-02-14T21:30:18Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729006</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="854" sha1="nnwqzwjosif2cir83y1tcthun1kuqbd" xml:space="preserve">{{Object
+| Name=Walker Gear
+| Guid=3055-7287
+| Deck=Walker Gear are personal manned vehicles that Diamond Dogs can use to deploy.
+| Characters=Characters/Huey_Emmerich,Characters/Venom_Snake
+| Concepts=
+| Franchises=
+| Games=Games/Metal_Gear_Solid_V_The_Definitive_Experience,Games/Metal_Gear_Solid_V_The_Phantom_Pain
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3497821-v_vi_cfa-wg_type-a.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3497821-v_vi_cfa-wg_type-a.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_medium,scale_super,scale_small,square_small,square_medium,square_mini,square_avatar,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Walker Gear are personal manned vehicles that Diamond Dogs can use to deploy.</text>
+      <sha1>nnwqzwjosif2cir83y1tcthun1kuqbd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Water Pump</title>
+    <ns>0</ns>
+    <id>464235</id>
+    <revision>
+      <id>729244</id>
+      <parentid>464823</parentid>
+      <timestamp>2026-02-14T21:33:30Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729244</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="926" sha1="as5h7gy30a4wqbbizmfow0hlghi72wr" xml:space="preserve">{{Object
+| Name=Water Pump
+| Guid=3055-7650
+| Characters=Characters/Courage_the_Cowardly_Dog,Characters/Eustace_Bagge,Characters/Muriel_Bagge,Characters/Nora_32535,Characters/Sole_Survivor,Characters/The_Resident
+| Concepts=
+| Franchises=
+| Games=Games/ATOM_RPG_Post_Apocalyptic_Indie_Game,Games/DayZ,Games/Fallout_4,Games/Fallout_76,Games/Operation_Flashpoint_Cold_War_Crisis,Games/Tom_Clancys_Rainbow_Six_Vegas
+| Locations=Locations/Kansas
+| People=
+| Objects=Objects/Pumpjack,Objects/Watering_Can
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3664377-8496521630-1200.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3664377-8496521630-1200.png","path":"151\/1511438\/","mime":"image\/png","sizes":"square_small,scale_medium,scale_small,scale_super,square_tiny,square_medium,square_mini,square_avatar,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;</text>
+      <sha1>as5h7gy30a4wqbbizmfow0hlghi72wr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Welrod</title>
+    <ns>0</ns>
+    <id>463994</id>
+    <revision>
+      <id>464582</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464582</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="224" sha1="ja8wd7frkw09n97410d88jbqbaz3lu3" xml:space="preserve">{{Object
+| Name=Welrod
+| Guid=3055-7406
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Medal_of_Honor_Rising_Sun
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ja8wd7frkw09n97410d88jbqbaz3lu3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Wheatcakes</title>
+    <ns>0</ns>
+    <id>463958</id>
+    <revision>
+      <id>729078</id>
+      <parentid>464546</parentid>
+      <timestamp>2026-02-14T21:31:13Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729078</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1145" sha1="sl0vsb9981gpc4sntyhbkq41o646wju" xml:space="preserve">{{Object
+| Name=Wheatcakes
+| Guid=3055-7369
+| Deck=Wheatcakes are like a special pancake variation than are made from buckwheat flour.
+| Characters=Characters/Mary_Jane_Watson,Characters/May_Parker,Characters/Miles_Morales,Characters/Peter_Parker,Characters/Uncle_Ben
+| Concepts=
+| Franchises=
+| Games=Games/Marvels_Spider_Man_2
+| Locations=Locations/Earth,Locations/New_York,Locations/New_York_City,Locations/North_America,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Buckwheat_Flour,Objects/Butter,Objects/Flour,Objects/Milk,Objects/Pancake,Objects/Water,Objects/Wheat
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3520925-wheatcakes-for-mr.-mayor.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3520925-wheatcakes-for-mr.-mayor.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,square_medium,scale_small,scale_super,square_tiny,scale_medium,square_mini,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+Wheatcakes are like a special pancake variation than are made from buckwheat flour.</text>
+      <sha1>sl0vsb9981gpc4sntyhbkq41o646wju</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Whipped Cream</title>
+    <ns>0</ns>
+    <id>463945</id>
+    <revision>
+      <id>729071</id>
+      <parentid>464533</parentid>
+      <timestamp>2026-02-14T21:31:07Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729071</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1002" sha1="m1wdtizfgi3vszc2pirax8os3jo2jw3" xml:space="preserve">{{Object
+| Name=Whipped Cream
+| Guid=3055-7356
+| Deck=Whipped cream is the sweet topping to desserts that is made from aerated cream.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Marvels_Spider_Man_2,Games/Zool
+| Locations=
+| People=
+| Objects=Objects/Cake,Objects/Chocolate,Objects/Cookies,Objects/Cream,Objects/Ice_Cream,Objects/Milk,Objects/Milkshake,Objects/Pie,Objects/Whisk
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3517387-20221205-howtowhipcream-amandasuarez-26-6600ee54f8dd466f9f2f5269d24afcb6.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3517387-20221205-howtowhipcream-amandasuarez-26-6600ee54f8dd466f9f2f5269d24afcb6.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_small,square_medium,scale_super,square_small,scale_medium,square_avatar,square_tiny,square_mini,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+Whipped cream is the sweet topping to desserts that is made from aerated cream.</text>
+      <sha1>m1wdtizfgi3vszc2pirax8os3jo2jw3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Whipsaw</title>
+    <ns>0</ns>
+    <id>464367</id>
+    <revision>
+      <id>464955</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464955</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="215" sha1="504yezzpw9adl45kamqww5tyqqfiyif" xml:space="preserve">{{Object
+| Name=Whipsaw
+| Guid=3055-7784
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/The_Yukon_Trail
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>504yezzpw9adl45kamqww5tyqqfiyif</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Whirlpool</title>
+    <ns>0</ns>
+    <id>463940</id>
+    <revision>
+      <id>729068</id>
+      <parentid>464528</parentid>
+      <timestamp>2026-02-14T21:31:05Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729068</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1202" sha1="8ls4zrb6zt3p9f5bwowqyp7m1kr7iw2" xml:space="preserve">{{Object
+| Name=Whirlpool
+| Guid=3055-7351
+| Characters=
+| Concepts=Concepts/Interactive_Environments,Concepts/Interior_Decorating,Concepts/Whirlpool
+| Franchises=
+| Games=Games/Der_Planer_3,Games/Grand_Theft_Auto_IV,Games/Grand_Theft_Auto_IV_And_Episodes_from_Liberty_City_The_Complete_Edition,Games/Hitman_2,Games/Hitman_2_Silent_Assassin,Games/Hitman_Blood_Money,Games/New_York_Nights_Success_in_the_City,Games/Rotlicht_Tycoon,Games/The_Sims,Games/The_Sims_2,Games/The_Sims_2_2005,Games/The_Sims_2_87183,Games/The_Sims_2_Pets,Games/The_Sims_2_Super_Collection,Games/The_Sims_3_2010,Games/The_Sims_3_Late_Night,Games/The_Sims_4,Games/The_X_Files_Resist_or_Serve
+| Locations=Locations/Mansion
+| People=
+| Objects=Objects/Bathtub,Objects/Bubble,Objects/Swimming_Pool
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3517066-8560029738-250.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3517066-8560029738-250.png","path":"151\/1511438\/","mime":"image\/png","sizes":"scale_medium,square_medium,square_avatar,square_small,scale_small,scale_super,square_tiny,scale_tiny,square_mini,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;</text>
+      <sha1>8ls4zrb6zt3p9f5bwowqyp7m1kr7iw2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Whisk</title>
+    <ns>0</ns>
+    <id>463961</id>
+    <revision>
+      <id>1008040</id>
+      <parentid>729081</parentid>
+      <timestamp>2026-07-19T18:27:59Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1008040</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="885" sha1="5mie4kfkfayomv98gc0y34nk48gcxd2" xml:space="preserve">{{Object
+| Name=Whisk
+| Guid=3055-7372
+| Deck=A whisk is a cooking utensil that is made for whipping liquids like cream or eggs.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Marvels_Spider_Man_2,Games/Project_Zomboid
+| Locations=Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Cream,Objects/Egg,Objects/Whipped_Cream
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3520945-41dr3%2Bzzjpl._ac_uf894%2C1000_ql80_.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3520945-41dr3+zzjpl._ac_uf894,1000_ql80_.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_super,square_medium,square_small,scale_medium,scale_small,square_tiny,square_avatar,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A whisk is a cooking utensil that is made for whipping liquids like cream or eggs.</text>
+      <sha1>5mie4kfkfayomv98gc0y34nk48gcxd2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/White Wine</title>
+    <ns>0</ns>
+    <id>463893</id>
+    <revision>
+      <id>729023</id>
+      <parentid>464481</parentid>
+      <timestamp>2026-02-14T21:30:30Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729023</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="788" sha1="kqz3gmgp67eztghqb9k2k83z6wi03l3" xml:space="preserve">{{Object
+| Name=White Wine
+| Guid=3055-7304
+| Deck=White wine is the wine fermented from the pulp of lighter grapes.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Lost_Judgment
+| Locations=
+| People=
+| Objects=Objects/Alcoholic_Beverages,Objects/Grapes,Objects/Red_Wine,Objects/Wine
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3507806-220px-white_wine_glas.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3507806-220px-white_wine_glas.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_medium,scale_super,square_avatar,scale_small,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+White wine is the wine fermented from the pulp of lighter grapes.</text>
+      <sha1>kqz3gmgp67eztghqb9k2k83z6wi03l3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Yakisoba</title>
+    <ns>0</ns>
+    <id>463917</id>
+    <revision>
+      <id>729047</id>
+      <parentid>464505</parentid>
+      <timestamp>2026-02-14T21:30:49Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729047</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1147" sha1="fcfnfhx7f55fut13ocx83er0q6ogxbh" xml:space="preserve">{{Object
+| Name=Yakisoba
+| Guid=3055-7328
+| Deck=Yakisoba is a fried noodle dish popular in Japan.
+| Characters=Characters/Artoria_Pendragon,Characters/Kei_Ayamine,Characters/Megumi_Yakushiji,Characters/Takatoshi_Hijiyama,Characters/Takayuki_Yagami
+| Concepts=
+| Franchises=
+| Games=Games/13_Sentinels_Aegis_Rim,Games/Castlevania_Portrait_of_Ruin,Games/Fate_Extella_The_Umbral_Star,Games/Lost_Judgment,Games/Muv_Luv,Games/Muv_Luv_Alternative,Games/Persona_5,Games/Persona_5_Royal
+| Locations=Locations/Asia,Locations/Japan,Locations/Tokyo
+| People=
+| Objects=Objects/Cup,Objects/Fried_Rice,Objects/Meat,Objects/Mung_Bean_Sprouts,Objects/Noodles,Objects/Rice,Objects/Water,Objects/Yakisoba_Pan
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3511755-yakisoba.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3511755-yakisoba.png","path":"8\/82962\/","mime":"image\/png","sizes":"square_small,square_medium,square_avatar,scale_medium,scale_small,scale_super,square_tiny,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Yakisoba is a fried noodle dish popular in Japan.</text>
+      <sha1>fcfnfhx7f55fut13ocx83er0q6ogxbh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Yarmulke</title>
+    <ns>0</ns>
+    <id>463923</id>
+    <revision>
+      <id>729053</id>
+      <parentid>464511</parentid>
+      <timestamp>2026-02-14T21:30:53Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729053</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1391" sha1="93vshzn3j2dyo5wv60ey5r37fz1nbjd" xml:space="preserve">{{Object
+| Name=Yarmulke
+| Guid=3055-7334
+| Deck=A yarmulke, also known as a Kippah, is a traditional Jewish cap worn as a customary obligation to cover one's head.
+| Characters=Characters/Eric_Cartman,Characters/Gerald_Broflovski,Characters/Ike_Broflovski,Characters/Kyle_Broflovski,Characters/The_New_Kid,Characters/Thing
+| Concepts=Concepts/Judaism
+| Franchises=
+| Games=Games/Marvels_Spider_Man_2,Games/South_Park_The_Fractured_But_Whole,Games/South_Park_The_Stick_of_Truth
+| Locations=Locations/Asia,Locations/California,Locations/Europe,Locations/Germany,Locations/Israel,Locations/Jerusalem,Locations/Los_Angeles,Locations/New_York,Locations/New_York_City,Locations/Poland,Locations/The_United_States_of_America,Locations/Thousand_Oaks,Locations/Ventura_County
+| People=
+| Objects=Objects/Beanie,Objects/Coin,Objects/Hat
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3513613-istockphoto-115065593-612x612.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3513613-istockphoto-115065593-612x612.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_avatar,square_medium,scale_small,square_small,scale_medium,scale_super,square_tiny,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+A yarmulke, also known as a Kippah, is a traditional Jewish cap worn as a customary obligation to cover one's head.</text>
+      <sha1>93vshzn3j2dyo5wv60ey5r37fz1nbjd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/ZX Spectrum</title>
+    <ns>0</ns>
+    <id>464250</id>
+    <revision>
+      <id>729252</id>
+      <parentid>464838</parentid>
+      <timestamp>2026-02-14T21:33:37Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729252</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1101" sha1="ciqftrhloygwixmp500au3vva4ht3vt" xml:space="preserve">{{Object
+| Name=ZX Spectrum
+| Guid=3055-7666
+| Deck=A famous British computer from the 1980s. May appear within the games themselves as an object for advertising or retro nostalgia, for example as a pick-up bonus
+| Characters=
+| Concepts=Concepts/2D,Concepts/8_bit,Concepts/Collectible,Concepts/Isometric_Viewpoint,Concepts/Pick_Ups,Concepts/Power_Up
+| Franchises=
+| Games=Games/Atic_Atac_92758,Games/Jetpak_Solar_Crisis
+| Locations=Locations/England,Locations/United_Kingdom
+| People=
+| Objects=Objects/Computer
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/25/176104-zxspectrum48k.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"176104-zxspectrum48k.jpg","path":"0\/25\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,square_tiny,scale_large,scale_avatar,scale_tiny,screen_kubrick","caption":"ZX Spectrum"},"background":[]}' /&gt;
+A famous British computer from the 1980s. May appear within the games themselves as an object for advertising or retro nostalgia, for example as a pick-up bonus</text>
+      <sha1>ciqftrhloygwixmp500au3vva4ht3vt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/AJ Sparks</title>
+    <ns>0</ns>
+    <id>456358</id>
+    <revision>
+      <id>456944</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456944</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="njz9uc01vlikxrbyemgrfqrgr6wafcp" xml:space="preserve">{{Person
+| Name=AJ Sparks
+| Guid=3040-193218
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Exploding_Judo_Federation
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>njz9uc01vlikxrbyemgrfqrgr6wafcp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Aaron Paul</title>
+    <ns>0</ns>
+    <id>456212</id>
+    <revision>
+      <id>456797</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456797</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="213" sha1="ejdkp3gahzzaszsvs40zbz2nw3sre4q" xml:space="preserve">{{Person
+| Name=Aaron Paul
+| Guid=3040-193071
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Dispatch
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ejdkp3gahzzaszsvs40zbz2nw3sre4q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Aaron R Bates</title>
+    <ns>0</ns>
+    <id>456572</id>
+    <revision>
+      <id>457158</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457158</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="219" sha1="tvbduo4wnm1nfey7e26sdyvk8u66hid" xml:space="preserve">{{Person
+| Name=Aaron R. Bates
+| Guid=3040-193433
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Iron_Roses
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>tvbduo4wnm1nfey7e26sdyvk8u66hid</sha1>
+    </revision>
+  </page>
+</mediawiki>

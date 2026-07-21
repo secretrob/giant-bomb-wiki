@@ -1,0 +1,1469 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Companies/Gameleon Studio</title>
+    <ns>0</ns>
+    <id>624552</id>
+    <revision>
+      <id>973984</id>
+      <timestamp>2026-06-01T18:01:43Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=114b8a28-d98f-4a9a-97ff-d294025e5db5 |Name=Gameleon Studio }}"</comment>
+      <origin>973984</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="77" sha1="mdeg1pbimbwne0joc1ibm4nuq5cimll" xml:space="preserve">{{Company
+|Guid=114b8a28-d98f-4a9a-97ff-d294025e5db5
+|Name=Gameleon Studio
+}}</text>
+      <sha1>mdeg1pbimbwne0joc1ibm4nuq5cimll</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Games on a Chair</title>
+    <ns>0</ns>
+    <id>624594</id>
+    <revision>
+      <id>974094</id>
+      <timestamp>2026-06-02T01:41:06Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=0dcada71-6e22-4660-b0f0-86010b3fe918 |Name=Games on a Chair }}"</comment>
+      <origin>974094</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="78" sha1="b70cx85u4xc25gm79twy2kmxu13jpap" xml:space="preserve">{{Company
+|Guid=0dcada71-6e22-4660-b0f0-86010b3fe918
+|Name=Games on a Chair
+}}</text>
+      <sha1>b70cx85u4xc25gm79twy2kmxu13jpap</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Gamma Space Collaborative Studio</title>
+    <ns>0</ns>
+    <id>83132</id>
+    <revision>
+      <id>83265</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83265</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="251" sha1="5kt042gzkxgj6xu2ekzpii2crxoh5x3" xml:space="preserve">{{Company
+| Name=Gamma Space Collaborative Studio
+| Guid=3010-26238
+| Characters=
+| Concepts=
+| Developed_games=
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Psychroma
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5kt042gzkxgj6xu2ekzpii2crxoh5x3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Garage51</title>
+    <ns>0</ns>
+    <id>624578</id>
+    <revision>
+      <id>974048</id>
+      <timestamp>2026-06-02T00:25:40Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=bc1d03ef-b460-4626-abe4-429be4ad5dc4 |Name=Garage51 }}"</comment>
+      <origin>974048</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="70" sha1="3cvdzo1g9o7vxs9ghl388m3vjq46ykp" xml:space="preserve">{{Company
+|Guid=bc1d03ef-b460-4626-abe4-429be4ad5dc4
+|Name=Garage51
+}}</text>
+      <sha1>3cvdzo1g9o7vxs9ghl388m3vjq46ykp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Gearbyte Games</title>
+    <ns>0</ns>
+    <id>625073</id>
+    <revision>
+      <id>975007</id>
+      <timestamp>2026-06-14T02:10:26Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=a4ec6cd9-8203-43cd-825b-0004a35adb55 |Name=Gearbyte Games }}"</comment>
+      <origin>975007</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="76" sha1="gp3cqce74m3x8kx465lr67wzuouk7w1" xml:space="preserve">{{Company
+|Guid=a4ec6cd9-8203-43cd-825b-0004a35adb55
+|Name=Gearbyte Games
+}}</text>
+      <sha1>gp3cqce74m3x8kx465lr67wzuouk7w1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/GeekPit Studio</title>
+    <ns>0</ns>
+    <id>83262</id>
+    <revision>
+      <id>83395</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83395</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="o13bgi8eo4weddkg1hc7nt2oh5rdvqz" xml:space="preserve">{{Company
+| Name=GeekPit Studio
+| Guid=3010-26368
+| Characters=
+| Concepts=
+| Developed_games=Games/Crazy_Chicken_X,Games/Moorhuhn_Remake,Games/The_Original_Moorhuhn_Hunt
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>o13bgi8eo4weddkg1hc7nt2oh5rdvqz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Gen Soft</title>
+    <ns>0</ns>
+    <id>83331</id>
+    <revision>
+      <id>83464</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83464</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="256" sha1="bp33wfp6x3wevrt3pu44d1dc9lx1zr2" xml:space="preserve">{{Company
+| Name=Gen Soft
+| Guid=3010-26438
+| Characters=
+| Concepts=
+| Developed_games=Games/Mushi_no_Idokoro
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Mushi_no_Idokoro
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>bp33wfp6x3wevrt3pu44d1dc9lx1zr2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Gentle Troll Entertainment</title>
+    <ns>0</ns>
+    <id>83122</id>
+    <revision>
+      <id>83255</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83255</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="340" sha1="nbvplrnt1rlu8ifoppwk3ypansrn3fo" xml:space="preserve">{{Company
+| Name=Gentle Troll Entertainment
+| Guid=3010-26228
+| Characters=
+| Concepts=
+| Developed_games=Games/Tavern_Talk,Games/Tavern_Talk_Stories_Dreamwalker
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Tavern_Talk,Games/Tavern_Talk_Stories_Dreamwalker
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>nbvplrnt1rlu8ifoppwk3ypansrn3fo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Giant Light Studios</title>
+    <ns>0</ns>
+    <id>625019</id>
+    <revision>
+      <id>974819</id>
+      <timestamp>2026-06-09T00:23:20Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=b61ed3a9-fd0c-4c30-ae19-991a4833a2d3 |Name=Giant Light Studios }}"</comment>
+      <origin>974819</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="81" sha1="j4jpkmp6fjbniye05n89vzs3u3r2eqc" xml:space="preserve">{{Company
+|Guid=b61ed3a9-fd0c-4c30-ae19-991a4833a2d3
+|Name=Giant Light Studios
+}}</text>
+      <sha1>j4jpkmp6fjbniye05n89vzs3u3r2eqc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/GigaPuff</title>
+    <ns>0</ns>
+    <id>83195</id>
+    <revision>
+      <id>83328</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83328</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="lsapkkmvnyg5fj848gewykpua5fgiv8" xml:space="preserve">{{Company
+| Name=GigaPuff
+| Guid=3010-26301
+| Characters=
+| Concepts=
+| Developed_games=Games/On_Together
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>lsapkkmvnyg5fj848gewykpua5fgiv8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Gil Lawson</title>
+    <ns>0</ns>
+    <id>83265</id>
+    <revision>
+      <id>83398</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83398</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" sha1="gjphn85k8jntph2fjnzm4ra2a4x7f40" xml:space="preserve">{{Company
+| Name= Gil Lawson
+| Guid=3010-26371
+| Characters=
+| Concepts=
+| Developed_games=Games/goblinAmerica
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>gjphn85k8jntph2fjnzm4ra2a4x7f40</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Gingham Games</title>
+    <ns>0</ns>
+    <id>83171</id>
+    <revision>
+      <id>83304</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83304</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" sha1="jyd7rthwofwmgnvzt1b9y3gmk680bt1" xml:space="preserve">{{Company
+| Name=Gingham Games
+| Guid=3010-26277
+| Characters=
+| Concepts=
+| Developed_games=Games/Danchi_Days
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jyd7rthwofwmgnvzt1b9y3gmk680bt1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Gius Caminiti</title>
+    <ns>0</ns>
+    <id>83182</id>
+    <revision>
+      <id>83315</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83315</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="255" sha1="89b2e14rym3yor3qmy31456vj2isagm" xml:space="preserve">{{Company
+| Name=Gius Caminiti
+| Guid=3010-26288
+| Characters=
+| Concepts=
+| Developed_games=Games/Tower_Factory
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Tower_Factory
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>89b2e14rym3yor3qmy31456vj2isagm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Glass Head Dolls</title>
+    <ns>0</ns>
+    <id>83208</id>
+    <revision>
+      <id>83341</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83341</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="262" sha1="md0liz330v246c48lzeiu3ydcw0e4sw" xml:space="preserve">{{Company
+| Name=Glass Head Dolls
+| Guid=3010-26314
+| Characters=
+| Concepts=
+| Developed_games=Games/Prison_of_Husks
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Prison_of_Husks
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>md0liz330v246c48lzeiu3ydcw0e4sw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Glitch Productions</title>
+    <ns>0</ns>
+    <id>83410</id>
+    <revision>
+      <id>83543</id>
+      <timestamp>2025-12-08T07:21:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83543</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="265" sha1="btobuu4993t32mxq5a63j3pwt3a3nst" xml:space="preserve">{{Company
+| Name=Glitch Productions
+| Guid=3010-26518
+| FoundedDate=2017-05-24
+| Characters=
+| Concepts=
+| Developed_games=
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Glitch_Karts
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>btobuu4993t32mxq5a63j3pwt3a3nst</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Glitch Productions 26519</title>
+    <ns>0</ns>
+    <id>83411</id>
+    <revision>
+      <id>83544</id>
+      <timestamp>2025-12-08T07:21:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83544</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="222" sha1="ot5mgve8ake5m7kz91tdam447ofqht4" xml:space="preserve">{{Company
+| Name=Glitch Productions
+| Guid=3010-26519
+| Characters=
+| Concepts=
+| Developed_games=
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ot5mgve8ake5m7kz91tdam447ofqht4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/GoldenGratus</title>
+    <ns>0</ns>
+    <id>625079</id>
+    <revision>
+      <id>975022</id>
+      <timestamp>2026-06-14T16:10:09Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=b81d9f77-dcc4-425b-ad8b-45989bc43f6c |Name=GoldenGratus }}"</comment>
+      <origin>975022</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="74" sha1="8a7x4py87626ckm1kssor213b2oasyh" xml:space="preserve">{{Company
+|Guid=b81d9f77-dcc4-425b-ad8b-45989bc43f6c
+|Name=GoldenGratus
+}}</text>
+      <sha1>8a7x4py87626ckm1kssor213b2oasyh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Goon Squad</title>
+    <ns>0</ns>
+    <id>625046</id>
+    <revision>
+      <id>974910</id>
+      <timestamp>2026-06-09T20:56:04Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=d3682a94-9b56-4e21-8a47-2c278d55028a |Name=Goon Squad }}"</comment>
+      <origin>974910</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="72" sha1="88j0myki0u79pqv7y55v7ft7g8jvv2q" xml:space="preserve">{{Company
+|Guid=d3682a94-9b56-4e21-8a47-2c278d55028a
+|Name=Goon Squad
+}}</text>
+      <sha1>88j0myki0u79pqv7y55v7ft7g8jvv2q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Gratesca Studio</title>
+    <ns>0</ns>
+    <id>83367</id>
+    <revision>
+      <id>646064</id>
+      <parentid>83500</parentid>
+      <timestamp>2026-02-14T01:24:11Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>646064</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="607" sha1="06w8y620lm6zou5m69dot0pgbu390tq" xml:space="preserve">{{Company
+| Name=Gratesca Studio
+| Guid=3010-26474
+| Deck=
+| Characters=
+| Concepts=
+| Developed_games=Games/Noctuary
+| Locations=
+| Objects=
+| People=
+| Published_games=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/20/201266/3799375-1385358592-cl7er.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3799375-1385358592-cl7er.jpg","path":"20\/201266\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,scale_small,scale_tiny,square_small,square_medium,square_tiny,square_avatar,screen_kubrick,screen_medium,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;</text>
+      <sha1>06w8y620lm6zou5m69dot0pgbu390tq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/GutaraGaming</title>
+    <ns>0</ns>
+    <id>83179</id>
+    <revision>
+      <id>83312</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83312</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="254" sha1="tvgo973pkionq8ymgekeefdtp80cf5y" xml:space="preserve">{{Company
+| Name=GutaraGaming
+| Guid=3010-26285
+| Characters=
+| Concepts=
+| Developed_games=Games/Jump_To_Space
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Jump_To_Space
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>tvgo973pkionq8ymgekeefdtp80cf5y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/HYBE IM</title>
+    <ns>0</ns>
+    <id>83342</id>
+    <revision>
+      <id>83475</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83475</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="241" sha1="gb2mqemlh5p2ilmkotyyt0j4xoz4ayf" xml:space="preserve">{{Company
+| Name=HYBE IM
+| Guid=3010-26449
+| Characters=
+| Concepts=
+| Developed_games=
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Architect_Land_of_Exiles
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>gb2mqemlh5p2ilmkotyyt0j4xoz4ayf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Habitat Games</title>
+    <ns>0</ns>
+    <id>625117</id>
+    <revision>
+      <id>975127</id>
+      <timestamp>2026-06-17T00:45:14Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=804eacb2-0418-4394-874c-55e6df5dfc2a |Name=Habitat Games }}"</comment>
+      <origin>975127</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="75" sha1="mwphnog21ujrapbf1jnk7xltwub6hj0" xml:space="preserve">{{Company
+|Guid=804eacb2-0418-4394-874c-55e6df5dfc2a
+|Name=Habitat Games
+}}</text>
+      <sha1>mwphnog21ujrapbf1jnk7xltwub6hj0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Happy Home Games</title>
+    <ns>0</ns>
+    <id>83263</id>
+    <revision>
+      <id>83396</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83396</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="243" sha1="sh90h3x9devi6inp9hwyrjft5a94gzn" xml:space="preserve">{{Company
+| Name=Happy Home Games
+| Guid=3010-26369
+| Characters=
+| Concepts=
+| Developed_games=
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Evel_Knievel_2015
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>sh90h3x9devi6inp9hwyrjft5a94gzn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/HeartLoop Games</title>
+    <ns>0</ns>
+    <id>624565</id>
+    <revision>
+      <id>974010</id>
+      <timestamp>2026-06-01T22:02:58Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=e953ad6f-d863-4b63-9041-a06d3e4a5ba1 |Name=HeartLoop Games }}"</comment>
+      <origin>974010</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="77" sha1="si6wntek36hf2oen2d9ji4709mabdmh" xml:space="preserve">{{Company
+|Guid=e953ad6f-d863-4b63-9041-a06d3e4a5ba1
+|Name=HeartLoop Games
+}}</text>
+      <sha1>si6wntek36hf2oen2d9ji4709mabdmh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Hectic</title>
+    <ns>0</ns>
+    <id>83431</id>
+    <revision>
+      <id>83564</id>
+      <timestamp>2025-12-08T07:21:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83564</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="276" sha1="db207zx04pzok9hiirtm94a98d4ttoo" xml:space="preserve">{{Company
+| Name=Hectic
+| Guid=3010-26539
+| Characters=
+| Concepts=
+| Developed_games=Games/Moral_Dilemma_The_Interview
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Moral_Dilemma_The_Interview
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>db207zx04pzok9hiirtm94a98d4ttoo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Hemisquare</title>
+    <ns>0</ns>
+    <id>83349</id>
+    <revision>
+      <id>83482</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83482</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="254" sha1="asbmljdpi70e4uvic5vox5qmgo5yobc" xml:space="preserve">{{Company
+| Name=Hemisquare
+| Guid=3010-26456
+| Characters=
+| Concepts=
+| Developed_games=Games/Nurikabe_World
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Nurikabe_World
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>asbmljdpi70e4uvic5vox5qmgo5yobc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Here Be Monsters</title>
+    <ns>0</ns>
+    <id>83228</id>
+    <revision>
+      <id>83361</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83361</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="244" sha1="jaoimozt48foz4cxhzdjjekcxuthofm" xml:space="preserve">{{Company
+| Name=Here Be Monsters
+| Guid=3010-26334
+| Characters=
+| Concepts=
+| Developed_games=Games/Lurks_Within_Walls
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jaoimozt48foz4cxhzdjjekcxuthofm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Hero Games</title>
+    <ns>0</ns>
+    <id>83398</id>
+    <revision>
+      <id>83531</id>
+      <timestamp>2025-12-08T07:21:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83531</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="236" sha1="mpfn3lfd6yogispzukhr5k1blo5xn1j" xml:space="preserve">{{Company
+| Name=Hero Games
+| Guid=3010-26506
+| Characters=
+| Concepts=
+| Developed_games=
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Duet_Night_Abyss
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>mpfn3lfd6yogispzukhr5k1blo5xn1j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Hillfort Games</title>
+    <ns>0</ns>
+    <id>83333</id>
+    <revision>
+      <id>83466</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83466</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="233" sha1="bidnzmdke9qzk3p0kczopvx737iwho7" xml:space="preserve">{{Company
+| Name=Hillfort Games
+| Guid=3010-26440
+| Characters=
+| Concepts=
+| Developed_games=Games/Long_Gone
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>bidnzmdke9qzk3p0kczopvx737iwho7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Hilltop Studios</title>
+    <ns>0</ns>
+    <id>624636</id>
+    <revision>
+      <id>974168</id>
+      <timestamp>2026-06-02T11:58:29Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=9ceaed63-3915-4355-b211-a1302108fcaf |Name=Hilltop Studios }}"</comment>
+      <origin>974168</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="77" sha1="35xw7axhgb9mpm9j0vhu4w0huct7d2q" xml:space="preserve">{{Company
+|Guid=9ceaed63-3915-4355-b211-a1302108fcaf
+|Name=Hilltop Studios
+}}</text>
+      <sha1>35xw7axhgb9mpm9j0vhu4w0huct7d2q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Hjalte Tagmose</title>
+    <ns>0</ns>
+    <id>83158</id>
+    <revision>
+      <id>83291</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83291</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="239" sha1="0sxns4ibkkfd69y2dfgmq82j4xok4h4" xml:space="preserve">{{Company
+| Name=Hjalte Tagmose
+| Guid=3010-26264
+| Characters=
+| Concepts=
+| Developed_games=Games/Omelet_You_Cook
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>0sxns4ibkkfd69y2dfgmq82j4xok4h4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Ho! Games</title>
+    <ns>0</ns>
+    <id>625058</id>
+    <revision>
+      <id>974968</id>
+      <timestamp>2026-06-11T01:51:14Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=a5c72980-adf2-4961-aea0-5dd2539510e3 |Name=Ho! Games }}"</comment>
+      <origin>974968</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="71" sha1="f4ydqznbpyoyanhgrccnzc07x54yase" xml:space="preserve">{{Company
+|Guid=a5c72980-adf2-4961-aea0-5dd2539510e3
+|Name=Ho! Games
+}}</text>
+      <sha1>f4ydqznbpyoyanhgrccnzc07x54yase</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Holyperson</title>
+    <ns>0</ns>
+    <id>625094</id>
+    <revision>
+      <id>975072</id>
+      <timestamp>2026-06-15T18:12:10Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=663cbf54-240e-4906-b680-331c6160fda0 |Name=Holyperson }}"</comment>
+      <origin>975072</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="72" sha1="dcge7fkeqwm7g0ecj0ne7tvhb20ugrg" xml:space="preserve">{{Company
+|Guid=663cbf54-240e-4906-b680-331c6160fda0
+|Name=Holyperson
+}}</text>
+      <sha1>dcge7fkeqwm7g0ecj0ne7tvhb20ugrg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Hongoneon</title>
+    <ns>0</ns>
+    <id>83240</id>
+    <revision>
+      <id>83373</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83373</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="265" sha1="rb0uqsbhlgsqd0uwvhsoawv7fcda6ga" xml:space="preserve">{{Company
+| Name=Hongoneon
+| Guid=3010-26346
+| Characters=
+| Concepts=
+| Developed_games=Games/Oscuro_Blossoms_Glow
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Oscuro_Blossoms_Glow
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>rb0uqsbhlgsqd0uwvhsoawv7fcda6ga</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Housefire</title>
+    <ns>0</ns>
+    <id>83401</id>
+    <revision>
+      <id>83534</id>
+      <timestamp>2025-12-08T07:21:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83534</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" sha1="0dm0bwj9m44k9cq7uvb5wj2a1pf48t1" xml:space="preserve">{{Company
+| Name=Housefire
+| Guid=3010-26509
+| Characters=
+| Concepts=
+| Developed_games=Games/Eclipsium
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>0dm0bwj9m44k9cq7uvb5wj2a1pf48t1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Human Computer</title>
+    <ns>0</ns>
+    <id>624650</id>
+    <revision>
+      <id>974190</id>
+      <timestamp>2026-06-02T14:01:27Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=f0e6386a-f61d-4049-99f8-8f050b4c8c1a |Name=Human Computer }}"</comment>
+      <origin>974190</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="76" sha1="6yja32ygymvq99asyv5n54eq4k7wlo5" xml:space="preserve">{{Company
+|Guid=f0e6386a-f61d-4049-99f8-8f050b4c8c1a
+|Name=Human Computer
+}}</text>
+      <sha1>6yja32ygymvq99asyv5n54eq4k7wlo5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/I Magic</title>
+    <ns>0</ns>
+    <id>83306</id>
+    <revision>
+      <id>83439</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83439</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="430" sha1="9yumteeko8j9nlbsptau77m3bc3qq31" xml:space="preserve">{{Company
+| Name=I.Magic
+| Guid=3010-26412
+| Characters=
+| Concepts=
+| Developed_games=
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Minna_Atsumare_Igo_Kyoshitsu,Games/Saikyo_Ginsei_Chess,Games/Saikyou_Ginsei_Shogi_2,Games/Sekai_Saikyou_Ginsei_Igo,Games/Sekai_Saikyou_Ginsei_Igo_2,Games/Sekai_Saikyou_Ginsei_Igo_3,Games/Sekai_Saikyou_Ginsei_Shogi
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9yumteeko8j9nlbsptau77m3bc3qq31</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Ice Dagger Studios</title>
+    <ns>0</ns>
+    <id>625024</id>
+    <revision>
+      <id>974836</id>
+      <timestamp>2026-06-09T03:03:47Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=3c2a6258-aff6-420a-bdfe-0aecfe034d1b |Name=Ice Dagger Studios }}"</comment>
+      <origin>974836</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="80" sha1="nvw3zm0eecd44h38d1xqtnac1s3olpc" xml:space="preserve">{{Company
+|Guid=3c2a6258-aff6-420a-bdfe-0aecfe034d1b
+|Name=Ice Dagger Studios
+}}</text>
+      <sha1>nvw3zm0eecd44h38d1xqtnac1s3olpc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Ignita Games</title>
+    <ns>0</ns>
+    <id>83245</id>
+    <revision>
+      <id>83378</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83378</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="250" sha1="dvoozsolkxhrti8q5y2lc9z4m7rus8g" xml:space="preserve">{{Company
+| Name=Ignita Games
+| Guid=3010-26351
+| Characters=
+| Concepts=
+| Developed_games=Games/Idle_Waters
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Idle_Waters
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>dvoozsolkxhrti8q5y2lc9z4m7rus8g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Ilex Games</title>
+    <ns>0</ns>
+    <id>83364</id>
+    <revision>
+      <id>83497</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83497</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="240" sha1="nvayrhho2c2m4yxmcy2vztc4thhlh82" xml:space="preserve">{{Company
+| Name=Ilex Games
+| Guid=3010-26471
+| Characters=
+| Concepts=
+| Developed_games=Games/Adventure_of_Samsara
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>nvayrhho2c2m4yxmcy2vztc4thhlh82</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Implicit Conversions</title>
+    <ns>0</ns>
+    <id>83121</id>
+    <revision>
+      <id>83254</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83254</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="256" sha1="7x0myu6kkesbotn5jjqs9yhgwpf45za" xml:space="preserve">{{Company
+| Name=Implicit Conversions
+| Guid=3010-26227
+| Characters=
+| Concepts=
+| Developed_games=Games/Milanos_Odd_Job_Collection
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>7x0myu6kkesbotn5jjqs9yhgwpf45za</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Increment P Corp</title>
+    <ns>0</ns>
+    <id>83332</id>
+    <revision>
+      <id>83465</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83465</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="293" sha1="shymf2c7hws5e2r9m5u05gg7pm6rm4u" xml:space="preserve">{{Company
+| Name=Increment P Corp
+| Guid=3010-26439
+| Characters=
+| Concepts=
+| Developed_games=
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Battle_Athletess_Daiundoukai,Games/Battle_Athletess_Daiundoukai_GTO
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>shymf2c7hws5e2r9m5u05gg7pm6rm4u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/IndieLab</title>
+    <ns>0</ns>
+    <id>625082</id>
+    <revision>
+      <id>975032</id>
+      <timestamp>2026-06-14T17:42:04Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=9c0c0e0d-ccab-4f85-a7cc-99673ecda9c2 |Name=IndieLab }}"</comment>
+      <origin>975032</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="70" sha1="s0658k39s9v6xy048iietosv9mknwjy" xml:space="preserve">{{Company
+|Guid=9c0c0e0d-ccab-4f85-a7cc-99673ecda9c2
+|Name=IndieLab
+}}</text>
+      <sha1>s0658k39s9v6xy048iietosv9mknwjy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Inlusio Interactive</title>
+    <ns>0</ns>
+    <id>83153</id>
+    <revision>
+      <id>83286</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83286</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="279" sha1="e007o7issx3ckc00l2lt8cvoclkpcsv" xml:space="preserve">{{Company
+| Name=Inlusio Interactive
+| Guid=3010-26259
+| Characters=
+| Concepts=
+| Developed_games=Games/The_Guardian_of_Nature
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/The_Guardian_of_Nature
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>e007o7issx3ckc00l2lt8cvoclkpcsv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Instinct3</title>
+    <ns>0</ns>
+    <id>83220</id>
+    <revision>
+      <id>83353</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83353</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="3jtcajk3ecn5yt0xsab44mzvpiv6608" xml:space="preserve">{{Company
+| Name=Instinct3
+| Guid=3010-26326
+| Characters=
+| Concepts=
+| Developed_games=
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/9_Kings
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3jtcajk3ecn5yt0xsab44mzvpiv6608</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Intarus</title>
+    <ns>0</ns>
+    <id>83303</id>
+    <revision>
+      <id>83436</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83436</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="249" sha1="1ngz4wgl0glz78mag9ok2u7vmlzu040" xml:space="preserve">{{Company
+| Name=Intarus
+| Guid=3010-26409
+| Characters=
+| Concepts=
+| Developed_games=
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Oneesan_to_Issho_Janken_Paradise
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>1ngz4wgl0glz78mag9ok2u7vmlzu040</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Iota</title>
+    <ns>0</ns>
+    <id>83416</id>
+    <revision>
+      <id>83549</id>
+      <timestamp>2025-12-08T07:21:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83549</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="232" sha1="jvcmemvn91tnvxg4ovl5j9u2ffx36a5" xml:space="preserve">{{Company
+| Name=Iota
+| Guid=3010-26524
+| Characters=
+| Concepts=
+| Developed_games=
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Jishin_DS_72_Jikan
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jvcmemvn91tnvxg4ovl5j9u2ffx36a5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/JT Studio</title>
+    <ns>0</ns>
+    <id>83116</id>
+    <revision>
+      <id>83249</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83249</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="283" sha1="59np02ycqeanata4xv0vykprpd1h6m3" xml:space="preserve">{{Company
+| Name=JT Studio
+| Guid=3010-26222
+| Characters=
+| Concepts=
+| Developed_games=Games/shen_kong_qi_hao_Deep_Space_7
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/shen_kong_qi_hao_Deep_Space_7
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>59np02ycqeanata4xv0vykprpd1h6m3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Joeveno</title>
+    <ns>0</ns>
+    <id>83426</id>
+    <revision>
+      <id>83559</id>
+      <timestamp>2025-12-08T07:21:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83559</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="437" sha1="5nsyeynyqy5wq9d1nkp8wexrm2ikxo1" xml:space="preserve">{{Company
+| Name=Joeveno
+| Guid=3010-26534
+| Characters=
+| Concepts=
+| Developed_games=Games/Brazilian_Drug_Dealer_3_I_Opened_a_Portal_to_Hell_in_the_Favela_Trying_to_Revive_Mit_Aia_I_Need_to_Close_It
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Brazilian_Drug_Dealer_3_I_Opened_a_Portal_to_Hell_in_the_Favela_Trying_to_Revive_Mit_Aia_I_Need_to_Close_It
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5nsyeynyqy5wq9d1nkp8wexrm2ikxo1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Joymaker Interactive</title>
+    <ns>0</ns>
+    <id>83315</id>
+    <revision>
+      <id>646057</id>
+      <parentid>83448</parentid>
+      <timestamp>2026-02-14T01:23:59Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>646057</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="960" sha1="iredw0x861lduhced7lg479tmgpd6ga" xml:space="preserve">{{Company
+| Name=Joymaker Interactive
+| Guid=3010-26422
+| Deck=A Shanghai based video game development studio.
+| FoundedDate=2009-01-01
+| City=Shanghai
+| Country=China
+| Website=https://joymaker.com/
+| Characters=
+| Concepts=
+| Developed_games=Games/Ragnarok_Online_3
+| Locations=
+| Objects=
+| People=
+| Published_games=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/10/103881/3777923-1750668607856.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777923-1750668607856.jpg","path":"10\/103881\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,scale_medium,square_medium,square_small,square_tiny,square_mini,square_avatar,screen_medium,scale_large,screen_kubrick,scale_avatar","caption":null},"background":[]}' /&gt;
+
+==Overview==
+Joymaker Interactive is a video game development studio headquartered in Shanghai, China. The company was established in 2009.
+Joymaker has studios in Taipei, Bangkok, Singapore, Jakarta, and Kuala Lumpur.</text>
+      <sha1>iredw0x861lduhced7lg479tmgpd6ga</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1596 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>People/Sarah Elmaleh 193138</title>
+    <ns>0</ns>
+    <id>456278</id>
+    <revision>
+      <id>456864</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456864</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="216" sha1="5lvp26ggsfgkmj42b36spmuy1wxir5x" xml:space="preserve">{{Person
+| Name=Sarah Elmaleh
+| Guid=3040-193138
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Fortnite
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5lvp26ggsfgkmj42b36spmuy1wxir5x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sasha Sloan</title>
+    <ns>0</ns>
+    <id>456274</id>
+    <revision>
+      <id>456860</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456860</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="215" sha1="6f22uyjrhrf4zd3wnizsbzweye2bg3w" xml:space="preserve">{{Person
+| Name=Sasha Sloan
+| Guid=3040-193134
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Sand_Land
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>6f22uyjrhrf4zd3wnizsbzweye2bg3w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Satoki Mizuhara</title>
+    <ns>0</ns>
+    <id>456266</id>
+    <revision>
+      <id>456852</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456852</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" sha1="ey30fjyb249d3tw5tm3dm3zrjqykm42" xml:space="preserve">{{Person
+| Name=Satoki Mizuhara
+| Guid=3040-193126
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Countdown_Vampires
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ey30fjyb249d3tw5tm3dm3zrjqykm42</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Satya Prakash M 83143</title>
+    <ns>0</ns>
+    <id>465120</id>
+    <revision>
+      <id>752471</id>
+      <timestamp>2026-03-04T23:13:50Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752471</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="203" sha1="juqehzc3o151grhjr9nyojbxw12438g" xml:space="preserve">{{Person
+| Name=Satya Prakash.M
+| Guid=3040-83143
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>juqehzc3o151grhjr9nyojbxw12438g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Saul Dudley</title>
+    <ns>0</ns>
+    <id>456373</id>
+    <revision>
+      <id>456959</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456959</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="232" sha1="1b9ohw7yjtq3tpitrp8uq7kwm6j0hym" xml:space="preserve">{{Person
+| Name=Saul Dudley
+| Guid=3040-193233
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Shrek_Hassle_at_the_Castle
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>1b9ohw7yjtq3tpitrp8uq7kwm6j0hym</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sayaka Hirao</title>
+    <ns>0</ns>
+    <id>456220</id>
+    <revision>
+      <id>456805</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456805</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="247" sha1="0ot7mcr5yb3nowsj0a2vymjt50pizjn" xml:space="preserve">{{Person
+| Name=Sayaka Hirao
+| Guid=3040-193079
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Ys_vs_Trails_in_the_Sky_Alternative_Saga
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>0ot7mcr5yb3nowsj0a2vymjt50pizjn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sean Baek</title>
+    <ns>0</ns>
+    <id>456315</id>
+    <revision>
+      <id>456901</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456901</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="222" sha1="lt96gvzz020ugc9yvimvllsqnmnsqux" xml:space="preserve">{{Person
+| Name=Sean Baek
+| Guid=3040-193175
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Suikoden_Tierkreis
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>lt96gvzz020ugc9yvimvllsqnmnsqux</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sean Chan</title>
+    <ns>0</ns>
+    <id>456319</id>
+    <revision>
+      <id>456905</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456905</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="207" sha1="0kjw8458zj6i5p6vufyby7ic1zcwvjx" xml:space="preserve">{{Person
+| Name=Sean Chan
+| Guid=3040-193179
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/qrp
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>0kjw8458zj6i5p6vufyby7ic1zcwvjx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sebastian Jennings</title>
+    <ns>0</ns>
+    <id>456385</id>
+    <revision>
+      <id>456971</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456971</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="231" sha1="dw68lttmoeb5pjge6gbvyxpka7e82i8" xml:space="preserve">{{Person
+| Name=Sebastian Jennings
+| Guid=3040-193245
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Shrek_Reekin_Havoc
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>dw68lttmoeb5pjge6gbvyxpka7e82i8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sebastien Clavaud 28047</title>
+    <ns>0</ns>
+    <id>465058</id>
+    <revision>
+      <id>752378</id>
+      <timestamp>2026-03-04T23:12:25Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752378</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="205" sha1="mxojgkvtxpycnzdhli6c3nj77j0s7zj" xml:space="preserve">{{Person
+| Name=Sebastien Clavaud
+| Guid=3040-28047
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>mxojgkvtxpycnzdhli6c3nj77j0s7zj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sebastien Hinse 70074</title>
+    <ns>0</ns>
+    <id>465109</id>
+    <revision>
+      <id>752447</id>
+      <timestamp>2026-03-04T23:13:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752447</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="203" sha1="11t43wmmf05fofm0bvfhha0hx8kzc50" xml:space="preserve">{{Person
+| Name=Sebastien Hinse
+| Guid=3040-70074
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>11t43wmmf05fofm0bvfhha0hx8kzc50</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sebastien Jean 59484</title>
+    <ns>0</ns>
+    <id>465097</id>
+    <revision>
+      <id>752434</id>
+      <timestamp>2026-03-04T23:13:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752434</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="203" sha1="cq6b7z40oc5969wwdsch1ce2dlsyk0o" xml:space="preserve">{{Person
+| Name=Sébastien Jean
+| Guid=3040-59484
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>cq6b7z40oc5969wwdsch1ce2dlsyk0o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Seiichi Hirai</title>
+    <ns>0</ns>
+    <id>456262</id>
+    <revision>
+      <id>738282</id>
+      <parentid>456848</parentid>
+      <timestamp>2026-02-15T00:30:47Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>738282</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="731" sha1="nfc2ypx6zhtfbexnlb5j14871fqmsa3" xml:space="preserve">{{Person
+| Name=Seiichi Hirai
+| Guid=3040-193122
+| Deck=Voice Actor
+| Characters=Characters/Onikage,Characters/R_J_MacReady
+| Concepts=
+| Franchises=
+| Games=Games/Tenchu_Stealth_Assassins,Games/The_Thing
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/3/34651/3715102-seiichihirai.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3715102-seiichihirai.jpg","path":"3\/34651\/","mime":"image\/jpeg","sizes":"scale_super,square_medium,square_small,scale_small,scale_medium,square_tiny,square_mini,scale_tiny,screen_kubrick,scale_large,scale_avatar,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;
+Seiichi was the first actor to voice [[Characters/Onikage|Onikage]]</text>
+      <sha1>nfc2ypx6zhtfbexnlb5j14871fqmsa3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sendy Gagne 69371</title>
+    <ns>0</ns>
+    <id>465108</id>
+    <revision>
+      <id>752446</id>
+      <timestamp>2026-03-04T23:13:28Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752446</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="200" sha1="cb70uk068cxtsgj7s0p3oubcb46ff8g" xml:space="preserve">{{Person
+| Name=Sendy Gagné
+| Guid=3040-69371
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>cb70uk068cxtsgj7s0p3oubcb46ff8g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sergei Andrievsky</title>
+    <ns>0</ns>
+    <id>456402</id>
+    <revision>
+      <id>456988</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456988</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="222" sha1="msixns21y03l5xs9xkbc6rj8h72ewuh" xml:space="preserve">{{Person
+| Name=Sergei Andrievsky
+| Guid=3040-193262
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Cake_Mania
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>msixns21y03l5xs9xkbc6rj8h72ewuh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sergey Bloschinskiy</title>
+    <ns>0</ns>
+    <id>456500</id>
+    <revision>
+      <id>457086</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457086</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="261" sha1="kekubu4adelw20a9ak3awya70pxukut" xml:space="preserve">{{Person
+| Name=Sergey Bloschinskiy
+| Guid=3040-193361
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Cake_Mania_Main_Street,Games/Tradewinds_Odyssey
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>kekubu4adelw20a9ak3awya70pxukut</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sergey Grachev</title>
+    <ns>0</ns>
+    <id>456558</id>
+    <revision>
+      <id>457144</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457144</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="254" sha1="o8k5g88yy2herqkdr4owe89fkn6n1tg" xml:space="preserve">{{Person
+| Name=Sergey Grachev
+| Guid=3040-193419
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Cake_Mania_To_the_Max,Games/Cookie_Domination
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>o8k5g88yy2herqkdr4owe89fkn6n1tg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sergey Suntcov</title>
+    <ns>0</ns>
+    <id>456535</id>
+    <revision>
+      <id>457121</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457121</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="219" sha1="m77lh48e0d39y3qtwrgaa4i9rz3ntyc" xml:space="preserve">{{Person
+| Name=Sergey Suntcov
+| Guid=3040-193396
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Alpha_Ball
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>m77lh48e0d39y3qtwrgaa4i9rz3ntyc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sergio Sanchez 193230</title>
+    <ns>0</ns>
+    <id>456370</id>
+    <revision>
+      <id>456956</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456956</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="221" sha1="s0ukfujihr4np0yxywk4163a68swwjo" xml:space="preserve">{{Person
+| Name=Sergio Sanchez
+| Guid=3040-193230
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Super_Granny
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>s0ukfujihr4np0yxywk4163a68swwjo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Shamene Childress 441</title>
+    <ns>0</ns>
+    <id>465035</id>
+    <revision>
+      <id>752338</id>
+      <timestamp>2026-03-04T23:11:50Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752338</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="204" sha1="oqk4r2qmtibuvvqrf1s2ujd9aywg2xn" xml:space="preserve">{{Person
+| Name=Shamen'e Childress
+| Guid=3040-441
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>oqk4r2qmtibuvvqrf1s2ujd9aywg2xn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Shane White 2220</title>
+    <ns>0</ns>
+    <id>465037</id>
+    <revision>
+      <id>752340</id>
+      <timestamp>2026-03-04T23:11:52Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752340</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="354" sha1="rbcha5t3ifqruv8tl2dhqxedpu1f1v8" xml:space="preserve">{{Person
+| Name=Shane White
+| Guid=3040-2220
+| Characters=
+| Concepts=
+| Franchises=Franchises/Gears_of_War,Franchises/Guild_Wars,Franchises/Mass_Effect
+| Games=Games/Guild_Wars_Factions,Games/Ripper,Games/Sudeki,Games/The_Agency,Games/The_Suffering
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>rbcha5t3ifqruv8tl2dhqxedpu1f1v8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sharon A Fuentes</title>
+    <ns>0</ns>
+    <id>456510</id>
+    <revision>
+      <id>457096</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457096</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="258" sha1="gu7pn9ebzfvimbfr0tfyttl8kei2ar6" xml:space="preserve">{{Person
+| Name=Sharon A. Fuentes
+| Guid=3040-193371
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Cookie_Domination,Games/Westward_IV_All_Aboard
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>gu7pn9ebzfvimbfr0tfyttl8kei2ar6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Shinya Yamada 13205</title>
+    <ns>0</ns>
+    <id>465047</id>
+    <revision>
+      <id>752364</id>
+      <timestamp>2026-03-04T23:12:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752364</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="202" sha1="iipnx77aga16d7bru1gqtj53pzy7ukd" xml:space="preserve">{{Person
+| Name=Shin'ya Yamada
+| Guid=3040-13205
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>iipnx77aga16d7bru1gqtj53pzy7ukd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Shiori Mikami</title>
+    <ns>0</ns>
+    <id>456216</id>
+    <revision>
+      <id>456801</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456801</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="248" sha1="iq3gaadf52wvsh32xxc12ubxu3cijpf" xml:space="preserve">{{Person
+| Name=Shiori Mikami
+| Guid=3040-193075
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Ys_vs_Trails_in_the_Sky_Alternative_Saga
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>iq3gaadf52wvsh32xxc12ubxu3cijpf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Shirakami Fubuki</title>
+    <ns>0</ns>
+    <id>456234</id>
+    <revision>
+      <id>456820</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456820</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="243" sha1="nx1pzbbrjqckbf2e5ylxy5mfbpzk3x4" xml:space="preserve">{{Person
+| Name=Shirakami Fubuki
+| Guid=3040-193094
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Groove_Coaster_Future_Performers
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>nx1pzbbrjqckbf2e5ylxy5mfbpzk3x4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/SkreamnRedSkull</title>
+    <ns>0</ns>
+    <id>456359</id>
+    <revision>
+      <id>456945</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456945</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="235" sha1="py7541ioe3sdigsz9cz41wxdxwc8yqp" xml:space="preserve">{{Person
+| Name=SkreamnRedSkull
+| Guid=3040-193219
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Exploding_Judo_Federation
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>py7541ioe3sdigsz9cz41wxdxwc8yqp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sonja Kuchling</title>
+    <ns>0</ns>
+    <id>456391</id>
+    <revision>
+      <id>456977</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456977</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="06gtzfpdlebe4m8zylvl09mr6lelk87" xml:space="preserve">{{Person
+| Name=Sonja Kuchling
+| Guid=3040-193251
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Barnyard_Invasion
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>06gtzfpdlebe4m8zylvl09mr6lelk87</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sophie Bennett</title>
+    <ns>0</ns>
+    <id>456316</id>
+    <revision>
+      <id>456902</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456902</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="227" sha1="6aggf524r1za4jho6a7pvzu10e3gvj8" xml:space="preserve">{{Person
+| Name=Sophie Bennett
+| Guid=3040-193176
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Suikoden_Tierkreis
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>6aggf524r1za4jho6a7pvzu10e3gvj8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Stephane Arson 11477</title>
+    <ns>0</ns>
+    <id>465045</id>
+    <revision>
+      <id>752359</id>
+      <timestamp>2026-03-04T23:12:07Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752359</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="202" sha1="rnpl3fi7sgebjd8r2gg6bqhal08vuxo" xml:space="preserve">{{Person
+| Name=Stephane Arson
+| Guid=3040-11477
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>rnpl3fi7sgebjd8r2gg6bqhal08vuxo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Stephane Assadourian 86692</title>
+    <ns>0</ns>
+    <id>465123</id>
+    <revision>
+      <id>752474</id>
+      <timestamp>2026-03-04T23:13:53Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752474</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="208" sha1="kz962lxhme291m2zlep0dck8j0za09o" xml:space="preserve">{{Person
+| Name=Stephane Assadourian
+| Guid=3040-86692
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>kz962lxhme291m2zlep0dck8j0za09o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Stephane Bellanger 28857</title>
+    <ns>0</ns>
+    <id>465064</id>
+    <revision>
+      <id>752384</id>
+      <timestamp>2026-03-04T23:12:31Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752384</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="206" sha1="10zkxuq9ipb0frbqz6ylb0m9wm1b9z9" xml:space="preserve">{{Person
+| Name=Stephane Bellanger
+| Guid=3040-28857
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>10zkxuq9ipb0frbqz6ylb0m9wm1b9z9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Stephane Denis 43736</title>
+    <ns>0</ns>
+    <id>465083</id>
+    <revision>
+      <id>752414</id>
+      <timestamp>2026-03-04T23:13:00Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752414</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="272" sha1="43heen1oigumzgeqy8qfpigvp03m976" xml:space="preserve">{{Person
+| Name=Stéphane Denis
+| Guid=3040-43736
+| Characters=
+| Concepts=
+| Franchises=Franchises/Alone_in_the_Dark
+| Games=Games/Alone_in_the_Dark_The_New_Nightmare
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>43heen1oigumzgeqy8qfpigvp03m976</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Stephane Grenier 109346</title>
+    <ns>0</ns>
+    <id>465133</id>
+    <revision>
+      <id>752514</id>
+      <timestamp>2026-03-04T23:14:25Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752514</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="268" sha1="g5x97ktjbu6rxetcqqnafrt5rwsov7x" xml:space="preserve">{{Person
+| Name=Stephane Grenier
+| Guid=3040-109346
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Child_of_Light,Games/Driver_San_Francisco,Games/From_Dust
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>g5x97ktjbu6rxetcqqnafrt5rwsov7x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Stephen Clement 136642</title>
+    <ns>0</ns>
+    <id>465150</id>
+    <revision>
+      <id>752537</id>
+      <timestamp>2026-03-04T23:14:49Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752537</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="204" sha1="69q6eh4etq4pqcvkdia64mwqll001s1" xml:space="preserve">{{Person
+| Name=Stephen Clement
+| Guid=3040-136642
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>69q6eh4etq4pqcvkdia64mwqll001s1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Steven Seagal</title>
+    <ns>0</ns>
+    <id>456254</id>
+    <revision>
+      <id>738278</id>
+      <parentid>456840</parentid>
+      <timestamp>2026-02-15T00:30:42Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>738278</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="620" sha1="s3z5oakvl7ya7q3pargs2qek8qbx5aj" xml:space="preserve">{{Person
+| Name=Steven Seagal
+| Guid=3040-193114
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Awesomenauts,Games/Steven_Seagal_Is_The_Final_Option
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/7383/2310697-steven_seagal_002.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2310697-steven_seagal_002.jpg","path":"0\/7383\/","mime":"image\/jpeg","sizes":"square_avatar,square_mini,square_tiny,square_medium,square_small,scale_small,scale_medium,screen_medium,scale_large,scale_avatar,scale_super,screen_kubrick,scale_tiny","caption":""},"background":[]}' /&gt;</text>
+      <sha1>s3z5oakvl7ya7q3pargs2qek8qbx5aj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Su Ping Chen</title>
+    <ns>0</ns>
+    <id>456206</id>
+    <revision>
+      <id>456791</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456791</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="225" sha1="fkmdl2lsufnb4qslbcvbo2pow7glcgh" xml:space="preserve">{{Person
+| Name= Su-Ping Chen
+| Guid=3040-193065
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Thunder_Blast_Man
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>fkmdl2lsufnb4qslbcvbo2pow7glcgh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Susan Boudreau</title>
+    <ns>0</ns>
+    <id>456427</id>
+    <revision>
+      <id>457013</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457013</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="222" sha1="5sfn56czsuqrbtv8wtyv3x4rt6psmq6" xml:space="preserve">{{Person
+| Name=Susan Boudreau
+| Guid=3040-193287
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Burger_Island
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5sfn56czsuqrbtv8wtyv3x4rt6psmq6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Susi Kalles</title>
+    <ns>0</ns>
+    <id>456520</id>
+    <revision>
+      <id>457106</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457106</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="270" sha1="8fpajtus7z48wns4vykhk3pu07fn3x8" xml:space="preserve">{{Person
+| Name=Susi Kalles
+| Guid=3040-193381
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Excavation,Games/Honeycombs,Games/Orbital_93990,Games/Tradewinds
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>8fpajtus7z48wns4vykhk3pu07fn3x8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Susumu Koyama</title>
+    <ns>0</ns>
+    <id>456242</id>
+    <revision>
+      <id>456828</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456828</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="254" sha1="f8r76kn3udlbczntll6gh651ye9ma7a" xml:space="preserve">{{Person
+| Name=Susumu Koyama
+| Guid=3040-193102
+| Gender=Male
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Othello_1984,Games/Super_Othello
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>f8r76kn3udlbczntll6gh651ye9ma7a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Suzanne Kim</title>
+    <ns>0</ns>
+    <id>456394</id>
+    <revision>
+      <id>456980</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456980</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="223" sha1="m5gqgocl8f0kqvcmlqm70g65csvd5m7" xml:space="preserve">{{Person
+| Name=Suzanne Kim
+| Guid=3040-193254
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Barnyard_Invasion
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>m5gqgocl8f0kqvcmlqm70g65csvd5m7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/TChalla Dion Jackson 516</title>
+    <ns>0</ns>
+    <id>465036</id>
+    <revision>
+      <id>752339</id>
+      <timestamp>2026-03-04T23:11:51Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752339</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="207" sha1="e3cew2gtmpwjlisf1sc7sqno0i7ntah" xml:space="preserve">{{Person
+| Name=T'Challa Dion Jackson
+| Guid=3040-516
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>e3cew2gtmpwjlisf1sc7sqno0i7ntah</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/T J Higgins 65355</title>
+    <ns>0</ns>
+    <id>465101</id>
+    <revision>
+      <id>752438</id>
+      <timestamp>2026-03-04T23:13:22Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752438</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="200" sha1="dc7adnmg49qpohyvaqrremiu35qjuqz" xml:space="preserve">{{Person
+| Name=T.J. Higgins
+| Guid=3040-65355
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>dc7adnmg49qpohyvaqrremiu35qjuqz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/T J Marbois 33244</title>
+    <ns>0</ns>
+    <id>465069</id>
+    <revision>
+      <id>752391</id>
+      <timestamp>2026-03-04T23:12:38Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752391</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="200" sha1="4igxsmtof5edzt2lyjszrv1pf744ibc" xml:space="preserve">{{Person
+| Name=T.J. Marbois
+| Guid=3040-33244
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>4igxsmtof5edzt2lyjszrv1pf744ibc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tak Yamashita 49386</title>
+    <ns>0</ns>
+    <id>465088</id>
+    <revision>
+      <id>752423</id>
+      <timestamp>2026-03-04T23:13:08Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752423</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="202" sha1="avio0d16nlthnbndfuz3vzxk7su000i" xml:space="preserve">{{Person
+| Name=Tak. Yamashita
+| Guid=3040-49386
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>avio0d16nlthnbndfuz3vzxk7su000i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Takayuki Kondo</title>
+    <ns>0</ns>
+    <id>456218</id>
+    <revision>
+      <id>456803</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456803</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="249" sha1="9z3r6qlcmlukh7khxmeyfc4m5990rov" xml:space="preserve">{{Person
+| Name=Takayuki Kondo
+| Guid=3040-193077
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Ys_vs_Trails_in_the_Sky_Alternative_Saga
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9z3r6qlcmlukh7khxmeyfc4m5990rov</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tallula Dinsmore</title>
+    <ns>0</ns>
+    <id>456343</id>
+    <revision>
+      <id>456929</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456929</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="250" sha1="bgv1k52i1b1mla2hz9vjf9hdwvafi33" xml:space="preserve">{{Person
+| Name=Tallula Dinsmore
+| Guid=3040-193203
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/My_Little_Pony_A_Zephyr_Heights_Mystery
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>bgv1k52i1b1mla2hz9vjf9hdwvafi33</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tan Meng Siah</title>
+    <ns>0</ns>
+    <id>456504</id>
+    <revision>
+      <id>457090</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457090</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="230" sha1="a4akcrf0xha8pm97zl60fqef8mhfyx4" xml:space="preserve">{{Person
+| Name=Tan Meng Siah
+| Guid=3040-193365
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Westward_IV_All_Aboard
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>a4akcrf0xha8pm97zl60fqef8mhfyx4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tan Meng Siah 193375</title>
+    <ns>0</ns>
+    <id>456514</id>
+    <revision>
+      <id>457100</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457100</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="225" sha1="3ks2zjh3len788t5u2iw5wcb2oymksf" xml:space="preserve">{{Person
+| Name=Tan Meng Siah
+| Guid=3040-193375
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Westward_Kingdoms
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3ks2zjh3len788t5u2iw5wcb2oymksf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tati Gabrielle</title>
+    <ns>0</ns>
+    <id>456211</id>
+    <revision>
+      <id>456796</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456796</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="242" sha1="3qc1q1snr6nbpji13ny9gqt37enq63e" xml:space="preserve">{{Person
+| Name=Tati Gabrielle
+| Guid=3040-193070
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Intergalactic_The_Heretic_Prophet
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3qc1q1snr6nbpji13ny9gqt37enq63e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tatsushi Kitagawa</title>
+    <ns>0</ns>
+    <id>456377</id>
+    <revision>
+      <id>456963</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456963</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="238" sha1="s734g788s7quawz2ae391tkiq6h0u6z" xml:space="preserve">{{Person
+| Name=Tatsushi Kitagawa
+| Guid=3040-193237
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Shrek_Hassle_at_the_Castle
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>s734g788s7quawz2ae391tkiq6h0u6z</sha1>
+    </revision>
+  </page>
+</mediawiki>

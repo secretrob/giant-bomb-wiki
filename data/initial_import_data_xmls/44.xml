@@ -1,0 +1,1702 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Games/Jurassic Park Survival 32826/Credits</title>
+    <ns>0</ns>
+    <id>464927</id>
+    <revision>
+      <id>749122</id>
+      <timestamp>2026-03-04T22:29:16Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>749122</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="210" sha1="sxjp5ppqowxlt1a3jlu44jarzdubvcq" xml:space="preserve">{{Credits
+|ParentPage=Games/Jurassic_Park_Survival_32826
+}}
+{{CreditSubobject
+|Game=Games/Jurassic_Park_Survival_32826
+|Release=
+|Dlc=
+|Person=People/Robert_DePalma
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>sxjp5ppqowxlt1a3jlu44jarzdubvcq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Just Grandma and Me 1992/Credits</title>
+    <ns>0</ns>
+    <id>249937</id>
+    <revision>
+      <id>250375</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250375</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="238" sha1="jcpuk4oqzdcbrtcypsr3gn5yj6s45j4" xml:space="preserve">{{Credits
+|ParentPage=Games/Just_Grandma_and_Me_1992
+}}
+{{CreditSubobject
+|Game=Games/Just_Grandma_and_Me_1992
+|Release=
+|Dlc=
+|Person=People/Bridget_Erdmann
+|Company=
+|Department=Visual Arts
+|Role=PC Windows animators / VIS animators
+}}
+</text>
+      <sha1>jcpuk4oqzdcbrtcypsr3gn5yj6s45j4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Just Sing 46904</title>
+    <ns>0</ns>
+    <id>464983</id>
+    <revision>
+      <id>796907</id>
+      <parentid>750614</parentid>
+      <timestamp>2026-03-12T06:28:40Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796907</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="951" sha1="kdbm98h07sgbid1lshww495yfzmjuak" xml:space="preserve">{{Game
+| Name=Just Sing!
+| Guid=3030-46904
+| Deck=Just Sing! is the first in a massive series of DS karaoke games.
+| ReleaseDate=2010-07-02
+| Characters=
+| Concepts=Concepts/Bundled_with_Peripherals,Concepts/Karaoke
+| Developers=Companies/Engine_Software_B_V
+| Franchises=Franchises/Just_Sing
+| Genres=Genres/Music_Rhythm
+| Locations=
+| Objects=
+| Platforms=Platforms/Nintendo_DS
+| Publishers=Companies/Conspiracy_Entertainment_Corp
+| Games=
+| Themes=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/2653355-2493704445-15601.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2653355-2493704445-15601.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_small,square_small,scale_avatar,square_avatar,square_tiny,square_medium,square_mini,scale_medium,screen_medium,scale_large,scale_tiny,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+Just Sing! is the first in a massive series of DS karaoke games.</text>
+      <sha1>kdbm98h07sgbid1lshww495yfzmjuak</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Just a Shadow Game</title>
+    <ns>0</ns>
+    <id>624820</id>
+    <revision>
+      <id>975033</id>
+      <parentid>974555</parentid>
+      <timestamp>2026-06-14T17:42:24Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975033</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="641" sha1="7v75qg0sbbtqmgwkdnntnlkydaves4t" xml:space="preserve">{{Game
+|Guid=268a4855-6e6f-4848-9848-3a76245e6cee
+|Name=Just a Shadow Game
+|Image=https://giantbomb.com/api/media/file/media--file--just-a-shadow-game-06-14-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--just-a-shadow-gameb-06-14-2026.jpg
+|Deck=A roguelike deckbuilder autobattler.
+|ReleaseDateType=Year
+|YearPart=2027
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Roguelike, Concepts/Steam Achievements, Concepts/Steam Cloud, Concepts/2D
+|Developers=Companies/IndieLab
+|Genres=Genres/Strategy
+|Platforms=Platforms/PC
+|Publishers=Companies/Soft Source
+|Themes=Themes/Horror
+}}</text>
+      <sha1>7v75qg0sbbtqmgwkdnntnlkydaves4t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Karate Master 2 Knock Down Blow 49713</title>
+    <ns>0</ns>
+    <id>464988</id>
+    <revision>
+      <id>796911</id>
+      <parentid>750800</parentid>
+      <timestamp>2026-03-12T06:28:43Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796911</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1021" sha1="ka6mv84vv40ha0rk0alz10m18ep6bi7" xml:space="preserve">{{Game
+| Name=Karate Master 2 Knock Down Blow
+| Guid=3030-49713
+| Deck=Play the life of a young Japanese karateka as he works, fights, and struggles to find his place in the Japanese martial arts scene!!
+| ReleaseDate=2015-03-20
+| Characters=
+| Concepts=
+| Developers=
+| Franchises=
+| Genres=Genres/Action,Genres/Role_Playing
+| Locations=
+| Objects=
+| Platforms=Platforms/PC
+| Publishers=
+| Games=
+| Themes=Themes/Anime,Themes/Comedy,Themes/Martial_Arts
+| Image=https://www.giantbomb.com/a/uploads/scale_super/28/280629/2750392-0720225259-heade.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2750392-0720225259-heade.jpg","path":"28\/280629\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_super,square_tiny,square_mini,scale_small,square_avatar,scale_medium,screen_medium,scale_large,scale_avatar,scale_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+Play the life of a young Japanese karateka as he works, fights, and struggles to find his place in the Japanese martial arts scene!!</text>
+      <sha1>ka6mv84vv40ha0rk0alz10m18ep6bi7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Kidbash: Super Legend</title>
+    <ns>0</ns>
+    <id>624648</id>
+    <revision>
+      <id>974187</id>
+      <parentid>974186</parentid>
+      <timestamp>2026-06-02T13:48:27Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974187</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="682" sha1="k304uwrhlyuh3sxs77bywhzfpbs6doy" xml:space="preserve">{{Game
+|Guid=2f97afdd-46d9-4878-a9bf-a2182807778e
+|Name=Kidbash: Super Legend
+|Image=https://giantbomb.com/api/media/file/media--file--library_600xljohj900_2x-06-02-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--library_hiuhuero_2x-06-02-2026.jpg
+|Deck=A classic-style action platformer in a world of forgotten video game characters.
+|ReleaseDateType=Full
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Side Scrolling, Concepts/Roguelike, Concepts/2 5D, Concepts/Steam
+|Developers=Companies/Authentic Remixes, Companies/Fat Raccoon
+|Genres=Genres/Action, Genres/Platformer
+|Platforms=Platforms/PC
+|Publishers=Companies/Acclaim Inc.
+}}</text>
+      <sha1>k304uwrhlyuh3sxs77bywhzfpbs6doy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Kikou Heidan J Phoenix 52759</title>
+    <ns>0</ns>
+    <id>464992</id>
+    <revision>
+      <id>796913</id>
+      <parentid>750953</parentid>
+      <timestamp>2026-03-12T06:28:44Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796913</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="841" sha1="dua3faac9pq81y40wp83zj5p8iywa5g" xml:space="preserve">{{Game
+| Name=Kikou Heidan J-Phoenix +
+| Guid=3030-52759
+| Deck=Kikou Heidan J-Phoenix + is an Action game released in Japan in 2002.
+| ReleaseDate=2002-12-05
+| Characters=
+| Concepts=
+| Developers=
+| Franchises=
+| Genres=Genres/Action
+| Locations=
+| Objects=
+| Platforms=Platforms/Xbox
+| Publishers=Companies/TAKARA_Co_Ltd
+| Games=
+| Themes=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/30/307326/2828299-304716_front.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2828299-304716_front.jpg","path":"30\/307326\/","mime":"image\/jpeg","sizes":"square_medium,square_tiny,square_small,scale_super,scale_large,scale_avatar,screen_medium,scale_small,square_avatar,square_mini,scale_medium,scale_tiny,screen_kubrick","caption":null},"background":[]}' /&gt;
+Kikou Heidan J-Phoenix + is an Action game released in Japan in 2002.</text>
+      <sha1>dua3faac9pq81y40wp83zj5p8iywa5g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Kinforge</title>
+    <ns>0</ns>
+    <id>624897</id>
+    <revision>
+      <id>975236</id>
+      <parentid>975234</parentid>
+      <timestamp>2026-06-27T00:49:57Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975236</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="630" sha1="624e2xomy10gj9r2mn2ryx0s04d4kdm" xml:space="preserve">{{Game
+|Guid=4c8a0b8b-7fde-448b-82bf-696621db68c1
+|Name=KinForge
+|Image=https://giantbomb.com/api/media/file/media--file--kinforge-06-27-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--kinforgeb-06-27-2026.jpg
+|Deck=A cooperative creature-collecting RPG with dynamic elemental combat.
+|ReleaseDateType=None
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Magic, Concepts/Cooperative Play, Concepts/Online
+|Developers=Companies/Seeker Entertainment
+|Genres=Genres/Role Playing
+|Platforms=Platforms/PC
+|Publishers=Companies/Seeker Entertainment
+|Themes=Themes/Fantasy
+}}</text>
+      <sha1>624e2xomy10gj9r2mn2ryx0s04d4kdm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Kingdom Hearts Collection I~III</title>
+    <ns>0</ns>
+    <id>625040</id>
+    <revision>
+      <id>974892</id>
+      <parentid>974891</parentid>
+      <timestamp>2026-06-09T16:54:31Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974892</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="521" sha1="dzcj5m4kpczrkvizf3ya5knzbpev966" xml:space="preserve">{{Game
+|Guid=d0aa0e0d-074b-433a-912d-35246300505c
+|Name=Kingdom Hearts Collection [I~III]
+|Image=https://giantbomb.com/api/media/file/media--file--hkywbdsbqaaethw-06-09-2026.jpg
+|Deck=A compilation of Kingdom Hearts 1.5+2.5, 2.8, and III+ReMind.
+|ReleaseDateType=Full
+|ReleaseDate=2026-10-08
+|Franchises=Franchises/Kingdom Hearts
+|Genres=Genres/Compilation
+|Platforms=Platforms/Nintendo Switch 2, Platforms/PlayStation 5, Platforms/Xbox Series X S, Platforms/PC
+|Publishers=Companies/Square Enix
+|Themes=Themes/Fantasy
+}}</text>
+      <sha1>dzcj5m4kpczrkvizf3ya5knzbpev966</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Kings Bounty Legions 44688</title>
+    <ns>0</ns>
+    <id>464979</id>
+    <revision>
+      <id>796905</id>
+      <parentid>750464</parentid>
+      <timestamp>2026-03-12T06:28:39Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796905</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2553" sha1="swhsc3uhc27vdaohthm296yuz4yftds" xml:space="preserve">{{Game
+| Name=King’s Bounty: Legions
+| Guid=3030-44688
+| Deck=King’s Bounty: Legions is the first free-to-play game from King's Bounty franchise.
+| ReleaseDate=2013-12-10
+| Characters=
+| Concepts=Concepts/Bears,Concepts/Butterfly,Concepts/Cross_Platform_Multiplayer,Concepts/Digital_Distribution,Concepts/Downloadable_Content,Concepts/Dwarf,Concepts/Enemy_Health_Indicator,Concepts/Facebook_Connectivity,Concepts/Free_to_Play,Concepts/Goblins,Concepts/Health,Concepts/Hexagon,Concepts/Human,Concepts/Microtransaction,Concepts/Murlocs,Concepts/Orc,Concepts/Player_vs_Player,Concepts/Snakes,Concepts/Spiders,Concepts/Steam,Concepts/Trolls,Concepts/Turn_Based,Concepts/Unicorn,Concepts/Vampire,Concepts/Violent_Plants,Concepts/Wizards
+| Developers=Companies/Nival_Entertainment
+| Franchises=Franchises/Kings_Bounty
+| Genres=Genres/Role_Playing,Genres/Strategy
+| Locations=
+| Objects=Objects/Barrel,Objects/Book,Objects/Bow,Objects/Cape,Objects/Grass,Objects/Tree
+| Platforms=Platforms/Android,Platforms/iPad,Platforms/iPhone,Platforms/Mac,Platforms/PC
+| Publishers=Companies/Nival_Entertainment
+| Games=
+| Themes=Themes/Fantasy,Themes/Medieval
+| Image=https://www.giantbomb.com/a/uploads/scale_super/17/171291/2578780-7812809794-heade.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2578780-7812809794-heade.jpg","path":"17\/171291\/","mime":"image\/jpeg","sizes":"scale_small,square_small,square_mini,scale_avatar,square_avatar,scale_medium,screen_medium,scale_large,scale_tiny,square_tiny,square_medium,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+== System Requirements==
+
+===PC===
+
+====Minimum====
+* '''OS:''' Windows XP
+* '''Processor:''' 1 GHz
+* '''Memory:''' 2 GB RAM
+* '''Graphics:''' any graphic card with 1 GB VRAM
+* '''Network:''' Broadband Internet connection
+* '''Hard Drive:''' 1 GB available space
+
+====Recommended====
+* '''OS:''' Windows 7
+* '''Processor:''' Dual Core 2 GHz
+* '''Memory:''' 4 GB RAM
+* '''Graphics:''' any graphic card with 1 GB VRAM
+* '''Network:''' Broadband Internet connection
+* '''Hard Drive:''' 1 GB available space
+
+===Mac===
+
+====Minimum====
+* '''OS:''' 10.8
+* '''Processor:''' 1 GHz
+* '''Memory:''' 2 GB RAM
+* '''Graphics:''' any graphic card with 1 GB VRAM
+* '''Network:''' Broadband Internet connection
+* '''Hard Drive:''' 1 GB available space
+
+===Recommended===
+* '''OS:''' 10.8.5
+* '''Processor:''' Dual Core 2 GHz
+* '''Memory:''' 4 GB RAM
+* '''Graphics:''' any graphic card with 1 GB VRAM
+* '''Network:''' Broadband Internet connection
+* '''Hard Drive:''' 1 GB available space</text>
+      <sha1>swhsc3uhc27vdaohthm296yuz4yftds</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Kings Quest III Redux To Heir is Human/Credits</title>
+    <ns>0</ns>
+    <id>250184</id>
+    <revision>
+      <id>250629</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250629</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="295" sha1="hkqk5q4k47aldl7h02oltk4y0fcully" xml:space="preserve">{{Credits
+|ParentPage=Games/Kings_Quest_III_Redux_To_Heir_is_Human
+}}
+{{CreditSubobject
+|Game=Games/Kings_Quest_III_Redux_To_Heir_is_Human
+|Release=
+|Dlc=
+|Person=People/John_Bell_118447
+|Company=
+|Department=Voice Actor
+|Role=PC Windows voice over cast (as Narrator/Manannan/Pirate Captain)
+}}
+</text>
+      <sha1>hkqk5q4k47aldl7h02oltk4y0fcully</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Kings Quest Quest for the Crown/Credits</title>
+    <ns>0</ns>
+    <id>250186</id>
+    <revision>
+      <id>250631</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250631</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="240" sha1="286vcn1nhfnydrnh59e4b81q3wahxa4" xml:space="preserve">{{Credits
+|ParentPage=Games/Kings_Quest_Quest_for_the_Crown
+}}
+{{CreditSubobject
+|Game=Games/Kings_Quest_Quest_for_the_Crown
+|Release=
+|Dlc=
+|Person=People/John_Bell_118447
+|Company=
+|Department=Voice Actor
+|Role=PC Windows voice acting
+}}
+</text>
+      <sha1>286vcn1nhfnydrnh59e4b81q3wahxa4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Kings of Hell/Credits</title>
+    <ns>0</ns>
+    <id>250150</id>
+    <revision>
+      <id>250595</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250595</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="492" sha1="o61hsxrot99tnn9vfkjobq86gqh0i3q" xml:space="preserve">{{Credits
+|ParentPage=Games/Kings_of_Hell
+}}
+{{CreditSubobject
+|Game=Games/Kings_of_Hell
+|Release=
+|Dlc=
+|Person=People/Gianni_Matragrano
+|Company=
+|Department=Voice Actor
+|Role=Agares
+}}
+{{CreditSubobject
+|Game=Games/Kings_of_Hell
+|Release=
+|Dlc=
+|Person=People/Sean_Chiplock
+|Company=
+|Department=Voice Actor
+|Role=Lutin Lucifer/Enfer
+}}
+{{CreditSubobject
+|Game=Games/Kings_of_Hell
+|Release=
+|Dlc=
+|Person=People/Michael_Kovach
+|Company=
+|Department=Voice Actor
+|Role=Gremile 'Hot Shot'
+}}
+</text>
+      <sha1>o61hsxrot99tnn9vfkjobq86gqh0i3q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Kiratto Kaiketsu! 64 Tanteidan</title>
+    <ns>0</ns>
+    <id>465241</id>
+    <revision>
+      <id>797299</id>
+      <parentid>797288</parentid>
+      <timestamp>2026-03-25T14:22:18Z</timestamp>
+      <contributor>
+        <username>Cyberlink420</username>
+        <id>404</id>
+      </contributor>
+      <origin>797299</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="627" sha1="6u7fjw6sqyehj45zt67xxsx31rbjaev" xml:space="preserve">{{Game
+|Guid=9d927eaa-3a7e-4254-b55f-c0ff96491171
+|Name=Kiratto Kaiketsu! 64 Tanteidan
+|Deck=Kiratto Kaiketsu! 64 Tanteidan is a detective themed party game, in which a group of kid detectives search a mansion for clues and bombs to catch the culprit.
+|ReleaseDateType=Full
+|ReleaseDate=1998-10-23
+|Concepts=Concepts/Detective
+|Developers=Companies/Pandora Box
+|Genres=Genres/Trivia Board Game
+|Platforms=Platforms/Nintendo 64
+|Publishers=Companies/Imagineer Co Ltd
+}}
+Kiratto Kaiketsu! 64 Tanteidan is a detective themed party game, in which a group of kid detectives search a mansion for clues and bombs to catch the culprit.</text>
+      <sha1>6u7fjw6sqyehj45zt67xxsx31rbjaev</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Kirby Air Riders/Credits</title>
+    <ns>0</ns>
+    <id>254704</id>
+    <revision>
+      <id>751939</id>
+      <parentid>255156</parentid>
+      <timestamp>2026-03-04T23:06:31Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>255156</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="492" sha1="p5ird25qkd4a8zrf6lwphkvaol9boic" xml:space="preserve">{{Credits
+|ParentPage=Games/Kirby_Air_Riders
+}}
+{{CreditSubobject
+|Game=Games/Kirby_Air_Riders
+|Release=
+|Dlc=
+|Person=People/Masahiro_Sakurai
+|Company=
+|Department=Design
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Kirby_Air_Riders
+|Release=
+|Dlc=
+|Person=People/Banjo_Ginga
+|Company=
+|Department=Voice Actor
+|Role=Japanese announcer A
+}}
+{{CreditSubobject
+|Game=Games/Kirby_Air_Riders
+|Release=
+|Dlc=
+|Person=People/Makiko_Ohmoto
+|Company=
+|Department=Voice Actor
+|Role=Japanese announcer B
+}}
+</text>
+      <sha1>p5ird25qkd4a8zrf6lwphkvaol9boic</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Kirk Mephisto</title>
+    <ns>0</ns>
+    <id>624563</id>
+    <revision>
+      <id>974008</id>
+      <parentid>974007</parentid>
+      <timestamp>2026-06-01T21:48:35Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974008</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="615" sha1="ex4jnmvkxezjp7ytb5oazja0ts3hum6" xml:space="preserve">{{Game
+|Guid=b567b374-0717-4514-bd06-dbbd8197db71
+|Name=Kirk Mephisto
+|Image=https://giantbomb.com/api/media/file/media--file--library_capsule_2bbzx-06-01-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--library_hero_2mmmx-06-01-2026.jpg
+|Deck=A sci-fi action game about an eternal war between birds and worms.
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/Polygonal 3D, Concepts/Hack and Slash, Concepts/Anthropomorphism
+|Developers=Companies/Team Coreupt
+|Genres=Genres/Action
+|Platforms=Platforms/PC
+|Publishers=Companies/Team Coreupt
+|Themes=Themes/Sci Fi
+}}</text>
+      <sha1>ex4jnmvkxezjp7ytb5oazja0ts3hum6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Kitty Powers' Matchmaker Makeover</title>
+    <ns>0</ns>
+    <id>624910</id>
+    <revision>
+      <id>974647</id>
+      <timestamp>2026-06-08T00:42:10Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=bc43e9a2-23e3-4e06-91a2-826be705146d |Name=Kitty Powers' Matchmaker Makeover |ReleaseDateType=None }}"</comment>
+      <origin>974647</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="114" sha1="lg1lx16ngq4y7bi6yrjwq9oamq2nv91" xml:space="preserve">{{Game
+|Guid=bc43e9a2-23e3-4e06-91a2-826be705146d
+|Name=Kitty Powers' Matchmaker Makeover
+|ReleaseDateType=None
+}}</text>
+      <sha1>lg1lx16ngq4y7bi6yrjwq9oamq2nv91</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Kooeh: A Timeless Delight</title>
+    <ns>0</ns>
+    <id>624816</id>
+    <revision>
+      <id>975021</id>
+      <parentid>974551</parentid>
+      <timestamp>2026-06-14T16:01:15Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975021</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="733" sha1="mk7m0si80v8xi3th0kee216pxs0kyj0" xml:space="preserve">{{Game
+|Guid=775cf5c3-282a-4041-aab9-fa05dddd735f
+|Name=Kooeh: A Timeless Delight
+|Image=https://giantbomb.com/api/media/file/media--file--qweryuhsdfsfff-06-14-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--yuioyukghghggg-06-14-2026.jpg
+|Deck=A restaurant management simulator about unocvering the lost recipes of a family.
+|ReleaseDateType=Full
+|ReleaseDate=2026-06-17
+|Concepts=Concepts/Digital Distribution, Concepts/Indie, Concepts/2D, Concepts/Steam, Concepts/Hand Drawn Graphics, Concepts/Steam Achievements, Concepts/Steam Cloud
+|Developers=Companies/Twilight Foundry Games
+|Genres=Genres/Simulation
+|Platforms=Platforms/PC
+|Publishers=Companies/Twilight Foundry Games
+|Themes=Themes/Management
+}}</text>
+      <sha1>mk7m0si80v8xi3th0kee216pxs0kyj0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Kulebra and the Souls of Limbo/Credits</title>
+    <ns>0</ns>
+    <id>251890</id>
+    <revision>
+      <id>252339</id>
+      <timestamp>2025-12-08T07:32:15Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>252339</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="210" sha1="7462m961y6rck7kgjk7rfmnjab3uybm" xml:space="preserve">{{Credits
+|ParentPage=Games/Kulebra_and_the_Souls_of_Limbo
+}}
+{{CreditSubobject
+|Game=Games/Kulebra_and_the_Souls_of_Limbo
+|Release=
+|Dlc=
+|Person=People/Jett_Barker
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+</text>
+      <sha1>7462m961y6rck7kgjk7rfmnjab3uybm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/KuloNiku: Bowl Up!</title>
+    <ns>0</ns>
+    <id>624811</id>
+    <revision>
+      <id>974975</id>
+      <parentid>974546</parentid>
+      <timestamp>2026-06-11T02:07:17Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974975</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="683" sha1="1uf5rsyeo5cnb6j2rh299wtljma8i8c" xml:space="preserve">{{Game
+|Guid=74635118-5700-4837-8be4-ff550adc4a04
+|Name=KuloNiku: Bowl Up!
+|Image=https://giantbomb.com/api/media/file/media--file--xcvzxfzzzzzz-06-11-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--reqwewrqwqqqqqq-06-11-2026.jpg
+|Deck=A restaurant simulator with chef battles.
+|ReleaseDateType=Full
+|ReleaseDate=2026-04-07
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Steam Achievements, Concepts/Steam Cloud, Concepts/Steam Trading Cards, Concepts/Chef, Concepts/Cooking
+|Developers=Companies/Gambir Studio
+|Genres=Genres/Simulation
+|Platforms=Platforms/PC
+|Publishers=Companies/Raw Fury
+|Themes=Themes/Management
+}}</text>
+      <sha1>1uf5rsyeo5cnb6j2rh299wtljma8i8c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Kumarn: The Wandering Spirit</title>
+    <ns>0</ns>
+    <id>624606</id>
+    <revision>
+      <id>974122</id>
+      <parentid>974121</parentid>
+      <timestamp>2026-06-02T02:29:35Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974122</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="490" sha1="qbv1ybxhds4j3dcg0f8tjmy5ha7hayd" xml:space="preserve">{{Game
+|Guid=95014033-830a-4b8f-8da5-f3f657687d6b
+|Name=Kumarn: The Wandering Spirit
+|Image=Kumarn.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--kumarn2-06-02-2026.jpg
+|Deck=A horror game set in Thai folklore.
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/Steam, Concepts/Puzzle Platformer
+|Developers=Companies/WereBuff Studio
+|Genres=Genres/Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/WereBuff Studio
+|Themes=Themes/Horror
+}}</text>
+      <sha1>qbv1ybxhds4j3dcg0f8tjmy5ha7hayd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Kuu</title>
+    <ns>0</ns>
+    <id>624988</id>
+    <revision>
+      <id>974726</id>
+      <timestamp>2026-06-08T01:32:23Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=ceabae90-d9ba-47a3-bb7b-21d8a6dfcec3 |Name=Kuu |ReleaseDateType=None }}"</comment>
+      <origin>974726</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="84" sha1="qjpbaso40wzp0un5mmspwdhiyeimf44" xml:space="preserve">{{Game
+|Guid=ceabae90-d9ba-47a3-bb7b-21d8a6dfcec3
+|Name=Kuu
+|ReleaseDateType=None
+}}</text>
+      <sha1>qjpbaso40wzp0un5mmspwdhiyeimf44</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/L8r Sk8r</title>
+    <ns>0</ns>
+    <id>624970</id>
+    <revision>
+      <id>974708</id>
+      <timestamp>2026-06-08T01:23:06Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=03aa7f9e-e0b5-459d-b944-5a2c3a407db2 |Name=L8r Sk8r |ReleaseDateType=None }}"</comment>
+      <origin>974708</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="89" sha1="nzy3rrhhic0k01687iaaybgtbx9vq03" xml:space="preserve">{{Game
+|Guid=03aa7f9e-e0b5-459d-b944-5a2c3a407db2
+|Name=L8r Sk8r
+|ReleaseDateType=None
+}}</text>
+      <sha1>nzy3rrhhic0k01687iaaybgtbx9vq03</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/LEGO Batman Legacy of the Dark Knight/Credits</title>
+    <ns>0</ns>
+    <id>255726</id>
+    <revision>
+      <id>256181</id>
+      <timestamp>2025-12-08T07:32:23Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>256181</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" sha1="kahch8688cahguz42owwmt7ru5y47xk" xml:space="preserve">{{Credits
+|ParentPage=Games/LEGO_Batman_Legacy_of_the_Dark_Knight
+}}
+{{CreditSubobject
+|Game=Games/LEGO_Batman_Legacy_of_the_Dark_Knight
+|Release=
+|Dlc=
+|Person=People/Matt_Berry_192909
+|Company=
+|Department=Voice Actor
+|Role=Bane
+}}
+</text>
+      <sha1>kahch8688cahguz42owwmt7ru5y47xk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Las Vegas 1986/Credits</title>
+    <ns>0</ns>
+    <id>249738</id>
+    <revision>
+      <id>250172</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250172</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="203" sha1="rxiqxi56ivbkksf8dgssjnjetroxns8" xml:space="preserve">{{Credits
+|ParentPage=Games/Las_Vegas_1986
+}}
+{{CreditSubobject
+|Game=Games/Las_Vegas_1986
+|Release=
+|Dlc=
+|Person=People/Akira_Komeda
+|Company=
+|Department=Visual Arts
+|Role=PC-98 cover artwork (ay)
+}}
+</text>
+      <sha1>rxiqxi56ivbkksf8dgssjnjetroxns8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Last Harbor</title>
+    <ns>0</ns>
+    <id>624715</id>
+    <revision>
+      <id>974402</id>
+      <parentid>974401</parentid>
+      <timestamp>2026-06-06T01:41:33Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974402</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="561" sha1="nw39ypjih1e9wtsw5gm3eaqemg4iogc" xml:space="preserve">{{Game
+|Guid=3c4f5b1a-d8a0-44b5-a7c0-dc3c0f279084
+|Name=Last Harbor
+|Image=https://giantbomb.com/api/media/file/media--file--areawef-06-06-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--hdrttrh-06-06-2026.jpg
+|Deck=Surviving the zombie apocalypse on a fishing boat.
+|ReleaseDateType=None
+|Concepts=Concepts/Digital Distribution, Concepts/Steam, Concepts/Zombie, Concepts/Undead
+|Developers=Companies/tinyBuild
+|Genres=Genres/Action Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/tinyBuild
+|Themes=Themes/Post Apocalyptic
+}}</text>
+      <sha1>nw39ypjih1e9wtsw5gm3eaqemg4iogc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Last Sentinel/Credits</title>
+    <ns>0</ns>
+    <id>251564</id>
+    <revision>
+      <id>252012</id>
+      <timestamp>2025-12-08T07:32:14Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>252012</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="181" sha1="p048a4ap1gu4yskirfxvpxzrl39fw9y" xml:space="preserve">{{Credits
+|ParentPage=Games/Last_Sentinel
+}}
+{{CreditSubobject
+|Game=Games/Last_Sentinel
+|Release=
+|Dlc=
+|Person=People/Jaemus_Wurzbach
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>p048a4ap1gu4yskirfxvpxzrl39fw9y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Last of the Free/Credits</title>
+    <ns>0</ns>
+    <id>250065</id>
+    <revision>
+      <id>250510</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250510</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="203" sha1="mw8vjo5s20us3msl8xf4dxcyxa9d1ui" xml:space="preserve">{{Credits
+|ParentPage=Games/Last_of_the_Free
+}}
+{{CreditSubobject
+|Game=Games/Last_of_the_Free
+|Release=
+|Dlc=
+|Person=People/Adrian_Page_192475
+|Company=
+|Department=Programming
+|Role=PC DOS game by
+}}
+</text>
+      <sha1>mw8vjo5s20us3msl8xf4dxcyxa9d1ui</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Late Night Duty</title>
+    <ns>0</ns>
+    <id>624813</id>
+    <revision>
+      <id>975000</id>
+      <parentid>974998</parentid>
+      <timestamp>2026-06-14T00:53:16Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975000</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="589" sha1="60vxbgpnnmxrsgoobzvp918rqtai7wu" xml:space="preserve">{{Game
+|Guid=f9f212f2-9312-4da1-8661-8c15bfd95d20
+|Name=Late Night Duty
+|Image=https://giantbomb.com/api/media/file/media--file--czvxvsderghhhhh-06-14-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--iutytrghdgfkooo-06-14-2026.jpg
+|Deck=A psychological horror game set in Malaysia.
+|ReleaseDateType=Year
+|YearPart=2026
+|Concepts=Concepts/Digital Distribution, Concepts/Indie, Concepts/Steam
+|Developers=Companies/Toastycedes
+|Genres=Genres/Adventure
+|Locations=Locations/Malaysia
+|Platforms=Platforms/PC
+|Publishers=Companies/Toastycedes
+|Themes=Themes/Horror
+}}</text>
+      <sha1>60vxbgpnnmxrsgoobzvp918rqtai7wu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Lazer Force/Credits</title>
+    <ns>0</ns>
+    <id>249580</id>
+    <revision>
+      <id>250014</id>
+      <timestamp>2025-12-08T07:32:09Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250014</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="197" sha1="fmb1e8j4wcx92utiugiu443dybs11oq" xml:space="preserve">{{Credits
+|ParentPage=Games/Lazer_Force
+}}
+{{CreditSubobject
+|Game=Games/Lazer_Force
+|Release=
+|Dlc=
+|Person=People/Nigel_Fletcher
+|Company=
+|Department=Visual Arts
+|Role=C64 design and artwork
+}}
+</text>
+      <sha1>fmb1e8j4wcx92utiugiu443dybs11oq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Leafy Corner</title>
+    <ns>0</ns>
+    <id>624903</id>
+    <revision>
+      <id>974640</id>
+      <timestamp>2026-06-08T00:30:19Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=e75b86ec-edcd-4e3e-83f4-50b746d32e73 |Name=Leafy Corner |ReleaseDateType=None }}"</comment>
+      <origin>974640</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="93" sha1="8jbbvmlrhl4r0oecmh051xop0a0u6y3" xml:space="preserve">{{Game
+|Guid=e75b86ec-edcd-4e3e-83f4-50b746d32e73
+|Name=Leafy Corner
+|ReleaseDateType=None
+}}</text>
+      <sha1>8jbbvmlrhl4r0oecmh051xop0a0u6y3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Legacy of Kain: Ascendance</title>
+    <ns>0</ns>
+    <id>465272</id>
+    <revision>
+      <id>797356</id>
+      <timestamp>2026-03-31T04:44:15Z</timestamp>
+      <contributor>
+        <username>Chucktowski</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=c390e167-2f79-408f-922b-a4f2b411604c |Name=Legacy of Kain: Ascendance |Image=Legacy-of-kain-ascendance-u7yxt.jpg |Deck=Enter the dark world of Nosgoth – Ascendance is a fast paced, 2D action platformer built around fluid combat, vertical movement, vampiric powers, and skill-driven play. |ReleaseDateType=Full |ReleaseDate=2026-03-31 |Developers=Companies/Bit Bot Media |Franchises=Franchises/Legacy of Kain |Platforms=Platforms/PC, Platforms/Xbox Series X S,..."</comment>
+      <origin>797356</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="596" sha1="tewps9smqqo6jr6k3er9xopos9kmsye" xml:space="preserve">{{Game
+|Guid=c390e167-2f79-408f-922b-a4f2b411604c
+|Name=Legacy of Kain: Ascendance
+|Image=Legacy-of-kain-ascendance-u7yxt.jpg
+|Deck=Enter the dark world of Nosgoth – Ascendance is a fast paced, 2D action platformer built around fluid combat, vertical movement, vampiric powers, and skill-driven play.
+|ReleaseDateType=Full
+|ReleaseDate=2026-03-31
+|Developers=Companies/Bit Bot Media
+|Franchises=Franchises/Legacy of Kain
+|Platforms=Platforms/PC, Platforms/Xbox Series X S, Platforms/PlayStation 5, Platforms/Nintendo Switch, Platforms/Nintendo Switch 2
+|Publishers=Companies/Crystal Dynamics
+}}</text>
+      <sha1>tewps9smqqo6jr6k3er9xopos9kmsye</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Legacy of Kain: Defiance Remastered</title>
+    <ns>0</ns>
+    <id>465277</id>
+    <revision>
+      <id>797362</id>
+      <timestamp>2026-03-31T14:58:06Z</timestamp>
+      <contributor>
+        <username>Chucktowski</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=c4d463fa-4f7d-4f4a-8877-35653d3621a5 |Name=Legacy of Kain: Defiance Remastered |Image=Lok defiance remastered.jpg |Deck=Legacy of Kain: Defiance Remastered has been updated with new HD graphics, refined controls, and a modernized game camera with the ability to toggle between the HD and original presentation any time. This new edition also boasts a photo mode, alternate character skins, a comprehensive lore reader, and unreleased content and 'lost levels' fr..."</comment>
+      <origin>797362</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="662" sha1="70t2sryrmmy2roa1rkigxf0frpoewpt" xml:space="preserve">{{Game
+|Guid=c4d463fa-4f7d-4f4a-8877-35653d3621a5
+|Name=Legacy of Kain: Defiance Remastered
+|Image=Lok defiance remastered.jpg
+|Deck=Legacy of Kain: Defiance Remastered has been updated with new HD graphics, refined controls, and a modernized game camera with the ability to toggle between the HD and original presentation any time. This new edition also boasts a photo mode, alternate character skins, a comprehensive lore reader, and unreleased content and 'lost levels' from the original game.
+|ReleaseDateType=Full
+|Developers=Companies/Crystal Dynamics, Companies/PlayEveryWare
+|Franchises=Franchises/Legacy of Kain
+|Publishers=Companies/Crystal Dynamics
+}}</text>
+      <sha1>70t2sryrmmy2roa1rkigxf0frpoewpt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Lets Sing 2025/Credits</title>
+    <ns>0</ns>
+    <id>253949</id>
+    <revision>
+      <id>254400</id>
+      <timestamp>2025-12-08T07:32:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254400</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="181" sha1="tkudpkos729f4dgp2p8sw7c7dnhy19u" xml:space="preserve">{{Credits
+|ParentPage=Games/Lets_Sing_2025
+}}
+{{CreditSubobject
+|Game=Games/Lets_Sing_2025
+|Release=
+|Dlc=
+|Person=People/Lewis_Capaldi
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>tkudpkos729f4dgp2p8sw7c7dnhy19u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/LiM Beyond One on One Basketball/Credits</title>
+    <ns>0</ns>
+    <id>250748</id>
+    <revision>
+      <id>251193</id>
+      <timestamp>2025-12-08T07:32:12Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251193</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="227" sha1="kvfagliirwkr047an7k4wjxsjbq4zzs" xml:space="preserve">{{Credits
+|ParentPage=Games/LiM_Beyond_One_on_One_Basketball
+}}
+{{CreditSubobject
+|Game=Games/LiM_Beyond_One_on_One_Basketball
+|Release=
+|Dlc=
+|Person=People/Gunnar_Johansson
+|Company=
+|Department=Design
+|Role=Game Director
+}}
+</text>
+      <sha1>kvfagliirwkr047an7k4wjxsjbq4zzs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/LiM Grid Wars/Credits</title>
+    <ns>0</ns>
+    <id>255708</id>
+    <revision>
+      <id>256163</id>
+      <timestamp>2025-12-08T07:32:23Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>256163</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="180" sha1="kpps433n237hr7tvmrccciys154jd4i" xml:space="preserve">{{Credits
+|ParentPage=Games/LiM_Grid_Wars
+}}
+{{CreditSubobject
+|Game=Games/LiM_Grid_Wars
+|Release=
+|Dlc=
+|Person=People/Gunnar_Johansson
+|Company=
+|Department=Production
+|Role=
+}}
+</text>
+      <sha1>kpps433n237hr7tvmrccciys154jd4i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Liberator 31793</title>
+    <ns>0</ns>
+    <id>464918</id>
+    <revision>
+      <id>796880</id>
+      <parentid>748959</parentid>
+      <timestamp>2026-03-12T06:28:19Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796880</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1402" sha1="qv6kacsg8kczq1i8klt7ldlrljw73or" xml:space="preserve">{{Game
+| Name=Liberator
+| Guid=3030-31793
+| Deck=Space shooter based off the Atari Force comic.
+| ReleaseDate=1982-12-31
+| ReleaseDateType=Year
+| Characters=Characters/Commander_Champion
+| Concepts=Concepts/Games_Based_on_Comic_Books,Concepts/Single_Word_Titles,Concepts/Trackball
+| Developers=
+| Franchises=
+| Genres=Genres/Shoot_Em_Up
+| Locations=Locations/Space
+| Objects=
+| Platforms=Platforms/Arcade,Platforms/PC,Platforms/Xbox_360_Games_Store
+| Publishers=
+| Games=
+| Themes=Themes/Sci_Fi
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/5150/1407224-11009601.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"1407224-11009601.jpg","path":"0\/5150\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,square_tiny,scale_small,scale_avatar,scale_large,scale_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+The targeting cross-hair looks like a red plus symbol in a diamond. The player shoots from the ships in each of the four corners. You're trying to shoot down enemy missiles, ships and the missile basses on different planets. The enemy missile basses are small flashing red targets. Destroying these missile bases quickly is key for passing a stage. If you lose a ship in a stage, it doesn't respawn at the start of the next one. If all four of your ships get destroyed then it's game over. </text>
+      <sha1>qv6kacsg8kczq1i8klt7ldlrljw73or</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Lifted</title>
+    <ns>0</ns>
+    <id>624626</id>
+    <revision>
+      <id>974153</id>
+      <parentid>974152</parentid>
+      <timestamp>2026-06-02T11:18:07Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974153</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="672" sha1="fs3vlptximcpaq2gomdw2bknebrmzi1" xml:space="preserve">{{Game
+|Guid=ba250159-c374-470f-9987-206e8ce99130
+|Name=Lifted
+|Image=https://giantbomb.com/api/media/file/media--file--lifted-button-1759322777555-06-02-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--lifted-blogroll-1780065710385-06-02-2026.webp
+|Deck=An action platformer set in an 80s time-traveling heist.
+|ReleaseDateType=Full
+|ReleaseDate=2026-07-22
+|Concepts=Concepts/Digital Distribution, Concepts/The 1980s, Concepts/Steam, Concepts/Jump, Concepts/Polygonal 3D, Concepts/Time Travel
+|Developers=Companies/Adventure Works
+|Genres=Genres/Platformer
+|Platforms=Platforms/PC
+|Publishers=Companies/Adventure Works
+|Themes=Themes/Fantasy
+}}</text>
+      <sha1>fs3vlptximcpaq2gomdw2bknebrmzi1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Little Horrors/Credits</title>
+    <ns>0</ns>
+    <id>251191</id>
+    <revision>
+      <id>251637</id>
+      <timestamp>2025-12-08T07:32:13Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251637</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="180" sha1="tbp19k9mxu53wf3d9lyy2e5bh0hqk0o" xml:space="preserve">{{Credits
+|ParentPage=Games/Little_Horrors
+}}
+{{CreditSubobject
+|Game=Games/Little_Horrors
+|Release=
+|Dlc=
+|Person=People/Steven_Oswald
+|Company=
+|Department=Programming
+|Role=
+}}
+</text>
+      <sha1>tbp19k9mxu53wf3d9lyy2e5bh0hqk0o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Live Wire 10376/Credits</title>
+    <ns>0</ns>
+    <id>464794</id>
+    <revision>
+      <id>744998</id>
+      <timestamp>2026-03-04T21:26:04Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>744998</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="340" sha1="ei76iq6v1rtjq9nmd81qut97u8iarws" xml:space="preserve">{{Credits
+|ParentPage=Games/Live_Wire_10376
+}}
+{{CreditSubobject
+|Game=Games/Live_Wire_10376
+|Release=
+|Dlc=
+|Person=People/Jane_Cavanagh
+|Company=
+|Department=Unclassified
+|Role=Executive Producer
+}}
+{{CreditSubobject
+|Game=Games/Live_Wire_10376
+|Release=
+|Dlc=
+|Person=People/Elliot_Simon_Gay
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>ei76iq6v1rtjq9nmd81qut97u8iarws</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Llamasoft The Jeff Minter Story/Credits</title>
+    <ns>0</ns>
+    <id>251714</id>
+    <revision>
+      <id>252162</id>
+      <timestamp>2025-12-08T07:32:14Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>252162</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="213" sha1="8lemea9h0269nhjxu4zd5yhvc183l6k" xml:space="preserve">{{Credits
+|ParentPage=Games/Llamasoft_The_Jeff_Minter_Story
+}}
+{{CreditSubobject
+|Game=Games/Llamasoft_The_Jeff_Minter_Story
+|Release=
+|Dlc=
+|Person=People/Jeff_Minter
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>8lemea9h0269nhjxu4zd5yhvc183l6k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Locator: The Search for Abigail Lidari</title>
+    <ns>0</ns>
+    <id>624804</id>
+    <revision>
+      <id>974960</id>
+      <parentid>974958</parentid>
+      <timestamp>2026-06-11T01:29:41Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974960</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="629" sha1="a2yexfgs3utp8gwgw27u3gvljs6l8d5" xml:space="preserve">{{Game
+|Guid=19f163f3-34e0-4186-ad50-566787add964
+|Name=Locator: The Search for Abigail Lidari
+|Image=https://giantbomb.com/api/media/file/media--file--ndhdfgndghs-06-11-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--zxcvwerawearavvv-06-11-2026.jpg
+|Deck=A Geoguessr style investigation game set on an alien planet.
+|ReleaseDateType=None
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Detective, Concepts/Cartography, Concepts/Steam Achievements
+|Developers=Companies/Empty Exhibit
+|Genres=Genres/Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/PlayStack
+}}</text>
+      <sha1>a2yexfgs3utp8gwgw27u3gvljs6l8d5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Loftia</title>
+    <ns>0</ns>
+    <id>624852</id>
+    <revision>
+      <id>975107</id>
+      <parentid>974589</parentid>
+      <timestamp>2026-06-16T00:07:01Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975107</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="622" sha1="05lhfk6cs1e63qvsaoq53gp7ght5gzt" xml:space="preserve">{{Game
+|Guid=a8f65e2d-a3d4-4fb1-8ab6-affd46f55989
+|Name=Loftia
+|Image=https://giantbomb.com/api/media/file/media--file--loftia-06-16-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--loftiav-06-16-2026.jpg
+|Deck=An MMO life sim set in a world of floating islands.
+|ReleaseDateType=Year
+|YearPart=2026
+|Concepts=Concepts/Digital Distribution, Concepts/Indie, Concepts/Steam, Concepts/Farming, Concepts/Crafting, Concepts/Online, Concepts/Floating Island, Concepts/Cooperative Play
+|Developers=Companies/Qloud Games
+|Genres=Genres/MMORPG
+|Platforms=Platforms/PC
+|Publishers=Companies/Qloud Games
+}}</text>
+      <sha1>05lhfk6cs1e63qvsaoq53gp7ght5gzt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Lord of Vermilion IV/Credits</title>
+    <ns>0</ns>
+    <id>254276</id>
+    <revision>
+      <id>254727</id>
+      <timestamp>2025-12-08T07:32:20Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254727</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="469" sha1="1ro4oup4orsy41y1pizmup1ilwn1l5g" xml:space="preserve">{{Credits
+|ParentPage=Games/Lord_of_Vermilion_IV
+}}
+{{CreditSubobject
+|Game=Games/Lord_of_Vermilion_IV
+|Release=
+|Dlc=
+|Person=People/Yoshimasa_Asao
+|Company=
+|Department=Production
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Lord_of_Vermilion_IV
+|Release=
+|Dlc=
+|Person=People/Shigeyuki_Hirata
+|Company=
+|Department=Production
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Lord_of_Vermilion_IV
+|Release=
+|Dlc=
+|Person=People/Takuya_Iwasaki
+|Company=
+|Department=Audio
+|Role=
+}}
+</text>
+      <sha1>1ro4oup4orsy41y1pizmup1ilwn1l5g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Lost &amp; Found</title>
+    <ns>0</ns>
+    <id>624815</id>
+    <revision>
+      <id>975011</id>
+      <parentid>975009</parentid>
+      <timestamp>2026-06-14T02:39:46Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975011</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="646" sha1="07gz1kxc9vcmd3k2zr5b3b2ootorpae" xml:space="preserve">{{Game
+|Guid=158b9482-94cf-4da2-9c7f-4d0984bcee8e
+|Name=Lost &amp; Found
+|Image=https://giantbomb.com/api/media/file/media--file--ngdsdfgsdfhhhsaa-06-14-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--iuytresdfghnvcccc-06-14-2026.jpg
+|Deck=An adventure game about returning items to the right people. The graphics are a mix of 2D and 3D.
+|ReleaseDateType=None
+|Concepts=Concepts/Digital Distribution, Concepts/Indie, Concepts/Anthropomorphism, Concepts/Steam, Concepts/2D, Concepts/Polygonal 3D
+|Developers=Companies/ShaggyBearGames
+|Genres=Genres/Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/ShaggyBearGames
+}}</text>
+      <sha1>07gz1kxc9vcmd3k2zr5b3b2ootorpae</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Lost in the Roots</title>
+    <ns>0</ns>
+    <id>624876</id>
+    <revision>
+      <id>975156</id>
+      <parentid>974613</parentid>
+      <timestamp>2026-06-18T00:10:52Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975156</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="716" sha1="ai292268bkbs3d7g8e7t545forzp0fo" xml:space="preserve">{{Game
+|Guid=bb5fabb0-f292-43d4-be56-e58135881345
+|Name=Lost in the Roots
+|Image=https://giantbomb.com/api/media/file/media--file--lost-in-the-roots-06-17-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--lost-in-the-rootsb-06-17-2026.jpg
+|Deck=A point-and-click psychological horror story about a girl in a stranger's house.
+|ReleaseDateType=Quarter
+|QuarterPart=Q3
+|QuarterYearPart=2026
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Female Protagonists, Concepts/Point and Click, Concepts/2D
+|Developers=Companies/Trioskaz
+|Genres=Genres/Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/Trioskaz, Companies/Spaghetti Cat
+|Themes=Themes/Horror
+}}</text>
+      <sha1>ai292268bkbs3d7g8e7t545forzp0fo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Lou's Lagoon</title>
+    <ns>0</ns>
+    <id>624845</id>
+    <revision>
+      <id>975088</id>
+      <parentid>974582</parentid>
+      <timestamp>2026-06-15T21:02:16Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975088</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="821" sha1="djq7iq8nrkvl7eeqp4kqary1m7n4xz3" xml:space="preserve">{{Game
+|Guid=cc8771bd-6daa-455c-bd48-ceaa1caab6e7
+|Name=Lou's Lagoon
+|Image=https://giantbomb.com/api/media/file/media--file--lou-s-lagoon-06-15-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--lou-s-lagoonv-06-15-2026.jpg
+|Deck=An open-world action adventure about flying a plane to storm-damaged islands, helping the communities, and unraveling the mystery of Lou.
+|ReleaseDateType=Full
+|ReleaseDate=2026-08-27
+|Concepts=Concepts/Digital Distribution, Concepts/Indie, Concepts/Steam, Concepts/Flight, Concepts/Pilot, Concepts/Crafting, Concepts/Open World, Concepts/Steam Achievements, Concepts/Polygonal 3D, Concepts/Customizable Character
+|Developers=Companies/Tiny Roar
+|Genres=Genres/Action Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/Megabit Publishing, Companies/rokaplay
+}}</text>
+      <sha1>djq7iq8nrkvl7eeqp4kqary1m7n4xz3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Love 24239/Credits</title>
+    <ns>0</ns>
+    <id>464904</id>
+    <revision>
+      <id>748013</id>
+      <timestamp>2026-03-04T22:13:33Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>748013</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="174" sha1="30p14m9vd8adw9tjcyyr2uh4xyq1dye" xml:space="preserve">{{Credits
+|ParentPage=Games/Love_24239
+}}
+{{CreditSubobject
+|Game=Games/Love_24239
+|Release=
+|Dlc=
+|Person=People/Eskil_Steenberg
+|Company=
+|Department=Programming
+|Role=
+}}
+</text>
+      <sha1>30p14m9vd8adw9tjcyyr2uh4xyq1dye</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Lucid 2026</title>
+    <ns>0</ns>
+    <id>624644</id>
+    <revision>
+      <id>974180</id>
+      <parentid>974179</parentid>
+      <timestamp>2026-06-02T13:34:22Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974180</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="671" sha1="5g0l6cckqmd5p84bseq089owav27d4a" xml:space="preserve">{{Game
+|Guid=ca3c0ad0-7d96-4746-ac08-0c5fe612ae80
+|Name=Lucid
+|Image=https://giantbomb.com/api/media/file/media--file--asdflibrary_600x900_2x-06-02-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--library_heasdgro_2x-06-02-2026.jpg
+|Deck=A fast-paced challenging 2D platformer.
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/Indie, Concepts/2D, Concepts/Side Scrolling, Concepts/Jump, Concepts/Air Dash, Concepts/Steam, Concepts/Search Action
+|Developers=Companies/The Matte Black Studio
+|Genres=Genres/Action, Genres/Platformer
+|Platforms=Platforms/PC
+|Publishers=Companies/Apogee Entertainment
+|Games=Games/Celeste
+}}</text>
+      <sha1>5g0l6cckqmd5p84bseq089owav27d4a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Lucid Falls</title>
+    <ns>0</ns>
+    <id>624581</id>
+    <revision>
+      <id>974078</id>
+      <parentid>974075</parentid>
+      <timestamp>2026-06-02T00:52:42Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974078</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="467" sha1="ablrgmmt3j8erf2tkmjvuiiqkuswxzd" xml:space="preserve">{{Game
+|Guid=63b03ba8-5f25-460d-9bc6-9d91d66b4a9d
+|Name=Lucid Falls
+|Image=Eldamar Studio1.jpg
+|BackgroundImage=Library hero 2x.jpg
+|Deck=A psychological horror game where gravity, space, and time have no rules.
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/Polygonal 3D, Concepts/Steam
+|Developers=Companies/Eldamar Studio
+|Genres=Genres/Action Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/Eldamar Studio
+|Themes=Themes/Horror
+}}</text>
+      <sha1>ablrgmmt3j8erf2tkmjvuiiqkuswxzd</sha1>
+    </revision>
+  </page>
+</mediawiki>

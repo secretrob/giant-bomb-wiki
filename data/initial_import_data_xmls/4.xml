@@ -1,0 +1,1737 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Accessories/Super Multitap</title>
+    <ns>0</ns>
+    <id>319</id>
+    <revision>
+      <id>722212</id>
+      <parentid>617413</parentid>
+      <timestamp>2026-02-14T19:58:14Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722212</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1209" sha1="gsykpmjgcegk2u9rmhr2x7csu3jpvvi" xml:space="preserve">{{Accessory
+| Name=Super Multitap
+| Guid=3000-48
+| Deck=A Super Nintendo peripheral originally released by Hudson Soft that plugged into the second player controller port and allowed for up to 5 players to play at once.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/12/120008/2458962-8166160895-art_L.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2458962-8166160895-art_L.jpg","path":"12\/120008\/","mime":"image\/jpeg","sizes":"square_small,square_tiny,square_medium,scale_small,square_mini,square_avatar,scale_medium,screen_medium,scale_large,scale_avatar,scale_super,scale_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+ The original SNES multitap was released in 1993 by Hudson with Super Bomberman as a pack in.   Hudson later released a second version along with Super Bomberman 2 that was shaped like Bomberman's head.
+Over 20 additional multiplayer adapters were released by various other companies, including a few with 5 additional controller slots.  Despite appearing to have support for 6 players, the 6th player slot has been shown to not be operational.
+Between the SNES and the Super Famicom there are more than a hundred games that support more than two players.</text>
+      <sha1>gsykpmjgcegk2u9rmhr2x7csu3jpvvi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Super Scope</title>
+    <ns>0</ns>
+    <id>284</id>
+    <revision>
+      <id>978492</id>
+      <parentid>722177</parentid>
+      <timestamp>2026-07-17T04:58:56Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3000-12)</comment>
+      <origin>978492</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4021" sha1="nrroiqqfsnmesj7nqlk8zonyzr8qqef" xml:space="preserve">{{Accessory
+| Name=Super Scope
+| Guid=3000-12
+| Deck=Resembling a bazooka, the Super Scope is Nintendo's short-lived light-gun accessory for the Super Nintendo Entertainment System.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/25/10855-Super_scope.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"10855-Super_scope.jpg","path":"0\/25\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,scale_tiny,screen_kubrick","caption":"Super Scope"},"background":[]}' /&gt;
+
+==Overview==
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_super/0/25/10757-SS.jpg|full=http://www.giantbomb.com/a/uploads/original/0/25/10757-SS.jpg|align=right|width=320}}
+The Super Scope (known as the ''Nintendo Scope'' in Europe) is a first-party [[Concepts/Light_Gun|light-gun]] accessory developed by [[Companies/Nintendo|Nintendo]] for the [[Platforms/Super_Nintendo_Entertainment_System|Super Nintendo Entertainment System]] in 1992.
+
+Resembling a [[Objects/Bazooka|bazooka]], the Super Scope is measured at around 2-3 feet long and features a detachable eyepiece mount (the "scope") that can be used ambidextrously. Most of its controls are located at the top of the accessory (including the large FIRE button, the PAUSE button, and a switch used for controlling both power and [[Concepts/Rapid_Fire|turbo fire]]), with a secondary CURSOR button behind the front grip.
+
+Unlike its predecessor (the NES Zapper for the [[Platforms/Nintendo_Entertainment_System|Nintendo Entertainment System]]), the Super Scope does not flash the screen to detect shots. However, it still uses the CRT screen as a factor and is only compatible with CRT TVs/monitors. Also unlike the NES Zapper, the light-gun itself is completely wireless, only requiring the position of a special box (the Receiver) in front of the screen and in-game calibration before gameplay.
+
+Despite its short-lived library of compatible games and limited appeal, the Super Scope was later [[Objects/Super_Scope|featured as an in-game weapon]] in the [[Franchises/Super_Smash_Bros|Super Smash Bros.]] fighting game series (starting with [[Games/Super_Smash_Bros_Melee|Super Smash Bros. Melee]]). It was also used as a prop in [https://en.wikipedia.org/wiki/Super_Mario_Bros_(film) the Super Mario Bros. film].
+
+
+==Supported Games==
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/0/8303/2599933-battle_clash_bigger.png|full=http://www.giantbomb.com/a/uploads/original/0/8303/2599933-battle_clash_bigger.png|align=right|width=320|caption=Battle Clash, a mecha-themed rail-shooter made by Nintendo that fully utilizes the Super Scope}}
+Along with [[Games/Super_Scope_6|Super Scope 6]], which was bundled with the peripheral, the Super Scope is compatible with eleven additional games:
+
+* [[Games/Battle_Clash|Battle Clash]] (along with its sequel [[Games/Metal_Combat_Falcons_Revenge|Metal Combat: Falcon's Revenge]])
+* [[Games/Bazooka_Blitzkrieg|Bazooka Blitzkrieg]]
+* [[Games/The_Hunt_for_Red_October|The Hunt for Red October]] (optional)
+* [[Games/Crazy_Cars_III|Lamborghini American Challenge]] (optional, supports dual play)
+* [[Games/Lemmings_2_The_Tribes|Lemmings 2: The Tribes]] (optional)
+* [[Games/Operation_Thunderbolt|Operation Thunderbolt]] (optional, supports dual play)
+* T2: The Arcade Game (optional, supports dual play)
+* [[Games/Tin_Star|Tin Star]] (optional)
+* [[Games/X_Zone|X-Zone]]
+* [[Games/Yoshis_Safari|Yoshi's Safari]] (supports dual play)
+Some games feature simultaneous [[Concepts/Cooperative_Play|co-operative mulitplayer]] support, allowing a second player to join in using the standard SNES controller (or even the [[Accessories/SNES_Mouse|SNES Mouse]] accessory for rail-shooters). For [[Games/Crazy_Cars_III|Lamborghini American Challenge]] and [[Games/Yoshis_Safari|Yoshi's Safari]], this allows for [[Concepts/One_Person_Drives_While_The_Other_Shoots|"I Shoot, You Drive"]] gameplay.</text>
+      <sha1>nrroiqqfsnmesj7nqlk8zonyzr8qqef</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Switch Ring Con</title>
+    <ns>0</ns>
+    <id>450</id>
+    <revision>
+      <id>722350</id>
+      <parentid>617538</parentid>
+      <timestamp>2026-02-14T19:58:54Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722350</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="724" sha1="5qmzzh8qdzdm1ziceyson1th43ahtdy" xml:space="preserve">{{Accessory
+| Name=Switch Ring-Con
+| Guid=3000-185
+| Deck=The Ring-Con controller for Nintendo Switch is an exercise-based controller developed by Nintendo for Ring Fit Adventure.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396752-1791573668-7bf13a.jpeg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396752-1791573668-7bf13a.jpeg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_small,scale_super,square_small,square_medium,scale_medium,square_tiny,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick,square_avatar","caption":null},"background":[]}' /&gt;
+The Ring-Con controller for Nintendo Switch is an exercise-based controller developed by Nintendo for Ring Fit Adventure.</text>
+      <sha1>5qmzzh8qdzdm1ziceyson1th43ahtdy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/TI 99 4A Wired Remote Controller</title>
+    <ns>0</ns>
+    <id>384</id>
+    <revision>
+      <id>722272</id>
+      <parentid>617472</parentid>
+      <timestamp>2026-02-14T19:58:32Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722272</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="675" sha1="0btt17iwl4xp342c3fdj19rk394tc64" xml:space="preserve">{{Accessory
+| Name=TI-99/4A Wired Remote Controller
+| Guid=3000-118
+| Deck=The official controller for the Texas Instruments TI-99/4A Home Computer.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/279356-acc_controller.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"279356-acc_controller.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_tiny,square_medium,scale_super,scale_tiny,scale_medium,square_mini,scale_small,square_small,screen_kubrick,scale_large,scale_avatar,screen_medium,square_avatar","caption":"Wired Remote Controllers w\/box"},"background":[]}' /&gt;
+The official controller for the Texas Instruments TI-99/4A Home Computer.</text>
+      <sha1>0btt17iwl4xp342c3fdj19rk394tc64</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Taito DS Paddle</title>
+    <ns>0</ns>
+    <id>332</id>
+    <revision>
+      <id>722221</id>
+      <parentid>617422</parentid>
+      <timestamp>2026-02-14T19:58:17Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722221</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="863" sha1="29kj5utdacv14p1nxsza74k2rn9xzh3" xml:space="preserve">{{Accessory
+| Name=Taito DS Paddle
+| Guid=3000-61
+| Deck=Taito's Arkanoid came bundled with a paddle controller that connected to the GBA slot (only in Japan). Other Taito games supported this device besides Arkanoid.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/132099/2522413-ds_paddle.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2522413-ds_paddle.jpg","path":"13\/132099\/","mime":"image\/jpeg","sizes":"square_small,scale_small,square_mini,square_tiny,square_medium,square_avatar,scale_tiny,scale_medium,screen_medium,scale_large,scale_avatar,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Compatible Games==
+* [[Games/Arkanoid_DS|Arkanoid DS]]
+* [[Games/Space_Bust_A_Move|Space Bust-A-Move]]
+* [[Games/Space_Invaders_Extreme|Space Invaders Extreme]]
+* [[Games/Space_Invaders_Extreme_2|Space Invaders Extreme 2]]</text>
+      <sha1>29kj5utdacv14p1nxsza74k2rn9xzh3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Tony Hawk Ride Skateboard Controller</title>
+    <ns>0</ns>
+    <id>438</id>
+    <revision>
+      <id>722334</id>
+      <parentid>617526</parentid>
+      <timestamp>2026-02-14T19:58:50Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722334</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="737" sha1="28x4i5pu58h30dxlb2u7igvmo5y1l78" xml:space="preserve">{{Accessory
+| Name=Tony Hawk Ride Skateboard Controller
+| Guid=3000-173
+| Deck=The Tony Hawk Ride Skateboard Controller is used to simulate riding a skateboard in Tony Hawk Ride and Tony Hawk Shred.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396611-9826735254-thrid.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396611-9826735254-thrid.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_super,scale_small,scale_medium,square_medium,square_mini,square_tiny,scale_avatar,scale_large,screen_medium,screen_kubrick,square_avatar","caption":null},"background":[]}' /&gt;
+The Tony Hawk Ride Skateboard Controller is used to simulate riding a skateboard in Tony Hawk Ride and Tony Hawk Shred.</text>
+      <sha1>28x4i5pu58h30dxlb2u7igvmo5y1l78</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Trance Vibrator</title>
+    <ns>0</ns>
+    <id>279</id>
+    <revision>
+      <id>722173</id>
+      <parentid>617374</parentid>
+      <timestamp>2026-02-14T19:58:02Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722173</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2063" sha1="hkuxm8zrnqj4gg0qtpp0tzu4npaxdia" xml:space="preserve">{{Accessory
+| Name=Trance Vibrator
+| Guid=3000-6
+| Deck=Sega released this force feedback device alongside the PlayStation 2 version of Rez in Japan.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/26/10199-trancevibrator.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"10199-trancevibrator.jpg","path":"0\/26\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,screen_kubrick","caption":"Trance Vibrator"},"background":[]}' /&gt;
+
+==Overview==
+The Trance Vibrator was included in a "Special Package" version of [[People/Tetsuya_Mizuguchi|Tetsuya Mizuguchi's]] game [[Games/Rez|Rez]], released only in [[Locations/Japan|Japan]] on the [[Platforms/PlayStation_2|PlayStation 2]]. This is a USB-enabled device which pulses in time to the beat of Rez' in-game music, providing a stronger vibration effect than the PS2's [[Accessories/DualShock_Analog_Controller|DualShock controller]] is capable of delivering. The original purpose of the device was to enhance the game experience, with users placing the device in a pocket, beneath the feet, or under the buttocks. However, the very nature of the Trance Vibrator, as well as its ''name'', has led many to facetiously consider the device to be a masturbatory aid. The Trance Vibrator comes packaged with a soft, removable and washable sleeve, presumably for hygienic reasons.
+
+Aside from working with Rez, the Trance Vibrator also works with [[Games/Space_Channel_5_Part_2|Space Channel 5: Part 2]] and [[Games/Disaster_Report|Disaster Report]] (known as Zettai Zetsumei Toshi in Japan).
+
+Though the Trance Vibrator is not compatible with the [[Platforms/Xbox_360_Games_Store|Xbox Live Arcade]] release of Rez, users are able to use up to three extra controllers purely for vibrational purposes.  
+
+ 
+==Trivia==
+This accessory was named the best video game accessory by [http:/screwattack.com Screwattack.com], purely because it means you can 'Play' Rez with your girlfriend.</text>
+      <sha1>hkuxm8zrnqj4gg0qtpp0tzu4npaxdia</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/TurboBooster</title>
+    <ns>0</ns>
+    <id>324</id>
+    <revision>
+      <id>336</id>
+      <timestamp>2025-12-08T07:18:22Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>336</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="576" sha1="l99q6z6zimch6utlyntebotj75toaly" xml:space="preserve">{{Accessory
+| Name=TurboBooster
+| Guid=3000-53
+| Deck=TurboGrafx-16 output accessory / memory expander.
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+ The TurboBooster is an add-on for the TurboGrafx-16 console. The device replaces the standard equipment, decorative plastic cover to the console's rear. While the console shipped with only R/F output, the TurboBooster allows for much better audio and video via composite "RCA" output. The updated TurboBooster Plus added game save memory to the TurboBooster, which a limited number of games support. 
+</text>
+      <sha1>l99q6z6zimch6utlyntebotj75toaly</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/TurboPad</title>
+    <ns>0</ns>
+    <id>323</id>
+    <revision>
+      <id>335</id>
+      <timestamp>2025-12-08T07:18:22Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>335</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="957" sha1="fo3oh05q6dshgobfbjui7p1vv7xbhmg" xml:space="preserve">{{Accessory
+| Name=TurboPad
+| Guid=3000-52
+| Deck=TurboGrafx-16's pack-in control pad.
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The TurboPad is the controller included with the [[Platforms/TurboGrafx_16|TurboGrafx-16]] console. The layout is typical for the era, with an 8-way rocker pad, and two gameplay buttons. Unlike other contemporary consoles' gamepads, the TurboPad includes a turbo feature, with multiple levels of rapid-fire. The TurboGrafx-16 is the only major video game console ever released with a turbo feature on the included gamepads. Labeling of the controller is very similar to that of the [[Platforms/Nintendo_Entertainment_System|NES]], but with a "run" button instead of "start" and gameplay buttons labeled II and I; the same order as B and A on the NES gamepad.
+The TurboGrafx-16 comes equipped with only one controller port, requiring a [[Accessories/TurboTap|TurboTap]] for multiple controller input.
+</text>
+      <sha1>fo3oh05q6dshgobfbjui7p1vv7xbhmg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/TurboStick</title>
+    <ns>0</ns>
+    <id>322</id>
+    <revision>
+      <id>334</id>
+      <timestamp>2025-12-08T07:18:22Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>334</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="582" sha1="mlrm4m3i4zs9e7ynsoxofe98v67waoz" xml:space="preserve">{{Accessory
+| Name=TurboStick
+| Guid=3000-51
+| Deck=Official arcade-style joystick controller for the TurboGrafx-16 and related systems.
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The TurboStick is the official, arcade-style joystick for the [[Platforms/TurboGrafx_16|TurboGrafx-16]], and related systems. Improving upon the [[Accessories/TurboPad|TurboPad]]'s switchable turbo feature, the TurboStick uses analogue sliders for the I and II buttons, and can be shut off entirely with dedicated buttons. Additionally, the unit is weighted for stability.
+ 
+</text>
+      <sha1>mlrm4m3i4zs9e7ynsoxofe98v67waoz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/TurboTap</title>
+    <ns>0</ns>
+    <id>321</id>
+    <revision>
+      <id>722214</id>
+      <parentid>617415</parentid>
+      <timestamp>2026-02-14T19:58:15Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722214</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2033" sha1="g86lst1dvj5xergogqafmuc9lcaloys" xml:space="preserve">{{Accessory
+| Name=TurboTap
+| Guid=3000-50
+| Deck=Multiplayer accessory for the TurboGrafx-16 and PC Engine.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/18/185326/2505550-0335083823-nec-t.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2505550-0335083823-nec-t.jpg","path":"18\/185326\/","mime":"image\/jpeg","sizes":"scale_tiny,square_small,square_tiny,square_medium,scale_super,square_mini,scale_avatar,scale_small,scale_large,scale_medium,screen_medium,square_avatar,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+The [[Platforms/TurboGrafx_16|TurboGrafx-16]] console is provisioned for one controller. The TurboTap accessory plugs into the game port, thereby allowing up to five simultaneous players, in games specifically designed for it. The TurboTap was released in 1989 with an MSRP of $17.99.
+Games supporting the TurboTap do so in varying degrees. Some allow simultaneous five-player gameplay, while others simply allow two player alternating gameplay, without the necessity of sharing a controller.
+The following games support the TurboTap:
+* [[Games/1943_Kai_Midway_Kaisen|1943 Kai]]
+* [[Games/Bomberman_1983|Bomberman]]
+* [[Games/Cadash|Cadash]]
+* [[Games/Devils_Crush|Devil's Crush]]
+* [[Games/Dungeon_Explorer|Dungeon Explorer]]
+* [[Games/Fantasy_Zone|Fantasy Zone]]
+* [[Games/Final_Lap_Twin|Final Lap Twin]]
+* [[Games/King_of_Casino|King of Casino]]
+* [[Games/Mega_Bomberman|Mega Bomberman]]
+* [[Games/Moto_Roader|Moto Roader]]
+* [[Games/Moto_Roader_II|Moto Roader II]]
+* [[Games/Ninja_Spirit|Ninja Spirit]]
+* [[Games/Pac_Land|Pac-Land]]
+* [[Panza Kick Boxing|Panza Kick Boxing]]
+* [[Games/Parasol_Stars_The_Story_of_Bubble_Bobble_III|Parasol Stars]]
+* [[Games/Super_Soccer|Super Soccer]]
+* [[Games/Super_Volleyball|Super Volleyball]]
+* [[Games/TV_Sports_Basketball|TV Sports: Basketball]]
+* [[Games/TV_Sports_Football|TV Sports: Football]]
+The PC Engine's multitap, and the TurboDuo's DuoTap are identical to that of the TurboGrafx-16, save for a white case rather than black.</text>
+      <sha1>g86lst1dvj5xergogqafmuc9lcaloys</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/U Force</title>
+    <ns>0</ns>
+    <id>348</id>
+    <revision>
+      <id>722238</id>
+      <parentid>617438</parentid>
+      <timestamp>2026-02-14T19:58:22Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722238</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="698" sha1="517tsgte21ip30vuqcm4kd8fb3cwx31" xml:space="preserve">{{Accessory
+| Name=U-Force
+| Guid=3000-77
+| Deck=An NES controller made by Brøderbund. It used IR sensors to control on screen action, rather than buttons.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/12/120008/2697703-7504641575-U-for.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2697703-7504641575-U-for.jpg","path":"12\/120008\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_tiny,square_medium,scale_small,square_mini,square_avatar,scale_medium,screen_medium,scale_large,scale_avatar,scale_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+An NES controller made by Brøderbund. It used IR sensors to control on screen action, rather than buttons.</text>
+      <sha1>517tsgte21ip30vuqcm4kd8fb3cwx31</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/VR Lighthouse</title>
+    <ns>0</ns>
+    <id>367</id>
+    <revision>
+      <id>379</id>
+      <timestamp>2025-12-08T07:18:22Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>379</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="611" sha1="odwggvc97ywuhtssscc4nmiugduh27y" xml:space="preserve">{{Accessory
+| Name=VR Lighthouse
+| Guid=3000-98
+| Deck=The device that allows for Vive's Roomscale.
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+ These devices broadcast an IR grid that is seen by the cameras located on the other Vive accessories. They have 3 channels they can be set for: A, for single Lighthouse usage, which does not support roomscale and channels B &amp;amp; C are used to create Roomscale, being positioned in opposite corners.
+The Lighthouses have screwplates on the back and bottom, and include a mounting plate. They can also be used with standard camera tripods. 
+</text>
+      <sha1>odwggvc97ywuhtssscc4nmiugduh27y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Varjo Aero</title>
+    <ns>0</ns>
+    <id>383</id>
+    <revision>
+      <id>722271</id>
+      <parentid>617471</parentid>
+      <timestamp>2026-02-14T19:58:32Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722271</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="668" sha1="7hyb58k3xhf5m6zaiob0hj8d1ssls7v" xml:space="preserve">{{Accessory
+| Name=Varjo Aero
+| Guid=3000-117
+| Deck=Varjo Aero is one of the most innovative consumer VR headsets for PC developed by Varjo Technologies.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/30/308862/3368737-varjo_aero.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3368737-varjo_aero.png","path":"30\/308862\/","mime":"image\/png","sizes":"scale_super,square_medium,scale_medium,square_small,square_tiny,scale_small,square_mini,square_avatar,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Varjo Aero is one of the most innovative consumer VR headsets for PC developed by Varjo Technologies.</text>
+      <sha1>7hyb58k3xhf5m6zaiob0hj8d1ssls7v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Wavebird</title>
+    <ns>0</ns>
+    <id>309</id>
+    <revision>
+      <id>975505</id>
+      <parentid>975358</parentid>
+      <timestamp>2026-07-07T18:50:21Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Fix duplicated lead from prior repair edit (guid-audit)</comment>
+      <origin>975505</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1905" sha1="2t5xtpfwdxze2hq0n4tc0lj59eaott4" xml:space="preserve">{{Accessory
+| Name=Wavebird
+| Guid=3000-37
+| Deck=The Wavebird is a wireless GameCube controller designed by Nintendo.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/1450768-wavebrd.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"1450768-wavebrd.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,scale_small,scale_medium,screen_medium,scale_large,scale_avatar,square_mini,square_tiny,square_medium,scale_tiny,scale_super,ignore_jpg_scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+The Wavebird is a wireless controller released for the [[Platforms/GameCube|Nintendo GameCube]] in 2002. The controller operates using a radio frequency, and could be bought in some bundle deals in the United States, or purchased separately. The Wavebird controller is also compatible with the[[Platforms/Wii|Nintendo Wii]] console. Early Wavebird controllers operated on a 900MHz frequency, though later models used a 2.4GHz frequency which was typical of remote controlled cars and cordless phones. It runs on 2 AA batteries, which could last for approximately 48 hours.
+
+The controller was otherwise identical to a standard GameCube controller, except that it was slightly lighter and did not support[[Concepts/Contextual_Controller_Rumble|force feedback]].
+
+
+
+
+==Historical Significance==
+The Wavebird was the first popular wireless gamepad for a console (though it was never as common as the wired controller). It was high quality, widely available, and easy on batteries. It has been suggested that the success of the Wavebird was the impetus for the ubiquity of wireless controllers in the next generation of consoles. However, neither [[Companies/Xbox_Game_Studios|Microsoft]] nor [[Companies/Sony_Corporation|Sony]] ever released an official competitor for the [[Platforms/Xbox|Xbox]] or [[Platforms/PlayStation_2|Playstation 2]] respectively.</text>
+      <sha1>2t5xtpfwdxze2hq0n4tc0lj59eaott4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Wii Balance Board</title>
+    <ns>0</ns>
+    <id>283</id>
+    <revision>
+      <id>295</id>
+      <timestamp>2025-12-08T07:18:22Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>295</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2724" sha1="sf3e0nlh1m1z5yn8f0gvjwtld22qs6k" xml:space="preserve">{{Accessory
+| Name=Wii Balance Board
+| Guid=3000-10
+| Deck=The Balance Board is a peripheral originally released alongside Wii Fit.
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"10478-Wii_Balance_Board.jpg","path":"0\/25\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_large,scale_small,scale_avatar,square_tiny,screen_kubrick","caption":"Wii Fit's Balance Board peripheral"},"background":[]}' /&gt;
+
+==Overview==
+The Wii Balance Board is an official first party [[Platforms/Wii|Wii]] peripheral made by [[Companies/Nintendo|Nintendo]] and released on May 19, 2008 in the US. It included [[Games/Wii_Fit|Wii Fit]] as a pack-in title (later sold separately after the launch of [[Games/Wii_Fit_Plus|Wii Fit Plus]]). The Balance Board is a pressure-sensitive device that measures the player's body weight and center of gravity to create a mass index.
+The Japanese board is said to have a maximum capacity of 300 pounds, while the "western" board is said to support up to 330 pounds. In reality, both versions are mechanically identical, with an actual maximum capacity of 660 pounds.
+The board does not function as well on soft surface such as carpet as it does on a hard floor surface, but the Balance Board includes attachable feet to allow it to counteract this issue. The manual states that the player should be barefoot, as shoes restrict movement, and socks are too slippery.
+As of April 2012, the Wii Balance Board, bundled with either Wii Fit or Wii Fit Plus, has sold a total of roughly 37 million copies worldwide.
+
+==Future Developments==
+Since its release, many developers have begun incorporating Balance Board support into their games. [[Companies/Electronic_Arts|EA]]'s [[Games/Skate_It|Skate It]] supports the Balance Board. [[Companies/Ubisoft_Entertainment|Ubisoft]] is using the board for [[Games/Shaun_White_Snowboarding|Shaun White Snowboarding]] and [[Games/Rayman_Raving_Rabbids_TV_Party|Rayman Raving Rabbids TV Party]]. Square-Enix's [[People/Motomu_Toriyama|Motomu Toriyama]] has stated his interest in the technology and its potential implementation in future RPGs.
+Electronic Arts initially stated that [[Games/Boogie_SuperStar|Boogie SuperStar]] would use the Balance Board, but this feature was dropped prior to release.
+
+==Return Policies==
+Some video game outlets were refusing to buy back used balance boards. This was because of hygiene as people had been playing bare footed and sweaty on it, making the possibility of catching foot fungus on your balance board a high one. The best way to clean the Wii Balance Board is to use bleach. This will make it look brand new and eliminate all risk of fungus.
+</text>
+      <sha1>sf3e0nlh1m1z5yn8f0gvjwtld22qs6k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Wii Classic Controller</title>
+    <ns>0</ns>
+    <id>456</id>
+    <revision>
+      <id>978514</id>
+      <parentid>722358</parentid>
+      <timestamp>2026-07-17T04:59:48Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3000-191)</comment>
+      <origin>978514</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4488" sha1="lbl2hqnk2ojk9xah4qvqv5f2qem5nhm" xml:space="preserve">{{Accessory
+| Name=Wii Classic Controller
+| Guid=3000-191
+| Deck=A controller featuring a traditional button layout that plugs into the Wii Remote's extension port, launched alongside the Wii in 2006.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82063/3453851-wiicc.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3453851-wiicc.jpg","path":"8\/82063\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_medium,scale_tiny,scale_medium,scale_small,square_avatar,square_tiny,scale_large,scale_avatar,square_mini,screen_medium,screen_kubrick","caption":"Wii Classic Controller"},"background":[]}' /&gt;
+
+The Wii Classic Controller was initially intended as an accessory to provide a comfortable way of playing [[Concepts/Virtual_Console|Virtual Console]] games on [[Platforms/Wii|Wii]] as well as facilitate traditional control options to certain games suitable to that playstyle.
+
+The button layout and general shape of the controller is based on that of the [[Platforms/Super_Nintendo_Entertainment_System|SNES]] controller with an additional pair of analog sticks placed similar to how they appear on a [[Accessories/PlayStation_Controller|PlayStation controller]]. Additionally, a small second set of shoulder buttons, named ZL and ZR are accessible between the main L and R shoulder buttons. This is the first time a [[Companies/Nintendo|Nintendo]] controller had both two full analog sticks and two additional shoulder buttons. The ZL and ZR buttons are an amalgamation of the Z-trigger on the [[Platforms/Nintendo_64|N64]] and the singular Z-button placed above the R-shoulder button of the [[Platforms/GameCube|GameCube]] controller. Notably, the L and R shoulder buttons are analog buttons but they are never utilized as such in any software since the system's main controllers (the Wii Remote and Nunchuk) would not support that feature. Additionally, the controller features a strange clip mechanism (which was never used for anything) that would likely have let players attach the controller onto another device and release it again by pushing down the little latch button in the center between the ZL and ZR buttons. [[Concepts/Contextual_Controller_Rumble|Rumble]]is not supported in this controller but the attached Wii Remote would still produce the rumble feedback while the Classic Controller was being used.
+
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/8/82063/3453863-wiiccmhg.jpg|full=https://www.giantbomb.com/a/uploads/scale_super/8/82063/3453863-wiiccmhg.jpg|align=left|width=320}}
+The controller was only available in the basic white Wii color until the release of [[Games/Monster_Hunter_G|Monster Hunter G]] in Japan, which bundled in a special edition with a unique Monster Hunter-inspired design on a blue shell with coal-colored sticks and buttons. This would mark the start of [[Companies/Capcom|Capcom]]'s collaboration with Nintendo on special controllers specifically tied to the [[Franchises/Monster_Hunter|Monster Hunter]]-series as they would eventually go on to work closely with Nintendo's hardware team during the development of the [[Accessories/Wii_Classic_Controller_Pro|Wii Classic Controller Pro]] which would replace this basic model in 2009 alongside the launch of the first original Monster Hunter game on a Nintendo system with [[Games/Monster_Hunter_Tri|Monster Hunter Tri]].
+
+The Wii Classic Controller is compatible with the NES Classic and the SNES Classic mini consoles since their controllers use the same accessory port as the Wii Remote, which also makes their NES and SNES controllers compatible with Wii Remotes, conversely.
+
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/8/82063/3453934-4550250820-wiicl.jpg|full=https://www.giantbomb.com/a/uploads/scale_super/8/82063/3453934-4550250820-wiicl.jpg|align=right|width=320|caption=Australian Club Nintendo reward product page.}}
+A dedicated version of the Classic Controller that is modeled to be a replica of the Super Famicom/PAL SNES Controller was eventually released in Japan (in April 2008) and PAL regions via Club Nintendo as an exclusive reward item (2010 in Europe for 7000 Stars, 2011 in Australia for 3000 Stars). It looks exactly like a SNES controller except its cable has a Wii Remote accessory connector at the end and plugs into Wii Remotes (and could also be uses on the aforementioned NES Classic and SNES Classic mini consoles and is interchangeable with their controllers).</text>
+      <sha1>lbl2hqnk2ojk9xah4qvqv5f2qem5nhm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Wii Classic Controller Pro</title>
+    <ns>0</ns>
+    <id>457</id>
+    <revision>
+      <id>978515</id>
+      <parentid>722359</parentid>
+      <timestamp>2026-07-17T04:59:51Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3000-192)</comment>
+      <origin>978515</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3149" sha1="fg21gblcnpx5pq03ea6ie6sulz63oqk" xml:space="preserve">{{Accessory
+| Name=Wii Classic Controller Pro
+| Guid=3000-192
+| Deck=An enhanced version of the original Wii Classic Controller first released in August 2009.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82063/3453850-wiiccpro.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3453850-wiiccpro.jpg","path":"8\/82063\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_medium,scale_tiny,square_mini,scale_super,scale_small,square_tiny,screen_medium,screen_kubrick,scale_large,scale_avatar,square_avatar","caption":"Wii Classic Controller Pro"},"background":[]}' /&gt;
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/8/82063/3453858-wiiccprogold.jpg|full=https://www.giantbomb.com/a/uploads/scale_super/8/82063/3453858-wiiccprogold.jpg|align=right|width=320}}
+Building on the basic layout of the original [[Accessories/Wii_Classic_Controller|Wii Classic Controller]], the Wii Classic Controller Pro features prongs for improved grip and a ZL/ZR shoulder button layout that more closely resembled that of a [[Accessories/PlayStation_Controller|PlayStation controller]]'s L2/R2 layout and would be carried forward into the designs for the [[Accessories/Wii_U_Pro_Controller|Wii U Pro Controllers]] and [[Accessories/Nintendo_Switch_Pro_Controller|Nintendo Switch Pro Controllers]]. The L/R buttons are now also just digital buttons, since there was no use for analog buttons limited to an optional accessory and the clip mechanism has been removed. However, the controller still needs to be plugged into the accessory port at the bottom of a [[Accessories/Wii_Remote|Wii Remote]] in order to function and does not support [[Concepts/Contextual_Controller_Rumble|rumble]].
+
+As detailed during an [https://www.nintendo.co.uk/Iwata-Asks/Iwata-Asks-Monster-Hunter-Tri/Iwata-Asks-Monster-Hunter-Tri/7-Responding-to-Enthusiasm/7-Responding-to-Enthusiasm-211724.html# Iwata Asks about Monster Hunter Tri], [[Companies/Nintendo|Nintendo]]closely collaborated with [[Companies/Capcom|Capcom]]'s [[Franchises/Monster_Hunter|Monster Hunter]] team during the development of the Wii Classic Controller Pro to tailor it specifically to Monster Hunter players and coordinate its release so it coincides with the launch of [[Games/Monster_Hunter_Tri|Monster Hunter Tri]] in August 2009 as well as the first new system color for the Wii-system with the introduction of the black models.
+
+The Wii Classic Controller Pro was initially released in black and white models and later received special colors. A gold-colored version was bundled with Eurocom's 2010 [[Games/GoldenEye_007_2010|GoldenEye 007]] remake, a red version came with the special edition for [[Games/Xenoblade_Chronicles|Xenoblade]]in PAL regions (2011), and a black controller featuring gold markings was released with [[Games/Samurai_Warriors_3|Samurai Warriors 3 (2009)]] in Japan.
+
+The Wii Classic Controller Pro is compatible with the NES Classic and the SNES Classic mini consoles since their controllers use the same accessory port as the Wii Remote, which also makes their NES and SNES controllers compatible with Wii Remotes, conversely.</text>
+      <sha1>fg21gblcnpx5pq03ea6ie6sulz63oqk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Wii Component Video Cable</title>
+    <ns>0</ns>
+    <id>444</id>
+    <revision>
+      <id>722342</id>
+      <parentid>617532</parentid>
+      <timestamp>2026-02-14T19:58:52Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722342</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="696" sha1="iurx8a75y7ow7q389icabfwgwwiuvtp" xml:space="preserve">{{Accessory
+| Name=Wii Component Video Cable
+| Guid=3000-179
+| Deck=Nintendo's official component cable for the Wii was originally only available through their own website.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396687-2715468355-41feG.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396687-2715468355-41feG.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_medium,square_small,scale_small,square_mini,scale_super,scale_medium,scale_avatar,scale_large,screen_kubrick,screen_medium,square_avatar,square_tiny","caption":null},"background":[]}' /&gt;
+Nintendo's official component cable for the Wii was originally only available through their own website.</text>
+      <sha1>iurx8a75y7ow7q389icabfwgwwiuvtp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Wii MotionPlus</title>
+    <ns>0</ns>
+    <id>297</id>
+    <revision>
+      <id>978499</id>
+      <parentid>975504</parentid>
+      <timestamp>2026-07-17T04:59:12Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3000-25)</comment>
+      <origin>978499</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3128" sha1="qbapnuzj64hnw4khictku088ie52z6t" xml:space="preserve">{{Accessory
+| Name=Wii MotionPlus
+| Guid=3000-25
+| Deck=Nintendo's latest accessory is designed to enhance motion control by quickly and accurately catching complex and minute movements, significantly improving the versatility and precision of the Wii Remote.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/24/175808-nintendo_wii_motionplus.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"175808-nintendo_wii_motionplus.jpg","path":"0\/24\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+The ''Wii MotionPlus'' is an expansion device that connects into the bottom of the [[Accessories/Wii_Remote|Wii Remote]], where the Nunchuk controller usually plugs in. It allows the Wii Remote to more accurately capture complex motions. According to Nintendo, the ''Wii Motion Plus'' sensor supplements the accelerometer and Sensor Bar features of the Wii Remote to enable actions to be rendered identically on the screen in real time. Nintendo has used the term 1:1 (one to one) motions specifically, a feature long sought after for by Nintendo Wii consumers. Thus far, the only Wii game using this new technology is Nintendo's casual style game   [[Games/Wii_Sports_Resort|Wii Sports Resort]][[Games/Wii_Sports_Resort|,]] a follow up to the massive launch day hit,    [[Games/Wii_Sports|Wii Sports]]. It has also been said that [[Games/Red_Steel_2|Red Steel 2]] will also use the ''Wii MotionPlus'' accessory.
+  &lt;u&gt;
+&lt;/u&gt;The ''Wii Motion Plus ''was announced by [[Companies/Nintendo|Nintendo]] in a press release on July 14, 2008 and was revealed the next day at Nintendo's press conference at the [[Concepts/E3|E3]] Media &amp;amp; Business Summit.  The ''Wii Motion Plus ''addon will be bundled with the game '''''Wii Sports Resor'''t,'' which is scheduled for release in Spring 2009. The device will also be available for purchase separately. The ''Wii MotionPlus'' will be packaged with a longer version of the Wii Remote Jacket to accommodate the Wii Remote when the expansion is attached.
+
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/0/3009/195994-wiimotionplus.jpg|full=http://www.giantbomb.com/a/uploads/original/0/3009/195994-wiimotionplus.jpg|align=right|caption=Wii Motion Plus}}
+
+
+When attached to the Wii Remote, the unit extends the length of the controller body by approximately 1½ inches. The device features a pass-through expansion port for connecting expansion controllers such as the Nunchuk or Classic Controller. The attachment has a color-coded mechanical slide switch for locking the clip release
+
+
+===Functionality===
+
+
+The Wii MotionPlus incorporates a dual-axis angular rate sensor, which can determine rotational motion. The information captured by the angular rate sensor can be used to distinguish true linear motion from the accelerometer readings, allowing for the capture of more complex movements than is possible with just the Wii Remote itself. The sensor used is an InvenSense IDG-600.</text>
+      <sha1>qbapnuzj64hnw4khictku088ie52z6t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Wii Nunchuck</title>
+    <ns>0</ns>
+    <id>442</id>
+    <revision>
+      <id>993087</id>
+      <parentid>722340</parentid>
+      <timestamp>2026-07-19T00:05:09Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>993087</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="639" sha1="0sf5e7ka422iya3rktgiwmv7vuofevr" xml:space="preserve">{{Accessory
+| Name=Wii Nunchuck
+| Guid=3000-177
+| Deck=The official analog stick controller attachment designed by Nintendo for the Wii.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396668-9380353864-71C%2Bk.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396668-9380353864-71C+k.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_super,scale_small,scale_medium,square_tiny,square_medium,square_mini,scale_large,scale_avatar,screen_kubrick,square_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+The official analog stick controller attachment designed by Nintendo for the Wii.</text>
+      <sha1>0sf5e7ka422iya3rktgiwmv7vuofevr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Wii Remote</title>
+    <ns>0</ns>
+    <id>285</id>
+    <revision>
+      <id>978493</id>
+      <parentid>722178</parentid>
+      <timestamp>2026-07-17T04:58:58Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3000-13)</comment>
+      <origin>978493</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7091" sha1="280wyi67paia1he50p48pvbpy2h2zc1" xml:space="preserve">{{Accessory
+| Name=Wii Remote
+| Guid=3000-13
+| Deck=The Primary controller of Nintendo's Wii console. Affectionately known as the "Wiimote" among gamers too lazy to spell out the whole thing.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/24/10994-wiimote-grip-sleeve.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"10994-wiimote-grip-sleeve.png","path":"0\/24\/","mime":"image\/png","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,square_tiny,scale_small,scale_large,scale_avatar,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+Introduced by [[Companies/Nintendo|Nintendo]] as a unique method of controlling the Nintendo [[Platforms/Wii|Wii]], the Wii Remote was designed with ease-of-use and accessibility prominently in mind. Essentially, the Wii Remote is a remote control with buttons which the player uses to control games and navigate the Wii's operating system. Additionally, the Wii remote features motion-sensing technology can be used to simulate the precise movements of swinging a baseball bat or a tennis racket, pointing a gun, swinging a sword, or any other number actions associated with real-life activities.
+
+
+==Design==
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/0/24/10993-pry-wiimote.gif|full=http://www.giantbomb.com/a/uploads/original/0/24/10993-pry-wiimote.gif|align=right|caption=Shake it like a Polaroid picture.}}
+The Wii Remote contains two important pieces of technology--an accelerometer and a high-resolution infrared sensor. Via the accelerometer, which can accurately measure fluctuations in gravity along three axes, the Wii Remote can effectively double as both a standard remote control and a motion-sensing game controller. Depending on how the player holds or positions the Wii Remote, the game (using pre-conditioning to recognize specific values on the three axes) will react accordingly. By making use of an infrared sensor bar included with the Wii console which emits infrared light that is in turn detected by the sensor within the Wii Remote, the controller is able to measure its distance from the television, the current direction it's pointed in, and its position in relation to the screen.
+
+
+==Limitations==
+Due to the device's reliance on infrared light, a typical player's living room could potentially be full of objects and surfaces that might interfere with the [[Platforms/Wii|Wii]] sensor bar's output or the Wii Remote's input. Bright lights, large windows, reflective surfaces, metallic objects, and many other things have the potential of making the Wii Remote non-functional. The Wii motion sensing capabilities are also limited, making true "one-to-one" motion controls difficult.
+
+
+==Wii Remote Plus==
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/8/82063/2191407-wiiremoteplus.jpg|full=http://www.giantbomb.com/a/uploads/original/8/82063/2191407-wiiremoteplus.jpg|align=right|caption=Not just people come in different colors.}}
+At their E3 2008 press conference, Nintendo unveiled plans for a Wii Remote attachment called the "[[Accessories/Wii_MotionPlus|Wii Motion Plus]]" that would improve responsiveness due to the built in gyroscope and ship with [[Games/Wii_Sports_Resort|Wii Sports Resort]] in the Spring of 2009. Other than that, not a lot of titles went on to use the attachment as an optional enhancement, even fewer outright required it. Most notably among those titles that did require MotionPlus were [[Companies/Ubisoft_Entertainment|Ubisoft]]'s [[Games/Red_Steel_2|Red Steel 2]] and [[Companies/Nintendo|Nintendo]]'s own [[Games/The_Legend_of_Zelda_Skyward_Sword|The Legend of Zelda: Skyward Sword]].
+
+In September 2010, Nintendo announced an updated Wii Remote that had a MotionPlus attachment already built in, called the Wii Remote Plus. The updated controller launched with the game [[Games/FlingSmash|FlingSmash]] as a bundle. Later, it also came bundled with [[Games/Wii_Play_Motion|Wii Play: Motion]] and a limited edition of Skyward Sword. It is now the standard controller, packed in with every Wii console. The [[Platforms/Wii_U|Wii U]] will also support it.
+
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/8/82063/2351109-img_2908_768x1024.jpg|full=http://www.giantbomb.com/a/uploads/original/8/82063/2351109-img_2908_768x1024.jpg|align=left}}
+Wii U branded Wii Remote Plus controllers started to feature the sync button the outside of the device, located on the lower backside. This is supposed to make syncing easier which is also the reason why the Wii U console's sync button is on the outside of the system in the front as well.
+
+
+==Safety Issues==
+Since people have sweaty hands, this accessory has quickly become a safety hazard not only for children but also for adults, electronics and furniture. Several reports of people losing grip of the Wii Remote and it smashing their TV, windows and favorite family members surfaced shortly after the system launched. Apparently, the wrist straps included with the system were especially fragile in the hands of your average North American raised on Football and, thus, an innocent input device for a gaming console turned into a deadly projectile. Hilarity and lawsuits ensued.
+
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/8/82063/2191414-2191413-wii_remote_plus_red_500x500.jpg|full=http://www.giantbomb.com/a/uploads/original/8/82063/2191414-2191413-wii_remote_plus_red_500x500.jpg|align=right|caption=No glove, no love.}}
+To ensure people "don't lose their grip" (and stop suing), Nintendo took initiative and made a silicone cover called the Wii Remote Jacket (playfully referred to as the Wii Condom by all the "cool" people) which were included with new shipments of the device and console units. Additionally, they created a thicker, more robust version of the wrist strap and included them with all new shipments containing a Wii Remote. Customers were able to order both safety upgrades completely free of charge from Nintendo's website by entering the serial number of their Wii console, showing Nintendo's commitment to not-getting-sued-anymore.
+
+The soft, rubbery corners of the jacket along with the wrist strap are supposed to make people smarter (read: not throw their controllers around anymore) and thus prevent total destruction of everything that is good in the world, especially expensive High Definition Television devices. However, if you hit someone in the face with a Wii Remote wearing the rubber jacket, it still hurts like hell.
+
+
+==Trivia==
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/8/82063/2191522-wiimote_gamecube.jpg|full=http://www.giantbomb.com/a/uploads/original/8/82063/2191522-wiimote_gamecube.jpg|align=right}}
+* The Wii Remote was initially thought up to be a peripheral for the [[Platforms/GameCube|Nintendo Gamecube]] before it became part of the core philosophy behind their next home console.
+* During official game demos, Nintendo infamously insists that everybody playing the game put the wrist strap on ''at all times''.</text>
+      <sha1>280wyi67paia1he50p48pvbpy2h2zc1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Wii Remote Jacket</title>
+    <ns>0</ns>
+    <id>443</id>
+    <revision>
+      <id>722341</id>
+      <parentid>617531</parentid>
+      <timestamp>2026-02-14T19:58:52Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722341</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="874" sha1="r9tw6f83vjbdqatoikarwww4f3p14py" xml:space="preserve">{{Accessory
+| Name=Wii Remote Jacket
+| Guid=3000-178
+| Deck=In October 2007, Nintendo introduced a protective cover for the Wii Remote. People who already owned a Wii Remote could order one online for free and all Wii Remotes sold from then on included one.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396681-7626315947-wiimo.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396681-7626315947-wiimo.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_medium,square_small,square_tiny,scale_medium,scale_super,scale_small,square_mini,scale_avatar,scale_large,screen_kubrick,square_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+In October 2007, Nintendo introduced a protective cover for the Wii Remote. People who already owned a Wii Remote could order one online for free and all Wii Remotes sold from then on included one.</text>
+      <sha1>r9tw6f83vjbdqatoikarwww4f3p14py</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Wii Speak</title>
+    <ns>0</ns>
+    <id>298</id>
+    <revision>
+      <id>722191</id>
+      <parentid>617392</parentid>
+      <timestamp>2026-02-14T19:58:08Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722191</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1492" sha1="orcm35kl87bfedj33gvpyo4sy07thiv" xml:space="preserve">{{Accessory
+| Name=Wii Speak
+| Guid=3000-26
+| Deck=A peripheral for the Wii's sensor bar that allows for real-time voice chat with other Wii users.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/2009/192693-wiispeak_600_1.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"192693-wiispeak_600_1.jpg","path":"0\/2009\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+Wii Speak which was announced at [[Concepts/E3_2008|E3 2008]], allows users to chat with fellow gamers online. It's more of a speaker than a headset which allows group of people in a room to chat with other people or groups. The only game shown at E3 2008 that was confirmed to use it was [[Games/Animal_Crossing_City_Folk|Animal Crossing: City Folk]], which showed four people having a fishing contest and in the video you hear people talking to each other. It is meant to solve the problem of there being no [[Concepts/Voice_Chat|voice chat]] in the [[Platforms/Wii|Wii]]'s online games. Though other games haven't been confirmed yet, its most likely that third party developers are going to taking advantage of Wii Speak to allow voice chat in online games. There is also the possibility that it will be used as a part of single player gameplay, similar to how the microphone on the [[Platforms/Nintendo_DS|Nintendo DS]] was used.</text>
+      <sha1>orcm35kl87bfedj33gvpyo4sy07thiv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Wii U Pro Controller</title>
+    <ns>0</ns>
+    <id>458</id>
+    <revision>
+      <id>722360</id>
+      <parentid>617546</parentid>
+      <timestamp>2026-02-14T19:58:56Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722360</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2275" sha1="sm4s5xl9svebi2rkrwialquzs8ix9qd" xml:space="preserve">{{Accessory
+| Name=Wii U Pro Controller
+| Guid=3000-193
+| Deck=A more conventional alternative controller accessory for Wii U consoles, released alongside the system in 2012.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82063/2321843-wupa_005_imgewa_ab_r_ad.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2321843-wupa_005_imgewa_ab_r_ad.png","path":"8\/82063\/","mime":"image\/png","sizes":"square_tiny,square_medium,scale_tiny,scale_super,scale_medium,square_small,scale_small,screen_kubrick,scale_large,scale_avatar,square_mini,screen_medium,square_avatar","caption":""},"background":[]}' /&gt;
+The Wii U Pro Controller served as both an alternate control style for Wii U games that did not strictly require the unique features of the [[Platforms/Wii_U|Wii U]] GamePad and could be played like conventional games from other platforms, as well as a control option for multiplayer scenarios. The wireless Bluetooth controller featured the same selection of buttons as the [[Accessories/Wii_Classic_Controller_Pro|Wii Classic Controller Pro]] with a key distinction being the two analog sticks being placed in a symmetrical top-aligned primary position, mirroring the layout on the Wii U GamePad. The ergonomics of the controller are more in-line with an [[Accessories/Xbox_360_Controller|Xbox 360-controller]] with its rounded grips and ZL/ZR shoulder buttons now shaped like triggers (albeit still just being digital buttons, like on the Wii Classic Controller Pro) and the left stick and +Control pad now laid out like that of the aforementioned Xbox 360 controller, or the more directly related [[Platforms/GameCube|GameCube]]controller. The controller also supports [[Concepts/Contextual_Controller_Rumble|rumble]]and comes with a built-in rechargeable battery which also necessitates a power button below the home button and a port for the controller cable between the shoulder buttons.
+Neither a headphone jack, microphone or gyro-sensor were included in the featureset of the controllers, however.
+The Wii U Pro Controller was released alongside the console in black and white color variants in all territories. Though notably, PAL regions only ever received the black version and the white controller remained exclusive to Japan and the Americas.</text>
+      <sha1>sm4s5xl9svebi2rkrwialquzs8ix9qd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Wii Vitality Sensor</title>
+    <ns>0</ns>
+    <id>327</id>
+    <revision>
+      <id>722217</id>
+      <parentid>617418</parentid>
+      <timestamp>2026-02-14T19:58:16Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722217</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1611" sha1="r2mt6gf2vnz6ft8wwn1b8yv7z9ju8rk" xml:space="preserve">{{Accessory
+| Name=Wii Vitality Sensor
+| Guid=3000-56
+| Deck=The Wii Vitality sensor was introduced by Satoru Iwata at Nintendo's E3 2009 press conference. It was never actually released as a retail product.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/1/17172/1051804-wiitality.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"1051804-wiitality.jpg","path":"1\/17172\/","mime":"image\/jpeg","sizes":"scale_small,square_avatar,square_small,square_tiny,square_medium,square_mini,scale_medium,screen_medium,scale_large,scale_avatar,scale_tiny,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+The Wii Vitality Sensor was an accessory for the [[Platforms/Wii|Wii]] that was introduced to the public by [[People/Satoru_Iwata|Satoru Iwata]] during [[Concepts/E3_2009|E3 2009]]. Devised to measure a person's heart rate by using a pulse-detecting finger clip that connects to the [[Accessories/Wii_Remote|Wii Remote]], it was suggested that the accessory could be used to affect gameplay, though no proper games demonstrating its use were shown nor mentioned during the conference. The unveiling of the device was not well-received by the public, and the product was quietly abandoned; the vitality sensor was not demonstrated, shown, or even mentioned in subsequent press events held by the company.
+
+==Cancellation==
+In July of 2013, Nintendo officially cancelled the Vitality Sensor. Nintendo cited two main reasons for cancelling it; a lack of applications that would use the device, and their testing proved that it would only work for 90% of the users who used it.</text>
+      <sha1>r2mt6gf2vnz6ft8wwn1b8yv7z9ju8rk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Wii Wheel</title>
+    <ns>0</ns>
+    <id>280</id>
+    <revision>
+      <id>722174</id>
+      <parentid>617375</parentid>
+      <timestamp>2026-02-14T19:58:02Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722174</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1481" sha1="2jkanhkiuk108x5sq5nxqds5j3dqmga" xml:space="preserve">{{Accessory
+| Name=Wii Wheel
+| Guid=3000-7
+| Deck=The Wii Wheel is a plastic shell that makes using the Wii Remote feel more like a steering wheel.  The Wii Wheel was packaged with Mario Kart Wii and could also be bought separately.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/2009/192808-41ddcylhvsl1.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"192808-41ddcylhvsl1.jpg","path":"0\/2009\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+The Wii Wheel is an add-on for the [[Accessories/Wii_Remote|Wii Remote]], intended for use with racing games that use a sideways "steering wheel" configuration. It does not add any functionality to the Wii Remote, but tries to recreate the feel of holding a real steering wheel. It has a hole on the back to pass the wrist strap and one on its left to avoid any interference between the controller and the Wii. 
+
+The Wii Wheel is available as part of the [[Games/Mario_Kart_Wii|Mario Kart Wii]] package, and can also be purchased separately. Although originally designed and packaged for use with Mario Kart Wii, it works with most Wii racing games that only require the Wii Remote to be held sideways to play. There are other Wii steerring wheels out there made by third party companies but the Wii Wheel is the official Nintendo product </text>
+      <sha1>2jkanhkiuk108x5sq5nxqds5j3dqmga</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Wii Zapper</title>
+    <ns>0</ns>
+    <id>287</id>
+    <revision>
+      <id>722180</id>
+      <parentid>617381</parentid>
+      <timestamp>2026-02-14T19:58:04Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722180</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1774" sha1="hmwpth49gei2kc0ex51dmule2ilzvs4" xml:space="preserve">{{Accessory
+| Name=Wii Zapper
+| Guid=3000-15
+| Deck=The Wii Zapper is a peripheral that transforms the Wiimote and Nunchuk into a gun shape.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/25/10945-ninoaye9.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"10945-ninoaye9.jpg","path":"0\/25\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,screen_kubrick","caption":"Final design of the Wii Zapper"},"background":[]}' /&gt;
+
+==Overview==
+ The Wii Zapper is a plastic shell for the  [[Accessories/Wii_Remote|Wii Remote]] and Nunchuk designed to emulate the shape of a gun while retaining usability. Development on the Zapper began informally when a Nintendo employee working on [http://dev.giantbomb.com:8080/the-legend-of-zelda-twilight-princess/61-19467 The Legend of Zelda: Twilight Princess] fabricated a frame for the Wii Remote and Nunchuk out of wires and rubber bands. [http://dev.giantbomb.com:8080/shigeru-miyamoto/72-614 Shigeru Miyamoto] was initially upset by what appeared to be a waste of time, though when he held it, he found it surprisingly comfortable. When the Zapper was first shown to the public at E3 2006, its shape was similar to that of a [[Objects/Shotgun|shotgun]], but by E3 2007 the design was altered to appear more like a [[Objects/Submachine_Gun|submachine gun]]. The Wii Zapper was released in America on November 19, 2007, and was initially supported by [[Games/Resident_Evil_The_Umbrella_Chronicles|Resident Evil: The Umbrella Chronicles]], [[Games/Ghost_Squad|Ghost Squad]], [[Games/Medal_of_Honor_Heroes_2|Medal of Honor: Heroes 2]], and [[Games/Links_Crossbow_Training|Link's Crossbow Training]].</text>
+      <sha1>hmwpth49gei2kc0ex51dmule2ilzvs4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/XE 1AP</title>
+    <ns>0</ns>
+    <id>351</id>
+    <revision>
+      <id>978510</id>
+      <parentid>722241</parentid>
+      <timestamp>2026-07-17T04:59:38Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3000-80)</comment>
+      <origin>978510</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4487" sha1="kbakuu2ws18s7lqstmidmzz8jftfz32" xml:space="preserve">{{Accessory
+| Name=XE-1AP
+| Guid=3000-80
+| Deck=The XE-1AP, or XE-1 AP, is a controller released by Dempa Micomsoft in 1989, only for Japan, originally for the Sega Mega Drive (Genesis) console. Ahead of its time, it was the first controller to feature an analogue thumbstick, analog slider, shoulder buttons and grip handles.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/139866/2720457-2090148190-XE-1A.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2720457-2090148190-XE-1A.png","path":"13\/139866\/","mime":"image\/png","sizes":"square_small,square_mini,scale_small,scale_super,square_tiny,square_medium,scale_tiny,square_avatar,scale_medium,screen_medium,scale_large,scale_avatar,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/ignore_jpg_scale_medium/13/139866/2743364-0996189674-20090.jpg|full=http://www.giantbomb.com/a/uploads/original/13/139866/2743364-0996189674-20090.jpg|align=right|width=480|caption=XE-1AP}}
+Originally released by [[Companies/Dempa_Micomsoft|Dempa Micomsoft]] for the [[Platforms/Genesis|Sega Mega Drive]] (Genesis) console in 1989, this analogue controller has the following features:
+
+* Six face buttons
+* Four shoulder buttons
+* Analogue thumbstick
+* Analogue slider, for a third axis or throttle, which can be rotated to suit the user
+* Two grip handles, at the bottom, to grip the controller
+* Four switches
+The controller was an attempt at simulating/miniaturizing the [http://en.wikipedia.org/wiki/HOTAS HOTAS] controls of arcade cabinets such as [[Companies/Sega|Sega]]'s [[Games/After_Burner_II|After Burner II]] on a handheld controller for home systems.
+
+
+==Compatibility==
+
+===Hardware===
+While it was originally created for the [[Platforms/Genesis|Sega Mega Drive (Genesis)]] console, it was also compatible with various other Japanese systems.
+
+The XE-1AP was compatible with the following systems:
+
+Consoles:
+
+* [[Platforms/Genesis|Sega Mega Drive (Genesis)]]
+* [[Platforms/Sega_CD|Sega Mega CD (Sega CD)]]
+* [[Platforms/Sega_32X|Sega Super 32X (Sega 32X / Mega 32X)]]
+* [[Platforms/TurboGrafx_16|PC Engine (TurboGrafx-16)]]
+* [[Platforms/FM_Towns|FM Towns Marty]]
+[[Platforms/PC|Computers]]:
+
+* [[Platforms/MSX|MSX]]
+* [[Platforms/NEC_PC_8801|NEC PC-88]]
+* [[Platforms/Sharp_X68000|Sharp 68000]]
+* [[Platforms/FM_Towns|Fujitsu FM Towns]]
+
+===Software===
+The XE-1AP was compatible with the following games on Sega consoles:
+
+[[Platforms/Genesis|Sega Mega Drive (Genesis)]]
+
+* [[Games/After_Burner_II|After Burner II]] (1990)
+* [[Games/Ayrton_Sennas_Super_Monaco_GP_II|Ayrton Senna's Super Monaco GP II]] (1992)
+* Fastest 1 (1991)
+* [[Games/Galaxy_Force_II|Galaxy Force II]] (1991)
+* [[Games/M_U_S_H_A|Musha Aleste]] (1990)
+[[Platforms/Sega_CD|Sega Mega CD (Sega CD)]]
+
+* [[Games/After_Burner_III|After Burner III]] (1992)
+* Night Striker (1993)
+* [[Games/StarBlade|Starblade]] (1994)
+[[Platforms/Sega_32X|Sega Super 32X (Sega 32X / Mega 32X)]]
+
+* [[Games/After_Burner|After Burner Complete]] (1995)
+* [[Games/Space_Harrier|Space Harrier]] (1994)
+
+==Legacy==
+Released in 1989, its use of shoulder buttons predates the release of the [[Platforms/Super_Nintendo_Entertainment_System|SNES]] controller in 1990. Its use of grip handles and four shoulder buttons also predates the [[Platforms/PlayStation|PlayStation]] controller's 1994 release by five years. Its use of an analogue thumbstick also predates the [[Platforms/Nintendo_64|Nintendo 64]] controller's 1995 announcement by six years and its 1996 release by seven years. Its additional analog slider was also a precursor to the [[Concepts/Twin_Stick_Control|second analog stick]] of the PlayStation's [[Accessories/DualShock_Analog_Controller|Dual Shock]] controller in 1997.
+
+The XE-1AP is similar in design to the [[Platforms/Saturn|Sega Saturn]]'s 3D Control Pad, released in 1996. In turn, the Saturn's 3D Control Pad was the basis for the 1998 [[Platforms/Dreamcast|Dreamcast]] controller, which in turn was the basis for the 2001 [[Platforms/Xbox|Xbox]] controller, in turn the basis for the 2005 [[Accessories/Xbox_360_Controller|Xbox 360 Controller]].
+
+
+==References==
+* [http://www.gamepilgrimage.com/content/micomsofts-xe-1ap-analogue-controller Micomsoft's XE-1AP Analogue Controller]
+* [http://segaretro.org/XE-1_AP XE-1 AP]
+
+==See Also==
+* [[Accessories/Sega_VR|Sega VR]]
+* [[Accessories/Sega_Activator|Sega Activator]]
+* [[Accessories/SegaScope_3_D_Glasses|SegaScope 3-D Glasses]]</text>
+      <sha1>kbakuu2ws18s7lqstmidmzz8jftfz32</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Xbox 360 Chatpad</title>
+    <ns>0</ns>
+    <id>329</id>
+    <revision>
+      <id>722218</id>
+      <parentid>617419</parentid>
+      <timestamp>2026-02-14T19:58:16Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722218</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="758" sha1="5he5ub0hzlbcl4bsghusk1g5nvkf318" xml:space="preserve">{{Accessory
+| Name=Xbox 360 Chatpad
+| Guid=3000-58
+| Deck=The Xbox 360 Chatpad is an optional keyboard that connects to the bottom of any Xbox 360 controller allowing users to quickly type messages.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396538-8134117522-chatp.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396538-8134117522-chatp.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"screen_medium,scale_super,scale_avatar,square_mini,scale_large,scale_small,scale_medium,screen_kubrick,square_small,square_medium,square_avatar,square_tiny","caption":null},"background":[]}' /&gt;
+The Xbox 360 Chatpad is an optional keyboard that connects to the bottom of any Xbox 360 controller allowing users to quickly type messages.</text>
+      <sha1>5he5ub0hzlbcl4bsghusk1g5nvkf318</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Xbox 360 Controller</title>
+    <ns>0</ns>
+    <id>315</id>
+    <revision>
+      <id>722208</id>
+      <parentid>617409</parentid>
+      <timestamp>2026-02-14T19:58:13Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722208</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1141" sha1="lzqtvdn1b9ce0j6bsnvjb55d69hfmbu" xml:space="preserve">{{Accessory
+| Name=Xbox 360 Controller
+| Guid=3000-44
+| Deck=The official controller for Microsoft's Xbox 360.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/4898/2440852-x360con.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2440852-x360con.jpg","path":"0\/4898\/","mime":"image\/jpeg","sizes":"square_small,square_tiny,square_medium,scale_small,square_avatar,square_mini,scale_medium,screen_medium,scale_large,scale_avatar,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+It was released by [[Companies/Xbox_Game_Studios|Microsoft]] for their [[Platforms/Xbox_360|Xbox 360]] console in November 2005.
+The Xbox 360 controller's design was based on the 2001 [[Platforms/Xbox|Xbox]] controller. In turn, the Xbox controller's design was based on [[Companies/Sega|Sega]]'s 1998 [[Platforms/Dreamcast|Dreamcast]] controller, which in turn was based on the [[Platforms/Saturn|Sega Saturn]]'s 1996 3D Control Pad, which in turn is similar in design to [[Companies/Dempa_Micomsoft|Dempa Micomsoft]]'s 1989 [[Accessories/XE_1AP|XE-1AP]] controller for the [[Platforms/Genesis|Sega Mega Drive (Genesis)]] console.</text>
+      <sha1>lzqtvdn1b9ce0j6bsnvjb55d69hfmbu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Xbox 360 Faceplate</title>
+    <ns>0</ns>
+    <id>426</id>
+    <revision>
+      <id>722319</id>
+      <parentid>617514</parentid>
+      <timestamp>2026-02-14T19:58:46Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722319</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="757" sha1="7d6fytmhi1u01l5nqpbgacrnhqa87c9" xml:space="preserve">{{Accessory
+| Name=Xbox 360 Faceplate
+| Guid=3000-160
+| Deck=The original model of Xbox 360, released in November 2005, featured a removable faceplate. This allowed owners to customize their console.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396473-0442788929-278.j.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396473-0442788929-278.j.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_small,scale_super,square_medium,square_small,scale_medium,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;
+The original model of Xbox 360, released in November 2005, featured a removable faceplate. This allowed owners to customize their console.</text>
+      <sha1>7d6fytmhi1u01l5nqpbgacrnhqa87c9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Xbox 360 Hard Drive</title>
+    <ns>0</ns>
+    <id>424</id>
+    <revision>
+      <id>722317</id>
+      <parentid>617512</parentid>
+      <timestamp>2026-02-14T19:58:46Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722317</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="911" sha1="ih2de5wri8nsuqp98zjvxk6ly4eztvj" xml:space="preserve">{{Accessory
+| Name=Xbox 360 Hard Drive
+| Guid=3000-158
+| Deck=Released in November 2005, the original model of the Xbox 360 featured an optional, detachable hard drive with a capacity of 20 GB. Later versions of the hard drive included 60 GB, 120 GB, and 250 GB versions.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396286-9411724247-2560p.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396286-9411724247-2560p.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_small,scale_super,square_medium,scale_medium,square_small,scale_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,square_avatar,screen_medium,square_tiny","caption":null},"background":[]}' /&gt;
+Released in November 2005, the original model of the Xbox 360 featured an optional, detachable hard drive with a capacity of 20 GB. Later versions of the hard drive included 60 GB, 120 GB, and 250 GB versions.</text>
+      <sha1>ih2de5wri8nsuqp98zjvxk6ly4eztvj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Xbox 360 Hard Drive Transfer Cable</title>
+    <ns>0</ns>
+    <id>427</id>
+    <revision>
+      <id>722320</id>
+      <parentid>617515</parentid>
+      <timestamp>2026-02-14T19:58:47Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722320</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="834" sha1="szxlvw77qdp7ki54kinmv6uwxushydp" xml:space="preserve">{{Accessory
+| Name=Xbox 360 Hard Drive Transfer Cable
+| Guid=3000-161
+| Deck=The Hard Drive Transfer Cable allows people to transfer their saved data from an original Xbox 360's hard drive to an Xbox 360 S or Xbox 360 E hard drive.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396474-screenshot2022-08-03at10.23.43am.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396474-screenshot2022-08-03at10.23.43am.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_super,square_tiny,scale_small,scale_medium,square_small,square_medium,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium,square_avatar","caption":""},"background":[]}' /&gt;
+The Hard Drive Transfer Cable allows people to transfer their saved data from an original Xbox 360's hard drive to an Xbox 360 S or Xbox 360 E hard drive.</text>
+      <sha1>szxlvw77qdp7ki54kinmv6uwxushydp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Xbox 360 Headset</title>
+    <ns>0</ns>
+    <id>428</id>
+    <revision>
+      <id>722322</id>
+      <parentid>617516</parentid>
+      <timestamp>2026-02-14T19:58:47Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722322</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="635" sha1="5n2rb9z6tdaiuroem3lf808dikwa58d" xml:space="preserve">{{Accessory
+| Name=Xbox 360 Headset
+| Guid=3000-162
+| Deck=The official headset designed by Microsoft for use with Xbox Live on Xbox 360.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396480-9002549655-MYm1c.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396480-9002549655-MYm1c.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_super,scale_small,square_tiny,square_medium,square_mini,scale_avatar,screen_medium,screen_kubrick,scale_large,square_avatar","caption":null},"background":[]}' /&gt;
+The official headset designed by Microsoft for use with Xbox Live on Xbox 360.</text>
+      <sha1>5n2rb9z6tdaiuroem3lf808dikwa58d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Xbox 360 Memory Unit</title>
+    <ns>0</ns>
+    <id>429</id>
+    <revision>
+      <id>722323</id>
+      <parentid>617517</parentid>
+      <timestamp>2026-02-14T19:58:47Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722323</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="767" sha1="m2uptkvzu5h3t5w0pf5qrscfx46arfb" xml:space="preserve">{{Accessory
+| Name=Xbox 360 Memory Unit
+| Guid=3000-164
+| Deck=The Xbox 360 Memory Unit offers a more portable option for transporting Xbox Live profiles, saved data, and games from one console to another.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396490-0016322055-41AD2.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396490-0016322055-41AD2.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_medium,square_small,scale_small,square_mini,square_tiny,scale_super,scale_medium,scale_large,scale_avatar,screen_kubrick,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;
+The Xbox 360 Memory Unit offers a more portable option for transporting Xbox Live profiles, saved data, and games from one console to another.</text>
+      <sha1>m2uptkvzu5h3t5w0pf5qrscfx46arfb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Xbox 360 Play And Charge Kit</title>
+    <ns>0</ns>
+    <id>430</id>
+    <revision>
+      <id>722324</id>
+      <parentid>617518</parentid>
+      <timestamp>2026-02-14T19:58:47Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722324</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="647" sha1="i0eyvgn8iezmq6pfufg24bxat5b2j5r" xml:space="preserve">{{Accessory
+| Name=Xbox 360 Play &amp; Charge Kit
+| Guid=3000-165
+| Deck=The official controller charging device designed by Microsoft for the Xbox 360.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396544-6968317740-image.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396544-6968317740-image.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_super,scale_small,scale_medium,square_medium,square_tiny,scale_avatar,square_mini,screen_kubrick,scale_large,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;
+The official controller charging device designed by Microsoft for the Xbox 360.</text>
+      <sha1>i0eyvgn8iezmq6pfufg24bxat5b2j5r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Xbox 360 S Hard Drive</title>
+    <ns>0</ns>
+    <id>425</id>
+    <revision>
+      <id>722318</id>
+      <parentid>617513</parentid>
+      <timestamp>2026-02-14T19:58:46Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722318</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="875" sha1="9qhphetkhx8j1b0lxodho65sv6pf9ss" xml:space="preserve">{{Accessory
+| Name=Xbox 360 S Hard Drive
+| Guid=3000-159
+| Deck=In June 2010, Microsoft released a remodeled version of the console known as the Xbox 360 S with a 250 GB hard drive. Special edition versions of the Xbox 360 S included a 320 GB hard drive.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396287-6398461205-1920p.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396287-6398461205-1920p.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_medium,scale_super,scale_medium,square_small,scale_small,scale_tiny,square_mini,square_tiny,scale_avatar,scale_large,screen_medium,screen_kubrick,square_avatar","caption":null},"background":[]}' /&gt;
+In June 2010, Microsoft released a remodeled version of the console known as the Xbox 360 S with a 250 GB hard drive. Special edition versions of the Xbox 360 S included a 320 GB hard drive.</text>
+      <sha1>9qhphetkhx8j1b0lxodho65sv6pf9ss</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Xbox 360 Wireless Networking Adapter</title>
+    <ns>0</ns>
+    <id>431</id>
+    <revision>
+      <id>722325</id>
+      <parentid>617519</parentid>
+      <timestamp>2026-02-14T19:58:48Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722325</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="853" sha1="neknqa66wlutxgai0ef7phmsbkcbqqk" xml:space="preserve">{{Accessory
+| Name=Xbox 360 Wireless Networking Adapter
+| Guid=3000-166
+| Deck=The original model of the Xbox 360 did not feature built-in wifi. This official adapter was made available originally in 802.11 A/B/G (white) and then later in 802.11 N (black).
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396552-9670879590-4178J.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396552-9670879590-4178J.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_small,scale_super,square_mini,square_medium,scale_medium,scale_avatar,scale_large,screen_kubrick,square_avatar,screen_medium,square_tiny","caption":null},"background":[]}' /&gt;
+The original model of the Xbox 360 did not feature built-in wifi. This official adapter was made available originally in 802.11 A/B/G (white) and then later in 802.11 N (black).</text>
+      <sha1>neknqa66wlutxgai0ef7phmsbkcbqqk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Xbox Adaptive Controller</title>
+    <ns>0</ns>
+    <id>374</id>
+    <revision>
+      <id>722263</id>
+      <parentid>617463</parentid>
+      <timestamp>2026-02-14T19:58:29Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722263</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1088" sha1="axqvss2e3eybj7rkixan7kzmx32kcgo" xml:space="preserve">{{Accessory
+| Name=Xbox Adaptive Controller 
+| Guid=3000-106
+| Deck=A special Xbox One controller designed for gamers with physical disabilities.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/7690/3022583-adptvcntlr_anl_tlt_alt_rgb-5afc6066b891e-960x640.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3022583-adptvcntlr_anl_tlt_alt_rgb-5afc6066b891e-960x640.jpg","path":"0\/7690\/","mime":"image\/jpeg","sizes":"scale_super,square_medium,square_small,scale_small,scale_medium,square_tiny,scale_tiny,square_mini,scale_large,screen_kubrick,scale_avatar,screen_medium,square_avatar","caption":""},"background":[]}' /&gt;
+The Xbox Adaptive Controller is a hub with ports for each regular Xbox controller input, allowing users to configure individual devices to be used to represent the complete array of control functionality however they want. The hub includes 19 3.5mm ports and 2 USB 2.0 ports for external devices. There is also one 3.5mm stereo headset jack for audio. It can be connected to Xbox One consoles and Windows 10 PCs using Bluetooth and USB-C connections.</text>
+      <sha1>axqvss2e3eybj7rkixan7kzmx32kcgo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Xbox Controller</title>
+    <ns>0</ns>
+    <id>417</id>
+    <revision>
+      <id>722308</id>
+      <parentid>617505</parentid>
+      <timestamp>2026-02-14T19:58:43Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722308</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="800" sha1="ljrq3nkz4hpphuxyvq75bfs6n5qesgw" xml:space="preserve">{{Accessory
+| Name=Xbox Controller
+| Guid=3000-151
+| Deck=The original controller designed by Microsoft for use with the Xbox. Becoming known as "The Duke", its size was heavily criticized and was replaced a year later.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396077-4201006552-1920p.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396077-4201006552-1920p.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_medium,square_small,scale_super,square_tiny,square_medium,scale_small,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;
+The original controller designed by Microsoft for use with the Xbox. Becoming known as "The Duke", its size was heavily criticized and was replaced a year later.</text>
+      <sha1>ljrq3nkz4hpphuxyvq75bfs6n5qesgw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Xbox Controller S</title>
+    <ns>0</ns>
+    <id>418</id>
+    <revision>
+      <id>722310</id>
+      <parentid>617506</parentid>
+      <timestamp>2026-02-14T19:58:44Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722310</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="798" sha1="pik1zngdx6iny0zsd0682s5hcdqceuf" xml:space="preserve">{{Accessory
+| Name=Xbox Controller S
+| Guid=3000-152
+| Deck=Responding to complaints about the size of the original Xbox controller, Microsoft released the Controller S in 2002 and began packaging with all new consoles.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396083-5160491431-1920p.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396083-5160491431-1920p.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_medium,square_small,scale_super,scale_medium,square_tiny,scale_small,square_mini,scale_avatar,scale_large,screen_medium,screen_kubrick,square_avatar","caption":null},"background":[]}' /&gt;
+Responding to complaints about the size of the original Xbox controller, Microsoft released the Controller S in 2002 and began packaging with all new consoles.</text>
+      <sha1>pik1zngdx6iny0zsd0682s5hcdqceuf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Xbox Elite Wireless Controller</title>
+    <ns>0</ns>
+    <id>358</id>
+    <revision>
+      <id>722248</id>
+      <parentid>617448</parentid>
+      <timestamp>2026-02-14T19:58:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722248</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="709" sha1="fss35reflwqs6ha2hxovcez51jqtp8a" xml:space="preserve">{{Accessory
+| Name=Xbox Elite Wireless Controller
+| Guid=3000-87
+| Deck=Microsoft's pro-level controller featuring interchangeable back paddles, D-pad and thumbsticks, as well as hair trigger locks. The controller will allow for button-mapping using a custom-made app on both Xbox One and Windows 10.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/18/187968/2773038-capture.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2773038-capture.png","path":"18\/187968\/","mime":"image\/png","sizes":"scale_small,scale_super,square_small,square_mini,square_avatar,square_medium,screen_medium,scale_avatar,square_tiny,scale_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+ </text>
+      <sha1>fss35reflwqs6ha2hxovcez51jqtp8a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Xbox Live Vision</title>
+    <ns>0</ns>
+    <id>300</id>
+    <revision>
+      <id>722193</id>
+      <parentid>617394</parentid>
+      <timestamp>2026-02-14T19:58:08Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722193</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3999" sha1="f5j5r7oclzgjoh9v6dlqgtp5eaus2b7" xml:space="preserve">{{Accessory
+| Name=Xbox Live Vision
+| Guid=3000-28
+| Deck=The Xbox Live Vision is a USB-based camera designed for use with the Xbox 360.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/495/907373-simvision002.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"907373-simvision002.jpg","path":"0\/495\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+The [[Concepts/Xbox_Live|Xbox Live]] Vision camera was announced at E3 2006, and released in [[Locations/North_America|North America]] on September 19, 2006. They were sold exclusively at Toys 'R' Us in New York City and Los Angeles for one month prior to the official launch as a publicity stunt to build up hype.
+It can be used for video chat, delivering 640x480 video over VGA at 30 frames per second, and is capable of taking still pictures at 1.3 megapixels, namely gamer pictures. It is also used in select games for face-mapping in character creation modes, such as [[Games/Tom_Clancys_Rainbow_Six_Vegas|Tom Clancy's Rainbow Six: Vegas]], and ''[[Games/Viva_Pinata_Trouble_in_Paradise|Viva Pinata: Trouble in Paradise]] ''includes a feature in which you can scan cards to import pinatas and items into your garden.
+The Live Vision is also compatible with Windows XP Service Pack 2, as well as Mac OS X 10.4.9.
+
+==List of Compatible Games==
+
+===Video Chat===
+* [[Games/Battlezone_2008|Battlezone]]
+* [[Games/Band_of_Bugs|Band of Bugs]]
+* [[Games/Bankshot_Billiards_2|Bankshot Billiards 2]]
+* [[Games/Bomberman_Live|Bomberman Live]]
+* [[Games/Carcassonne|Carcassone]]
+* [[Games/Chessmaster_Live|Chessmaster Live]]
+* [[Games/Sid_Meiers_Civilization_Revolution|Civilization Revolution]]
+* [[Games/Command_And_Conquer_3_Tiberium_Wars|Command andamp;amp;amp; Conquer 3: Tiberium Wars]]
+* [[Games/Domino_Master|Domino Master]]
+* [[Games/Duke_Nukem_3D|Duke Nukem 3D]]
+* [[Games/Gin_Rummy|Gin Rummy]]
+* [[Games/Hardwood_Backgammon|Hardwood Backgammon]]
+* [[Games/Hardwood_Hearts|Hardwood Hearts]]
+* [[Games/Hardwood_Spades|Hardwood Spades]]
+* [[Games/Lost_Cities|Lost Cities]]
+* Magic the Gathering: Duels of the Planeswalker
+* [[Games/Pinball_FX|Pinball FX]]
+* [[Games/Rocky_And_Bullwinkle|Rocky andamp;amp;amp; Bullwinkle]]
+* [[Games/Soltrio_Solitaire|Soltrio Solitaire]]
+* [[Games/Spyglass_Board_Games|Spyglass Board Games]]
+* [[Games/Texas_Hold_em|Texas Hold'em]]
+* [[Games/Ticket_to_Ride|Ticket to Ride]]
+* [[Games/Uno|UNO]]
+* [[Games/UNO_Rush|UNO Rush]]
+* [[Games/Vigilante_8_Arcade|Vigilante 8 Arcade]]
+* [[Games/Warlords|Warlords]]
+* [[Games/Wits_and_Wagers|Wits andamp;amp;amp; Wagers]]
+* [[Games/Word_Puzzle|Word Puzzle]]
+
+===Gesture-Based Controller===
+* [[Games/Pinball_FX|Pinball FX]]
+* [[Games/TotemBall|TotemBall]]
+* [[Games/Youre_In_the_Movies|You're in the Movies]]
+* [[Games/Rayman_Raving_Rabbids|Rayman Raving Rabbids]]
+
+===Face Mapping===
+* ''''[[Games/FaceBreaker|FaceBreaker]]
+* [[Games/Fight_Night_Round_4|Fight Night Round 4]]
+* [[Football Manager 2007|Football Manager 2007]]
+* [[Games/Pro_Evolution_Soccer_2008|Pro Evolution Soccer 2008]]
+* [[Games/Pro_Evolution_Soccer_2009|Pro Evolution Soccer 2009]]
+* [[Games/Tiger_Woods_PGA_Tour_08|Tiger Woods PGA Tour 08]]
+* [[Games/Tiger_Woods_PGA_Tour_09|Tiger Woods PGA Tour 09]]
+* [[Games/Tiger_Woods_PGA_Tour_10|Tiger Woods PGA Tour 10]]
+* [[Games/Tom_Clancys_Rainbow_Six_Vegas|Tom Clancy's Rainbow Six: Vegas]]
+* [[Games/Tom_Clancys_Rainbow_Six_Vegas_2|Tom Clancy's Rainbow Six: Vegas 2]]
+* [[Games/World_Series_of_Poker_2008_Battle_for_the_Bracelets|World Series of Poker 2008: Battle for the Bracelets]]
+* [[Games/World_Series_of_Poker_Tournament_of_Champions|World Series of Poker: Tournament of Champions]]
+
+===Photography===
+* [[Games/Burnout_Paradise|Burnout Paradise]]
+
+===Card Scanning===
+* [[Games/Viva_Pinata_Trouble_in_Paradise|Viva Pinata: Trouble in Paradise]]</text>
+      <sha1>f5j5r7oclzgjoh9v6dlqgtp5eaus2b7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Xbox One Controller</title>
+    <ns>0</ns>
+    <id>447</id>
+    <revision>
+      <id>722345</id>
+      <parentid>617535</parentid>
+      <timestamp>2026-02-14T19:58:53Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722345</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="608" sha1="9emk0c4r1dwhyhn4ddpdcvrowk3f6s6" xml:space="preserve">{{Accessory
+| Name=Xbox One Controller
+| Guid=3000-182
+| Deck=The official controller designed by Microsoft for the Xbox One.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396712-6818844888-41LO2.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396712-6818844888-41LO2.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_super,scale_small,scale_medium,square_mini,square_medium,square_tiny,screen_medium,screen_kubrick,scale_large,scale_avatar,square_avatar","caption":null},"background":[]}' /&gt;
+The official controller designed by Microsoft for the Xbox One.</text>
+      <sha1>9emk0c4r1dwhyhn4ddpdcvrowk3f6s6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Xbox Series X S Controller</title>
+    <ns>0</ns>
+    <id>451</id>
+    <revision>
+      <id>722351</id>
+      <parentid>617539</parentid>
+      <timestamp>2026-02-14T19:58:54Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722351</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="647" sha1="251gynnm34makgz4d5yu1bsxhrze97n" xml:space="preserve">{{Accessory
+| Name=Xbox Series X|S Controller
+| Guid=3000-186
+| Deck=The official controller designed by Microsoft for the Xbox Series X|S consoles.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396770-4134047384-83990.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396770-4134047384-83990.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_small,scale_medium,scale_super,square_tiny,square_medium,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;
+The official controller designed by Microsoft for the Xbox Series X|S consoles.</text>
+      <sha1>251gynnm34makgz4d5yu1bsxhrze97n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/neGcon</title>
+    <ns>0</ns>
+    <id>305</id>
+    <revision>
+      <id>722198</id>
+      <parentid>617399</parentid>
+      <timestamp>2026-02-14T19:58:10Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722198</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2635" sha1="5c4nnxwv8vv7eiqj1ay7e92u8ji7ngt" xml:space="preserve">{{Accessory
+| Name=neGcon
+| Guid=3000-33
+| Deck=The Namco neGcon is an analog steering controller that allows each half to be twisted. Released for the PlayStation, it was also compatible with a limited number of PlayStation 2 releases.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/56/678882-namco_negcon_centred.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"678882-namco_negcon_centred.jpg","path":"0\/56\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,scale_small,screen_medium,scale_large,scale_avatar,square_mini,scale_medium,square_tiny,square_medium,scale_super,scale_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+The NeGcon (pronounced "Neh-Gee-Con") is a third-party controller manufactured by Namco in 1995 for the [[Platforms/PlayStation|Sony Playstation]]. This unique controller consisted of two halves connected by a swivel joint. Each half could be twisted relative to the other. This twisting motion registered as a directional command and served as a replacement for the analog sticks featured on Sony's DualShock controller. The goal of the NeGcon was to afford racing game enthusiasts precision steering controls.
+In addition to swivel controls, the NeGcon also featured a unique button layout. The R2, L2 and select buttons are not present on the NeGcon. The lack of R2 and L2 was likely due to many popular racing games on the Playstation mapping acceleration and brake to face buttons instead of shoulder buttons. Buttons required a larger than average travel distance before being activated. Namco intended for the NeGcon to be held in a similar fashion to that of a steering wheel. You could hold the NeGcon with your fingers forming a fist, while your thumbs hovered over the face of the controller.
+Use of the NeGcon was supported by many racing games such as [[Franchises/Gran_Turismo|Gran Turismo]], [[Games/Destruction_Derby|Destruction Derby]], the [[Franchises/Ridge_Racer|Ridge Racer series]] and the [[Franchises/WipEout|WipeOut series]]. Though the controller was intended solely for use with the Playstation, some [[Platforms/PlayStation_2|Playstation 2]] games such as [[Games/WipEout_Fusion|WipeOut Fusion]] and [[Games/Ridge_Racer_V|Ridge Racer V]] also featured support. The[[Franchises/Ace_Combat|Ace Combat series]] is one of the very few examples of non-racing games that allow the use of the NeGcon.
+The NeGcon saw very little success in the third-party controller market, presumably due to limited compatibility and odd design. However, the device still holds some monetary value due to its rarity and hobbyist/collectors interest.</text>
+      <sha1>5c4nnxwv8vv7eiqj1ay7e92u8ji7ngt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/A.J.</title>
+    <ns>0</ns>
+    <id>464590</id>
+    <revision>
+      <id>993095</id>
+      <parentid>740607</parentid>
+      <timestamp>2026-07-19T00:05:38Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>993095</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2331" sha1="2n7i8bp96pwvt7icqc4z674tb7zcc58" xml:space="preserve">{{Character
+| Name=A.J.
+| Guid=3005-37443
+| Deck=Timmy Turner's best friend who attends Dimmsdale School with him.
+| Gender=Male
+| Concepts=Concepts/Gadgets,Concepts/Genius_Level_Intellect,Concepts/Inventor,Concepts/Kid_Friendly,Concepts/Licensed_Game,Concepts/Rich_Snob,Concepts/Voice_Acting
+| Enemies=Characters/Crocker,Characters/Francis_37477,Characters/Vicky_the_Babysitter
+| Franchises=
+| Friends=Characters/Chester_37444,Characters/Timmy_Turner
+| Games=Games/Fairly_OddParents_Breakin_Da_Rules,Games/Nicktoons_Basketball
+| Locations=Locations/California,Locations/Dimmsdale,Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Book,Objects/Paper,Objects/Pencil
+| Image=https://www.giantbomb.com/a/uploads/original/34/346797/3047145-a.j..png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3047145-a.j..png","path":"34\/346797\/","mime":"image\/png","sizes":"square_medium,scale_super,square_tiny,scale_tiny,square_small,scale_medium,scale_small,square_mini,square_avatar,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A.J. is one of [https://www.giantbomb.com/timmy-turner/3005-7875 Timmy's] circle of friends along with [https://www.giantbomb.com/chester/3005-37444 Chester] and Elmer as they all attend at Dimmsdale School with him and he is the brains of all Timmy's friends.
+
+Unlike Timmy, A.J. is a academic and a straight A student who's good with every subject and won some science awards as he is considered Crocker's favourite student by giving him A's on his reports while he is manipulate with other students by giving F's, despite of that he is considered to be his enemy along his friend [https://www.giantbomb.com/timmy-turner/3005-7875 Timmy] as Crocker is a easy target for him.
+
+Despite of being not popular at school, A.J. comes from a wealthy family while his parents are rich by living in a mansion and earn good fortunes while in some episodes A.J. is a gadgeteer genius for his inventions and even [https://www.giantbomb.com/timmy-turner/3005-7875 Timmy] was at his house for dinner after the main course is to read books at the table to gain their smarts.
+
+ 
+
+First Appearance: The Big Problem
+
+ 
+
+He appeared in the game in: [https://www.giantbomb.com/fairly-oddparents-breakin-da-rules/3030-9057 Fairly OddParents: Breakin' Da Rules]</text>
+      <sha1>2n7i8bp96pwvt7icqc4z674tb7zcc58</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Abbie Carmichael</title>
+    <ns>0</ns>
+    <id>58059</id>
+    <revision>
+      <id>722155</id>
+      <parentid>722153</parentid>
+      <timestamp>2026-02-14T19:41:40Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722155</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1073" sha1="o1hlauhh3jp7g2yi689agffsue7o5ls" xml:space="preserve">{{Character
+| Name=Abbie Carmichael
+| Guid=3005-58842
+| Deck=Abigail "Abbie" Carmichael was an Assistant District Attorney from 1994 to 2001. From 1998 to 2001, she worked in the Manhattan District Attorney's Office as Jack McCoy's assistant.
+| Concepts=Concepts/Character_Models_Based_on_Actual_People,Concepts/Lawyer
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Law_And_Order_Legacies
+| Locations=Locations/Manhattan,Locations/Texas
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3830272-6260359738-images.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3830272-6260359738-images.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,square_medium,square_small,square_avatar,scale_medium,square_tiny,screen_medium,scale_large,screen_kubrick,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;
+Abigail "Abbie" Carmichael was an Assistant District Attorney from 1994 to 2001. From 1998 to 2001, she worked in the Manhattan District Attorney's Office as Jack McCoy's assistant.</text>
+      <sha1>o1hlauhh3jp7g2yi689agffsue7o5ls</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Abby Popov</title>
+    <ns>0</ns>
+    <id>57800</id>
+    <revision>
+      <id>57916</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57916</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="232" sha1="m4qgefi49xifpag2xoppuplztihina4" xml:space="preserve">{{Character
+| Name=Abby Popov
+| Guid=3005-58582
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/River_City_Ransom
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>m4qgefi49xifpag2xoppuplztihina4</sha1>
+    </revision>
+  </page>
+</mediawiki>

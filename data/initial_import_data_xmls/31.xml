@@ -1,0 +1,1687 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Concepts/Pittsburgh Panthers</title>
+    <ns>0</ns>
+    <id>95646</id>
+    <revision>
+      <id>587743</id>
+      <parentid>487655</parentid>
+      <timestamp>2026-02-08T07:13:06Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587743</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="944" sha1="cojha8ba78qzvctwfoh2547zvvpciyr" xml:space="preserve">{{Concept
+| Name=Pittsburgh Panthers
+| Guid=3015-13193
+| Deck=The Panhthers are the University of Pittsburgh's athletics teams.
+| Characters=Characters/Dan_Marino
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Basketball_10,Games/NCAA_Football_2002
+| Locations=Locations/Pennsylvania,Locations/Pittsburgh,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3604922-4464831686-i.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3604922-4464831686-i.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_small,square_medium,square_avatar,square_tiny,scale_super,scale_tiny,scale_small,scale_medium,screen_kubrick,scale_large,scale_avatar,square_mini,screen_medium","caption":null},"background":[]}' /&gt;
+The Panhthers are the University of Pittsburgh's athletics teams.</text>
+      <sha1>cojha8ba78qzvctwfoh2547zvvpciyr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Plasma Droid</title>
+    <ns>0</ns>
+    <id>96079</id>
+    <revision>
+      <id>96214</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96214</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="970" sha1="a1haezgzh5a2bgnibslxu666sai8vr8" xml:space="preserve">{{Concept
+| Name=Plasma Droid
+| Guid=3015-13640
+| Deck=The plasma battle droid was a gargantuan, 12-foot version of the standard B1-series battle droid used by the Trade Federation. They fired lightning-like plasma blasts that were powerful enough to overwhelm even a Jedi lightsaber. They were designed to disrupt enemy infrastructure, and as a result were poorly-defended.
+| Characters=
+| Concepts=Concepts/Battle_Droids,Concepts/Droids,Concepts/Trade_Federation
+| Franchises=
+| Games=Games/Star_Wars_Episode_I_Jedi_Power_Battles
+| Locations=Locations/Naboo,Locations/Theed
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Plasma battle droids appear in the 2000 video game ''Star Wars: Episode I Jedi Power Battles''. Their appearance in a mission contradicts ''Star Wars'': Episode I ''The Phantom Menace''. In the game, the Jedi face two plasma battle droids, whereas in the film they face a contingent of battle droids.
+ 
+</text>
+      <sha1>a1haezgzh5a2bgnibslxu666sai8vr8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Play by Email</title>
+    <ns>0</ns>
+    <id>95863</id>
+    <revision>
+      <id>95997</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>95997</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1542" sha1="8d8vz63l0g45lkak4zmfxymeowgalor" xml:space="preserve">{{Concept
+| Name=Play-by-Email
+| Guid=3015-13415
+| Deck=A correspondence-based multiplayer option in several turn-based computer games throughout the 1990's and 2000's, which makes use of electronic mail systems.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Advanced_Civilization,Games/Empire_Wargame_of_the_Century
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+
+==Overview==
+Play-by-email ("PBeM") is a [[Concepts/Asynchronous_Multiplayer|correspondence-based multiplayer]] option in certain turn-based computer games throughout the 1990's and 2000's that make direct use of electronic mail systems. Unlike most modern types of correspondence-based multiplayer, PBeM does not rely on a centralized web service (which can render the multiplayer unusable in the event the service goes offline or becomes discontinued).
+While players can manually coordinate in many [[Concepts/Hotseat|hotseat]]-based games by sending and receiving game saves as email attachments, games with dedicated PBeM modes go a step further by coordinating and moderating it from within the games themselves. In addition, certain games have special PBeM functionality, such as [[Games/Advanced_Civilization|Advanced Civilization]] having each player submit their turn to the host player in a way so that everybody's turn is resolved simultaneously.
+The name can also refer to using email in traditional pen-and-paper/board [https://en.wikipedia.org/wiki/Play-by-mail_game "play-by-mail"] ("PBM") games.
+</text>
+      <sha1>8d8vz63l0g45lkak4zmfxymeowgalor</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Player 2 Character</title>
+    <ns>0</ns>
+    <id>95696</id>
+    <revision>
+      <id>587866</id>
+      <parentid>487705</parentid>
+      <timestamp>2026-02-08T07:14:03Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587866</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3466" sha1="bwt574rwc7zcv4shcqbwcoy3n4he6nk" xml:space="preserve">{{Concept
+| Name=Player 2 Character
+| Guid=3015-13243
+| Deck=In games where the characters are locked to the player's order number, this character is always the second player's character in at least one game.
+| Characters=Characters/Agent_G,Characters/Amy_Rose,Characters/Aran_Ryan,Characters/Bald_Bull,Characters/Bandana_Waddle_Dee,Characters/Bass,Characters/Bear_Hugger,Characters/Bob,Characters/Bob_Charlie,Characters/Dragon_Chan,Characters/E_123_Omega,Characters/Espio_the_Chameleon,Characters/Gabby_Jay,Characters/Gunstar_Blue,Characters/Hoy_Quarlow,Characters/Jake_55679,Characters/Jimmy_Lee,Characters/Keeby,Characters/Keike_Kagero,Characters/Ken_Masters,Characters/Kevin_Walker,Characters/Knuckles,Characters/Lance_Bean,Characters/Lepus,Characters/Little_Mac,Characters/Luigi,Characters/Mad_Clown,Characters/Maria_Robotnik,Characters/Masked_Muscle,Characters/Mobo,Characters/Mr_Sandman,Characters/Mugman,Characters/Narcis_Prince,Characters/Nick_Bruiser,Characters/P_Body,Characters/Piston_Hurricane,Characters/RC011,Characters/Rick_Bruiser,Characters/Rouge_The_Bat,Characters/Rubby,Characters/Sonic_the_Hedgehog,Characters/Super_Macho_Man,Characters/Tails,Characters/Tarma_Roving,Characters/Tiat,Characters/Tiat_Young,Characters/TonTon,Characters/Two_P,Characters/Upa_Upa,Characters/Vector_the_Crocodile,Characters/Zowie_Scott
+| Concepts=Concepts/Palette_Swap,Concepts/Player_Character,Concepts/Twins
+| Franchises=
+| Games=Games/Bonanza_Bros,Games/Bubble_Bobble,Games/Bubble_Bobble_Part_2,Games/Castle_of_Dragon,Games/Contra,Games/Contra_III_The_Alien_Wars,Games/Cuphead,Games/Double_Dragon,Games/Double_Dragon_1987,Games/Double_Dragon_II_The_Revenge,Games/Double_Dragon_III_The_Sacred_Stones,Games/Double_Dragon_Neon,Games/Double_Dragon_Trilogy,Games/Forgotten_Worlds,Games/Gang_Busters,Games/Gradius_Origins,Games/Gunstar_Heroes,Games/Justice_Ninja_Casey,Games/Kirbys_Dream_Course,Games/Legendary_Wings,Games/Life_Force,Games/Little_Ninja_Brothers,Games/Mario_Bros,Games/Mega_Man_7,Games/Metal_Slug_Super_Vehicle_001,Games/Portal_2,Games/Punch_Out,Games/Puzzle_And_Action_Ichidant_R,Games/Puzzle_And_Action_Tant_R,Games/Puzzle_And_Action_Treasure_Hunt,Games/Rabbit_Punch,Games/Rainbow_Islands,Games/Resistance_3,Games/Sagaia,Games/Salamander_Deluxe_Pack_Plus,Games/Salamander_Portable,Games/SEGA_AGES_2500_Vol_25_Gunstar_Heroes_Treasure_Box,Games/SEGA_AGES_2500_Vol_6_Puzzle_And_Action_Bonanza_Bros,Games/Sega_Ages_Puzzle_And_Action_Shukudai_ga_Tant_R,Games/Sega_Classics_Collection,Games/Shadow_the_Hedgehog,Games/Sonic_the_Hedgehog_2,Games/Street_Fighter,Games/Super_Mario_All_Stars,Games/Super_Mario_All_Stars_And_Super_Mario_World,Games/Super_Mario_Bros,Games/Super_Mario_Bros_3,Games/Super_Mario_World,Games/Super_Punch_Out,Games/The_Lara_Croft_Collection,Games/Wrecking_Crew
+| Locations=
+| Objects=Objects/Lord_British,Objects/Raiden_mk_IIb,Objects/Thrasher
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3605010-2371575479-800px.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3605010-2371575479-800px.png","path":"16\/164924\/","mime":"image\/png","sizes":"square_avatar,square_medium,square_small,scale_small,scale_medium,scale_super,square_mini,scale_tiny,screen_medium,screen_kubrick,scale_avatar,scale_large,square_tiny","caption":null},"background":[]}' /&gt;
+In games where the characters are locked to the player's order number, this character is always the second player's character in at least one game.</text>
+      <sha1>bwt574rwc7zcv4shcqbwcoy3n4he6nk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Playtime Co</title>
+    <ns>0</ns>
+    <id>95861</id>
+    <revision>
+      <id>95995</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>95995</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="874" sha1="60gzi8ajawuh6gkmxrlwgenzo3jd7lb" xml:space="preserve">{{Concept
+| Name=Playtime Co
+| Guid=3015-13413
+| Deck=The toy company form the Playtime saga. Respoinble for the creations of many toys.
+| Characters=Characters/Doey_The_Doughman,Characters/Eddie_M_N_Ritterman,Characters/Elliot_Ludwig,Characters/Harley_Sawyer,Characters/Huggy_Wuggy,Characters/Leith_Pierre,Characters/Poppy_Playtime,Characters/Stella_Greyber,Characters/The_Intruder
+| Concepts=Concepts/Resource_Extraction_Specialists
+| Franchises=Franchises/Playtime
+| Games=Games/Dark_Deception_Monsters_And_Mortals,Games/Poppy_Playtime,Games/Poppy_Playtime_Chapter_2,Games/Poppy_Playtime_Chapter_3,Games/Poppy_Playtime_Chapter_4,Games/Poppy_Playtime_Triple_Pack,Games/Project_Playtime
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The toy company form the Playtime saga. Respoinble for the creations of many toys.</text>
+      <sha1>60gzi8ajawuh6gkmxrlwgenzo3jd7lb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Plesiosaurus</title>
+    <ns>0</ns>
+    <id>95806</id>
+    <revision>
+      <id>588116</id>
+      <parentid>487788</parentid>
+      <timestamp>2026-02-08T07:16:03Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588116</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="949" sha1="ltstsxpck8708tccmsemvt3xarbe5mc" xml:space="preserve">{{Concept
+| Name=Plesiosaurus
+| Guid=3015-13357
+| Deck=An extinct species of marine reptile with a long neck.
+| Characters=Characters/Loch_Ness_Monster
+| Concepts=Concepts/Dinosaur
+| Franchises=
+| Games=Games/Ape_Escape,Games/Banjo_Tooie,Games/Dead_or_Alive_4,Games/Dino_Crisis_2,Games/Dyna_Brothers,Games/Dyna_Brothers_2,Games/Omori,Games/Turok_3_Shadow_of_Oblivion,Games/Turok_Evolution
+| Locations=Locations/The_Ancient_World
+| Objects=Objects/Water
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3660031-dinocrisis21.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3660031-dinocrisis21.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"scale_small,square_medium,scale_super,scale_medium,square_small,square_tiny,square_avatar,scale_large,scale_avatar,square_mini,screen_kubrick,screen_medium,scale_tiny","caption":null},"background":[]}' /&gt;
+An extinct species of marine reptile with a long neck.</text>
+      <sha1>ltstsxpck8708tccmsemvt3xarbe5mc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Poltchageist</title>
+    <ns>0</ns>
+    <id>96025</id>
+    <revision>
+      <id>588537</id>
+      <parentid>487956</parentid>
+      <timestamp>2026-02-08T07:19:28Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588537</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="596" sha1="gqsfg90lcu9alyljl7owoimayae7i7a" xml:space="preserve">{{Concept
+| Name=Poltchageist
+| Guid=3015-13582
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777907-1280px-1012poltchageist.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777907-1280px-1012poltchageist.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,scale_small,square_tiny,square_mini,square_avatar,scale_large,screen_medium,screen_kubrick,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>gqsfg90lcu9alyljl7owoimayae7i7a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Pony Express</title>
+    <ns>0</ns>
+    <id>95798</id>
+    <revision>
+      <id>95932</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>95932</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="219" sha1="kfft2rhec9jmpxzvfnye7gxhqa98lne" xml:space="preserve">{{Concept
+| Name=Pony Express
+| Guid=3015-13349
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Mouthwashing
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>kfft2rhec9jmpxzvfnye7gxhqa98lne</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Pressing the Switch Remotely</title>
+    <ns>0</ns>
+    <id>95896</id>
+    <revision>
+      <id>999966</id>
+      <parentid>588295</parentid>
+      <timestamp>2026-07-19T08:42:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>999966</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2341" sha1="7oulcgcuzug2hcuuunxzisz8ihnjv0x" xml:space="preserve">{{Concept
+| Name=Pressing the Switch Remotely
+| Guid=3015-13448
+| Deck=If the game allows, intended or optional, to influence the buttons and levers, not only by pressing them in close proximity with your hand/sword, but also by firing weapons at them, controlling them with magic or throwing objects at them from afar
+| Characters=
+| Concepts=Concepts/Item_Throw,Concepts/Telekinesis,Concepts/Trap
+| Franchises=
+| Games=Games/Alundra,Games/Ape_Escape,Games/Blade_of_Darkness,Games/Chasm_The_Rift,Games/Condemned_2_Bloodshot,Games/Conkers_Bad_Fur_Day,Games/Dark_Savior,Games/Darksiders_Genesis,Games/Darksiders_II,Games/Descent_II,Games/Forsaken,Games/James_Bond_Casino_Royale,Games/Lara_Croft_and_the_Guardian_of_Light,Games/Legend_of_Grimrock,Games/Legend_of_Grimrock_2,Games/The_Chronicles_of_Riddick_Assault_on_Dark_Athena,Games/The_Lara_Croft_Collection,Games/The_Legend_of_Zelda_Majoras_Mask,Games/The_Lost_Vikings,Games/Turok_2_Seeds_of_Evil,Games/Wild_Arms_2,Games/Wild_Arms_Alter_Code_F
+| Locations=Locations/Dungeon
+| Objects=Objects/Blocks,Objects/Boomerang,Objects/Button,Objects/Gun,Objects/Pressure_Plate,Objects/Spikes,Objects/Switch,Objects/Whip
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3718109-darksavior%2820%29.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3718109-darksavior(20).jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,square_medium,square_avatar,scale_super,scale_small,scale_medium,square_mini,square_tiny,screen_medium,scale_avatar,scale_large,screen_kubrick","caption":"Dark Savior"},"background":[]}' /&gt;
+One of the interesting representatives of [[Concepts/Search_Action|action-puzzling]] and [[Concepts/Immersive_Sim|immersive sim]]. For example, we telekinesis lift a stone and lower it on a lever in the distance, so that falling, he fell, he pressed his weight on the handle and we lowered the bridge. Or provoke a chain of events, like [[Concepts/Rube_Goldberg_Puzzler|Rube Goldberg Puzzler]], at the end of which something presses a button on the wall or on the [[Objects/Pressure_Plate|floor plate]] for us. Or just shoot at such objects with a bow/firearm, throw dynamite, throw a boomerang, hook and pull with a whip, for which the player can specially allocate [[Concepts/Infinite_Ammo|infinite ammunition]] for weak weapons.</text>
+      <sha1>7oulcgcuzug2hcuuunxzisz8ihnjv0x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Preta</title>
+    <ns>0</ns>
+    <id>96049</id>
+    <revision>
+      <id>96184</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96184</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="443" sha1="mf71oixdtjnqvk7rt4yolccsl7nj4ln" xml:space="preserve">{{Concept
+| Name=Preta
+| Guid=3015-13610
+| Characters=Characters/Kusaregedo,Characters/Preta
+| Concepts=
+| Franchises=
+| Games=Games/Home_Sweet_Home_2018,Games/Samurai_Shodown_Anthology,Games/Samurai_Shodown_NeoGeo_Collection,Games/Samurai_Shodown_V,Games/Samurai_Shodown_V_Perfect,Games/Samurai_Shodown_V_Special,Games/Samurai_Shodown_VI
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>mf71oixdtjnqvk7rt4yolccsl7nj4ln</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Principal</title>
+    <ns>0</ns>
+    <id>95898</id>
+    <revision>
+      <id>96032</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96032</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="600" sha1="0q39r5dd50420556gg5z7v7o3aas80s" xml:space="preserve">{{Concept
+| Name=Principal
+| Guid=3015-13450
+| Characters=Characters/Kamine_Botan,Characters/Principal,Characters/Principal_of_the_Thing,Characters/Raizo_Imawano
+| Concepts=
+| Franchises=
+| Games=Games/Baldis_Basics_in_Education_and_Learning,Games/Battle_Girl_High_School,Games/Battle_High_2,Games/Ranma_1_2_Akanekodan_teki_Hihou,Games/Ranma_1_2_Battle_Renaissance,Games/Ranma_1_2_Hard_Battle,Games/Rival_Schools_United_by_Fate,Games/Street_Combat
+| Locations=Locations/San_Bruno_High_School,Locations/School
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>0q39r5dd50420556gg5z7v7o3aas80s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Psion</title>
+    <ns>0</ns>
+    <id>95768</id>
+    <revision>
+      <id>588071</id>
+      <parentid>487770</parentid>
+      <timestamp>2026-02-08T07:15:41Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588071</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1672" sha1="hf6d8lv664wajlqrwv8e8qrxagjrcai" xml:space="preserve">{{Concept
+| Name=Psion
+| Guid=3015-13319
+| Deck=Psions are a species of psychically-empowered beings who were conquered and enslaved by the Cabal in the hopes of weaponizing their abilities. They now primarily serve as engineers, pilots and fire support within the Cabal Legions. Those within the Calus' Shadow Legion would later be reshaped by The Witness into Attendants and Weavers in it's Dread forces.
+| Characters=
+| Concepts=Concepts/Alien,Concepts/Cabal_9935,Concepts/Enslaved_Race,Concepts/Psionics,Concepts/Psychic_Ability,Concepts/Red_Legion,Concepts/Shadow_Legion,Concepts/The_Dread
+| Franchises=
+| Games=Games/Destiny_2,Games/Destiny_2014
+| Locations=Locations/Earth,Locations/Europe,Locations/Io,Locations/Mars,Locations/Mercury,Locations/Neomuna,Locations/Neptune,Locations/Nessus,Locations/The_Pale_Heart
+| Objects=Objects/Cape,Objects/Helmet,Objects/Sniper_Rifle
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3644681-9256248075-Psion.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3644681-9256248075-Psion.png","path":"52\/520822\/","mime":"image\/png","sizes":"square_medium,square_small,square_avatar,scale_medium,scale_small,scale_super,square_tiny,square_mini,screen_kubrick,scale_avatar,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Psions are a species of psychically-empowered beings who were conquered and enslaved by the Cabal in the hopes of weaponizing their abilities. They now primarily serve as engineers, pilots and fire support within the Cabal Legions. Those within the Calus' Shadow Legion would later be reshaped by The Witness into Attendants and Weavers in it's Dread forces.</text>
+      <sha1>hf6d8lv664wajlqrwv8e8qrxagjrcai</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Purdue Boilermakers</title>
+    <ns>0</ns>
+    <id>95647</id>
+    <revision>
+      <id>587745</id>
+      <parentid>487656</parentid>
+      <timestamp>2026-02-08T07:13:08Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587745</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="937" sha1="j95kp12935yb5llozit2d4axgx2lp20" xml:space="preserve">{{Concept
+| Name=Purdue Boilermakers
+| Guid=3015-13194
+| Deck=The Boilermakers are Purdue University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Basketball_10,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Indiana,Locations/The_United_States_of_America,Locations/West_Lafayette
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3604923-8860325287-purdu.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3604923-8860325287-purdu.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_small,square_medium,square_avatar,square_tiny,scale_super,scale_tiny,scale_small,square_mini,scale_avatar,screen_kubrick,scale_medium,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+The Boilermakers are Purdue University's athletics teams.</text>
+      <sha1>j95kp12935yb5llozit2d4axgx2lp20</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Quantum3</title>
+    <ns>0</ns>
+    <id>95856</id>
+    <revision>
+      <id>95990</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>95990</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="422" sha1="21pwaa1z3xxt4uir38cuww2xgb53eiq" xml:space="preserve">{{Concept
+| Name=Quantum3
+| Guid=3015-13408
+| Deck=Proprietary engine owned by High Voltage Software.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Ben_10_Protector_of_Earth,Games/Conduit_2,Games/Evasive_Space,Games/High_Voltage_Hot_Rod_Show,Games/The_Conduit
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Proprietary engine owned by High Voltage Software.</text>
+      <sha1>21pwaa1z3xxt4uir38cuww2xgb53eiq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Quaquaval</title>
+    <ns>0</ns>
+    <id>95960</id>
+    <revision>
+      <id>588389</id>
+      <parentid>487891</parentid>
+      <timestamp>2026-02-08T07:18:18Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588389</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="604" sha1="oecpb798b7naw2q36r0hn2z38hjcn2i" xml:space="preserve">{{Concept
+| Name=Quaquaval
+| Guid=3015-13517
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Go,Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777825-1280px-0914quaquaval.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777825-1280px-0914quaquaval.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,scale_small,square_tiny,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;</text>
+      <sha1>oecpb798b7naw2q36r0hn2z38hjcn2i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Quaxwell</title>
+    <ns>0</ns>
+    <id>95959</id>
+    <revision>
+      <id>588388</id>
+      <parentid>487890</parentid>
+      <timestamp>2026-02-08T07:18:17Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588388</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="601" sha1="3gg1ptslwzx1td65tp5eixsihhfbjas" xml:space="preserve">{{Concept
+| Name=Quaxwell
+| Guid=3015-13516
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Go,Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777824-1280px-0913quaxwell.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777824-1280px-0913quaxwell.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,scale_small,square_tiny,screen_medium,screen_kubrick,scale_large,square_mini,square_avatar,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>3gg1ptslwzx1td65tp5eixsihhfbjas</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Rabsca</title>
+    <ns>0</ns>
+    <id>95975</id>
+    <revision>
+      <id>588424</id>
+      <parentid>487906</parentid>
+      <timestamp>2026-02-08T07:18:34Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588424</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="564" sha1="e1iyhb0kp8jl7l81rgvz2akgm6aol7z" xml:space="preserve">{{Concept
+| Name=Rabsca
+| Guid=3015-13532
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777843-0954rabsca.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777843-0954rabsca.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_small,square_tiny,scale_super,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>e1iyhb0kp8jl7l81rgvz2akgm6aol7z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Raging Bolt</title>
+    <ns>0</ns>
+    <id>96031</id>
+    <revision>
+      <id>588552</id>
+      <parentid>487962</parentid>
+      <timestamp>2026-02-08T07:19:34Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588552</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="593" sha1="otikuvfffmqhjigqplg1qi1gpd9c8q4" xml:space="preserve">{{Concept
+| Name=Raging Bolt
+| Guid=3015-13588
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777913-1280px-1021raging_bolt.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777913-1280px-1021raging_bolt.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,scale_small,square_tiny,square_mini,square_avatar,screen_medium,screen_kubrick,scale_avatar,scale_large","caption":null},"background":[]}' /&gt;</text>
+      <sha1>otikuvfffmqhjigqplg1qi1gpd9c8q4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Red Arremer</title>
+    <ns>0</ns>
+    <id>95732</id>
+    <revision>
+      <id>797283</id>
+      <parentid>587976</parentid>
+      <timestamp>2026-03-23T23:24:44Z</timestamp>
+      <contributor>
+        <username>Frobie</username>
+        <id>300</id>
+      </contributor>
+      <comment>fix image</comment>
+      <origin>797283</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1840" sha1="fj9l3o2crkqdsteuhu3q7db8hrmgwl3" xml:space="preserve">{{Concept
+|Guid=3015-13283
+|Name=Red Arremer
+|Image=https://www.giantbomb.com/a/uploads/original/16/164924/3628363-4101194456-latest.png
+|Deck=A tribe of demonic creatures in the Ghosts 'n Goblins series and other Capcom titles.
+|Characters=Characters/Devil_56690, Characters/Firebrand
+|Concepts=Concepts/Arremer_King, Concepts/Demon, Concepts/Flight, Concepts/Flying_Enemies, Concepts/Mini_Boss, Concepts/Recurring_Minion
+|Locations=Locations/Castle, Locations/Cave, Locations/Hell
+|Games=Games/Arthur_to_Astaroth_no_Nazo_Makimura_Incredible_Toons, Games/Black_Tiger, Games/Capcom_Arcade_2nd_Stadium, Games/Capcom_Arcade_Cabinet, Games/Capcom_Arcade_Stadium, Games/Capcom_Classics_Collection, Games/Capcom_Classics_Collection_Reloaded, Games/Capcom_Classics_Collection_Volume_2, Games/Capcom_Generations, Games/Capcom_Generations_2_Chronicles_of_Arthur, Games/Demons_Crest, Games/Gargoyles_Quest, Games/Gargoyles_Quest_II_The_Demon_Darkness, Games/Ghosts_N_Goblins, Games/Ghosts_n_Goblins_Gold_Knights, Games/Ghosts_N_Goblins_Gold_Knights_II, Games/Ghosts_n_Goblins_Resurrection, Games/Ghouls_N_Ghosts, Games/Goku_Makaimura_Kai, Games/Higemaru_Makaijima, Games/Makaimura_for_WonderSwan, Games/Makaimura_Online, Games/Namco_x_Capcom, Games/Street_Fighter_X_All_Capcom, Games/Super_Ghouls_N_Ghosts, Games/SVC_Chaos_SNK_vs_Capcom, Games/The_Capcom_Collection, Games/Ultimate_Ghosts_N_Goblins, Games/Ultimate_Marvel_vs_Capcom_3
+}}
+&lt;div id='imageData' data-json='{"infobox":{"file":"3628363-4101194456-latest.png","path":"16\/164924\/","mime":"image\/png","sizes":"square_medium,square_small,scale_super,scale_medium,scale_small,square_avatar,square_mini,square_tiny,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+A tribe of demonic creatures in the Ghosts 'n Goblins series and other Capcom titles.</text>
+      <sha1>fj9l3o2crkqdsteuhu3q7db8hrmgwl3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Red Legion</title>
+    <ns>0</ns>
+    <id>95767</id>
+    <revision>
+      <id>588066</id>
+      <parentid>487769</parentid>
+      <timestamp>2026-02-08T07:15:39Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588066</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2285" sha1="tf6p4xynsvann9w5atyui2xbiwtbm7u" xml:space="preserve">{{Concept
+| Name=Red Legion
+| Guid=3015-13318
+| Deck=The Red Legion is an elite Cabal Legion once led by Dominus Ghaul. They invaded Earth seeking to claim the Traveler as their own in a conflict called the "Red War". In the aftermath of the Red War, the Legion would fracture into splinter groups under various leaders such as Val Ca'uor, Valus Thuun and The Psion Flayer Council. Most of the remnants of the Red Legion now serve under Empress Caiatl, Ghaul's Daughter, And are now allied with Humanity and the Eliksni "House of Light" in The Coalition.
+| Characters=Characters/Dominus_Ghaul,Characters/Val_Cauor
+| Concepts=Concepts/Alien,Concepts/Alien_Invasion,Concepts/Cabal_9935,Concepts/Fleet,Concepts/Mining,Concepts/Psion,Concepts/Shielded_Enemies,Concepts/Soldier,Concepts/Super_Weapon,Concepts/Useable_Vehicles,Concepts/Weak_Spot
+| Franchises=Franchises/Destiny
+| Games=Games/Destiny_2
+| Locations=Locations/Earth,Locations/Europe,Locations/Io,Locations/Mars,Locations/Mercury,Locations/Nessus,Locations/Sun
+| Objects=Objects/Airborne_Hovercraft,Objects/Armor,Objects/Drop_Pod,Objects/Dropship,Objects/Flamethrower,Objects/Goliath_6991,Objects/Grenade,Objects/Gunship,Objects/Helmet,Objects/Interceptor,Objects/Shield,Objects/Shotgun,Objects/Space_Station,Objects/Spaceship,Objects/Tank,Objects/The_Almighty,Objects/Thresher,Objects/Turret
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3644661-0713462611-RedLe.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3644661-0713462611-RedLe.png","path":"52\/520822\/","mime":"image\/png","sizes":"square_small,square_medium,scale_small,square_avatar,scale_medium,square_tiny,scale_super,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Red Legion is an elite Cabal Legion once led by Dominus Ghaul. They invaded Earth seeking to claim the Traveler as their own in a conflict called the "Red War". In the aftermath of the Red War, the Legion would fracture into splinter groups under various leaders such as Val Ca'uor, Valus Thuun and The Psion Flayer Council. Most of the remnants of the Red Legion now serve under Empress Caiatl, Ghaul's Daughter, And are now allied with Humanity and the Eliksni "House of Light" in The Coalition.</text>
+      <sha1>tf6p4xynsvann9w5atyui2xbiwtbm7u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Reek</title>
+    <ns>0</ns>
+    <id>96083</id>
+    <revision>
+      <id>96218</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96218</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="232" sha1="ev1wrlahaftdu7wbi5ht1m8r2xqmpws" xml:space="preserve">{{Concept
+| Name=Reek
+| Guid=3015-13644
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/LEGO_Star_Wars_III_The_Clone_Wars
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ev1wrlahaftdu7wbi5ht1m8r2xqmpws</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Rellor</title>
+    <ns>0</ns>
+    <id>95974</id>
+    <revision>
+      <id>588419</id>
+      <parentid>487905</parentid>
+      <timestamp>2026-02-08T07:18:33Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588419</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="564" sha1="68xjvpwfwckxruqpi37h608jng23bvq" xml:space="preserve">{{Concept
+| Name=Rellor
+| Guid=3015-13531
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777841-0953rellor.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777841-0953rellor.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_small,scale_super,square_tiny,square_mini,screen_medium,screen_kubrick,scale_large,scale_avatar,square_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>68xjvpwfwckxruqpi37h608jng23bvq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Removed from the Epic Games Store</title>
+    <ns>0</ns>
+    <id>95937</id>
+    <revision>
+      <id>96072</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96072</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1280" sha1="33vltuqptu6g1348o2lm41cfovc5zcl" xml:space="preserve">{{Concept
+| Name=Removed from the Epic Games Store
+| Guid=3015-13494
+| Deck=Games once available on Epic's storefront, but which have been removed from sale for any number of reason.
+| Characters=
+| Concepts=Concepts/Delisted_Games,Concepts/Epic_Games_Store,Concepts/Removed_from_gog_com,Concepts/Removed_from_Steam
+| Franchises=
+| Games=Games/Beyond_Good_And_Evil,Games/Cave_Storys_Secret_Santa,Games/Concord,Games/Crayta,Games/Death_Stranding,Games/Doom,Games/Doom_II_Hell_on_Earth,Games/Evil_Dead_The_Game_2022,Games/Fuser,Games/Gran_Saga,Games/Heroes_And_Generals,Games/Hitman,Games/Hyper_Scape,Games/JYDGE,Games/Knockout_City,Games/Magic_Legends,Games/Maritime_Calling,Games/Monopoly_Plus,Games/MultiVersus,Games/Observer,Games/Rumbleverse,Games/Rune_II_Decapitation_Edition,Games/Scavengers,Games/Second_Extinction,Games/Space_Punks,Games/Spellbreak,Games/Stranger_Things_3_The_Game,Games/The_Crew,Games/The_Cycle_Frontier,Games/The_Outbound_Ghost,Games/Ticket_to_Ride,Games/Video_Horror_Society,Games/Warshmallows,Games/XDefiant,Games/Zorya_The_Celestial_Sisters
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Games once available on Epic's storefront, but which have been removed from sale for any number of reason.</text>
+      <sha1>33vltuqptu6g1348o2lm41cfovc5zcl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Renault</title>
+    <ns>0</ns>
+    <id>95777</id>
+    <revision>
+      <id>95911</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>95911</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="316" sha1="1uvrjw99u82r7rl0ogj6xruh90ngxgk" xml:space="preserve">{{Concept
+| Name=Renault
+| Guid=3015-13328
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Formula_One_2002,Games/Grand_Prix_Challenge,Games/Project_CARS_3,Games/TOCA_Race_Driver_3
+| Locations=
+| Objects=Objects/Renault_Espace_F1
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>1uvrjw99u82r7rl0ogj6xruh90ngxgk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Republic of Korea Army</title>
+    <ns>0</ns>
+    <id>95850</id>
+    <revision>
+      <id>588215</id>
+      <parentid>487822</parentid>
+      <timestamp>2026-02-08T07:16:52Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588215</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1301" sha1="hy9j6s1l3uk0nx3xlhlidcmfoiy3ylx" xml:space="preserve">{{Concept
+| Name=Republic of Korea Army
+| Guid=3015-13402
+| Deck=The Republic of Korea Army, also known as South Korean Army, is the ground-based warfare component of South Korea's armed forces.
+| Characters=Characters/Baek_Doo_San,Characters/Hwoarang
+| Concepts=Concepts/Korean_Peoples_Army,Concepts/United_States_Army
+| Franchises=
+| Games=Games/Battlefield_2042,Games/Call_of_Duty_Advanced_Warfare,Games/Mercenaries_Playground_of_Destruction,Games/Splinter_Cell_Trilogy,Games/Tekken_4,Games/Tekken_5,Games/Tom_Clancys_Splinter_Cell_Chaos_Theory
+| Locations=Locations/Korea,Locations/Military_Base,Locations/North_Korea,Locations/Seoul,Locations/South_Korea
+| Objects=Objects/Gun
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3693967-coat_of_arms_of_the_republic_of_korea_army.svg.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3693967-coat_of_arms_of_the_republic_of_korea_army.svg.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_small,square_medium,square_small,square_avatar,scale_medium,scale_super,square_tiny,screen_medium,screen_kubrick,square_mini,scale_avatar,scale_large","caption":null},"background":[]}' /&gt;
+The Republic of Korea Army, also known as South Korean Army, is the ground-based warfare component of South Korea's armed forces.</text>
+      <sha1>hy9j6s1l3uk0nx3xlhlidcmfoiy3ylx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Research Action</title>
+    <ns>0</ns>
+    <id>95935</id>
+    <revision>
+      <id>1000049</id>
+      <parentid>588342</parentid>
+      <timestamp>2026-07-19T08:55:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1000049</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2834" sha1="1etq9m5df0mg4oxcety712z6nhs3gpy" xml:space="preserve">{{Concept
+| Name=Research Action
+| Guid=3015-13492
+| Aliases=Metroidbrainia,Knowledge Game
+| Deck=A subgenre of Search Action where instead of having progress stymied by lacking a certain ability or skill it's blocked off until the player gains the knowledge needed to solve a type of puzzle, the tutorial/instructions for which might be found elsewhere. The Witness, Toki Tori, and Antichamber are all examples of Research Action.
+| Characters=
+| Concepts=Concepts/Puzzle,Concepts/Search_Action,Concepts/Tips,Concepts/Tutorial
+| Franchises=
+| Games=Games/Animal_Well,Games/Antichamber,Games/Blue_Prince,Games/Fez,Games/Full_Bore,Games/Outer_Wilds,Games/Return_of_the_Obra_Dinn,Games/The_Roottrees_are_Dead,Games/The_Witness_2016,Games/Toki_Tori_2,Games/Tunic
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_super/0/30/2818942-the%20witness_20160116102744.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2818942-the witness_20160116102744.png","path":"0\/30\/","mime":"image\/png","sizes":"square_medium,square_tiny,scale_tiny,scale_super,ignore_jpg_scale_small,scale_small,scale_kubrick,scale_large,scale_medium,ignore_jpg_scale_medium,ignore_jpg_scale_super,square_mini,scale_avatar,screen_kubrick,screen_medium,square_avatar,square_small","caption":"Screenshot from The Witness"},"background":{"file":"3765508-8708768090-Outer.jpg","path":"2\/23093\/","mime":"image\/jpeg","sizes":"scale_super,scale_medium,square_medium,square_tiny,square_small,screen_kubrick_wide,screen_kubrick,scale_tiny","caption":"Screenshot from Outer Wilds"}}' /&gt;
+
+==Overview==
+A Research Action game might present a puzzle or riddle that the player would have no clue how to parse if it's their first playthrough. Instead, they're tasked with exploring the vicinity like they might a [[Concepts/Search_Action|Search Action]] game in order to find a hint or a guide as to how to solve it. This might involve symbols that have yet to be explained or techniques that have yet to be imparted to the player, but would otherwise be something they could be capable of doing right from the outset (as in, no power-ups would need to be acquired first).
+Typically a Research Action game is built like a Search Action, potentially (but not always) with a map to consult and multiple areas to visit, and the player learns and applies information on how the game works rather than acquiring upgrades.
+The subgenre also includes logical deduction games where the player might receive a pertinent piece of information to an earlier conundrum, thus allowing them to solve that case and acquire some sort of reward that might include information for a different case. This back and forth aspect is key to the Research Action subgenre; games where cases/puzzles are solved sequentially might not necessarily qualify.</text>
+      <sha1>1etq9m5df0mg4oxcety712z6nhs3gpy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Resource Extraction Specialists</title>
+    <ns>0</ns>
+    <id>95860</id>
+    <revision>
+      <id>95994</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>95994</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="455" sha1="ebvkj3t6795keeks7rirgjveb0pfu84" xml:space="preserve">{{Concept
+| Name=Resource Extraction Specialists 
+| Guid=3015-13412
+| Deck=The Clean up crew for Playtime co.
+| Characters=Characters/Boxy_Boo,Characters/Huggy_Wuggy,Characters/Leith_Pierre
+| Concepts=Concepts/Playtime_Co
+| Franchises=Franchises/Playtime
+| Games=Games/Poppy_Playtime_Chapter_4,Games/Project_Playtime
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The Clean up crew for Playtime co.</text>
+      <sha1>ebvkj3t6795keeks7rirgjveb0pfu84</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Rice Owls</title>
+    <ns>0</ns>
+    <id>95648</id>
+    <revision>
+      <id>1000063</id>
+      <parentid>587747</parentid>
+      <timestamp>2026-07-19T08:57:49Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1000063</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1063" sha1="f8f2xsvkl01t98wh6ymf0uhlwynl0yz" xml:space="preserve">{{Concept
+| Name=Rice Owls
+| Guid=3015-13195
+| Deck=The Owls are Rice University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/MVP_06_NCAA_Baseball,Games/MVP_07_NCAA_Baseball,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Houston,Locations/Texas,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3608564-1113391620-AIdro_nOhZNNXqrp0uRnKlERA_yXF9OZN-wy-SSVQ8fQgS53oQ%3Ds900-c-k-c0x00ffffff-no-rj.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3608564-1113391620-AIdro_nOhZNNXqrp0uRnKlERA_yXF9OZN-wy-SSVQ8fQgS53oQ=s900-c-k-c0x00ffffff-no-rj.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_super,square_medium,square_mini,square_avatar,scale_large,scale_avatar,scale_small,screen_kubrick,square_tiny,screen_medium","caption":null},"background":[]}' /&gt;
+The Owls are Rice University's athletics teams.</text>
+      <sha1>f8f2xsvkl01t98wh6ymf0uhlwynl0yz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Riding in a Horse Drawn Carriage</title>
+    <ns>0</ns>
+    <id>95899</id>
+    <revision>
+      <id>797286</id>
+      <parentid>588297</parentid>
+      <timestamp>2026-03-23T23:29:21Z</timestamp>
+      <contributor>
+        <username>Frobie</username>
+        <id>300</id>
+      </contributor>
+      <comment>fix image</comment>
+      <origin>797286</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1583" sha1="i9hh0y1ey8yt80m83qfiocrcaodpr87" xml:space="preserve">{{Concept
+|Guid=3015-13451
+|Name=Riding in a Horse-Drawn Carriage
+|Image=https://www.giantbomb.com/a/uploads/original/173/1734046/3719535-8838286575-16124.png
+|Deck=Riding a Cart or Stage Coach pulled by horses or fantasy animals
+|Characters=Characters/Asterix, Characters/Aya_Brea, Characters/Morgan_Adams, Characters/Richter_Belmont, Characters/The_Prince_2623
+|Concepts=Concepts/Horse_Riding, Concepts/Horses, Concepts/Postal_Service
+|Locations=Locations/Wild_West
+|Games=Games/Asterix_and_the_Power_of_the_Gods, Games/Call_of_Juarez_Bound_in_Blood, Games/Castlevania_Requiem_Symphony_of_the_Night_And_Rondo_of_Blood, Games/Castlevania_Rondo_of_Blood, Games/Cutthroat_Island, Games/Galahad, Games/Golden_Axe_III, Games/Parasite_Eve, Games/Prince_of_Persia_The_Two_Thrones, Games/Shadow_of_Rome, Games/The_Elder_Scrolls_V_Skyrim
+|Objects=Objects/Cart, Objects/Covered_Wagon, Objects/Stage_Coach
+}}
+&lt;div id='imageData' data-json='{"infobox":{"file":"3719535-8838286575-16124.png","path":"173\/1734046\/","mime":"image\/png","sizes":"square_medium,square_small,scale_small,square_avatar,scale_medium,square_tiny,scale_super,square_mini,screen_medium,scale_large,scale_avatar,screen_kubrick","caption":"Cutthroat Island"},"background":[]}' /&gt;
+Similar to riding a horse itself, but when we are on the wagon it is pulling, like on a platform, because we cannot control the animal and only have to fend off attacks from enemies and wait for them to run out or be allowed to jump to another wagon. A popular type of level and situations in action games, especially in the western setting.</text>
+      <sha1>i9hh0y1ey8yt80m83qfiocrcaodpr87</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Roaring Moon</title>
+    <ns>0</ns>
+    <id>96020</id>
+    <revision>
+      <id>588525</id>
+      <parentid>487951</parentid>
+      <timestamp>2026-02-08T07:19:23Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588525</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="596" sha1="kp0wgv6y7w9nf6n7143r93th63n6h1y" xml:space="preserve">{{Concept
+| Name=Roaring Moon
+| Guid=3015-13577
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777902-1280px-1005roaring_moon.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777902-1280px-1005roaring_moon.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_mini,square_medium,scale_medium,scale_super,scale_small,square_tiny,square_avatar,screen_medium,screen_kubrick,scale_avatar,scale_large","caption":null},"background":[]}' /&gt;</text>
+      <sha1>kp0wgv6y7w9nf6n7143r93th63n6h1y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Romani</title>
+    <ns>0</ns>
+    <id>96077</id>
+    <revision>
+      <id>96212</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96212</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="217" sha1="1n54j4oyku8up76wb23d7y3edjtlab6" xml:space="preserve">{{Concept
+| Name=Romani
+| Guid=3015-13638
+| Characters=Characters/Vulko_58751
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>1n54j4oyku8up76wb23d7y3edjtlab6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Rorschach Test</title>
+    <ns>0</ns>
+    <id>95901</id>
+    <revision>
+      <id>588301</id>
+      <parentid>487856</parentid>
+      <timestamp>2026-02-08T07:17:33Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588301</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1060" sha1="hck6gp2i6zr5ww5vsx10k86dassghf9" xml:space="preserve">{{Concept
+| Name=Rorschach Test
+| Guid=3015-13453
+| Deck=A diagnostic test from Hermann Rorschach, a Swiss psychiatrist from the early 20th century. In the 21st century, the spot patterns used in it have gone beyond psychiatric hospitals, becoming part of pop culture
+| Characters=
+| Concepts=Concepts/Psychotherapy
+| Franchises=
+| Games=
+| Locations=Locations/Psychiatric_Institution
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3721701-rorschach_blot_01.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3721701-rorschach_blot_01.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"scale_small,scale_super,scale_tiny,square_small,square_medium,scale_medium,square_avatar,square_tiny,screen_medium,square_mini,scale_avatar,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+This is where games go if the test itself is being performed on someone in the game. If the game simply contains such images, they are entered into [https://www.giantbomb.com/rorschach-inkblot/3055-7684 Objects].</text>
+      <sha1>hck6gp2i6zr5ww5vsx10k86dassghf9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Royal Air Force</title>
+    <ns>0</ns>
+    <id>95831</id>
+    <revision>
+      <id>588183</id>
+      <parentid>487811</parentid>
+      <timestamp>2026-02-08T07:16:36Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588183</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1029" sha1="mim56k1cguu0722qdajqh0yvq91jie7" xml:space="preserve">{{Concept
+| Name=Royal Air Force
+| Guid=3015-13383
+| Deck=The Royal Air Force is the air and space component of the United Kingdom's military.
+| Characters=
+| Concepts=Concepts/United_States_Air_Force
+| Franchises=
+| Games=Games/Battlefield_1942,Games/Battlefield_2,Games/Battlefield_V,Games/Call_of_Duty_3,Games/Call_of_Duty_United_Offensive,Games/Call_of_Duty_WWII
+| Locations=Locations/England,Locations/Europe,Locations/Germany,Locations/Ireland,Locations/Scotland,Locations/United_Kingdom,Locations/Wales
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3677660-raf-badge.svg.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3677660-raf-badge.svg.png","path":"8\/82962\/","mime":"image\/png","sizes":"square_small,scale_small,square_avatar,scale_super,scale_medium,square_medium,scale_large,square_mini,square_tiny,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Royal Air Force is the air and space component of the United Kingdom's military.</text>
+      <sha1>mim56k1cguu0722qdajqh0yvq91jie7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Russian Blue</title>
+    <ns>0</ns>
+    <id>95754</id>
+    <revision>
+      <id>588034</id>
+      <parentid>487758</parentid>
+      <timestamp>2026-02-08T07:15:24Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588034</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="985" sha1="o7a0doc6po1kcb3j0zgcsm2tgi20c37" xml:space="preserve">{{Concept
+| Name=Russian Blue
+| Guid=3015-13305
+| Deck=A Russian breed of cat.
+| Characters=Characters/Dex_Starr
+| Concepts=Concepts/Cats
+| Franchises=
+| Games=Games/Injustice_2,Games/Kawaii_Koneko_3D,Games/Kawaii_Koneko_DS,Games/Kawaii_Koneko_DS_2,Games/Kawaii_Koneko_DS_3,Games/Kotoba_no_Puzzle_Mojipittan_DS,Games/LEGO_Batman_3_Beyond_Gotham,Games/LEGO_DC_Super_Villains,Games/Petz_Catz_Clan,Games/Scribblenauts_Mega_Pack,Games/Scribblenauts_Unmasked_A_DC_Comics_Adventure
+| Locations=Locations/Russia
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/59/594908/3637267-4268777170-Russi.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3637267-4268777170-Russi.jpg","path":"59\/594908\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_medium,scale_medium,scale_small,square_avatar,square_tiny,square_mini,screen_kubrick,scale_large,scale_avatar,scale_tiny,screen_medium","caption":null},"background":[]}' /&gt;
+A Russian breed of cat.</text>
+      <sha1>o7a0doc6po1kcb3j0zgcsm2tgi20c37</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Rutgers Scarlet Knights</title>
+    <ns>0</ns>
+    <id>95649</id>
+    <revision>
+      <id>587750</id>
+      <parentid>487658</parentid>
+      <timestamp>2026-02-08T07:13:10Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587750</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="940" sha1="1wqw9318kveiz2nbc21zcwgxivvy5xl" xml:space="preserve">{{Concept
+| Name=Rutgers Scarlet Knights
+| Guid=3015-13196
+| Deck=The Scarlet Knights are Rutgers University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Basketball_10,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/New_Jersey,Locations/Piscataway,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3608568-5192506520-latest.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3608568-5192506520-latest.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_tiny,square_medium,square_small,square_avatar,square_mini,scale_super,scale_small,scale_medium,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Scarlet Knights are Rutgers University's athletics teams.</text>
+      <sha1>1wqw9318kveiz2nbc21zcwgxivvy5xl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/SC Bern</title>
+    <ns>0</ns>
+    <id>95922</id>
+    <revision>
+      <id>96057</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96057</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="208" sha1="jkcq8s7l8mllbd6hwrmz96dra15kbru" xml:space="preserve">{{Concept
+| Name=SC Bern
+| Guid=3015-13477
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/NHL_25
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jkcq8s7l8mllbd6hwrmz96dra15kbru</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/SMU Mustangs</title>
+    <ns>0</ns>
+    <id>95652</id>
+    <revision>
+      <id>587756</id>
+      <parentid>487661</parentid>
+      <timestamp>2026-02-08T07:13:14Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587756</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="877" sha1="nz507i6kc22vs77dcqvy80guqilxxyo" xml:space="preserve">{{Concept
+| Name=SMU Mustangs
+| Guid=3015-13199
+| Deck=The Mustangs are Southern Methodist University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Dallas,Locations/Texas,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3608572-8511708761-SMU-M.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3608572-8511708761-SMU-M.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_small,square_medium,scale_avatar,scale_super,scale_medium,scale_small,square_mini,square_tiny,screen_kubrick,scale_large,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;
+The Mustangs are Southern Methodist University's athletics teams.</text>
+      <sha1>nz507i6kc22vs77dcqvy80guqilxxyo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/SOL AVES engine</title>
+    <ns>0</ns>
+    <id>96102</id>
+    <revision>
+      <id>96237</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96237</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="316" sha1="j7sl97d3x1hw95u2n2abbfcuq5hsne2" xml:space="preserve">{{Concept
+| Name=SOL-AVES engine
+| Guid=3015-13664
+| Deck=Proprietary engine owned by Bandai Namco.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Kirby_Air_Riders
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Proprietary engine owned by Bandai Namco.</text>
+      <sha1>j7sl97d3x1hw95u2n2abbfcuq5hsne2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Sam Houston Bearkats</title>
+    <ns>0</ns>
+    <id>95650</id>
+    <revision>
+      <id>587752</id>
+      <parentid>487659</parentid>
+      <timestamp>2026-02-08T07:13:10Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587752</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="827" sha1="312u94lnm5n8244mlri8idtbqun6y0j" xml:space="preserve">{{Concept
+| Name=Sam Houston Bearkats
+| Guid=3015-13197
+| Deck=The Bearkats are Sam Houston University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26
+| Locations=Locations/Huntsville,Locations/Texas,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3608570-8980999382-800px.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3608570-8980999382-800px.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_medium,square_small,square_avatar,square_mini,screen_kubrick,scale_large,scale_super,scale_small,scale_medium,scale_avatar,square_tiny,screen_medium","caption":null},"background":[]}' /&gt;
+The Bearkats are Sam Houston University's athletics teams.</text>
+      <sha1>312u94lnm5n8244mlri8idtbqun6y0j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/San Diego State Aztecs</title>
+    <ns>0</ns>
+    <id>95651</id>
+    <revision>
+      <id>587754</id>
+      <parentid>487660</parentid>
+      <timestamp>2026-02-08T07:13:13Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587754</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="931" sha1="44eh4byz04aui4wh31p9ydwl5ew7nbv" xml:space="preserve">{{Concept
+| Name=San Diego State Aztecs
+| Guid=3015-13198
+| Deck=The Aztecs are San Diego State University's athletics teams.
+| Characters=Characters/Tony_Gwynn
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/California,Locations/San_Diego,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3608571-5773026385-images.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3608571-5773026385-images.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_super,scale_medium,square_medium,square_small,square_avatar,square_mini,scale_small,screen_kubrick,scale_large,scale_avatar,square_tiny,screen_medium","caption":null},"background":[]}' /&gt;
+The Aztecs are San Diego State University's athletics teams.</text>
+      <sha1>44eh4byz04aui4wh31p9ydwl5ew7nbv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Sandmaargh</title>
+    <ns>0</ns>
+    <id>96090</id>
+    <revision>
+      <id>96225</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96225</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="711" sha1="ri34epj976jxh4sswkdhgulkcyv77e0" xml:space="preserve">{{Concept
+| Name=Sandmaargh
+| Guid=3015-13652
+| Deck=Sandmaarghs are enemies in Super Mario 3D Land. They are variants of Magmaarghs that live in sand instead of lava. They are somewhat dinosaur-like, with red spines going down their back.
+| Characters=
+| Concepts=Concepts/Non_Player_Character
+| Franchises=
+| Games=Games/Mario_And_Luigi_Paper_Jam,Games/Mario_Golf_Super_Rush,Games/Super_Mario_3D_Land
+| Locations=Locations/Desert
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Sandmaarghs are enemies in Super Mario 3D Land. They are variants of Magmaarghs that live in sand instead of lava. They are somewhat dinosaur-like, with red spines going down their back.
+
+</text>
+      <sha1>ri34epj976jxh4sswkdhgulkcyv77e0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Sandy Shocks</title>
+    <ns>0</ns>
+    <id>96004</id>
+    <revision>
+      <id>588488</id>
+      <parentid>487935</parentid>
+      <timestamp>2026-02-08T07:19:06Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588488</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="582" sha1="11elgfczlbz413xb1xhdjbw258ykt55" xml:space="preserve">{{Concept
+| Name=Sandy Shocks
+| Guid=3015-13561
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777875-0989sandy_shocks.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777875-0989sandy_shocks.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_small,scale_super,square_tiny,screen_kubrick,scale_large,scale_avatar,square_mini,square_avatar,screen_medium","caption":null},"background":[]}' /&gt;</text>
+      <sha1>11elgfczlbz413xb1xhdjbw258ykt55</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Sarlacc</title>
+    <ns>0</ns>
+    <id>96078</id>
+    <revision>
+      <id>1000102</id>
+      <parentid>742190</parentid>
+      <timestamp>2026-07-19T09:03:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1000102</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1347" sha1="o10judekfio9xi614wk5reu70bx8hs7" xml:space="preserve">{{Concept
+| Name=Sarlacc
+| Guid=3015-13639
+| Deck=Sarlaccs were dangerous, carnivorous creatures located on Tatooine and several other planets throughout the galaxy.
+| Characters=
+| Concepts=Concepts/Alien,Concepts/Boss_Fight
+| Franchises=
+| Games=Games/Disney_Infinity_3_0_Edition,Games/LEGO_Star_Wars_II_The_Original_Trilogy,Games/LEGO_Star_Wars_The_Complete_Saga,Games/LEGO_Star_Wars_The_Skywalker_Saga,Games/Star_Wars_Battlefront_15481,Games/Star_Wars_Bounty_Hunter,Games/Star_Wars_Demolition,Games/Star_Wars_Empire_at_War,Games/Star_Wars_Episode_I_Jedi_Power_Battles,Games/Star_Wars_Rogue_Squadron_III_Rebel_Strike,Games/Star_Wars_Shadows_of_the_Empire,Games/Star_Wars_The_Force_Unleashed,Games/Star_Wars_The_Old_Republic,Games/Super_Star_Wars
+| Locations=Locations/Tatooine
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3819132-6861061874-latest.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3819132-6861061874-latest.png","path":"151\/1511438\/","mime":"image\/png","sizes":"scale_super,scale_small,scale_medium,square_tiny,square_small,square_medium,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;
+Sarlaccs were dangerous, carnivorous creatures located on Tatooine and several other planets throughout the galaxy.</text>
+      <sha1>o10judekfio9xi614wk5reu70bx8hs7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Saxons</title>
+    <ns>0</ns>
+    <id>95707</id>
+    <revision>
+      <id>95841</id>
+      <timestamp>2025-12-08T07:22:28Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>95841</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="295" sha1="sj2bjcfhb84ii46hfkobq249606delx" xml:space="preserve">{{Concept
+| Name=Saxons
+| Guid=3015-13255
+| Characters=Characters/Geoffrey_Longsword,Characters/Wilfred_of_Ivanhoe
+| Concepts=
+| Franchises=
+| Games=Games/Total_War_Saga_Thrones_of_Britannia
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>sj2bjcfhb84ii46hfkobq249606delx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Scissor Kick</title>
+    <ns>0</ns>
+    <id>95773</id>
+    <revision>
+      <id>1000109</id>
+      <parentid>588078</parentid>
+      <timestamp>2026-07-19T09:04:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1000109</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3021" sha1="7ljl6125bsrjnvjj51uj0ztnagjs8lq" xml:space="preserve">{{Concept
+| Name=Scissor Kick
+| Guid=3015-13324
+| Deck=Powerful kick, when jumping on the first leg, we begin to throw forward the second, but bend it at the knee and withdraw it, and then the first, having received from these alternations of legs the necessary charge of inertia, strike in the air
+| Characters=Characters/Booker_T,Characters/M_Bison,Characters/Sketch_Turner
+| Concepts=Concepts/Axe_Kick,Concepts/Bicycle_Kick,Concepts/Front_Kick,Concepts/Jump_Kick,Concepts/Kickboxing,Concepts/Martial_Arts,Concepts/Melee,Concepts/Roundhouse_Kick,Concepts/Soccer_Player,Concepts/Split_Kick,Concepts/Sweep_Kick
+| Franchises=
+| Games=Games/Comix_Zone,Games/Dead_or_Alive_2_Hardcore,Games/Dead_or_Alive_3,Games/Dragon_The_Bruce_Lee_Story,Games/Hyper_Street_Fighter_II_The_Anniversary_Edition,Games/Injustice_2,Games/Injustice_Gods_Among_Us,Games/Mortal_Kombat_11,Games/Mortal_Kombat_2011,Games/Mortal_Kombat_vs_DC_Universe,Games/Mortal_Kombat_X,Games/Street_Fighter_30th_Anniversary_Collection,Games/Street_Fighter_6,Games/Street_Fighter_Alpha_2,Games/Street_Fighter_Collection_2,Games/Street_Fighter_II_Champion_Edition,Games/Street_Fighter_V,Games/Super_Street_Fighter_II,Games/Super_Street_Fighter_II_Turbo_HD_Remix,Games/Super_Street_Fighter_II_Turbo_Revival,Games/The_Wild_Rings,Games/TNA_iMPACT,Games/TNA_iMPACT_Cross_the_Line,Games/TNA_Wrestling,Games/Ultra_Street_Fighter_II_The_Final_Challengers,Games/Ultra_Street_Fighter_IV,Games/WCW_Backstage_Assault,Games/WCW_Mayhem,Games/WCW_Nitro,Games/WCW_nWo_Revenge,Games/WCW_nWo_Thunder,Games/WWE_12,Games/WWE_13,Games/WWE_2K_Battlegrounds,Games/WWE_2K15,Games/WWE_2K16,Games/WWE_2K17,Games/WWE_2K18,Games/WWE_2K19,Games/WWE_2K20,Games/WWE_2K22,Games/WWE_Aftershock,Games/WWE_Champions,Games/WWE_Crush_Hour,Games/WWE_Day_of_Reckoning,Games/WWE_Day_of_Reckoning_2,Games/WWE_Mayhem,Games/WWE_Raw_2,Games/WWE_Road_to_WrestleMania_X8,Games/WWE_SmackDown_Here_Comes_the_Pain,Games/WWE_SmackDown_Shut_Your_Mouth,Games/WWE_SmackDown_vs_RAW,Games/WWE_SmackDown_vs_RAW_2006,Games/WWE_SmackDown_vs_RAW_2007,Games/WWE_SmackDown_vs_RAW_2008,Games/WWE_SuperCard,Games/WWE_Survivor_Series,Games/WWE_WrestleMania_X8,Games/WWE_WrestleMania_XIX
+| Locations=Locations/Beach,Locations/Sports_Stadium,Locations/Stadium
+| Objects=Objects/Ball,Objects/Beach_Ball,Objects/Soccer_Ball
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3645534-%D0%91%D1%83%D1%84%D0%B5%D1%80%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B0_11-03-2024_08.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3645534-\u0411\u0443\u0444\u0435\u0440\u043e\u0431\u043c\u0435\u043d\u0430_11-03-2024_08.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,square_medium,square_avatar,scale_medium,scale_super,scale_small,square_mini,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":"Comix Zone"},"background":[]}' /&gt;
+This technique is also used in sports where you have to kick the ball with your foot: soccer, beach soccer, etc., but do it in a fall.</text>
+      <sha1>7ljl6125bsrjnvjj51uj0ztnagjs8lq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Scovillain</title>
+    <ns>0</ns>
+    <id>95973</id>
+    <revision>
+      <id>588418</id>
+      <parentid>487904</parentid>
+      <timestamp>2026-02-08T07:18:32Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588418</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="576" sha1="cuyejk6hv3rqbxyd5tkchvucvpo8n3a" xml:space="preserve">{{Concept
+| Name=Scovillain
+| Guid=3015-13530
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777840-0952scovillain.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777840-0952scovillain.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>cuyejk6hv3rqbxyd5tkchvucvpo8n3a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Scream Tail</title>
+    <ns>0</ns>
+    <id>96000</id>
+    <revision>
+      <id>588479</id>
+      <parentid>487931</parentid>
+      <timestamp>2026-02-08T07:19:01Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588479</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="593" sha1="ps4ypq4t671ex16wzk1vl7sesl6mg0q" xml:space="preserve">{{Concept
+| Name=Scream Tail
+| Guid=3015-13557
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777871-1280px-0985scream_tail.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777871-1280px-0985scream_tail.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,scale_small,square_tiny,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>ps4ypq4t671ex16wzk1vl7sesl6mg0q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Seadramon</title>
+    <ns>0</ns>
+    <id>95843</id>
+    <revision>
+      <id>588208</id>
+      <parentid>487819</parentid>
+      <timestamp>2026-02-08T07:16:48Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588208</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1438" sha1="shy412lauibyc560e0qnxrv9a0ylmjx" xml:space="preserve">{{Concept
+| Name=Seadramon
+| Guid=3015-13395
+| Deck=Seadramon is a Champion level sea dragon Digimon.
+| Characters=
+| Concepts=Concepts/Betamon,Concepts/Digimon,Concepts/Digivolution,Concepts/Dragon,Concepts/Neptunemon,Concepts/Otamamon,Concepts/Water_Manipulation
+| Franchises=
+| Games=Games/Digimon_Battle,Games/Digimon_Heroes,Games/Digimon_Links,Games/Digimon_Masters,Games/Digimon_ReArise,Games/Digimon_Soul_Chaser,Games/Digimon_Story_Cyber_Sleuth,Games/Digimon_Story_Cyber_Sleuth_Complete_Edition,Games/Digimon_Story_Cyber_Sleuth_Hackers_Memory,Games/Digimon_Story_Lost_Evolution,Games/Digimon_Story_Time_Stranger,Games/Digimon_Super_Rumble,Games/Digimon_World,Games/Digimon_World_2,Games/Digimon_World_3,Games/Digimon_World_Championship,Games/Digimon_World_DS,Games/Digimon_World_Dusk_Dawn,Games/Digimon_World_Next_Order,Games/Digimon_World_Re_Digitize,Games/Digimon_World_Re_Digitize_Decode
+| Locations=Locations/Cyberspace
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3693988-0756222434-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3693988-0756222434-latest.png","path":"16\/164924\/","mime":"image\/png","sizes":"square_medium,scale_super,square_tiny,square_avatar,scale_small,square_small,scale_medium,scale_tiny,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Seadramon is a Champion level sea dragon Digimon.</text>
+      <sha1>shy412lauibyc560e0qnxrv9a0ylmjx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Shin Bet</title>
+    <ns>0</ns>
+    <id>95752</id>
+    <revision>
+      <id>588029</id>
+      <parentid>487756</parentid>
+      <timestamp>2026-02-08T07:15:21Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588029</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1065" sha1="l8xt8hmlfgpx2so9q0vb0x9d6uu170y" xml:space="preserve">{{Concept
+| Name=Shin Bet
+| Guid=3015-13303
+| Deck=Shin Bet, also known as Israel Security Agency, is one of the three organizations of the Israeli Intelligence Community.
+| Characters=Characters/Dahlia_Tal
+| Concepts=Concepts/Counter_Terrorist,Concepts/Judaism,Concepts/Racism,Concepts/Terrorist,Concepts/Torture
+| Franchises=
+| Games=Games/Splinter_Cell_Trilogy,Games/Tom_Clancys_Splinter_Cell_Pandora_Tomorrow
+| Locations=Locations/Asia,Locations/Earth,Locations/Israel
+| Objects=Objects/Gun
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3636350-israel_security_agency.svg.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3636350-israel_security_agency.svg.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_medium,scale_small,square_small,square_mini,square_medium,square_avatar,scale_super,square_tiny,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+Shin Bet, also known as Israel Security Agency, is one of the three organizations of the Israeli Intelligence Community.</text>
+      <sha1>l8xt8hmlfgpx2so9q0vb0x9d6uu170y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Shroodle</title>
+    <ns>0</ns>
+    <id>95966</id>
+    <revision>
+      <id>588403</id>
+      <parentid>487897</parentid>
+      <timestamp>2026-02-08T07:18:24Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588403</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="587" sha1="kw1v3c5uzbbq2lbb50umpgtr7fhohxg" xml:space="preserve">{{Concept
+| Name=Shroodle
+| Guid=3015-13523
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Go,Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777831-0944shroodle.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777831-0944shroodle.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,scale_small,square_tiny,square_avatar,screen_medium,screen_kubrick,scale_large,square_mini,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>kw1v3c5uzbbq2lbb50umpgtr7fhohxg</sha1>
+    </revision>
+  </page>
+</mediawiki>

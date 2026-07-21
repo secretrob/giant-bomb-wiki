@@ -1,0 +1,1734 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Objects/Dodge Challenger</title>
+    <ns>0</ns>
+    <id>464229</id>
+    <revision>
+      <id>729239</id>
+      <parentid>464817</parentid>
+      <timestamp>2026-02-14T21:33:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729239</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1876" sha1="iqp2z6v0ao6jia3iijix16p50mlnj2q" xml:space="preserve">{{Object
+| Name=Dodge Challenger
+| Guid=3055-7642
+| Deck=Dodge Challenger is a coupe and a brother of the Dodge Charger with a Hemi V8 engine.
+| Characters=Characters/John_Tanner
+| Concepts=Concepts/Police,Concepts/Police_Chase,Concepts/Street_Racing
+| Franchises=
+| Games=Games/Driver_2_The_Wheelman_is_Back,Games/Driver_San_Francisco,Games/Fast_And_Furious_6_The_Game,Games/Fast_And_Furious_Crossroads,Games/Fast_And_Furious_Showdown,Games/Forza_Horizon_2,Games/Forza_Horizon_3,Games/Forza_Horizon_4,Games/Forza_Horizon_5,Games/Forza_Motorsport,Games/Forza_Motorsport_2,Games/Forza_Motorsport_2023,Games/Forza_Motorsport_3,Games/Forza_Motorsport_4,Games/Forza_Motorsport_5,Games/Forza_Motorsport_6,Games/Forza_Motorsport_7,Games/Gran_Turismo_2,Games/Gran_Turismo_5,Games/Gran_Turismo_6,Games/Gran_Turismo_7,Games/Need_for_Speed,Games/Need_for_Speed_Carbon,Games/Need_for_Speed_Heat,Games/Need_for_Speed_Hot_Pursuit,Games/Need_for_Speed_Most_Wanted_2012,Games/Need_for_Speed_Nitro,Games/Need_for_Speed_Payback,Games/Need_for_Speed_ProStreet,Games/Need_for_Speed_Rivals,Games/Need_for_Speed_Shift,Games/Need_for_Speed_The_Run,Games/Need_for_Speed_Unbound,Games/Need_for_Speed_Undercover,Games/Need_for_Speed_World,Games/Shift_2_Unleashed
+| Locations=Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Car,Objects/Muscle_Car
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3657371-img_2719.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3657371-img_2719.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"square_avatar,square_medium,square_small,scale_super,square_tiny,scale_small,scale_medium,square_mini,scale_tiny,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":"1970 Dodge Challenger R\/T"},"background":[]}' /&gt;
+Dodge Challenger is a coupe and a brother of the Dodge Charger with a Hemi V8 engine.</text>
+      <sha1>iqp2z6v0ao6jia3iijix16p50mlnj2q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Dodge Charger</title>
+    <ns>0</ns>
+    <id>463894</id>
+    <revision>
+      <id>729024</id>
+      <parentid>464482</parentid>
+      <timestamp>2026-02-14T21:30:31Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729024</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1925" sha1="6oggz0ixaf3uaz6smsbxm1wbxze0lvj" xml:space="preserve">{{Object
+| Name=Dodge Charger
+| Guid=3055-7305
+| Deck=The Dodge Charger was a full-sized muscle coupe with a 426 Hemi engine.
+| Characters=Characters/Dominic_Toretto,Characters/Snake_27203
+| Concepts=Concepts/Downloadable_Content,Concepts/Licensed_Cars
+| Franchises=
+| Games=Games/Asphalt_Urban_GT_2,Games/Fast_And_Furious_6_The_Game,Games/Fast_And_Furious_Crossroads,Games/Forza_Horizon_2,Games/Forza_Horizon_3,Games/Forza_Horizon_4,Games/Forza_Horizon_5,Games/Forza_Motorsport_2,Games/Forza_Motorsport_2023,Games/Forza_Motorsport_3,Games/Forza_Motorsport_4,Games/Forza_Motorsport_5,Games/Forza_Motorsport_6,Games/Gran_Turismo_2,Games/Gran_Turismo_2009,Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_6,Games/Real_Racing_3,Games/Street_Rod_2_The_Next_Generation,Games/Test_Drive_2002,Games/Test_Drive_5,Games/Test_Drive_6,Games/The_Fast_and_the_Furious,Games/TOCA_Race_Driver_3,Games/Top_Drives
+| Locations=Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Car,Objects/Muscle_Car
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3509881-img_0837.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3509881-img_0837.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"scale_small,square_small,scale_medium,square_medium,square_avatar,square_mini,square_tiny,scale_super,scale_large,scale_avatar,screen_kubrick,screen_medium,scale_tiny","caption":null},"background":[]}' /&gt;
+The Dodge Charger was an FR mid-sized muscle coupe that was announced in 1966 that can take on AMC’s muscle coupe the Rambler.
+'''Specs'''
+The Charger with a V8 426 HEMI engine, that can run for 150 mph 240 km in about 10 seconds, for 0-6000 rpm. With a 4-speed manual gearbox for the &amp;lt;span&amp;gt;383 cu in (6.3 L) 4-barrel. With the torque for &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;664 Nm / 490 lb-ft that makes it hard to handle on the oval circuit with some acceleration cornering. &amp;lt;/span&amp;gt;</text>
+      <sha1>6oggz0ixaf3uaz6smsbxm1wbxze0lvj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Dodge Ram SRT 10</title>
+    <ns>0</ns>
+    <id>463975</id>
+    <revision>
+      <id>729088</id>
+      <parentid>464563</parentid>
+      <timestamp>2026-02-14T21:31:19Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729088</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1225" sha1="bpauu6ynm9yv48uhp0p635ok22icwvd" xml:space="preserve">{{Object
+| Name=Dodge Ram SRT-10
+| Guid=3055-7387
+| Deck=The Dodge Ram SRT-10 is a sport pickup truck that was produced by American automaker Dodge in limited numbers. It was introduced at the January 2002 North American International Auto Show, but was not put into production until 2004.
+| Characters=
+| Concepts=Concepts/Licensed_Cars,Concepts/Useable_Vehicles
+| Franchises=
+| Games=Games/Asphalt_Urban_GT_2,Games/Car_Mechanic_Simulator_2018,Games/The_Crew,Games/Top_Drives
+| Locations=Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Truck
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3538888-7610109818-latest.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3538888-7610109818-latest.png","path":"151\/1511438\/","mime":"image\/png","sizes":"scale_super,square_medium,square_small,square_avatar,scale_medium,scale_small,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Dodge Ram SRT-10 is a sport pickup truck that was produced by American automaker Dodge in limited numbers. It was introduced at the January 2002 North American International Auto Show, but was not put into production until 2004.</text>
+      <sha1>bpauu6ynm9yv48uhp0p635ok22icwvd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Dodge Viper ACR</title>
+    <ns>0</ns>
+    <id>464222</id>
+    <revision>
+      <id>729235</id>
+      <parentid>464810</parentid>
+      <timestamp>2026-02-14T21:33:22Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729235</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="592" sha1="8toskjg81v0rb5a7cr4rcvebtu8fcqy" xml:space="preserve">{{Object
+| Name=Dodge Viper ACR
+| Guid=3055-7635
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Project_CARS_3
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3660448-6918154204-maxre.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3660448-6918154204-maxre.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_super,square_avatar,scale_small,square_medium,square_tiny,square_mini,scale_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;</text>
+      <sha1>8toskjg81v0rb5a7cr4rcvebtu8fcqy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Dongle</title>
+    <ns>0</ns>
+    <id>464309</id>
+    <revision>
+      <id>729286</id>
+      <parentid>464897</parentid>
+      <timestamp>2026-02-14T21:34:03Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729286</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1029" sha1="4oaejtdfqnlnfuw8sm9ymkfbkbynot4" xml:space="preserve">{{Object
+| Name=Dongle
+| Guid=3055-7726
+| Deck=Laptop Dongle is an item available in Hitman; it allows the player to access a specific laptop, whose purpose varies in each mission. It can be found in The Showstopper mission, World of Tomorrow, and The Finish Line.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Hitman,Games/Hitman_2,Games/Hitman_2_Silent_Assassin,Games/Hitman_3
+| Locations=
+| People=
+| Objects=Objects/Laptop
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3777654-4042959840-latest.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777654-4042959840-latest.png","path":"151\/1511438\/","mime":"image\/png","sizes":"scale_super,scale_small,scale_medium,square_tiny,square_medium,square_small,square_mini,square_avatar","caption":null},"background":[]}' /&gt;
+Laptop Dongle is an item available in Hitman; it allows the player to access a specific laptop, whose purpose varies in each mission. It can be found in The Showstopper mission, World of Tomorrow, and The Finish Line.</text>
+      <sha1>4oaejtdfqnlnfuw8sm9ymkfbkbynot4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Doritos</title>
+    <ns>0</ns>
+    <id>463926</id>
+    <revision>
+      <id>729056</id>
+      <parentid>464514</parentid>
+      <timestamp>2026-02-14T21:30:56Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729056</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1214" sha1="jns2jjinndfmhb2rx64w4bg56h5ff8u" xml:space="preserve">{{Object
+| Name=Doritos
+| Guid=3055-7337
+| Deck=Doritos are a brand of flavored tortilla chips by FritoLay.
+| Characters=Characters/Big_Boss,Characters/Hideo_Kojima
+| Concepts=
+| Franchises=
+| Games=Games/Doritos_Crash_Course,Games/Doritos_Crash_Course_2,Games/Doritos_Crash_Course_GO,Games/Doritos_VR_Battle,Games/Metal_Gear_Solid_Peace_Walker
+| Locations=Locations/Restaurant,Locations/Taco_Bell,Locations/Taco_Bell_Cantina,Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Barbecue_Sauce,Objects/Cheese,Objects/Deep_Fryer,Objects/Meat,Objects/Mountain_Dew,Objects/Nachos,Objects/Pepper_Shaker,Objects/Pepsi,Objects/Taco,Objects/Tortilla_Chips,Objects/Tortillas
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3514142-guest_d769c627-2f55-49ae-8ba9-d3f19b81e462.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3514142-guest_d769c627-2f55-49ae-8ba9-d3f19b81e462.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_medium,square_small,scale_small,scale_super,scale_medium,square_avatar,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Doritos are a brand of flavored tortilla chips by FritoLay.</text>
+      <sha1>jns2jjinndfmhb2rx64w4bg56h5ff8u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Double Decker Bus</title>
+    <ns>0</ns>
+    <id>464019</id>
+    <revision>
+      <id>729123</id>
+      <parentid>464607</parentid>
+      <timestamp>2026-02-14T21:31:49Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729123</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1437" sha1="6dniruespfizb3rrtxaqcoiulpfcv4l" xml:space="preserve">{{Object
+| Name=Double-Decker Bus
+| Guid=3055-7431
+| Deck=Double-decker public transportation vehicles known in the UK and Asia.
+| Characters=
+| Concepts=Concepts/Fast_Travel,Concepts/Public_Transportation,Concepts/Vehicular_Combat
+| Franchises=
+| Games=Games/A2_Racer_III_Europa_Tour,Games/Capcom_vs_SNK_2_Mark_of_the_Millennium,Games/London_Racer_II,Games/Madagascar,Games/Madagascar_3_The_Video_Game,Games/Ninja_Gaiden_3_Razors_Edge,Games/Soccer_Kid,Games/Taxi_Racer_London_2,Games/The_Getaway,Games/The_Getaway_Black_Monday,Games/The_Italian_Job,Games/Tony_Hawks_Pro_Skater_4,Games/We_Love_Katamari
+| Locations=Locations/Asia,Locations/England,Locations/Europe,Locations/London,Locations/United_Kingdom
+| People=
+| Objects=Objects/Bus,Objects/Bus_Stop,Objects/Car,Objects/School_Bus
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3597417-vlcsnap-2024-07-06-07h29m17s616.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3597417-vlcsnap-2024-07-06-07h29m17s616.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"scale_tiny,square_small,square_medium,scale_small,scale_super,scale_medium,square_avatar,square_tiny,square_mini,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":"Soccer Kid"},"background":[]}' /&gt;
+In games are found in any genre where the action takes place in large cities with realistic road infrastructure or as an element of a national cliché.
+Often red in color.</text>
+      <sha1>6dniruespfizb3rrtxaqcoiulpfcv4l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Douglas DC 3</title>
+    <ns>0</ns>
+    <id>463947</id>
+    <revision>
+      <id>464535</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464535</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="214" sha1="5i56vsrggo9r8vy9grmgc6bu0lypvoc" xml:space="preserve">{{Object
+| Name=Douglas DC-3
+| Guid=3055-7358
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Air_Bucks
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5i56vsrggo9r8vy9grmgc6bu0lypvoc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Douglas DC 6</title>
+    <ns>0</ns>
+    <id>463948</id>
+    <revision>
+      <id>464536</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464536</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="214" sha1="maz0cfh8aew7mms6bbsexfex41y42pq" xml:space="preserve">{{Object
+| Name=Douglas DC-6
+| Guid=3055-7359
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Air_Bucks
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>maz0cfh8aew7mms6bbsexfex41y42pq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Dream Machine</title>
+    <ns>0</ns>
+    <id>464029</id>
+    <revision>
+      <id>729131</id>
+      <parentid>464617</parentid>
+      <timestamp>2026-02-14T21:31:57Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729131</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1179" sha1="7bpzmhfe9esnp2uloh0j42wwp3xmy9q" xml:space="preserve">{{Object
+| Name=Dream Machine
+| Guid=3055-7441
+| Deck=A machine created by the Subcon to produce pleasant dreams. It was stolen by Wart to create bad dreams instead.
+| Characters=Characters/Wart
+| Concepts=Concepts/Dreaming,Concepts/Subcon
+| Franchises=
+| Games=Games/BS_Super_Mario_USA_Power_Challenge,Games/NES_Remix_2,Games/NES_Remix_Pack,Games/Super_Mario_Advance,Games/Super_Mario_All_Stars,Games/Super_Mario_All_Stars_And_Super_Mario_World,Games/Super_Mario_Bros_2,Games/Ultimate_NES_Remix,Games/Yume_Kojo_Doki_Doki_Panic
+| Locations=Locations/Sub_Con
+| People=
+| Objects=Objects/Carrot,Objects/Onion_3380,Objects/Radish,Objects/Turnip
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3602293-2081426385-Dream.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3602293-2081426385-Dream.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"square_small,square_medium,square_avatar,scale_super,scale_medium,scale_small,scale_large,square_mini,screen_kubrick,square_tiny,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+A machine created by the Subcon to produce pleasant dreams. It was stolen by Wart to create bad dreams instead.</text>
+      <sha1>7bpzmhfe9esnp2uloh0j42wwp3xmy9q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Drinking Straw</title>
+    <ns>0</ns>
+    <id>463936</id>
+    <revision>
+      <id>729066</id>
+      <parentid>464524</parentid>
+      <timestamp>2026-02-14T21:31:03Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729066</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1373" sha1="rxaqbvdmsietefl0gv9buto9qzj4aah" xml:space="preserve">{{Object
+| Name=Drinking Straw
+| Guid=3055-7347
+| Deck=Drinking straws are used for suction of liquid that inside of containers without risk of spilling.
+| Characters=Characters/Big_Boss,Characters/SpongeBob_SquarePants
+| Concepts=
+| Franchises=
+| Games=Games/Life_Is_Strange,Games/Like_a_Dragon_Gaiden_The_Man_Who_Erased_His_Name,Games/Marvels_Spider_Man_2,Games/Metal_Gear_Solid_HD_Collection,Games/Metal_Gear_Solid_Peace_Walker,Games/Oddworld_Soulstorm,Games/Omori,Games/Super_Granny_5,Games/Zool_2
+| Locations=
+| People=
+| Objects=Objects/Chocolate,Objects/Coca_Cola,Objects/Coca_Cola_Zero,Objects/Diet_Sprite,Objects/Gatorade,Objects/Health_Drink,Objects/Milk,Objects/Milkshake,Objects/Mountain_Dew,Objects/Pepsi,Objects/Pepsi_NEX,Objects/Powerade,Objects/Soft_Drink,Objects/Sprite,Objects/Sugar,Objects/Tea,Objects/Water
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3514629-istockphoto-156824147-612x612.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3514629-istockphoto-156824147-612x612.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_small,square_medium,square_small,scale_medium,scale_super,square_avatar,square_tiny,square_mini,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+Drinking straws are used for suction of liquid that inside of containers without risk of spilling.</text>
+      <sha1>rxaqbvdmsietefl0gv9buto9qzj4aah</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Drugs</title>
+    <ns>0</ns>
+    <id>464177</id>
+    <revision>
+      <id>464765</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464765</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="305" sha1="tn85gov9mtepluh3aumw80zswbhbja8" xml:space="preserve">{{Object
+| Name=Drugs
+| Guid=3055-7590
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Law_And_Order_Legacies,Games/Sly_2_Band_of_Thieves,Games/The_Getaway,Games/We_The_Refugees_Ticket_to_Europe
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>tn85gov9mtepluh3aumw80zswbhbja8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Dumbwaiter</title>
+    <ns>0</ns>
+    <id>464016</id>
+    <revision>
+      <id>1007860</id>
+      <parentid>729120</parentid>
+      <timestamp>2026-07-19T18:16:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007860</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1224" sha1="0qh7qic3vwatgbihxq3qya2j2rb7lsv" xml:space="preserve">{{Object
+| Name=Dumbwaiter
+| Guid=3055-7428
+| Deck=A small elevator for transporting food from the kitchen area to the eating area.
+| Characters=Characters/Jamie_Washington,Characters/Miles_Upshur,Characters/Rick_Trager,Characters/Sam_Fisher
+| Concepts=
+| Franchises=
+| Games=Games/Covert_Ops_Nuclear_Dawn,Games/Outlast,Games/Outlast_Trinity,Games/Resident_Evil_0,Games/Tom_Clancys_Splinter_Cell_Essentials
+| Locations=Locations/Colorado,Locations/Dining_Room,Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Elevator
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3574191-%D0%91%D1%83%D1%84%D0%B5%D1%80%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B008.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3574191-\u0411\u0443\u0444\u0435\u0440\u043e\u0431\u043c\u0435\u043d\u043008.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,scale_tiny,square_avatar,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":"Resident Evil 0"},"background":[]}' /&gt;
+Installed in wealthy establishments for etiquette purposes or in places with specific architecture, such as a double-decker train.</text>
+      <sha1>0qh7qic3vwatgbihxq3qya2j2rb7lsv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Dump Truck</title>
+    <ns>0</ns>
+    <id>464052</id>
+    <revision>
+      <id>729148</id>
+      <parentid>464640</parentid>
+      <timestamp>2026-02-14T21:32:09Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729148</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1611" sha1="asfwh8p3v3u5ooe36ehfgazr1n2qqvt" xml:space="preserve">{{Object
+| Name=Dump Truck
+| Guid=3055-7464
+| Deck=A giant truck used for transporting materials (such as dirt, gravel, or demolition waste) for construction as well as coal.
+| Characters=
+| Concepts=Concepts/Construction,Concepts/Roadworks,Concepts/Useable_Vehicles
+| Franchises=
+| Games=Games/ATV_Offroad_Fury_3,Games/BCV_Battle_Construction_Vehicles,Games/Blast_Corps,Games/BMX_XXX,Games/Carmageddon_II_Carpocalypse_Now,Games/Chrome,Games/Chrome_SpecForce,Games/Colin_McRae_Rally_3,Games/Construction_Destruction,Games/Crosscountry_Canada_2,Games/Dropship_United_Peace_Force,Games/Grand_Theft_Auto_San_Andreas,Games/Grand_Theft_Auto_The_Trilogy_The_Definitive_Edition,Games/Grand_Theft_Auto_V,Games/MTX_Mototrax,Games/Red_Faction_Guerrilla,Games/Transformers_Revenge_of_the_Fallen
+| Locations=Locations/Blaine_County,Locations/Construction_Site,Locations/Quarry,Locations/San_Andreas
+| People=
+| Objects=Objects/Bulldozer,Objects/Coal,Objects/Dumper,Objects/Power_Shovel,Objects/Rock,Objects/Steam_Roller,Objects/Tow_Truck,Objects/Truck,Objects/Wrecking_ball
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3628007-2601858322-dumpt.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3628007-2601858322-dumpt.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"square_medium,scale_small,square_small,scale_medium,square_avatar,square_mini,square_tiny,scale_super,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A giant truck used for transporting materials (such as dirt, gravel, or demolition waste) for construction as well as coal.</text>
+      <sha1>asfwh8p3v3u5ooe36ehfgazr1n2qqvt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Dust Pan</title>
+    <ns>0</ns>
+    <id>463932</id>
+    <revision>
+      <id>729062</id>
+      <parentid>464520</parentid>
+      <timestamp>2026-02-14T21:31:00Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729062</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="770" sha1="8akgklt4v0h7pz1lwp0z2b0toc8pmsq" xml:space="preserve">{{Object
+| Name=Dust Pan
+| Guid=3055-7343
+| Deck=Dust pans are household tools that specialize in containing smaller substances like dirt and trash.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Marvels_Spider_Man_2
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3514625-rwt0466-1-lr.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3514625-rwt0466-1-lr.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_medium,scale_small,scale_super,square_small,square_medium,square_tiny,square_mini,scale_large,scale_avatar,screen_kubrick,square_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+Dust pans are household tools that specialize in containing smaller substances like dirt and trash.</text>
+      <sha1>8akgklt4v0h7pz1lwp0z2b0toc8pmsq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/ECW Championship</title>
+    <ns>0</ns>
+    <id>464234</id>
+    <revision>
+      <id>993080</id>
+      <parentid>729243</parentid>
+      <timestamp>2026-07-18T02:33:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3055-7648)</comment>
+      <origin>993080</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1986" sha1="7olncvoyhpi2zua1rqpu02ygc7l3xc0" xml:space="preserve">{{Object
+| Name=ECW Championship
+| Guid=3055-7648
+| Deck=The ECW World Heavyweight Championship was a professional wrestling world heavyweight championship originally used in Extreme Championship Wrestling (ECW) and later, World Wrestling Entertainment (WWE).
+| Characters=Characters/Bam_Bam_Bigelow,Characters/Bobby_Lashley,Characters/Chavo_Guerrero,Characters/Christian,Characters/CM_Punk,Characters/Ezekiel_Jackson,Characters/Jack_Swagger,Characters/Jerry_Lynn,Characters/Jimmy_Snuka,Characters/John_Morrison,Characters/Justin_Credible,Characters/Kane_572,Characters/Mark_Henry,Characters/Mike_Awesome,Characters/Paul_Wight,Characters/Raven_6700,Characters/Rhino,Characters/Rob_Van_Dam,Characters/Sabu,Characters/Sandman,Characters/Tazz,Characters/Terry_Funk,Characters/Tommy_Dreamer,Characters/Vince_McMahon
+| Concepts=Concepts/Licensed_Game
+| Franchises=
+| Games=Games/ECW_Anarchy_Rulz,Games/ECW_Hardcore_Revolution,Games/WWE_13,Games/WWE_2K14,Games/WWE_SmackDown_vs_RAW_2008,Games/WWE_SmackDown_vs_RAW_2009,Games/WWE_SmackDown_vs_RAW_2010
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3662018-5302176010-latest.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3662018-5302176010-latest.png","path":"151\/1511438\/","mime":"image\/png","sizes":"square_small,square_medium,scale_small,scale_super,square_avatar,scale_medium,square_tiny,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+
+===Names===
+
+{| class='wikitable gb-table-natural'
+|-
+! Name||Years
+|-
+| ECW Heavyweight Championship||April 25, 1992 – September 18, 1993
+|-
+| NWA-ECW Heavyweight Championship||September 18, 1993 – August 27, 1994
+|-
+| ECW World Heavyweight Championship||August 27, 1994 – April 11, 2001; June 13, 2006 – July 2006
+|-
+| ECW World Championship||July 2006 – August 2007
+|-
+| ECW Championship||August 2007 – February 16, 2010; as listed on WWE's official website
+|}</text>
+      <sha1>7olncvoyhpi2zua1rqpu02ygc7l3xc0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/EZ Gun</title>
+    <ns>0</ns>
+    <id>463978</id>
+    <revision>
+      <id>729091</id>
+      <parentid>464566</parentid>
+      <timestamp>2026-02-14T21:31:22Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729091</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1708" sha1="p567kmhz91n87cr03cyr9dp41dvje4v" xml:space="preserve">{{Object
+| Name=EZ Gun
+| Guid=3055-7390
+| Deck=The EZ Gun is a tranquilizer gun developed by Donald "Sigint" Anderson. Modeled after the Liberator for its "cool appearance", this gun is notable for having a suppressor that never wears out due to it being built into the rounds themselves.
+| Characters=Characters/Big_Boss,Characters/Hideo_Kojima,Characters/Sigint,Characters/Snake,Characters/Venus
+| Concepts=Concepts/Easy_Mode,Concepts/Infinite_Ammo,Concepts/Stamina_Bar
+| Franchises=
+| Games=Games/Metal_Gear_Ac_d_2,Games/Metal_Gear_Solid_3_Snake_Eater,Games/Metal_Gear_Solid_3_Subsistence,Games/Metal_Gear_Solid_D_Snake_Eater,Games/Metal_Gear_Solid_HD_Collection,Games/Metal_Gear_Solid_Master_Collection_Vol_1,Games/Metal_Gear_Solid_Peace_Walker,Games/Metal_Gear_Solid_Snake_Eater_3D
+| Locations=Locations/Costa_Rica,Locations/Jungle,Locations/Russia,Locations/South_America,Locations/Soviet_Union,Locations/Tselinoyarsk
+| People=
+| Objects=Objects/Ammo,Objects/Gun,Objects/Laser_Sight,Objects/Pistol,Objects/Silencer,Objects/Tranquilizer
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3541710-ez_gun_k_2-300x170.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3541710-ez_gun_k_2-300x170.png","path":"8\/82962\/","mime":"image\/png","sizes":"square_small,scale_medium,scale_super,square_avatar,scale_small,square_medium,square_tiny,scale_large,square_mini,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+The EZ Gun is a tranquilizer gun developed by Donald "Sigint" Anderson. Modeled after the Liberator for its "cool appearance", this gun is notable for having a suppressor that never wears out due to it being built into the rounds themselves.</text>
+      <sha1>p567kmhz91n87cr03cyr9dp41dvje4v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Edamame</title>
+    <ns>0</ns>
+    <id>463899</id>
+    <revision>
+      <id>729029</id>
+      <parentid>464487</parentid>
+      <timestamp>2026-02-14T21:30:35Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729029</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="842" sha1="olmifpevkxm0jrhk9f67xt6gyyx3miw" xml:space="preserve">{{Object
+| Name=Edamame
+| Guid=3055-7310
+| Deck=Edamame is a Japanese dish where immature soybeans are steamed.
+| Characters=Characters/Takayuki_Yagami
+| Concepts=
+| Franchises=
+| Games=Games/Lost_Judgment,Games/Project_Zomboid,Games/The_Sims_4
+| Locations=Locations/Asia,Locations/Japan
+| People=
+| Objects=Objects/Rice,Objects/Soy_Food,Objects/Soybean
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3511482-edamame-recipe-004.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3511482-edamame-recipe-004.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_small,scale_super,square_small,square_medium,scale_medium,square_avatar,square_mini,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Edamame is a Japanese dish where immature soybeans are steamed.</text>
+      <sha1>olmifpevkxm0jrhk9f67xt6gyyx3miw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Electric Box</title>
+    <ns>0</ns>
+    <id>464118</id>
+    <revision>
+      <id>464706</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464706</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="486" sha1="5fvfg0rksqyp19nrsq61hwyjs0x49mk" xml:space="preserve">{{Object
+| Name=Electric Box
+| Guid=3055-7530
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Art_of_Murder_Hunt_for_the_Puppeteer,Games/Assassins_Creed_Chronicles_Russia,Games/Chernobyl_Liquidators_Simulator,Games/Hitman_3,Games/The_Mortuary_Assistant,Games/The_Simpsons_Night_of_The_Living_Treehouse_of_Horror,Games/Tony_Hawks_American_Wasteland,Games/X2_Wolverines_Revenge
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5fvfg0rksqyp19nrsq61hwyjs0x49mk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Electrical Substation</title>
+    <ns>0</ns>
+    <id>464347</id>
+    <revision>
+      <id>464935</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464935</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="ht9kwi5hrokomc517vkwqdadgdet808" xml:space="preserve">{{Object
+| Name=Electrical Substation
+| Guid=3055-7764
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=Locations/Bone_County
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ht9kwi5hrokomc517vkwqdadgdet808</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Elefant</title>
+    <ns>0</ns>
+    <id>463991</id>
+    <revision>
+      <id>729103</id>
+      <parentid>464579</parentid>
+      <timestamp>2026-02-14T21:31:32Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729103</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="643" sha1="5hq4u0zykfun4z03mbekr2pbgzr3cd4" xml:space="preserve">{{Object
+| Name=Elefant
+| Guid=3055-7403
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Call_of_Duty_United_Offensive,Games/Men_of_War_Assault_Squad_2,Games/Sudden_Strike
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3565815-7731338346-latest.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3565815-7731338346-latest.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"scale_small,square_tiny,square_medium,square_small,square_avatar,scale_super,scale_medium,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;</text>
+      <sha1>5hq4u0zykfun4z03mbekr2pbgzr3cd4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Empire State Building</title>
+    <ns>0</ns>
+    <id>464138</id>
+    <revision>
+      <id>729195</id>
+      <parentid>464726</parentid>
+      <timestamp>2026-02-14T21:32:47Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729195</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1372" sha1="2jawda8glgguccb4l73un98l70wb0il" xml:space="preserve">{{Object
+| Name=Empire State Building
+| Guid=3055-7551
+| Deck=When we only see a building in the game as an object, but never once go inside it or climb on it from the outside
+| Characters=Characters/King_Kong,Characters/Mary_Jane_Watson
+| Concepts=Concepts/Pop_Culture_Reference
+| Franchises=
+| Games=Games/Comix_Zone,Games/Ninja_Gaiden_II,Games/Ninja_Gaiden_Sigma_2
+| Locations=Locations/Chrysler_Building,Locations/City,Locations/Empire_State_Building,Locations/Manhattan,Locations/New_York,Locations/New_York_City,Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Building,Objects/Golden_Gate_Bridge,Objects/Skyscraper,Objects/The_Statue_of_Liberty
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3644967-6549501269-16632.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3644967-6549501269-16632.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_medium,square_avatar,scale_small,scale_medium,square_tiny,square_mini,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+Mostly because it appears far in the background of a level as a reference or we only fly over it in a helicopter in a music video. It can also be in a painting standing in a room or on a poster on the wall. Or as a miniature figure or model for a child's construction kit.</text>
+      <sha1>2jawda8glgguccb4l73un98l70wb0il</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Endeavor</title>
+    <ns>0</ns>
+    <id>464108</id>
+    <revision>
+      <id>729183</id>
+      <parentid>464696</parentid>
+      <timestamp>2026-02-14T21:32:39Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729183</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="906" sha1="7guutlpqslti0oqccpf8uh69l70f7vi" xml:space="preserve">{{Object
+| Name=Endeavor
+| Guid=3055-7520
+| Deck=The Endeavor jet in Raiden Fighters has the most unique weaponry of the selectable craft.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Raiden_Fighters,Games/Raiden_Fighters_Jet,Games/Raiden_Fighters_Remix_Collection,Games/Raiden_Legacy
+| Locations=
+| People=
+| Objects=Objects/Bomb,Objects/Fighter_Jet,Objects/Laser,Objects/Missile
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3630883-2315602036-latest.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3630883-2315602036-latest.png","path":"16\/164924\/","mime":"image\/png","sizes":"scale_small,square_small,square_medium,square_avatar,scale_super,scale_medium,square_tiny,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+The Endeavor jet in Raiden Fighters has the most unique weaponry of the selectable craft.</text>
+      <sha1>7guutlpqslti0oqccpf8uh69l70f7vi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Enderman Suit</title>
+    <ns>0</ns>
+    <id>464346</id>
+    <revision>
+      <id>464934</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464934</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="7m8bmbktw3nwut4p1ki3bavjc59lin1" xml:space="preserve">{{Object
+| Name=Enderman Suit
+| Guid=3055-7763
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Minecraft_Story_Mode
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>7m8bmbktw3nwut4p1ki3bavjc59lin1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Espresso</title>
+    <ns>0</ns>
+    <id>463884</id>
+    <revision>
+      <id>729014</id>
+      <parentid>464472</parentid>
+      <timestamp>2026-02-14T21:30:23Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729014</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1284" sha1="2x3g59w85a2dfgoc4dr13sge7ooazun" xml:space="preserve">{{Object
+| Name=Espresso
+| Guid=3055-7295
+| Deck=Espresso is a very concentrated type of coffee.
+| Characters=Characters/Espresso
+| Concepts=
+| Franchises=
+| Games=Games/Espresso_Tycoon,Games/Judgment
+| Locations=Locations/Asia,Locations/California,Locations/Coffee_Time,Locations/Europe,Locations/France,Locations/Italy,Locations/Japan,Locations/Los_Angeles,Locations/Moonbucks_Coffee,Locations/Santa_Barbara,Locations/Seattle,Locations/The_United_States_of_America,Locations/Thousand_Oaks,Locations/Ventura_County,Locations/Washington
+| People=
+| Objects=Objects/Cappuccino,Objects/Coffee,Objects/Coffee_Beans,Objects/Coffee_Maker,Objects/Cup,Objects/Expresso,Objects/Latte,Objects/Milk,Objects/Sugar
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3504113-what-is-espresso-765702-hero-03_cropped-ffbc0c7cf45a46ff846843040c8f370c.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3504113-what-is-espresso-765702-hero-03_cropped-ffbc0c7cf45a46ff846843040c8f370c.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_small,scale_small,square_avatar,scale_medium,scale_super,square_medium,square_tiny,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Espresso is a very concentrated type of coffee.</text>
+      <sha1>2x3g59w85a2dfgoc4dr13sge7ooazun</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Exit Flower</title>
+    <ns>0</ns>
+    <id>464338</id>
+    <revision>
+      <id>464926</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464926</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="318" sha1="syfvb0808lydjh2yo9atmu5nlpiz4na" xml:space="preserve">{{Object
+| Name=Exit Flower
+| Guid=3055-7755
+| Characters=
+| Concepts=
+| Franchises=Franchises/Super_Granny
+| Games=Games/Super_Granny,Games/Super_Granny_5,Games/Super_Granny_6,Games/Super_Granny_Winter_Wonderland
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>syfvb0808lydjh2yo9atmu5nlpiz4na</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/FX 05</title>
+    <ns>0</ns>
+    <id>464232</id>
+    <revision>
+      <id>729242</id>
+      <parentid>464820</parentid>
+      <timestamp>2026-02-14T21:33:28Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729242</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="696" sha1="t9bgbmdy8hxdof9i6f9qta2ev2km8la" xml:space="preserve">{{Object
+| Name=FX-05
+| Guid=3055-7645
+| Deck=A Mexican assault rifle
+| Characters=
+| Concepts=Concepts/Military
+| Franchises=
+| Games=Games/Army_of_Two_The_Devils_Cartel
+| Locations=Locations/Mexico
+| People=
+| Objects=Objects/Assault_Rifle,Objects/Gun
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3660027-fx-05.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3660027-fx-05.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_tiny,square_small,square_medium,scale_medium,scale_super,square_avatar,scale_small,square_mini,scale_tiny,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A Mexican assault rifle</text>
+      <sha1>t9bgbmdy8hxdof9i6f9qta2ev2km8la</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ferdinand</title>
+    <ns>0</ns>
+    <id>464000</id>
+    <revision>
+      <id>464588</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464588</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="217" sha1="qdujm8g24u0aj5zg10h1kpvs105lbey" xml:space="preserve">{{Object
+| Name=Ferdinand
+| Guid=3055-7412
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Sudden_Strike_4
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>qdujm8g24u0aj5zg10h1kpvs105lbey</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ferox 7462</title>
+    <ns>0</ns>
+    <id>464050</id>
+    <revision>
+      <id>729146</id>
+      <parentid>464638</parentid>
+      <timestamp>2026-02-14T21:32:08Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729146</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="656" sha1="mm0m0jttbqjuxi10eu2149dtl3oxnc6" xml:space="preserve">{{Object
+| Name=Ferox
+| Guid=3055-7462
+| Deck=The default spaceship in Resogun.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Astro_Bot,Games/Resogun
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3623400-7096471844-9JpN2.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3623400-7096471844-9JpN2.png","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,square_avatar,square_tiny,square_medium,square_small,scale_medium,scale_small,scale_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The default spaceship in Resogun.</text>
+      <sha1>mm0m0jttbqjuxi10eu2149dtl3oxnc6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ferrari 296 GT3</title>
+    <ns>0</ns>
+    <id>464282</id>
+    <revision>
+      <id>464870</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464870</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="224" sha1="1ip8ppm4xpibprjf6bm0jz1x24t9xo8" xml:space="preserve">{{Object
+| Name=Ferrari 296 GT3
+| Guid=3055-7699
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Le_Mans_Ultimate
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>1ip8ppm4xpibprjf6bm0jz1x24t9xo8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ferrari 360 Modena</title>
+    <ns>0</ns>
+    <id>464113</id>
+    <revision>
+      <id>464701</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464701</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="237" sha1="46wpz8ltth38wkklcwkelz6hwlavq43" xml:space="preserve">{{Object
+| Name=Ferrari 360 Modena
+| Guid=3055-7525
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Need_for_Speed_High_Stakes
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>46wpz8ltth38wkklcwkelz6hwlavq43</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ferrari 488 GTE Evo</title>
+    <ns>0</ns>
+    <id>464290</id>
+    <revision>
+      <id>464878</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464878</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" sha1="4vl4iaf6shfvk68zgze973mqj90yk2d" xml:space="preserve">{{Object
+| Name=Ferrari 488 GTE Evo
+| Guid=3055-7707
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Le_Mans_Ultimate
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>4vl4iaf6shfvk68zgze973mqj90yk2d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ferrari 499P</title>
+    <ns>0</ns>
+    <id>464269</id>
+    <revision>
+      <id>464857</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464857</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="221" sha1="b460liljq1ejtc4istdy1gwuvvpsdsw" xml:space="preserve">{{Object
+| Name=Ferrari 499P
+| Guid=3055-7686
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Le_Mans_Ultimate
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>b460liljq1ejtc4istdy1gwuvvpsdsw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ferrari Daytona Spider</title>
+    <ns>0</ns>
+    <id>464041</id>
+    <revision>
+      <id>729141</id>
+      <parentid>464629</parentid>
+      <timestamp>2026-02-14T21:32:04Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729141</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="800" sha1="g15q16nvqvvhb2f55om5yvjaw7oysr7" xml:space="preserve">{{Object
+| Name=Ferrari Daytona Spider 
+| Guid=3055-7453
+| Deck=Ferrari Daytona Spider is a model variant of the Daytona coupe made by Ferrari.
+| Characters=Characters/James_Sonny_Crockett
+| Concepts=
+| Franchises=
+| Games=Games/Miami_Vice_1986
+| Locations=Locations/Italy
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3614058-img_2487.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614058-img_2487.jpeg","path":"137\/1377390\/","mime":"image\/jpeg","sizes":"scale_super,scale_medium,square_medium,square_avatar,square_tiny,square_small,scale_small,square_mini,scale_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Ferrari Daytona Spider is a model variant of the Daytona coupe made by Ferrari.</text>
+      <sha1>g15q16nvqvvhb2f55om5yvjaw7oysr7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ferrari F40</title>
+    <ns>0</ns>
+    <id>463971</id>
+    <revision>
+      <id>464559</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464559</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="272" sha1="d1t17q5s794myp1qyj5fk2d5kogfw4y" xml:space="preserve">{{Object
+| Name=Ferrari F40
+| Guid=3055-7383
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Asphalt_9_Legends,Games/Project_CARS_3,Games/Project_Gotham_Racing_4
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>d1t17q5s794myp1qyj5fk2d5kogfw4y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ferrari Testarossa</title>
+    <ns>0</ns>
+    <id>464040</id>
+    <revision>
+      <id>729140</id>
+      <parentid>464628</parentid>
+      <timestamp>2026-02-14T21:32:03Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729140</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="829" sha1="q6sztt0tjip70f1g5g9hzgwgfzqtlsk" xml:space="preserve">{{Object
+| Name=Ferrari Testarossa
+| Guid=3055-7452
+| Deck=Ferrari Testarossa is an 80’s mid engine model with a V12 engine.
+| Characters=Characters/James_Sonny_Crockett
+| Concepts=
+| Franchises=
+| Games=Games/Asphalt_8_Airborne,Games/Project_Gotham_Racing_4,Games/Test_Drive,Games/The_Grand_Tour_Game
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3614059-img_2489.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614059-img_2489.png","path":"137\/1377390\/","mime":"image\/png","sizes":"scale_small,scale_medium,square_medium,square_mini,square_small,square_avatar,square_tiny,scale_super,scale_tiny,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Ferrari Testarossa is an 80’s mid engine model with a V12 engine.</text>
+      <sha1>q6sztt0tjip70f1g5g9hzgwgfzqtlsk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Fiat 131 Abarth Rally</title>
+    <ns>0</ns>
+    <id>464140</id>
+    <revision>
+      <id>729196</id>
+      <parentid>464728</parentid>
+      <timestamp>2026-02-14T21:32:49Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729196</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="883" sha1="schmg9d56spyldo3p37b9ptk1r121x9" xml:space="preserve">{{Object
+| Name=Fiat 131 Abarth Rally
+| Guid=3055-7553
+| Deck=The Fiat 131 Abarth Rally is a Group 4 Rally Car based on the Fiat 131 sedan.
+| Characters=
+| Concepts=Concepts/Rally
+| Franchises=
+| Games=Games/Need_for_Speed_V_Rally_2,Games/V_Rally_4
+| Locations=Locations/Italy
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3645093-6223870724-latest.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3645093-6223870724-latest.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"scale_small,scale_super,scale_medium,square_small,square_medium,square_avatar,square_mini,square_tiny,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+
+==Trivia==
+* It does not appear in the Japanese PlayStation version of ''V-Rally 2'', being replaced by a special edition of the Subaru Impreza instead.</text>
+      <sha1>schmg9d56spyldo3p37b9ptk1r121x9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Fiat 500</title>
+    <ns>0</ns>
+    <id>464213</id>
+    <revision>
+      <id>729228</id>
+      <parentid>464801</parentid>
+      <timestamp>2026-02-14T21:33:15Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729228</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2632" sha1="3f5hdlshsk14gyaigiyxcvme7w6zylz" xml:space="preserve">{{Object
+| Name=Fiat 500
+| Guid=3055-7626
+| Deck=Fiat 500 is a car model produced from 1957 to 1975. Its model number is also used for several small cars manufactured by Fiat. All are known as the Fiat Cinquecento in their home market regardless of whether they are numerically badged or not.
+| Characters=
+| Concepts=Concepts/Fiat,Concepts/Licensed_Cars,Concepts/The_1950s,Concepts/Unlockables
+| Franchises=
+| Games=Games/Car_Town,Games/Enthusia_Professional_Racing,Games/Gran_Turismo_2,Games/Gran_Turismo_2009,Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_6,Games/Gran_Turismo_7,Games/Gran_Turismo_Sport,Games/R_Racing_Evolution,Games/Racing_Master,Games/The_Getaway_Black_Monday,Games/Top_Drives,Games/Touge_Max_2
+| Locations=Locations/Italy
+| People=
+| Objects=Objects/Car
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3650392-0673802497-1000.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3650392-0673802497-1000.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"scale_small,square_small,square_medium,scale_super,scale_medium,square_mini,square_avatar,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+This description is taken from the NTSC version of Gran Turismo 2:
+The tiny Fiat 500 first hit the showrooms back in 1957 and was hailed as the car that would bring motoring to the masses in Italy. The appeal was easy to see. The 500 was a utilitarian four-seater that possessed kart-like handling, if not kart-like performance. It was also just about the cheapest way to get mobile at the time. Original power was a 479cc flat twin air cooled engine mounted in the rear. This was later boosted to 499 cc with power now up to 18 BHP. Given its distinct lack of power, the 500 was no performance demon. Fortunately for those who loved its looks, but wanted something a bit faster, the high performance Abarth version arrived in 1963. Carlo Abarth established his tuning company in Turin in 1949 and it wasn't long before he'd turned his hand to extracting more power from Fiat's baby. The resultant increase in performance was stunning. Abarth managed to more than double the power output of the engine - the fastest SS versions delivered more than 40 BHP. Maximum speed was now up to over 90 mph, and that was at a time when many sports cars could barely crack the 100 mph mark. Unsurprisingly, the 500's basic independent suspension was heavily modified, and the car also benefited from bigger brakes and tires. It even had flared wheel arches. The 500 Abarth was one of the forerunners of the modern hot hatch.</text>
+      <sha1>3f5hdlshsk14gyaigiyxcvme7w6zylz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Fiat Abarth Punto SuperSport</title>
+    <ns>0</ns>
+    <id>464206</id>
+    <revision>
+      <id>729224</id>
+      <parentid>464794</parentid>
+      <timestamp>2026-02-14T21:33:12Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729224</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1085" sha1="6g23sgccckokig8pmdhq5su21tbsgl9" xml:space="preserve">{{Object
+| Name=Fiat Abarth Punto SuperSport
+| Guid=3055-7619
+| Deck=The 2013 Abarth Punto SuperSport - abbreviated as "Abarth Punto" - is a front-wheel drive hot hatch by Abarth.
+| Characters=
+| Concepts=Concepts/Downloadable_Content,Concepts/Licensed_Cars
+| Franchises=
+| Games=Games/Forza_Horizon_2,Games/Forza_Motorsport_5,Games/Forza_Motorsport_6,Games/Forza_Motorsport_6_Apex,Games/Forza_Motorsport_7
+| Locations=Locations/Italy
+| People=
+| Objects=Objects/Car,Objects/Fiat_131_Abarth,Objects/Fiat_Grande_Punto_Super_2000,Objects/Fiat_Punto
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3648182-9396440118-1000.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3648182-9396440118-1000.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,scale_small,square_mini,square_medium,square_small,square_avatar,square_tiny,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+The 2013 Abarth Punto SuperSport - abbreviated as "Abarth Punto" - is a front-wheel drive hot hatch by Abarth.</text>
+      <sha1>6g23sgccckokig8pmdhq5su21tbsgl9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Fiat Panda</title>
+    <ns>0</ns>
+    <id>464214</id>
+    <revision>
+      <id>729229</id>
+      <parentid>464802</parentid>
+      <timestamp>2026-02-14T21:33:16Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729229</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1389" sha1="7blhobyafamla9xk0l351sz9m6ohmri" xml:space="preserve">{{Object
+| Name=Fiat Panda
+| Guid=3055-7627
+| Deck=The Fiat Panda is a city car manufactured and marketed by Fiat since 1980, currently in its third generation. The first generation Panda, introduced in 1980 as the Mk1, was a two-box, three-door hatchback designed by Giorgetto Giugiaro and Aldo Mantovani of Italdesign and was manufactured through 2003 — receiving an all-wheel drive variant in 1983.
+| Characters=
+| Concepts=Concepts/Fiat,Concepts/Licensed_Cars
+| Franchises=
+| Games=Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_6
+| Locations=Locations/Italy
+| People=
+| Objects=Objects/Car
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3650713-0064666855-350.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3650713-0064666855-350.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_medium,square_small,scale_medium,scale_small,square_avatar,square_tiny,scale_super,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Fiat Panda is a city car manufactured and marketed by Fiat since 1980, currently in its third generation. The first generation Panda, introduced in 1980 as the Mk1, was a two-box, three-door hatchback designed by Giorgetto Giugiaro and Aldo Mantovani of Italdesign and was manufactured through 2003 — receiving an all-wheel drive variant in 1983.</text>
+      <sha1>7blhobyafamla9xk0l351sz9m6ohmri</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Fiat Punto</title>
+    <ns>0</ns>
+    <id>464038</id>
+    <revision>
+      <id>464626</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464626</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="292" sha1="2c224vsfkdqmkvc2tib8ipvyktbk6qg" xml:space="preserve">{{Object
+| Name=Fiat Punto
+| Guid=3055-7450
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Colin_McRae_Rally_3,Games/The_Getaway,Games/V_Rally_3
+| Locations=
+| People=
+| Objects=Objects/Fiat_Abarth_Punto_SuperSport
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>2c224vsfkdqmkvc2tib8ipvyktbk6qg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Fire Escape</title>
+    <ns>0</ns>
+    <id>464316</id>
+    <revision>
+      <id>729293</id>
+      <parentid>464904</parentid>
+      <timestamp>2026-02-14T21:34:08Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729293</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1736" sha1="bl9ilq3zv5nfyn5w3splg7v1hw93ht1" xml:space="preserve">{{Object
+| Name=Fire Escape
+| Guid=3055-7733
+| Deck=A fire escape is a special kind of emergency exit, usually stairs or ladders mounted to the outside of a building—occasionally inside, but separate from the main areas of the building. It provides a method of escape in the event of a fire or other emergency that makes the stairwells inside a building inaccessible. Fire escapes are most often found on multiple-story residential buildings, such as apartment buildings.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Fire_Escape,Games/Freedom_Fighters,Games/Grand_Theft_Auto_IV,Games/Grand_Theft_Auto_IV_And_Episodes_from_Liberty_City_The_Complete_Edition,Games/Spider_Man_2,Games/Spider_Man_3,Games/Tom_Clancys_Splinter_Cell_Chaos_Theory
+| Locations=Locations/City,Locations/Liberty_City,Locations/Manhattan,Locations/New_York_City,Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Building,Objects/Skyscraper
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3782695-7383028837-what-.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3782695-7383028837-what-.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"scale_super,scale_medium,square_tiny,square_medium,square_avatar,square_small,scale_small,square_mini","caption":null},"background":[]}' /&gt;
+A fire escape is a special kind of emergency exit, usually stairs or ladders mounted to the outside of a building—occasionally inside, but separate from the main areas of the building. It provides a method of escape in the event of a fire or other emergency that makes the stairwells inside a building inaccessible. Fire escapes are most often found on multiple-story residential buildings, such as apartment buildings.</text>
+      <sha1>bl9ilq3zv5nfyn5w3splg7v1hw93ht1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Flight suit</title>
+    <ns>0</ns>
+    <id>464266</id>
+    <revision>
+      <id>729268</id>
+      <parentid>464854</parentid>
+      <timestamp>2026-02-14T21:33:50Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729268</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1923" sha1="ok0pjwqlz0ey8615lhx3ovqs55vt40p" xml:space="preserve">{{Object
+| Name=Flight suit
+| Guid=3055-7683
+| Deck=A Flight suit or pilot suit is a type of outfit, where people wear while piloting their mechs and planes in combat.
+| Characters=Characters/Aki_Iwami,Characters/Asuka_Langley_Soryu,Characters/Cryska_Barchenowa,Characters/Cui_Yifei,Characters/Izumi_Noto,Characters/Kaori_Kisaragi,Characters/Kasumi_Yashiro,Characters/Kazusa_Yamashiro,Characters/Kyoko_Takatsukasa,Characters/Mana_Tsukuyomi,Characters/Mari_Makinami,Characters/Mariko_Amemiya,Characters/Meiya_Mitsurugi,Characters/Minagi_Ebisu,Characters/Rei_Ayanami,Characters/Roux_Louka,Characters/Shimako_Kai,Characters/Tarisa_Manandal,Characters/Tatsumi_Kamiyo,Characters/Yui_Takamura,Characters/Yukino_Tomoe,Characters/Yuuhi_Koubuin,Characters/Yuuya_Bridges
+| Concepts=Concepts/Mecha_Pilot
+| Franchises=
+| Games=Games/Ace_Combat_7_Skies_Unknown,Games/Ace_Combat_Assault_Horizon,Games/Ace_Combat_Joint_Assault,Games/Girls_Frontline,Games/Mobile_Suit_Gundam_SEED_Never_Ending_Tomorrow,Games/Mobile_Suit_Gundam_Side_Stories,Games/Muv_Luv,Games/Muv_Luv_Alternative,Games/Muv_Luv_Alternative_Total_Eclipse,Games/Muv_Luv_Muv_Luv_Alternative_Remastered_Double_Pack,Games/Neon_Genesis_Evangelion,Games/Project_Mikhail_A_Muv_Luv_War_Story,Games/R_Type_Final_2
+| Locations=
+| People=
+| Objects=Objects/Fighter_Jet,Objects/Jet_Pack,Objects/Mech
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3718589-img_2822.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3718589-img_2822.png","path":"137\/1377390\/","mime":"image\/png","sizes":"scale_medium,scale_small,square_small,square_avatar,square_medium,scale_super,square_tiny,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium,scale_tiny","caption":"Unnamed female test pilot (Girls\u2019 Frontline)"},"background":[]}' /&gt;
+A Flight suit or pilot suit is a type of outfit, where people wear while piloting their mechs and planes in combat.</text>
+      <sha1>ok0pjwqlz0ey8615lhx3ovqs55vt40p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Food Truck</title>
+    <ns>0</ns>
+    <id>464120</id>
+    <revision>
+      <id>464708</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464708</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="856" sha1="sk65phkhwl7fwlv5qpe61jf6mhlselg" xml:space="preserve">{{Object
+| Name=Food Truck
+| Guid=3055-7532
+| Deck=A food truck is a large motorized vehicle (such as a van or multi-stop truck) or trailer equipped to store, transport, cook, prepare, serve, and/or sell food.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Fabulous_Food_Truck,Games/Food_Truck_Empire,Games/Food_Truck_Tycoon,Games/Grand_Theft_Auto_San_Andreas,Games/PowerWash_Simulator,Games/Space_Food_Truck,Games/Street_Fighter_6,Games/Tony_Hawks_American_Wasteland
+| Locations=
+| People=
+| Objects=Objects/Burrito,Objects/French_Fries,Objects/Hamburger,Objects/Hot_Dog,Objects/Ice_Cream_Truck,Objects/Taco,Objects/Van
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+A food truck is a large motorized vehicle (such as a van or multi-stop truck) or trailer equipped to store, transport, cook, prepare, serve, and/or sell food.</text>
+      <sha1>sk65phkhwl7fwlv5qpe61jf6mhlselg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ford 9000</title>
+    <ns>0</ns>
+    <id>464193</id>
+    <revision>
+      <id>729216</id>
+      <parentid>464781</parentid>
+      <timestamp>2026-02-14T21:33:06Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729216</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="955" sha1="09gtc3f8bkp732zr4lnglmi9auv05l7" xml:space="preserve">{{Object
+| Name=Ford 9000
+| Guid=3055-7606
+| Deck=The Ford LTL9000 is a heavy 6x4 road hauler. You can unlock in TOCA 2 by completing the Level 6-2 in Career Mode.
+| Characters=
+| Concepts=Concepts/Ford_Motor_Company,Concepts/Licensed_Cars
+| Franchises=
+| Games=Games/MudRunner,Games/Race_Driver_2006,Games/TOCA_Race_Driver_2
+| Locations=Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Semi
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3646478-9758190455-latest.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3646478-9758190455-latest.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"scale_super,square_tiny,square_medium,square_small,square_avatar,square_mini,scale_small,scale_medium,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Ford LTL9000 is a heavy 6x4 road hauler. You can unlock in TOCA 2 by completing the Level 6-2 in Career Mode.</text>
+      <sha1>09gtc3f8bkp732zr4lnglmi9auv05l7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ford CLT9000</title>
+    <ns>0</ns>
+    <id>463989</id>
+    <revision>
+      <id>729102</id>
+      <parentid>464577</parentid>
+      <timestamp>2026-02-14T21:31:31Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729102</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="559" sha1="eq0rju07c77fqbub6s4s2e1usiyapqj" xml:space="preserve">{{Object
+| Name=Ford CLT9000
+| Guid=3055-7401
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3558767-4745933602-latest.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3558767-4745933602-latest.png","path":"151\/1511438\/","mime":"image\/png","sizes":"scale_super,square_medium,square_small,scale_medium,scale_small,square_tiny,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>eq0rju07c77fqbub6s4s2e1usiyapqj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ford Escort Cosworth</title>
+    <ns>0</ns>
+    <id>464200</id>
+    <revision>
+      <id>464788</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464788</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="292" sha1="dp32qngug1l57qseicx3s3y4r1wa3hp" xml:space="preserve">{{Object
+| Name=Ford Escort Cosworth
+| Guid=3055-7613
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Michelin_Rally_Masters_Race_of_Champions,Games/Network_Q_RAC_Rally_Championship
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>dp32qngug1l57qseicx3s3y4r1wa3hp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ford Escort WRC</title>
+    <ns>0</ns>
+    <id>464079</id>
+    <revision>
+      <id>464667</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464667</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="315" sha1="inw8blokkaru2u7og7p99mmohzoon3d" xml:space="preserve">{{Object
+| Name=Ford Escort WRC
+| Guid=3055-7491
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Global_Touring_Challenge_Africa,Games/Michelin_Rally_Masters_Race_of_Champions,Games/Need_for_Speed_V_Rally
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>inw8blokkaru2u7og7p99mmohzoon3d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ford F 150</title>
+    <ns>0</ns>
+    <id>464197</id>
+    <revision>
+      <id>729219</id>
+      <parentid>464785</parentid>
+      <timestamp>2026-02-14T21:33:08Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729219</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1452" sha1="2hnv6rfb2kr75iasvi4wsq959q41s7t" xml:space="preserve">{{Object
+| Name=Ford F-150
+| Guid=3055-7610
+| Deck=The Ford F-Series is a series of light-duty trucks marketed and manufactured by Ford Motor Company since the 1948 model year. The F-Series is marketed as a range of full-sized pickup trucks positioned above the midsize Ranger but below the larger Super Duty in the Ford truck lineup.
+| Characters=
+| Concepts=Concepts/Ford_Motor_Company,Concepts/Licensed_Cars
+| Franchises=
+| Games=Games/Asphalt_8_Airborne,Games/Driver_San_Francisco,Games/Ford_Racing_Off_Road,Games/Forza_Horizon_5,Games/Need_for_Speed,Games/Need_for_Speed_Heat,Games/Need_for_Speed_Payback,Games/Need_for_Speed_Unbound,Games/Top_Drives
+| Locations=Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Truck
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3647246-8258479595-1000.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3647246-8258479595-1000.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_small,square_avatar,scale_super,square_tiny,square_medium,scale_medium,scale_small,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+The Ford F-Series is a series of light-duty trucks marketed and manufactured by Ford Motor Company since the 1948 model year. The F-Series is marketed as a range of full-sized pickup trucks positioned above the midsize Ranger but below the larger Super Duty in the Ford truck lineup.</text>
+      <sha1>2hnv6rfb2kr75iasvi4wsq959q41s7t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/Ford Fiesta R2</title>
+    <ns>0</ns>
+    <id>464127</id>
+    <revision>
+      <id>464715</id>
+      <timestamp>2025-12-08T07:40:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464715</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="253" sha1="3ou650x28ljpawb7pycs2ce4bfpg9wp" xml:space="preserve">{{Object
+| Name=Ford Fiesta R2
+| Guid=3055-7540
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/WRC_4_FIA_World_Rally_Championship,Games/WRC_7
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3ou650x28ljpawb7pycs2ce4bfpg9wp</sha1>
+    </revision>
+  </page>
+</mediawiki>

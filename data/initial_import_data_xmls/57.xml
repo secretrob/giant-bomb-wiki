@@ -1,0 +1,1535 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Locations/College Park</title>
+    <ns>0</ns>
+    <id>264277</id>
+    <revision>
+      <id>637232</id>
+      <parentid>630131</parentid>
+      <timestamp>2026-02-13T21:29:26Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637232</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="733" sha1="9ok9bz7cqdgbsovh9fc0m8xmuxhokmn" xml:space="preserve">{{Location
+| Name=College Park
+| Guid=3035-8232
+| Deck=A city in Maryland and the home of the University of Maryland.
+| Characters=
+| Concepts=Concepts/Maryland_Terrapins
+| Objects=
+| Locations=Locations/Maryland,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614370-0888390336-UMD.j.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614370-0888390336-UMD.j.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_medium,square_medium,square_small,square_avatar,square_tiny,scale_super,scale_small,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Maryland and the home of the University of Maryland.</text>
+      <sha1>9ok9bz7cqdgbsovh9fc0m8xmuxhokmn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/College Station</title>
+    <ns>0</ns>
+    <id>264311</id>
+    <revision>
+      <id>637266</id>
+      <parentid>630165</parentid>
+      <timestamp>2026-02-13T21:29:49Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637266</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="717" sha1="a50hi8qttuk1hoj6j40eaysmkkwczkk" xml:space="preserve">{{Location
+| Name=College Station
+| Guid=3035-8266
+| Deck=A city in Texas and the home of Texas A&amp;M University.
+| Characters=
+| Concepts=Concepts/Texas_A_And_M_Aggies
+| Objects=
+| Locations=Locations/Texas,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614432-0495785299-colle.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614432-0495785299-colle.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_small,scale_super,square_medium,square_small,scale_medium,square_tiny,square_avatar,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Texas and the home of Texas A&amp;M University.</text>
+      <sha1>a50hi8qttuk1hoj6j40eaysmkkwczkk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Columbia 8238</title>
+    <ns>0</ns>
+    <id>264283</id>
+    <revision>
+      <id>637238</id>
+      <parentid>630137</parentid>
+      <timestamp>2026-02-13T21:29:30Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637238</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="726" sha1="mh1ypz3axab1sl025io6objc3dt7ehd" xml:space="preserve">{{Location
+| Name=Columbia
+| Guid=3035-8238
+| Deck=A city in Missouri and the home of the University of Missouri.
+| Characters=
+| Concepts=Concepts/Missouri_Tigers
+| Objects=
+| Locations=Locations/Missouri,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614377-6916960368-Getty.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614377-6916960368-Getty.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_small,square_avatar,scale_medium,scale_super,square_medium,square_mini,square_tiny,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Missouri and the home of the University of Missouri.</text>
+      <sha1>mh1ypz3axab1sl025io6objc3dt7ehd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Columbia 8261</title>
+    <ns>0</ns>
+    <id>264306</id>
+    <revision>
+      <id>637261</id>
+      <parentid>630160</parentid>
+      <timestamp>2026-02-13T21:29:46Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637261</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="808" sha1="gd7q9bx57z8d49pzae8xegovo9ak6xb" xml:space="preserve">{{Location
+| Name=Columbia
+| Guid=3035-8261
+| Deck=The capital of South Carolina and the home of the University of South Carolina.
+| Characters=
+| Concepts=Concepts/South_Carolina_Gamecocks
+| Objects=
+| Locations=Locations/South_Carolina,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614427-9503211133-colum.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614427-9503211133-colum.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_small,square_tiny,square_medium,square_small,scale_super,scale_medium,square_avatar,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+The capital of South Carolina and the home of the University of South Carolina.</text>
+      <sha1>gd7q9bx57z8d49pzae8xegovo9ak6xb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Conway</title>
+    <ns>0</ns>
+    <id>264248</id>
+    <revision>
+      <id>637203</id>
+      <parentid>630102</parentid>
+      <timestamp>2026-02-13T21:29:06Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637203</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="815" sha1="esk5qlrlsg3oev47ld6q9eepjj1420l" xml:space="preserve">{{Location
+| Name=Conway
+| Guid=3035-8203
+| Deck=Conway is a city in South Carolina and the home of Coastal Carolina University.
+| Characters=
+| Concepts=Concepts/Coastal_Carolina_Chanticleers
+| Objects=
+| Locations=Locations/South_Carolina,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614326-3993291289-conway.jpeg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614326-3993291289-conway.jpeg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_avatar,scale_medium,scale_small,square_medium,square_mini,scale_avatar,scale_large,square_tiny,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Conway is a city in South Carolina and the home of Coastal Carolina University.</text>
+      <sha1>esk5qlrlsg3oev47ld6q9eepjj1420l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Cook Islands</title>
+    <ns>0</ns>
+    <id>264035</id>
+    <revision>
+      <id>264492</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264492</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="412" sha1="8tjng3vrsr4c55c8t4z3gno95duzfae" xml:space="preserve">{{Location
+| Name=Cook Islands
+| Guid=3035-7989
+| Deck=The Cook Islands is an island state in the South Pacific Ocean, associated to Nww Zealand. Its capital city is Avarua.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The Cook Islands is an island state in the South Pacific Ocean, associated to Nww Zealand. Its capital city is Avarua.</text>
+      <sha1>8tjng3vrsr4c55c8t4z3gno95duzfae</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Corn Palace</title>
+    <ns>0</ns>
+    <id>264332</id>
+    <revision>
+      <id>264790</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264790</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="167" sha1="ej39jtpowguia7246vapw7oilhfla4y" xml:space="preserve">{{Location
+| Name=Corn Palace
+| Guid=3035-8288
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ej39jtpowguia7246vapw7oilhfla4y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Corrupted Forest</title>
+    <ns>0</ns>
+    <id>264144</id>
+    <revision>
+      <id>637142</id>
+      <parentid>630041</parentid>
+      <timestamp>2026-02-13T21:28:23Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637142</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1070" sha1="ishzd5cvdy9wpuhxi5agpey3pxr8vfd" xml:space="preserve">{{Location
+| Name=Corrupted Forest
+| Guid=3035-8098
+| Deck=A portion of The Living Forest that has become steeped in dark magic and lost souls.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Living_Forest
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3498173-4867522532-F4d_usRa0AAvj5V.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3498173-4867522532-F4d_usRa0AAvj5V.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,scale_medium,square_tiny,square_medium,square_small,square_avatar,screen_medium,scale_large,scale_small,square_mini,scale_tiny,screen_kubrick_wide,screen_kubrick,scale_avatar","caption":null},"background":{"file":"3498173-4867522532-F4d_usRa0AAvj5V.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,scale_medium,square_tiny,square_medium,square_small,square_avatar,screen_medium,scale_large,scale_small,square_mini,scale_tiny,screen_kubrick_wide,screen_kubrick,scale_avatar","caption":null}}' /&gt;
+A portion of The Living Forest that has become steeped in dark magic and lost souls.</text>
+      <sha1>ishzd5cvdy9wpuhxi5agpey3pxr8vfd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Corvalis</title>
+    <ns>0</ns>
+    <id>264298</id>
+    <revision>
+      <id>637253</id>
+      <parentid>630152</parentid>
+      <timestamp>2026-02-13T21:29:40Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637253</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="719" sha1="247ta2brf5c9rk88sf3ms719ewu7j28" xml:space="preserve">{{Location
+| Name=Corvalis
+| Guid=3035-8253
+| Deck=A city in Oregon and the home of Oregon State University.
+| Characters=
+| Concepts=Concepts/Oregon_State_Beavers
+| Objects=
+| Locations=Locations/Oregon,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614419-3528093169-Bento.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614419-3528093169-Bento.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_medium,square_small,square_avatar,scale_small,scale_super,scale_medium,square_tiny,square_mini,scale_large,screen_kubrick,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Oregon and the home of Oregon State University.</text>
+      <sha1>247ta2brf5c9rk88sf3ms719ewu7j28</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Crosstown High School</title>
+    <ns>0</ns>
+    <id>264453</id>
+    <revision>
+      <id>264911</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264911</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="503" sha1="adpz6zkrt3mc1hg604s5co6xyc6zbf4" xml:space="preserve">{{Location
+| Name=Crosstown High School
+| Guid=3035-8410
+| Deck=The localization of Hanazono High School, first appearing in River City Ransom, is the new River City High School in River City Ransom: Underground
+| Characters=Characters/Ryan_Samejima
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The localization of Hanazono High School, first appearing in River City Ransom, is the new River City High School in River City Ransom: Underground</text>
+      <sha1>adpz6zkrt3mc1hg604s5co6xyc6zbf4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/CryoTerra</title>
+    <ns>0</ns>
+    <id>264134</id>
+    <revision>
+      <id>264591</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264591</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="184" sha1="95hprbjr000rp81w928gtzyd9c3x4m9" xml:space="preserve">{{Location
+| Name=CryoTerra
+| Guid=3035-8088
+| Characters=Characters/Normands
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>95hprbjr000rp81w928gtzyd9c3x4m9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Crystal Caverns 8055</title>
+    <ns>0</ns>
+    <id>264101</id>
+    <revision>
+      <id>637119</id>
+      <parentid>630018</parentid>
+      <timestamp>2026-02-13T21:28:06Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637119</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="677" sha1="jblkvt1sxlw9zw3amtdai0rbj69f3v1" xml:space="preserve">{{Location
+| Name=Crystal Caverns
+| Guid=3035-8055
+| Deck=A region on the planet Millennia.
+| Characters=Characters/Doldreks,Characters/Ice_Breaker,Characters/Jukebox
+| Concepts=
+| Objects=
+| Locations=Locations/Millennia
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3464774-8400449096-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3464774-8400449096-latest.png","path":"7\/73970\/","mime":"image\/png","sizes":"scale_small,square_medium,square_small,square_avatar,scale_super,square_tiny,scale_medium,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A region on the planet Millennia.</text>
+      <sha1>jblkvt1sxlw9zw3amtdai0rbj69f3v1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Cyberia</title>
+    <ns>0</ns>
+    <id>264216</id>
+    <revision>
+      <id>264673</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264673</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="409" sha1="0r8klegylkfw6uh7ts5swcp5k4vlpjs" xml:space="preserve">{{Location
+| Name=Cyberia
+| Guid=3035-8170
+| Deck=Cyberia is a fictional planet from the 1990 video game The Adventures of Rad Gravity. The planet is full of cyberpunks.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Cyberia is a fictional planet from the 1990 video game The Adventures of Rad Gravity. The planet is full of cyberpunks.</text>
+      <sha1>0r8klegylkfw6uh7ts5swcp5k4vlpjs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Cydonia</title>
+    <ns>0</ns>
+    <id>264366</id>
+    <revision>
+      <id>264824</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264824</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="163" sha1="jrue1em2xlieu8r5idgtudym8xq9yvf" xml:space="preserve">{{Location
+| Name=Cydonia
+| Guid=3035-8322
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jrue1em2xlieu8r5idgtudym8xq9yvf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Dam</title>
+    <ns>0</ns>
+    <id>264201</id>
+    <revision>
+      <id>637179</id>
+      <parentid>630078</parentid>
+      <timestamp>2026-02-13T21:28:49Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637179</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1043" sha1="rx250i901nift3vqoifnml0ojaffqro" xml:space="preserve">{{Location
+| Name=Dam
+| Guid=3035-8155
+| Deck=A barrier constructed to hold back water and raise its level, forming a reservoir used to generate electricity or as a water supply.
+| Characters=Characters/Carl_Johnson,Characters/James_Bond
+| Concepts=Concepts/BASE_Jumping,Concepts/Water_Current
+| Objects=Objects/Water
+| Locations=Locations/Bone_County,Locations/Flood_Control_Dam_3,Locations/Hoover_Dam,Locations/Nevada,Locations/Peak_View_Dam,Locations/River,Locations/San_Andreas
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3657646-7763895261-11481.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3657646-7763895261-11481.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_medium,square_avatar,square_small,scale_super,scale_medium,square_tiny,scale_small,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A barrier constructed to hold back water and raise its level, forming a reservoir used to generate electricity or as a water supply.</text>
+      <sha1>rx250i901nift3vqoifnml0ojaffqro</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/DeKalb</title>
+    <ns>0</ns>
+    <id>264289</id>
+    <revision>
+      <id>637244</id>
+      <parentid>630143</parentid>
+      <timestamp>2026-02-13T21:29:34Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637244</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="762" sha1="631ohgp2li5up5widypoeb9xz0fmziv" xml:space="preserve">{{Location
+| Name=DeKalb
+| Guid=3035-8244
+| Deck=DeKalb is a city in Illinois and the home of Northern Illinois University.
+| Characters=
+| Concepts=Concepts/Northern_Illinois_Huskies
+| Objects=
+| Locations=Locations/Illinois,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614412-2577542466-dekalb.jpeg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614412-2577542466-dekalb.jpeg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_medium,square_small,square_medium,scale_small,scale_super,square_tiny,square_avatar,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+DeKalb is a city in Illinois and the home of Northern Illinois University.</text>
+      <sha1>631ohgp2li5up5widypoeb9xz0fmziv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Denton</title>
+    <ns>0</ns>
+    <id>264288</id>
+    <revision>
+      <id>637243</id>
+      <parentid>630142</parentid>
+      <timestamp>2026-02-13T21:29:34Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637243</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="713" sha1="fu8hzogroe1wnao53dcpq23plo11s6q" xml:space="preserve">{{Location
+| Name=Denton
+| Guid=3035-8243
+| Deck=A city in Texas and the home of North Texas University.
+| Characters=
+| Concepts=Concepts/North_Texas_Mean_Green
+| Objects=
+| Locations=Locations/Texas,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614411-5418777570-Maske.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614411-5418777570-Maske.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_medium,square_small,square_medium,scale_super,scale_small,square_avatar,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Texas and the home of North Texas University.</text>
+      <sha1>fu8hzogroe1wnao53dcpq23plo11s6q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Dirt</title>
+    <ns>0</ns>
+    <id>264005</id>
+    <revision>
+      <id>264462</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264462</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="160" sha1="f04m5rd3cg7tmxl0udwh4ibyroyiztq" xml:space="preserve">{{Location
+| Name=Dirt
+| Guid=3035-7959
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>f04m5rd3cg7tmxl0udwh4ibyroyiztq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Divine Seaslight Cave</title>
+    <ns>0</ns>
+    <id>264012</id>
+    <revision>
+      <id>637080</id>
+      <parentid>629979</parentid>
+      <timestamp>2026-02-13T21:27:39Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637080</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="814" sha1="glo05a6owvwz8cye99u96mb0wlvnh0s" xml:space="preserve">{{Location
+| Name=Divine Seaslight Cave
+| Guid=3035-7966
+| Deck=Cave near the Winter Seaslight, an towering crystal that keeps the surrounding area in perpetual winter.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/20/202039/3445121-2022112023091000-e0a513f2ff231ca5e32e8423db190112.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3445121-2022112023091000-e0a513f2ff231ca5e32e8423db190112.jpg","path":"20\/202039\/","mime":"image\/jpeg","sizes":"square_medium,scale_super,scale_small,square_small,scale_medium,square_avatar,square_tiny,square_mini,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+Cave near the Winter Seaslight, an towering crystal that keeps the surrounding area in perpetual winter.</text>
+      <sha1>glo05a6owvwz8cye99u96mb0wlvnh0s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Dominica</title>
+    <ns>0</ns>
+    <id>264029</id>
+    <revision>
+      <id>264486</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264486</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="332" sha1="b8akc5nsxb61zgzaiwfcq6tt5ul0ix8" xml:space="preserve">{{Location
+| Name=Dominica
+| Guid=3035-7983
+| Deck=Dominica is an island republic in the Caribbean Sea. Its capital city is Roseau.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Dominica is an island republic in the Caribbean Sea. Its capital city is Roseau.</text>
+      <sha1>b8akc5nsxb61zgzaiwfcq6tt5ul0ix8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Dream Zone</title>
+    <ns>0</ns>
+    <id>263997</id>
+    <revision>
+      <id>264454</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264454</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="487" sha1="4ti4gf9of2ueqjy9trlv2snolo253l6" xml:space="preserve">{{Location
+| Name=Dream Zone
+| Guid=3035-7951
+| Deck=The setting of the series "Midnight Patrol: Adventures in the Dream Zone".
+| Characters=Characters/Carter_50283,Characters/Keiko,Characters/Nick_50281,Characters/Potsworth,Characters/Rosie_50280,Characters/The_Grand_Dozer,Characters/The_Nightmare_Prince
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The setting of the series "Midnight Patrol: Adventures in the Dream Zone".</text>
+      <sha1>4ti4gf9of2ueqjy9trlv2snolo253l6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Dundrod Circuit</title>
+    <ns>0</ns>
+    <id>264085</id>
+    <revision>
+      <id>264542</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264542</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="171" sha1="9zkvv5st2qyzhfqnj3gs1ar8s3uq061" xml:space="preserve">{{Location
+| Name=Dundrod Circuit
+| Guid=3035-8039
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9zkvv5st2qyzhfqnj3gs1ar8s3uq061</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Durham</title>
+    <ns>0</ns>
+    <id>264251</id>
+    <revision>
+      <id>637206</id>
+      <parentid>630105</parentid>
+      <timestamp>2026-02-13T21:29:08Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637206</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="725" sha1="8dpuk7t76oc6y9aox6pw25poxp678va" xml:space="preserve">{{Location
+| Name=Durham
+| Guid=3035-8206
+| Deck=A city in North Carolina and the home of Duke University.
+| Characters=
+| Concepts=Concepts/Duke_Blue_Devils
+| Objects=
+| Locations=Locations/North_Carolina,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614330-0602969502-Durham.jpeg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614330-0602969502-Durham.jpeg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_medium,square_medium,square_small,scale_super,square_tiny,square_avatar,scale_small,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+A city in North Carolina and the home of Duke University.</text>
+      <sha1>8dpuk7t76oc6y9aox6pw25poxp678va</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Dusty Depot</title>
+    <ns>0</ns>
+    <id>264417</id>
+    <revision>
+      <id>264875</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264875</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="167" sha1="bee1gyg1uprpg0uues75ta3vkh6aiip" xml:space="preserve">{{Location
+| Name=Dusty Depot
+| Guid=3035-8373
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>bee1gyg1uprpg0uues75ta3vkh6aiip</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Dwemer Ruins</title>
+    <ns>0</ns>
+    <id>264140</id>
+    <revision>
+      <id>1007416</id>
+      <parentid>752335</parentid>
+      <timestamp>2026-07-19T17:44:40Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007416</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="982" sha1="ognnzz2nwlh92rgci7i64w8eqsc6mbn" xml:space="preserve">{{Location
+| Name=Dwemer Ruins
+| Guid=3035-8094
+| Characters=
+| Concepts=Concepts/Ancient_Advanced_Civilization_Technology,Concepts/Chaurus,Concepts/Dwemer,Concepts/Falmer,Concepts/Golem_2538
+| Objects=Objects/Bed,Objects/Bench,Objects/Column,Objects/Gear,Objects/Staircase,Objects/Treasure_Chest
+| Locations=Locations/Boiler_Room,Locations/Cyrodiil,Locations/Morrowind,Locations/Ruined_City,Locations/Skyrim,Locations/Solstheim,Locations/Tamriel,Locations/Underground
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3509795-5654921451-main-qimg-9f4b63eae5dba8b544f3801ba42bbc81-pjlq.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3509795-5654921451-main-qimg-9f4b63eae5dba8b544f3801ba42bbc81-pjlq.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,square_medium,square_mini,scale_super,square_tiny,scale_small,scale_medium,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;</text>
+      <sha1>ognnzz2nwlh92rgci7i64w8eqsc6mbn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/East Lansing</title>
+    <ns>0</ns>
+    <id>264279</id>
+    <revision>
+      <id>637234</id>
+      <parentid>630133</parentid>
+      <timestamp>2026-02-13T21:29:27Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637234</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="854" sha1="1zxev46hro7s6ah65uxg2qc2ygvnz48" xml:space="preserve">{{Location
+| Name=East Lansing
+| Guid=3035-8234
+| Deck=East Lansing is a city in Michigan and a suburb of the state capital, Lansing. It is home to Michigan State University.
+| Characters=
+| Concepts=Concepts/Michigan_State_Spartans
+| Objects=
+| Locations=Locations/Michigan,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614373-0668496012-images.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614373-0668496012-images.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_small,scale_medium,scale_super,square_small,square_medium,square_tiny,square_avatar,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+East Lansing is a city in Michigan and a suburb of the state capital, Lansing. It is home to Michigan State University.</text>
+      <sha1>1zxev46hro7s6ah65uxg2qc2ygvnz48</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Ebbets Field</title>
+    <ns>0</ns>
+    <id>264428</id>
+    <revision>
+      <id>264886</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264886</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="168" sha1="mvbif7miivb13sn3ctax7ik9i4dttk6" xml:space="preserve">{{Location
+| Name=Ebbets Field
+| Guid=3035-8384
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>mvbif7miivb13sn3ctax7ik9i4dttk6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Effluvia</title>
+    <ns>0</ns>
+    <id>264217</id>
+    <revision>
+      <id>264674</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264674</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="420" sha1="5u6odcb6mn3bshtr8dww0vj2aevwi7l" xml:space="preserve">{{Location
+| Name=Effluvia
+| Guid=3035-8171
+| Deck=Effluvia is a fictional planet from the 1990 video game The Adventures of Rad Gravity. The planet is used as a garbage dump.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Effluvia is a fictional planet from the 1990 video game The Adventures of Rad Gravity. The planet is used as a garbage dump.</text>
+      <sha1>5u6odcb6mn3bshtr8dww0vj2aevwi7l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/El Salvador</title>
+    <ns>0</ns>
+    <id>264028</id>
+    <revision>
+      <id>264485</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264485</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="409" sha1="92vkffo525cj0a79qyh1iyxw88yxsnh" xml:space="preserve">{{Location
+| Name=El Salvador
+| Guid=3035-7982
+| Deck=El Salvador is a republic in Central America. Its capital city is called San Salvador.
+| Characters=Characters/Hugo_Lacerda
+| Concepts=
+| Objects=
+| Locations=Locations/McDonalds,Locations/Taco_Bell
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+El Salvador is a republic in Central America. Its capital city is called San Salvador.</text>
+      <sha1>92vkffo525cj0a79qyh1iyxw88yxsnh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Ellis Island</title>
+    <ns>0</ns>
+    <id>264182</id>
+    <revision>
+      <id>637173</id>
+      <parentid>630072</parentid>
+      <timestamp>2026-02-13T21:28:45Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637173</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="892" sha1="65a3wlgry2d4xrmejmznetmassn4fog" xml:space="preserve">{{Location
+| Name=Ellis Island
+| Guid=3035-8136
+| Deck=Ellis Island is a federally owned island in New York Harbor, situated within the U.S. states of New Jersey and New York.
+| Characters=
+| Concepts=
+| Objects=Objects/Building
+| Locations=Locations/Manhattan,Locations/New_York,Locations/New_York_City,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3538683-1658322257-Ellis.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3538683-1658322257-Ellis.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_avatar,scale_small,square_medium,scale_super,square_small,scale_medium,square_mini,square_tiny,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Ellis Island is a federally owned island in New York Harbor, situated within the U.S. states of New Jersey and New York.</text>
+      <sha1>65a3wlgry2d4xrmejmznetmassn4fog</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Emerald Grove</title>
+    <ns>0</ns>
+    <id>264214</id>
+    <revision>
+      <id>264671</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264671</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="169" sha1="kq5zcigtd62esbx9gdhut0crnqpvaeq" xml:space="preserve">{{Location
+| Name=Emerald Grove
+| Guid=3035-8168
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>kq5zcigtd62esbx9gdhut0crnqpvaeq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Empire of the Plant People</title>
+    <ns>0</ns>
+    <id>264100</id>
+    <revision>
+      <id>637118</id>
+      <parentid>630017</parentid>
+      <timestamp>2026-02-13T21:28:05Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637118</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="983" sha1="7h5otjr8vek6cbqej17v5lr6r7gmlt9" xml:space="preserve">{{Location
+| Name=Empire of the Plant People
+| Guid=3035-8054
+| Deck=An underground civilization beneath San Francisco, California. Also known as the Underground Plant Kingdom, Plant Kingdom, or Plant Empire.
+| Characters=Characters/Dr_Fern,Characters/Ficus,Characters/Jimmy_50711,Characters/The_Guards
+| Concepts=
+| Objects=
+| Locations=Locations/California,Locations/San_Francisco,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3464660-3973197202-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3464660-3973197202-latest.png","path":"7\/73970\/","mime":"image\/png","sizes":"scale_small,square_small,square_avatar,scale_medium,scale_avatar,square_medium,square_mini,scale_super,square_tiny,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+An underground civilization beneath San Francisco, California. Also known as the Underground Plant Kingdom, Plant Kingdom, or Plant Empire.</text>
+      <sha1>7h5otjr8vek6cbqej17v5lr6r7gmlt9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Eritrea</title>
+    <ns>0</ns>
+    <id>264351</id>
+    <revision>
+      <id>264809</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264809</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="479" sha1="k67emgy56fd6b609c1frgwl48fs2urn" xml:space="preserve">{{Location
+| Name=Eritrea
+| Guid=3035-8307
+| Deck=Country in the Horn of Africa region of Eastern Africa, with its capital and largest city being Asmara
+| Characters=Characters/Yodit_Haile
+| Concepts=Concepts/Poverty
+| Objects=
+| Locations=Locations/Africa,Locations/Desert,Locations/Earth,Locations/Steppe
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Country in the Horn of Africa region of Eastern Africa, with its capital and largest city being Asmara</text>
+      <sha1>k67emgy56fd6b609c1frgwl48fs2urn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Eswatini</title>
+    <ns>0</ns>
+    <id>264047</id>
+    <revision>
+      <id>264504</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264504</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="502" sha1="2ywizzvl5x26wvnrid4196t1qzzrqb0" xml:space="preserve">{{Location
+| Name=Eswatini
+| Guid=3035-8001
+| Deck=Eswatini, until 19 April 2018 known as Swaziland, is a kingdom in Southern Africa. Its executive capital city is Mbabane and its capital city is legislative Lobamba.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Eswatini, until 19 April 2018 known as Swaziland, is a kingdom in Southern Africa. Its executive capital city is Mbabane and its capital city is legislative Lobamba.</text>
+      <sha1>2ywizzvl5x26wvnrid4196t1qzzrqb0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Eugene</title>
+    <ns>0</ns>
+    <id>264297</id>
+    <revision>
+      <id>637252</id>
+      <parentid>630151</parentid>
+      <timestamp>2026-02-13T21:29:40Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637252</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="711" sha1="9rciej8ejp48jes68y97smhtpmgvgdq" xml:space="preserve">{{Location
+| Name=Eugene
+| Guid=3035-8252
+| Deck=A city in Oregon and the home of the University of Oregon.
+| Characters=
+| Concepts=Concepts/Oregon_Ducks
+| Objects=
+| Locations=Locations/Oregon,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614418-5289097442-shutt.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614418-5289097442-shutt.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,square_small,square_medium,square_mini,square_avatar,square_tiny,scale_medium,scale_small,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Oregon and the home of the University of Oregon.</text>
+      <sha1>9rciej8ejp48jes68y97smhtpmgvgdq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Eureka</title>
+    <ns>0</ns>
+    <id>264368</id>
+    <revision>
+      <id>637300</id>
+      <parentid>630199</parentid>
+      <timestamp>2026-02-13T21:30:13Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637300</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="875" sha1="9gi7z6sowzgkvpedtb8lozde9bwpn41" xml:space="preserve">{{Location
+| Name=Eureka
+| Guid=3035-8324
+| Deck=Eureka is a city in the northern part of California, located in Humboldt County.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/California,Locations/Earth,Locations/Humboldt_County,Locations/North_America,Locations/Pacific_Ocean,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America,Locations/U_S_Route_101
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3651976-eureka-main.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3651976-eureka-main.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_medium,square_avatar,square_small,scale_super,scale_small,scale_medium,square_tiny,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Eureka is a city in the northern part of California, located in Humboldt County.</text>
+      <sha1>9gi7z6sowzgkvpedtb8lozde9bwpn41</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Evanston</title>
+    <ns>0</ns>
+    <id>264290</id>
+    <revision>
+      <id>637245</id>
+      <parentid>630144</parentid>
+      <timestamp>2026-02-13T21:29:35Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637245</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="768" sha1="lh3mb2ctmmzuhhyphnikauvywoa3iun" xml:space="preserve">{{Location
+| Name=Evanston
+| Guid=3035-8245
+| Deck=A city in Illinois and suburb of Chicago. It is home to Northwestern University.
+| Characters=
+| Concepts=Concepts/Northwestern_Wildcats
+| Objects=
+| Locations=Locations/Illinois,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614413-4179176148-Evans.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614413-4179176148-Evans.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,square_tiny,square_medium,square_small,square_avatar,scale_medium,scale_small,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Illinois and suburb of Chicago. It is home to Northwestern University.</text>
+      <sha1>lh3mb2ctmmzuhhyphnikauvywoa3iun</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Everglades</title>
+    <ns>0</ns>
+    <id>264353</id>
+    <revision>
+      <id>264811</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264811</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="334" sha1="h34nm8ava0felfkziyknbg563x9i7mr" xml:space="preserve">{{Location
+| Name=Everglades
+| Guid=3035-8309
+| Characters=Characters/Attila_the_Frog,Characters/Genghis_Frog,Characters/Leatherhead,Characters/Napoleon_Bonafrog,Characters/Rasputin_the_Mad_Frog
+| Concepts=
+| Objects=
+| Locations=Locations/Florida,Locations/Swamp
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>h34nm8ava0felfkziyknbg563x9i7mr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Fairy Woods</title>
+    <ns>0</ns>
+    <id>264465</id>
+    <revision>
+      <id>264923</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264923</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="167" sha1="351sgfvi2o6ay1ldba6qhngeby340n2" xml:space="preserve">{{Location
+| Name=Fairy Woods
+| Guid=3035-8422
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>351sgfvi2o6ay1ldba6qhngeby340n2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Family house</title>
+    <ns>0</ns>
+    <id>264117</id>
+    <revision>
+      <id>264574</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264574</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="168" sha1="4v0gc7ztcp5k5r2n4irfwditqdli6em" xml:space="preserve">{{Location
+| Name=Family house
+| Guid=3035-8071
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>4v0gc7ztcp5k5r2n4irfwditqdli6em</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Fayetteville</title>
+    <ns>0</ns>
+    <id>264236</id>
+    <revision>
+      <id>637191</id>
+      <parentid>630090</parentid>
+      <timestamp>2026-02-13T21:28:58Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637191</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="765" sha1="h4xbl4t9dpvf6uv14efjiuolozd2fdj" xml:space="preserve">{{Location
+| Name=Fayetteville
+| Guid=3035-8191
+| Deck=Fayetteville is a city in Arkansas and the home of the University of Arkansas.
+| Characters=
+| Concepts=Concepts/Arkansas_Razorbacks
+| Objects=
+| Locations=Locations/Arkansas,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614052-4413542997-fayet.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614052-4413542997-fayet.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_medium,square_tiny,square_small,square_medium,scale_super,square_avatar,scale_small,square_mini,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+Fayetteville is a city in Arkansas and the home of the University of Arkansas.</text>
+      <sha1>h4xbl4t9dpvf6uv14efjiuolozd2fdj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Federal Hall</title>
+    <ns>0</ns>
+    <id>264444</id>
+    <revision>
+      <id>637331</id>
+      <parentid>630230</parentid>
+      <timestamp>2026-02-13T21:30:35Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637331</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1063" sha1="5ijt88yg93ogxgekbfbllouvv3taaaf" xml:space="preserve">{{Location
+| Name=Federal Hall
+| Guid=3035-8401
+| Deck=Federal Hall was the first capitol building of the United States established under the Constitution.
+| Characters=Characters/Connor_Kenway,Characters/George_Washington,Characters/Raiden_347,Characters/Rosemary,Characters/Solid_Snake,Characters/Solidus_Snake,Characters/Vamp
+| Concepts=Concepts/The_Patriots
+| Objects=
+| Locations=Locations/Earth,Locations/Manhattan,Locations/New_York,Locations/New_York_City,Locations/North_America,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3794473-17fad1e1-1dd8-b71b-0b4620b96f176ade.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3794473-17fad1e1-1dd8-b71b-0b4620b96f176ade.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_medium,scale_small,scale_super,square_medium,square_avatar,square_small,square_tiny,square_mini","caption":null},"background":[]}' /&gt;
+Federal Hall was the first capitol building of the United States established under the Constitution.</text>
+      <sha1>5ijt88yg93ogxgekbfbllouvv3taaaf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Fisk Tower</title>
+    <ns>0</ns>
+    <id>264166</id>
+    <revision>
+      <id>637162</id>
+      <parentid>630061</parentid>
+      <timestamp>2026-02-13T21:28:38Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637162</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1260" sha1="1k2bcvz67m2tesyj306hqddwvjadusf" xml:space="preserve">{{Location
+| Name=Fisk Tower
+| Guid=3035-8120
+| Deck=Fisk Tower is a building owned by the Kingpin, AKA Wilson Fisk. He operates both his civilian legal activities out of here, as well as the more shady illegal activities in secret.
+| Characters=Characters/Ash_Williams,Characters/Bullseye,Characters/Daredevil,Characters/Deadpool,Characters/Kingpin,Characters/Miles_Morales,Characters/Peter_Parker,Characters/Punisher
+| Concepts=
+| Objects=
+| Locations=Locations/Manhattan,Locations/New_York,Locations/New_York_City,Locations/North_America,Locations/The_Baxter_Building,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3514136-fisk_tower_from_msm_screen.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3514136-fisk_tower_from_msm_screen.png","path":"8\/82962\/","mime":"image\/png","sizes":"square_small,square_avatar,scale_medium,scale_super,scale_small,square_medium,square_tiny,square_mini,scale_avatar,screen_kubrick,screen_medium,scale_large","caption":null},"background":[]}' /&gt;
+Fisk Tower is a building owned by the Kingpin, AKA Wilson Fisk. He operates both his civilian legal activities out of here, as well as the more shady illegal activities in secret.</text>
+      <sha1>1k2bcvz67m2tesyj306hqddwvjadusf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Flower Kingdom 8124</title>
+    <ns>0</ns>
+    <id>264170</id>
+    <revision>
+      <id>637165</id>
+      <parentid>630064</parentid>
+      <timestamp>2026-02-13T21:28:40Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637165</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1366" sha1="83owwocze6j3fxgq5b0w65ff7a6rjj1" xml:space="preserve">{{Location
+| Name=Flower Kingdom
+| Guid=3035-8124
+| Deck=The main setting of Super Mario Bros. Wonder.
+| Characters=Characters/Bowser,Characters/Bowser_Jr,Characters/Captain_Toad,Characters/Hammer_Bro,Characters/Kamek,Characters/King_Boo,Characters/Lakitu,Characters/Luigi,Characters/Mario,Characters/Nabbit,Characters/Prince_Florian,Characters/Princess_Daisy,Characters/Princess_Peach,Characters/Toad,Characters/Toadette,Characters/Yoshi
+| Concepts=Concepts/Boo,Concepts/Bullet_Bill,Concepts/Buzzy_Beetle,Concepts/Cheep_Cheep,Concepts/Dry_Bones,Concepts/Goomba,Concepts/Goombrat,Concepts/Koopa_Paratroopa,Concepts/Koopa_Troopa,Concepts/Mecha_Koopa,Concepts/Muncher,Concepts/Ninji,Concepts/Nipper,Concepts/Piranha_Plant,Concepts/Podoboo,Concepts/Pokey,Concepts/Poplins,Concepts/Spark,Concepts/Spike,Concepts/Spiny,Concepts/Thwomp
+| Objects=Objects/Bob_omb,Objects/Hothead
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3516011-8677123670-1600p.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3516011-8677123670-1600p.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_small,square_tiny,square_avatar,square_medium,square_small,scale_medium,scale_super,scale_tiny,square_mini,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+The main setting of Super Mario Bros. Wonder.</text>
+      <sha1>83owwocze6j3fxgq5b0w65ff7a6rjj1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Flush Factory</title>
+    <ns>0</ns>
+    <id>264006</id>
+    <revision>
+      <id>637074</id>
+      <parentid>629973</parentid>
+      <timestamp>2026-02-13T21:27:34Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637074</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="757" sha1="883wak30ssz595fai5qhghgwmzveuj1" xml:space="preserve">{{Location
+| Name=Flush Factory
+| Guid=3035-7960
+| Deck=Flush Factory is a toilet manufacturer on Apollo Island.
+| Characters=Characters/Jonesy
+| Concepts=
+| Objects=Objects/Grenade,Objects/Toilet
+| Locations=Locations/Apollo,Locations/Athena
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3443662-flush_factory_-_location_-_fortnite.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3443662-flush_factory_-_location_-_fortnite.png","path":"8\/82962\/","mime":"image\/png","sizes":"square_small,scale_super,scale_medium,square_medium,square_avatar,scale_small,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Flush Factory is a toilet manufacturer on Apollo Island.</text>
+      <sha1>883wak30ssz595fai5qhghgwmzveuj1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Fort Collins</title>
+    <ns>0</ns>
+    <id>264250</id>
+    <revision>
+      <id>637205</id>
+      <parentid>630104</parentid>
+      <timestamp>2026-02-13T21:29:08Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637205</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="764" sha1="trtyqdhbrh97e2a6h46hvywc13ddekf" xml:space="preserve">{{Location
+| Name=Fort Collins
+| Guid=3035-8205
+| Deck=Fort Collins is a city in Colorado and the home of Colorado State University.
+| Characters=
+| Concepts=Concepts/Colorado_State_Rams
+| Objects=
+| Locations=Locations/Colorado,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614327-8690211319-b595a.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614327-8690211319-b595a.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,square_avatar,square_medium,square_tiny,scale_super,scale_small,scale_medium,square_mini,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+Fort Collins is a city in Colorado and the home of Colorado State University.</text>
+      <sha1>trtyqdhbrh97e2a6h46hvywc13ddekf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Fort George G Meade</title>
+    <ns>0</ns>
+    <id>264177</id>
+    <revision>
+      <id>637169</id>
+      <parentid>630068</parentid>
+      <timestamp>2026-02-13T21:28:42Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637169</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="926" sha1="9bcbve3b2u554aadysh89bqrwdf6y8v" xml:space="preserve">{{Location
+| Name=Fort George G. Meade
+| Guid=3035-8131
+| Deck=Fort George G. Meade, also known simply as Fort Meade, is an Army installation in Maryland, and home to the NSA headquarters.
+| Characters=Characters/Sam_Fisher
+| Concepts=Concepts/National_Security_Agency,Concepts/United_States_Army
+| Objects=
+| Locations=Locations/Maryland,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3529380-fort_g_meade_seal.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3529380-fort_g_meade_seal.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_medium,square_avatar,square_small,square_medium,scale_super,scale_small,square_mini,square_tiny,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+Fort George G. Meade, also known simply as Fort Meade, is an Army installation in Maryland, and home to the NSA headquarters.</text>
+      <sha1>9bcbve3b2u554aadysh89bqrwdf6y8v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Fort Meade</title>
+    <ns>0</ns>
+    <id>264176</id>
+    <revision>
+      <id>637168</id>
+      <parentid>630067</parentid>
+      <timestamp>2026-02-13T21:28:42Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637168</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1002" sha1="23hjsvleobzlyfhavyvtfhlxy7vnyx9" xml:space="preserve">{{Location
+| Name=Fort Meade
+| Guid=3035-8130
+| Deck=Fort Meade is a town in Maryland that is home to an Army installation of the same name, as well as the NSA headquarters.
+| Characters=Characters/Irving_Lambert,Characters/Sam_Fisher
+| Concepts=Concepts/National_Security_Agency,Concepts/United_States_Army
+| Objects=
+| Locations=Locations/Earth,Locations/Maryland,Locations/North_America,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3529379-disa-headquarters.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3529379-disa-headquarters.png","path":"8\/82962\/","mime":"image\/png","sizes":"square_small,scale_super,square_medium,scale_small,scale_medium,square_avatar,square_tiny,scale_avatar,square_mini,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Fort Meade is a town in Maryland that is home to an Army installation of the same name, as well as the NSA headquarters.</text>
+      <sha1>23hjsvleobzlyfhavyvtfhlxy7vnyx9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Fort Worth</title>
+    <ns>0</ns>
+    <id>264309</id>
+    <revision>
+      <id>637264</id>
+      <parentid>630163</parentid>
+      <timestamp>2026-02-13T21:29:48Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637264</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="749" sha1="b7h62w2xvhg814w2z27ui540dz6i9fa" xml:space="preserve">{{Location
+| Name=Fort Worth
+| Guid=3035-8264
+| Deck=A city in north Texas and the home of Texas Christian University.
+| Characters=
+| Concepts=Concepts/TCU_Horned_Frogs
+| Objects=
+| Locations=Locations/Dallas,Locations/Texas,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614430-5109233198-tsg-c.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614430-5109233198-tsg-c.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,square_mini,square_medium,scale_super,scale_small,square_tiny,scale_medium,square_avatar,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A city in north Texas and the home of Texas Christian University.</text>
+      <sha1>b7h62w2xvhg814w2z27ui540dz6i9fa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/French Riviera</title>
+    <ns>0</ns>
+    <id>264381</id>
+    <revision>
+      <id>264839</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264839</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="402" sha1="ezbutqv3fqnr6nq7grd8jx8jyxg8ac9" xml:space="preserve">{{Location
+| Name=French Riviera
+| Guid=3035-8337
+| Deck=A seaside resort, also called Cote D'Azur (Azure Coast).
+| Characters=
+| Concepts=
+| Objects=Objects/Sand
+| Locations=Locations/Beach,Locations/France,Locations/Italian_Riviera,Locations/Ocean,Locations/Tropical_Resort
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+A seaside resort, also called Cote D'Azur (Azure Coast).</text>
+      <sha1>ezbutqv3fqnr6nq7grd8jx8jyxg8ac9</sha1>
+    </revision>
+  </page>
+</mediawiki>
