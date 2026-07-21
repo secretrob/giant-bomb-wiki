@@ -46,6 +46,7 @@ class ImportWikiTemplates extends Maintenance
 
         // Shared templates used by multiple page types
         $sharedTemplates = [
+            "Module:Related" => "$moduleDir/Module_Related.wikitext",
             "Template:GBFigure" => "$templateDir/Template_GBFigure.wikitext",
             "Property:Has_body_image" =>
                 "$pagesDir/Property_Hasbodyimage.wikitext",
@@ -55,7 +56,9 @@ class ImportWikiTemplates extends Maintenance
         ];
 
         // Game page templates
+        // module first: templates #invoke it, so it must exist before they land
         $gameTemplates = [
+            "Module:GameSidebar" => "$moduleDir/Module_GameSidebar.wikitext",
             "Template:Game" => "$templateDir/Template_Game.wikitext",
             "Template:GameEnd" => "$templateDir/Template_GameEnd.wikitext",
             "Template:GameSidebar" => "$templateDir/Template_GameSidebar.wikitext",

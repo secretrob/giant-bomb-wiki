@@ -4,163 +4,23 @@ Renders the game page sidebar with structured data pulled from Semantic MediaWik
 
 This template is called automatically by <code><nowiki>{{GameEnd}}</nowiki></code>.
 
+All data comes from two calls into [[Module:GameSidebar]]: one SMW query for
+the page's own properties (details block + fallback lists) and one gb_related
+read for the ranked accordions (see the GBRelated extension).
+
 ===Sections===
 # '''Game details''' - Name, release date, platforms, developer, publisher, genre, theme, franchise, aliases
-# '''Related content''' - Accordion sections for Characters, Locations, Concepts, Objects, People
-
-===SMW Properties Used===
-* <code>Has name</code> - Game title
-* <code>Has release date</code> - Release date
-* <code>Has release date type</code> - Release date type
-* <code>Has platforms</code> - Platform links
-* <code>Has developers</code> - Developer company links
-* <code>Has publishers</code> - Publisher company links
-* <code>Has genres</code> - Genre links
-* <code>Has themes</code> - Theme links
-* <code>Has franchises</code> - Franchise link
-* <code>Has aliases</code> - Alternative names
-* <code>Has characters</code> - Character links
-* <code>Has locations</code> - Location links
-* <code>Has concepts</code> - Concept links
-* <code>Has objects</code> - Object links
+# '''Related content''' - Accordion sections for Similar Games, Characters, Locations, Concepts, Objects, People
 </noinclude><includeonly>
 <div class="gb-sidebar-section">
 <div class="gb-sidebar-reviews">{{#invoke:ReviewQuery|renderSidebar}}</div>
 <div class="gb-sidebar-section-header">Game details</div>
 <div class="gb-sidebar-section-content">
-<dl class="gb-game-details">
-
-<dt>Name</dt>
-<dd>{{#show:{{FULLPAGENAME}}|?Has name|default={{SUBPAGENAME}}}}</dd>
-
-{{#show:{{FULLPAGENAME}}
-  |?Has release date#ISO
-  |?Has release date type
-  |format=list
-  |template=DateDisplay
-  |link=none
-  |default=
-  |intro=<dt>Release Date</dt><dd>
-  |outro=</dd>
-}}
-
-<dt>Platform</dt>
-<dd>{{#show:{{FULLPAGENAME}}|?Has platforms|format=list|link=all|sep=<br/>|limit=50}}</dd>
-
-<dt>Developer</dt>
-<dd>{{#show:{{FULLPAGENAME}}|?Has developers|format=list|link=all|sep=<br/>|limit=20}}</dd>
-
-<dt>Publisher</dt>
-<dd>{{#show:{{FULLPAGENAME}}|?Has publishers|format=list|link=all|sep=<br/>|limit=20}}</dd>
-
-<dt>Genre</dt>
-<dd>{{#show:{{FULLPAGENAME}}|?Has genres|format=list|link=all|sep=<br/>|limit=20}}</dd>
-
-<dt>Theme</dt>
-<dd>{{#show:{{FULLPAGENAME}}|?Has themes|format=list|link=all|sep=<br/>|limit=20}}</dd>
-
-{{#show:{{FULLPAGENAME}}
-  |?Has franchises
-  |format=list
-  |link=all
-  |default=
-  |intro=<dt>Franchise</dt><dd>
-  |outro=</dd>
-}}
-
-{{#show:{{FULLPAGENAME}}
-  |?Has aliases
-  |format=list
-  |link=none
-  |default=
-  |intro=<dt>Aliases</dt><dd>
-  |outro=</dd>
-}}
-</dl>
+{{#invoke:GameSidebar|details}}
 </div>
 </div>
 
 <div class="gb-sidebar-accordions">
-
-<div class="gb-accordion gb-accordion--open">
-<div class="gb-accordion-header">Characters</div>
-<ul class="gb-accordion-content">
-{{#show:{{FULLPAGENAME}}
-  |?Has characters
-  |format=list
-  |link=all
-  |limit=20
-  |default=<li><em>None</em></li>
-  |intro=<li>
-  |outro=</li>
-  |sep=</li><li>
-}}
-</ul>
-</div>
-
-<div class="gb-accordion">
-<div class="gb-accordion-header">Locations</div>
-<ul class="gb-accordion-content">
-{{#show:{{FULLPAGENAME}}
-  |?Has locations
-  |format=list
-  |link=all
-  |limit=20
-  |default=<li><em>None</em></li>
-  |intro=<li>
-  |outro=</li>
-  |sep=</li><li>
-}}
-</ul>
-</div>
-
-<div class="gb-accordion">
-<div class="gb-accordion-header">Concepts</div>
-<ul class="gb-accordion-content">
-{{#show:{{FULLPAGENAME}}
-  |?Has concepts
-  |format=list
-  |link=all
-  |limit=20
-  |default=<li><em>None</em></li>
-  |intro=<li>
-  |outro=</li>
-  |sep=</li><li>
-}}
-</ul>
-</div>
-
-<div class="gb-accordion">
-<div class="gb-accordion-header">Objects</div>
-<ul class="gb-accordion-content">
-{{#show:{{FULLPAGENAME}}
-  |?Has objects
-  |format=list
-  |link=all
-  |limit=20
-  |default=<li><em>None</em></li>
-  |intro=<li>
-  |outro=</li>
-  |sep=</li><li>
-}}
-</ul>
-</div>
-
-<div class="gb-accordion">
-<div class="gb-accordion-header">People</div>
-<ul class="gb-accordion-content">
-{{#show:{{FULLPAGENAME}}
-  |?Has people
-  |format=list
-  |link=all
-  |limit=20
-  |default=<li><em>None</em></li>
-  |intro=<li>
-  |outro=</li>
-  |sep=</li><li>
-}}
-</ul>
-</div>
-
+{{#invoke:GameSidebar|accordions}}
 </div>
 </includeonly>

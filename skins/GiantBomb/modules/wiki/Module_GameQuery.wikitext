@@ -1,46 +1,100 @@
 local p = {}
 
+local RELEVANCE_CAP = 500
+
+-- smw printouts come back as nested tables -> flatten to strings
+local function getSafe(result, field, isList)
+    local d = result.printouts[field] or {}
+    local vals = {}
+    for _, v in ipairs(d) do
+        local str = type(v) == "table" and (v.fulltext or v.raw or "") or tostring(v)
+        table.insert(vals, str)
+    end
+    return isList and table.concat(vals, ", ") or (vals[1] or "")
+end
+
+local function fallbackDisplayTitle(rawTitle)
+    local withoutPrefix = rawTitle:gsub("^[Gg][Aa][Mm][Ee][Ss]/", "")
+    local withSpaces = withoutPrefix:gsub("_", " ")
+    local trimmed = withSpaces:gsub("%s+", " "):gsub("^%s+", ""):gsub("%s+$", "")
+    local noIdSuffix = trimmed:gsub("%s+%d+$", "")
+    if noIdSuffix ~= "" then
+        return noIdSuffix
+    end
+    return trimmed
+end
+
+local function displayName(result)
+    local name = getSafe(result, 'Has name', false)
+    if name == "" then
+        name = fallbackDisplayTitle(result.fulltext or "")
+    end
+    return name
+end
+
 function p.render(frame)
     local args = frame.args
     local parentArgs = frame:getParent() and frame:getParent().args or {}
     local rawPlatform = args.chosen_platform or "All"
     local platform = mw.uri.decode(rawPlatform, "WIKI")
     local searchFilter = mw.uri.decode(args.search_filter or parentArgs.search_filter or "","QUERY")
-    
-    local sortFilter = mw.uri.decode(args.sort_by or parentArgs.sort_by or "name", "WIKI"):lower()
-	local sortProp = "Creation date" -- Default
-    local sortOrder = "descending"
 
-    if sortFilter == "latest" then
+    local sortFilter = mw.uri.decode(args.sort_by or parentArgs.sort_by or "", "WIKI"):lower()
+    -- search -> relevance; popular -> gb_page_score; default feed -> has a
+    -- photo, latest activity first (mod date covers newly created too)
+    local relevanceMode = false
+    local popularMode = false
+    local defaultMode = false
+    local sortProp = "Creation date"
+    local sortOrder = "ascending"
+
+    if sortFilter == "newest" then
+        sortProp = "Creation date"
+        sortOrder = "descending"
+    elseif sortFilter == "latest" then
         sortProp = "Modification date"
         sortOrder = "descending"
     elseif sortFilter == "name" then
         sortProp = "Has name"
         sortOrder = "ascending"
+    elseif sortFilter == "popular" and searchFilter == "" then
+        popularMode = true
+    elseif searchFilter ~= "" then
+        -- no usable sort + a search term -> best match
+        relevanceMode = true
+    else
+        defaultMode = true
+        sortProp = "Modification date"
+        sortOrder = "descending"
     end
 
-    -- Try to get 'limit' from invoke args, then parent args, then default to 48
     local limit = tonumber(args.limit) or tonumber(parentArgs.limit) or 48
     local offset = tonumber(args.offset) or tonumber(parentArgs.offset) or 0
-    
+
     -- This handles the browser's conversion of spaces to +
     platform = platform:gsub("%+", " ")
-    
+
     -- Cleanup: If #urlget failed and returned the literal string, default to All
     if platform:find('{{#urlget') then
         platform = "All"
     end
 
+    local function noResultsDiv()
+        local what = searchFilter ~= "" and ('"' .. searchFilter .. '"') or platform
+        return '<div class="no-results">No games found for ' .. what .. '</div>'
+    end
+
     -- 1. Construct the Query
-	local query = "[[Category:Games]]"
-	
-	if platform ~= "All" then
-        -- 4. Clean up any remaining underscores for SMW consistency
+    local base = "[[Category:Games]]"
+
+    if platform ~= "All" then
         local smwValue = platform:gsub("_", " ")
-	    query = query .. " [[Has platforms::" .. smwValue .. "]]"
-	end
-	
-	-- Filter by title, name, or alias
+        base = base .. " [[Has platforms::" .. smwValue .. "]]"
+    end
+
+    -- Filter by title, name, or alias
+    local query = base
+    local term = ""
     if searchFilter ~= "" then
         -- strip query/fulltext metachars so input can't break the ask syntax
         local clean = searchFilter:gsub("[%[%]|<>{}]", ""):gsub('["%+%-%(%)~@%*:]', " ")
@@ -54,8 +108,9 @@ function p.render(frame)
                     ftSafe = false
                 end
             end
+            -- normalized term for relevance scoring
+            term = table.concat(words, " "):lower()
             local dbSearch = table.concat(words, "_")
-            local base = query
             -- OR of full conjunctions; SMW has no OR inside a conjunction
             -- page title substring
             query = base .. " [[~*" .. dbSearch .. "*]]"
@@ -78,125 +133,211 @@ function p.render(frame)
         end
     end
 
-    -- 2. Execute Query (pcall: a bad query shows "no results", not a fatal)
-    local ok, queryData = pcall(mw.smw.getQueryResult, {
-        query,
+    if defaultMode then
+        query = query .. " [[Has image::+]]"
+    end
+
+    local cardPrintouts = {
         "?Has name",
         "?Has image",
         "?Has platforms",
         "?Has release date",
         "?Has deck",
-        limit = limit,
-        offset = offset,
-        ["count"] = true,
         "?Modification date",
-    	"?Creation date",
-        sort = sortProp,
-        order = sortOrder
-    })
-    if not ok then
-        queryData = nil
+        "?Creation date",
+    }
+
+    -- card data for an already-ranked page of titles, order preserved
+    local function fetchCards(titles)
+        local rank = {}
+        for i, t in ipairs(titles) do
+            rank[t] = i
+        end
+        local cardQuery = { "[[" .. table.concat(titles, "||") .. "]]" }
+        for _, po in ipairs(cardPrintouts) do
+            cardQuery[#cardQuery + 1] = po
+        end
+        cardQuery.limit = #titles
+        local ok, data = pcall(mw.smw.getQueryResult, cardQuery)
+        if not ok or not data or not data.results then
+            return nil
+        end
+        table.sort(data.results, function(a, b)
+            return (rank[a.fulltext or ""] or 999) < (rank[b.fulltext or ""] or 999)
+        end)
+        return data
     end
 
-    -- 3. Debugging / No Results
-    if not queryData or not queryData.results or #queryData.results == 0 then
-        return '<div class="no-results">No games found for ' .. platform .. '</div>'
+    -- 2. Execute Query (pcall: a bad query shows "no results", not a fatal)
+    local queryData, results
+    if popularMode then
+        local platformArg
+        if platform ~= "All" then
+            platformArg = platform:gsub("_", " ")
+        end
+        local ok, pop = pcall(mw.ext.gbrelated.popular, limit, offset, platformArg)
+        local rows = ok and pop and pop.rows or {}
+        if #rows == 0 then
+            return noResultsDiv()
+        end
+        local titles = {}
+        for _, r in ipairs(rows) do
+            titles[#titles + 1] = r.title
+        end
+        queryData = fetchCards(titles)
+        if not queryData then
+            return noResultsDiv()
+        end
+        queryData.count = pop.total or #rows
+        results = queryData.results
+    elseif relevanceMode then
+        -- phase 1: names only -- card printouts across the full pool was a 504
+        local ok, matches = pcall(mw.smw.getQueryResult, {
+            query,
+            "?Has name",
+            limit = RELEVANCE_CAP,
+            ["count"] = true,
+        })
+        if not ok or not matches or not matches.results or #matches.results == 0 then
+            return noResultsDiv()
+        end
+
+        -- exact name > prefix > word start > substring; a miss means the hit
+        -- came from an alias or out-of-order fulltext words -> rank last.
+        -- short names win ties
+        local function relevance(name)
+            if name == term then
+                return 0
+            end
+            local s = name:find(term, 1, true)
+            if s == 1 then
+                return 1
+            end
+            if s and name:sub(s - 1, s - 1):match("[%s%-/(:.]") then
+                return 2
+            end
+            return s and 3 or 4
+        end
+        local scores, names = {}, {}
+        for _, r in ipairs(matches.results) do
+            local name = displayName(r):lower()
+            names[r] = name
+            scores[r] = relevance(name)
+        end
+        table.sort(matches.results, function(a, b)
+            if scores[a] ~= scores[b] then
+                return scores[a] < scores[b]
+            end
+            if #names[a] ~= #names[b] then
+                return #names[a] < #names[b]
+            end
+            return names[a] < names[b]
+        end)
+
+        -- phase 2: card data for just the visible page
+        local disjuncts = {}
+        for i = offset + 1, math.min(offset + limit, #matches.results) do
+            disjuncts[#disjuncts + 1] = matches.results[i].fulltext or ""
+        end
+        if #disjuncts == 0 then
+            return noResultsDiv()
+        end
+        queryData = fetchCards(disjuncts)
+        if not queryData then
+            return noResultsDiv()
+        end
+        queryData.count = matches.count
+        results = queryData.results
+    else
+        local storeQuery = { query }
+        for _, po in ipairs(cardPrintouts) do
+            storeQuery[#storeQuery + 1] = po
+        end
+        storeQuery.limit = limit
+        storeQuery.offset = offset
+        storeQuery["count"] = true
+        storeQuery.sort = sortProp
+        storeQuery.order = sortOrder
+        local ok
+        ok, queryData = pcall(mw.smw.getQueryResult, storeQuery)
+        if not ok or not queryData or not queryData.results or #queryData.results == 0 then
+            return noResultsDiv()
+        end
+        results = queryData.results
     end
 
     local html = mw.html.create('div'):addClass('listing-grid')
-    
-    for _, result in ipairs(queryData.results) do
-  	    local fullTitle = result.fulltext or ""
-    	
-        -- Helper to extract strings from nested SMW tables
-        local function getSafe(field, isList)
-            local d = result.printouts[field] or {}
-            local vals = {}
-            for _, v in ipairs(d) do
-                local str = type(v) == "table" and (v.fulltext or v.raw or "") or tostring(v)
-                table.insert(vals, str)
-            end
-            return isList and table.concat(vals, ", ") or (vals[1] or "")
-        end
 
-        local function fallbackDisplayTitle( rawTitle )
-            local withoutPrefix = rawTitle:gsub("^[Gg][Aa][Mm][Ee][Ss]/", "")
-            local withSpaces = withoutPrefix:gsub("_", " ")
-            local trimmed = withSpaces:gsub("%s+", " "):gsub("^%s+", ""):gsub("%s+$", "")
-            local noIdSuffix = trimmed:gsub("%s+%d+$", "")
-            if noIdSuffix ~= "" then
-                return noIdSuffix
-            end
-            return trimmed
-        end
-
-        local cleanTitle = getSafe('Has name', false)
-        if cleanTitle == "" then
-            cleanTitle = fallbackDisplayTitle( fullTitle )
-        end
+    for _, result in ipairs(results) do
+        local fullTitle = result.fulltext or ""
+        local cleanTitle = displayName(result)
 
         -- 4. Process Image data from description
-        local imageData = getSafe('Has image', false)
+        local imageData = getSafe(result, 'Has image', false)
         imageData = imageData:gsub("Http", "http"):gsub("+", " "):gsub(" ", "%%20")
 
-		local rawDateData = result.printouts['Has release date']
-		local cleanDate = ""
-		
-		if rawDateData and #rawDateData > 0 then
-		    -- SMW getQueryResult returns a table for each result
-		    -- For dates, val.raw contains a numeric timestamp or ISO string
-		    local val = rawDateData[1]
-		    local rawTimestamp = type(val) == "table" and (val.raw or val[1]) or tostring(val)
-		    
-		    -- rawTimestamp is usually formatted like "1/2007/03/10/00/00/00/0"
-		    -- We extract YYYY, MM, and DD
-		    local y, m, d = rawTimestamp:match("^1/(%d+)/(%d+)/(%d+)")
-		    
-		    if y and m and d then
-		        -- Format it into a readable string using MediaWiki's language object
-		        local timestamp = string.format("%04d-%02d-%02d", y, m, d)
-		        cleanDate = mw.language.getContentLanguage():formatDate("Y F j", timestamp)
-		    else
-		        -- Fallback: Strip the "1/" and return YYYY-MM-DD
-		        cleanDate = rawTimestamp:gsub("^1/", ""):gsub("/", "-"):sub(1,10)
-		    end
-		end
+        local rawDateData = result.printouts['Has release date']
+        local cleanDate = ""
 
-		html:wikitext(frame:expandTemplate{ 
-		    title = 'GameCard', 
-		    args = { 
-		        url_title    = fullTitle,
-		        title        = cleanTitle,
-		        platforms    = getSafe('Has platforms', true),
-		        release_date = cleanDate,
-		        deck         = getSafe('Has deck', true),
-		        image        = imageData
-		    } 
-		})
+        if rawDateData and #rawDateData > 0 then
+            -- SMW getQueryResult returns a table for each result
+            -- For dates, val.raw contains a numeric timestamp or ISO string
+            local val = rawDateData[1]
+            local rawTimestamp = type(val) == "table" and (val.raw or val[1]) or tostring(val)
+
+            -- rawTimestamp is usually formatted like "1/2007/03/10/00/00/00/0"
+            -- We extract YYYY, MM, and DD
+            local y, m, d = rawTimestamp:match("^1/(%d+)/(%d+)/(%d+)")
+
+            if y and m and d then
+                -- Format it into a readable string using MediaWiki's language object
+                local timestamp = string.format("%04d-%02d-%02d", y, m, d)
+                cleanDate = mw.language.getContentLanguage():formatDate("Y F j", timestamp)
+            else
+                -- Fallback: Strip the "1/" and return YYYY-MM-DD
+                cleanDate = rawTimestamp:gsub("^1/", ""):gsub("/", "-"):sub(1,10)
+            end
+        end
+
+        html:wikitext(frame:expandTemplate{
+            title = 'GameCard',
+            args = {
+                url_title    = fullTitle,
+                title        = cleanTitle,
+                platforms    = getSafe(result, 'Has platforms', true),
+                release_date = cleanDate,
+                deck         = getSafe(result, 'Has deck', true),
+                image        = imageData
+            }
+        })
     end
 
     -- 5. Build Pagination (using queryData.count)
     local totalResults = queryData.count or 0
     -- If count is 0 but we actually HAVE results, the API failed to provide the total.
-	-- We run a quick secondary query to get the total number.
-	if totalResults == 0 and #queryData.results > 0 then
-	    local okCount, countQuery = pcall(mw.smw.ask, { query, format = "count" })
-	    totalResults = okCount and tonumber(countQuery) or 0
-	end
-    
-	local paginationHtml = ""
-	if totalResults > 0 then
-	    paginationHtml = tostring(mw.html.create('div')
-	        :addClass('pagination-wrapper')
-	        :attr('data-total', totalResults)
-	        :attr('data-limit', limit)
-	        :attr('data-offset', offset)
-	        :attr('data-platform', platform)
-	        :attr('data-search', searchFilter)
-	        :attr('data-sort', sortFilter))
-	end
-	
-	return tostring(html) .. paginationHtml
+    -- We run a quick secondary query to get the total number.
+    if totalResults == 0 and #queryData.results > 0 then
+        local okCount, countQuery = pcall(mw.smw.ask, { query, format = "count" })
+        totalResults = okCount and tonumber(countQuery) or 0
+    end
+    -- can't paginate past the capped fetch
+    if relevanceMode then
+        totalResults = math.min(totalResults, RELEVANCE_CAP)
+    end
+
+    local paginationHtml = ""
+    if totalResults > 0 then
+        paginationHtml = tostring(mw.html.create('div')
+            :addClass('pagination-wrapper')
+            :attr('data-total', totalResults)
+            :attr('data-limit', limit)
+            :attr('data-offset', offset)
+            :attr('data-platform', platform)
+            :attr('data-search', searchFilter)
+            :attr('data-sort', sortFilter))
+    end
+
+    return tostring(html) .. paginationHtml
 end
 
 return p

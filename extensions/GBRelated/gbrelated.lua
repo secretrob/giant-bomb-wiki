@@ -9,6 +9,10 @@ function gbrelated.get()
     return php.get()
 end
 
+function gbrelated.popular(limit, offset, platform)
+    return php.popular(limit, offset, platform)
+end
+
 mw.ext.gbrelated = gbrelated
 
 return gbrelated

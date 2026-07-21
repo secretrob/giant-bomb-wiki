@@ -480,6 +480,8 @@
   margin: 0.15rem 0;
 }
 
+/* company tile styles live at end of file (must outrank .mw-parser-output img) */
+
 /* Latest Images Grid */
 .gb-images-grid {
   display: grid;
@@ -1416,8 +1418,8 @@ body.skin-giantbomb .wiki-game-page .mw-parser-output .tmbox {
   min-height: 250px;
 }
 
-.gb-sidebar-section-content img,
-.wiki-game-page .mw-parser-output .gb-sidebar-section-content img {
+.gb-sidebar-section-content:has(.gb-sidebar-section-review) img,
+.wiki-game-page .mw-parser-output .gb-sidebar-section-content:has(.gb-sidebar-section-review) img {
   position: absolute;
   top: 0;
   left: 0;
@@ -1504,4 +1506,42 @@ body.skin-giantbomb .wiki-game-page .mw-parser-output .tmbox {
 
 .gb-sidebar-section-content {
   padding: 1rem;
+}
+
+/* Developer/Publisher company tiles (thumbnail + name, both linked) */
+.gb-sidebar-companies {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.6rem;
+  padding-top: 0.25rem;
+}
+
+.gb-sidebar-company-tile {
+  min-width: 0;
+}
+
+.gb-sidebar-company-thumb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 72px;
+}
+
+.gb-sidebar-company-thumb a {
+  display: block;
+  line-height: 0;
+}
+
+.gb-sidebar-company-tile .gb-sidebar-company-thumb img {
+  max-width: 100%;
+  max-height: 72px;
+  width: auto;
+  height: auto;
+}
+
+.gb-sidebar-company-name {
+  display: block;
+  margin-top: 0.3rem;
+  font-size: 0.85rem;
+  line-height: 1.25;
 }
