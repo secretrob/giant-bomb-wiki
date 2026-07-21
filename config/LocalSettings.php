@@ -502,12 +502,11 @@ $smwgEnabledQueryDependencyLinksStore = true;
 $smwgFieldTypeFeatures = [ 'char-nocase' ];
 $smwgEnabledFulltextSearch = true;
 $smwgPageSpecialProperties[] = "_CDAT";
+$smwgPageSpecialProperties[] = "_MDAT";
 $smwgEnableUpdateJobs = true;
 $smwgFulltextSearchIndexableDataTypes = [ 'blob', 'uri' ];
-$smwgFixedProperties = [
-    "_MDAT" => "smw_moddate", // Indexes Modification date
-    "_CDAT" => "smw_credate", // Indexes Creation date
-];
+// never re-declare special properties (_MDAT/_CDAT) in $smwgFixedProperties --
+// doing so broke _MDAT storage entirely (FixSmwModificationDates.php backfills)
 
 # SMW query limits
 $smwgQUpperbound = 200000;

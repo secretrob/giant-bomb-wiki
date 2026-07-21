@@ -3,7 +3,7 @@
 // backfill gb_related for existing pages (the save hook only covers edits).
 // scope with --page for testing, then --all off-peak:
 //   php maintenance/run.php .../rebuildRelated.php --page="Companies/Sega" --dry-run
-//   php maintenance/run.php .../rebuildRelated.php --all --limit=100
+//   php maintenance/run.php .../rebuildRelated.php --all --type=games --limit=100
 //   php maintenance/run.php .../rebuildRelated.php --all
 
 use MediaWiki\Extension\GBRelated\RelatedStore;
@@ -23,7 +23,13 @@ class RebuildRelated extends Maintenance
             "Rebuild precomputed related content (gb_related)",
         );
         $this->addOption("page", "Comma-separated page titles", false, true);
-        $this->addOption("all", "All company pages");
+        $this->addOption("all", "All handled pages (companies + games)");
+        $this->addOption(
+            "type",
+            "Scope --all to one type: companies or games",
+            false,
+            true,
+        );
         $this->addOption("limit", "Max pages to process", false, true);
         $this->addOption("start-after", "Resume after this title", false, true);
         $this->addOption("dry-run", "Compute and print, do not write");
@@ -108,17 +114,34 @@ class RebuildRelated extends Maintenance
             return [];
         }
         $dbr = $this->getReplicaDB();
+        $prefixes = RelatedStore::TYPE_PREFIXES;
+        if ($this->hasOption("type")) {
+            $want = ucfirst(strtolower($this->getOption("type"))) . "/";
+            $prefixes = array_filter($prefixes, static function ($p) use (
+                $want,
+            ) {
+                return $p === $want;
+            });
+            if (!$prefixes) {
+                $this->fatalError(
+                    "Unknown --type: " . $this->getOption("type"),
+                );
+            }
+        }
+        $prefixConds = [];
+        foreach ($prefixes as $prefix) {
+            $prefixConds[] = $dbr
+                ->expr(
+                    "page_title",
+                    \Wikimedia\Rdbms\IExpression::LIKE,
+                    new \Wikimedia\Rdbms\LikeValue($prefix, $dbr->anyString()),
+                )
+                ->toSql($dbr);
+        }
         $conds = [
             "page_namespace" => NS_MAIN,
             "page_is_redirect" => 0,
-            $dbr->expr(
-                "page_title",
-                \Wikimedia\Rdbms\IExpression::LIKE,
-                new \Wikimedia\Rdbms\LikeValue(
-                    "Companies/",
-                    $dbr->anyString(),
-                ),
-            ),
+            $dbr->makeList($prefixConds, $dbr::LIST_OR),
         ];
         if ($this->hasOption("start-after")) {
             $conds[] = $dbr->expr(

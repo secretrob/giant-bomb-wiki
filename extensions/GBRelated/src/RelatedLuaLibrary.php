@@ -20,8 +20,24 @@ class RelatedLuaLibrary extends Scribunto_LuaLibraryBase
     {
         return $this->getEngine()->registerInterface(
             __DIR__ . "/../gbrelated.lua",
-            ["get" => [$this, "get"]],
+            ["get" => [$this, "get"], "popular" => [$this, "popular"]],
         );
+    }
+
+    /** top wiki-quality pages for the Popular listing sort */
+    public function popular($limit = null, $offset = null, $platform = null)
+    {
+        $data = ScoreStore::popular(
+            max(1, min(500, (int) ($limit ?? 48))),
+            max(0, (int) ($offset ?? 0)),
+            is_string($platform) && $platform !== "" ? $platform : null,
+        );
+        // 1-based arrays for lua
+        $rows = [];
+        foreach ($data["rows"] as $i => $row) {
+            $rows[$i + 1] = $row;
+        }
+        return [["rows" => $rows, "total" => $data["total"]]];
     }
 
     /** ranked related items for the page being parsed */

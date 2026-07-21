@@ -17,14 +17,25 @@ class Hooks
         $editResult
     ) {
         $title = $wikiPage->getTitle();
-        if (!$title || !RelatedStore::handles($title)) {
+        if (!$title) {
             return;
         }
-        DeferredUpdates::addCallableUpdate(static function () use ($title) {
-            RelatedStore::rebuild($title);
-            // saved parse ran before the rebuild -> next view picks it up
-            $title->invalidateCache();
-        }, DeferredUpdates::POSTSEND);
+        if (RelatedStore::handles($title)) {
+            DeferredUpdates::addCallableUpdate(static function () use (
+                $title,
+            ) {
+                RelatedStore::rebuild($title);
+                // saved parse ran before the rebuild -> next view picks it up
+                $title->invalidateCache();
+            }, DeferredUpdates::POSTSEND);
+        }
+        if (ScoreStore::handles($title)) {
+            DeferredUpdates::addCallableUpdate(static function () use (
+                $title,
+            ) {
+                ScoreStore::updateOnSave($title);
+            }, DeferredUpdates::POSTSEND);
+        }
     }
 
     public static function onLoadExtensionSchemaUpdates($updater)
@@ -32,6 +43,10 @@ class Hooks
         $updater->addExtensionTable(
             "gb_related",
             __DIR__ . "/../sql/tables.sql",
+        );
+        $updater->addExtensionTable(
+            "gb_page_score",
+            __DIR__ . "/../sql/page_score.sql",
         );
     }
 }
