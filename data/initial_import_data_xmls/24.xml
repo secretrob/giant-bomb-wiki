@@ -1,0 +1,2225 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Companies/Vedinad</title>
+    <ns>0</ns>
+    <id>83390</id>
+    <revision>
+      <id>83523</id>
+      <timestamp>2025-12-08T07:21:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83523</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="239" sha1="gmvzkq5jkcxb41rudg3afevd0wdxqqy" xml:space="preserve">{{Company
+| Name=Vedinad
+| Guid=3010-26498
+| Characters=
+| Concepts=
+| Developed_games=Games/Megabonk
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Megabonk
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>gmvzkq5jkcxb41rudg3afevd0wdxqqy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Veratrum</title>
+    <ns>0</ns>
+    <id>83126</id>
+    <revision>
+      <id>83259</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83259</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="282" sha1="0nl9udi7yqcgjp3g32l8yztubrxneqx" xml:space="preserve">{{Company
+| Name=Veratrum
+| Guid=3010-26232
+| Characters=
+| Concepts=
+| Developed_games=Games/Go_For_A_Punch_Saki_Sanobashi
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Go_For_A_Punch_Saki_Sanobashi
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>0nl9udi7yqcgjp3g32l8yztubrxneqx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Vertex Multimedia</title>
+    <ns>0</ns>
+    <id>83408</id>
+    <revision>
+      <id>83541</id>
+      <timestamp>2025-12-08T07:21:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83541</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="255" sha1="tc17libcmz0j3jv64pnpkrgofsrqtgr" xml:space="preserve">{{Company
+| Name=Vertex Multimedia
+| Guid=3010-26516
+| Characters=
+| Concepts=
+| Developed_games=Games/Shadow_Gunner_The_Robot_Wars
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>tc17libcmz0j3jv64pnpkrgofsrqtgr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/VidMax</title>
+    <ns>0</ns>
+    <id>83380</id>
+    <revision>
+      <id>83513</id>
+      <timestamp>2025-12-08T07:21:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83513</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="256" sha1="r6t41xsl51yrp3uqmg1k8lxqqz4k7tl" xml:space="preserve">{{Company
+| Name=VidMax
+| Guid=3010-26488
+| Characters=
+| Concepts=
+| Developed_games=Games/Many_Roads_to_Murder,Games/Murder_Anyone
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>r6t41xsl51yrp3uqmg1k8lxqqz4k7tl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/VideoDojo Games</title>
+    <ns>0</ns>
+    <id>83185</id>
+    <revision>
+      <id>83318</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83318</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="245" sha1="jixk5r1bphq299d3586hz4irydgz66f" xml:space="preserve">{{Company
+| Name=VideoDojo Games
+| Guid=3010-26291
+| Characters=
+| Concepts=
+| Developed_games=Games/Townbox
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Townbox
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jixk5r1bphq299d3586hz4irydgz66f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Virtuous Development</title>
+    <ns>0</ns>
+    <id>83148</id>
+    <revision>
+      <id>83281</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83281</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="242" sha1="mbvaflad317wbiwz8citx8vrj20sw9f" xml:space="preserve">{{Company
+| Name=Virtuous Development
+| Guid=3010-26254
+| Characters=
+| Concepts=
+| Developed_games=Games/Venture_Seas
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>mbvaflad317wbiwz8citx8vrj20sw9f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Vivix</title>
+    <ns>0</ns>
+    <id>465263</id>
+    <revision>
+      <id>797339</id>
+      <timestamp>2026-03-27T01:56:55Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=208d0355-17c7-41bb-9b52-29c93740dc4a |Name=Vivix }}"</comment>
+      <origin>797339</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="67" sha1="sg6t1tfm42n9aayzhhq6jjxob6wjray" xml:space="preserve">{{Company
+|Guid=208d0355-17c7-41bb-9b52-29c93740dc4a
+|Name=Vivix
+}}</text>
+      <sha1>sg6t1tfm42n9aayzhhq6jjxob6wjray</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Vlado Ganaj</title>
+    <ns>0</ns>
+    <id>83128</id>
+    <revision>
+      <id>83261</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83261</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="dsl4qmkdyxs5v1eqtikxpxod9xm5clb" xml:space="preserve">{{Company
+| Name=Vlado Ganaj
+| Guid=3010-26234
+| Characters=
+| Concepts=
+| Developed_games=Games/Felvidek
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>dsl4qmkdyxs5v1eqtikxpxod9xm5clb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/VoltekPlay</title>
+    <ns>0</ns>
+    <id>83197</id>
+    <revision>
+      <id>83330</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83330</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="260" sha1="76klkqlfnvbphiropd19ucrh52kdx10" xml:space="preserve">{{Company
+| Name=VoltekPlay
+| Guid=3010-26303
+| Characters=
+| Concepts=
+| Developed_games=Games/Ministry_of_Order
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Ministry_of_Order
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>76klkqlfnvbphiropd19ucrh52kdx10</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/VoodooDuck</title>
+    <ns>0</ns>
+    <id>83164</id>
+    <revision>
+      <id>83297</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83297</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="256" sha1="l33vaxve46xtmagoahi5z45zuvtumhj" xml:space="preserve">{{Company
+| Name=VoodooDuck
+| Guid=3010-26270
+| Characters=
+| Concepts=
+| Developed_games=Games/Collectors_Cove
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Collectors_Cove
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>l33vaxve46xtmagoahi5z45zuvtumhj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Vsoo Games</title>
+    <ns>0</ns>
+    <id>83226</id>
+    <revision>
+      <id>83359</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83359</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" sha1="8obz7q0ndptts03wekn4zr07hf96d39" xml:space="preserve">{{Company
+| Name=Vsoo Games
+| Guid=3010-26332
+| Characters=
+| Concepts=
+| Developed_games=
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Islets_Defense
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>8obz7q0ndptts03wekn4zr07hf96d39</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/W4 Games</title>
+    <ns>0</ns>
+    <id>83278</id>
+    <revision>
+      <id>976237</id>
+      <parentid>646050</parentid>
+      <timestamp>2026-07-07T19:53:00Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore content truncated by the legacy migration (3010-26384, guid-audit)</comment>
+      <origin>976237</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2944" sha1="nk04virrjn5qh4ka6yhhox5tqiiow2y" xml:space="preserve">{{Company
+| Name=W4 Games
+| Guid=3010-26384
+| Deck=On a mission to strengthen the open source Godot ecosystem by providing companies with the commercial products and services they need.
+| City=Dublin
+| State=Ireland
+| Website=https://www.w4games.com/
+| Characters=
+| Concepts=
+| Developed_games=
+| Locations=
+| Objects=
+| People=
+| Published_games=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/183/1832043/3759198-901.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3759198-901.jpg","path":"183\/1832043\/","mime":"image\/jpeg","sizes":"square_small,scale_super,scale_medium,square_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+
+W4 Games company created by Godot Engine veterans Juan Linietsky, Rémi Verschelde and Fabio Alessandrelli, and veteran enterpreneur Nicola Farronato.
+
+On a mission to strengthen the open source Godot ecosystem by providing companies with the commercial products and services they need.
+
+W4 Games was incorporated in Dublin, Ireland with a seed funding round that was led by OSS Capital (a leading investment fund in Open Source Software) and Lux Capital (a Silicon Valley giant) and also included investments from Bob Young, the founder of Red Hat, and Sisu Game Ventures, an early-stage venture capital fund focused on games.
+
+The company has continued to grow and today has team members located in 12 countries around the world. The company recently closed a Series A round, significantly increasing its investor base.
+
+
+
+
+==='''W4 Games Mission'''===
+They want to help the video game industry reclaim their control on the technology powering their games, and reverse a dramatic trend where they have to rely on proprietary solutions from an ever-shrinking number of vendors.
+
+With aim to make Open Source the industry’s first choice by ensuring that both enterprise and independent developers can use the community-developed Godot platform with peace of mind.
+
+This should be achieved by W4 providing commercial products and services offering such as enterprise support plans and the possibility to access markets that were previously unreached by Godot, such as console platforms.
+
+
+
+
+==='''GODOT'''===
+W4 Games intends to play an active role in strengthening and professionalizing the Godot ecosystem while remaining as just another citizen of the community, as they believe that Open Source works best when individuals and companies benefit from each other’s contributions on a level playing field. This way, everybody wins and the project benefits as a whole.
+
+All of their improvements made to Godot as part of the company’s activities will be donated back (whenever legally possible) to the community as pull requests to be reviewed and considered for inclusion.
+
+Additionally, W4 Games pledges to support Godot financially with no-strings-attached donations to the project.</text>
+      <sha1>nk04virrjn5qh4ka6yhhox5tqiiow2y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Walk the Frog</title>
+    <ns>0</ns>
+    <id>625109</id>
+    <revision>
+      <id>975112</id>
+      <timestamp>2026-06-16T21:17:58Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=6886afc6-5550-4e65-9325-30b67948b35e |Name=Walk the Frog }}"</comment>
+      <origin>975112</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="75" sha1="gqglpiil7kmpqt80ez6qu5gdcdakynp" xml:space="preserve">{{Company
+|Guid=6886afc6-5550-4e65-9325-30b67948b35e
+|Name=Walk the Frog
+}}</text>
+      <sha1>gqglpiil7kmpqt80ez6qu5gdcdakynp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Weekend Games</title>
+    <ns>0</ns>
+    <id>625122</id>
+    <revision>
+      <id>975139</id>
+      <timestamp>2026-06-17T20:20:18Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=3d19f2b8-33e2-4f5a-a6eb-327000aee9e7 |Name=Weekend Games }}"</comment>
+      <origin>975139</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="75" sha1="a5dae558mr7nu8kfwtxiaff6ykrohf6" xml:space="preserve">{{Company
+|Guid=3d19f2b8-33e2-4f5a-a6eb-327000aee9e7
+|Name=Weekend Games
+}}</text>
+      <sha1>a5dae558mr7nu8kfwtxiaff6ykrohf6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/WereBuff Studio</title>
+    <ns>0</ns>
+    <id>624607</id>
+    <revision>
+      <id>974118</id>
+      <timestamp>2026-06-02T02:24:45Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=c5f4d744-c857-474f-aced-686bb83e3dbf |Name=WereBuff Studio }}"</comment>
+      <origin>974118</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="77" sha1="7emgszbnhctj690coeg8xd9untms0y6" xml:space="preserve">{{Company
+|Guid=c5f4d744-c857-474f-aced-686bb83e3dbf
+|Name=WereBuff Studio
+}}</text>
+      <sha1>7emgszbnhctj690coeg8xd9untms0y6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Wholesome Games Presents</title>
+    <ns>0</ns>
+    <id>83144</id>
+    <revision>
+      <id>83277</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83277</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="288" sha1="ffymgouzux71unex9kjnqbrgfltv7x8" xml:space="preserve">{{Company
+| Name=Wholesome Games Presents
+| Guid=3010-26250
+| Characters=
+| Concepts=
+| Developed_games=
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Fishbowl_93273,Games/Is_This_Seat_Taken,Games/MakeRoom
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ffymgouzux71unex9kjnqbrgfltv7x8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Wile Anders Games</title>
+    <ns>0</ns>
+    <id>625153</id>
+    <revision>
+      <id>975251</id>
+      <timestamp>2026-06-27T23:16:48Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=3707d0eb-78bc-46b3-88f8-c0a755e9074e |Name=Wile Anders Games }}"</comment>
+      <origin>975251</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="79" sha1="rz6t9rs17fscxo7otrql7d6xbq124ws" xml:space="preserve">{{Company
+|Guid=3707d0eb-78bc-46b3-88f8-c0a755e9074e
+|Name=Wile Anders Games
+}}</text>
+      <sha1>rz6t9rs17fscxo7otrql7d6xbq124ws</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/William Cummins</title>
+    <ns>0</ns>
+    <id>83275</id>
+    <revision>
+      <id>83408</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83408</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="259" sha1="2wr8q9jf3hmpl7tbuguqea4z1466zoy" xml:space="preserve">{{Company
+| Name=William Cummins
+| Guid=3010-26381
+| Characters=
+| Concepts=
+| Developed_games=Games/Legends_of_Old
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Legends_of_Old
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>2wr8q9jf3hmpl7tbuguqea4z1466zoy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Windup</title>
+    <ns>0</ns>
+    <id>625139</id>
+    <revision>
+      <id>975219</id>
+      <timestamp>2026-06-26T23:32:54Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=0cb1afd6-2ac8-4092-8df8-0fecaea9ff65 |Name=Windup }}"</comment>
+      <origin>975219</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="68" sha1="aepzfkz8f0b7c0kk05a5xm46od5pbjc" xml:space="preserve">{{Company
+|Guid=0cb1afd6-2ac8-4092-8df8-0fecaea9ff65
+|Name=Windup
+}}</text>
+      <sha1>aepzfkz8f0b7c0kk05a5xm46od5pbjc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Winter Crew Studios</title>
+    <ns>0</ns>
+    <id>83201</id>
+    <revision>
+      <id>83334</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83334</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="254" sha1="s644mg45p9yhpnxtvxpp0gzmpyqkbnu" xml:space="preserve">{{Company
+| Name=Winter Crew Studios
+| Guid=3010-26307
+| Characters=
+| Concepts=
+| Developed_games=Games/Fallen_Tear_The_Ascension
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>s644mg45p9yhpnxtvxpp0gzmpyqkbnu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Wolf Haus Games</title>
+    <ns>0</ns>
+    <id>624759</id>
+    <revision>
+      <id>974473</id>
+      <timestamp>2026-06-07T19:13:16Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=17b1d909-aeec-489d-b378-ee9b00e364f0 |Name=Wolf Haus Games }}"</comment>
+      <origin>974473</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="77" sha1="emeet6a7ehabizj44ygbe1i4yt76nmn" xml:space="preserve">{{Company
+|Guid=17b1d909-aeec-489d-b378-ee9b00e364f0
+|Name=Wolf Haus Games
+}}</text>
+      <sha1>emeet6a7ehabizj44ygbe1i4yt76nmn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Wonderscope Games</title>
+    <ns>0</ns>
+    <id>625118</id>
+    <revision>
+      <id>975131</id>
+      <timestamp>2026-06-17T18:32:10Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=770037f4-3efd-474c-80d5-3cc339e2b609 |Name=Wonderscope Games }}"</comment>
+      <origin>975131</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="79" sha1="7jy1c0r3wl90ewnat5ujvu4jtkyfqir" xml:space="preserve">{{Company
+|Guid=770037f4-3efd-474c-80d5-3cc339e2b609
+|Name=Wonderscope Games
+}}</text>
+      <sha1>7jy1c0r3wl90ewnat5ujvu4jtkyfqir</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Wypok Games</title>
+    <ns>0</ns>
+    <id>624697</id>
+    <revision>
+      <id>974301</id>
+      <timestamp>2026-06-05T11:58:06Z</timestamp>
+      <contributor>
+        <username>Gregor</username>
+        <id>4553</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=46891c5b-e5c6-4ff8-99db-0013ccf8466a |Name=Wypok Games |Image=szkeletal background.jpg |Caption=Wypok Games Logo |Deck=An independent, one-man development powerhouse built entirely on irony, focusing on satirical games. |FoundedDate=2025-10-24 |City=Rzeszow |Country=Poland |State=Podkarpackie |Website=https://store.steampowered.com/search/?developer=Wypok%20Games }} Wypok Games is an independent, one-man development powerhouse that crawled out of the deep..."</comment>
+      <origin>974301</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1018" sha1="8gysf3guoee9sj1nsdddok5fspbzusd" xml:space="preserve">{{Company
+|Guid=46891c5b-e5c6-4ff8-99db-0013ccf8466a
+|Name=Wypok Games
+|Image=szkeletal background.jpg
+|Caption=Wypok Games Logo
+|Deck=An independent, one-man development powerhouse built entirely on irony, focusing on satirical games.
+|FoundedDate=2025-10-24
+|City=Rzeszow
+|Country=Poland
+|State=Podkarpackie
+|Website=https://store.steampowered.com/search/?developer=Wypok%20Games
+}}
+Wypok Games is an independent, one-man development powerhouse that crawled out of the deepest, most questionable abysses of the Polish internet portal, Wykop. Built entirely on irony, the studio's very name is a deliberate misspelling and a parody of its origin, effectively making the entire enterprise a walking, structural joke. Currently, the studio channels 100% of its immense workforce into producing exactly one title: the ultimate parody game, "'''SZKELETAL: Estrogen Dracul's Potato Hunger'''". It is less of a traditional game studio and more of a sociological experiment that accidentally figured out how to compile code.</text>
+      <sha1>8gysf3guoee9sj1nsdddok5fspbzusd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Wyrdysm Games</title>
+    <ns>0</ns>
+    <id>83360</id>
+    <revision>
+      <id>83493</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83493</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="235" sha1="p2x39arx8bawxu3qbppgwfnnzbuqtxx" xml:space="preserve">{{Company
+| Name=Wyrdysm Games
+| Guid=3010-26467
+| Characters=
+| Concepts=
+| Developed_games=Games/qrp
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/qrp
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>p2x39arx8bawxu3qbppgwfnnzbuqtxx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/XEECEE</title>
+    <ns>0</ns>
+    <id>83280</id>
+    <revision>
+      <id>83413</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83413</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="364" sha1="mslmfgfuwfywkrmjn2kcma8owkxit5h" xml:space="preserve">{{Company
+| Name=XEECEE
+| Guid=3010-26386
+| Characters=
+| Concepts=
+| Developed_games=Games/Misericorde_Volume_One,Games/Misericorde_Volume_Two_White_Wool_And_Snow
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Misericorde_Volume_One,Games/Misericorde_Volume_Two_White_Wool_And_Snow
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>mslmfgfuwfywkrmjn2kcma8owkxit5h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Xeno Bits</title>
+    <ns>0</ns>
+    <id>83218</id>
+    <revision>
+      <id>83351</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83351</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="237" sha1="mk8usbkq7x3soyybfw09fks8eytljpm" xml:space="preserve">{{Company
+| Name=Xeno Bits
+| Guid=3010-26324
+| Characters=
+| Concepts=
+| Developed_games=Games/Exogate_Initiative
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>mk8usbkq7x3soyybfw09fks8eytljpm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Yaldi Games</title>
+    <ns>0</ns>
+    <id>83163</id>
+    <revision>
+      <id>83296</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83296</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="253" sha1="jyfp66v8mujb6iq4oas54g27rskkh39" xml:space="preserve">{{Company
+| Name=Yaldi Games
+| Guid=3010-26269
+| Characters=
+| Concepts=
+| Developed_games=Games/Out_and_About
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Out_and_About
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jyfp66v8mujb6iq4oas54g27rskkh39</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Zagoiris</title>
+    <ns>0</ns>
+    <id>83244</id>
+    <revision>
+      <id>83377</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83377</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="224" sha1="hh5c7a3eyze8oixtpf6k80wbu96s4dt" xml:space="preserve">{{Company
+| Name=Zagoiris
+| Guid=3010-26350
+| Characters=
+| Concepts=
+| Developed_games=Games/Le_Fol
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>hh5c7a3eyze8oixtpf6k80wbu96s4dt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/Zhiyi</title>
+    <ns>0</ns>
+    <id>83366</id>
+    <revision>
+      <id>646063</id>
+      <parentid>83499</parentid>
+      <timestamp>2026-02-14T01:24:10Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>646063</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="795" sha1="1dpm9a86qybv4e6osx5wilqvysu977f" xml:space="preserve">{{Company
+| Name=Zhiyi
+| Guid=3010-26473
+| Deck=A Chinese developer known for creating novel games.
+| Website=https://weibo.com/u/2206312630
+| Characters=
+| Concepts=
+| Developed_games=Games/Kanna_Maze
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Kanna_Maze
+| Image=https://www.giantbomb.com/a/uploads/scale_super/9/97089/3798734-8381a8b6ly8hd0vcnjhy4j20go0got8w_003.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3798734-8381a8b6ly8hd0vcnjhy4j20go0got8w_003.jpg","path":"9\/97089\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,scale_medium,square_small,square_medium,square_tiny,square_mini,square_avatar,scale_large,scale_avatar,screen_kubrick,screen_medium,scale_tiny","caption":null},"background":[]}' /&gt;
+A Chinese developer known for creating novel games.</text>
+      <sha1>1dpm9a86qybv4e6osx5wilqvysu977f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/atKombi</title>
+    <ns>0</ns>
+    <id>83231</id>
+    <revision>
+      <id>83364</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83364</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="241" sha1="gbhbisaxb1agt0m006qa6we94p6ah9x" xml:space="preserve">{{Company
+| Name=atKombi
+| Guid=3010-26337
+| Characters=
+| Concepts=
+| Developed_games=Games/Monstabox
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Monstabox
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>gbhbisaxb1agt0m006qa6we94p6ah9x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/bad vertex</title>
+    <ns>0</ns>
+    <id>83131</id>
+    <revision>
+      <id>83264</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83264</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="246" sha1="q24r95mfbmin2i5dkc5dkhynztjsvpq" xml:space="preserve">{{Company
+| Name=bad_vertex
+| Guid=3010-26237
+| Characters=
+| Concepts=
+| Developed_games=Games/PsiloSybil
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/PsiloSybil
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>q24r95mfbmin2i5dkc5dkhynztjsvpq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/bleem net</title>
+    <ns>0</ns>
+    <id>83293</id>
+    <revision>
+      <id>83426</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83426</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="256" sha1="3b5vw0vnycyd3phawisf9nz9hkntcrv" xml:space="preserve">{{Company
+| Name=bleem.net
+| Guid=3010-26399
+| Characters=
+| Concepts=
+| Developed_games=
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Beat_Em_Up_Collection_QUByte_Classics
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3b5vw0vnycyd3phawisf9nz9hkntcrv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/byDansDans</title>
+    <ns>0</ns>
+    <id>83255</id>
+    <revision>
+      <id>83388</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83388</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="240" sha1="qpdxltvsedj5rn89g2ihogdviyou4a7" xml:space="preserve">{{Company
+| Name=byDansDans
+| Guid=3010-26361
+| Characters=
+| Concepts=
+| Developed_games=Games/The_Trolley_Solution
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>qpdxltvsedj5rn89g2ihogdviyou4a7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/iNightGaming</title>
+    <ns>0</ns>
+    <id>83359</id>
+    <revision>
+      <id>83492</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83492</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="231" sha1="tvzsgh1ik3plko3fz6pxugbgmicasfy" xml:space="preserve">{{Company
+| Name=iNightGaming
+| Guid=3010-26466
+| Characters=
+| Concepts=
+| Developed_games=Games/Curiosity
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>tvzsgh1ik3plko3fz6pxugbgmicasfy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/imissmyfriends studio</title>
+    <ns>0</ns>
+    <id>83165</id>
+    <revision>
+      <id>83298</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83298</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="245" sha1="5qjvn1yvqwv0q935sb3gg8533d1pk59" xml:space="preserve">{{Company
+| Name=imissmyfriends.studio
+| Guid=3010-26271
+| Characters=
+| Concepts=
+| Developed_games=Games/Fishbowl_93273
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5qjvn1yvqwv0q935sb3gg8533d1pk59</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/insertdisc5</title>
+    <ns>0</ns>
+    <id>83120</id>
+    <revision>
+      <id>83253</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83253</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="261" sha1="6hfgb92z2prb1cbcg1a2z7b16zgxjrd" xml:space="preserve">{{Company
+| Name=insertdisc5
+| Guid=3010-26226
+| Characters=
+| Concepts=
+| Developed_games=Games/In_Stars_and_Time,Games/Serre
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Serre
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>6hfgb92z2prb1cbcg1a2z7b16zgxjrd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/jakefriend</title>
+    <ns>0</ns>
+    <id>625137</id>
+    <revision>
+      <id>975213</id>
+      <timestamp>2026-06-26T22:20:46Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=abc1bcc4-c544-4719-a860-f6cb1fde4bd7 |Name=jakefriend }}"</comment>
+      <origin>975213</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="72" sha1="l9bqp5exj8rkjf1lwj7ldp1zuqghy3i" xml:space="preserve">{{Company
+|Guid=abc1bcc4-c544-4719-a860-f6cb1fde4bd7
+|Name=jakefriend
+}}</text>
+      <sha1>l9bqp5exj8rkjf1lwj7ldp1zuqghy3i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/mazette</title>
+    <ns>0</ns>
+    <id>83276</id>
+    <revision>
+      <id>646048</id>
+      <parentid>83409</parentid>
+      <timestamp>2026-02-14T01:23:46Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>646048</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1233" sha1="1wdagkp67s6fpt7fnjvyi040c4h2qsg" xml:space="preserve">{{Company
+| Name=mazette!
+| Guid=3010-26382
+| Deck=Video game publishing company, specialising in porting LÖVE and Godot Engine games to mobile and Nintendo Switch
+| FoundedDate=2022-05-24
+| Address=86-90 Paul Street
+| City=London
+| Country=England, United Kingdom
+| State=Greater London
+| Website=https://mazette.games/
+| Characters=
+| Concepts=
+| Developed_games=Games/SNKRX,Games/Torecower
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Arco,Games/Bad_Writer,Games/Catacomb_Kitties,Games/Gravity_Circuit,Games/Putrid_Shot_Ultra,Games/SNKRX,Games/Star_Seeker,Games/The_Case_of_the_Golden_Idol,Games/Understand
+| Image=https://www.giantbomb.com/a/uploads/scale_super/183/1832043/3759186-896.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3759186-896.jpg","path":"183\/1832043\/","mime":"image\/jpeg","sizes":"square_small,square_tiny,scale_super,scale_medium,square_medium,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_avatar,scale_large","caption":null},"background":[]}' /&gt;
+Founded in 2021 by Cambridge graduate David Khachaturov. At it's inception company made LÖVE games and after some time expanded it's business by offering porting services for games made with Godot Engine.</text>
+      <sha1>1wdagkp67s6fpt7fnjvyi040c4h2qsg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/naptime games</title>
+    <ns>0</ns>
+    <id>83441</id>
+    <revision>
+      <id>83574</id>
+      <timestamp>2025-12-08T07:21:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83574</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="232" sha1="lf1a0o9n6mzqwxswk8lczwcew0wf8dv" xml:space="preserve">{{Company
+| Name=naptime.games
+| Guid=3010-26549
+| Characters=
+| Concepts=
+| Developed_games=Games/Logic_Pic
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>lf1a0o9n6mzqwxswk8lczwcew0wf8dv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/niha world</title>
+    <ns>0</ns>
+    <id>83283</id>
+    <revision>
+      <id>646051</id>
+      <parentid>83416</parentid>
+      <timestamp>2026-02-14T01:23:51Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>646051</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="653" sha1="mbueaurxdcof1mv4jy3zwstfe7vx0kb" xml:space="preserve">{{Company
+| Name=niha.world
+| Guid=3010-26389
+| Deck=niha.world is a video game developer and publisher
+| Characters=
+| Concepts=
+| Developed_games=
+| Locations=
+| Objects=
+| People=
+| Published_games=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/183/1832043/3763652-nw.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3763652-nw.png","path":"183\/1832043\/","mime":"image\/png","sizes":"square_small,scale_super,square_medium,square_avatar,scale_medium,scale_large,scale_avatar,square_mini,scale_small,square_tiny,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+niha.world is a video game developer and publisher</text>
+      <sha1>mbueaurxdcof1mv4jy3zwstfe7vx0kb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/nth Circle Studios</title>
+    <ns>0</ns>
+    <id>465234</id>
+    <revision>
+      <id>797265</id>
+      <timestamp>2026-03-22T20:03:42Z</timestamp>
+      <contributor>
+        <username>Naterfb</username>
+        <id>1581</id>
+      </contributor>
+      <comment>nth Circle Studios</comment>
+      <origin>797265</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="145" sha1="p1d0nozkab13cykb4g0i5g6i1a40ayk" xml:space="preserve">{{Company
+|Guid=e06eefe6-be55-4b6a-81cb-51af4ac684ab
+|Name=nth Circle Studios
+|Website=https://nthcircle.studio/
+|Developed=Games/of the Devil
+}}</text>
+      <sha1>p1d0nozkab13cykb4g0i5g6i1a40ayk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/puzzle tv</title>
+    <ns>0</ns>
+    <id>83319</id>
+    <revision>
+      <id>83452</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83452</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="243" sha1="4fuvxuaqfpohfrishb7mtbuzjaydtud" xml:space="preserve">{{Company
+| Name=puzzle.tv
+| Guid=3010-26426
+| Characters=
+| Concepts=
+| Developed_games=Games/Global_Star_Sudoku_Fever
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>4fuvxuaqfpohfrishb7mtbuzjaydtud</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/qian fang gong zuo shi</title>
+    <ns>0</ns>
+    <id>83423</id>
+    <revision>
+      <id>83556</id>
+      <timestamp>2025-12-08T07:21:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83556</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="277" sha1="e5p05nnqz7n6e8dyv729amhuwhyxcsm" xml:space="preserve">{{Company
+| Name=前方工作室
+| Guid=3010-26531
+| Characters=
+| Concepts=
+| Developed_games=Games/Revenge_On_Gold_Diggers
+| Locations=
+| Objects=
+| People=
+| Published_games=Games/Revenge_On_Gold_Diggers
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>e5p05nnqz7n6e8dyv729amhuwhyxcsm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/teaisfortoby!</title>
+    <ns>0</ns>
+    <id>625103</id>
+    <revision>
+      <id>975098</id>
+      <timestamp>2026-06-15T22:51:58Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=370a7f6d-f95b-4439-a701-be52977425dd |Name=teaisfortoby! }}"</comment>
+      <origin>975098</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="75" sha1="e9rrodx3uyrax40yyqt4u945yaidym5" xml:space="preserve">{{Company
+|Guid=370a7f6d-f95b-4439-a701-be52977425dd
+|Name=teaisfortoby!
+}}</text>
+      <sha1>e9rrodx3uyrax40yyqt4u945yaidym5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/transperfect-games</title>
+    <ns>0</ns>
+    <id>624454</id>
+    <revision>
+      <id>973657</id>
+      <timestamp>2026-04-23T06:09:57Z</timestamp>
+      <contributor>
+        <username>Tp cawong</username>
+        <id>3144</id>
+      </contributor>
+      <comment>Created page with "{{Company |Guid=287ea15b-7f18-44b8-bb02-ed2a9d2061a2 |Name=TransPerfect Games |FoundedDate=1992 |Country=United States |Website=https://www.transperfectgames.com/ }} TransPerfect Games is a trusted partner to global AAA developers and publishers, delivering end-to-end solutions that accelerate every stage of game development. From engineering, porting, and art production to localization, QA, player support, and live operations, the team combines deep industry expertise w..."</comment>
+      <origin>973657</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="830" sha1="4mujvq7vsssnr4tfehwuhoej1m648x6" xml:space="preserve">{{Company
+|Guid=287ea15b-7f18-44b8-bb02-ed2a9d2061a2
+|Name=TransPerfect Games
+|FoundedDate=1992
+|Country=United States
+|Website=https://www.transperfectgames.com/
+}}
+TransPerfect Games is a trusted partner to global AAA developers and publishers, delivering end-to-end solutions that accelerate every stage of game development. From engineering, porting, and art production to localization, QA, player support, and live operations, the team combines deep industry expertise with global scale and next-gen automation. Proprietary AI-enabled workflows reduce time-to-market and ensure consistency across assets, languages, and platforms. With a worldwide network of production hubs and testing facilities, TransPerfect Games enables seamless, high-quality player experiences in every region. Learn more at www.transperfectgames.com.</text>
+      <sha1>4mujvq7vsssnr4tfehwuhoej1m648x6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/username29151</title>
+    <ns>0</ns>
+    <id>83386</id>
+    <revision>
+      <id>83519</id>
+      <timestamp>2025-12-08T07:21:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83519</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="233" sha1="qmjofsf8u6jier8fx2ymdczak1d3xao" xml:space="preserve">{{Company
+| Name=username29151
+| Guid=3010-26494
+| Characters=
+| Concepts=
+| Developed_games=Games/PointWorks
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>qmjofsf8u6jier8fx2ymdczak1d3xao</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Companies/verty</title>
+    <ns>0</ns>
+    <id>83271</id>
+    <revision>
+      <id>83404</id>
+      <timestamp>2025-12-08T07:21:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>83404</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="223" sha1="segufdq1yf9rhdnewo6mj9jx0bugpga" xml:space="preserve">{{Company
+| Name=verty
+| Guid=3010-26377
+| Characters=
+| Concepts=
+| Developed_games=Games/Rentlord
+| Locations=
+| Objects=
+| People=
+| Published_games=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>segufdq1yf9rhdnewo6mj9jx0bugpga</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/28th Annual D I C E Awards</title>
+    <ns>0</ns>
+    <id>95830</id>
+    <revision>
+      <id>982724</id>
+      <parentid>588176</parentid>
+      <timestamp>2026-07-17T10:50:14Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3015-13382)</comment>
+      <origin>982724</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="27084" sha1="tomueb7r9i89gatjmn3fcp42tddkm8v" xml:space="preserve">{{Concept
+| Name=28th Annual D.I.C.E. Awards
+| Guid=3015-13382
+| Aliases=DICE Awards 2025
+| Deck=The 28th Annual D.I.C.E. Awards celebrate the best games of 2024, as voted by industry professionals.
+| Characters=
+| Concepts=Concepts/D_I_C_E_Awards,Concepts/Giant_Bomb_Game_of_the_Year_2024,Concepts/The_Game_Awards_2024
+| Franchises=
+| Games=Games/Animal_Well,Games/Astro_Bot,Games/Balatro,Games/Batman_Arkham_Shadow,Games/Black_Myth_Wukong,Games/F1_24,Games/Helldivers_II,Games/Indiana_Jones_and_the_Great_Circle,Games/Metaphor_ReFantazio,Games/MLB_The_Show_24,Games/Tekken_8
+| Locations=Locations/Las_Vegas,Locations/Nevada,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3676406-0487125902-Gg5AjXWX0AA2AeP.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3676406-0487125902-Gg5AjXWX0AA2AeP.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_avatar,square_medium,scale_medium,scale_super,square_small,scale_small,square_tiny,scale_tiny,square_mini,screen_medium,scale_avatar,scale_large,screen_kubrick","caption":null},"background":{"file":"3693001-7000631548-bafkreicy7f6236u2ehhn6adfol27qpzfggsj5xgykywdqllpqdu6mf5s4m@jpeg.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,square_tiny,square_medium,square_small,scale_medium,screen_kubrick,screen_kubrick_wide","caption":null}}' /&gt;
+
+==Overview==
+The 28th Annual [https://www.giantbomb.com/interactive-achievement-awards/3015-4604 D.I.C.E. Awards] will be held February 13, 2025 in [https://www.giantbomb.com/las-vegas/3035-78 Las Vegas], [https://www.giantbomb.com/nevada/3035-2800 Nevada] during the 2023 D.I.C.E. Summit. The show will be hosted by [https://www.giantbomb.com/greg-miller/3040-156875 Greg Miller] and Stella Chung.
+
+
+==Personal Awards==
+
+===Hall of Fame===
+* [[People/Ted_Price|Ted Price]]
+
+===Lifetime Achievement Award===
+* [[People/Don_James|Don James]]
+
+==Game of the Year==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Astro_Bot|Astro Bot]]===
+* Developer: [[Companies/Team_Asobi|Team Asobi]]
+* Publisher: [[Companies/Sony_Interactive_Entertainment_America|Sony Interactive Entertainment America]]
+
+====Runners-Up====
+* [[Games/Balatro|Balatro]] ([[Companies/LocalThunk|LocalThunk]] / [[Companies/PlayStack|PlayStack]])
+* [[Games/Black_Myth_Wukong|Black Myth: Wukong]] ([[Companies/Game_Science_Studio|Game Science Studio]])
+* [[Games/Helldivers_II|Helldivers II]] ([[Companies/Arrowhead_Game_Studios|Arrowhead Game Studios]] / SIE)
+* [[Games/Indiana_Jones_and_the_Great_Circle|Indiana Jones and the Great Circle]] ([[Companies/MachineGames|MachineGames]] / [[Companies/Bethesda_Softworks|Bethesda Softworks]])||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/20/201266/3622132-3618933-0d05cb43413f28a641ac0c40fc272c70bbe194f6ade4b175c.jpg|full=https://www.giantbomb.com/a/uploads/original/20/201266/3622132-3618933-0d05cb43413f28a641ac0c40fc272c70bbe194f6ade4b175c.jpg|align=right|width=320}}
+&lt;p&gt; &lt;/p&gt;
+|}
+
+
+==Outstanding Achievement in Game Direction==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Animal_Well|Animal Well]]===
+* Developer: [[Companies/Shared_Memory|Shared Memory]]
+* Publisher: [[Companies/Bigmode|Bigmode]]
+
+====Runners-Up====
+* [[Games/1000xResist|1000xResist]] ([[Companies/sunset_visitor_xie_yang_guo_ke|sunset visitor 斜陽過客]] / [[Companies/Fellow_Traveller|Fellow Traveller]])
+* [[Games/Lorelei_and_the_Laser_Eyes|Lorelei and the Laser Eyes]] ([[Companies/Simogo|Simogo]] / [[Companies/Annapurna_Interactive|Annapurna Interactive]])
+* [[Games/Riven|Riven]] ([[Companies/Cyan|Cyan]])
+* [[Games/Thank_Goodness_Youre_Here|Thank Goodness You're Here!]] ([[Companies/Coal_Supper|Coal Supper]] / [[Companies/Panic|Panic]])||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/33/338034/3348322-7899756425-libra.jpg|full=https://www.giantbomb.com/a/uploads/original/33/338034/3348322-7899756425-libra.jpg|align=right|width=320}}
+&lt;p&gt; &lt;/p&gt;
+|}
+
+
+==Outstanding Achievement in Game Design==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Astro_Bot|Astro Bot]]===
+* Developer: [[Companies/Team_Asobi|Team Asobi]]
+* Publisher: [[Companies/Sony_Interactive_Entertainment_America|Sony Interactive Entertainment America]]
+
+====Runners-Up====
+* [[Games/Animal_Well|Animal Well]] ([[Companies/Shared_Memory|Shared Memory]] / [[Companies/Bigmode|Bigmode]])
+* [[Games/Balatro|Balatro]] ([[Companies/LocalThunk|LocalThunk]] / [[Companies/PlayStack|PlayStack]])
+* [[Games/Helldivers_II|Helldivers II]] ([[Companies/Arrowhead_Game_Studios|Arrowhead Game Studios]] / SIE)
+* [[Games/UFO_50|UFO 50]] ([[Companies/Mossmouth_LLC|Mossmouth]])||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/20/201266/3622132-3618933-0d05cb43413f28a641ac0c40fc272c70bbe194f6ade4b175c.jpg|full=https://www.giantbomb.com/a/uploads/original/20/201266/3622132-3618933-0d05cb43413f28a641ac0c40fc272c70bbe194f6ade4b175c.jpg|align=right|width=320}}
+&lt;p&gt; &lt;/p&gt;
+|}
+
+
+==Outstanding Achievement in Animation==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Astro_Bot|Astro Bot]]===
+* Developer: [[Companies/Team_Asobi|Team Asobi]]
+* Publisher: [[Companies/Sony_Interactive_Entertainment_America|Sony Interactive Entertainment America]]
+
+====Runners-Up====
+* [[Games/Call_of_Duty_Black_Ops_6|Call of Duty: Black Ops 6]] ([[Companies/Treyarch|Treyarch]] / [[Companies/Activision|Activision]])
+* [[Games/Final_Fantasy_VII_Rebirth|Final Fantasy VII Rebirth]] ([[Companies/Square_Enix|Square Enix]])
+* [[Games/Neva|Neva]] ([[Companies/Nomada_Studio|Nomada Studio]] / [[Companies/Devolver_Digital|Devolver Digital]])
+* [[Games/Warhammer_40_000_Space_Marine_II|Warhammer 40,000: Space Marine II]] ([[Companies/Saber_Interactive|Saber Interactive]] / [[Companies/Focus_Entertainment|Focus Entertainment]])||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/20/201266/3622132-3618933-0d05cb43413f28a641ac0c40fc272c70bbe194f6ade4b175c.jpg|full=https://www.giantbomb.com/a/uploads/original/20/201266/3622132-3618933-0d05cb43413f28a641ac0c40fc272c70bbe194f6ade4b175c.jpg|align=right|width=320}}
+&lt;p&gt; &lt;/p&gt;
+|}
+
+
+==Outstanding Achievement in Art Direction==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Black_Myth_Wukong|Black Myth: Wukong]]===
+* Developer: [[Companies/Game_Science_Studio|Game Science Studio]]
+* Publisher: Game Science Studio
+
+====Runners-Up====
+* [[Games/Indiana_Jones_and_the_Great_Circle|Indiana Jones and the Great Circle]] ([[Companies/MachineGames|MachineGames]] / [[Companies/Bethesda_Softworks|Bethesda Softworks]])
+* [[Games/LEGO_Horizon_Adventures|LEGO Horizon Adventures]] ([[Companies/Guerrilla_Games|Guerrilla Games]] &amp;amp;amp; [[Companies/Studio_Gobo|Studio Gobo]] / [[Companies/Sony_Interactive_Entertainment_America|Sony Interactive Entertainment]])
+* [[Games/The_Plucky_Squire|The Plucky Squire]] ([[Companies/All_Possible_Futures|All Possible Futures]] / [[Companies/Devolver_Digital|Devolver Digital]])
+* [[Games/Senuas_Saga_Hellblade_II|Senua's Saga: Hellblade II]] ([[Companies/Ninja_Theory|Ninja Theory]] / [[Companies/Xbox_Game_Studios|Xbox Game Studios]])||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/20/201266/3661208-1018858124-black.png|full=https://www.giantbomb.com/a/uploads/original/20/201266/3661208-1018858124-black.png|align=right|width=320}}
+&lt;p&gt; &lt;/p&gt;
+|}
+
+
+==Outstanding Achievement in Character==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===Indiana Jones in [[Games/Indiana_Jones_and_the_Great_Circle|Indiana Jones and the Great Circle]]===
+* Developer: [[Companies/MachineGames|MachineGames]]
+* Publisher: [[Companies/Bethesda_Softworks|Bethesda Softworks]]
+
+====Runners-Up====
+* Indika in [[Games/Indika|Indika]] ([[Companies/Odd_Meter|Odd Meter]] / [[Companies/11_Bit_Studios|11 Bit Studios]])
+* [[Characters/Senua|Senua]] in [[Games/Senuas_Saga_Hellblade_II|Senua's Saga: Hellblade II]] ([[Companies/Ninja_Theory|Ninja Theory]] / [[Companies/Xbox_Game_Studios|Xbox Game Studios]])
+* Watcher in [[Games/1000xResist|1000xResist]] ([[Companies/sunset_visitor_xie_yang_guo_ke|sunset visitor 斜陽過客]] / [[Companies/Fellow_Traveller|Fellow Traveller]])
+* [[Characters/Yuffie_Kisaragi|Yuffie Kisaragi]] in [[Games/Final_Fantasy_VII_Rebirth|Final Fantasy VII Rebirth]] ([[Companies/Square_Enix|Square Enix]])||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/33/338034/3539981-3923301993-apps.394.14050533476382116.9ce9be62-6690-4c40-8e76-7e5af2a256fb.23519966-541f-46af-94a3-68d956e7cf85.jpg|full=https://www.giantbomb.com/a/uploads/original/33/338034/3539981-3923301993-apps.394.14050533476382116.9ce9be62-6690-4c40-8e76-7e5af2a256fb.23519966-541f-46af-94a3-68d956e7cf85.jpg|align=right|width=320}}
+&lt;p&gt; &lt;/p&gt;
+|}
+
+
+==Outstanding Achievement in Original Music Composition==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Helldivers_II|Helldivers II]]===
+* Developer: [[Companies/Arrowhead_Game_Studios|Arrowhead Game Studios]]
+* Publisher: [[Companies/Sony_Interactive_Entertainment_America|Sony Interactive Entertainment America]]
+
+====Nominees====
+* [[Games/Astro_Bot|Astro Bot]] ([[Companies/Team_Asobi|Team Asobi]] / Sony Interactive Entertainment)
+* [[Games/Monument_Valley_III|Monument Valley III]] ([[Companies/ustwo_games|ustwo games]] / [[Companies/Netflix|Netflix]])
+* [[Games/Senuas_Saga_Hellblade_II|Senua's Saga: Hellblade II]] ([[Companies/Ninja_Theory|Ninja Theory]] / [[Companies/Xbox_Game_Studios|Xbox Game Studios]])
+* [[Games/Star_Wars_Outlaws|Star Wars Outlaws]] ([[Companies/Massive_Entertainment|Massive Entertainment]] / [[Companies/Ubisoft_Entertainment|Ubisoft]])||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/33/338034/3471227-3729652527-3a305.jpg|full=https://www.giantbomb.com/a/uploads/original/33/338034/3471227-3729652527-3a305.jpg|align=right|width=320}}
+|}
+
+
+==Outstanding Achievement in Audio Design==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Helldivers_II|Helldivers II]]===
+* Developer: [[Companies/Arrowhead_Game_Studios|Arrowhead Game Studios]]
+* Publisher: [[Companies/Sony_Interactive_Entertainment_America|Sony Interactive Entertainment America]]
+
+====Runners-Up====
+* [[Games/Frostpunk_2|Frostpunk 2]] ([[Companies/11_Bit_Studios|11 Bit Studios]])
+* [[Games/Monument_Valley_III|Monument Valley III]] ([[Companies/ustwo_games|ustwo games]] / [[Companies/Netflix|Netflix]])
+* [[Games/Senuas_Saga_Hellblade_II|Senua's Saga: Hellblade II]] ([[Companies/Ninja_Theory|Ninja Theory]] / [[Companies/Xbox_Game_Studios|Xbox Game Studios]])
+* [[Games/Still_Wakes_the_Deep|Still Wakes the Deep]] ([[Companies/The_Chinese_Room|The Chinese Room]] / [[Companies/Secret_Mode|Secret Mode]])||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/33/338034/3471227-3729652527-3a305.jpg|full=https://www.giantbomb.com/a/uploads/original/33/338034/3471227-3729652527-3a305.jpg|align=right|width=320}}
+&lt;p&gt; &lt;/p&gt;
+|}
+
+
+==Outstanding Achievement in Story==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Indiana_Jones_and_the_Great_Circle|Indiana Jones and the Great Circle]]===
+* Developer: [[Companies/MachineGames|MachineGames]]
+* Publisher: [[Companies/Bethesda_Softworks|Bethesda Softworks]]
+
+====Runners-Up====
+* [[Games/1000xResist|1000xResist]] ([[Companies/sunset_visitor_xie_yang_guo_ke|sunset visitor 斜陽過客]] / [[Companies/Fellow_Traveller|Fellow Traveller]])
+* [[Games/Metaphor_ReFantazio|Metaphor: ReFantazio]] ([[Companies/Studio_Zero|Studio Zero]] / [[Companies/Atlus|Atlus]])
+* [[Games/Still_Wakes_the_Deep|Still Wakes the Deep]] ([[Companies/The_Chinese_Room|The Chinese Room]] / [[Companies/Secret_Mode|Secret Mode]])
+* [[Games/Thank_Goodness_Youre_Here|Thank Goodness You're Here!]] ([[Companies/Coal_Supper|Coal Supper]] / [[Companies/Panic|Panic]])||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/33/338034/3539981-3923301993-apps.394.14050533476382116.9ce9be62-6690-4c40-8e76-7e5af2a256fb.23519966-541f-46af-94a3-68d956e7cf85.jpg|full=https://www.giantbomb.com/a/uploads/original/33/338034/3539981-3923301993-apps.394.14050533476382116.9ce9be62-6690-4c40-8e76-7e5af2a256fb.23519966-541f-46af-94a3-68d956e7cf85.jpg|align=right|width=320}}
+&lt;p&gt; &lt;/p&gt;
+|}
+
+
+==Outstanding Technical Achievement==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Astro_Bot|Astro Bot]]===
+* Developer: [[Companies/Team_Asobi|Team Asobi]]
+* Publisher: [[Companies/Sony_Interactive_Entertainment_America|Sony Interactive Entertainment America]]
+
+====Runners-Up====
+* [[Games/Batman_Arkham_Shadow|Batman: Arkham Shadow]] ([[Companies/Camouflaj|Camouflaj]] / [[Companies/Oculus_Studios|Oculus Studios]])
+* [[Games/Indiana_Jones_and_the_Great_Circle|Indiana Jones and the Great Circle]] ([[Companies/MachineGames|MachineGames]] / [[Companies/Bethesda_Softworks|Bethesda Softworks]])
+* [[Games/Senuas_Saga_Hellblade_II|Senua's Saga: Hellblade II]] ([[Companies/Ninja_Theory|Ninja Theory]] / [[Companies/Xbox_Game_Studios|Xbox Game Studios]])
+* [[Games/Warhammer_40_000_Space_Marine_II|Warhammer 40,000: Space Marine II]] ([[Companies/Saber_Interactive|Saber Interactive]] / [[Companies/Focus_Entertainment|Focus Entertainment]])||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/20/201266/3622132-3618933-0d05cb43413f28a641ac0c40fc272c70bbe194f6ade4b175c.jpg|full=https://www.giantbomb.com/a/uploads/original/20/201266/3622132-3618933-0d05cb43413f28a641ac0c40fc272c70bbe194f6ade4b175c.jpg|align=right|width=320}}
+&lt;p&gt; &lt;/p&gt;
+|}
+
+
+==Action Game of the Year==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Helldivers_II|Helldivers II]]===
+* Developer: [[Companies/Team_Asobi|Team Asobi]]
+* Publisher: [[Companies/Sony_Interactive_Entertainment_America|Sony Interactive Entertainment America]]
+
+====Nominees====
+* [[Games/Batman_Arkham_Shadow|Batman: Arkham Shadow]] ([[Companies/Camouflaj|Camouflaj]] / [[Companies/Oculus_Studios|Oculus Studios]])
+* [[Games/Black_Myth_Wukong|Black Myth: Wukong]] ([[Companies/Game_Science_Studio|Game Science Studio]])
+* [[Games/Call_of_Duty_Black_Ops_6|Call of Duty: Black Ops 6]] ([[Companies/Treyarch|Treyarch]] / [[Companies/Activision|Activision]])
+* [[Games/Stellar_Blade|Stellar Blade]] ([[Companies/Shift_Up|Shift Up]] / SIE)||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/33/338034/3471227-3729652527-3a305.jpg|full=https://www.giantbomb.com/a/uploads/original/33/338034/3471227-3729652527-3a305.jpg|align=right|width=320}}
+&lt;p&gt; &lt;/p&gt;
+|}
+
+
+==Adventure Game of the Year==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Indiana_Jones_and_the_Great_Circle|Indiana Jones and the Great Circle]]===
+* Developer: [[Companies/MachineGames|MachineGames]]
+* Publisher: [[Companies/Bethesda_Softworks|Bethesda Softworks]]
+
+====Runners-Up====
+* [[Games/1000xResist|1000xResist]] ([[Companies/sunset_visitor_xie_yang_guo_ke|sunset visitor 斜陽過客]] / [[Companies/Fellow_Traveller|Fellow Traveller]])
+* [[Games/Animal_Well|Animal Well]] ([[Companies/Shared_Memory|Shared Memory]] / [[Companies/Bigmode|Bigmode]])
+* [[Games/The_Legend_of_Zelda_Echoes_of_Wisdom|The Legend of Zelda: Echoes of Wisdom]] ([[Companies/Grezzo|Grezzo]] / [[Companies/Nintendo|Nintendo]])
+* [[Games/Prince_of_Persia_The_Lost_Crown|Prince of Persia: The Lost Crown]] ([[Companies/Ubisoft_Montpellier_Studios|Ubisoft Montpellier]] / [[Companies/Ubisoft_Entertainment|Ubisoft]])||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/33/338034/3539981-3923301993-apps.394.14050533476382116.9ce9be62-6690-4c40-8e76-7e5af2a256fb.23519966-541f-46af-94a3-68d956e7cf85.jpg|full=https://www.giantbomb.com/a/uploads/original/33/338034/3539981-3923301993-apps.394.14050533476382116.9ce9be62-6690-4c40-8e76-7e5af2a256fb.23519966-541f-46af-94a3-68d956e7cf85.jpg|align=right|width=320}}
+&lt;p&gt; &lt;/p&gt;
+|}
+
+
+==Family Game of the Year==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Astro_Bot|Astro Bot]]===
+* Developer: [[Companies/Team_Asobi|Team Asobi]]
+* Publisher: [[Companies/Sony_Interactive_Entertainment_America|Sony Interactive Entertainment America]]
+
+====Runners-Up====
+* [[Games/Cat_Quest_III|Cat Quest III]] ([[Companies/The_Gentlebros_Pte_Ltd|The Gentlebros]] / [[Companies/Kepler_Interactive|Kepler Interactive]])
+* [[Games/Little_Kitty_Big_City|Little Kitty, Big City]] ([[Companies/Double_Dagger_Studio|Double Dagger Studio]])
+* [[Games/The_Plucky_Squire|The Plucky Squire]] ([[Companies/All_Possible_Futures|All Possible Futures]] / [[Companies/Devolver_Digital|Devolver Digital]])
+* [[Games/Super_Mario_Party_Jamboree|Super Mario Party Jamboree]] ([[Companies/Nintendo_Cube|Nintendo Cube]] / [[Companies/Nintendo|Nintendo]])||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/20/201266/3622132-3618933-0d05cb43413f28a641ac0c40fc272c70bbe194f6ade4b175c.jpg|full=https://www.giantbomb.com/a/uploads/original/20/201266/3622132-3618933-0d05cb43413f28a641ac0c40fc272c70bbe194f6ade4b175c.jpg|align=right|width=320}}
+&lt;p&gt; &lt;/p&gt;
+|}
+
+
+==Fighting Game of the Year==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Tekken_8|Tekken 8]]===
+* Developer: [[Companies/Tekken_Project|Tekken Project]]
+* Publisher: [[Companies/Bandai_Namco_Entertainment|Bandai Namco Entertainment]]
+
+====Runners-Up====
+* [[Games/Blazing_Strike|Blazing Strike]] ([[Companies/RareBreed_Makes_Games|RareBreed Makes Games]] / [[Companies/Aksys_Games|Aksys Games]])
+* [[Games/Dragon_Ball_Sparking_Zero|Dragon Ball: Sparking! Zero]] (Bandai Namco Entertainment)
+* [[Games/Mortal_Kombat_1|Mortal Kombat 1: Khaos Reigns]] ([[Companies/NetherRealm_Studios|NetherRealm Studios]] / [[Companies/WB_Games|WB Games]])
+* [[Games/Underdogs|Underdogs]] (One Hamsa)||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/0/1992/3453427-2543213582-rCvLi.png|full=https://www.giantbomb.com/a/uploads/original/0/1992/3453427-2543213582-rCvLi.png|align=right|width=320}}
+&lt;p&gt; &lt;/p&gt;
+|}
+
+
+==Racing Game of the Year==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/F1_24|F1 24]]===
+* Developer: [[Companies/Codemasters|Codemasters]]
+* Publisher: [[Companies/Electronic_Arts|Electronic Arts]]
+
+====Runners-Up====
+* MotoGP 24 ([[Companies/Milestone_s_r_l|Milestone s.r.l.]])
+* Night-Runners Prologue (Planet Jem)||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/0/1992/3692519-5767271970-EGS_F124_Codemasters_S2_1200x1600-4640c5c849df939a2303ab872d618530.jpg|full=https://www.giantbomb.com/a/uploads/original/0/1992/3692519-5767271970-EGS_F124_Codemasters_S2_1200x1600-4640c5c849df939a2303ab872d618530.jpg|align=right|width=320}}
+|}
+
+
+==Role-Playing Game of the Year==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Metaphor_ReFantazio|Metaphor: ReFantazio]]===
+* Developer: [[Companies/Studio_Zero|Studio Zero]]
+* Publisher: [[Companies/Atlus|Atlus]]
+
+====Runners-Up====
+* [[Games/Final_Fantasy_VII_Rebirth|Final Fantasy VII Rebirth]] ([[Companies/Square_Enix|Square Enix]])
+* [[Games/Dragon_Age_The_Veilguard|Dragon Age: The Veilguard]] ([[Companies/BioWare|BioWare]] / [[Companies/Electronic_Arts|Electronic Arts]])
+* [[Games/Elden_Ring|Elden Ring: Shadow of the Erdtree]] ([[Companies/FromSoftware_Inc|FromSoftware]] / [[Companies/Bandai_Namco_Entertainment|Bandai Namco Entertainment]])
+* [[Games/Like_a_Dragon_Infinite_Wealth|Like a Dragon: Infinite Wealth]] ([[Companies/Ryu_ga_Gotoku_Studio|Ryu ga Gotoku Studio]] / [[Companies/Sega|Sega]])||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/20/201266/3633864-1703384255-co8d9.jpg|full=https://www.giantbomb.com/a/uploads/original/20/201266/3633864-1703384255-co8d9.jpg|align=right|width=320}}
+&lt;p&gt; &lt;/p&gt;
+|}
+
+
+==Sports Game of the Year==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/MLB_The_Show_24|MLB The Show 24]]===
+* Developer: [[Companies/San_Diego_Studio|San Diego Studio]]
+* Publisher: [[Companies/Sony_Interactive_Entertainment_America|Sony Interactive Entertainment America]]
+
+====Nominees====
+* [[Games/EA_Sports_College_Football_25|EA Sports College Football 25]] ([[Companies/EA_Tiburon|EA Tiburon]] / [[Companies/Electronic_Arts|Electronic Arts]])
+* [[Games/EA_Sports_FC_25|EA Sports FC 25]] ([[Companies/EA_Vancouver|EA Vancouver]] &amp;amp;amp; [[Companies/EA_Romania|EA Romania]] / Electronic Arts)
+* [[Games/NBA_2K25|NBA 2K25]] ([[Companies/Visual_Concepts|Visual Concepts]] / [[Companies/2K_Games|2K Games]])||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/20/201266/3618941-ab184bf54d31c.jpg|full=https://www.giantbomb.com/a/uploads/original/20/201266/3618941-ab184bf54d31c.jpg|align=right|width=320}}
+&lt;p&gt; &lt;/p&gt;
+|}
+
+
+==Stategy / Simulation Game of the Year==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Balatro|Balatro]]===
+* Developer: [[Companies/LocalThunk|LocalThunk]]
+* Publisher: [[Companies/PlayStack|PlayStack]]
+
+====Runners-Up====
+* [[Games/Caves_of_Qud|Caves of Qud]] ([[Companies/Freehold_Games|Freehold Games]] / [[Companies/Kitfox_Games|Kitfox Games]])
+* [[Games/Frostpunk_2|Frostpunk 2]] ([[Companies/11_Bit_Studios|11 Bit Studios]])
+* [[Games/Tactical_Breach_Wizards|Tactical Breach Wizards]] ([[Companies/Suspicious_Developments|Suspicious Developments]])
+* [[Games/Satisfactory|Satisfactory]] ([[Companies/Coffee_Stain_Studios|Coffee Stain Studios]])||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/8/87790/3664593-box_bal.png|full=https://www.giantbomb.com/a/uploads/original/8/87790/3664593-box_bal.png|align=right|width=320}}
+&lt;p&gt; &lt;/p&gt;
+|}
+
+
+==Immsersive Reality Game of the Year==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Batman_Arkham_Shadow|Batman: Arkham Shadow]]===
+* Developer: [[Companies/Camouflaj|Camouflaj]]
+* Publisher: [[Companies/Oculus_Studios|Oculus Studios]]
+
+====Runners-Up====
+* [[Games/Alien_Rogue_Incursion|Alien: Rogue Incursion]] ([[Companies/Survios|Survios]] / 20th Century Games)
+* [[Games/Skydances_Behemoth|Behemoth]] ([[Companies/Skydance_Interactive|Skydance Interactive]])
+* Escaping Wonderland ([[Companies/Cortopia_Studios|Cortopia Studios]] / Beyond Frames Entertainment)
+* [[Games/Underdogs|Underdogs]] (One Hamsa)||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/0/1992/3573686-1954201070-39035.png|full=https://www.giantbomb.com/a/uploads/original/0/1992/3573686-1954201070-39035.png|align=right|width=320}}
+&lt;p&gt; &lt;/p&gt;
+|}
+
+
+==Immersive Reality Technical Achievement==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===Starship Home===
+* Developer: [[Companies/Creature|Creature]]
+* Publisher: Creature
+
+====Runners-Up====
+* [[Games/Alien_Rogue_Incursion|Alien: Rogue Incursion]] ([[Companies/Survios|Survios]] / 20th Century Games)
+* [[Games/Batman_Arkham_Shadow|Batman: Arkham Shadow]] ([[Companies/Camouflaj|Camouflaj]] / [[Companies/Oculus_Studios|Oculus Studios]])
+* [[Games/Skydances_Behemoth|Behemoth]] ([[Companies/Skydance_Interactive|Skydance Interactive]])
+* [[Games/Underdogs|Underdogs]] (One Hamsa)||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/0/1992/3692523-5656345867-Stars.jpg|full=https://www.giantbomb.com/a/uploads/original/0/1992/3692523-5656345867-Stars.jpg|align=right|width=320}}
+|}
+
+
+==Outstanding Achievement for an Independent Game==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Balatro|Balatro]]===
+* Developer: [[Companies/LocalThunk|LocalThunk]]
+* Publisher: [[Companies/PlayStack|PlayStack]]
+
+====Runners-Up====
+* [[Games/Animal_Well|Animal Well]] ([[Companies/Shared_Memory|Shared Memory]] / [[Companies/Bigmode|Bigmode]])
+* Grunn ([[Companies/Sokpop_Collective|Sokpop Collective]])
+* [[Games/Indika|Indika]] ([[Companies/Odd_Meter|Odd Meter]] / [[Companies/11_Bit_Studios|11 Bit Studios]])
+* [[Games/Mouthwashing|Mouthwashing]] ([[Companies/Wrong_Organ|Wrong Organ]] / [[Companies/Critical_Reflex|Critical Reflex]]||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/8/87790/3664593-box_bal.png|full=https://www.giantbomb.com/a/uploads/original/8/87790/3664593-box_bal.png|align=right|width=320}}
+|}
+
+
+==Mobile Game of the Year==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Balatro|Balatro]]===
+* Developer: [[Companies/LocalThunk|LocalThunk]]
+* Publisher: [[Companies/PlayStack|PlayStack]]
+
+====Runners-Up====
+* [[Games/Halls_of_Torment|Halls of Torment]] ([[Companies/Chasing_Carrots|Chasing Carrots]])
+* [[Games/Monument_Valley_III|Monument Valley III]] ([[Companies/ustwo_games|ustwo games]] / [[Companies/Netflix|Netflix]])
+* [[Games/Paper_Trail|Paper Trail]] ([[Companies/Newfangled_Games|Newfangled Games]])
+* [[Games/Wuthering_Waves|Wuthering Waves]] ([[Companies/Kuro_Games|Kuro Games]])||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/8/87790/3664593-box_bal.png|full=https://www.giantbomb.com/a/uploads/original/8/87790/3664593-box_bal.png|align=right|width=320}}
+|}
+
+
+==Online Game of the Year==
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+| ===[[Games/Helldivers_II|Helldivers II]]===
+* Developer: [[Companies/Arrowhead_Game_Studios|Arrowhead Game Studios]]
+* Publisher: [[Companies/Sony_Interactive_Entertainment_America|Sony Interactive Entertainment America]]
+
+====Runners-Up====
+* [[Games/Call_of_Duty_Black_Ops_6|Call of Duty: Black Ops 6]] ([[Companies/Treyarch|Treyarch]] / [[Companies/Activision|Activision]])
+* [[Games/Diablo_IV_Vessel_of_Hatred|Diablo IV: Vessel of Hatred]] ([[Companies/Blizzard_Entertainment|Blizzard Entertainment]])
+* [[Games/Marvel_Rivals|Marvel Rivals]] ([[Companies/NetEase|NetEase]])
+* [[Games/Warhammer_40_000_Space_Marine_II|Warhammer 40,000: Space Marine II]] ([[Companies/Saber_Interactive|Saber Interactive]] / [[Companies/Focus_Entertainment|Focus Entertainment]])||{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/33/338034/3471227-3729652527-3a305.jpg|full=https://www.giantbomb.com/a/uploads/original/33/338034/3471227-3729652527-3a305.jpg|align=right|width=320}}
+|}
+
+
+==Presenters==
+* [[People/Rob_Pardo|Rob Pardo]] (Action, Adventure)
+* [[People/Tynan_Sylvester|Tynan Sylvester]] (RPG, Strategy/Simulation)
+* Andrew Eiche (Immersive Reality)
+* [[People/J_E_Sawyer|J.E. Sawyer]] (Story, Character)
+* [[People/Chelsea_Blasko|Chelsea Blasko]] (Fighting, Sports)
+* [[People/Shawn_Allen|Shawn Alexander Allen]] (Technical, Independent)
+* [[People/Mariel_Cartwright|Mariel Cartwright]] (Animation, Art Direction)
+* [[People/Ryan_Schneider|Ryan Schneider]] (Hall of Fame)
+* Sunni Pavlovic (Online, Mobile)
+* [[People/Kiki_Wolfkill|Kiki Wolfkill]] (Family, Racing)
+* [[People/Mike_Morhaime|Mike Morhaime]] &amp;amp; [[People/Amy_Morhaime|Amy Morhaime]] (Game Design, Direction)
+* [[People/Neil_Druckmann|Neil Druckmann]] (GOTY)</text>
+      <sha1>tomueb7r9i89gatjmn3fcp42tddkm8v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/29th Annual D I C E Awards</title>
+    <ns>0</ns>
+    <id>464433</id>
+    <revision>
+      <id>796974</id>
+      <parentid>620219</parentid>
+      <timestamp>2026-03-12T03:16:56Z</timestamp>
+      <contributor>
+        <username>Frobie</username>
+        <id>300</id>
+      </contributor>
+      <comment>generate guid</comment>
+      <origin>796974</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9060" sha1="r8bdcp3in5xe5cqxhn9c76bpezau02l" xml:space="preserve">{{Concept
+|Guid=2a0ac30b-f585-46b2-b03d-ba3dc11b98f1
+|Name=29th Annual D.I.C.E. Awards
+|Aliases=DICE Awards 2026
+|Deck=The 29th Annual D.I.C.E. Awards celebrate the best games of 2025, as voted by industry professionals.
+|Concepts=Concepts/D I C E Awards
+|Locations=Locations/Las Vegas, Locations/Nevada, Locations/The United States of America
+|Games=Games/Hades II, Games/The Alters, Games/Clair Obscur Expedition 33, Games/Ghost of Yotei, Games/Ghost Town, Games/Mario Kart World, Games/Rematch 2025, Games/Death Stranding 2 On the Beach, Games/South of Midnight, Games/Mortal Kombat Legacy Kollection, Games/ARC Raiders, Games/LEGO Party, Games/Blue Prince, Games/Persona 5 The Phantom X
+|People=People/Evan Wells
+}}
+==Overview==
+The 29th Annual D.I.C.E. Awards were held February 12, 2026 in Las Vegas, Nevada during the 2026 D.I.C.E. Summit. The show was hosted by Greg Miller and Stella Chung.
+
+==Personal Awards==
+
+===Hall of Fame===
+* Evan Wells
+
+==Game of the Year==
+===Clair Obscur: Expedition 33===
+* Developer: Sandfall Interactive
+* Publisher: Kepler Interactive
+
+====Runners-Up====
+* ARC Raiders (Embark Studios)
+* Blue Prince (Dogubomb / Raw Fury)
+* Dispatch (AdHoc Studio)
+* Ghost of Yōtei (Sucker Punch / SIEA)
+
+==Outstanding Achievement in Game Direction==
+===Clair Obscur: Expedition 33===
+* Developer: Sandfall Interactive
+* Publisher: Kepler Interactive
+
+====Runners-Up====
+* Blue Prince (Dogubomb / Raw Fury)
+* Ghost of Yōtei (Sucker Punch Productions / SIEA)
+* Hades II (Supergiant Games)
+* Kingdom Come: Deliverance II (Warhorse Studios / Deep Silver)
+
+==Outstanding Achievement in Game Design==
+===Blue Prince===
+* Developer: Dogubomb
+* Publisher: Raw Fury
+
+====Runners-Up====
+* ARC Raiders (Embark Studios)
+* Hades II (Supergiant Games)
+* Kingdom Come: Deliverance II (Warhorse Studios / Deep Silver)
+* Öoo (NamaTakahashi)
+
+==Outstanding Achievement in Animation==
+===South of Midnight===
+* Developer: Compulsion Games
+* Publisher: Xbox Game Studios
+
+====Runners-Up====
+* Death Stranding 2: On the Beach (Kojima Productions / SIEA)
+* Ghost of Yōtei (Sucker Punch / SIEA)
+* The Midnight Walk (MoonHood / Fast Travel Games)
+* Monster Hunter Wilds (Capcom)
+
+==Outstanding Achievement in Art Direction==
+===Clair Obscur: Expedition 33===
+* Developer: Sandfall Interactive
+* Publisher: Kepler Interactive
+
+====Runners-Up====
+* Death Stranding 2: On the Beach (Kojima Productions / Sony Interactive Entertainment)
+* Dispatch (AdHoc Studio)
+* Ghost of Yōtei (Sucker Punch Productions / SIEA)
+* The Midnight Walk (MoonHood / Fast Travel Games)
+
+==Outstanding Achievement in Character==
+===Erika Ishii as Atsu in Ghost of Yōtei===
+* Developer: Sucker Punch Productions
+* Publisher: Sony Interactive Entertainment America
+
+====Runners-Up====
+* Aaron Paul as Robert Robertson III/Mecha Man in Dispatch (AdHoc Studio)
+* Jennifer English as Maelle in Clair Obscur: Expedition 33 (Sandfall Interactive / Kepler Interactive)
+* Laura Bailey as Courtney/Invisigal in Dispatch (AdHoc Studio)
+* Maxence Cazorla as Esquie in Clair Obscur: Expedition 33 (Sandfall Interactive / Kepler Interactive)
+
+==Outstanding Achievement in Original Music Composition==
+===Ghost of Yōtei===
+* Developer: Sucker Punch Productions
+* Publisher: Sony Interactive Entertainment America
+
+====Runners-Up====
+* Clair Obscur: Expedition 33 (Sandfall Interactive / Kepler Interactive)
+* Herdling (Okomotive, Panic Inc.)
+* Mario Kart World (Nintendo EPD)
+* Sword of the Sea (Giant Squid)
+
+==Outstanding Achievement in Audio Design==
+===Death Stranding 2: On the Beach===
+* Developer: Kojima Productions
+* Publisher: Sony Interactive Entertainment America
+
+====Runners-Up====
+* ARC Raiders (Embark Studios)
+* Ghost of Yōtei (Sucker Punch Productions / SIEA)
+* Lumines Arise (Enhance Games / Monstars)
+* Split Fiction (Hazelight Studios / Electronic Arts)
+
+==Outstanding Achievement in Story==
+===Clair Obscur: Expedition 33===
+* Developer: Sandfall Interactive
+* Publisher: Kepler Interactive
+
+====Runners-Up====
+* Consume Me (Hexecutable LLC)
+* Despelote (Panic Inc.)
+* The Drifter (Powerhoof)
+* South of Midnight (Compulsion Games / Xbox Game Studios)
+
+==Outstanding Technical Achievement==
+===Death Stranding 2: On the Beach===
+* Developer: Kojima Productions
+* Publisher: Sony Interactive Entertainment America
+
+====Runners-Up====
+* ARC Raiders (Embark Studios)
+* Assassin's Creed Shadows (Ubisoft Québec / Ubisoft)
+* Donkey Kong Bananza (Nintendo EPD / Nintendo)
+* Doom: The Dark Ages (id Software / Bethesda Softworks)
+
+==Action Game of the Year==
+===Hades II===
+* Developer: Supergiant Games
+* Publisher: Supergiant Games
+
+====Runners-Up====
+* Absolum (Guard Crush Games &amp; Supamonks / Dotemu)
+* ARC Raiders (Embark Studios)
+* Doom: The Dark Ages (id Software / Bethesda Softworks)
+* Ninja Gaiden 4 (Team Ninja &amp; PlatinumGames / Xbox Game Studios)
+
+==Adventure Game of the Year==
+===Ghost of Yōtei===
+* Developer: Sucker Punch Productions
+* Publisher: Sony Interactive Entertainment America
+
+====Runners-Up====
+* Blue Prince (Dogubomb / Raw Fury)
+* Dispatch (AdHoc Studio)
+* Donkey Kong Bananza (Nintendo EPD / Nintendo)
+* Hollow Knight: Silksong (Team Cherry)
+
+==Family Game of the Year==
+===LEGO Party===
+* Developer: SMG Studio
+* Publisher: Fictions
+
+====Runners-Up====
+* LEGO Voyagers (Light Brick Studio / Annapurna Interactive)
+* Lumines Arise (Enhance Games / Monstars)
+* Marvel Cosmic Invasion (Tribute Games / Dotemu)
+* Popucom (Countersurge Salient / Gryphline)
+
+==Fighting Game of the Year==
+===Mortal Kombat: Legacy Kollection===
+* Developer: Digital Eclipse
+* Publisher: Atari
+
+====Runners-Up====
+* 2XKO (Riot Games)
+* Capcom Fighting Collection 2 (Capcom)
+* Fatal Fury: City of the Wolves (SNK)
+* WWE 2K25 (Visual Concepts / 2K Games)
+
+==Racing Game of the Year==
+===Mario Kart World===
+* Developer: Nintendo EPD
+* Publisher: Nintendo
+
+====Runners-Up====
+* F1 25 (Codemasters / Electronic Arts)
+* Kirby Air Riders (Sora Ltd. / Nintendo)
+* Wheel World (Messhof / Annapurna Interactive)
+
+==Role-Playing Game of the Year==
+===Clair Obscur: Expedition 33===
+* Developer: Sandfall Interactive
+* Publisher: Kepler Interactive
+
+====Runners-Up====
+* Citizen Sleeper 2: Starward Vector (Jump Over the Age / Fellow Traveller Games)
+* Kingdom Come: Deliverance II (Warhorse Studios / Deep Silver)
+* Monster Hunter Wilds (Capcom)
+* The Outer Worlds 2 (Obsidian Entertainment / Xbox Game Studios)
+
+==Sports Game of the Year==
+===Rematch===
+* Developer: Sloclap
+* Publisher: Kepler Interactive
+
+====Runners-Up====
+* EA Sports FC 26 (EA Vancouver &amp; EA Romania / EA Sports)
+* PGA Tour 2K25 (HB Studios / 2K Games)
+* MLB The Show 25 (SIE San Diego Studio / SIEA)
+* NBA 2K26 (Visual Concepts / 2K Games)
+
+==Strategy/Simulation Game of the Year==
+===The Alters===
+* Developer: 11 Bit Studios
+* Publisher: 11 Bit Studios
+
+====Runners-Up====
+* Drop Duchy (Sleepy Mill Studio / The Arcade Crew)
+* Europa Universalis V (Paradox Tinto)
+* The King is Watching (Hypnohead / tinyBuild)
+* StarVaders (Pengonauts / Joystick Ventures) 
+
+==Immersive Reality Game of the Year==
+===Ghost Town===
+* Developer: Fireproof Games
+* Publisher: Fireproof Games
+
+====Runners-Up====
+* Demeo x Dungeons &amp; Dragons: Battlemarked (Resolution Games)
+* Marvel's Deadpool VR (Twisted Pixel Games / Oculus Studios)
+* The Midnight Walk (MoonHood / Fast Travel Games)
+* Thief VR: Legacy of Shadow (Maze Theory / Vertigo Games) 
+
+==Immersive Reality Technical Achievement==
+===Hotel Infinity===
+* Developer: Studio Chyr
+* Publisher: Studio Chyr
+
+====Runners-Up====
+* Ghost Town (Fireproof Studios)
+* Marvel's Deadpool VR (Twisted Pixel Games / Oculus Studios)
+* Star Wars: Beyond Victory - A Mixed Reality Playset (Industrial Light &amp; Magic / Disney Electronic Content)
+* Unloop (Superposition NULL / CM Games)
+
+==Outstanding Achievement for an Independent Game==
+===Blue Prince===
+* Developer: Dogubomb
+* Publisher: Raw Fury
+
+====Runners-Up====
+* Baby Steps (Devolver Digital)
+* Consume Me (Hexecutable LLC)
+* Despelote (Panic Inc.)
+* Dispatch (AdHoc Studio)
+
+==Mobile Game of the Year==
+===Persona 5: The Phantom X===
+* Developer: Black Wings Game Studio
+* Publisher: Sega
+
+====Runners-Up====
+* Umamusume: Pretty Derby (Cygames)
+* What the Clash? (Triband)
+* Where Winds Meet (Everstone Studio / NetEase Games)
+
+==Online Game of the Year==
+===ARC Raiders===
+* Developer: Embark Studios
+* Publisher: Embark Studios
+
+====Runners-Up====
+* Battlefield 6 (Battlefield Studios / Electronic Arts)
+* Mario Kart World (Nintendo EPD / Nintendo)
+* Marvel Rivals (NetEase Games)
+* Split Fiction (Hazelight Studios / Electronic Arts) 
+
+==Presenters==
+* REL Hunt (Action, Adventure)
+* Min Kim (Vince Zampella Memorial)
+* Jill Braff (RPG, Strategy/Simulation)
+* Johnny Galvatron (Audio Design, Original Music Composition)
+* Troy Baker (Story, Character)
+* Neil Druckman (Hall of Fame)
+* Rich Hilleman (Racing, Sports)
+* Mike Fitzgerald (Technical, Mobile)
+* Lee Petty (Animation, Art Direction)
+* Nico Bihary (Fighting, Online)
+* Shuhei Yoshida (Family, Independent)
+* Ed Boon (Design)
+* Todd Howard (Direction, GOTY)</text>
+      <sha1>r8bdcp3in5xe5cqxhn9c76bpezau02l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/3D Goggle support</title>
+    <ns>0</ns>
+    <id>95872</id>
+    <revision>
+      <id>588236</id>
+      <parentid>487831</parentid>
+      <timestamp>2026-02-08T07:17:01Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588236</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="815" sha1="a9my0hdyuzz4acevyyu4jevpc0djcfd" xml:space="preserve">{{Concept
+| Name=3D Goggle support
+| Guid=3015-13424
+| Deck=An accessory for the Pioneer LaserActive.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/3D_Museum,Games/3D_Virtual_Australia,Games/Dr_Paolo_no_Totteoki_Video,Games/Goku,Games/Melon_Brains_Exploring_The_Mind_Of_The_Dolphin,Games/Virtual_Cameraman_2
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/59/594908/3708465-1820014850-Laser.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3708465-1820014850-Laser.png","path":"59\/594908\/","mime":"image\/png","sizes":"square_small,square_medium,square_avatar,scale_medium,scale_small,square_tiny,square_mini,scale_super,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+An accessory for the Pioneer LaserActive.</text>
+      <sha1>a9my0hdyuzz4acevyyu4jevpc0djcfd</sha1>
+    </revision>
+  </page>
+</mediawiki>

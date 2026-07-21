@@ -1,0 +1,1716 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Concepts/Kuntilanak</title>
+    <ns>0</ns>
+    <id>95811</id>
+    <revision>
+      <id>588122</id>
+      <parentid>487791</parentid>
+      <timestamp>2026-02-08T07:16:07Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588122</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1221" sha1="e4fzu6q2cwrimffxt4ab4i3wxu970so" xml:space="preserve">{{Concept
+| Name=Kuntilanak
+| Guid=3015-13362
+| Deck=Kuntilanak are a spirit or creature in Indonesian folklore that take on the appearance of a monstrous pregnant woman. Driving a nail through their head can make them beautiful and kind until the nail is removed.
+| Characters=
+| Concepts=Concepts/Ghost,Concepts/Mythology,Concepts/Pregnancy
+| Franchises=
+| Games=Games/DreadOut,Games/DreadOut_2,Games/DreadOut_Remastered_Collection,Games/Pamali_Indonesian_Folklore_Horror
+| Locations=Locations/Indonesia,Locations/Malaysia,Locations/Singapore
+| Objects=Objects/Nail
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3660640-kuntilanak_cg_render.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3660640-kuntilanak_cg_render.png","path":"16\/164924\/","mime":"image\/png","sizes":"square_medium,scale_super,square_tiny,scale_small,scale_medium,square_avatar,square_small,square_mini,screen_kubrick,scale_avatar,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Kuntilanak are a spirit or creature in Indonesian folklore that take on the appearance of a monstrous pregnant woman. Driving a nail through their head can make them beautiful and kind until the nail is removed.</text>
+      <sha1>e4fzu6q2cwrimffxt4ab4i3wxu970so</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Lancia</title>
+    <ns>0</ns>
+    <id>95781</id>
+    <revision>
+      <id>95915</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>95915</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="242" sha1="sj2cc69mhw1c0jdc928ptfjrpukn3ei" xml:space="preserve">{{Concept
+| Name=Lancia
+| Guid=3015-13332
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=Objects/Lancia_Fulvia_HF,Objects/Lancia_Stratos
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>sj2cc69mhw1c0jdc928ptfjrpukn3ei</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Legendary Super Saiyan</title>
+    <ns>0</ns>
+    <id>95737</id>
+    <revision>
+      <id>587992</id>
+      <parentid>487743</parentid>
+      <timestamp>2026-02-08T07:15:04Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587992</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2367" sha1="me7d7v0e2nx0h9ti624mnkck2k9q22m" xml:space="preserve">{{Concept
+| Name=Legendary Super Saiyan
+| Guid=3015-13288
+| Deck=Purported to be the actual Super Saiyan form spoke of in Saiyan culture. Users boast massively enhanced muscular structure to go along with their power increase.
+| Characters=Characters/Bio_Broly,Characters/Broly,Characters/Kale_35796,Characters/Karoly
+| Concepts=Concepts/Saiyan,Concepts/Super_Mode,Concepts/Super_Saiyan
+| Franchises=
+| Games=Games/Dragon_Ball_FighterZ,Games/Dragon_Ball_Fusions,Games/Dragon_Ball_Gekishin_Squadra,Games/Dragon_Ball_Heroes,Games/Dragon_Ball_Heroes_Ultimate_Mission,Games/Dragon_Ball_Kai_Ultimate_Butouden,Games/Dragon_Ball_Legends,Games/Dragon_Ball_Raging_Blast,Games/Dragon_Ball_Raging_Blast_2,Games/Dragon_Ball_Sparking_Zero,Games/Dragon_Ball_Super_Divers,Games/Dragon_Ball_Xenoverse,Games/Dragon_Ball_Xenoverse_2,Games/Dragon_Ball_Z_Attack_of_the_Saiyans,Games/Dragon_Ball_Z_Bakuretsu_Impact,Games/Dragon_Ball_Z_Battle_of_Z,Games/Dragon_Ball_Z_Budokai_3,Games/Dragon_Ball_Z_Budokai_HD_Collection,Games/Dragon_Ball_Z_Budokai_Tenkaichi,Games/Dragon_Ball_Z_Budokai_Tenkaichi_2,Games/Dragon_Ball_Z_Budokai_Tenkaichi_3,Games/Dragon_Ball_Z_Burst_Limit,Games/Dragon_Ball_Z_Buus_Fury,Games/Dragon_Ball_Z_Extreme_Butouden,Games/Dragon_Ball_Z_Infinite_World,Games/Dragon_Ball_Z_Sagas,Games/Dragon_Ball_Z_Shin_Budokai,Games/Dragon_Ball_Z_Shin_Budokai_Another_Road,Games/Dragon_Ball_Z_Super_Butoden_2,Games/Dragon_Ball_Z_Supersonic_Warriors_2,Games/Dragon_Ball_Z_Taiketsu,Games/Dragon_Ball_Z_Tenkaichi_Tag_Team,Games/Dragon_Ball_Z_Ultimate_Tenkaichi,Games/Dragon_Ball_Z_W_Bakuretsu_Impact,Games/Dragon_Ball_Zenkai_Battle_Royal,Games/DragonBall_Z_Buus_Fury_Dragon_Ball_GT_Transformation,Games/DragonBall_Z_Dokkan_Battle,Games/Super_Dragon_Ball_Heroes_World_Mission
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3630027-unnamed.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3630027-unnamed.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_medium,square_avatar,square_medium,square_tiny,scale_small,scale_super,scale_tiny,square_small,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Purported to be the actual Super Saiyan form spoke of in Saiyan culture. Users boast massively enhanced muscular structure to go along with their power increase.</text>
+      <sha1>me7d7v0e2nx0h9ti624mnkck2k9q22m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Live2D</title>
+    <ns>0</ns>
+    <id>95871</id>
+    <revision>
+      <id>588235</id>
+      <parentid>487830</parentid>
+      <timestamp>2026-02-08T07:17:01Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588235</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="827" sha1="g1a0084jkvz5n2xfzrgzxpkqndri8g4" xml:space="preserve">{{Concept
+| Name=Live2D
+| Guid=3015-13423
+| Deck=An animation tecnique used to animate static images.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/eBaseball_Powerful_Pro_Yakyu_2020,Games/eBaseball_Powerful_Pro_Yakyu_2022,Games/Megami_Meguri,Games/My_Girlfriend_is_a_Mermaid,Games/Powerful_Pro_Yakyu_2024_2025,Games/The_Fox_Awaits_Me
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/59/594908/3708419-7063196242-live2.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3708419-7063196242-live2.png","path":"59\/594908\/","mime":"image\/png","sizes":"scale_super,square_tiny,square_medium,square_avatar,square_small,scale_medium,scale_small,scale_large,square_mini,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+It was originated in Japan.</text>
+      <sha1>g1a0084jkvz5n2xfzrgzxpkqndri8g4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Live Service Game</title>
+    <ns>0</ns>
+    <id>95908</id>
+    <revision>
+      <id>96043</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96043</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3133" sha1="nupsyzzni41mjrpmm1pxcswzl5mzipi" xml:space="preserve">{{Concept
+| Name=Live Service Game
+| Guid=3015-13461
+| Aliases=Games as a Service,GaaS
+| Deck=A game that uses a continuous update and revenue model.
+| Characters=
+| Concepts=Concepts/Battle_Pass,Concepts/Dead_Multiplayer,Concepts/Dedicated_Servers,Concepts/Gacha_system,Concepts/Microtransaction,Concepts/Never_Ending,Concepts/Online
+| Franchises=
+| Games=Games/Age_of_Empires_Online,Games/Albion_Online,Games/Among_Us,Games/Anthem,Games/Apex_Legends,Games/Awesomenauts,Games/Back_4_Blood,Games/Battleborn,Games/Black_Desert_Online,Games/Blood_Strike,Games/Call_of_Duty_Warzone,Games/Call_of_Duty_Warzone_Mobile,Games/Counter_Strike_2,Games/Counter_Strike_Global_Offensive,Games/Crab_Game,Games/Crossout,Games/CRSED_F_O_A_D,Games/Dark_and_Darker,Games/DC_Universe_Online,Games/Deep_Rock_Galactic,Games/Delta_Force_2024,Games/Destiny_2,Games/Destiny_2014,Games/Diablo_IV,Games/Dont_Starve_Together,Games/Dota_2,Games/Eternal_Return_2020,Games/EVE_Online,Games/Fall_Guys,Games/Fallout_Shelter,Games/Farlight_84,Games/Final_Fantasy_XIV_Online_A_Realm_Reborn,Games/For_Honor,Games/Fortnite,Games/FragPunk,Games/Gems_of_War,Games/Genshin_Impact,Games/Goose_Goose_Duck,Games/Grand_Theft_Auto_V,Games/Halo_Infinite,Games/Helldivers_II,Games/Infinity_Nikki,Games/iRacing,Games/League_of_Legends,Games/Lost_Ark,Games/Magic_The_Gathering_Arena,Games/MapleStory,Games/Marvel_Heroes_Omega,Games/Marvel_Rivals,Games/Marvel_Snap,Games/Marvels_Avengers,Games/MicroVolts_Surge,Games/Mini_Royale,Games/My_Hero_Academia_Ultra_Rumble,Games/Once_Human,Games/One_Piece_Bounty_Rush,Games/Orcs_Must_Die_Unchained,Games/Overwatch,Games/Overwatch_2,Games/Paladins,Games/Palia,Games/Path_of_Exile_2,Games/Phantasy_Star_Online_2,Games/Phantasy_Star_Online_2_New_Genesis,Games/Phasmophobia,Games/Pixel_Gun_3D,Games/PlanetSide_2,Games/PUBG_Battlegrounds,Games/PUBG_Mobile,Games/Ragnarok_Online,Games/Realm_Royale,Games/Rec_Room,Games/Risk_Global_Domination,Games/Roblox,Games/Rocket_League,Games/RuneScape,Games/Sea_of_Thieves,Games/Smite,Games/Smite_2,Games/Star_Trek_Online,Games/Star_Wars_The_Old_Republic,Games/Stumble_Guys_Multiplayer_Royale,Games/Suicide_Squad_Kill_the_Justice_League,Games/Super_Animal_Royale,Games/Team_Fortress_2,Games/The_Elder_Scrolls_Online,Games/The_Elder_Scrolls_Online_Elsweyr,Games/The_Elder_Scrolls_Online_Greymoor,Games/The_Elder_Scrolls_Online_High_Isle,Games/The_Finals,Games/The_First_Descendant,Games/Throne_and_Liberty,Games/Tom_Clancys_Rainbow_Six_Siege,Games/Tom_Clancys_The_Division,Games/Tom_Clancys_The_Division_2,Games/Tower_Unite,Games/VRChat,Games/War_Thunder,Games/Warframe,Games/World_of_Tanks,Games/World_of_Warcraft,Games/World_of_Warships,Games/World_of_Warships_Legends,Games/Wuthering_Waves,Games/Yu_Gi_Oh_Duel_Links,Games/Yu_Gi_Oh_Master_Duel
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+
+==Overview==
+Live service games (sometimes referred to as games as a service) are games that use a continuous update/revenue model. Often times these games are initially free-to-play and use this method to continue making money and keeping players engaged.
+</text>
+      <sha1>nupsyzzni41mjrpmm1pxcswzl5mzipi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Living Snowman</title>
+    <ns>0</ns>
+    <id>95875</id>
+    <revision>
+      <id>797097</id>
+      <parentid>738324</parentid>
+      <timestamp>2026-03-17T06:42:15Z</timestamp>
+      <contributor>
+        <username>Solidejake</username>
+        <id>338</id>
+      </contributor>
+      <origin>797097</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2536" sha1="a1ms66veh0j1m0hi6dmv7os6e4empxg" xml:space="preserve">{{Concept
+|Guid=3015-13427
+|Name=Living Snowman
+|Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3710327-borderlands2-add-onhowmarcussavedmercenaryday.jpg
+|Deck=Usually the kind of enemies in winter levels, but sometimes NPCs giving quests
+|Characters=Characters/Bad_Mr_Frosty, Characters/Jack_Frost, Characters/Nick, Characters/Olaf_31514, Characters/Tom
+|Concepts=Concepts/Christmas, Concepts/Frigimon, Concepts/Frosty_the_Hit_Man, Concepts/Ice, Concepts/Ice_Stage, Concepts/Segmented_Creature, Concepts/Snow
+|Locations=Locations/Tundra
+|Games=Games/Angry_Video_Game_Nerd_1_And_2_Deluxe, Games/Angry_Video_Game_Nerd_Adventures, Games/Ape_Escape, Games/Arabian_Nights, Games/Banjo_Kazooie, Games/Battletoads, Games/Borderlands_2, Games/ClayFighter, Games/ClayFighter_2_Judgment_Clay, Games/ClayFighter_63_1_3, Games/ClayFighter_Sculptors_Cut, Games/ClayFighter_Tournament_Edition, Games/Crusader_of_Centy, Games/Dance_Dance_Revolution_Mario_Mix, Games/Daze_Before_Christmas, Games/Digital_Devil_Monogatari_Megami_Tensei_II, Games/Disney_Frozen_Adventures, Games/Disney_Two_Pack, Games/Donkey_Kong_Country_3_Dixie_Kongs_Double_Trouble, Games/Donkey_Kong_Jungle_Beat, Games/Donkey_Kong_Land_III, Games/Earthworm_Jim, Games/Earthworm_Jim_1_And_2, Games/Frozen, Games/Frozen_Olafs_Quest, Games/Guild_Wars_2, Games/Mario_Golf_Super_Rush, Games/Mario_Kart_World, Games/Mario_Party_3, Games/Mario_Party_4, Games/Mario_Party_5, Games/Mario_Party_6, Games/Mario_Party_7, Games/Mario_Party_8, Games/Mario_Party_9, Games/Mario_Party_Advance, Games/Mario_Party_Island_Tour, Games/Mario_Party_The_Top_100, Games/Mario_Pinball_Land, Games/Paper_Mario_Sticker_Star, Games/Snow_Bros_2_With_New_Elves, Games/Snow_Bros_Classic_Collection, Games/Snow_Bros_Nick_And_Tom, Games/Spyro_Reignited_Trilogy, Games/Spyro_Year_of_the_Dragon, Games/Super_Mario_64, Games/Super_Mario_64_DS, Games/Terraria, Games/Yooka_Laylee, Games/Digimon World, Games/Kingdom Hearts III
+|Objects=Objects/Carrot, Objects/Hat, Objects/Snowball, Objects/Snowman
+}}
+&lt;div id='imageData' data-json='{"infobox":{"file":"3710327-borderlands2-add-onhowmarcussavedmercenaryday.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_super,square_avatar,scale_small,scale_medium,square_tiny,scale_large,square_mini,screen_medium,scale_avatar,scale_tiny,screen_kubrick","caption":"Borderlands 2 - add-on How Marcus Saved Mercenary Day"},"background":[]}' /&gt;
+Usually the kind of enemies in winter levels, but sometimes NPCs giving quests.</text>
+      <sha1>a1ms66veh0j1m0hi6dmv7os6e4empxg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Loader Droid</title>
+    <ns>0</ns>
+    <id>96080</id>
+    <revision>
+      <id>588645</id>
+      <parentid>487998</parentid>
+      <timestamp>2026-02-08T07:20:19Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588645</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="945" sha1="893t3eijsg782ooqlpzi7s4c2awqx8r" xml:space="preserve">{{Concept
+| Name=Loader Droid
+| Guid=3015-13641
+| Deck=Loader droids, loadlifters, or hauler droids were a type of industrial droids that were used to lift and unload heavy cargo.
+| Characters=
+| Concepts=Concepts/Boss_Fight,Concepts/Droids,Concepts/Trade_Federation
+| Franchises=
+| Games=Games/Star_Wars_Episode_I_Jedi_Power_Battles
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3819144-7090774855-Star-.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3819144-7090774855-Star-.png","path":"151\/1511438\/","mime":"image\/png","sizes":"scale_super,square_medium,square_small,scale_medium,scale_small,square_avatar,screen_medium,screen_kubrick,scale_large,square_mini,scale_avatar,square_tiny","caption":null},"background":[]}' /&gt;
+A Loader Droid appears in the 2000 video game ''Star Wars: Episode I Jedi Power Battles''. It serves as a mid-level boss in the game's first mission.</text>
+      <sha1>893t3eijsg782ooqlpzi7s4c2awqx8r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Loan Sharking</title>
+    <ns>0</ns>
+    <id>95801</id>
+    <revision>
+      <id>588110</id>
+      <parentid>487786</parentid>
+      <timestamp>2026-02-08T07:16:02Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588110</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1588" sha1="b93c5m5sw7s4a4eac8bcrs34pkeqcgc" xml:space="preserve">{{Concept
+| Name=Loan Sharking
+| Guid=3015-13352
+| Deck=The illegal act of lending people money, usually at high interest rates. Loan sharks often target vulnerable people.
+| Characters=Characters/Arthur_Morgan,Characters/Don_Salieri,Characters/Leopold_Strauss,Characters/Rocco_Pelosi,Characters/Vlad_Glebov
+| Concepts=Concepts/Gangs,Concepts/Lawbreaking,Concepts/Organized_Crime,Concepts/The_Mafia,Concepts/The_Mob
+| Franchises=
+| Games=Games/Empire_of_Sin,Games/Gangland,Games/Grand_Theft_Auto_IV,Games/Grand_Theft_Auto_San_Andreas,Games/Grand_Theft_Auto_Vice_City_Stories,Games/Mafia_II,Games/Patrician_III,Games/Red_Dead_Redemption_II,Games/Saints_Row,Games/The_Elder_Scrolls_II_Daggerfall
+| Locations=
+| Objects=Objects/Coin,Objects/Paper_Money
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/105/1056167/3655915-arthur-attacks-thomas-downes_jpg.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3655915-arthur-attacks-thomas-downes_jpg.jpg","path":"105\/1056167\/","mime":"image\/jpeg","sizes":"scale_small,scale_super,scale_medium,square_small,square_medium,square_avatar,scale_avatar,square_mini,square_tiny,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The definition of a loan is something that is borrowed, especially a sum of money that is expected to be paid back with interest. 
+Loan sharking is often associated with organized crime, especially the Mafia.
+Those who are unable to pay back the loan are generally threatened into paying up, robbed to make up for the debt, attacked or even killed for refusal to pay.</text>
+      <sha1>b93c5m5sw7s4a4eac8bcrs34pkeqcgc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/LocoRoco</title>
+    <ns>0</ns>
+    <id>95722</id>
+    <revision>
+      <id>587948</id>
+      <parentid>487729</parentid>
+      <timestamp>2026-02-08T07:14:42Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587948</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="657" sha1="rt8qqpu183dhujbp71dgjn714d8aaqx" xml:space="preserve">{{Concept
+| Name=LocoRoco
+| Guid=3015-13271
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Astro_Bot,Games/LocoRoco,Games/LocoRoco_2,Games/LocoRoco_Cocoreccho,Games/LocoRoco_Midnight_Carnival
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3623398-2741080375-250.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3623398-2741080375-250.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_super,scale_medium,square_avatar,square_tiny,square_medium,square_small,scale_small,scale_avatar,square_mini,scale_tiny,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;</text>
+      <sha1>rt8qqpu183dhujbp71dgjn714d8aaqx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Locusts</title>
+    <ns>0</ns>
+    <id>95748</id>
+    <revision>
+      <id>588020</id>
+      <parentid>487752</parentid>
+      <timestamp>2026-02-08T07:15:16Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588020</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="738" sha1="safyacoxpqxb57zq0si1gnyn1b3zc2x" xml:space="preserve">{{Concept
+| Name=Locusts
+| Guid=3015-13299
+| Deck=Destructive swarming insects.
+| Characters=Characters/Ermac
+| Concepts=Concepts/Animality,Concepts/Giant_Insects
+| Franchises=
+| Games=Games/Momotaro_Dentetsu_World,Games/Mortal_Kombat_1
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3632167-8345333804-images.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3632167-8345333804-images.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,square_tiny,square_small,scale_medium,scale_tiny,square_medium,scale_avatar,square_mini,square_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Destructive swarming insects.</text>
+      <sha1>safyacoxpqxb57zq0si1gnyn1b3zc2x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Looking through the Door Peephole</title>
+    <ns>0</ns>
+    <id>95763</id>
+    <revision>
+      <id>999693</id>
+      <parentid>588064</parentid>
+      <timestamp>2026-07-19T07:57:46Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>999693</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1403" sha1="r88gg69ip8oybb766xqrom521fhzhrp" xml:space="preserve">{{Concept
+| Name=Looking through the Door Peephole
+| Guid=3015-13314
+| Deck=Gameplay or story ability to look through a specially embedded glazed hole in a door to safely find out what's going on on the other side without opening the door
+| Characters=Characters/Eileen_Galvin,Characters/Henry_Townshend
+| Concepts=Concepts/Eavesdropping,Concepts/Peeking_Through_the_Cracks,Concepts/Spies,Concepts/Stealth
+| Franchises=
+| Games=Games/Condemned_2_Bloodshot,Games/Hitman_2_Silent_Assassin,Games/Hitman_Blood_Money,Games/Silent_Hill_4_The_Room,Games/The_Moment_of_Silence
+| Locations=Locations/Home,Locations/Hotels,Locations/Motel
+| Objects=Objects/Door
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3642620-%D0%91%D1%83%D1%84%D0%B5%D1%80%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B0_10-26-2024_03.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3642620-\u0411\u0443\u0444\u0435\u0440\u043e\u0431\u043c\u0435\u043d\u0430_10-26-2024_03.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"scale_small,scale_super,square_mini,square_medium,square_avatar,square_small,scale_medium,square_tiny,scale_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":"Silent Hill 4"},"background":[]}' /&gt;
+Gameplay or story ability to look through a specially embedded glazed hole in a door to safely find out what's going on on the other side without opening the door</text>
+      <sha1>r88gg69ip8oybb766xqrom521fhzhrp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Lost Games</title>
+    <ns>0</ns>
+    <id>95743</id>
+    <revision>
+      <id>95877</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>95877</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="725" sha1="m69wkkb4vfa8zb77fbnl04ugxbyywta" xml:space="preserve">{{Concept
+| Name=Lost Games
+| Guid=3015-13294
+| Deck=As opposed to games that were canceled/unreleased, these are games that were confirmed to be released at some point in time, but have not yet been recovered or re-released.
+| Characters=
+| Concepts=Concepts/Lost_Media
+| Franchises=
+| Games=Games/737_Cockpit,Games/Battle_High_Team_Up,Games/BattleSword,Games/Dracula_Hunter,Games/Paccie,Games/RunJumpDat
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+For purposes of this category, if any publicly available version of the game, even unofficially (such as a ROM) exists, it does not count as "lost". Fanmade recreations do not count toward a game being "available".
+</text>
+      <sha1>m69wkkb4vfa8zb77fbnl04ugxbyywta</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Louisiana Monroe Warhawks</title>
+    <ns>0</ns>
+    <id>95611</id>
+    <revision>
+      <id>587669</id>
+      <parentid>487620</parentid>
+      <timestamp>2026-02-08T07:12:27Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587669</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="916" sha1="q902av73u0v0ovol3ietfh16m9y5yym" xml:space="preserve">{{Concept
+| Name=Louisiana-Monroe Warhawks
+| Guid=3015-13158
+| Deck=The Warhawks are the University of Louisiana-Monroe's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/NCAA_Football_2002
+| Locations=Locations/Louisiana,Locations/Monroe,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601257-6814363783-images.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601257-6814363783-images.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_small,scale_small,scale_super,square_medium,square_tiny,square_avatar,scale_medium,square_mini,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+The Warhawks are the University of Louisiana-Monroe's athletics teams.</text>
+      <sha1>q902av73u0v0ovol3ietfh16m9y5yym</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Louisiana State Tigers</title>
+    <ns>0</ns>
+    <id>95614</id>
+    <revision>
+      <id>587675</id>
+      <parentid>487623</parentid>
+      <timestamp>2026-02-08T07:12:31Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587675</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1031" sha1="6y4fyv71s57bcannj1kpa7dhw0jca83" xml:space="preserve">{{Concept
+| Name=Louisiana State Tigers
+| Guid=3015-13161
+| Aliases=LSU Tigers,Bayou Bengals
+| Deck=The Tigers are Louisiana State University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/MVP_06_NCAA_Baseball,Games/MVP_07_NCAA_Baseball,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Baton_Rouge,Locations/Louisiana,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601253-9345355074-lsu_t.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601253-9345355074-lsu_t.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_small,scale_medium,square_small,square_avatar,square_medium,scale_super,square_tiny,square_mini,screen_medium,scale_avatar,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+The Tigers are Louisiana State University's athletics teams.</text>
+      <sha1>6y4fyv71s57bcannj1kpa7dhw0jca83</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Louisiana Tech Bulldogs</title>
+    <ns>0</ns>
+    <id>95612</id>
+    <revision>
+      <id>587672</id>
+      <parentid>487621</parentid>
+      <timestamp>2026-02-08T07:12:30Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587672</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="917" sha1="svqlaeqw20wu8ncvhd29aqrwx4g2el5" xml:space="preserve">{{Concept
+| Name=Louisiana Tech Bulldogs
+| Guid=3015-13159
+| Deck=The Bulldogs are Louisiana Tech University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Louisiana,Locations/Ruston,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601256-8337442816-louis.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601256-8337442816-louis.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,square_avatar,scale_medium,square_tiny,scale_small,scale_avatar,square_mini,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+The Bulldogs are Louisiana Tech University's athletics teams.</text>
+      <sha1>svqlaeqw20wu8ncvhd29aqrwx4g2el5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Louisville Cardinals</title>
+    <ns>0</ns>
+    <id>95613</id>
+    <revision>
+      <id>587674</id>
+      <parentid>487622</parentid>
+      <timestamp>2026-02-08T07:12:30Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587674</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="975" sha1="7foyo2q3kv65w1tf1xqch1cqy23hs1y" xml:space="preserve">{{Concept
+| Name=Louisville Cardinals
+| Guid=3015-13160
+| Deck=The Cardinals are the University of Louisville's athetlics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Basketball_10,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Kentucky,Locations/Louisville,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601708-8374839382-images.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601708-8374839382-images.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_tiny,square_avatar,square_medium,square_small,scale_super,scale_small,scale_medium,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Cardinals are the University of Louisville's athetlics teams.</text>
+      <sha1>7foyo2q3kv65w1tf1xqch1cqy23hs1y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Mabosstiff</title>
+    <ns>0</ns>
+    <id>95965</id>
+    <revision>
+      <id>588401</id>
+      <parentid>487896</parentid>
+      <timestamp>2026-02-08T07:18:24Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588401</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="576" sha1="pjagd720np9ks6xk14xqn0kdv0h5ghr" xml:space="preserve">{{Concept
+| Name=Mabosstiff
+| Guid=3015-13522
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777830-0943mabosstiff.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777830-0943mabosstiff.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,scale_super,scale_small,square_tiny,square_medium,scale_medium,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>pjagd720np9ks6xk14xqn0kdv0h5ghr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Maggot</title>
+    <ns>0</ns>
+    <id>96067</id>
+    <revision>
+      <id>96202</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96202</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="216" sha1="eudrhagcr4dx5ry8ohvqxamc7eja0pa" xml:space="preserve">{{Concept
+| Name=Maggot
+| Guid=3015-13628
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Project_Zomboid
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>eudrhagcr4dx5ry8ohvqxamc7eja0pa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Magically Sealed Chest</title>
+    <ns>0</ns>
+    <id>96043</id>
+    <revision>
+      <id>588581</id>
+      <parentid>487972</parentid>
+      <timestamp>2026-02-08T07:19:47Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588581</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1311" sha1="evsql45mhf094tpadlzvd3cskzdw079" xml:space="preserve">{{Concept
+| Name=Magically Sealed Chest
+| Guid=3015-13602
+| Deck=The presence of chests in the game, closed not by a lock that requires a key/lockpick/solving a technical puzzle, but enchanted by magic or a curse, which must be dispelled by a spell, or by defeating all enemies in the location
+| Characters=
+| Concepts=Concepts/Ancient_Curse,Concepts/Handsfree_Chest_Opening,Concepts/Item_Container,Concepts/Lock_Picking,Concepts/Magic
+| Franchises=
+| Games=Games/Vagrant_Story
+| Locations=Locations/Dungeon
+| Objects=Objects/Hidden_Treasure_Chest,Objects/Key,Objects/Lock_Picks,Objects/Treasure_Chest
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3786190-vagrantstory.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3786190-vagrantstory.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,square_medium,scale_super,scale_small,square_tiny,square_avatar,scale_tiny,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":"Vagrant Story - A Chest Sealed with Magic"},"background":[]}' /&gt;
+The presence of chests in the game, closed not by a lock that requires a key/lockpick/solving a technical puzzle, but enchanted by magic or a curse, which must be dispelled by a spell, or by defeating all enemies in the location</text>
+      <sha1>evsql45mhf094tpadlzvd3cskzdw079</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Magmaargh</title>
+    <ns>0</ns>
+    <id>96089</id>
+    <revision>
+      <id>96224</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96224</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="225" sha1="q0n30s0vqd1lvkf6ht038rp0nkxkm03" xml:space="preserve">{{Concept
+| Name=Magmaargh
+| Guid=3015-13651
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Mario_Golf_Super_Rush
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>q0n30s0vqd1lvkf6ht038rp0nkxkm03</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Maita</title>
+    <ns>0</ns>
+    <id>95705</id>
+    <revision>
+      <id>587903</id>
+      <parentid>487714</parentid>
+      <timestamp>2026-02-08T07:14:20Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587903</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1926" sha1="a0uvmbeo57e0dadt1awvqdmcy7fio06" xml:space="preserve">{{Concept
+| Name=Maita
+| Guid=3015-13252
+| Aliases=Boris,Stoner
+| Deck=A recurring enemy in the Bubble Bobble series. They actually debuted in Chack'n Pop.
+| Characters=Characters/Jam_55260,Characters/Maita_P,Characters/Super_Maita
+| Concepts=Concepts/Magic,Concepts/Recurring_Minion
+| Franchises=
+| Games=Games/Bubble_Bobble,Games/Bubble_Bobble_Double_Shot,Games/Bubble_Bobble_Part_2,Games/Bubble_Bobble_Plus,Games/Bubble_Bobble_Revolution,Games/Bubble_Memories_The_Story_of_Bubble_Bobble_III,Games/Bubble_Symphony,Games/Bust_A_Move,Games/Bust_A_Move_2_Arcade_Edition,Games/Bust_A_Move_4,Games/Bust_a_Move_Deluxe,Games/Bust_A_Move_Millennium,Games/Bust_A_Move_Plus,Games/Bust_A_Move_Universe,Games/Chackn_Pop,Games/Classic_Bubble_Bobble,Games/Parasol_Stars_The_Story_of_Bubble_Bobble_III,Games/Popn_Pop,Games/Puzzle_Bobble_2X_Bust_A_Move_2_Arcade_Edition_And_Puzzle_Bobble_3_Bust_A_Move_3_S_Tribute,Games/Puzzle_Bobble_DS,Games/Puzzle_Bobble_Everybubble,Games/Puzzle_Bobble_Pocket,Games/Rainbow_Islands,Games/Rainbow_Islands_Revolution,Games/Super_Bust_A_Move,Games/Taito_Legends,Games/Taito_Legends_2,Games/Taito_Legends_Power_Up,Games/Taito_Memories,Games/Taito_Memories_Gekan,Games/Taito_Memories_II_Gekan,Games/Taito_Memories_II_Joukan,Games/Taito_Memories_Joukan,Games/Taito_Memories_Pocket,Games/Taito_Milestones,Games/Taito_Milestones_3,Games/Taito_Variety_Pack
+| Locations=
+| Objects=Objects/Cape
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3611389-8524642716-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3611389-8524642716-latest.png","path":"16\/164924\/","mime":"image\/png","sizes":"scale_super,square_medium,square_small,square_avatar,scale_small,scale_medium,square_mini,scale_avatar,scale_large,square_tiny,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A recurring enemy in the Bubble Bobble series. They actually debuted in Chack'n Pop.</text>
+      <sha1>a0uvmbeo57e0dadt1awvqdmcy7fio06</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Mantellian Savrip</title>
+    <ns>0</ns>
+    <id>95692</id>
+    <revision>
+      <id>587853</id>
+      <parentid>487701</parentid>
+      <timestamp>2026-02-08T07:13:59Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587853</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1083" sha1="jskrx54rftlyl611v6cypqril5qs66k" xml:space="preserve">{{Concept
+| Name=Mantellian Savrip
+| Guid=3015-13239
+| Deck=A species of large, sentient reptiles from the Star Wars Universe. Most famously known for being a piece in the fictional board game "Dejarik"
+| Characters=
+| Concepts=Concepts/Boss,Concepts/Boss_Fight,Concepts/Lego_Bigfigure,Concepts/Reptilian_Humanoid
+| Franchises=
+| Games=Games/LEGO_Star_Wars_The_Force_Awakens,Games/Star_Wars_Galaxies_An_Empire_Divided,Games/Star_Wars_Squadrons,Games/Star_Wars_The_Old_Republic,Games/Super_Star_Wars
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3602170-untitled.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3602170-untitled.png","path":"52\/520822\/","mime":"image\/png","sizes":"square_small,scale_medium,square_tiny,square_medium,scale_super,scale_small,square_avatar,screen_medium,scale_large,scale_avatar,screen_kubrick,square_mini","caption":null},"background":[]}' /&gt;
+A species of large, sentient reptiles from the Star Wars Universe. Most famously known for being a piece in the fictional board game "Dejarik"</text>
+      <sha1>jskrx54rftlyl611v6cypqril5qs66k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Manually Opening Sliding Doors</title>
+    <ns>0</ns>
+    <id>96048</id>
+    <revision>
+      <id>588592</id>
+      <parentid>487977</parentid>
+      <timestamp>2026-02-08T07:19:52Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588592</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1193" sha1="hizf4zdb7ae79p59rgmtth50gsoqf40" xml:space="preserve">{{Concept
+| Name=Manually Opening Sliding Doors
+| Guid=3015-13607
+| Deck=When an interior door or elevator door is jammed due to a breakdown or lack of electricity and the hero needs to slowly push it open or lift it with his hands, usually with a QTE or Button Mashing
+| Characters=
+| Concepts=Concepts/Button_Mashing,Concepts/Jump_Scare_Moment,Concepts/Quick_Time_Event
+| Franchises=
+| Games=Games/Ninja_Gaiden_3_Razors_Edge,Games/The_Callisto_Protocol,Games/Turok,Games/X_Men_Origins_Wolverine
+| Locations=
+| Objects=Objects/Door
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3790740-thecallistoprotocol.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3790740-thecallistoprotocol.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,square_medium,scale_super,scale_small,square_tiny,square_avatar,square_mini,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":"The Callisto Protocol"},"background":[]}' /&gt;
+When an interior door or elevator door is jammed due to a breakdown or lack of electricity and the hero needs to slowly push it open or lift it with his hands, usually with a QTE or Button Mashing</text>
+      <sha1>hizf4zdb7ae79p59rgmtth50gsoqf40</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Marshall Thundering Herd</title>
+    <ns>0</ns>
+    <id>95615</id>
+    <revision>
+      <id>587676</id>
+      <parentid>487624</parentid>
+      <timestamp>2026-02-08T07:12:32Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587676</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="916" sha1="09jj2c9kkop8s6l00gsjcrw9quash17" xml:space="preserve">{{Concept
+| Name=Marshall Thundering Herd
+| Guid=3015-13162
+| Deck=The Thundering Herd are Marshall University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Appalachia,Locations/Huntington,Locations/The_United_States_of_America,Locations/West_Virginia
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601709-1248396385-800px.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601709-1248396385-800px.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_tiny,square_avatar,scale_medium,scale_super,scale_small,square_medium,square_small,square_mini,screen_kubrick,scale_avatar,screen_medium,scale_large","caption":null},"background":[]}' /&gt;
+The Thundering Herd are Marshall University's athletics teams.</text>
+      <sha1>09jj2c9kkop8s6l00gsjcrw9quash17</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Marsmon</title>
+    <ns>0</ns>
+    <id>95882</id>
+    <revision>
+      <id>588259</id>
+      <parentid>487840</parentid>
+      <timestamp>2026-02-08T07:17:13Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588259</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="920" sha1="ifd5cfruzt574vlp8i5t6opy33qd4sm" xml:space="preserve">{{Concept
+| Name=Marsmon
+| Guid=3015-13434
+| Deck=Marsmon is a Mega-level Shaman Digimon and a member of the Olympos XII.
+| Characters=
+| Concepts=Concepts/Bearmon,Concepts/Digimon,Concepts/Digivolution,Concepts/God
+| Franchises=
+| Games=Games/Digimon_Battle,Games/Digimon_Heroes,Games/Digimon_Masters,Games/Digimon_Story_Time_Stranger,Games/Digimon_World_3
+| Locations=Locations/Cyberspace
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3710674-5940191244-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3710674-5940191244-latest.png","path":"16\/164924\/","mime":"image\/png","sizes":"scale_medium,square_tiny,scale_super,square_medium,square_avatar,square_small,scale_small,square_mini,scale_tiny,screen_medium,scale_large,scale_avatar,screen_kubrick","caption":null},"background":[]}' /&gt;
+Marsmon is a Mega-level Shaman Digimon and a member of the Olympos XII.</text>
+      <sha1>ifd5cfruzt574vlp8i5t6opy33qd4sm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Maryland Terrapins</title>
+    <ns>0</ns>
+    <id>95616</id>
+    <revision>
+      <id>587680</id>
+      <parentid>487625</parentid>
+      <timestamp>2026-02-08T07:12:34Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587680</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="911" sha1="ea3d0uwx5zlj8ap9fgozis3rm651dmt" xml:space="preserve">{{Concept
+| Name=Maryland Terrapins
+| Guid=3015-13163
+| Deck=The Terrapins are the University of Maryland's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/College_Park,Locations/Maryland,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601713-2025100459-800px.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601713-2025100459-800px.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_medium,square_medium,scale_super,square_avatar,square_small,scale_small,square_tiny,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Terrapins are the University of Maryland's athletics teams.</text>
+      <sha1>ea3d0uwx5zlj8ap9fgozis3rm651dmt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Maschiff</title>
+    <ns>0</ns>
+    <id>95964</id>
+    <revision>
+      <id>588398</id>
+      <parentid>487895</parentid>
+      <timestamp>2026-02-08T07:18:23Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588398</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="570" sha1="apq3wiri743risy0xx2iqfazmvfqulk" xml:space="preserve">{{Concept
+| Name=Maschiff
+| Guid=3015-13521
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777829-0942maschiff.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777829-0942maschiff.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,scale_small,square_tiny,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>apq3wiri743risy0xx2iqfazmvfqulk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Maushold</title>
+    <ns>0</ns>
+    <id>95947</id>
+    <revision>
+      <id>588361</id>
+      <parentid>487878</parentid>
+      <timestamp>2026-02-08T07:18:03Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588361</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="598" sha1="ajx5cwqaqgxwn575e5160pvcd78fc41" xml:space="preserve">{{Concept
+| Name=Maushold
+| Guid=3015-13504
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Go,Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777808-0925maushold.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777808-0925maushold.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_tiny,scale_super,scale_medium,scale_small,square_tiny,square_avatar,screen_medium,screen_kubrick,scale_large,square_mini,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>ajx5cwqaqgxwn575e5160pvcd78fc41</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/McLaren</title>
+    <ns>0</ns>
+    <id>96094</id>
+    <revision>
+      <id>96229</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96229</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="241" sha1="ksixh8nyp1wvjfp3zgex271w01l9nu9" xml:space="preserve">{{Concept
+| Name=McLaren
+| Guid=3015-13656
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Formula_1_98,Games/Grand_Prix_Challenge
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ksixh8nyp1wvjfp3zgex271w01l9nu9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Mecha Pilot</title>
+    <ns>0</ns>
+    <id>95905</id>
+    <revision>
+      <id>588310</id>
+      <parentid>487860</parentid>
+      <timestamp>2026-02-08T07:17:37Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588310</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2872" sha1="a6jze2edlrqui5c3p95z1g8ey6qfisp" xml:space="preserve">{{Concept
+| Name=Mecha Pilot
+| Guid=3015-13457
+| Deck=Mecha Pilots are special people where young pilots pilot their mechs with their agility and combat.
+| Characters=Characters/Admiral_Razorbeard,Characters/Aki_Iwami,Characters/Asuka_Langley_Soryu,Characters/Catherine_Kyohbashi,Characters/Cui_Yifei,Characters/Devilot,Characters/Domon_Kasshu,Characters/Doronjo,Characters/Dr_Robotnik,Characters/Heero_Yuy,Characters/Ippatsuman,Characters/Izumi_Noto,Characters/Jin_Saotome,Characters/Kakeru_Todoroki,Characters/Kaori_Kisaragi,Characters/Kasumi_Yashiro,Characters/Kazusa_Yamashiro,Characters/Kyoko_Takatsukasa,Characters/Mai_12863,Characters/Mari_Makinami,Characters/Mariko_Amemiya,Characters/Master_Asia,Characters/Monkey_White,Characters/Pilaf,Characters/Rei_Ayanami,Characters/Rinne_Inaba,Characters/Roux_Louka,Characters/Shimako_Kai,Characters/Shinji_Ikari,Characters/Shu_29026,Characters/Tarisa_Manandal,Characters/Tron_Bonne,Characters/Yui_Takamura,Characters/Yuuhi_Koubuin,Characters/Yuuya_Bridges,Characters/Zechs_Merquise
+| Concepts=
+| Franchises=
+| Games=Games/Ape_Escape_3,Games/Arcana_Heart_2,Games/Arcana_Heart_3,Games/Arcana_Heart_3_LOVE_MAX,Games/Arcana_Heart_3_LOVE_MAX_SIX_STARS,Games/Chousoku_Henkei_Gyrozetter_Albatross_no_Tsubasa,Games/Cyberbots_Fullmetal_Madness,Games/Dynasty_Warriors_Gundam,Games/Dynasty_Warriors_Gundam_2,Games/Dynasty_Warriors_Gundam_3,Games/Dynasty_Warriors_Gundam_Reborn,Games/Fuga_Melodies_of_Steel_3,Games/Gundam_Battle_Assault,Games/Gundam_Battle_Assault_2,Games/Gundam_Breaker_4,Games/Gundam_Evolution,Games/Gundam_Versus,Games/Hardcore_Mecha,Games/Marvel_vs_Capcom_2_New_Age_of_Heroes,Games/Marvel_vs_Capcom_3_Fate_of_Two_Worlds,Games/Mecha_Break,Games/Mighty_Morphin_Power_Rangers,Games/Muv_Luv,Games/Muv_Luv_Alternative_Total_Eclipse,Games/Muv_Luv_Muv_Luv_Alternative_Remastered_Double_Pack,Games/Muv_Luv_Photonflowers,Games/Neon_Genesis_Evangelion,Games/Neon_Genesis_Evangelion_Battle_Orchestra,Games/Neon_Genesis_Evangelion_The_Iron_Maiden_2nd_Portable,Games/Power_Rangers_Battle_for_the_Grid,Games/Rayman_2_The_Great_Escape,Games/Shin_Kidou_Senki_Gundam_Wing_Endless_Duel,Games/Tatsunoko_vs_Capcom_Cross_Generation_of_Heroes,Games/Tatsunoko_vs_Capcom_Ultimate_All_Stars,Games/The_Misadventures_of_Tron_Bonne,Games/Ultimate_Marvel_vs_Capcom_3
+| Locations=
+| Objects=Objects/Flight_suit
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/238/816464-asuka_1024x768_1.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"816464-asuka_1024x768_1.jpg","path":"0\/238\/","mime":"image\/jpeg","sizes":"square_tiny,square_medium,scale_super,scale_medium,square_mini,screen_medium,scale_avatar,scale_tiny,scale_small,square_avatar,square_small,screen_kubrick,scale_large","caption":""},"background":[]}' /&gt;
+Mecha Pilots are special people where young pilots pilot their mechs with their agility and combat.</text>
+      <sha1>a6jze2edlrqui5c3p95z1g8ey6qfisp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Memphis Tigers</title>
+    <ns>0</ns>
+    <id>95617</id>
+    <revision>
+      <id>587681</id>
+      <parentid>487626</parentid>
+      <timestamp>2026-02-08T07:12:35Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587681</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1052" sha1="ew8wysk7nnveuirlxyrqt30vcowyzig" xml:space="preserve">{{Concept
+| Name=Memphis Tigers
+| Guid=3015-13164
+| Deck=The Tigers are the University of Memphis' athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Memphis,Locations/Southern_United_States,Locations/Tennessee,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601714-9223132633-0x1R0WhFVlB8O_mT7jSz1mhHnPEeWp3gk7GtCjJtdfDPhS8E5ApCVv-vCZ3MlrSn1U_M.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601714-9223132633-0x1R0WhFVlB8O_mT7jSz1mhHnPEeWp3gk7GtCjJtdfDPhS8E5ApCVv-vCZ3MlrSn1U_M.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_small,scale_super,square_medium,square_small,square_avatar,scale_medium,square_tiny,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Tigers are the University of Memphis' athletics teams.</text>
+      <sha1>ew8wysk7nnveuirlxyrqt30vcowyzig</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Merukimon</title>
+    <ns>0</ns>
+    <id>95883</id>
+    <revision>
+      <id>588261</id>
+      <parentid>487841</parentid>
+      <timestamp>2026-02-08T07:17:14Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588261</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1172" sha1="ck8y3ccfs5pe15teb7u0qn2c1f1fwdq" xml:space="preserve">{{Concept
+| Name=Merukimon
+| Guid=3015-13435
+| Deck=Merukimon is a Mega-level Shaman Digimon and a member of the Olympos XII.
+| Characters=
+| Concepts=Concepts/Digimon,Concepts/Digivolution,Concepts/Gaomon,Concepts/Ogremon,Concepts/WereGarurumon
+| Franchises=
+| Games=Games/Digimon_Heroes,Games/Digimon_Masters,Games/Digimon_ReArise,Games/Digimon_Story_Cyber_Sleuth,Games/Digimon_Story_Cyber_Sleuth_Complete_Edition,Games/Digimon_Story_Cyber_Sleuth_Hackers_Memory,Games/Digimon_Story_Lost_Evolution,Games/Digimon_Story_Super_Xros_Wars_Blue_Red,Games/Digimon_Story_Time_Stranger,Games/Digimon_World_Data_Squad,Games/Digimon_World_Dusk_Dawn
+| Locations=Locations/Cyberspace
+| Objects=Objects/Dagger,Objects/Hat,Objects/Magic_Staff
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3812542-5800823493-latest.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3812542-5800823493-latest.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_super,square_medium,square_small,scale_medium,scale_small,square_avatar,scale_tiny","caption":null},"background":[]}' /&gt;
+Merukimon is a Mega-level Shaman Digimon and a member of the Olympos XII.</text>
+      <sha1>ck8y3ccfs5pe15teb7u0qn2c1f1fwdq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Miami Hurricanes</title>
+    <ns>0</ns>
+    <id>95618</id>
+    <revision>
+      <id>587682</id>
+      <parentid>487627</parentid>
+      <timestamp>2026-02-08T07:12:35Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587682</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="965" sha1="1ydjap1qdgbdqu8fhdqduxppaihm0d6" xml:space="preserve">{{Concept
+| Name=Miami Hurricanes
+| Guid=3015-13165
+| Deck=The Hurricanes are the University of Miami's athletics teams.
+| Characters=Characters/Chipper_Jones,Characters/Ray_Lewis
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Football_09,Games/NCAA_Football_14,Games/NCAA_Football_2002
+| Locations=Locations/Florida,Locations/Miami,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601715-9173673663-1200p.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601715-9173673663-1200p.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_medium,scale_small,square_medium,square_small,square_tiny,square_avatar,scale_super,square_mini,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+The Hurricanes are the University of Miami's athletics teams.</text>
+      <sha1>1ydjap1qdgbdqu8fhdqduxppaihm0d6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Miami RedHawks</title>
+    <ns>0</ns>
+    <id>95619</id>
+    <revision>
+      <id>587684</id>
+      <parentid>487628</parentid>
+      <timestamp>2026-02-08T07:12:36Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587684</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="856" sha1="nuyxxs0vyf5ewjkmzhgu8zg3bm2z103" xml:space="preserve">{{Concept
+| Name=Miami RedHawks
+| Guid=3015-13166
+| Deck=The RedHawks are Miami University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Ohio,Locations/Oxford_8233,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601716-0578965565-1365.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601716-0578965565-1365.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_avatar,square_medium,scale_small,square_tiny,scale_medium,square_mini,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+The RedHawks are Miami University's athletics teams.</text>
+      <sha1>nuyxxs0vyf5ewjkmzhgu8zg3bm2z103</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Michigan State Spartans</title>
+    <ns>0</ns>
+    <id>95621</id>
+    <revision>
+      <id>587688</id>
+      <parentid>487630</parentid>
+      <timestamp>2026-02-08T07:12:39Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587688</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="929" sha1="nk5bqroipo4lm81f6rzt341fzbcd3ku" xml:space="preserve">{{Concept
+| Name=Michigan State Spartans
+| Guid=3015-13168
+| Deck=The Spartans are Michigan State University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Basketball_10,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/East_Lansing,Locations/Michigan,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601720-8691038045-i.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601720-8691038045-i.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_super,square_avatar,square_small,square_medium,scale_small,scale_medium,square_tiny,scale_avatar,square_mini,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Spartans are Michigan State University's athletics teams.</text>
+      <sha1>nk5bqroipo4lm81f6rzt341fzbcd3ku</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Michigan Wolverines</title>
+    <ns>0</ns>
+    <id>95620</id>
+    <revision>
+      <id>587686</id>
+      <parentid>487629</parentid>
+      <timestamp>2026-02-08T07:12:38Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587686</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="928" sha1="gpnkj52yfb7awcpzxqwkz2n1xy2qwfk" xml:space="preserve">{{Concept
+| Name=Michigan Wolverines
+| Guid=3015-13167
+| Deck=The Wolverines are the University of Michigan's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NBA_2K16,Games/NCAA_Basketball_10,Games/NCAA_Football_2002
+| Locations=Locations/Ann_Arbor,Locations/Michigan,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601721-1688986069-1200p.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601721-1688986069-1200p.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_super,scale_small,square_tiny,square_small,square_avatar,square_medium,square_mini,scale_medium,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+The Wolverines are the University of Michigan's athletics teams.</text>
+      <sha1>gpnkj52yfb7awcpzxqwkz2n1xy2qwfk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Middle Ages</title>
+    <ns>0</ns>
+    <id>95699</id>
+    <revision>
+      <id>999738</id>
+      <parentid>742170</parentid>
+      <timestamp>2026-07-19T08:05:53Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>999738</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11518" sha1="0bm7knpdao9vacbyofvygfkc5ymq78s" xml:space="preserve">{{Concept
+| Name=Middle Ages
+| Guid=3015-13246
+| Aliases=Medieval Times,Medieval,Medieval Period,Dark Ages
+| Deck=A period of European history that spans roughly 1000 years from the fall of the Roman Empire (5th Century) to the beginning of the Renaissance (14th Century).
+| Characters=Characters/Aeon_Calcos,Characters/Alear,Characters/Algol,Characters/Alm,Characters/Alucard,Characters/Amy_Sorel,Characters/Anastasia_Tremaine,Characters/Anna_9784,Characters/Arthur_Pendragon,Characters/Ashnard,Characters/Astaroth,Characters/Aurora_13422,Characters/Ax_Battler,Characters/Azura_32952,Characters/Azwel,Characters/Bashful,Characters/Beast,Characters/Belle,Characters/Black_Knight_29769,Characters/Blade_6678,Characters/Boucheron,Characters/Byleth,Characters/Caliburn,Characters/Camilla_32956,Characters/Cassandra_Alexandra,Characters/Celica_22485,Characters/Cervantes_de_Leon,Characters/Chai_Xianghua,Characters/Charade,Characters/Charlemagne_11717,Characters/Charlotte_52516,Characters/Chrom,Characters/Cinderella,Characters/Claude_Frollo,Characters/Claude_von_Riegan,Characters/Cordelia,Characters/Corrin_32577,Characters/Death_55898,Characters/Death_Adder,Characters/Dimitri_Alexandre_Blaiddyd,Characters/Doc_21336,Characters/Donkey,Characters/Dopey,Characters/Drizella_Tremaine,Characters/Edelgard_Hresvelg,Characters/Edge_Master,Characters/Eirika,Characters/Elincia,Characters/Elise_34505,Characters/Eliwood,Characters/Elysium,Characters/Esmeralda_44443,Characters/Evil_Queen,Characters/Fairy_Godmother,Characters/Fairy_Godmother_37068,Characters/Fauna,Characters/Felicia_32951,Characters/Flora_21382,Characters/Flynn_Rider,Characters/Fogado,Characters/Forrest,Characters/Frederick,Characters/Gangrel_25651,Characters/Ganon,Characters/Garon,Characters/Gaston_15532,Characters/Geoffrey_Longsword,Characters/Gi_Gi,Characters/Gilius_Thunderhead,Characters/Goldmary,Characters/Groh,Characters/Grumpy,Characters/Happy,Characters/Hauzer,Characters/Hector_Fire_Emblem,Characters/Heishiro_Mitsurugi,Characters/Henry_VI,Characters/Hilda_52509,Characters/Hilde,Characters/Hinoka,Characters/Hong_Yun_seong,Characters/Hortensia,Characters/Hubert_49939,Characters/Hwang,Characters/Hydron,Characters/Ike,Characters/Inferno,Characters/Inigo,Characters/Ivy_50395,Characters/Ivy_Valentine,Characters/Joan_of_Arc,Characters/Kagero,Characters/Kagetsu,Characters/Kenji,Characters/Kilik,Characters/King_Knight,Characters/Kongou,Characters/Lady_Tremaine,Characters/Lapis_52870,Characters/Lavia,Characters/Leif,Characters/Leo_33831,Characters/Leo_5339,Characters/Li_Long,Characters/Link,Characters/Lissa,Characters/Lucina,Characters/Lyn,Characters/Magic_Mirror,Characters/Magic_Mirror_37065,Characters/Mai_Ling_6679,Characters/Maid_Marian,Characters/Maleficent,Characters/Manuela_Casagranda,Characters/Marth,Characters/Maxi,Characters/Mercedes_Von_Martritz,Characters/Merlin,Characters/Merlina_the_Wizard,Characters/Merryweather,Characters/Mia,Characters/Micaiah,Characters/Midna,Characters/Mole_Knight,Characters/Mona_40304,Characters/Mr_Hat_55730,Characters/Mycale,Characters/Necrid,Characters/Niles,Characters/Nina_52512,Characters/Olivia_25948,Characters/Ophelia_52306,Characters/Owain,Characters/Patroklos_Alexandra,Characters/Phantom_Striker,Characters/Phoebus,Characters/Pinocchio_37113,Characters/Plague_Knight,Characters/Polar_Knight,Characters/Prince_Charming,Characters/Princess_Fiona,Characters/Propeller_Knight,Characters/Pyrrha_Alexandra,Characters/Quasimodo,Characters/Raphael_Sorel,Characters/Rapunzel,Characters/Ravange,Characters/Reize_Seatlan,Characters/Richter_Belmont,Characters/Robert_the_Bruce,Characters/Robin_25142,Characters/Robin_Hood,Characters/Rock,Characters/Rosado,Characters/Roy,Characters/Ryoma_32954,Characters/Scion,Characters/Seong_Han_myeong,Characters/Setsuka,Characters/Seung_Mina,Characters/Severa,Characters/Shez,Characters/Shield_Knight,Characters/Shovel_Knight,Characters/Shrek,Characters/Siegfried_Schtauffen,Characters/Sigurd,Characters/Simon_Belmont,Characters/Sir_Arthur,Characters/Sir_Daniel_Fortesque,Characters/Sir_Galleth_Cooper,Characters/Sleepy,Characters/Sneezy,Characters/Snow_White_12407,Characters/Soleil,Characters/Sophitia_Alexandra,Characters/Soren,Characters/Soul_Edge,Characters/Specter_Knight,Characters/Taki,Characters/Takumi,Characters/Talim,Characters/Tessa,Characters/Tharja,Characters/The_Black_Knight,Characters/The_Enchantress,Characters/Timerra,Characters/Tinker_Knight,Characters/Tira,Characters/Treasure_Knight,Characters/Troupple_King,Characters/Tyris_Flare,Characters/Valkyria,Characters/Viola_21138,Characters/Voldo,Characters/Wilfred_of_Ivanhoe,Characters/Xander,Characters/Yoshimitsu,Characters/Yoshimitsu_49262,Characters/Yoshimitsu_49263,Characters/Yunaka,Characters/Zasalamel,Characters/Zelda
+| Concepts=Concepts/Alternate_Reality,Concepts/Arabian_Mythology,Concepts/Archer,Concepts/Arthurian_Legend,Concepts/Bears,Concepts/Black_Knight,Concepts/Black_Magic,Concepts/Boar,Concepts/Cavalry,Concepts/Christianity,Concepts/Decapitation,Concepts/Dragon,Concepts/Dwarf,Concepts/Elf,Concepts/Execution,Concepts/Farming,Concepts/Horse_Riding,Concepts/Horses,Concepts/Knight,Concepts/Knights_Templar,Concepts/Magic,Concepts/Medieval_Mode,Concepts/Monarchy,Concepts/Mounted_Combat,Concepts/Mythology,Concepts/Peasants,Concepts/Priest,Concepts/Prince,Concepts/Princess,Concepts/Religion,Concepts/Wearing_Animal_Skins,Concepts/Wizards,Concepts/Wolpertinger
+| Franchises=
+| Games=Games/Age_of_Empires_II_Definitive_Edition,Games/Age_of_Empires_II_Rise_of_the_Rajas,Games/Age_of_Empires_IV,Games/Anno_1404_History_Edition,Games/Blade_of_Darkness,Games/Blood_Omen_Legacy_of_Kain,Games/BS_Fire_Emblem_Akaneia_Senki,Games/Carmen_Sandiegos_Great_Chase_Through_Time,Games/Castle_Crashers,Games/Castlevania,Games/Castlevania_Aria_of_Sorrow,Games/Castlevania_Circle_of_the_Moon,Games/Castlevania_Harmony_of_Dissonance,Games/Castlevania_II_Belmonts_Revenge,Games/Castlevania_II_Simons_Quest,Games/Castlevania_III_Draculas_Curse,Games/Castlevania_Judgment,Games/Castlevania_Lament_of_Innocence,Games/Castlevania_Lords_of_Shadow,Games/Castlevania_Lords_of_Shadow_2,Games/Castlevania_Lords_of_Shadow_Mirror_of_Fate,Games/Castlevania_Rondo_of_Blood,Games/Castlevania_Symphony_of_the_Night,Games/Clive_Barkers_Jericho,Games/Crash_Bandicoot_N_Sane_Trilogy,Games/Crash_Bandicoot_Warped,Games/Crusader_Kings,Games/Crusader_Kings_II,Games/Crusader_Kings_III,Games/Defender_of_the_Crown,Games/Defender_of_the_Crown_Heroes_Live_Forever,Games/Defender_of_the_Crown_II,Games/Die_by_the_Sword,Games/Disney_Tangled_The_Video_Game,Games/Drakan_Order_of_the_Flame,Games/Drakan_The_Ancients_Gates,Games/Dungeons_And_Dragons_Shadow_Over_Mystara,Games/Empire_Earth,Games/Empire_Earth_III,Games/Fire_Emblem,Games/Fire_Emblem_Awakening,Games/Fire_Emblem_Echoes_Shadows_of_Valentia,Games/Fire_Emblem_Engage,Games/Fire_Emblem_Fates,Games/Fire_Emblem_Fuuin_no_Tsurugi,Games/Fire_Emblem_Gaiden,Games/Fire_Emblem_Heroes,Games/Fire_Emblem_Monshou_no_Nazo,Games/Fire_Emblem_Path_of_Radiance,Games/Fire_Emblem_Radiant_Dawn,Games/Fire_Emblem_Seisen_no_Keifu,Games/Fire_Emblem_Shadow_Dragon,Games/Fire_Emblem_Shadow_Dragon_and_the_Blade_of_Light,Games/Fire_Emblem_Shin_Monshou_no_Nazo_Hikari_to_Kage_no_Eiyuu,Games/Fire_Emblem_The_Sacred_Stones,Games/Fire_Emblem_Thracia_776,Games/Fire_Emblem_Three_Houses,Games/Fire_Emblem_Warriors,Games/Fire_Emblem_Warriors_Three_Hopes,Games/Genghis_Khan_Aoki_Okami_to_Shiroki_Mejika_IV,Games/Ghosts_N_Goblins,Games/Ghosts_n_Goblins_Resurrection,Games/Ghouls_N_Ghosts,Games/Going_Medieval,Games/Golden_Axe,Games/Golden_Axe_Beast_Rider,Games/Golden_Axe_II,Games/Golden_Axe_III,Games/Golden_Axe_The_Duel,Games/Golden_Axe_The_Revenge_of_Death_Adder,Games/Golden_Axe_Warrior,Games/Hyrule_Warriors,Games/Hyrule_Warriors_Age_of_Calamity,Games/Joan_of_Arc_Siege_and_the_Sword,Games/Kingdom_Hearts,Games/Kingdom_Hearts_3D_Dream_Drop_Distance,Games/Kingdom_Hearts_II,Games/Kingdom_Hearts_III,Games/Legion_The_Legend_of_Excalibur,Games/LEGO_The_Lord_of_the_Rings,Games/Link_The_Faces_of_Evil,Games/Medieval_Total_War,Games/MediEvil,Games/MediEvil_2019,Games/MediEvil_II,Games/MediEvil_Resurrection,Games/Mount_And_Blade_Warband_Viking_Conquest,Games/Nightshade_1985,Games/Patrician_III,Games/Puss_in_Boots,Games/Puzzle_And_Action_Ichidant_R,Games/Red_Earth,Games/Rune,Games/Rune_II_Decapitation_Edition,Games/Shogun_Total_War,Games/Shovel_Knight,Games/Shovel_Knight_Dig,Games/Shovel_Knight_King_of_Cards,Games/Shovel_Knight_Pocket_Dungeon,Games/Shovel_Knight_Shovel_of_Hope,Games/Shovel_Knight_Shovel_of_Hope_DX,Games/Shovel_Knight_Showdown,Games/Shovel_Knight_Specter_of_Torment,Games/Shrek,Games/Shrek_2,Games/Shrek_Fairy_Tale_Freakdown,Games/Shrek_Forever_After,Games/Shrek_Smash_N_Crash_Racing,Games/Shrek_Super_Party,Games/Shrek_SuperSlam,Games/Shrek_the_Third,Games/Sid_Meiers_Civilization_II,Games/Sid_Meiers_Civilization_III,Games/Sid_Meiers_Civilization_IV,Games/Sid_Meiers_Civilization_V,Games/Sid_Meiers_Civilization_VI,Games/Sid_Meiers_Civilization_VI_Gathering_Storm,Games/Sid_Meiers_Civilization_VI_Rise_And_Fall,Games/Sly_Cooper_Thieves_in_Time,Games/Sonic_and_the_Black_Knight,Games/Soul_Edge,Games/Soulcalibur,Games/Soulcalibur_Broken_Destiny,Games/Soulcalibur_II,Games/Soulcalibur_III,Games/Soulcalibur_IV,Games/Soulcalibur_Legends,Games/SoulCalibur_Lost_Swords,Games/Soulcalibur_V,Games/Soulcalibur_VI,Games/Super_Castlevania_IV,Games/Super_Ghouls_N_Ghosts,Games/Tangled,Games/The_Amazon_Trail,Games/The_House_of_Da_Vinci_2,Games/The_Legend_of_Zelda,Games/The_Legend_of_Zelda_A_Link_to_the_Past,Games/The_Legend_of_Zelda_Breath_of_the_Wild,Games/The_Legend_of_Zelda_Echoes_of_Wisdom,Games/The_Legend_of_Zelda_Links_Awakening,Games/The_Legend_of_Zelda_Links_Awakening_2019,Games/The_Legend_of_Zelda_Majoras_Mask,Games/The_Legend_of_Zelda_Ocarina_of_Time,Games/The_Legend_of_Zelda_Oracle_of_Ages,Games/The_Legend_of_Zelda_Oracle_of_Seasons,Games/The_Legend_of_Zelda_Phantom_Hourglass,Games/The_Legend_of_Zelda_Skyward_Sword,Games/The_Legend_of_Zelda_Spirit_Tracks,Games/The_Legend_of_Zelda_Tears_of_the_Kingdom,Games/The_Legend_of_Zelda_The_Wind_Waker,Games/The_Legend_of_Zelda_Twilight_Princess,Games/The_Lord_of_the_Rings_Conquest,Games/The_Lord_of_the_Rings_The_Return_of_the_King,Games/The_Lord_of_the_Rings_The_Third_Age,Games/The_Lord_of_the_Rings_The_Two_Towers,Games/The_Lord_of_the_Rings_War_in_the_North,Games/Time_Lord,Games/Total_War_Saga_Thrones_of_Britannia,Games/Ultimate_Ghosts_N_Goblins,Games/Untitled_Golden_Axe_Game,Games/Vagrant_Story,Games/Wars_and_Warriors_Joan_of_Arc,Games/Zelda_II_The_Adventure_of_Link,Games/Zelda_The_Wand_of_Gamelon,Games/Zeldas_Adventure
+| Locations=Locations/Castle,Locations/Europe,Locations/Farm,Locations/Medieval_Fantasy_Village,Locations/Stonehenge
+| Objects=Objects/Armor,Objects/Arrow,Objects/Battle_Axe,Objects/Bow,Objects/Crown,Objects/Dagger,Objects/Flail,Objects/Longbow,Objects/Mace,Objects/Plate_Armor,Objects/Sword
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/36/361609/3609148-img_6184.jpeg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3609148-img_6184.jpeg","path":"36\/361609\/","mime":"image\/jpeg","sizes":"scale_super,square_small,scale_medium,scale_small,square_avatar,square_medium,square_mini,square_tiny,scale_avatar,scale_large,scale_tiny,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+A period of European history that spans roughly 1000 years from the fall of the Roman Empire (5th Century) to the beginning of the Renaissance (14th Century).</text>
+      <sha1>0bm7knpdao9vacbyofvygfkc5ymq78s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Middle Tennessee Blue Raiders</title>
+    <ns>0</ns>
+    <id>95622</id>
+    <revision>
+      <id>587690</id>
+      <parentid>487631</parentid>
+      <timestamp>2026-02-08T07:12:40Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587690</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="920" sha1="07f0runs7dho696myxvqzkspj9b62sm" xml:space="preserve">{{Concept
+| Name=Middle Tennessee Blue Raiders
+| Guid=3015-13169
+| Deck=The Blue Raiders are Middle Tennessee State University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Murfreesboro,Locations/Tennessee,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601723-4076845979-Middl.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601723-4076845979-Middl.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_medium,square_avatar,square_small,square_mini,scale_super,square_tiny,scale_medium,scale_small,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Blue Raiders are Middle Tennessee State University's athletics teams.</text>
+      <sha1>07f0runs7dho696myxvqzkspj9b62sm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Millennium</title>
+    <ns>0</ns>
+    <id>95929</id>
+    <revision>
+      <id>96064</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96064</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="497" sha1="94dxlo9yft5yfdyh7knaqtofhf1fupa" xml:space="preserve">{{Concept
+| Name=Millennium 
+| Guid=3015-13485
+| Characters=Characters/Jan_Valentine,Characters/Luke_Valentine,Characters/Rip_Van_Winkle,Characters/Schrodinger,Characters/The_Major,Characters/Tubalcain_Alhambra,Characters/Walter_C_Dornez,Characters/Zorin_Blitz
+| Concepts=Concepts/Nazi,Concepts/Vampire,Concepts/Villain,Concepts/Werewolf
+| Franchises=
+| Games=Games/Hellsing_Pachiko_Pachislot
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>94dxlo9yft5yfdyh7knaqtofhf1fupa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Miner</title>
+    <ns>0</ns>
+    <id>96040</id>
+    <revision>
+      <id>588570</id>
+      <parentid>487969</parentid>
+      <timestamp>2026-02-08T07:19:42Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588570</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1336" sha1="8dbl78fmfg38bcuwe8f9anrcoae2m1m" xml:space="preserve">{{Concept
+| Name=Miner
+| Guid=3015-13599
+| Characters=Characters/Bounty_Bob,Characters/Miner_Willy
+| Concepts=Concepts/Digging,Concepts/Mine_Cart_Sequence,Concepts/Mining
+| Franchises=
+| Games=Games/Arabian_Nights,Games/Atari_50_The_Anniversary_Celebration,Games/Dark_Savior,Games/Die_by_the_Sword,Games/Digger_T_Rock_Legend_of_the_Lost_City,Games/GenTown,Games/Manic_Miner,Games/Minecraft,Games/Miner_2049er,Games/Miner_2049er_II,Games/Miner_2049er_Volume_II,Games/Mr_Nutz,Games/Ragnarok_Online,Games/Red_Faction,Games/Red_Faction_Guerrilla,Games/Rogue_Galaxy,Games/Sabre_Wulf_2004,Games/Yo_Noid
+| Locations=Locations/Cave,Locations/Mine,Locations/Underground
+| Objects=Objects/Beams,Objects/Drill,Objects/Hard_Hat,Objects/Jackhammer,Objects/Mine_Cart,Objects/Miners_Helmet,Objects/Pickaxe,Objects/Rail_Track,Objects/Rock,Objects/Rubble,Objects/Shovel,Objects/Sledgehammer,Objects/Tunnel_Boring_Machine_7740
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3784500-miner.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3784500-miner.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_small,scale_super,square_tiny,square_medium,square_avatar,screen_medium,screen_kubrick,scale_avatar,square_mini,scale_tiny,scale_large","caption":null},"background":[]}' /&gt;</text>
+      <sha1>8dbl78fmfg38bcuwe8f9anrcoae2m1m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Minervamon</title>
+    <ns>0</ns>
+    <id>95884</id>
+    <revision>
+      <id>588264</id>
+      <parentid>487842</parentid>
+      <timestamp>2026-02-08T07:17:14Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588264</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1221" sha1="pav0xc8b8edcb8c7z761p40qrqepi23" xml:space="preserve">{{Concept
+| Name=Minervamon
+| Guid=3015-13436
+| Deck=Minervamon is a Mega-level Shaman Digimon and a member of the Olympos XII.
+| Characters=
+| Concepts=Concepts/Digimon,Concepts/Digitamamon,Concepts/Digivolution,Concepts/God,Concepts/LadyDevimon
+| Franchises=
+| Games=Games/Digimon_Battle,Games/Digimon_Heroes,Games/Digimon_Links,Games/Digimon_Masters,Games/Digimon_ReArise,Games/Digimon_Story_Cyber_Sleuth,Games/Digimon_Story_Cyber_Sleuth_Complete_Edition,Games/Digimon_Story_Cyber_Sleuth_Hackers_Memory,Games/Digimon_Story_Lost_Evolution,Games/Digimon_Story_Super_Xros_Wars_Blue_Red,Games/Digimon_Story_Time_Stranger,Games/Digimon_World_Data_Squad,Games/Digimon_World_Dusk_Dawn
+| Locations=Locations/Cyberspace
+| Objects=Objects/Helmet,Objects/Sword
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3812550-0635595167-latest.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3812550-0635595167-latest.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,square_tiny,square_medium,square_small,scale_medium,square_avatar,scale_tiny,square_mini","caption":null},"background":[]}' /&gt;
+Minervamon is a Mega-level Shaman Digimon and a member of the Olympos XII.</text>
+      <sha1>pav0xc8b8edcb8c7z761p40qrqepi23</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Minnesota Golden Gophers</title>
+    <ns>0</ns>
+    <id>95623</id>
+    <revision>
+      <id>587692</id>
+      <parentid>487632</parentid>
+      <timestamp>2026-02-08T07:12:40Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587692</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="954" sha1="lgmj99xkayhnssl2teifrb8guqjd819" xml:space="preserve">{{Concept
+| Name=Minnesota Golden Gophers
+| Guid=3015-13170
+| Deck=The Golden Gophers are the University of Minnesota's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Basketball_10,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Minneapolis,Locations/Minnesota,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601724-5507758750-1200p.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601724-5507758750-1200p.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_super,scale_small,square_medium,square_avatar,square_small,scale_medium,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Golden Gophers are the University of Minnesota's athletics teams.</text>
+      <sha1>lgmj99xkayhnssl2teifrb8guqjd819</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Mirage 13333</title>
+    <ns>0</ns>
+    <id>95782</id>
+    <revision>
+      <id>588088</id>
+      <parentid>487777</parentid>
+      <timestamp>2026-02-08T07:15:50Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588088</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="412" sha1="om2dh0xf16ptdqsxsw4tzh7hrs9qigz" xml:space="preserve">{{Concept
+| Name=Mirage
+| Guid=3015-13333
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3648461-1mirage.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3648461-1mirage.png","path":"52\/520822\/","mime":"image\/png","sizes":"scale_super,square_medium,square_tiny","caption":null},"background":[]}' /&gt;</text>
+      <sha1>om2dh0xf16ptdqsxsw4tzh7hrs9qigz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Missing Body Part</title>
+    <ns>0</ns>
+    <id>95716</id>
+    <revision>
+      <id>587932</id>
+      <parentid>487723</parentid>
+      <timestamp>2026-02-08T07:14:32Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587932</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3275" sha1="tlkkcyyl7bopqafnfrlywnp8eceuz7f" xml:space="preserve">{{Concept
+| Name=Missing Body Part
+| Guid=3015-13264
+| Aliases=Missing Limb,Limb Loss
+| Deck=Character lacks one or more body parts that are usually present on their species, whether this was through battle/disease/injury or at birth.
+| Characters=Characters/Baiken,Characters/Darth_Vader,Characters/Engineer,Characters/Future_Gohan,Characters/Guts,Characters/Jack_Cayman,Characters/Jax,Characters/Joseph_Joestar,Characters/Luke_Skywalker,Characters/Lupinus,Characters/Mister_Hammer,Characters/Naruto_Uzumaki,Characters/Nathan_Rad_Spencer,Characters/Ragna_the_Bloodedge,Characters/Rosalia,Characters/Sasuke_Uchiha,Characters/Shanks,Characters/Shinobu,Characters/Sickle_21087,Characters/Tao_Pai_Pai,Characters/Zack_Taylor
+| Concepts=Concepts/Cyborg,Concepts/Disfigurement,Concepts/Dismemberment,Concepts/Maimed_Protagonist
+| Franchises=
+| Games=Games/Anarchy_Reigns,Games/Batman_Arkham_City,Games/BlazBlue_Calamity_Trigger,Games/BlazBlue_Chrono_Phantasma,Games/BlazBlue_Chrono_Phantasma_Extend,Games/BlazBlue_Continuum_Shift,Games/BlazBlue_Continuum_Shift_Extend,Games/BlazBlue_Continuum_Shift_II,Games/BlazBlue_Cross_Tag_Battle,Games/Chaos_Code_Nemesis_Experiment,Games/Chaos_Code_New_Sign_of_Catastrophe,Games/Condemned_2_Bloodshot,Games/Condemned_Criminal_Origins,Games/Conkers_Bad_Fur_Day,Games/Dragon_Ball_Sparking_Zero,Games/Dragon_Ball_Z_Sagas,Games/Exoprimal,Games/Ghostrunner,Games/Guilty_Gear,Games/Guilty_Gear_20th_Anniversary_Pack,Games/Guilty_Gear_Dust_Strikers,Games/Guilty_Gear_Isuka,Games/Guilty_Gear_Judgment,Games/Guilty_Gear_Strive,Games/Guilty_Gear_X,Games/Guilty_Gear_X_Plus,Games/Guilty_Gear_X2,Games/Guilty_Gear_Xrd_REV_2,Games/Guilty_Gear_XX_Accent_Core_Plus_R,Games/Guilty_Gear_XX_L_Core,Games/Guilty_Gear_XX_L_Core_Plus,Games/Guilty_Gear_XX_Reload,Games/Guilty_Gear_XX_Slash,Games/JoJo_no_Kimyou_na_Bouken,Games/JoJos_Bizarre_Adventure,Games/JoJos_Bizarre_Adventure_All_Star_Battle,Games/JoJos_Bizarre_Adventure_All_Star_Battle_R,Games/JoJos_Bizarre_Adventure_Eyes_of_Heaven,Games/JoJos_Venture,Games/Jumputi_Heroes,Games/Lair,Games/MadWorld,Games/Mortal_Kombat_2011,Games/Naruto_Shippuden_Ultimate_Ninja_Storm_4,Games/Naruto_X_Boruto_Ultimate_Ninja_Storm_Connections,Games/No_More_Heroes_2_Desperate_Struggle,Games/One_Piece_Bounty_Rush,Games/One_Piece_Burning_Blood,Games/One_Piece_Gigant_Battle,Games/One_Piece_Gigant_Battle_2_New_World,Games/One_Piece_Pirate_Warriors,Games/One_Piece_Pirate_Warriors_4,Games/One_Piece_Super_Grand_Battle_X,Games/One_Piece_Thousand_Storm,Games/One_Piece_Treasure_Cruise,Games/Prototype,Games/Rage_2,Games/Runaway_2_The_Dream_of_the_Turtle,Games/Samurai_Shodown_2019,Games/Shadow_Man_2econd_Coming
+| Locations=Locations/Minefield
+| Objects=Objects/Claymore
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/3/34651/3425037-oro9.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3425037-oro9.png","path":"3\/34651\/","mime":"image\/png","sizes":"square_medium,square_small,scale_small,square_tiny,scale_super,scale_medium,square_avatar,square_mini,scale_avatar,screen_medium,screen_kubrick,scale_large,scale_tiny","caption":null},"background":[]}' /&gt;
+Character lacks one or more body parts that are usually present on their species, whether this was through battle/disease/injury or at birth.</text>
+      <sha1>tlkkcyyl7bopqafnfrlywnp8eceuz7f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Mississippi State Bulldogs</title>
+    <ns>0</ns>
+    <id>95624</id>
+    <revision>
+      <id>587694</id>
+      <parentid>487633</parentid>
+      <timestamp>2026-02-08T07:12:43Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587694</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="984" sha1="olgba7j91xdmkxd0h658sfxre9c1z45" xml:space="preserve">{{Concept
+| Name=Mississippi State Bulldogs
+| Guid=3015-13171
+| Deck=The Bulldogs are Mississippi State University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/MVP_07_NCAA_Baseball,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Mississippi,Locations/Southern_United_States,Locations/Starkville,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601725-9124223131-images.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601725-9124223131-images.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_small,square_avatar,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_mini,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+The Bulldogs are Mississippi State University's athletics teams.</text>
+      <sha1>olgba7j91xdmkxd0h658sfxre9c1z45</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Missouri Tigers</title>
+    <ns>0</ns>
+    <id>95625</id>
+    <revision>
+      <id>587695</id>
+      <parentid>487634</parentid>
+      <timestamp>2026-02-08T07:12:43Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587695</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="930" sha1="llvo3ventv7bc9tbhyj51zcvoj12wlh" xml:space="preserve">{{Concept
+| Name=Missouri Tigers
+| Guid=3015-13172
+| Deck=The Tigers are the University of Missouri's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Basketball_10,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Columbia_8238,Locations/Missouri,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601726-9090287718-images.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601726-9090287718-images.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_small,square_avatar,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_mini,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+The Tigers are the University of Missouri's athletics teams.</text>
+      <sha1>llvo3ventv7bc9tbhyj51zcvoj12wlh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Monsta</title>
+    <ns>0</ns>
+    <id>95703</id>
+    <revision>
+      <id>587893</id>
+      <parentid>487712</parentid>
+      <timestamp>2026-02-08T07:14:17Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587893</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2051" sha1="c1y94wl5nr6el2hkvn4wsyedsogz356" xml:space="preserve">{{Concept
+| Name=Monsta
+| Guid=3015-13250
+| Aliases=Beluga,Blubba
+| Deck=A recurring purple whale-like creature from the Bubble Bobble series.
+| Characters=Characters/Baron_von_Blubba,Characters/Grape,Characters/Super_Monsta,Characters/Swimmer_Queen_Monsta
+| Concepts=Concepts/Recurring_Minion,Concepts/Whale
+| Franchises=
+| Games=Games/Arkanoid_vs_Space_Invaders,Games/Bubble_Bobble,Games/Bubble_Bobble_also_featuring_Rainbow_Islands,Games/Bubble_Bobble_Double_Shot,Games/Bubble_Bobble_Old_And_New,Games/Bubble_Bobble_Part_2,Games/Bubble_Bobble_Plus,Games/Bubble_Bobble_Revolution,Games/Bubble_Memories_The_Story_of_Bubble_Bobble_III,Games/Bubble_Symphony,Games/Bust_A_Move,Games/Bust_A_Move_2_Arcade_Edition,Games/Bust_A_Move_4,Games/Bust_a_Move_Deluxe,Games/Bust_A_Move_Millennium,Games/Bust_A_Move_Plus,Games/Bust_A_Move_Universe,Games/Chackn_Pop,Games/Classic_Bubble_Bobble,Games/Parasol_Stars_The_Story_of_Bubble_Bobble_III,Games/Popn_Pop,Games/Puzzle_Bobble_2X_Bust_A_Move_2_Arcade_Edition_And_Puzzle_Bobble_3_Bust_A_Move_3_S_Tribute,Games/Puzzle_Bobble_DS,Games/Puzzle_Bobble_Everybubble,Games/Puzzle_Bobble_Pocket,Games/Rainbow_Islands,Games/Rainbow_Islands_Revolution,Games/Space_Bust_A_Move,Games/Taito_Legends,Games/Taito_Legends_2,Games/Taito_Legends_Power_Up,Games/Taito_Memories,Games/Taito_Memories_Gekan,Games/Taito_Memories_II_Gekan,Games/Taito_Memories_II_Joukan,Games/Taito_Memories_Joukan,Games/Taito_Memories_Pocket,Games/Taito_Milestones,Games/Taito_Milestones_3,Games/Taito_Variety_Pack
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3610632-3287536005-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3610632-3287536005-latest.png","path":"16\/164924\/","mime":"image\/png","sizes":"square_medium,square_avatar,scale_super,scale_small,square_small,square_mini,scale_medium,square_tiny,scale_tiny,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+A recurring purple whale-like creature from the Bubble Bobble series.</text>
+      <sha1>c1y94wl5nr6el2hkvn4wsyedsogz356</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Movie Included with Game</title>
+    <ns>0</ns>
+    <id>95756</id>
+    <revision>
+      <id>588039</id>
+      <parentid>487760</parentid>
+      <timestamp>2026-02-08T07:15:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588039</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1414" sha1="hl6bfdivjl0x5gozrzqb5j6f37vqhqk" xml:space="preserve">{{Concept
+| Name=Movie Included with Game
+| Guid=3015-13307
+| Deck=The presence in the box with the game of bonus video material: a movie, anime, animation - often on the basis of which the game was made.
+| Characters=
+| Concepts=Concepts/Blu_ray_Movie_Included,Concepts/Bundled_with_a_DVD,Concepts/Collectors_Edition,Concepts/Demo_Included_with_Blu_Ray_Movie,Concepts/Downloadable_Content,Concepts/Pack_In_Game,Concepts/Physical_Game_Bonus
+| Franchises=
+| Games=Games/Batman_Arkham_City,Games/Injustice_Gods_Among_Us,Games/Mortal_Kombat_2011,Games/Mortal_Kombat_vs_DC_Universe,Games/Tekken_3D_Prime_Edition,Games/Tekken_Hybrid,Games/Watchmen_The_End_is_Nigh,Games/Wild_Arms_Alter_Code_F
+| Locations=
+| Objects=Objects/Compact_Disc
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3673454-7605469260-21000.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3673454-7605469260-21000.png","path":"173\/1734046\/","mime":"image\/png","sizes":"scale_super,square_medium,square_small,square_avatar,scale_medium,square_tiny,scale_small,square_mini,scale_large,scale_avatar,scale_tiny,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+This is an independent product, usually on a separate disk or as a download code, not [https://www.giantbomb.com/behind-the-scenes-extras/3015-9753 Behind the Scenes materials]. Combined with a game to increase demand or advertising.</text>
+      <sha1>hl6bfdivjl0x5gozrzqb5j6f37vqhqk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Multiplayer Only</title>
+    <ns>0</ns>
+    <id>95873</id>
+    <revision>
+      <id>588239</id>
+      <parentid>487832</parentid>
+      <timestamp>2026-02-08T07:17:02Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588239</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="861" sha1="noisooan247cshzhvfbjel3gr8uohcg" xml:space="preserve">{{Concept
+| Name=Multiplayer Only
+| Guid=3015-13425
+| Deck=Games that requires at least 2 players.
+| Characters=
+| Concepts=Concepts/King_of_the_Hill
+| Franchises=Franchises/Splitgate
+| Games=Games/A_Way_Out,Games/Combat,Games/It_Takes_Two,Games/Jar_Battlers,Games/LOL,Games/Sirocco,Games/Split_Fiction,Games/Zekkyo_Senshi_Sakebrain
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/59/594908/3709421-7797235974-A_Way.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3709421-7797235974-A_Way.jpg","path":"59\/594908\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_super,scale_small,scale_medium,square_mini,square_avatar,square_tiny,scale_avatar,scale_large,screen_kubrick,scale_tiny,screen_medium","caption":null},"background":[]}' /&gt;
+Games that requires Internet to play will not be included.</text>
+      <sha1>noisooan247cshzhvfbjel3gr8uohcg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Munkidori</title>
+    <ns>0</ns>
+    <id>96027</id>
+    <revision>
+      <id>588544</id>
+      <parentid>487958</parentid>
+      <timestamp>2026-02-08T07:19:29Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588544</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="587" sha1="ny59ko2wt5wq6e1yothnmerd4ekh4yo" xml:space="preserve">{{Concept
+| Name=Munkidori
+| Guid=3015-13584
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777909-1280px-1015munkidori.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777909-1280px-1015munkidori.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,square_tiny,scale_small,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;</text>
+      <sha1>ny59ko2wt5wq6e1yothnmerd4ekh4yo</sha1>
+    </revision>
+  </page>
+</mediawiki>

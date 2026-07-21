@@ -1,0 +1,1537 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Locations/Transylfangia</title>
+    <ns>0</ns>
+    <id>264459</id>
+    <revision>
+      <id>264917</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264917</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="257" sha1="m14qyixtn1obw20tms4fhyitiqs1vac" xml:space="preserve">{{Location
+| Name=Transylfangia
+| Guid=3035-8416
+| Characters=Characters/Dog_58603,Characters/Killer_Tomato,Characters/Mr_Fang,Characters/Super_Granny
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>m14qyixtn1obw20tms4fhyitiqs1vac</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Trashoria</title>
+    <ns>0</ns>
+    <id>264132</id>
+    <revision>
+      <id>264589</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264589</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" sha1="5ar2gdmubrv1wdyvcuiyamgs9di8nn2" xml:space="preserve">{{Location
+| Name=Trashoria
+| Guid=3035-8086
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5ar2gdmubrv1wdyvcuiyamgs9di8nn2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Treasure Chamber</title>
+    <ns>0</ns>
+    <id>264152</id>
+    <revision>
+      <id>637150</id>
+      <parentid>630049</parentid>
+      <timestamp>2026-02-13T21:28:28Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637150</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="839" sha1="eqtg62ggepwqnsj9k8tlehiq6rwg59j" xml:space="preserve">{{Location
+| Name=Treasure Chamber
+| Guid=3035-8106
+| Deck=The ancient relics of the Ying dynasty have been hidden in the icy mountains for centuries, but have recently been rediscovered.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Ying_Fortress
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3502042-1494463456-F579DsOaIAAYn6m.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3502042-1494463456-F579DsOaIAAYn6m.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,square_medium,square_tiny,screen_medium,scale_super,square_mini,scale_small,square_avatar,scale_medium,scale_large,scale_tiny,scale_avatar,screen_kubrick","caption":null},"background":[]}' /&gt;
+The ancient relics of the Ying dynasty have been hidden in the icy mountains for centuries, but have recently been rediscovered.</text>
+      <sha1>eqtg62ggepwqnsj9k8tlehiq6rwg59j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Trestyn</title>
+    <ns>0</ns>
+    <id>264115</id>
+    <revision>
+      <id>264572</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264572</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="163" sha1="q9t5ueb6nc5m0hc5ajxu28aryurfx60" xml:space="preserve">{{Location
+| Name=Trestyn
+| Guid=3035-8069
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>q9t5ueb6nc5m0hc5ajxu28aryurfx60</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Troy 8270</title>
+    <ns>0</ns>
+    <id>264315</id>
+    <revision>
+      <id>637270</id>
+      <parentid>630169</parentid>
+      <timestamp>2026-02-13T21:29:52Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637270</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="727" sha1="d6fplqqeyf0vgmeaogcb02qwc2k0l6n" xml:space="preserve">{{Location
+| Name=Troy
+| Guid=3035-8270
+| Deck=A city in Alabama and the home of Troy University.
+| Characters=
+| Concepts=Concepts/Troy_Trojans
+| Objects=
+| Locations=Locations/Alabama,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614438-0407160548-36144.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614438-0407160548-36144.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,square_tiny,square_medium,scale_super,scale_small,scale_medium,square_avatar,square_mini,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+A city in Alabama and the home of Troy University.</text>
+      <sha1>d6fplqqeyf0vgmeaogcb02qwc2k0l6n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Tucson</title>
+    <ns>0</ns>
+    <id>264234</id>
+    <revision>
+      <id>637189</id>
+      <parentid>630088</parentid>
+      <timestamp>2026-02-13T21:28:57Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637189</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="740" sha1="rasespztnjkkme7hf153z03ddojfh5k" xml:space="preserve">{{Location
+| Name=Tucson
+| Guid=3035-8189
+| Deck=Tucson is a city in Arizona and the home of the University of Arizona.
+| Characters=
+| Concepts=Concepts/Arizona_Wildcats
+| Objects=
+| Locations=Locations/Arizona,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614050-7555682920-e78dc.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614050-7555682920-e78dc.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_tiny,square_medium,square_small,scale_super,square_avatar,scale_medium,scale_small,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+Tucson is a city in Arizona and the home of the University of Arizona.</text>
+      <sha1>rasespztnjkkme7hf153z03ddojfh5k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Tulsa</title>
+    <ns>0</ns>
+    <id>264316</id>
+    <revision>
+      <id>637271</id>
+      <parentid>630170</parentid>
+      <timestamp>2026-02-13T21:29:53Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637271</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="724" sha1="15j7kwepkxu0tnnwrknwu72trxhenoa" xml:space="preserve">{{Location
+| Name=Tulsa
+| Guid=3035-8272
+| Deck=A city in Oklahoma and the home of the University of Tulsa.
+| Characters=
+| Concepts=Concepts/Tulsa_Golden_Hurricane
+| Objects=
+| Locations=Locations/Oklahoma,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614439-5647486776-Tulsa.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614439-5647486776-Tulsa.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,square_tiny,square_medium,scale_super,scale_small,scale_medium,square_avatar,square_mini,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Oklahoma and the home of the University of Tulsa.</text>
+      <sha1>15j7kwepkxu0tnnwrknwu72trxhenoa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Turvia</title>
+    <ns>0</ns>
+    <id>264219</id>
+    <revision>
+      <id>264676</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264676</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="452" sha1="qsrqz7ao1na3ovpasjgfwp9pfhw1h9c" xml:space="preserve">{{Location
+| Name=Turvia
+| Guid=3035-8173
+| Deck=Turvia is a fictional planet from the 1990 video game The Adventures of Rad Gravity. This level has the television screen flipped upside down
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Turvia is a fictional planet from the 1990 video game The Adventures of Rad Gravity. This level has the television screen flipped upside down</text>
+      <sha1>qsrqz7ao1na3ovpasjgfwp9pfhw1h9c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/ULTAKAAR</title>
+    <ns>0</ns>
+    <id>264227</id>
+    <revision>
+      <id>264685</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264685</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="164" sha1="fiaek79sj7lyr6lx3ndthb7ke80ckt6" xml:space="preserve">{{Location
+| Name=ULTAKAAR
+| Guid=3035-8182
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>fiaek79sj7lyr6lx3ndthb7ke80ckt6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/USAF Academy</title>
+    <ns>0</ns>
+    <id>264232</id>
+    <revision>
+      <id>637187</id>
+      <parentid>630086</parentid>
+      <timestamp>2026-02-13T21:28:55Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637187</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="787" sha1="3sx49n3cilm2su6vkmv6nzirsuxmbxo" xml:space="preserve">{{Location
+| Name=USAF Academy
+| Guid=3035-8187
+| Deck=The United States Air Force Academy is based in El Paso County, Colorado.
+| Characters=
+| Concepts=Concepts/Air_Force_Falcons,Concepts/United_States_Air_Force
+| Objects=
+| Locations=Locations/Colorado,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614049-0864562799-71.jp.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614049-0864562799-71.jp.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_tiny,square_medium,square_small,scale_super,square_mini,scale_medium,scale_small,square_avatar,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+The United States Air Force Academy is based in El Paso County, Colorado.</text>
+      <sha1>3sx49n3cilm2su6vkmv6nzirsuxmbxo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/U S Route 101</title>
+    <ns>0</ns>
+    <id>264128</id>
+    <revision>
+      <id>637135</id>
+      <parentid>630034</parentid>
+      <timestamp>2026-02-13T21:28:17Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637135</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2031" sha1="m7g2spiqzhsr05vxe3i0whfx3inapzq" xml:space="preserve">{{Location
+| Name=U.S. Route 101
+| Guid=3035-8082
+| Deck=More commonly known as the 101 Freeway, U.S. Route 101 is a highway system that spans almost the entire West Coast of the USA, from Southern California to Northern Washington.
+| Characters=Characters/Ant_Man,Characters/Astro_Bot,Characters/Black_Widow,Characters/Magneto,Characters/Nick_Kang,Characters/Peter_Parker,Characters/Scott_Lang,Characters/Steve_Rogers,Characters/Storm,Characters/Taskmaster,Characters/The_Hulk,Characters/Thor_4899,Characters/Tony_Stark,Characters/Wolverine
+| Concepts=Concepts/Chase,Concepts/Fast_Travel
+| Objects=Objects/Burrito,Objects/Car,Objects/Concrete_Mixer,Objects/Cup,Objects/Enchirito,Objects/FBI_Car,Objects/Glass,Objects/Grilled_Cheese,Objects/Gun,Objects/Hamburger,Objects/Muscle_Car,Objects/Police_Car,Objects/Quesadilla,Objects/Race_Car,Objects/Sports_Car,Objects/Street_Light,Objects/Taco,Objects/Tire,Objects/Tire_Iron,Objects/Tire_Spikes,Objects/Traffic_Cone,Objects/Water
+| Locations=Locations/California,Locations/Earth,Locations/Eureka,Locations/Golden_Gate_Bridge,Locations/Interstate_405,Locations/Interstate_Highway_System,Locations/Los_Angeles,Locations/North_America,Locations/Oregon,Locations/Oxnard,Locations/San_Francisco,Locations/Santa_Barbara,Locations/Street,Locations/Subway_3715,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America,Locations/Thousand_Oaks,Locations/Ventura_County,Locations/Washington,Locations/Wendys
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3487995-us_101.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3487995-us_101.png","path":"8\/82962\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,scale_small,square_avatar,square_mini,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+More commonly known as the 101 Freeway, U.S. Route 101 is a highway system that spans almost the entire West Coast of the USA, from Southern California to Northern Washington.</text>
+      <sha1>m7g2spiqzhsr05vxe3i0whfx3inapzq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/U S Route 97</title>
+    <ns>0</ns>
+    <id>264410</id>
+    <revision>
+      <id>1007748</id>
+      <parentid>637321</parentid>
+      <timestamp>2026-07-19T18:09:07Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007748</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1013" sha1="5qh3reqj18pdp9ocveeui1vyp8b0n4s" xml:space="preserve">{{Location
+| Name=U.S. Route 97
+| Guid=3035-8366
+| Deck=U.S. Route 97 is a highway that spans from California all the way to Washington, even connecting to the Canadian 97.
+| Characters=Characters/Deacon_St_John
+| Concepts=
+| Objects=
+| Locations=Locations/California,Locations/Earth,Locations/Klamath,Locations/Klamath_County,Locations/North_America,Locations/Oregon,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America,Locations/Washington
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3732391-us_97_%281961_cutout%29.svg.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3732391-us_97_(1961_cutout).svg.png","path":"8\/82962\/","mime":"image\/png","sizes":"square_small,scale_medium,scale_super,scale_small,square_avatar,square_medium,square_tiny,square_mini,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+U.S. Route 97 is a highway that spans from California all the way to Washington, even connecting to the Canadian 97.</text>
+      <sha1>5qh3reqj18pdp9ocveeui1vyp8b0n4s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Uganda</title>
+    <ns>0</ns>
+    <id>263981</id>
+    <revision>
+      <id>637061</id>
+      <parentid>629960</parentid>
+      <timestamp>2026-02-13T21:27:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637061</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="721" sha1="jp4g2scfasqgbdx5jlk4mf15ge0b07x" xml:space="preserve">{{Location
+| Name=Uganda
+| Guid=3035-7929
+| Deck=A landlocked country in eastern Africa.
+| Characters=Characters/Kamala,Characters/Mudiwa_Onai,Characters/Natsai_Onai
+| Concepts=
+| Objects=
+| Locations=Locations/Africa,Locations/Earth
+| Image=https://www.giantbomb.com/a/uploads/scale_super/105/1056167/3437820-image_2023-01-03_034336259.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3437820-image_2023-01-03_034336259.png","path":"105\/1056167\/","mime":"image\/png","sizes":"scale_super,square_medium,square_tiny,square_small,scale_medium,square_avatar,scale_small,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A landlocked country in eastern Africa.</text>
+      <sha1>jp4g2scfasqgbdx5jlk4mf15ge0b07x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Ultimate Toys</title>
+    <ns>0</ns>
+    <id>264108</id>
+    <revision>
+      <id>637126</id>
+      <parentid>630025</parentid>
+      <timestamp>2026-02-13T21:28:11Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637126</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="847" sha1="qx028ibrmersxt0qzvhocvefdaaq8px" xml:space="preserve">{{Location
+| Name=Ultimate Toys
+| Guid=3035-8062
+| Deck=A toy store owned by Mr. Swiffle in San Francisco.
+| Characters=Characters/Chewy,Characters/Eldon,Characters/Flo_50740,Characters/Lucky_Lucy,Characters/Marlena,Characters/Mr_Swiffle,Characters/Taxini
+| Concepts=
+| Objects=
+| Locations=Locations/California,Locations/San_Francisco,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3464812-2483696486-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3464812-2483696486-latest.png","path":"7\/73970\/","mime":"image\/png","sizes":"scale_medium,scale_small,scale_super,square_small,square_avatar,square_medium,square_tiny,square_mini,screen_kubrick,scale_avatar,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A toy store owned by Mr. Swiffle in San Francisco.</text>
+      <sha1>qx028ibrmersxt0qzvhocvefdaaq8px</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Underdark</title>
+    <ns>0</ns>
+    <id>264210</id>
+    <revision>
+      <id>264667</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264667</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" sha1="dnnv4p5snexq4m94pmawb2kr61vhth9" xml:space="preserve">{{Location
+| Name=Underdark
+| Guid=3035-8164
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>dnnv4p5snexq4m94pmawb2kr61vhth9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Updaam</title>
+    <ns>0</ns>
+    <id>264338</id>
+    <revision>
+      <id>264796</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264796</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="181" sha1="2hdjq526510e74t06yeoqrxv3mulcqq" xml:space="preserve">{{Location
+| Name=Updaam
+| Guid=3035-8294
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Blackreef
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>2hdjq526510e74t06yeoqrxv3mulcqq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Urbana Champaign</title>
+    <ns>0</ns>
+    <id>264261</id>
+    <revision>
+      <id>637216</id>
+      <parentid>630115</parentid>
+      <timestamp>2026-02-13T21:29:15Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637216</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="795" sha1="j9gx1bs9qi2e45hzyimq3c6tweg4w4o" xml:space="preserve">{{Location
+| Name=Urbana-Champaign
+| Guid=3035-8216
+| Deck=A metropolitan area in east-central Illinois and the home of the University of Illinois.
+| Characters=
+| Concepts=Concepts/Illinois_Fighting_Illini
+| Objects=
+| Locations=Locations/Illinois,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614344-9819200249-heade.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614344-9819200249-heade.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,square_small,square_medium,square_avatar,scale_medium,scale_small,square_mini,square_tiny,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+A metropolitan area in east-central Illinois and the home of the University of Illinois.</text>
+      <sha1>j9gx1bs9qi2e45hzyimq3c6tweg4w4o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Urdak</title>
+    <ns>0</ns>
+    <id>263987</id>
+    <revision>
+      <id>637066</id>
+      <parentid>629965</parentid>
+      <timestamp>2026-02-13T21:27:28Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637066</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1158" sha1="ss87mfes7ftrawauwymxbi4flf962zo" xml:space="preserve">{{Location
+| Name=Urdak
+| Guid=3035-7939
+| Deck=Urdak is the realm of the Maykr race and domain of the Khan Maykr. A hub of transcendent technology, the whole city is powered by a purified form of Argent Energy. According to legends, Urdak is considered to be a living being made of the souls of past Maykrs.
+| Characters=Characters/Doomguy,Characters/Khan_Maykr,Characters/Samuel_Hayden,Characters/Vega_33662
+| Concepts=Concepts/Female_Antagonists
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3439403-1686455059-Urdak.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3439403-1686455059-Urdak.jpg","path":"52\/520822\/","mime":"image\/jpeg","sizes":"square_small,scale_small,square_avatar,square_medium,scale_super,scale_medium,square_tiny,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Urdak is the realm of the Maykr race and domain of the Khan Maykr. A hub of transcendent technology, the whole city is powered by a purified form of Argent Energy. According to legends, Urdak is considered to be a living being made of the souls of past Maykrs.</text>
+      <sha1>ss87mfes7ftrawauwymxbi4flf962zo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Utah Motorsports Campus</title>
+    <ns>0</ns>
+    <id>264080</id>
+    <revision>
+      <id>264537</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264537</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="179" sha1="3nxewgw37obqu1adc8z5cgnit4snl0g" xml:space="preserve">{{Location
+| Name=Utah Motorsports Campus
+| Guid=3035-8034
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3nxewgw37obqu1adc8z5cgnit4snl0g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Utakata</title>
+    <ns>0</ns>
+    <id>264395</id>
+    <revision>
+      <id>637310</id>
+      <parentid>630209</parentid>
+      <timestamp>2026-02-13T21:30:20Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637310</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="842" sha1="bh67ikvdmwswyzmcrn75m0w1cqll5pv" xml:space="preserve">{{Location
+| Name=Utakata
+| Guid=3035-8351
+| Deck=Province where the Shinobido ninja games take place
+| Characters=Characters/Gamuran,Characters/Goh,Characters/Hebitonbo,Characters/Nobuteru_Ichijo,Characters/Onji,Characters/Zaji,Characters/Zen_19795
+| Concepts=Concepts/Feudal_Japan
+| Objects=Objects/Kurotaka,Objects/Ninjato
+| Locations=Locations/Japan
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/5052/359449-shinobido_way_of_the_ninja3.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"359449-shinobido_way_of_the_ninja3.jpg","path":"0\/5052\/","mime":"image\/jpeg","sizes":"square_avatar,screen_medium,scale_large,scale_small,square_mini,square_tiny,square_medium,scale_super,scale_medium,screen_kubrick,scale_avatar,square_small","caption":""},"background":[]}' /&gt;
+Province where the Shinobido ninja games take place</text>
+      <sha1>bh67ikvdmwswyzmcrn75m0w1cqll5pv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Utopia 8177</title>
+    <ns>0</ns>
+    <id>264222</id>
+    <revision>
+      <id>264680</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264680</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="416" sha1="9oju0ntupd9pt8maj6divzzmlqnpcqn" xml:space="preserve">{{Location
+| Name=Utopia
+| Guid=3035-8177
+| Deck=Utopia is a fictional planet in the 1990 video game The Adventures of Rad Gravity. On the planet is an underground factory.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Utopia is a fictional planet in the 1990 video game The Adventures of Rad Gravity. On the planet is an underground factory.</text>
+      <sha1>9oju0ntupd9pt8maj6divzzmlqnpcqn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Vale Sangora</title>
+    <ns>0</ns>
+    <id>264385</id>
+    <revision>
+      <id>637308</id>
+      <parentid>630207</parentid>
+      <timestamp>2026-02-13T21:30:18Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637308</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="905" sha1="e57x0u1wbjip7ll9j3fvt05b8moen9o" xml:space="preserve">{{Location
+| Name=Vale Sangora
+| Guid=3035-8341
+| Deck=The setting of The Blood of Dawnwalker, located in the Carpathian Mountains and inspired by 14th Century Polish, Romanian, Ukranian and Balkan buildings, locations and cultures.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/33/338034/3684226-5537824558-Ghvh2EmXcAE9sa3.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3684226-5537824558-Ghvh2EmXcAE9sa3.jpg","path":"33\/338034\/","mime":"image\/jpeg","sizes":"square_medium,square_small,square_avatar,scale_super,scale_medium,scale_small,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The setting of The Blood of Dawnwalker, located in the Carpathian Mountains and inspired by 14th Century Polish, Romanian, Ukranian and Balkan buildings, locations and cultures.</text>
+      <sha1>e57x0u1wbjip7ll9j3fvt05b8moen9o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Vancouver Street Circuit</title>
+    <ns>0</ns>
+    <id>264070</id>
+    <revision>
+      <id>637104</id>
+      <parentid>630003</parentid>
+      <timestamp>2026-02-13T21:27:56Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637104</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="541" sha1="owr2bm85nsfgeu4q8ixr4i48ogd0u5s" xml:space="preserve">{{Location
+| Name=Vancouver Street Circuit
+| Guid=3035-8024
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3602117-img_2221.gif}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3602117-img_2221.gif","path":"137\/1377390\/","mime":"image\/gif","sizes":"scale_super,square_medium,square_small,scale_small,scale_medium,square_tiny,scale_tiny,square_avatar,screen_kubrick,scale_avatar,square_mini,screen_medium,scale_large","caption":"1997 layout"},"background":[]}' /&gt;</text>
+      <sha1>owr2bm85nsfgeu4q8ixr4i48ogd0u5s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Vanuatu</title>
+    <ns>0</ns>
+    <id>264039</id>
+    <revision>
+      <id>264496</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264496</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="347" sha1="atsn8inlz1dqkbkjcuyry3oobszm57d" xml:space="preserve">{{Location
+| Name=Vanuatu
+| Guid=3035-7993
+| Deck=Vanuatu is an island republic in the South Pacific Ocean. Its capital city is Port Vila.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Vanuatu is an island republic in the South Pacific Ocean. Its capital city is Port Vila.</text>
+      <sha1>atsn8inlz1dqkbkjcuyry3oobszm57d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Ventura County</title>
+    <ns>0</ns>
+    <id>264118</id>
+    <revision>
+      <id>1007762</id>
+      <parentid>637128</parentid>
+      <timestamp>2026-07-19T18:09:59Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007762</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2948" sha1="bhdo4w5vn788nw54va6kgw3o3tzufr3" xml:space="preserve">{{Location
+| Name=Ventura County
+| Guid=3035-8072
+| Deck=Ventura County is a county located in Southern California that borders both Los Angeles and Santa Barbara counties.
+| Characters=Characters/Anderson_Paak,Characters/Caitlyn_Jenner,Characters/Dave_Grohl,Characters/Johnny_Cash,Characters/Justin_Bieber,Characters/Kendall_Jenner,Characters/Kim_Kardashian,Characters/Kylie_Jenner,Characters/Murray_Bauman,Characters/Ronald_Reagan,Characters/Tiger_Woods,Characters/Tony_Ferguson
+| Concepts=Concepts/Basset_Hound,Concepts/Buddhism,Concepts/City_Building,Concepts/Dolphin,Concepts/Gangs,Concepts/German_Shepherd,Concepts/Golf,Concepts/Los_Angeles_Rams,Concepts/Presidential_Candidate
+| Objects=Objects/Avocado,Objects/Baguette,Objects/Bulgogi,Objects/Burrito,Objects/Cappuccino,Objects/Car,Objects/Chalupa,Objects/Cinnamon_Twists,Objects/Cup,Objects/Espresso,Objects/Fried_Rice,Objects/Game_Controller,Objects/Glass,Objects/Golf_Ball,Objects/Golf_Cart,Objects/Golf_Club,Objects/Golf_Tee,Objects/Gordita,Objects/Grass,Objects/Hamburger,Objects/Ice_Cream,Objects/Kimchi,Objects/Milk,Objects/Milkshake,Objects/Oak_Tree,Objects/Palm_Tree,Objects/Pizza,Objects/Quesadilla,Objects/Red_Bull,Objects/Scone,Objects/Soda_Fountain,Objects/Surfboard,Objects/Taco,Objects/Tortilla_Chips,Objects/Tree,Objects/Tree_Stump,Objects/Water,Objects/Yarmulke
+| Locations=Locations/7_Eleven,Locations/Adidas,Locations/Amusement_Park,Locations/Beach,Locations/Blaine_County,Locations/Burger_King,Locations/California,Locations/Cannabis_Dispensary,Locations/Cemetery,Locations/Channel_Islands,Locations/Church,Locations/City,Locations/Clothing_Store,Locations/College,Locations/Convenience_Store,Locations/Desert,Locations/Dojo,Locations/Dream,Locations/Earth,Locations/Funeral_Home,Locations/Home,Locations/Hospital,Locations/House,Locations/Lake,Locations/Los_Angeles,Locations/McDonalds,Locations/Military_Base,Locations/North_America,Locations/Oxnard,Locations/Pinks_Hot_Dogs,Locations/Pizza_Hut,Locations/Police_Station,Locations/Psychiatric_Institution,Locations/Restaurant,Locations/River,Locations/School,Locations/Sherwood_Country_Club,Locations/Storm_Drain_System,Locations/Subway_3715,Locations/Synagogue,Locations/Taco_Bell,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America,Locations/Thousand_Oaks,Locations/Town,Locations/U_S_Route_101,Locations/Weapon_Shop,Locations/Wendys
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3480145-seal_of_ventura_county%2C_ca.svg.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3480145-seal_of_ventura_county,_ca.svg.png","path":"8\/82962\/","mime":"image\/png","sizes":"square_medium,square_small,square_avatar,scale_small,scale_medium,square_mini,scale_super,square_tiny,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Ventura County is a county located in Southern California that borders both Los Angeles and Santa Barbara counties.</text>
+      <sha1>bhdo4w5vn788nw54va6kgw3o3tzufr3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Vernia</title>
+    <ns>0</ns>
+    <id>264220</id>
+    <revision>
+      <id>264677</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264677</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="454" sha1="p7f0fik7djzo7oqv19rosmt5tixuhh9" xml:space="preserve">{{Location
+| Name=Vernia
+| Guid=3035-8174
+| Deck=Vernia is a fictional planet from the 1990 video game The Adventures of Rad Gravity. Located on the planet is a city located among the clouds.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Vernia is a fictional planet from the 1990 video game The Adventures of Rad Gravity. Located on the planet is a city located among the clouds.</text>
+      <sha1>p7f0fik7djzo7oqv19rosmt5tixuhh9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Virginia International Raceway</title>
+    <ns>0</ns>
+    <id>264079</id>
+    <revision>
+      <id>637106</id>
+      <parentid>630005</parentid>
+      <timestamp>2026-02-13T21:27:57Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637106</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="536" sha1="hh0n4ihp8xbypwcurhjk4cd3y8vy214" xml:space="preserve">{{Location
+| Name=Virginia International Raceway
+| Guid=3035-8033
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/1/14876/3509996-6259209169-VIRdi.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3509996-6259209169-VIRdi.jpg","path":"1\/14876\/","mime":"image\/jpeg","sizes":"scale_small,square_small,square_medium,scale_medium,scale_super,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>hh0n4ihp8xbypwcurhjk4cd3y8vy214</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Vista Beach</title>
+    <ns>0</ns>
+    <id>264021</id>
+    <revision>
+      <id>637089</id>
+      <parentid>629988</parentid>
+      <timestamp>2026-02-13T21:27:44Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637089</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="641" sha1="qq9jbc8b2ec32jttwho8sisdtve6u0d" xml:space="preserve">{{Location
+| Name=Vista Beach
+| Guid=3035-7975
+| Deck=Vista Beach is a coastal town in the Wii version of The Sims 3.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3447162-vista_beach.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3447162-vista_beach.png","path":"8\/82962\/","mime":"image\/png","sizes":"square_medium,square_small,scale_medium,scale_super,square_avatar,square_tiny,scale_small,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Vista Beach is a coastal town in the Wii version of The Sims 3.</text>
+      <sha1>qq9jbc8b2ec32jttwho8sisdtve6u0d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Vjun</title>
+    <ns>0</ns>
+    <id>264138</id>
+    <revision>
+      <id>637136</id>
+      <parentid>630035</parentid>
+      <timestamp>2026-02-13T21:28:18Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637136</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1252" sha1="c9talyxcyye14x8tb3uivnnoml8xq4v" xml:space="preserve">{{Location
+| Name=Vjun
+| Guid=3035-8092
+| Deck=A planet in the Star Wars galaxy. Darth Vader had a castle here.
+| Characters=Characters/Count_Dooku,Characters/Darth_Vader,Characters/Jaden_Korr,Characters/Kyle_Katarn,Characters/Luke_Skywalker,Characters/Rosh_Penin,Characters/Shara_52484,Characters/Tavion_Axmis,Characters/X1,Characters/X2,Characters/Yoda
+| Concepts=Concepts/Disciples_of_Ragnos,Concepts/Galactic_Empire,Concepts/Hazard_Trooper,Concepts/Imperial_Officer,Concepts/Jumptrooper,Concepts/Rain,Concepts/Reborn,Concepts/Sith,Concepts/Stormtrooper,Concepts/The_Force,Concepts/TIE_Pilot
+| Objects=Objects/Blaster,Objects/Double_Bladed_Lightsaber,Objects/E_11_Rifle,Objects/Lightsaber,Objects/TIE_Bomber,Objects/TIE_Fighter
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3493236-screenshot2023-08-08171443.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3493236-screenshot2023-08-08171443.png","path":"77\/776653\/","mime":"image\/png","sizes":"square_avatar,square_medium,square_small,scale_small,scale_medium,scale_super,square_mini,square_tiny,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+A planet in the Star Wars galaxy. Darth Vader had a castle here.</text>
+      <sha1>c9talyxcyye14x8tb3uivnnoml8xq4v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Vladivostok</title>
+    <ns>0</ns>
+    <id>264184</id>
+    <revision>
+      <id>264641</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264641</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="200" sha1="dockuidzqs72o17q15ssnc9qaus5hxm" xml:space="preserve">{{Location
+| Name=Vladivostok
+| Guid=3035-8138
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Vladivostok is a city in Russia.
+</text>
+      <sha1>dockuidzqs72o17q15ssnc9qaus5hxm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Volcania 5098</title>
+    <ns>0</ns>
+    <id>465033</id>
+    <revision>
+      <id>1007771</id>
+      <parentid>752304</parentid>
+      <timestamp>2026-07-19T18:10:26Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007771</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="669" sha1="nvhsdwdx2oew7ztbftl0d93wwj2va8c" xml:space="preserve">{{Location
+| Name=Volcania
+| Guid=3035-5098
+| Deck=Center of the Bio-Dread Empire, stronghold and fortress of Lord Dread.
+| Characters=Characters/Lord_Dread
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/2903141-volcania.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2903141-volcania.jpg","path":"7\/73970\/","mime":"image\/jpeg","sizes":"square_mini,square_small,square_medium,scale_small,square_avatar,scale_medium,scale_super,square_tiny,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Center of the Bio-Dread Empire, stronghold and fortress of Lord Dread.</text>
+      <sha1>nvhsdwdx2oew7ztbftl0d93wwj2va8c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Waco</title>
+    <ns>0</ns>
+    <id>264241</id>
+    <revision>
+      <id>637196</id>
+      <parentid>630095</parentid>
+      <timestamp>2026-02-13T21:29:01Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637196</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="684" sha1="14pbco51jmx4yenlkme5vkcnuyiol0q" xml:space="preserve">{{Location
+| Name=Waco
+| Guid=3035-8196
+| Deck=A city in Texas and home of Baylor University.
+| Characters=
+| Concepts=Concepts/Baylor_Bears
+| Objects=
+| Locations=Locations/Texas,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614056-5319588126-3T5GM.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614056-5319588126-3T5GM.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,square_tiny,square_medium,square_small,scale_medium,scale_small,square_avatar,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Texas and home of Baylor University.</text>
+      <sha1>14pbco51jmx4yenlkme5vkcnuyiol0q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Wailing Woods</title>
+    <ns>0</ns>
+    <id>264415</id>
+    <revision>
+      <id>264873</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264873</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="169" sha1="iu1v6h93e3ctb6k5r7sg328xmhsi361" xml:space="preserve">{{Location
+| Name=Wailing Woods
+| Guid=3035-8371
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>iu1v6h93e3ctb6k5r7sg328xmhsi361</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Waterdeep</title>
+    <ns>0</ns>
+    <id>264209</id>
+    <revision>
+      <id>264666</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264666</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" sha1="60k1elddswbznkp6as0tit5mqzafk3c" xml:space="preserve">{{Location
+| Name=Waterdeep
+| Guid=3035-8163
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>60k1elddswbznkp6as0tit5mqzafk3c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Waterloo</title>
+    <ns>0</ns>
+    <id>264429</id>
+    <revision>
+      <id>264887</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264887</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="164" sha1="jye80b595o0jevix2f7ijg4ppay65zm" xml:space="preserve">{{Location
+| Name=Waterloo
+| Guid=3035-8385
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jye80b595o0jevix2f7ijg4ppay65zm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/West Lafayette</title>
+    <ns>0</ns>
+    <id>264300</id>
+    <revision>
+      <id>637255</id>
+      <parentid>630154</parentid>
+      <timestamp>2026-02-13T21:29:42Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637255</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="715" sha1="gtwx9xnf3rnpi6vor2szb923xfwbggl" xml:space="preserve">{{Location
+| Name=West Lafayette
+| Guid=3035-8255
+| Deck=A city in Indiana and the home of Purdue University.
+| Characters=
+| Concepts=Concepts/Purdue_Boilermakers
+| Objects=
+| Locations=Locations/Indiana,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614421-4213691680-Aeria.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614421-4213691680-Aeria.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_super,scale_small,scale_medium,square_avatar,square_tiny,square_mini,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+A city in Indiana and the home of Purdue University.</text>
+      <sha1>gtwx9xnf3rnpi6vor2szb923xfwbggl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/West Point</title>
+    <ns>0</ns>
+    <id>264238</id>
+    <revision>
+      <id>637193</id>
+      <parentid>630092</parentid>
+      <timestamp>2026-02-13T21:28:59Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637193</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="921" sha1="g0xjnx8m23xz2gpgvmefmkgy8y7cf8w" xml:space="preserve">{{Location
+| Name=West Point
+| Guid=3035-8193
+| Deck=West Point is the oldest continuously occupied military base in the United States of America and is home to the United States Military Academy.
+| Characters=
+| Concepts=Concepts/Army_Black_Knights,Concepts/United_States_Army
+| Objects=
+| Locations=Locations/New_York,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614054-1314963706-west-.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614054-1314963706-west-.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_small,square_tiny,square_medium,square_small,scale_super,square_avatar,scale_medium,square_mini,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+West Point is the oldest continuously occupied military base in the United States of America and is home to the United States Military Academy.</text>
+      <sha1>g0xjnx8m23xz2gpgvmefmkgy8y7cf8w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Westwall</title>
+    <ns>0</ns>
+    <id>264197</id>
+    <revision>
+      <id>264654</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264654</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="164" sha1="hf0gaqsn2zq1k6idm7mzswyshm0zdgi" xml:space="preserve">{{Location
+| Name=Westwall
+| Guid=3035-8151
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>hf0gaqsn2zq1k6idm7mzswyshm0zdgi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Wilkes Barre</title>
+    <ns>0</ns>
+    <id>264168</id>
+    <revision>
+      <id>264625</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264625</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="168" sha1="tiucopn1xo0egrjmfmqde3aaxwtsf5o" xml:space="preserve">{{Location
+| Name=Wilkes-Barre
+| Guid=3035-8122
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>tiucopn1xo0egrjmfmqde3aaxwtsf5o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Winston Salem</title>
+    <ns>0</ns>
+    <id>264322</id>
+    <revision>
+      <id>637277</id>
+      <parentid>630176</parentid>
+      <timestamp>2026-02-13T21:29:57Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637277</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="784" sha1="suddsjk94eylwbqgsffghvv74hpl6b8" xml:space="preserve">{{Location
+| Name=Winston-Salem
+| Guid=3035-8278
+| Deck=A city in North Carolina and the home of Wake Forest University.
+| Characters=
+| Concepts=Concepts/Wake_Forest_Demon_Deacons
+| Objects=
+| Locations=Locations/North_Carolina,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614441-4617935672-29149.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614441-4617935672-29149.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,square_small,square_avatar,square_medium,square_tiny,scale_medium,square_mini,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+A city in North Carolina and the home of Wake Forest University.</text>
+      <sha1>suddsjk94eylwbqgsffghvv74hpl6b8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Wu Shi Academy</title>
+    <ns>0</ns>
+    <id>264149</id>
+    <revision>
+      <id>637147</id>
+      <parentid>630046</parentid>
+      <timestamp>2026-02-13T21:28:26Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637147</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1132" sha1="bnqympg6sc7ewlwwirnyzu70065xnvo" xml:space="preserve">{{Location
+| Name=Wu Shi Academy
+| Guid=3035-8103
+| Deck=The training grounds for Shaolin monks.
+| Characters=Characters/Bob_51644,Characters/Kung_Lao,Characters/Liu_Kang,Characters/Raiden
+| Concepts=Concepts/Hand_to_Hand_Combat,Concepts/Monks,Concepts/Trainer
+| Objects=
+| Locations=Locations/Earth,Locations/The_Tea_House
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3499468-8857653309-F5HkcyiaIAAlx9e.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3499468-8857653309-F5HkcyiaIAAlx9e.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_medium,square_tiny,square_mini,scale_large,scale_super,square_avatar,screen_medium,scale_small,scale_tiny,screen_kubrick_wide,scale_avatar,screen_kubrick","caption":null},"background":{"file":"3499468-8857653309-F5HkcyiaIAAlx9e.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_medium,square_tiny,square_mini,scale_large,scale_super,square_avatar,screen_medium,scale_small,scale_tiny,screen_kubrick_wide,scale_avatar,screen_kubrick","caption":null}}' /&gt;
+The training grounds for Shaolin monks.</text>
+      <sha1>bnqympg6sc7ewlwwirnyzu70065xnvo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Wyrms Crossing</title>
+    <ns>0</ns>
+    <id>264208</id>
+    <revision>
+      <id>264665</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264665</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="171" sha1="lw4opskbta2lht86zl5m7xohcbepqbw" xml:space="preserve">{{Location
+| Name=Wyrm's Crossing
+| Guid=3035-8162
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>lw4opskbta2lht86zl5m7xohcbepqbw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Ying Fortress</title>
+    <ns>0</ns>
+    <id>264150</id>
+    <revision>
+      <id>637148</id>
+      <parentid>630047</parentid>
+      <timestamp>2026-02-13T21:28:27Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637148</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1056" sha1="66o1873ju1j28xjw9foeehn0cq5s2s0" xml:space="preserve">{{Location
+| Name=Ying Fortress
+| Guid=3035-8104
+| Deck=The Ying dynasty's long lost treasures lie within this snow covered fortress.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Treasure_Chamber
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3500422-4456354077-F5Wu0iyagAAYIWV.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3500422-4456354077-F5Wu0iyagAAYIWV.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_medium,square_medium,square_small,scale_super,square_avatar,screen_medium,scale_small,screen_kubrick_wide,screen_kubrick,square_tiny,square_mini,scale_large,scale_tiny,scale_avatar","caption":null},"background":{"file":"3500422-4456354077-F5Wu0iyagAAYIWV.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_medium,square_medium,square_small,scale_super,square_avatar,screen_medium,scale_small,screen_kubrick_wide,screen_kubrick,square_tiny,square_mini,scale_large,scale_tiny,scale_avatar","caption":null}}' /&gt;
+The Ying dynasty's long lost treasures lie within this snow covered fortress.</text>
+      <sha1>66o1873ju1j28xjw9foeehn0cq5s2s0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Yosemite National Park</title>
+    <ns>0</ns>
+    <id>264405</id>
+    <revision>
+      <id>637316</id>
+      <parentid>630215</parentid>
+      <timestamp>2026-02-13T21:30:24Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637316</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1031" sha1="9gmj44t3qvlyew4v4b79usd29apy0lg" xml:space="preserve">{{Location
+| Name=Yosemite National Park
+| Guid=3035-8361
+| Deck=Yosemite is a national park in Central California.
+| Characters=Characters/Aloy
+| Concepts=
+| Objects=
+| Locations=Locations/California,Locations/Earth,Locations/Forest,Locations/Mountains,Locations/North_America,Locations/River,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3732379-yosemite-national-park-lodging-and-activities-california-united-states-showcasing-a-picturesque-natural-landscape.jpeg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3732379-yosemite-national-park-lodging-and-activities-california-united-states-showcasing-a-picturesque-natural-landscape.jpeg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_medium,scale_medium,scale_super,square_avatar,square_small,scale_small,square_tiny,square_mini,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+Yosemite is a national park in Central California.</text>
+      <sha1>9gmj44t3qvlyew4v4b79usd29apy0lg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Ypsilanti</title>
+    <ns>0</ns>
+    <id>264253</id>
+    <revision>
+      <id>1007788</id>
+      <parentid>637208</parentid>
+      <timestamp>2026-07-19T18:11:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007788</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="775" sha1="jwstyr9iop1ugukqtk70fi7lcpr6pr8" xml:space="preserve">{{Location
+| Name=Ypsilanti
+| Guid=3035-8208
+| Deck=A city in Michigan and the home of East Michigan University.
+| Characters=
+| Concepts=Concepts/Eastern_Michigan_Eagles
+| Objects=
+| Locations=Locations/Michigan,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614332-screenshot2024-08-18at11.02.28%E2%80%AFam.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614332-screenshot2024-08-18at11.02.28\u202fam.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_super,square_medium,square_small,scale_medium,square_tiny,scale_small,square_avatar,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":""},"background":[]}' /&gt;
+A city in Michigan and the home of East Michigan University.</text>
+      <sha1>jwstyr9iop1ugukqtk70fi7lcpr6pr8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Zeta Halo</title>
+    <ns>0</ns>
+    <id>263990</id>
+    <revision>
+      <id>637069</id>
+      <parentid>629968</parentid>
+      <timestamp>2026-02-13T21:27:31Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637069</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1419" sha1="e0vv7k2upbkg2959xtlldfylphctu6v" xml:space="preserve">{{Location
+| Name=Zeta Halo
+| Guid=3035-7943
+| Deck=Installation 07, also known as Zeta Halo, originally known as Gyre 11 by the Forerunners, and Oth Koronn by the Banished, is one of the seven rings in the Forerunners' Halo Array, And is the main setting of Halo Infinite.
+| Characters=Characters/Atriox,Characters/Cortana,Characters/Escharum,Characters/Harbinger_50174,Characters/Jega_Rdomnai,Characters/Master_Chief
+| Concepts=Concepts/Ambient_Wildlife,Concepts/Brutes,Concepts/Covenant_Elite,Concepts/Covenant_Grunt,Concepts/Exploration,Concepts/Hunters,Concepts/Jackals,Concepts/Open_World,Concepts/Sentinel,Concepts/The_Banished,Concepts/United_Nations_Space_Command
+| Objects=
+| Locations=Locations/Alpha_Halo,Locations/Delta_Halo,Locations/Gamma_Halo,Locations/Halo
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3439633-8309897588-HINF_.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3439633-8309897588-HINF_.png","path":"52\/520822\/","mime":"image\/png","sizes":"scale_medium,square_medium,square_avatar,square_small,scale_super,scale_small,square_mini,square_tiny,screen_medium,scale_large,scale_avatar,screen_kubrick","caption":null},"background":[]}' /&gt;
+Installation 07, also known as Zeta Halo, originally known as Gyre 11 by the Forerunners, and Oth Koronn by the Banished, is one of the seven rings in the Forerunners' Halo Array, And is the main setting of Halo Infinite.</text>
+      <sha1>e0vv7k2upbkg2959xtlldfylphctu6v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Zhejiang International Circuit</title>
+    <ns>0</ns>
+    <id>264060</id>
+    <revision>
+      <id>264517</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264517</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="268" sha1="ljtfq1rjkybnyhu3c643uadrequqipx" xml:space="preserve">{{Location
+| Name=Zhejiang International Circuit
+| Guid=3035-8014
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/China
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+'''Zhejiang Circuit '''is a motorsport circuit in Shaoxing, China.
+</text>
+      <sha1>ljtfq1rjkybnyhu3c643uadrequqipx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/! Switch</title>
+    <ns>0</ns>
+    <id>464492</id>
+    <revision>
+      <id>738689</id>
+      <parentid>738588</parentid>
+      <timestamp>2026-02-25T20:17:31Z</timestamp>
+      <contributor>
+        <username>Frobie</username>
+        <id>300</id>
+      </contributor>
+      <comment>adding deck and description</comment>
+      <origin>738689</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1612" sha1="hgtftgfkben8z6cj8fl3u9piyz5h2j8" xml:space="preserve">{{Object
+|Name=! Switch
+|Guid=3055-6312
+|Aliases=Exclamation Switch
+|Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/2833333-4430252601-Yello.png
+|Deck=An interactive element found throughout the Mario series, the ! Switch must be jumped on or hit to unlock paths and reveal hidden secrets in the surrounding environment.
+|Characters=Characters/Luigi, Characters/Mario, Characters/Wario, Characters/Yoshi
+|Games=Games/Mario_Party_6, Games/Mario_Pinball_Land, Games/New_Super_Mario_Bros, Games/New_Super_Mario_Bros_2, Games/New_Super_Mario_Bros_U, Games/New_Super_Mario_Bros_Wii, Games/Paper_Mario_The_Thousand_Year_Door, Games/Super_Mario_64, Games/Super_Mario_64_DS, Games/Super_Mario_All_Stars_And_Super_Mario_World, Games/Super_Mario_Bros_3_Super_Mario_Advance_4, Games/Super_Mario_World, Games/Super_Mario_World_2_Yoshis_Island, Games/Super_Mario_World_Super_Mario_Advance_2, Games/Super_Paper_Mario, Games/Wario_Land_4, Games/Yoshis_Island_DS, Games/Yoshis_Island_Super_Mario_Advance_3, Games/Yoshis_Woolly_World
+}}
+&lt;div id='imageData' data-json='{"infobox":{"file":"2833333-4430252601-Yello.png","path":"16\/164924\/","mime":"image\/png","sizes":"square_tiny,square_medium,scale_small,square_mini,square_avatar,square_small,scale_super,screen_medium,scale_avatar,scale_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+
+The ! Switch block was first introduced in the 1990 release of [[Games/Super Mario World|Super Mario World]]. Activating one could spawn items, remove walls to access coins, or solidify platforms marked by a dotted outline to traverse to new areas.</text>
+      <sha1>hgtftgfkben8z6cj8fl3u9piyz5h2j8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/2006 Ford GT</title>
+    <ns>0</ns>
+    <id>464049</id>
+    <revision>
+      <id>729145</id>
+      <parentid>464637</parentid>
+      <timestamp>2026-02-14T21:32:07Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>729145</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="739" sha1="63d33nepp5378l2ytbqitam65la33w6" xml:space="preserve">{{Object
+| Name=2006 Ford GT
+| Guid=3055-7461
+| Characters=
+| Concepts=Concepts/Ford_Motor_Company,Concepts/Licensed_Cars
+| Franchises=
+| Games=Games/Asphalt_Urban_GT,Games/Project_Gotham_Racing_4,Games/Test_Drive_Unlimited_Solar_Crown
+| Locations=
+| People=
+| Objects=Objects/Car,Objects/Sports_Car
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3622182-3992138029-2006-ford-gt.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3622182-3992138029-2006-ford-gt.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"square_medium,square_avatar,scale_super,square_small,scale_small,scale_medium,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;</text>
+      <sha1>63d33nepp5378l2ytbqitam65la33w6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Objects/3D Printer</title>
+    <ns>0</ns>
+    <id>464295</id>
+    <revision>
+      <id>464883</id>
+      <timestamp>2025-12-08T07:40:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>464883</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="346" sha1="eq1au9dtwef5dpe4vz57o7lsakg8vpv" xml:space="preserve">{{Object
+| Name=3D Printer
+| Guid=3055-7712
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Hitman,Games/Resident_Evil_Code_Veronica,Games/Revenge_of_the_Savage_Planet,Games/The_Callisto_Protocol,Games/Voices_of_the_Void
+| Locations=
+| People=
+| Objects=Objects/Printer
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>eq1au9dtwef5dpe4vz57o7lsakg8vpv</sha1>
+    </revision>
+  </page>
+</mediawiki>

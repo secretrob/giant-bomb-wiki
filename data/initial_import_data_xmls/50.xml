@@ -1,0 +1,6407 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Games/Sidewinder 1986/Credits</title>
+    <ns>0</ns>
+    <id>249683</id>
+    <revision>
+      <id>250117</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250117</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="218" sha1="6ecz4p8ukjsonkbfv1xbsituz6p9i0u" xml:space="preserve">{{Credits
+|ParentPage=Games/Sidewinder_1986
+}}
+{{CreditSubobject
+|Game=Games/Sidewinder_1986
+|Release=
+|Dlc=
+|Person=People/Orall_Cornelius
+|Company=
+|Department=Audio
+|Role=Atari 8-bit music by (as Oral Cornelius)
+}}
+</text>
+      <sha1>6ecz4p8ukjsonkbfv1xbsituz6p9i0u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Signet City</title>
+    <ns>0</ns>
+    <id>624790</id>
+    <revision>
+      <id>974816</id>
+      <parentid>974525</parentid>
+      <timestamp>2026-06-08T23:51:29Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974816</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="629" sha1="lie4tciurh6qza5i6qh16es6nnhvtlp" xml:space="preserve">{{Game
+|Guid=43d2c32d-511b-4224-81c2-064f989a6d4d
+|Name=Signet City
+|Image=https://giantbomb.com/api/media/file/media--file--awgeawegv-06-08-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--ngrsserg-06-08-2026.jpg
+|Deck=A first-person, monochromatic RPG from the creator of Citizen Sleeper.
+|ReleaseDateType=None
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Black and White, Concepts/First Person Perspective, Concepts/Polygonal 3D, Concepts/Steam
+|Developers=Companies/Jump Over The Age
+|Genres=Genres/Role Playing
+|Platforms=Platforms/PC
+|Publishers=Companies/Fellow Traveller
+}}</text>
+      <sha1>lie4tciurh6qza5i6qh16es6nnhvtlp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Signy &amp; Mino: Against All Gods</title>
+    <ns>0</ns>
+    <id>624634</id>
+    <revision>
+      <id>974165</id>
+      <parentid>974164</parentid>
+      <timestamp>2026-06-02T11:47:26Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974165</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="659" sha1="0z1qm0gg0t9h8gbvvnk845o70c7dvni" xml:space="preserve">{{Game
+|Guid=b8dd2db2-96f9-4cf6-bdac-59ba2240899b
+|Name=Signy &amp; Mino: Against All Gods
+|Image=https://giantbomb.com/api/media/file/media--file--game-page-box-art_signy-mino-against-all-gods-inits-320x480-06-02-2026.jpg
+|Deck=Juggle enemies in this combo-driven action RPG.
+|ReleaseDateType=Full
+|ReleaseDate=2026-07-30
+|Concepts=Concepts/Digital Distribution, Concepts/Indie, Concepts/Steam, Concepts/Female Protagonists, Concepts/Combo, Concepts/Steam Achievements, Concepts/Steam Cloud
+|Developers=Companies/AN Productions
+|Genres=Genres/Action, Genres/Role Playing
+|Platforms=Platforms/PC
+|Publishers=Companies/Armor Games Studios
+|Themes=Themes/Fantasy
+}}</text>
+      <sha1>0z1qm0gg0t9h8gbvvnk845o70c7dvni</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Simon Says 33456</title>
+    <ns>0</ns>
+    <id>464938</id>
+    <revision>
+      <id>796889</id>
+      <parentid>749203</parentid>
+      <timestamp>2026-03-12T06:28:26Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796889</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="944" sha1="5nwwet125vqd4d5yz7wanj1slwuejew" xml:space="preserve">{{Game
+| Name=Simon Says
+| Guid=3030-33456
+| Deck=Simon Says is a game released on the Magnavox Odyssey
+| ReleaseDate=1972-05-24
+| Characters=
+| Concepts=Concepts/Launch_Title,Concepts/Musicless,Concepts/Screen_Overlay,Concepts/Silent_Game
+| Developers=Companies/Magnavox
+| Franchises=
+| Genres=Genres/Educational
+| Locations=
+| Objects=
+| Platforms=Platforms/Odyssey
+| Publishers=Companies/Magnavox
+| Games=
+| Themes=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/46/1661783-simonsays.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"1661783-simonsays.jpg","path":"0\/46\/","mime":"image\/jpeg","sizes":"square_avatar,scale_avatar,scale_small,square_mini,scale_medium,screen_medium,scale_large,square_small,square_tiny,square_medium,scale_super,scale_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+The game was included with the console, uses cartridge #2 and includes two screen overlays and 28 body part cards.</text>
+      <sha1>5nwwet125vqd4d5yz7wanj1slwuejew</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Skate Sterre</title>
+    <ns>0</ns>
+    <id>624934</id>
+    <revision>
+      <id>974911</id>
+      <parentid>974909</parentid>
+      <timestamp>2026-06-09T20:56:54Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974911</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="573" sha1="l0mr1ds4gum25mrq3crwagxclhxao7k" xml:space="preserve">{{Game
+|Guid=46274241-6801-4799-8a5b-fd976d55b794
+|Name=Skatesterre
+|Image=https://giantbomb.com/api/media/file/media--file--zvfrtjt-06-09-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--asdfvasdfew-06-09-2026.jpg
+|Deck=A skateboarding game in the style of 2000s-era games and starring Sterre Meijer.
+|ReleaseDateType=Year
+|YearPart=2026
+|Concepts=Concepts/Digital Distribution, Concepts/Steam
+|Developers=Companies/Goon Squad
+|Genres=Genres/Skateboarding
+|Objects=Objects/Skateboard
+|Platforms=Platforms/PC
+|Publishers=Companies/Headup Games
+}}</text>
+      <sha1>l0mr1ds4gum25mrq3crwagxclhxao7k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Skate or Die 8819/Credits</title>
+    <ns>0</ns>
+    <id>464765</id>
+    <revision>
+      <id>744646</id>
+      <timestamp>2026-03-04T21:20:20Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>744646</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1271" sha1="0lf6v3iy213595zisxn9w1ewuneu0i7" xml:space="preserve">{{Credits
+|ParentPage=Games/Skate_or_Die_8819
+}}
+{{CreditSubobject
+|Game=Games/Skate_or_Die_8819
+|Release=
+|Dlc=
+|Person=People/Rob_Hubbard
+|Company=
+|Department=Audio
+|Role=C64 music / PC-DOS music
+}}
+{{CreditSubobject
+|Game=Games/Skate_or_Die_8819
+|Release=
+|Dlc=
+|Person=People/Frank_Wing
+|Company=
+|Department=Visual Arts
+|Role=C64 artist and screen photography / PC-DOS cover photos and cover art
+}}
+{{CreditSubobject
+|Game=Games/Skate_or_Die_8819
+|Release=
+|Dlc=
+|Person=People/David_Maynard
+|Company=
+|Department=Programming
+|Role=C64 technical support / PC-DOS support
+}}
+{{CreditSubobject
+|Game=Games/Skate_or_Die_8819
+|Release=
+|Dlc=
+|Person=People/Happy_Keller
+|Company=
+|Department=Production
+|Role=C64 assistant game production /
+PC assistant game production
+}}
+{{CreditSubobject
+|Game=Games/Skate_or_Die_8819
+|Release=
+|Dlc=
+|Person=People/Kyle_Granger
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Skate_or_Die_8819
+|Release=
+|Dlc=
+|Person=People/Michael_Kosaka
+|Company=
+|Department=Design
+|Role=Apple IIGS game by / C64 software graphics / PC-DOS graphics, 3D programming and artwork
+}}
+{{CreditSubobject
+|Game=Games/Skate_or_Die_8819
+|Release=
+|Dlc=
+|Person=People/Richard_Cheek
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>0lf6v3iy213595zisxn9w1ewuneu0i7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Skull Island Rise of Kong/Credits</title>
+    <ns>0</ns>
+    <id>251261</id>
+    <revision>
+      <id>251707</id>
+      <timestamp>2025-12-08T07:32:13Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251707</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="381" sha1="ph9l5pojasbfhlnf57ojwjsgh12s5fd" xml:space="preserve">{{Credits
+|ParentPage=Games/Skull_Island_Rise_of_Kong
+}}
+{{CreditSubobject
+|Game=Games/Skull_Island_Rise_of_Kong
+|Release=
+|Dlc=
+|Person=People/Dave_Fennoy
+|Company=
+|Department=Voice Actor
+|Role=Kong/Young Kong
+}}
+{{CreditSubobject
+|Game=Games/Skull_Island_Rise_of_Kong
+|Release=
+|Dlc=
+|Person=People/Misty_Lee
+|Company=
+|Department=Voice Actor
+|Role=Baby Kong/Gaw/Storyteller
+}}
+</text>
+      <sha1>ph9l5pojasbfhlnf57ojwjsgh12s5fd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Slam Dunk 14736/Credits</title>
+    <ns>0</ns>
+    <id>464835</id>
+    <revision>
+      <id>745895</id>
+      <timestamp>2026-03-04T21:40:49Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>745895</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="186" sha1="tgd6agp38whzjtyg9quwj90tfhooybt" xml:space="preserve">{{Credits
+|ParentPage=Games/Slam_Dunk_14736
+}}
+{{CreditSubobject
+|Game=Games/Slam_Dunk_14736
+|Release=
+|Dlc=
+|Person=People/Jeff_Spangenberg
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>tgd6agp38whzjtyg9quwj90tfhooybt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Slash Zero</title>
+    <ns>0</ns>
+    <id>624777</id>
+    <revision>
+      <id>974801</id>
+      <parentid>974799</parentid>
+      <timestamp>2026-06-08T19:13:01Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974801</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="752" sha1="0gr1ly0czfq4iux5t7gr07nstpcdsww" xml:space="preserve">{{Game
+|Guid=f8c78051-8ed3-45f8-a480-788bcce4df93
+|Name=SlashZero
+|Image=https://giantbomb.com/api/media/file/media--file--slashzero-1cjyx-06-08-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--ss_530eb7ad40a8f57b73f53c7fe4a0c42be03cedba-1920x1080-06-08-2026.jpg
+|Deck=A cyberpunk, side-scrolling, roguelite action platformer from Streetlamp Studio.
+|ReleaseDateType=None
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/2 5D, Concepts/Side Scrolling, Concepts/Roguelike, Concepts/Female Protagonists, Concepts/Steam, Concepts/Steam Cloud
+|Developers=Companies/Streetlamp Studio
+|Genres=Genres/Action, Genres/Platformer
+|Platforms=Platforms/PC
+|Publishers=Companies/Skystone Games
+|Themes=Themes/Cyberpunk
+}}</text>
+      <sha1>0gr1ly0czfq4iux5t7gr07nstpcdsww</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Slayblade</title>
+    <ns>0</ns>
+    <id>624966</id>
+    <revision>
+      <id>974704</id>
+      <timestamp>2026-06-08T01:21:46Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=e4380f20-9a85-4fc1-9a5c-1d844655bc3d |Name=Slayblade |ReleaseDateType=None }}"</comment>
+      <origin>974704</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="90" sha1="kdlft1op4g10zb3m9g9gnmoyjrfsv5g" xml:space="preserve">{{Game
+|Guid=e4380f20-9a85-4fc1-9a5c-1d844655bc3d
+|Name=Slayblade
+|ReleaseDateType=None
+}}</text>
+      <sha1>kdlft1op4g10zb3m9g9gnmoyjrfsv5g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Sludgineers</title>
+    <ns>0</ns>
+    <id>624998</id>
+    <revision>
+      <id>974736</id>
+      <timestamp>2026-06-08T01:36:58Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=2e32fc9c-cb5e-4c78-9e29-69b820790b60 |Name=Sludgineers |ReleaseDateType=None }}"</comment>
+      <origin>974736</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="92" sha1="n1p4us8poj6rf48zno6etq6ib23y96r" xml:space="preserve">{{Game
+|Guid=2e32fc9c-cb5e-4c78-9e29-69b820790b60
+|Name=Sludgineers
+|ReleaseDateType=None
+}}</text>
+      <sha1>n1p4us8poj6rf48zno6etq6ib23y96r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Slyder Adventures/Credits</title>
+    <ns>0</ns>
+    <id>256002</id>
+    <revision>
+      <id>256457</id>
+      <timestamp>2025-12-08T07:32:24Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>256457</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1601" sha1="isdbqjivzg217j4eb2529wk1ya8nusx" xml:space="preserve">{{Credits
+|ParentPage=Games/Slyder_Adventures
+}}
+{{CreditSubobject
+|Game=Games/Slyder_Adventures
+|Release=
+|Dlc=
+|Person=People/Andy_Megowan
+|Company=
+|Department=Unclassified
+|Role=Game Design
+}}
+{{CreditSubobject
+|Game=Games/Slyder_Adventures
+|Release=
+|Dlc=
+|Person=People/Andrew_Lum
+|Company=
+|Department=Unclassified
+|Role=Game Design, Level Design, Quality Assurance
+}}
+{{CreditSubobject
+|Game=Games/Slyder_Adventures
+|Release=
+|Dlc=
+|Person=People/Brian_Lynch
+|Company=
+|Department=Unclassified
+|Role=Game Design, Level Design, Quality Assurance
+}}
+{{CreditSubobject
+|Game=Games/Slyder_Adventures
+|Release=
+|Dlc=
+|Person=People/Darek_Rusin
+|Company=
+|Department=Unclassified
+|Role=Programmer
+}}
+{{CreditSubobject
+|Game=Games/Slyder_Adventures
+|Release=
+|Dlc=
+|Person=People/Adam_Bajorek
+|Company=
+|Department=Unclassified
+|Role=Programmer
+}}
+{{CreditSubobject
+|Game=Games/Slyder_Adventures
+|Release=
+|Dlc=
+|Person=People/Israel_Evans
+|Company=
+|Department=Unclassified
+|Role=Art Director
+}}
+{{CreditSubobject
+|Game=Games/Slyder_Adventures
+|Release=
+|Dlc=
+|Person=People/Adam_Drzewicki
+|Company=
+|Department=Unclassified
+|Role=Artist
+}}
+{{CreditSubobject
+|Game=Games/Slyder_Adventures
+|Release=
+|Dlc=
+|Person=People/Daniel_Bernstein
+|Company=
+|Department=Unclassified
+|Role=Sound and Music
+}}
+{{CreditSubobject
+|Game=Games/Slyder_Adventures
+|Release=
+|Dlc=
+|Person=People/Josh_Lester
+|Company=
+|Department=Unclassified
+|Role=Special Thanks!
+}}
+{{CreditSubobject
+|Game=Games/Slyder_Adventures
+|Release=
+|Dlc=
+|Person=People/Evan_Lester
+|Company=
+|Department=Unclassified
+|Role=Special Thanks!
+}}
+</text>
+      <sha1>isdbqjivzg217j4eb2529wk1ya8nusx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Snowball 12287/Credits</title>
+    <ns>0</ns>
+    <id>464817</id>
+    <revision>
+      <id>745400</id>
+      <timestamp>2026-03-04T21:33:08Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>745400</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="320" sha1="8d3ng0nce3l6joelz3pghh76vm4p7sv" xml:space="preserve">{{Credits
+|ParentPage=Games/Snowball_12287
+}}
+{{CreditSubobject
+|Game=Games/Snowball_12287
+|Release=
+|Dlc=
+|Person=People/Peter_Austin_191346
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Snowball_12287
+|Release=
+|Dlc=
+|Person=People/Mike_Austin
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>8d3ng0nce3l6joelz3pghh76vm4p7sv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/So I'm a Spider, So What? Ruler of the Labyrinth</title>
+    <ns>0</ns>
+    <id>624677</id>
+    <revision>
+      <id>974266</id>
+      <timestamp>2026-06-03T09:47:33Z</timestamp>
+      <contributor>
+        <username>G123ctw</username>
+        <id>4170</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=e9753e16-cf49-4d15-9a52-08ded4b677a3 |Name=So I'm a Spider, So What? Ruler of the Labyrinth |Aliases=Spider RotL |Image=Kumoicon.png |ReleaseDateType=Full |ReleaseDate=2024-10-23 |Concepts=Concepts/RPG Elements, Concepts/Survival, Concepts/Isekai |Developers=Companies/CTW |Genres=Genres/MMORPG |Locations=Locations/Labyrinth Zone, Locations/Dungeon |Objects=Objects/G Spider |Platforms=Platforms/Browser |Publishers=Companies/CTW }} ''So I'm a Spider, So What?..."</comment>
+      <origin>974266</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="948" sha1="qukgd9zl4gy6vj1rcy8l4jb55v19tbc" xml:space="preserve">{{Game
+|Guid=e9753e16-cf49-4d15-9a52-08ded4b677a3
+|Name=So I'm a Spider, So What? Ruler of the Labyrinth
+|Aliases=Spider RotL
+|Image=Kumoicon.png
+|ReleaseDateType=Full
+|ReleaseDate=2024-10-23
+|Concepts=Concepts/RPG Elements, Concepts/Survival, Concepts/Isekai
+|Developers=Companies/CTW
+|Genres=Genres/MMORPG
+|Locations=Locations/Labyrinth Zone, Locations/Dungeon
+|Objects=Objects/G Spider
+|Platforms=Platforms/Browser
+|Publishers=Companies/CTW
+}}
+''So I'm a Spider, So What? Ruler of the Labyrinth'' is a free-to-play dungeon-clearing role-playing game developed for HTML5 web browsers and distributed worldwide on the [https://g123.jp/?lang=en G123] platform operated by CTW, Inc. The title is the first video game adaptation of the ''So I'm a Spider, So What?'' light novel and anime series, written by Okina Baba and illustrated by Tsukasa Kiryu, with the original light novel series published by KADOKAWA. The game launched on October 23, 2024.</text>
+      <sha1>qukgd9zl4gy6vj1rcy8l4jb55v19tbc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Solar War 1979/Credits</title>
+    <ns>0</ns>
+    <id>250033</id>
+    <revision>
+      <id>250471</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250471</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="212" sha1="011489n78782d156mbdkexgn9q389ft" xml:space="preserve">{{Credits
+|ParentPage=Games/Solar_War_1979
+}}
+{{CreditSubobject
+|Game=Games/Solar_War_1979
+|Release=
+|Dlc=
+|Person=People/Mike_Albaugh
+|Company=
+|Department=Programming
+|Role=Arcade programmed by (uncredited)
+}}
+</text>
+      <sha1>011489n78782d156mbdkexgn9q389ft</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Solarpunk</title>
+    <ns>0</ns>
+    <id>624908</id>
+    <revision>
+      <id>974645</id>
+      <timestamp>2026-06-08T00:32:55Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=76ea5ac6-7560-4fa5-a4a1-6a0ad3eec3ed |Name=Solarpunk |ReleaseDateType=None }}"</comment>
+      <origin>974645</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="90" sha1="a8wfklk0hi7l48ibcnl10pr3xbbn8n3" xml:space="preserve">{{Game
+|Guid=76ea5ac6-7560-4fa5-a4a1-6a0ad3eec3ed
+|Name=Solarpunk
+|ReleaseDateType=None
+}}</text>
+      <sha1>a8wfklk0hi7l48ibcnl10pr3xbbn8n3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Songs of Silence/Credits</title>
+    <ns>0</ns>
+    <id>252748</id>
+    <revision>
+      <id>253198</id>
+      <timestamp>2025-12-08T07:32:16Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>253198</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="184" sha1="knsms4pq78k6vzr70d9g28l4uvbp6xf" xml:space="preserve">{{Credits
+|ParentPage=Games/Songs_of_Silence
+}}
+{{CreditSubobject
+|Game=Games/Songs_of_Silence
+|Release=
+|Dlc=
+|Person=People/Kezia_Burrows
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+</text>
+      <sha1>knsms4pq78k6vzr70d9g28l4uvbp6xf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Sonic Dream Team/Credits</title>
+    <ns>0</ns>
+    <id>251518</id>
+    <revision>
+      <id>251965</id>
+      <timestamp>2025-12-08T07:32:14Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251965</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="467" sha1="551j6e4u1lfvhq73wluzesy9mgb1d91" xml:space="preserve">{{Credits
+|ParentPage=Games/Sonic_Dream_Team
+}}
+{{CreditSubobject
+|Game=Games/Sonic_Dream_Team
+|Release=
+|Dlc=
+|Person=People/Roger_Craig_Smith
+|Company=
+|Department=Voice Actor
+|Role=Sonic
+}}
+{{CreditSubobject
+|Game=Games/Sonic_Dream_Team
+|Release=
+|Dlc=
+|Person=People/Mike_Pollock
+|Company=
+|Department=Voice Actor
+|Role=Eggman
+}}
+{{CreditSubobject
+|Game=Games/Sonic_Dream_Team
+|Release=
+|Dlc=
+|Person=People/Ian_Flynn
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>551j6e4u1lfvhq73wluzesy9mgb1d91</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Sonic Pico Park</title>
+    <ns>0</ns>
+    <id>624720</id>
+    <revision>
+      <id>974412</id>
+      <parentid>974348</parentid>
+      <timestamp>2026-06-06T03:39:43Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974412</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="651" sha1="6zcknp83z7k7v0bmctdup4wuxamrd2i" xml:space="preserve">{{Game
+|Guid=2ec4895d-2b6f-4efe-9504-075a33d13da0
+|Name=Sonic Pico Park
+|Image=https://giantbomb.com/api/media/file/media--file--sonic-pico-park-06-06-2026.webp
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--sonic-pico-park-06-06-2026.webp
+|Deck=Sonic and the crew join the smash-hit cooperative puzzle action game.
+|ReleaseDateType=None
+|Characters=Characters/Sonic the Hedgehog, Characters/Knuckles, Characters/Amy Rose, Characters/Tails
+|Concepts=Concepts/Digital Distribution, Concepts/Cooperative Play
+|Developers=Companies/TECOPARK
+|Franchises=Franchises/Sonic the Hedgehog
+|Genres=Genres/Puzzle
+|Publishers=Companies/Sega
+}}</text>
+      <sha1>6zcknp83z7k7v0bmctdup4wuxamrd2i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Sonic Racing CrossWorlds/Credits</title>
+    <ns>0</ns>
+    <id>254163</id>
+    <revision>
+      <id>254614</id>
+      <timestamp>2025-12-08T07:32:20Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254614</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="359" sha1="ldoj75d6bx31zmv7s9r6vcfvl7adoc9" xml:space="preserve">{{Credits
+|ParentPage=Games/Sonic_Racing_CrossWorlds
+}}
+{{CreditSubobject
+|Game=Games/Sonic_Racing_CrossWorlds
+|Release=
+|Dlc=
+|Person=People/Roger_Craig_Smith
+|Company=
+|Department=Voice Actor
+|Role=Sonic
+}}
+{{CreditSubobject
+|Game=Games/Sonic_Racing_CrossWorlds
+|Release=
+|Dlc=
+|Person=People/Kirk_Thornton
+|Company=
+|Department=Voice Actor
+|Role=Shadow
+}}
+</text>
+      <sha1>ldoj75d6bx31zmv7s9r6vcfvl7adoc9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Sonic X Shadow Generations/Credits</title>
+    <ns>0</ns>
+    <id>251848</id>
+    <revision>
+      <id>252296</id>
+      <timestamp>2025-12-08T07:32:15Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>252296</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6824" sha1="cxmum6ksh1cnu7zye3dm6yn9vwm4yeb" xml:space="preserve">{{Credits
+|ParentPage=Games/Sonic_X_Shadow_Generations
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Keanu_Reeves
+|Company=
+|Department=Voice Actor
+|Role=Shadow (movie DLC)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Kirk_Thornton
+|Company=
+|Department=Voice Actor
+|Role=Shadow, Orbot (English)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Roger_Craig_Smith
+|Company=
+|Department=Voice Actor
+|Role=Sonic, Omega (English)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Benjamin_Diskin
+|Company=
+|Department=Voice Actor
+|Role=Black Doom (English)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Ian_Flynn
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Stephanie_Sheh
+|Company=
+|Department=Voice Actor
+|Role=Maria (English)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Mike_Pollock
+|Company=
+|Department=Voice Actor
+|Role=Eggman, Gerald Robotnik (English)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Karen_Strassman
+|Company=
+|Department=Voice Actor
+|Role=Rouge (English)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Colleen_OShaughnessey
+|Company=
+|Department=Voice Actor
+|Role=Tails, Charmy (English)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Cindy_Robinson
+|Company=
+|Department=Voice Actor
+|Role=Amy (English)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Dave_Mitchell
+|Company=
+|Department=Voice Actor
+|Role=Knuckles (English)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Michelle_Ruff
+|Company=
+|Department=Voice Actor
+|Role=Cream (English)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Bryce_Papenbrook
+|Company=
+|Department=Voice Actor
+|Role=Silver (English)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Matthew_Mercer
+|Company=
+|Department=Voice Actor
+|Role=Espio (English)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Erica_Lindbeck
+|Company=
+|Department=Voice Actor
+|Role=Blaze, Omochao (English)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Keith_Silverstein
+|Company=
+|Department=Voice Actor
+|Role=Vector (English)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Kyle_Hebert
+|Company=
+|Department=Voice Actor
+|Role=Big (English)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Wally_Wingert
+|Company=
+|Department=Voice Actor
+|Role=Cubot (English)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Junichi_Kanemaru
+|Company=
+|Department=Voice Actor
+|Role=Sonic , Metal Sonic (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Koji_Yusa
+|Company=
+|Department=Voice Actor
+|Role=Shadow (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Yuri_Shiratori
+|Company=
+|Department=Voice Actor
+|Role=Maria (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Kotaro_Nakamura
+|Company=
+|Department=Voice Actor
+|Role=Eggman, Gerald Robotnik (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Ryuzaburo_Ohtomo
+|Company=
+|Department=Voice Actor
+|Role=Black Doom (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Takayuki_Sakazume
+|Company=
+|Department=Voice Actor
+|Role=Mephiles (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Rumi_Ochiai
+|Company=
+|Department=Voice Actor
+|Role=Rouge (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Ryo_Hirohashi
+|Company=
+|Department=Voice Actor
+|Role=Tails (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Taeko_Kawata
+|Company=
+|Department=Voice Actor
+|Role=Amy (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Nobutoshi_Canna
+|Company=
+|Department=Voice Actor
+|Role=Knuckles (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Sayaka_Aoki
+|Company=
+|Department=Voice Actor
+|Role=Cream (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Daisuke_Ono
+|Company=
+|Department=Voice Actor
+|Role=Silver (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Yuki_Masuda
+|Company=
+|Department=Voice Actor
+|Role=Espio (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Nao_Takamori
+|Company=
+|Department=Voice Actor
+|Role=Blaze (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Kenta_Miyake
+|Company=
+|Department=Voice Actor
+|Role=Vector (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Yoko_Teppouzuka
+|Company=
+|Department=Voice Actor
+|Role=Charmy (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Takashi_Nagasako
+|Company=
+|Department=Voice Actor
+|Role=Big (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Etsuko_Kozakura
+|Company=
+|Department=Voice Actor
+|Role=Omochao (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Taiten_Kusunoki
+|Company=
+|Department=Voice Actor
+|Role=Orbot (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Wataru_Takagi
+|Company=
+|Department=Voice Actor
+|Role=Cubot (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Robbie_Daymond
+|Company=
+|Department=Voice Actor
+|Role=Mephiles (English)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Ray_Chase
+|Company=
+|Department=Voice Actor
+|Role=Metal Sonic (English)
+}}
+{{CreditSubobject
+|Game=Games/Sonic_X_Shadow_Generations
+|Release=
+|Dlc=
+|Person=People/Junichi_Suwabe
+|Company=
+|Department=Voice Actor
+|Role=Shadow missions narrator (Japanese)
+}}
+</text>
+      <sha1>cxmum6ksh1cnu7zye3dm6yn9vwm4yeb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Sonzai</title>
+    <ns>0</ns>
+    <id>624653</id>
+    <revision>
+      <id>974198</id>
+      <parentid>974197</parentid>
+      <timestamp>2026-06-02T14:19:18Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974198</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="724" sha1="ocdaphn0oulncr277nfrwtkmshcdhyk" xml:space="preserve">{{Game
+|Guid=de02b92d-8fea-421f-bea4-3e388eb93658
+|Name=Sonzai
+|Image=https://giantbomb.com/api/media/file/media--file--library_600xandas900_2x-06-02-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--libnadfrary_hero-06-02-2026.jpg
+|Deck=A side-scrolling action RPG about young mages and their relationships.
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/Indie, Concepts/Steam, Concepts/Female Protagonists, Concepts/2D, Concepts/Side Scrolling, Concepts/Social Link, Concepts/Magic
+|Developers=Companies/2 Odd Diodes
+|Genres=Genres/Action, Genres/Role Playing
+|Platforms=Platforms/PC
+|Publishers=Companies/Top Hat Studios Inc, Companies/Shochiku
+|Themes=Themes/Fantasy
+}}</text>
+      <sha1>ocdaphn0oulncr277nfrwtkmshcdhyk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Sorcery 25069/Credits</title>
+    <ns>0</ns>
+    <id>464908</id>
+    <revision>
+      <id>748120</id>
+      <timestamp>2026-03-04T22:14:51Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>748120</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="187" sha1="2ytql0rm7ra18gcvraercrmgxnmlaw5" xml:space="preserve">{{Credits
+|ParentPage=Games/Sorcery_25069
+}}
+{{CreditSubobject
+|Game=Games/Sorcery_25069
+|Release=
+|Dlc=
+|Person=People/Martin_Wheeler
+|Company=
+|Department=Design
+|Role=Original idea
+}}
+</text>
+      <sha1>2ytql0rm7ra18gcvraercrmgxnmlaw5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/South Park Snow Day/Credits</title>
+    <ns>0</ns>
+    <id>250928</id>
+    <revision>
+      <id>251373</id>
+      <timestamp>2025-12-08T07:32:12Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251373</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="326" sha1="tu07h2r46qhkr0rvuc1xji6la89yzxb" xml:space="preserve">{{Credits
+|ParentPage=Games/South_Park_Snow_Day
+}}
+{{CreditSubobject
+|Game=Games/South_Park_Snow_Day
+|Release=
+|Dlc=
+|Person=People/Trey_Parker
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/South_Park_Snow_Day
+|Release=
+|Dlc=
+|Person=People/Matt_Stone
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>tu07h2r46qhkr0rvuc1xji6la89yzxb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Spaced Out II/Credits</title>
+    <ns>0</ns>
+    <id>251738</id>
+    <revision>
+      <id>252186</id>
+      <timestamp>2025-12-08T07:32:14Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>252186</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="837" sha1="6q19aowiiidwicol76vsn3acdzrorh3" xml:space="preserve">{{Credits
+|ParentPage=Games/Spaced_Out_II
+}}
+{{CreditSubobject
+|Game=Games/Spaced_Out_II
+|Release=
+|Dlc=
+|Person=People/Steven_W_Hunt
+|Company=
+|Department=Programming
+|Role=Developer, artist, designer, additional vocal effects
+}}
+{{CreditSubobject
+|Game=Games/Spaced_Out_II
+|Release=
+|Dlc=
+|Person=People/Eden_Sharp
+|Company=
+|Department=Voice Actor
+|Role=System voice/narrator
+}}
+{{CreditSubobject
+|Game=Games/Spaced_Out_II
+|Release=
+|Dlc=
+|Person=People/Ariel_Santana
+|Company=
+|Department=Programming
+|Role=Additional code assistance
+}}
+{{CreditSubobject
+|Game=Games/Spaced_Out_II
+|Release=
+|Dlc=
+|Person=People/Andrea_Demetrio
+|Company=
+|Department=Visual Arts
+|Role=Additional character design details
+}}
+{{CreditSubobject
+|Game=Games/Spaced_Out_II
+|Release=
+|Dlc=
+|Person=People/Lewis_Thomas
+|Company=
+|Department=Audio
+|Role=
+}}
+</text>
+      <sha1>6q19aowiiidwicol76vsn3acdzrorh3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Speak U - Sports Fighting Game</title>
+    <ns>0</ns>
+    <id>624821</id>
+    <revision>
+      <id>975037</id>
+      <parentid>974556</parentid>
+      <timestamp>2026-06-14T18:13:09Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975037</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="803" sha1="ajiw2fr70h09puly4u9cxtomrylqruj" xml:space="preserve">{{Game
+|Guid=d340d1a9-2529-4818-b4b7-0896443c2d70
+|Name=Speak U - Sports Fighting Game
+|Image=https://giantbomb.com/api/media/file/media--file--speak-u---sports-fighting-game-06-14-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--speak-u---sports-fighting-gameb-06-14-2026.jpg
+|Deck=A volleyball fighting game from Good Knight Collective.
+|ReleaseDateType=Year
+|YearPart=2027
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/2D, Concepts/Online, Concepts/Cooperative Play, Concepts/Player vs Player, Concepts/Split Screen Multiplayer, Concepts/Steam Achievements, Concepts/Steam Remote Play Together
+|Developers=Companies/Team Good Knight
+|Genres=Genres/Fighting, Genres/Sports
+|Platforms=Platforms/PC
+|Publishers=Companies/Team Good Knight
+}}</text>
+      <sha1>ajiw2fr70h09puly4u9cxtomrylqruj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Speed Hawk/Credits</title>
+    <ns>0</ns>
+    <id>249651</id>
+    <revision>
+      <id>250085</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250085</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="636" sha1="5v3wxphyuqn6e4ae38m7g5pu9jntxfv" xml:space="preserve">{{Credits
+|ParentPage=Games/Speed_Hawk
+}}
+{{CreditSubobject
+|Game=Games/Speed_Hawk
+|Release=
+|Dlc=
+|Person=People/Anthony_J_Wilson
+|Company=
+|Department=Programming
+|Role=Atari 8-bit coding
+}}
+{{CreditSubobject
+|Game=Games/Speed_Hawk
+|Release=
+|Dlc=
+|Person=People/Michael_Smithson
+|Company=
+|Department=Visual Arts
+|Role=Atari 8-bit graphics
+}}
+{{CreditSubobject
+|Game=Games/Speed_Hawk
+|Release=
+|Dlc=
+|Person=People/Orall_Cornelius
+|Company=
+|Department=Audio
+|Role=Atari 8-bit music
+}}
+{{CreditSubobject
+|Game=Games/Speed_Hawk
+|Release=
+|Dlc=
+|Person=People/Mark_Duffin
+|Company=
+|Department=Visual Arts
+|Role=Atari 8-bit artwork
+}}
+</text>
+      <sha1>5v3wxphyuqn6e4ae38m7g5pu9jntxfv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Speedway 1980/Credits</title>
+    <ns>0</ns>
+    <id>249807</id>
+    <revision>
+      <id>250242</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250242</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="192" sha1="bln4jf4yv475x263neby9evv7dldhsp" xml:space="preserve">{{Credits
+|ParentPage=Games/Speedway_1980
+}}
+{{CreditSubobject
+|Game=Games/Speedway_1980
+|Release=
+|Dlc=
+|Person=People/Bob_Flanagan
+|Company=
+|Department=Programming
+|Role=Apple II author
+}}
+</text>
+      <sha1>bln4jf4yv475x263neby9evv7dldhsp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Spill the Beans</title>
+    <ns>0</ns>
+    <id>624913</id>
+    <revision>
+      <id>974650</id>
+      <timestamp>2026-06-08T00:42:57Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=4162ae9a-b812-4098-a17e-fe0b998728b2 |Name=Spill the Beans |ReleaseDateType=None }}"</comment>
+      <origin>974650</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="96" sha1="9rgei8nqznz5qgb23r7qxdsv9758v5z" xml:space="preserve">{{Game
+|Guid=4162ae9a-b812-4098-a17e-fe0b998728b2
+|Name=Spill the Beans
+|ReleaseDateType=None
+}}</text>
+      <sha1>9rgei8nqznz5qgb23r7qxdsv9758v5z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Spilled!</title>
+    <ns>0</ns>
+    <id>624899</id>
+    <revision>
+      <id>975248</id>
+      <parentid>974636</parentid>
+      <timestamp>2026-06-27T22:29:46Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975248</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="87" sha1="1lxfgqyn4mzbcduq54hxwzvabgz5f5v" xml:space="preserve">{{Game
+|Guid=a56fa718-5381-43e1-ac70-0edef96aecec
+|Name=Delete
+|ReleaseDateType=None
+}}</text>
+      <sha1>1lxfgqyn4mzbcduq54hxwzvabgz5f5v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Spirit Crossing</title>
+    <ns>0</ns>
+    <id>624838</id>
+    <revision>
+      <id>975068</id>
+      <parentid>974575</parentid>
+      <timestamp>2026-06-15T16:47:55Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975068</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="627" sha1="bc8raf88wwjie1m8u94idhrrwrv4mhf" xml:space="preserve">{{Game
+|Guid=24384334-9703-4be4-b7fe-0c4bd9cdd6df
+|Name=Spirit Crossing
+|Image=https://giantbomb.com/api/media/file/media--file--spirit-crossing-06-15-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--spirit-crossingb-06-15-2026.jpg
+|Deck=A cozy life-sim MMO set in the Crosslands between the human world and the spirit world.
+|ReleaseDateType=Year
+|YearPart=2026
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Online, Concepts/Questing
+|Developers=Companies/Spry Fox
+|Genres=Genres/MMORPG, Genres/Simulation
+|Platforms=Platforms/PC
+|Publishers=Companies/Spry Fox
+}}</text>
+      <sha1>bc8raf88wwjie1m8u94idhrrwrv4mhf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Spiritstead</title>
+    <ns>0</ns>
+    <id>624853</id>
+    <revision>
+      <id>975110</id>
+      <parentid>974590</parentid>
+      <timestamp>2026-06-16T20:30:46Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975110</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="643" sha1="l16mrhv3nxnqevs7jgovcfrwhvkimu2" xml:space="preserve">{{Game
+|Guid=29c38767-4316-49f8-8519-390c0b53795e
+|Name=Spiritstead
+|Image=https://giantbomb.com/api/media/file/media--file--spiritstead-06-16-2026.webp
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--ss_24887a5df013718d77c220d69567f810b774048c-1920x1080-06-16-2026.jpg
+|Deck=A city builder set in a magical land of spirits.
+|ReleaseDateType=None
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/2D, Concepts/City Building
+|Developers=Companies/Tubro Dog Games
+|Genres=Genres/Simulation
+|Platforms=Platforms/PC
+|Publishers=Companies/Wings, Companies/Tubro Dog Games
+|Themes=Themes/Fantasy
+}}</text>
+      <sha1>l16mrhv3nxnqevs7jgovcfrwhvkimu2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Splash 3612/Credits</title>
+    <ns>0</ns>
+    <id>464693</id>
+    <revision>
+      <id>743605</id>
+      <timestamp>2026-03-04T21:02:39Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>743605</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="174" sha1="7atsp5jd3n33u3yvaun2wht7k57ulsi" xml:space="preserve">{{Credits
+|ParentPage=Games/Splash_3612
+}}
+{{CreditSubobject
+|Game=Games/Splash_3612
+|Release=
+|Dlc=
+|Person=People/David_Dunham
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>7atsp5jd3n33u3yvaun2wht7k57ulsi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/SpongeBob SquarePants The Patrick Star Game/Credits</title>
+    <ns>0</ns>
+    <id>253373</id>
+    <revision>
+      <id>253823</id>
+      <timestamp>2025-12-08T07:32:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>253823</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2084" sha1="63sljwgqkdszmcqp3guneysjtq5xb2c" xml:space="preserve">{{Credits
+|ParentPage=Games/SpongeBob_SquarePants_The_Patrick_Star_Game
+}}
+{{CreditSubobject
+|Game=Games/SpongeBob_SquarePants_The_Patrick_Star_Game
+|Release=
+|Dlc=
+|Person=People/Bill_Fagerbakke
+|Company=
+|Department=Voice Actor
+|Role=Patrick Star
+}}
+{{CreditSubobject
+|Game=Games/SpongeBob_SquarePants_The_Patrick_Star_Game
+|Release=
+|Dlc=
+|Person=People/Tom_Kenny
+|Company=
+|Department=Voice Actor
+|Role=SpongeBob SquarePants/Gary/King Jellyfish
+}}
+{{CreditSubobject
+|Game=Games/SpongeBob_SquarePants_The_Patrick_Star_Game
+|Release=
+|Dlc=
+|Person=People/Rodger_Bumpass
+|Company=
+|Department=Voice Actor
+|Role=Squidward Tentacles
+}}
+{{CreditSubobject
+|Game=Games/SpongeBob_SquarePants_The_Patrick_Star_Game
+|Release=
+|Dlc=
+|Person=People/Carolyn_Lawrence
+|Company=
+|Department=Voice Actor
+|Role=Sandy Cheeks
+}}
+{{CreditSubobject
+|Game=Games/SpongeBob_SquarePants_The_Patrick_Star_Game
+|Release=
+|Dlc=
+|Person=People/Clancy_Brown
+|Company=
+|Department=Voice Actor
+|Role=Mr. Krabs
+}}
+{{CreditSubobject
+|Game=Games/SpongeBob_SquarePants_The_Patrick_Star_Game
+|Release=
+|Dlc=
+|Person=People/Douglas_Lawrence
+|Company=
+|Department=Voice Actor
+|Role=Plankton/Fred/Realistic Fish Head
+}}
+{{CreditSubobject
+|Game=Games/SpongeBob_SquarePants_The_Patrick_Star_Game
+|Release=
+|Dlc=
+|Person=People/Mary_Jo_Catlett
+|Company=
+|Department=Voice Actor
+|Role=Mrs. Puff
+}}
+{{CreditSubobject
+|Game=Games/SpongeBob_SquarePants_The_Patrick_Star_Game
+|Release=
+|Dlc=
+|Person=People/James_Arnold_Taylor
+|Company=
+|Department=Voice Actor
+|Role=Additional Voices
+}}
+{{CreditSubobject
+|Game=Games/SpongeBob_SquarePants_The_Patrick_Star_Game
+|Release=
+|Dlc=
+|Person=People/Xanthe_Huynh
+|Company=
+|Department=Voice Actor
+|Role=Additional Voices
+}}
+{{CreditSubobject
+|Game=Games/SpongeBob_SquarePants_The_Patrick_Star_Game
+|Release=
+|Dlc=
+|Person=People/Max_Mittelman
+|Company=
+|Department=Voice Actor
+|Role=Additional Voices
+}}
+{{CreditSubobject
+|Game=Games/SpongeBob_SquarePants_The_Patrick_Star_Game
+|Release=
+|Dlc=
+|Person=People/Julie_Nathanson
+|Company=
+|Department=Voice Actor
+|Role=Additional Voices
+}}
+</text>
+      <sha1>63sljwgqkdszmcqp3guneysjtq5xb2c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Sprout 64629</title>
+    <ns>0</ns>
+    <id>465010</id>
+    <revision>
+      <id>796924</id>
+      <parentid>751320</parentid>
+      <timestamp>2026-03-12T06:28:52Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796924</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="753" sha1="bbxqhsoaz3hmzcl776sq9asa2ko4412" xml:space="preserve">{{Game
+| Name=Sprout
+| Guid=3030-64629
+| ReleaseDate=2007-03-10
+| Characters=
+| Concepts=Concepts/Single_Word_Titles
+| Developers=Companies/Jeff_Nusz,Companies/Mindful_Mammoth
+| Franchises=
+| Genres=
+| Locations=
+| Objects=
+| Platforms=Platforms/Mac,Platforms/PC
+| Publishers=Companies/Mindful_Mammoth
+| Games=
+| Themes=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/84290/2989570-9596234420-heade.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2989570-9596234420-heade.jpg","path":"8\/84290\/","mime":"image\/jpeg","sizes":"scale_medium,scale_small,scale_super,square_medium,square_small,square_mini,scale_large,square_avatar,square_tiny,screen_medium,scale_avatar,scale_tiny,screen_kubrick","caption":null},"background":[]}' /&gt;</text>
+      <sha1>bbxqhsoaz3hmzcl776sq9asa2ko4412</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Spy vs Spy 14290/Credits</title>
+    <ns>0</ns>
+    <id>464831</id>
+    <revision>
+      <id>745802</id>
+      <timestamp>2026-03-04T21:39:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>745802</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1704" sha1="dkhsassttbsodhi67eyd9c4csyvb98u" xml:space="preserve">{{Credits
+|ParentPage=Games/Spy_vs_Spy_14290
+}}
+{{CreditSubobject
+|Game=Games/Spy_vs_Spy_14290
+|Release=
+|Dlc=
+|Person=People/Gary_J_Foreman
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Spy_vs_Spy_14290
+|Release=
+|Dlc=
+|Person=People/Michael_Motoda
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Spy_vs_Spy_14290
+|Release=
+|Dlc=
+|Person=People/Denby_Grace
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Spy_vs_Spy_14290
+|Release=
+|Dlc=
+|Person=People/Eric_T_Peterson
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Spy_vs_Spy_14290
+|Release=
+|Dlc=
+|Person=People/Matthias_Wehner
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Spy_vs_Spy_14290
+|Release=
+|Dlc=
+|Person=People/Rick_Raymer
+|Company=
+|Department=Design
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Spy_vs_Spy_14290
+|Release=
+|Dlc=
+|Person=People/Nathan_Sumsion
+|Company=
+|Department=Design
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Spy_vs_Spy_14290
+|Release=
+|Dlc=
+|Person=People/Greg_Sewart
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Spy_vs_Spy_14290
+|Release=
+|Dlc=
+|Person=People/Jason_Bergman
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Spy_vs_Spy_14290
+|Release=
+|Dlc=
+|Person=People/Eric_Kozlowsky
+|Company=
+|Department=Visual Arts
+|Role=Modeling, and lighting
+}}
+{{CreditSubobject
+|Game=Games/Spy_vs_Spy_14290
+|Release=
+|Dlc=
+|Person=People/Michael_Provenza
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Spy_vs_Spy_14290
+|Release=
+|Dlc=
+|Person=People/Scot_Loving
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>dkhsassttbsodhi67eyd9c4csyvb98u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Spyro: A Realm Beyond</title>
+    <ns>0</ns>
+    <id>624752</id>
+    <revision>
+      <id>974769</id>
+      <parentid>974768</parentid>
+      <timestamp>2026-06-08T14:44:02Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974769</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="752" sha1="ttwq3rm0kydtjlded2earo5b3xjih2x" xml:space="preserve">{{Game
+|Guid=451bfe45-e419-46ce-8bee-c92f99546d1d
+|Name=Spyro: A Realm Beyond
+|Image=Sebsgg.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--ss_423b09d662166d102d8b64475671a71aaab07191-1920x1080-06-08-2026.jpg
+|Deck=The first new Spyro adventure in nearly twenty years.
+|ReleaseDateType=Year
+|YearPart=2027
+|Characters=Characters/Spyro the Dragon
+|Concepts=Concepts/Digital Distribution, Concepts/Polygonal 3D, Concepts/Dragon, Concepts/Third Person Perspective
+|Developers=Companies/Toys for Bob
+|Franchises=Franchises/Spyro
+|Genres=Genres/Action, Genres/Platformer
+|Platforms=Platforms/PC, Platforms/PlayStation 5, Platforms/Xbox Series X S, Platforms/Nintendo Switch 2
+|Publishers=Companies/Activision
+|Themes=Themes/Fantasy
+}}</text>
+      <sha1>ttwq3rm0kydtjlded2earo5b3xjih2x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Stack Up 5241/Credits</title>
+    <ns>0</ns>
+    <id>464722</id>
+    <revision>
+      <id>743928</id>
+      <timestamp>2026-03-04T21:07:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>743928</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="177" sha1="8z76ff9ur557z51eh0gob70ip0t34j5" xml:space="preserve">{{Credits
+|ParentPage=Games/Stack_Up_5241
+}}
+{{CreditSubobject
+|Game=Games/Stack_Up_5241
+|Release=
+|Dlc=
+|Person=People/Dave_Taylor
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>8z76ff9ur557z51eh0gob70ip0t34j5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Star Fox 2026</title>
+    <ns>0</ns>
+    <id>624486</id>
+    <revision>
+      <id>974888</id>
+      <parentid>973738</parentid>
+      <timestamp>2026-06-09T16:43:35Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974888</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2235" sha1="ry3dipc5mfiwdfj2l8z1o0pq15jdsyk" xml:space="preserve">{{Game
+|Guid=ebcd8823-9aa2-4210-8845-79990c064e14
+|Name=Star Fox
+|Image=https://giantbomb.com/api/media/file/media--file--screenshot-2026-05-06-at-7-31-29-pm-05-06-2026.png
+|Deck=A remake of Star Fox 64 for Nintendo Switch 2.
+|ReleaseDateType=Full
+|ReleaseDate=2026-06-25
+|Characters=Characters/Fox McCloud, Characters/Falco Lombardi, Characters/Peppy Hare, Characters/Slippy Toad, Characters/General Pepper, Characters/James McCloud, Characters/Pigma Dengar, Characters/Wolf ODonnell, Characters/Andross, Characters/Leon Powalski, Characters/Bill Grey, Characters/Andrew Oikonny, Characters/R O B 64
+|Concepts=Concepts/Polygonal 3D, Concepts/Anthropomorphism, Concepts/Digital Distribution, Concepts/Online, Concepts/Player vs Player, Concepts/Underwater Gameplay, Concepts/Lock On, Concepts/Lava Stage, Concepts/Voice Acting, Concepts/Descendants of Other Characters, Concepts/Third Person Perspective, Concepts/A I Companion, Concepts/Boss Fight, Concepts/Boss, Concepts/Barrel Roll, Concepts/Final Boss, Concepts/Animal Protagonists, Concepts/Animal Antagonist, Concepts/Fox, Concepts/Talking Animal, Concepts/Flight, Concepts/Robot, Concepts/Pilot, Concepts/Reptilian Humanoid, Concepts/Health, Concepts/Space Battle, Concepts/Dog, Concepts/Frogs, Concepts/Wolf, Concepts/Pigs, Concepts/Smart Bomb, Concepts/HUD Video Messages, Concepts/Ice Stage, Concepts/Space Pirate, Concepts/Branching Story Line, Concepts/Death, Concepts/Aerial Combat, Concepts/Amphibian Humanoid, Concepts/Rail Shooter, Concepts/Banter During Gameplay, Concepts/Hare, Concepts/Crosshair, Concepts/Remake, Concepts/On Rails, Concepts/Animated Portraits
+|Developers=Companies/Velan Studios
+|Franchises=Franchises/Star Fox
+|Genres=Genres/Action, Genres/Shooter
+|Locations=Locations/Lylat System, Locations/Sector X, Locations/Sector Y, Locations/Noveria, Locations/Venom, Locations/Space, Locations/TItania, Locations/Bolse, Locations/Fortuna, Locations/Zoness, Locations/Katina, Locations/Sector Z, Locations/Area 6, Locations/Macbeth, Locations/Meteo, Locations/Underwater
+|Objects=Objects/Arwing, Objects/Sunglasses, Objects/Landmaster Tank, Objects/Blue Marine
+|Platforms=Platforms/Nintendo Switch 2
+|Publishers=Companies/Nintendo
+|Themes=Themes/Sci Fi
+}}</text>
+      <sha1>ry3dipc5mfiwdfj2l8z1o0pq15jdsyk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Star Trek: Outposts Unknown</title>
+    <ns>0</ns>
+    <id>624758</id>
+    <revision>
+      <id>974771</id>
+      <parentid>974489</parentid>
+      <timestamp>2026-06-08T14:50:45Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974771</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="626" sha1="ebgqj0rmenqky0oy4pkswixfq2d5gjk" xml:space="preserve">{{Game
+|Guid=13db2659-0198-4d73-bfb1-63e97fc89a13
+|Name=Star Trek: Outposts Unknown
+|Image=Screenshot 2026-06-07 at 4.26.46 PM.png
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--ss_07d8e3ca50038059bb1d0d004195ccba43180eed-1920x1080-06-08-2026.jpg
+|Deck=A city-builder strategy game set in the Star Trek universe.
+|ReleaseDateType=Year
+|YearPart=2026
+|Concepts=Concepts/Steam, Concepts/Licensed Game, Concepts/Digital Distribution
+|Developers=Companies/Magic Fuel Games
+|Franchises=Franchises/Star Trek
+|Genres=Genres/Strategy
+|Platforms=Platforms/PC
+|Publishers=Companies/PlayStack
+|Themes=Themes/Sci Fi
+}}</text>
+      <sha1>ebgqj0rmenqky0oy4pkswixfq2d5gjk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Star Trek: Shadow Frontier</title>
+    <ns>0</ns>
+    <id>624741</id>
+    <revision>
+      <id>974454</id>
+      <parentid>974427</parentid>
+      <timestamp>2026-06-07T18:27:08Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974454</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="723" sha1="8xw2nne75lxeg1rvj68u5di5fzo1iy3" xml:space="preserve">{{Game
+|Guid=79c6d5a9-505c-4986-9acf-62f3798debd4
+|Name=Star Trek: Shadow Frontier
+|Image=https://giantbomb.com/api/media/file/media--file--abfbsaa-06-07-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--ss_b3acaae1a28286c4c488488d451d2179ba45bcec-1920x1080-06-07-2026.jpg
+|Deck=A story-driven thriller from Bloober Team.
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/Licensed Game
+|Developers=Companies/Bloober Team
+|Franchises=Franchises/Star Trek
+|Genres=Genres/Action Adventure
+|Platforms=Platforms/PC, Platforms/PlayStation 5, Platforms/Xbox Series X S, Platforms/Nintendo Switch 2
+|Publishers=Companies/Paramount Game Studios
+|Themes=Themes/Horror, Themes/Sci Fi
+}}</text>
+      <sha1>8xw2nne75lxeg1rvj68u5di5fzo1iy3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Star Trek 1971</title>
+    <ns>0</ns>
+    <id>625176</id>
+    <revision>
+      <id>978397</id>
+      <parentid>978347</parentid>
+      <timestamp>2026-07-11T00:56:45Z</timestamp>
+      <contributor>
+        <username>Chucktowski</username>
+        <id>7</id>
+      </contributor>
+      <origin>978397</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="896" sha1="pz2f4yac844wnywcff2m0iw6opgsmwo" xml:space="preserve">{{Game
+|Guid=c9389320-9c82-4e69-9a6d-e962737d546d
+|Name=Star Trek (1971)
+|Aliases=Star Trek
+|Image=Star Trek text game.png
+|Deck=An early text-based strategy game based on Star Trek, wherein the player hunts down Klingon ships with phasers and torpedoes. The goal is to eliminate all Klingon vessels and have the Enterprise survive.
+|ReleaseDateType=Year
+|YearPart=1971
+|Concepts=Concepts/Text Based, Concepts/Turn Based
+|Franchises=Franchises/Star Trek
+}}
+== Overview ==
+In 1971, Mike Mayfield developed Star Trek after playing [https://giantbomb.com/wiki/Games/Spacewar Spacewar!] in the computer lab at University of California, Irvine. Written on the Sigma 7, Star Trek required use of a teleprinter. After visiting the Hewlett-Packard sales office, Mayfield was offered time on their HP 2000C minicomputer in order to write a new version in HP's version of BASIC, which was released in 1973.</text>
+      <sha1>pz2f4yac844wnywcff2m0iw6opgsmwo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Star Trek 25th Anniversary 9737/Credits</title>
+    <ns>0</ns>
+    <id>464782</id>
+    <revision>
+      <id>744850</id>
+      <timestamp>2026-03-04T21:23:41Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>744850</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2382" sha1="a71z6t0jc67xsj6ar8ga4c48m3qkd4i" xml:space="preserve">{{Credits
+|ParentPage=Games/Star_Trek_25th_Anniversary_9737
+}}
+{{CreditSubobject
+|Game=Games/Star_Trek_25th_Anniversary_9737
+|Release=
+|Dlc=
+|Person=People/Wesley_Yanagi
+|Company=
+|Department=Design
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Trek_25th_Anniversary_9737
+|Release=
+|Dlc=
+|Person=People/Michael_Quarles
+|Company=
+|Department=Production
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Trek_25th_Anniversary_9737
+|Release=
+|Dlc=
+|Person=People/Peter_Pavich
+|Company=
+|Department=Production
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Trek_25th_Anniversary_9737
+|Release=
+|Dlc=
+|Person=People/Jim_Sproul
+|Company=
+|Department=Programming
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Trek_25th_Anniversary_9737
+|Release=
+|Dlc=
+|Person=People/John_Philip_Britt
+|Company=
+|Department=Programming
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Trek_25th_Anniversary_9737
+|Release=
+|Dlc=
+|Person=People/Michael_W_Stragey
+|Company=
+|Department=Programming
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Trek_25th_Anniversary_9737
+|Release=
+|Dlc=
+|Person=People/Alan_Pavlish
+|Company=
+|Department=Programming
+|Role=Additional Programming
+}}
+{{CreditSubobject
+|Game=Games/Star_Trek_25th_Anniversary_9737
+|Release=
+|Dlc=
+|Person=People/Brian_Giberson
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Trek_25th_Anniversary_9737
+|Release=
+|Dlc=
+|Person=People/Jason_Magness
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Trek_25th_Anniversary_9737
+|Release=
+|Dlc=
+|Person=People/Scott_Bieser
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Trek_25th_Anniversary_9737
+|Release=
+|Dlc=
+|Person=People/Dan_Burke
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Trek_25th_Anniversary_9737
+|Release=
+|Dlc=
+|Person=People/Scott_La_Rocca
+|Company=
+|Department=Audio
+|Role=Soundtrack Transcription and Arrangement
+}}
+{{CreditSubobject
+|Game=Games/Star_Trek_25th_Anniversary_9737
+|Release=
+|Dlc=
+|Person=People/Charles_Deenen
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Trek_25th_Anniversary_9737
+|Release=
+|Dlc=
+|Person=People/R_Scott_Campbell
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Trek_25th_Anniversary_9737
+|Release=
+|Dlc=
+|Person=People/Doug_Stone
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+</text>
+      <sha1>a71z6t0jc67xsj6ar8ga4c48m3qkd4i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Star Trek Voyager Across the Unknown</title>
+    <ns>0</ns>
+    <id>465216</id>
+    <revision>
+      <id>797122</id>
+      <timestamp>2026-03-19T12:10:51Z</timestamp>
+      <contributor>
+        <username>Evergladeking</username>
+        <id>2101</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=bd68e1c6-6649-4b7c-97d3-2a694c406647 |Name=Star Trek: Voyager - Across the Unknown |Aliases=Across the Unknown |ReleaseDateType=Full |ReleaseDate=2026-02-18 |Characters=Characters/Kathryn Janeway, Characters/Tuvok, Characters/Seven of Nine |Franchises=Franchises/Star Trek |Genres=Genres/Strategy |Platforms=Platforms/Nintendo Switch 2, Platforms/PC, Platforms/Xbox Series X S, Platforms/PlayStation 5 |Publishers=Companies/Daedalic Entertainment |Themes=Themes/..."</comment>
+      <origin>797122</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="484" sha1="5cs4r3gen2xzk48qo8mcbu0shh0944m" xml:space="preserve">{{Game
+|Guid=bd68e1c6-6649-4b7c-97d3-2a694c406647
+|Name=Star Trek: Voyager - Across the Unknown
+|Aliases=Across the Unknown
+|ReleaseDateType=Full
+|ReleaseDate=2026-02-18
+|Characters=Characters/Kathryn Janeway, Characters/Tuvok, Characters/Seven of Nine
+|Franchises=Franchises/Star Trek
+|Genres=Genres/Strategy
+|Platforms=Platforms/Nintendo Switch 2, Platforms/PC, Platforms/Xbox Series X S, Platforms/PlayStation 5
+|Publishers=Companies/Daedalic Entertainment
+|Themes=Themes/Sci Fi
+}}</text>
+      <sha1>5cs4r3gen2xzk48qo8mcbu0shh0944m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Star Wars Battlefront 15481/Credits</title>
+    <ns>0</ns>
+    <id>464850</id>
+    <revision>
+      <id>746033</id>
+      <timestamp>2026-03-04T21:42:31Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>746033</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7617" sha1="oya20mged5rv32i07q09t0w8ttbgb4a" xml:space="preserve">{{Credits
+|ParentPage=Games/Star_Wars_Battlefront_15481
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Peter_McConnell
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/George_Lucas
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Nick_Jameson
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/John_Williams
+|Company=
+|Department=Audio
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Chris_Cox
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Juan_L_Sanchez
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Timothy_Moore
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Tom_Kane
+|Company=
+|Department=Voice Actor
+|Role=Admiral Ackbar; Yoda
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Anne_Marie_Stein
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/David_Wayne_Collins
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Randall_Breen
+|Company=
+|Department=Thanks
+|Role=Macintosh special thanks / PC-Windows special thanks / Playstation 2 special thanks / XBOX special thanks
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Charles_W_Smith
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Kim_Jardin
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Mary_Bihr
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Michael_Cottam
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Dan_Pettit
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Andy_Alamano
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Alec_Guinness
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Ken_Miller
+|Company=
+|Department=Programming
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/David_Rovin
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Harrison_Deutsch
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Ben_Burtt
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Eric_Gewirtz
+|Company=
+|Department=Production
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Jens_Hartvig_Andersen
+|Company=
+|Department=Design
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Dean_Betton
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Juan_Sanchez
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Adam_Batters
+|Company=
+|Department=Programming
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Chris_Fandrich
+|Company=
+|Department=Programming
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/David_Givone
+|Company=
+|Department=Programming
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Nathan_Mates
+|Company=
+|Department=Programming
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Stewart_Miles
+|Company=
+|Department=Programming
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Salah_Nouri
+|Company=
+|Department=Programming
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Brad_Pickering
+|Company=
+|Department=Programming
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Paul_Baker
+|Company=
+|Department=Design
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Dellekamp_Siefert
+|Company=
+|Department=Design
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Chris_Arden
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Scott_White
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Greg_Borrud
+|Company=
+|Department=Production
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/David_Baker
+|Company=
+|Department=Unclassified
+|Role=Production Coordinator
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Trey_Watkins
+|Company=
+|Department=Unclassified
+|Role=Design Consultant
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Marc_Turndorf
+|Company=
+|Department=Unclassified
+|Role=Production Support
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Christopher_Hunt
+|Company=
+|Department=Visual Arts
+|Role=Additional Art
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Huan_Phan
+|Company=
+|Department=Visual Arts
+|Role=Additional Art
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Timo_Pihlajamaki
+|Company=
+|Department=Visual Arts
+|Role=Additional Art
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Lynn_Taylor
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Mike_Zaimont
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Eric_Johnston
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Carey_James_Chico
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Christopher_Williams
+|Company=
+|Department=Production
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_15481
+|Release=
+|Dlc=
+|Person=People/Jeromy_Walsh
+|Company=
+|Department=Programming
+|Role=
+}}
+</text>
+      <sha1>oya20mged5rv32i07q09t0w8ttbgb4a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Star Wars Battlefront II 7094/Credits</title>
+    <ns>0</ns>
+    <id>464739</id>
+    <revision>
+      <id>744281</id>
+      <timestamp>2026-03-04T21:13:23Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>744281</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="74467" sha1="48zi3vn3jzvt75fqupb344v18qkw2m4" xml:space="preserve">{{Credits
+|ParentPage=Games/Star_Wars_Battlefront_II_7094
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Eric_Gewirtz
+|Company=
+|Department=Production
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Christopher_Williams
+|Company=
+|Department=Production
+|Role=Producer (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jens_Hartvig_Andersen
+|Company=
+|Department=Design
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Dean_Betton
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Adam_Batters
+|Company=
+|Department=Programming
+|Role=Additional Programmer (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Chris_Fandrich
+|Company=
+|Department=Programming
+|Role=Programmer (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/David_Givone
+|Company=
+|Department=Programming
+|Role=Programmer (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Nathan_Mates
+|Company=
+|Department=Programming
+|Role=Programmer (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Stewart_Miles
+|Company=
+|Department=Programming
+|Role=Programmer (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Ken_Miller
+|Company=
+|Department=Programming
+|Role=Programmer (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Salah_Nouri
+|Company=
+|Department=Programming
+|Role=Programmer (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Brad_Pickering
+|Company=
+|Department=Programming
+|Role=Network Technical Director (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/David_Baker
+|Company=
+|Department=Production
+|Role=Associate Producer (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Paul_Baker
+|Company=
+|Department=Design
+|Role=Designer (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Joseph_Shackelford
+|Company=
+|Department=Design
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Dellekamp_Siefert
+|Company=
+|Department=Design
+|Role=Lead Designer (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Chris_Arden
+|Company=
+|Department=Visual Arts
+|Role=Environment Artist (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Christopher_Michael_McGee
+|Company=
+|Department=Visual Arts
+|Role=Environment Artist (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Scott_White
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Greg_Borrud
+|Company=
+|Department=Production
+|Role=Director of Production (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Trey_Watkins
+|Company=
+|Department=Business
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Marc_Turndorf
+|Company=
+|Department=Production
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Caraugh_OConnor
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Huan_Phan
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Sean_OSullivan
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Andrew_Goldman
+|Company=
+|Department=Business
+|Role=CEO (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Josh_Resnick
+|Company=
+|Department=Business
+|Role=President (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Carey_James_Chico
+|Company=
+|Department=Visual Arts
+|Role=Executive Art Director (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Laura_Cabrera
+|Company=
+|Department=Quality Assurance
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Josh_Cole
+|Company=
+|Department=Quality Assurance
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Adam_Davis
+|Company=
+|Department=Quality Assurance
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Ryan_James
+|Company=
+|Department=Quality Assurance
+|Role=Production Tester (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Greg_Johnson
+|Company=
+|Department=Design
+|Role=Designer (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Michael_Robinson
+|Company=
+|Department=Quality Assurance
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/David_Rovin
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PS2, PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jim_Tso
+|Company=
+|Department=Production
+|Role=Senior Producer (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Dan_Pettit
+|Company=
+|Department=Production
+|Role=Producer (PS2, PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Rachel_Bryant
+|Company=
+|Department=Production
+|Role=LucasArts
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/David_Silverstein
+|Company=
+|Department=Production
+|Role=LucasArts
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Peter_Hirschmann
+|Company=
+|Department=Production
+|Role=Executive Producer / VP Production (PS2, PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Chane_Hollander
+|Company=
+|Department=Quality Assurance
+|Role=Lead Tester, LucasArts
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/K_C_Coleman
+|Company=
+|Department=Quality Assurance
+|Role=Lead Tester, LucasArts
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Matthew_Rubenstein
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester (PS2, PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jeffrey_Gullett
+|Company=
+|Department=Quality Assurance
+|Role=Assistant Lead Testers, LucasArts
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Patrick_Bratton
+|Company=
+|Department=Quality Assurance
+|Role=Assistant Lead Testers, LucasArts
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Ahmad_Abbott
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester (PS2, PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Seth_Benton
+|Company=
+|Department=Quality Assurance
+|Role=LucasArts
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jeff_Sanders
+|Company=
+|Department=Quality Assurance
+|Role=LucasArts
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Adam_Goodwin
+|Company=
+|Department=Quality Assurance
+|Role=LucasArts
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Henry_Hall
+|Company=
+|Department=Quality Assurance
+|Role=LucasArts
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/James_Morris
+|Company=
+|Department=Production
+|Role=Production Assistant (PS2, PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Ian_Parham
+|Company=
+|Department=Quality Assurance
+|Role=LucasArts
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Gregory_Quinones
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester (PS2, PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Brianna_Woodward
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester (PS2, PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/David_Chapman
+|Company=
+|Department=Quality Assurance
+|Role=Senior Lead Compliance Tester (PS2, PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Ian_Wolfard
+|Company=
+|Department=Quality Assurance
+|Role=Compliance Testers
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Justin_VanAlstyne
+|Company=
+|Department=Quality Assurance
+|Role=Compliance Testers
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/John_Lowenthal
+|Company=
+|Department=Quality Assurance
+|Role=Compliance Testers
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Matt_Chang
+|Company=
+|Department=Quality Assurance
+|Role=Compliance Testers
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Davey_Lei
+|Company=
+|Department=Quality Assurance
+|Role=Compliance Testers
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Huan_Hua_Chye
+|Company=
+|Department=Production
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Hiromi_Okamoto
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PS2, PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Phillip_Berry
+|Company=
+|Department=Quality Assurance
+|Role=International Lead
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jason_Pimentel
+|Company=
+|Department=Quality Assurance
+|Role= International Testers
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Ken_Balough
+|Company=
+|Department=Production
+|Role=International Production Assistant (PS2, PSP), Manual Writer (PS2, PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Lynn_Taylor
+|Company=
+|Department=Quality Assurance
+|Role=Compatibility Superviser
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Darryl_Cobb
+|Company=
+|Department=Quality Assurance
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Scott_Taylor
+|Company=
+|Department=Quality Assurance
+|Role=Mastering Lab (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Isaiah_Webb
+|Company=
+|Department=Quality Assurance
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Kristie_Garber
+|Company=
+|Department=Quality Assurance
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Kim_Jardin
+|Company=
+|Department=Quality Assurance
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Benjamin_Estabrook
+|Company=
+|Department=Quality Assurance
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Brian_Deksnys
+|Company=
+|Department=Quality Assurance
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/John_Carsey
+|Company=
+|Department=Quality Assurance
+|Role=Quality Services Computer Technician (PS2, PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Temuera_Morrison
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Justin_Lambros
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PS2, PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Joshua_Rotunda
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Chris_Baker
+|Company=
+|Department=Business
+|Role=Studio Publicist (PS2, PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Takashi_Morishima
+|Company=
+|Department=Visual Arts
+|Role=Artist (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Harrison_Deutsch
+|Company=
+|Department=Audio
+|Role=Sound Design (PS2, PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Steve_Blum
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Nick_Jameson
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Mike_Zaimont
+|Company=
+|Department=Programming
+|Role=Programmer (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Eric_Johnston
+|Company=
+|Department=Programming
+|Role=Programmer (PS2, PSP), Special Thanks (PS2, PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Joyce_Kurtz
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jonathan_Lo
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Peter_Serafinowicz
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Ryan_Davis_138162
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PS2, PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Eric_Gewirtz_160069
+|Company=
+|Department=Production
+|Role=Director (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Phil_Hong
+|Company=
+|Department=Production
+|Role=Producer (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/John_Northan
+|Company=
+|Department=Programming
+|Role=Lead Programmer (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Matthew_Howland_Palmer
+|Company=
+|Department=Visual Arts
+|Role=Art Director (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jake_Cannell
+|Company=
+|Department=Programming
+|Role=Programmer (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jocelyn_Chew
+|Company=
+|Department=Programming
+|Role=Programmer (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Steven_Duan
+|Company=
+|Department=Programming
+|Role=Programmer (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Julian_Manolov
+|Company=
+|Department=Programming
+|Role=Programmer (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Brad_Roepstorff
+|Company=
+|Department=Programming
+|Role=Programmer (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jason_Scanlin
+|Company=
+|Department=Programming
+|Role=Programmer (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Greg_Walker
+|Company=
+|Department=Programming
+|Role=Programmer (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Dan_Andersson
+|Company=
+|Department=Programming
+|Role=Additional Programmer (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Sean_Soucy
+|Company=
+|Department=Design
+|Role=Lead Level Designer (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Chris_Fusco
+|Company=
+|Department=Design
+|Role=Designer (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Michael_A_Marzola
+|Company=
+|Department=Design
+|Role=Designer (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Dan_Nanni
+|Company=
+|Department=Design
+|Role=Designer (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Joe_Shackelford
+|Company=
+|Department=Design
+|Role=Designer (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Brian_Warrington
+|Company=
+|Department=Design
+|Role=Designer (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Wallace_Huang
+|Company=
+|Department=Design
+|Role=Additional Design (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jeffrey_Vaughn
+|Company=
+|Department=Design
+|Role=Additional Design (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Andrew_Cheney
+|Company=
+|Department=Audio
+|Role=Sound Design (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Juan_Sanchez
+|Company=
+|Department=Visual Arts
+|Role=Lead Animator (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Elaina_Scott
+|Company=
+|Department=Visual Arts
+|Role=Animator (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Moon_K_Bae
+|Company=
+|Department=Visual Arts
+|Role=Environment Artist (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Walter_Cosico
+|Company=
+|Department=Visual Arts
+|Role=Environment Artist (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Rob_Keenan
+|Company=
+|Department=Visual Arts
+|Role=Environment Artist (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Mutsuko_Kasai_Bunnag
+|Company=
+|Department=Visual Arts
+|Role=Artist (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Arnie_H_Hong
+|Company=
+|Department=Visual Arts
+|Role=Artist (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Sungpil_Im
+|Company=
+|Department=Visual Arts
+|Role=Artist (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Bryan_Norton
+|Company=
+|Department=Visual Arts
+|Role=Artist (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Risako_Taneda
+|Company=
+|Department=Visual Arts
+|Role=Artist (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Graham_Traynor
+|Company=
+|Department=Visual Arts
+|Role=Artist (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Widyanto_Wei_Wiharjo
+|Company=
+|Department=Visual Arts
+|Role=Artist (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Steven_Leff
+|Company=
+|Department=Visual Arts
+|Role=Additional Artist (PSP), Production Support (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Andrew_Mournian
+|Company=
+|Department=Visual Arts
+|Role=Additional Artist (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Phuc_Van_Dinh
+|Company=
+|Department=Production
+|Role=Production Coordinator (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Tina_Cruz
+|Company=
+|Department=Business
+|Role=Director of Human Resources (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Joseph_Donaldson
+|Company=
+|Department=Business
+|Role=Director of Operations (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Carl_Lei
+|Company=
+|Department=Business
+|Role=Director of Finance (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Mario_Cabrera
+|Company=
+|Department=Production
+|Role=Production Support (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Tim_Diamond
+|Company=
+|Department=Production
+|Role=Production Support (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Sean_Hendon
+|Company=
+|Department=Production
+|Role=Production Support (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Tim_McMahon
+|Company=
+|Department=Production
+|Role=Production Support (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Christine_Mithiaru_Sowers
+|Company=
+|Department=Production
+|Role=Production Support (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Kent_Scheulke
+|Company=
+|Department=Production
+|Role=Production Support (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Frederick_Badlissi
+|Company=
+|Department=Quality Assurance
+|Role=Production Tester (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/John_Fritts
+|Company=
+|Department=Quality Assurance
+|Role=Production Tester (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Christopher_Hong
+|Company=
+|Department=Quality Assurance
+|Role=Production Tester (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Eddie_Rojas
+|Company=
+|Department=Production
+|Role=Production Tester (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Eric_Rodgers
+|Company=
+|Department=Quality Assurance
+|Role=Production Tester (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Sam_Fried
+|Company=
+|Department=Quality Assurance
+|Role=Production Tester (PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Amy_Tso
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jennifer_Tso
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Ingrid_Gewirtz
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Noah_Gewritz
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Andrey_Kazmin_122438
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Elias_Slater
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jane_Jin
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/David_Jin_Soo_Kim
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jinwook_Lee
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Viraj_Andrew_Bunnag
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Sofya_Darbinyan
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Nicole_Palmer
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Sofia_Shershunovich
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Savina_Rizova
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Momchil_Manolovi
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Lubomir_Manolovi
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Vanessa_Johnson
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jonathan_Manahan
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC | Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Sean_OConnor
+|Company=
+|Department=Visual Arts
+|Role=Artist (PSP) | Savage Entertainment || Special Thanks (PSP) from Pandemic Studios, LLC || Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/James_Miller_127427
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC || Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Mark_Griffin
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Cliff_Garrett
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Katy_Ditmore
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC || Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Rick_Viscarello
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Mary_Pickering
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Wesley_Pickering
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Sydney_Pickering
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Sky_Schulz
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Alexander_Cheney
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Hayley_Cheney
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Kayla_Cheney
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jennifer_Shackelford
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Dana_Coffey
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Megan_Evanich
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Michelle_Webb
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jean_Roh
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Skylar_Minjin_Hong
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Lilan_Northan
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jiyen_Northan
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Diddy_Riese
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Molly_Siefert
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Richard_Siefert
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Stephanie_Richards
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Hisako_Seignemartin
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Chacko_Sonny
+|Company=
+|Department=Business
+|Role=Creative Director (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Tim_Morten
+|Company=
+|Department=Production
+|Role=Producer (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Sebastien_Juanico
+|Company=
+|Department=Programming
+|Role=Lead Programmer (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Bill_Ferrer
+|Company=
+|Department=Programming
+|Role=Lead Programmer (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Alexis_Green
+|Company=
+|Department=Programming
+|Role=Programmer (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Vik_Advani
+|Company=
+|Department=Programming
+|Role=Programmer (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Dara_Kong
+|Company=
+|Department=Programming
+|Role=Programmer (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Kai_Powell
+|Company=
+|Department=Programming
+|Role=Programmer (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Nikhil_Kasinadhuni
+|Company=
+|Department=Programming
+|Role=Programmer (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Ted_Peterson
+|Company=
+|Department=Design
+|Role=Lead Designer (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Felix_Kupis
+|Company=
+|Department=Design
+|Role=Designer (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Andrew_Rai
+|Company=
+|Department=Visual Arts
+|Role=Lead Artist (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jack_Burton
+|Company=
+|Department=Visual Arts
+|Role=Lead Artist (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jorge_Riverol
+|Company=
+|Department=Visual Arts
+|Role=Artist (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Michael_Damien
+|Company=
+|Department=Visual Arts
+|Role=Artist (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Luis_Ruiz
+|Company=
+|Department=Visual Arts
+|Role=Artist (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Wan_Chiu
+|Company=
+|Department=Visual Arts
+|Role=Artist (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Kevin_Cunningham
+|Company=
+|Department=Visual Arts
+|Role=Artist (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Peter_Keating
+|Company=
+|Department=Visual Arts
+|Role=Artist (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Robin_Har
+|Company=
+|Department=Visual Arts
+|Role=Artist (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Gary_Fixler
+|Company=
+|Department=Visual Arts
+|Role=Artist (PSP) | Savage Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Katie_Johnson
+|Company=
+|Department=Thanks
+|Role=Dedicated to by LucasArts and Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Shara_Miller
+|Company=
+|Department=Production
+|Role=Producer (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Corrine_Wong
+|Company=
+|Department=Production
+|Role=Associate Producer (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Matthew_J_Fillbrandt
+|Company=
+|Department=Production
+|Role=Additional Production (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jonathan_Williams
+|Company=
+|Department=Production
+|Role=Technical Director (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Charlie_Smith
+|Company=
+|Department=Programming
+|Role=Programmer (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Colin_Carley
+|Company=
+|Department=Programming
+|Role=Programmer (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Steve_Dykes
+|Company=
+|Department=Programming
+|Role=Programmer (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Tim_Ramsay
+|Company=
+|Department=Programming
+|Role=Programmer (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Nick_Porcino
+|Company=
+|Department=Programming
+|Role=Programmer (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Johnny_Szary
+|Company=
+|Department=Quality Assurance
+|Role=Lead Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Michael_Blair
+|Company=
+|Department=Quality Assurance
+|Role=Assistant Lead Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Marianne_Monaghan
+|Company=
+|Department=Production
+|Role=Localization Producer (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Gary_Chew
+|Company=
+|Department=Production
+|Role=Lead International Production Assistant (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Cameron_Suey
+|Company=
+|Department=Production
+|Role=International Production Assistant (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Erik_Hamilton_OKeady
+|Company=
+|Department=Production
+|Role=International Production Assistant (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/David_Wayne_Collins
+|Company=
+|Department=Audio
+|Role=Audio Lead (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jim_Diaz
+|Company=
+|Department=Audio
+|Role=Sound Design (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Ellen_Meijers_Gabriel
+|Company=
+|Department=Audio
+|Role=Sound Design (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Nick_Peck
+|Company=
+|Department=Audio
+|Role=Sound Design (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Ben_Burtt
+|Company=
+|Department=Audio
+|Role=Original Star Wars Sound Effects (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jesse_Harlin
+|Company=
+|Department=Audio
+|Role=Music Editing / Implementation (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Darragh_OFarrell
+|Company=
+|Department=Audio
+|Role=Audio and International Department Manager (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Michael_Stemmle
+|Company=
+|Department=Design
+|Role=Writer (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Eric_Antanavich
+|Company=
+|Department=Visual Arts
+|Role=Video Post Production Artist (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Aaron_Reif
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Enrico_Granados
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Eric_Stephens
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jonathan_Kwong
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Keith_Romes
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Orion_Kellogg
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Orion_Tiller
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Zak_Huntwork
+|Company=
+|Department=Quality Assurance
+|Role=QA Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Sarah_Cherlin
+|Company=
+|Department=Quality Assurance
+|Role=Assistant Lead Compliance Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Chris_Navarro
+|Company=
+|Department=Quality Assurance
+|Role=Compliance Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jason_Wick
+|Company=
+|Department=Quality Assurance
+|Role=Compliane Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Ian_Riutta
+|Company=
+|Department=Quality Assurance
+|Role=Compliance Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jay_Geraci
+|Company=
+|Department=Quality Assurance
+|Role=Mastering Lab Supervisor (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Eric_Rauch
+|Company=
+|Department=Quality Assurance
+|Role=Mastering Lab (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jay_Tye
+|Company=
+|Department=Quality Assurance
+|Role=Mastering Lab (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Frederic_Plante
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Management (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Eric_Charbonneau
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Management (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Carolljo_Maher
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Management (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Mark_Springer
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Management (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Kayven_Meagher
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Management (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Guillaume_Jolicoeur
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Management (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Peter_Cooke
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Management (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Pierre_Langlois
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Management (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Dominic_Corbeil
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Management (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Aki_Holopainen
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Dominic_Luong
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Eric_Appelbaum
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Frederic_Blanchette
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Georges_Arvanitis
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Iain_WIlliamson
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Marc_Kingsbury
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Mathieu_Belair
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Mathieu_Rheaume
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Serge_Handfield
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Patrick_Grenon
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/David_Grenon
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jeremie_Alin
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Francois_Bissonnette
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Joe_Reardon
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP), Enzyme Lab International Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Olivier_Collet
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Nick_Alary
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Philip_Latour
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Philippe_Duplantie
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Raphael_Lesage
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Sebastien_SteCroix
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Stian_Weideborg
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Tammy_Loftus
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Yan_Ouellet
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jean_Scedrick_Beauregard
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab International Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jean_Sebastien_Cote
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab International Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Patrick_Couture
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab International Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Martin_Dodier
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab International Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Mickael_Fluery
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab International Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Marcello_Fortino
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab International Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Gabriele_Garulli
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab International Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Doriann_Grillo
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab International Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Francis_Labrecque
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab International Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Joanne_Ladouceur
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab International Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Joey_Lockie
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab International Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Antonio_Marganella
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab International Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Philippe_Masse
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab International Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Dominic_Norman
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab International Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Maxime_Plessis_Belair
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab International Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Philippe_St_Amant
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab International Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Philippe_Lepage
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Pre-Certification Manager (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Francois_Berthiaume
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Pre-Certification Team (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Maxime_Sabourin
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Pre-Certification Team (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Cybel_Fournier
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Pre-Certification Team (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Martin_Ferland
+|Company=
+|Department=Quality Assurance
+|Role=Enzyme Lab Pre-Certification Team (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Paul_Purdy
+|Company=
+|Department=Quality Assurance
+|Role=Manager of Quality Services (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Chuck_McFadden
+|Company=
+|Department=Quality Assurance
+|Role=QA Supervisor (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Chane_Doc_Hollander
+|Company=
+|Department=Quality Assurance
+|Role=Senoir Lead Tester (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Kellie_Walker
+|Company=
+|Department=Quality Assurance
+|Role=Quality Services Coordinator (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jim_Ward_153349
+|Company=
+|Department=Business
+|Role=President (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Kevin_Weston
+|Company=
+|Department=Business
+|Role=Vice President of FInance (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/John_Geoghegan
+|Company=
+|Department=Business
+|Role=Vice President of Global Marketing and Sales (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Atsuko_Matsumoto
+|Company=
+|Department=Business
+|Role=Senior Director of Production Services (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Kevin_Kurtz
+|Company=
+|Department=Business
+|Role=Director of Marketing (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Kevin_Kebodeaux
+|Company=
+|Department=Business
+|Role=Director of Global Sales (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Matthew_White
+|Company=
+|Department=Business
+|Role=Director of Studio Operations (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Sam_Saliba
+|Company=
+|Department=Business
+|Role=Product Marketing Manager (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Matthew_Shell
+|Company=
+|Department=Business
+|Role=Assistant Brand Manager (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Anne_Marie_Stein
+|Company=
+|Department=Business
+|Role=Director of Public Relations (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jason_Andersen
+|Company=
+|Department=Business
+|Role=Public Relations Manager (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Alexis_Mervin
+|Company=
+|Department=Business
+|Role=Media and Events Publicist (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Hadley_Fitzgerald
+|Company=
+|Department=Business
+|Role=Media and Events Publicist (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Christopher_B_Baker
+|Company=
+|Department=Programming
+|Role=Programmer (PS2, PSP) | Pandemic Studios, LLC
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Timothy_Moore
+|Company=
+|Department=Business
+|Role=Sales and Channel Marketing (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Terri_Dome
+|Company=
+|Department=Business
+|Role=Sales and Channel Marketing (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Mike_Maguire
+|Company=
+|Department=Business
+|Role=Sales and Channel Marketing (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Greg_Robles
+|Company=
+|Department=Business
+|Role=Sales and Channel Marketing (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Kristina_Landies
+|Company=
+|Department=Business
+|Role=Sales and Channel Marketing (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Evelyne_Bolling
+|Company=
+|Department=Business
+|Role=Operations (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Scott_Fry
+|Company=
+|Department=Business
+|Role=Operations (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jim_Passalacqua
+|Company=
+|Department=Business
+|Role=Internet Marketing Manager (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Sean_Denny
+|Company=
+|Department=Business
+|Role=Senior Manager of Strategic Marketing (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Melissa_Blegen
+|Company=
+|Department=Business
+|Role=Consumer Insights Strategic Marketing Specialist (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Heather_Desurvire
+|Company=
+|Department=Business
+|Role=Playability / Usability Specialist (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Stacy_Cheregotis
+|Company=
+|Department=Business
+|Role=Lucas Licensing (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Chris_Gollaher
+|Company=
+|Department=Business
+|Role=Lucas Licensing (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Kristi_Kaufman
+|Company=
+|Department=Business
+|Role=Lucas Licensing (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Leland_Chee
+|Company=
+|Department=Business
+|Role=Lucas Licensing (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Peggy_Ary
+|Company=
+|Department=Business
+|Role=Studio Coordinator (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Mette_Adams
+|Company=
+|Department=Business
+|Role=Studio Coordinator (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Matthew_Keast
+|Company=
+|Department=Production
+|Role=Manual Writer (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Patty_Hill
+|Company=
+|Department=Business
+|Role=Creative Services Manager / Manual Designer (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Seth_Steinberg
+|Company=
+|Department=Business
+|Role=Business Affairs (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Mark_Barbolak
+|Company=
+|Department=Business
+|Role=Business Affairs (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Anne_Marie_Hawkins
+|Company=
+|Department=Business
+|Role=Business Affairs (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/John_Garrett
+|Company=
+|Department=Business
+|Role=Business Affairs (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jannett_L_Shirley_Paul
+|Company=
+|Department=Business
+|Role=Business Affairs (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jim_Carpenter
+|Company=
+|Department=Business
+|Role=IT Support (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Daryll_Jacobson
+|Company=
+|Department=Business
+|Role=IT Support (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Dinesh_Katariya
+|Company=
+|Department=Business
+|Role=IT Support (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Joe_Shum
+|Company=
+|Department=Business
+|Role=IT Support (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Chad_Williams
+|Company=
+|Department=Business
+|Role=IT Support (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/John_von_Eichhorn
+|Company=
+|Department=Business
+|Role=IT Support (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Greg_Millies
+|Company=
+|Department=Business
+|Role=IT Support (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Victor_Tancredi_Ballugera
+|Company=
+|Department=Business
+|Role=IT Support (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/John_Doak
+|Company=
+|Department=Business
+|Role=IT Support (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Mike_Ethridge
+|Company=
+|Department=Business
+|Role=IT Support (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Melanie_Jacobson
+|Company=
+|Department=Business
+|Role=IT Support (PSP) | LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/George_Lucas
+|Company=
+|Department=Thanks
+|Role=Very Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Lloyd_Suey
+|Company=
+|Department=Thanks
+|Role=In Memory of 
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Margaret_Suey
+|Company=
+|Department=Thanks
+|Role=In Memory of 
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Deborah_Pacheco
+|Company=
+|Department=Thanks
+|Role=In Memory of 
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Katherine_Killinger
+|Company=
+|Department=Thanks
+|Role=In Memory of 
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Nereida_Quinones
+|Company=
+|Department=Thanks
+|Role=In Memory of 
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Ruth_Davenport
+|Company=
+|Department=Thanks
+|Role=In Memory of 
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Al_Goldsmith
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Alex_Sievers
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Amanda_Yaste
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Carly_Richardson
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Carson_Hildreth
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Catherine_Durand
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Chris_Adoneos
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Chris_Hockabout
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Currin_Cyr
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Erin_Haver
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Eva_Klein
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jack_OKeady
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Gavin_OKeady
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Jack_Hirschmann
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/John_Adoneos
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Julian_Lebeck
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Mackenzie_Merrill_Wick
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Mai_K_Tseng
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Matthew_Baume
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Melissa_Cordova
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Raleigh_Mann
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Robert_Monaghan
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Robin_Dyer_Pettit
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Sara_Harrison
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Tabitha_Tosti
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Star_Wars_Battlefront_II_7094
+|Release=
+|Dlc=
+|Person=People/Will_Melick
+|Company=
+|Department=Thanks
+|Role=Special Thanks (PSP) from LucasArts Entertainment
+}}
+</text>
+      <sha1>48zi3vn3jzvt75fqupb344v18qkw2m4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Starion 1983/Credits</title>
+    <ns>0</ns>
+    <id>250251</id>
+    <revision>
+      <id>250696</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250696</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="186" sha1="9ck1o9d2hv6mz9fvhagtc4nifwnftei" xml:space="preserve">{{Credits
+|ParentPage=Games/Starion_1983
+}}
+{{CreditSubobject
+|Game=Games/Starion_1983
+|Release=
+|Dlc=
+|Person=People/John_Bell
+|Company=
+|Department=Design
+|Role=Atari 8-bit game by
+}}
+</text>
+      <sha1>9ck1o9d2hv6mz9fvhagtc4nifwnftei</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Stars 8154/Credits</title>
+    <ns>0</ns>
+    <id>464752</id>
+    <revision>
+      <id>744508</id>
+      <timestamp>2026-03-04T21:17:35Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>744508</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="574" sha1="6bmu2bzv31bbm0nafbmivukzdu9l0mh" xml:space="preserve">{{Credits
+|ParentPage=Games/Stars_8154
+}}
+{{CreditSubobject
+|Game=Games/Stars_8154
+|Release=
+|Dlc=
+|Person=People/David_Pugh
+|Company=
+|Department=Thanks
+|Role=Technical advisor
+}}
+{{CreditSubobject
+|Game=Games/Stars_8154
+|Release=
+|Dlc=
+|Person=People/Jeff_Stone
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Stars_8154
+|Release=
+|Dlc=
+|Person=People/Jeff_McBride
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Stars_8154
+|Release=
+|Dlc=
+|Person=People/Jeffrey_A_Johnson
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>6bmu2bzv31bbm0nafbmivukzdu9l0mh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Starve Arena/Credits</title>
+    <ns>0</ns>
+    <id>249765</id>
+    <revision>
+      <id>250199</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250199</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="182" sha1="jkxv47vwf34y9ftrkslpef9fgsbb6fl" xml:space="preserve">{{Credits
+|ParentPage=Games/Starve_Arena
+}}
+{{CreditSubobject
+|Game=Games/Starve_Arena
+|Release=
+|Dlc=
+|Person=People/Nguyen_Dang_Tu_Tram
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+</text>
+      <sha1>jkxv47vwf34y9ftrkslpef9fgsbb6fl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Station to Station/Credits</title>
+    <ns>0</ns>
+    <id>250295</id>
+    <revision>
+      <id>250740</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250740</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="192" sha1="dh2rxl5fnutwhx5cpsjt9108tztex8q" xml:space="preserve">{{Credits
+|ParentPage=Games/Station_to_Station
+}}
+{{CreditSubobject
+|Game=Games/Station_to_Station
+|Release=
+|Dlc=
+|Person=People/Joost_van_Dongen
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>dh2rxl5fnutwhx5cpsjt9108tztex8q</sha1>
+    </revision>
+  </page>
+</mediawiki>

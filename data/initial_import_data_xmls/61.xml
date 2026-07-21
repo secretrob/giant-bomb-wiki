@@ -1,0 +1,1516 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Locations/Niger</title>
+    <ns>0</ns>
+    <id>264074</id>
+    <revision>
+      <id>264531</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264531</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="161" sha1="5x3lfusm1i9hf5o0zenuz16ym7pq1wj" xml:space="preserve">{{Location
+| Name=Niger
+| Guid=3035-8028
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5x3lfusm1i9hf5o0zenuz16ym7pq1wj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Nile Kingdom</title>
+    <ns>0</ns>
+    <id>264097</id>
+    <revision>
+      <id>637115</id>
+      <parentid>630014</parentid>
+      <timestamp>2026-02-13T21:28:03Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637115</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="897" sha1="8y4lcku7hwf7or75jc4bffcisw5icqb" xml:space="preserve">{{Location
+| Name=Nile Kingdom
+| Guid=3035-8051
+| Deck=A location that the ClueFinders visit in The ClueFinders 4th Grade Adventures: Puzzle of the Pyramid.
+| Characters=Characters/Associate_Mice,Characters/Fixnupan,Characters/Rocko_50680,Characters/Stone_Crocodile,Characters/The_Artist_Mouse,Characters/The_Cat,Characters/The_Map_Mouse
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3464623-6081011978-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3464623-6081011978-latest.png","path":"7\/73970\/","mime":"image\/png","sizes":"square_small,square_medium,square_avatar,scale_medium,scale_small,square_mini,scale_super,square_tiny,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A location that the ClueFinders visit in The ClueFinders 4th Grade Adventures: Puzzle of the Pyramid.</text>
+      <sha1>8y4lcku7hwf7or75jc4bffcisw5icqb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Nivalis</title>
+    <ns>0</ns>
+    <id>264055</id>
+    <revision>
+      <id>637100</id>
+      <parentid>629999</parentid>
+      <timestamp>2026-02-13T21:27:53Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637100</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="732" sha1="ouznmwjgl8io1nd8og5khpl8alc3gx9" xml:space="preserve">{{Location
+| Name=Nivalis
+| Guid=3035-8009
+| Deck=The major city in which the story line of the game Cloudpunk takes place.
+| Characters=Characters/Lomo,Characters/Never_Slow_Joe,Characters/Rania
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3454911-4751540262-350.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3454911-4751540262-350.png","path":"7\/73970\/","mime":"image\/png","sizes":"square_small,square_medium,square_avatar,scale_medium,scale_super,scale_small,scale_tiny,square_mini,square_tiny,screen_kubrick,scale_avatar,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+The major city in which the story line of the game Cloudpunk takes place.</text>
+      <sha1>ouznmwjgl8io1nd8og5khpl8alc3gx9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Norfolk</title>
+    <ns>0</ns>
+    <id>264295</id>
+    <revision>
+      <id>637250</id>
+      <parentid>630149</parentid>
+      <timestamp>2026-02-13T21:29:39Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637250</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="758" sha1="3fcfxw7y2mzeet4n0fh5etd42go2ear" xml:space="preserve">{{Location
+| Name=Norfolk
+| Guid=3035-8250
+| Deck=A city in Virginia and the home of Old Dominion University.
+| Characters=
+| Concepts=Concepts/Old_Dominion_Monarchs
+| Objects=
+| Locations=Locations/Southern_United_States,Locations/The_United_States_of_America,Locations/Virginia
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614417-8200440712-Norfo.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614417-8200440712-Norfo.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_small,scale_medium,square_tiny,square_medium,square_small,scale_super,square_avatar,square_mini,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+A city in Virginia and the home of Old Dominion University.</text>
+      <sha1>3fcfxw7y2mzeet4n0fh5etd42go2ear</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Norman</title>
+    <ns>0</ns>
+    <id>264293</id>
+    <revision>
+      <id>637248</id>
+      <parentid>630147</parentid>
+      <timestamp>2026-02-13T21:29:37Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637248</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="710" sha1="4v0rttmvtknv18cx2rp7k92p3v0k0lk" xml:space="preserve">{{Location
+| Name=Norman
+| Guid=3035-8248
+| Deck=A city in Oklahoma and the home of Oklahoma University.
+| Characters=
+| Concepts=Concepts/Oklahoma_Sooners
+| Objects=
+| Locations=Locations/Oklahoma,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614415-2023680400-thing.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614415-2023680400-thing.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_small,square_small,scale_super,square_medium,scale_medium,square_tiny,square_avatar,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Oklahoma and the home of Oklahoma University.</text>
+      <sha1>4v0rttmvtknv18cx2rp7k92p3v0k0lk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/North Sea</title>
+    <ns>0</ns>
+    <id>264030</id>
+    <revision>
+      <id>637096</id>
+      <parentid>629995</parentid>
+      <timestamp>2026-02-13T21:27:50Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637096</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="899" sha1="ozcb5d2ltanhqkt6wxm624nk85fbj02" xml:space="preserve">{{Location
+| Name=North Sea
+| Guid=3035-7984
+| Deck=An epeiric sea that lies between Great Britain, Norway, Denmark, Germany, the Netherlands, Belgium and France.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Belgium,Locations/Denmark,Locations/Europe,Locations/France,Locations/Germany,Locations/Norway,Locations/The_Netherlands,Locations/United_Kingdom
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3451338-1537259351-800px.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3451338-1537259351-800px.jpg","path":"7\/73970\/","mime":"image\/jpeg","sizes":"square_small,scale_small,scale_medium,scale_super,square_medium,square_tiny,square_avatar,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+An epeiric sea that lies between Great Britain, Norway, Denmark, Germany, the Netherlands, Belgium and France.</text>
+      <sha1>ozcb5d2ltanhqkt6wxm624nk85fbj02</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Northwest Territories</title>
+    <ns>0</ns>
+    <id>264358</id>
+    <revision>
+      <id>264816</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264816</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="177" sha1="o8t49b873k1z8ap79fltuao12k7j4ma" xml:space="preserve">{{Location
+| Name=Northwest Territories
+| Guid=3035-8314
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>o8t49b873k1z8ap79fltuao12k7j4ma</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Nova Scotia</title>
+    <ns>0</ns>
+    <id>264356</id>
+    <revision>
+      <id>264814</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264814</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="167" sha1="r5oxu23c1cl1smo74w355xvr2wuzkfg" xml:space="preserve">{{Location
+| Name=Nova Scotia
+| Guid=3035-8312
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>r5oxu23c1cl1smo74w355xvr2wuzkfg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Numeria</title>
+    <ns>0</ns>
+    <id>264091</id>
+    <revision>
+      <id>637109</id>
+      <parentid>630008</parentid>
+      <timestamp>2026-02-13T21:27:59Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637109</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1623" sha1="cd79xmgzncqyqdvz5rmuwdp85oep93x" xml:space="preserve">{{Location
+| Name=Numeria
+| Guid=3035-8045
+| Deck=The fictional setting of The ClueFinders 3rd Grade Adventures: Mystery of Mathra, located somewhere in the tropical region of South America.
+| Characters=Characters/Antonio_50644,Characters/Bird_Brain,Characters/Brainstorm_50671,Characters/Charlie_50664,Characters/Chest_Monkey,Characters/Door_Monkey,Characters/Goo_Creature,Characters/Goocifer,Characters/Lefty_50667,Characters/Liverpuddlians,Characters/Monument_Monkey,Characters/Oomla,Characters/Queen_Itchybella,Characters/Righty,Characters/Sentinel_50643,Characters/Spit_Spot,Characters/The_Bat,Characters/The_Bird,Characters/The_Centipede,Characters/The_Dragons,Characters/The_Flower,Characters/The_Orb_50670,Characters/Tree,Characters/Twin_Spiders,Characters/Vasco_de_Bongo,Characters/Vine_50654,Characters/Vine_Monkey,Characters/Yellow_Matter,Characters/Yorrick,Characters/Zep,Characters/Zoe_50666
+| Concepts=
+| Objects=
+| Locations=Locations/Goo_Lagoon,Locations/Jungle_Canopy,Locations/Lost_City,Locations/Monkey_Kingdom,Locations/Numerian_Rainforest
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3464006-0562632016-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3464006-0562632016-latest.png","path":"7\/73970\/","mime":"image\/png","sizes":"square_small,square_medium,scale_small,scale_super,scale_medium,square_avatar,square_mini,square_tiny,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+The fictional setting of The ClueFinders 3rd Grade Adventures: Mystery of Mathra, located somewhere in the tropical region of South America.</text>
+      <sha1>cd79xmgzncqyqdvz5rmuwdp85oep93x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Numerian Rainforest</title>
+    <ns>0</ns>
+    <id>264107</id>
+    <revision>
+      <id>637125</id>
+      <parentid>630024</parentid>
+      <timestamp>2026-02-13T21:28:10Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637125</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="646" sha1="7y5cvlufwks99fp35rw3gg2v2t7vkvs" xml:space="preserve">{{Location
+| Name=Numerian Rainforest
+| Guid=3035-8061
+| Deck=A rainforest in Numeria.
+| Characters=Characters/Dr_Horace_Pythagoras,Characters/Mathra
+| Concepts=
+| Objects=
+| Locations=Locations/Numeria
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3464811-2272167171-1000.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3464811-2272167171-1000.jpg","path":"7\/73970\/","mime":"image\/jpeg","sizes":"scale_small,scale_super,square_small,square_medium,square_tiny,scale_medium,square_avatar,square_mini,screen_medium,scale_large,scale_avatar,screen_kubrick","caption":null},"background":[]}' /&gt;
+A rainforest in Numeria.</text>
+      <sha1>7y5cvlufwks99fp35rw3gg2v2t7vkvs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Nunavut</title>
+    <ns>0</ns>
+    <id>264362</id>
+    <revision>
+      <id>637298</id>
+      <parentid>630197</parentid>
+      <timestamp>2026-02-13T21:30:12Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637298</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="850" sha1="dv74fl1o7uwzdx9ki12639tu8be9pu8" xml:space="preserve">{{Location
+| Name=Nunavut
+| Guid=3035-8318
+| Deck=Nunavut is the largest, easternmost, and northernmost territory of Canada. It was part of the Northwest Territory until April 1, 1999.
+| Characters=
+| Concepts=Concepts/Snow
+| Objects=
+| Locations=Locations/Canada,Locations/North_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3648575-1185783376-2560p.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3648575-1185783376-2560p.png","path":"151\/1511438\/","mime":"image\/png","sizes":"square_small,scale_small,scale_medium,square_avatar,square_medium,square_tiny,square_mini,scale_super,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Nunavut is the largest, easternmost, and northernmost territory of Canada. It was part of the Northwest Territory until April 1, 1999.</text>
+      <sha1>dv74fl1o7uwzdx9ki12639tu8be9pu8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/OLeary Mountain</title>
+    <ns>0</ns>
+    <id>264400</id>
+    <revision>
+      <id>637311</id>
+      <parentid>630210</parentid>
+      <timestamp>2026-02-13T21:30:21Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637311</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="768" sha1="eb57br906hfk2v1xcpd2nf7gbfi7jiw" xml:space="preserve">{{Location
+| Name=O'Leary Mountain
+| Guid=3035-8356
+| Deck=A mountain range in Oregon, USA.
+| Characters=Characters/Boozer,Characters/Deacon_St_John
+| Concepts=
+| Objects=
+| Locations=Locations/Earth,Locations/Mountains,Locations/North_America,Locations/Oregon,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3732349-img_4129.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3732349-img_4129.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_small,scale_super,scale_medium,scale_small,square_medium,square_avatar,screen_kubrick,scale_large,scale_avatar,square_mini,square_tiny,screen_medium","caption":null},"background":[]}' /&gt;
+A mountain range in Oregon, USA.</text>
+      <sha1>eb57br906hfk2v1xcpd2nf7gbfi7jiw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Ocean Planet</title>
+    <ns>0</ns>
+    <id>264205</id>
+    <revision>
+      <id>264662</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264662</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="610" sha1="o6vz9mcx1chv4fieh1ze3zfbozjqnwv" xml:space="preserve">{{Location
+| Name=Ocean Planet
+| Guid=3035-8159
+| Deck=The '''Ocean Planet''' is a fictional planet appearing in the the Sega Mega Drive–Genesis version of Teenage Mutant Ninja Turtles: Tournament Fighters. Located in Dimension X, it is where Clone Ray Fillet is fought.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The '''Ocean Planet''' is a fictional planet appearing in the the Sega Mega Drive–Genesis version of Teenage Mutant Ninja Turtles: Tournament Fighters. Located in Dimension X, it is where Clone Ray Fillet is fought.</text>
+      <sha1>o6vz9mcx1chv4fieh1ze3zfbozjqnwv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Odar</title>
+    <ns>0</ns>
+    <id>264221</id>
+    <revision>
+      <id>264679</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264679</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="404" sha1="sdxl4n6mdi44gqltxz7r02sx18gjv2i" xml:space="preserve">{{Location
+| Name=Odar
+| Guid=3035-8176
+| Deck=Odar is a fictional planet from the 1990 video game The Adventures of Rad Gravity. The planet has an underground maze.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Odar is a fictional planet from the 1990 video game The Adventures of Rad Gravity. The planet has an underground maze.</text>
+      <sha1>sdxl4n6mdi44gqltxz7r02sx18gjv2i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Office</title>
+    <ns>0</ns>
+    <id>264167</id>
+    <revision>
+      <id>637163</id>
+      <parentid>630062</parentid>
+      <timestamp>2026-02-13T21:28:38Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637163</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="963" sha1="dyieer11q5f6z4u5b9ln0gvzgz0hteu" xml:space="preserve">{{Location
+| Name=Office
+| Guid=3035-8121
+| Deck=An office is a room or other area in which people work, or a position within an organization with specific duties and rights attached.
+| Characters=Characters/Retsuko
+| Concepts=Concepts/Interior_Decorating,Concepts/Source_Engine
+| Objects=Objects/Computer,Objects/Office_Chair,Objects/Table
+| Locations=Locations/cs_office,Locations/Office_Building
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3517064-8805928946-.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3517064-8805928946-.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"scale_medium,square_avatar,square_small,square_medium,scale_small,scale_super,square_mini,square_tiny,scale_avatar,scale_tiny,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+An office is a room or other area in which people work, or a position within an organization with specific duties and rights attached.</text>
+      <sha1>dyieer11q5f6z4u5b9ln0gvzgz0hteu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Oge Mai Valley</title>
+    <ns>0</ns>
+    <id>264056</id>
+    <revision>
+      <id>264513</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264513</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="170" sha1="5st1i8g8xr1gi6a8p0wetpvrzfdozn8" xml:space="preserve">{{Location
+| Name=Oge-Mai Valley
+| Guid=3035-8010
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5st1i8g8xr1gi6a8p0wetpvrzfdozn8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Okayama International Circuit</title>
+    <ns>0</ns>
+    <id>264068</id>
+    <revision>
+      <id>264525</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264525</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="k9rkigk7ljzi9tn2k6g2ih5605svojp" xml:space="preserve">{{Location
+| Name=Okayama International Circuit
+| Guid=3035-8022
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>k9rkigk7ljzi9tn2k6g2ih5605svojp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Okutama</title>
+    <ns>0</ns>
+    <id>264061</id>
+    <revision>
+      <id>264518</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264518</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="7a0ijkv71fc9rgliruiksga4pc96e00" xml:space="preserve">{{Location
+| Name=Okutama
+| Guid=3035-8015
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Japan,Locations/Tokyo
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+'''Okutama '''(奥多摩町, ''Oku-Tama-machi'') is a town located in the western portion of Tokyo Metropolis, Japan.
+</text>
+      <sha1>7a0ijkv71fc9rgliruiksga4pc96e00</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Oulton Park</title>
+    <ns>0</ns>
+    <id>264064</id>
+    <revision>
+      <id>264521</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264521</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="167" sha1="pew2fsmvf9uoryn63eqav3sfipusvhw" xml:space="preserve">{{Location
+| Name=Oulton Park
+| Guid=3035-8018
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>pew2fsmvf9uoryn63eqav3sfipusvhw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Oxford 8233</title>
+    <ns>0</ns>
+    <id>264278</id>
+    <revision>
+      <id>637233</id>
+      <parentid>630132</parentid>
+      <timestamp>2026-02-13T21:29:27Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637233</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="711" sha1="nuinndd4q4sr2q2gd0fi38aauwmvgso" xml:space="preserve">{{Location
+| Name=Oxford
+| Guid=3035-8233
+| Deck=Oxford is a city in Ohio and the home of Miami University.
+| Characters=
+| Concepts=Concepts/Miami_RedHawks
+| Objects=
+| Locations=Locations/Ohio,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614372-9287370394-oxfor.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614372-9287370394-oxfor.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_tiny,square_small,scale_super,scale_medium,scale_small,square_medium,square_avatar,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Oxford is a city in Ohio and the home of Miami University.</text>
+      <sha1>nuinndd4q4sr2q2gd0fi38aauwmvgso</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Oxford 8251</title>
+    <ns>0</ns>
+    <id>264296</id>
+    <revision>
+      <id>637251</id>
+      <parentid>630150</parentid>
+      <timestamp>2026-02-13T21:29:39Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637251</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="841" sha1="l5ta6q0jwjpotnmcxaui97u2zn5rx1p" xml:space="preserve">{{Location
+| Name=Oxford
+| Guid=3035-8251
+| Deck=A city in Mississippi and the home of the University of Mississippi, which is better known as Ole Miss.
+| Characters=
+| Concepts=Concepts/Ole_Miss_Rebels
+| Objects=
+| Locations=Locations/Mississippi,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614371-7611140148-Oxfor.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614371-7611140148-Oxfor.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_small,scale_small,square_medium,square_tiny,scale_medium,scale_super,square_avatar,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Mississippi and the home of the University of Mississippi, which is better known as Ole Miss.</text>
+      <sha1>l5ta6q0jwjpotnmcxaui97u2zn5rx1p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Oxnard</title>
+    <ns>0</ns>
+    <id>264367</id>
+    <revision>
+      <id>637299</id>
+      <parentid>630198</parentid>
+      <timestamp>2026-02-13T21:30:13Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637299</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1516" sha1="aykxs8f7w3zms20n2wsghjavyswonss" xml:space="preserve">{{Location
+| Name=Oxnard
+| Guid=3035-8323
+| Deck=Oxnard is a city in Ventura County, California. It is known for its rich farm land, beaches, and occasional gang activity.
+| Characters=Characters/Anderson_Paak,Characters/Tony_Ferguson
+| Concepts=Concepts/Gangs,Concepts/Lawbreaking,Concepts/Military,Concepts/Police,Concepts/United_States_Air_Force,Concepts/United_States_Army,Concepts/United_States_National_Guard,Concepts/United_States_Navy
+| Objects=
+| Locations=Locations/Beach,Locations/Burger_King,Locations/California,Locations/Church,Locations/Earth,Locations/Factory,Locations/Farm,Locations/Gas_Station,Locations/McDonalds,Locations/Military_Base,Locations/North_America,Locations/Pacific_Ocean,Locations/Subway_3715,Locations/Taco_Bell,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America,Locations/Thousand_Oaks,Locations/U_S_Route_101,Locations/Ventura_County,Locations/Wendys
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3650583-plaza-park-oxnard_brallan-perez-favela-2-1024x682.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3650583-plaza-park-oxnard_brallan-perez-favela-2-1024x682.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_medium,square_small,scale_small,scale_super,scale_medium,square_avatar,square_mini,square_tiny,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Oxnard is a city in Ventura County, California. It is known for its rich farm land, beaches, and occasional gang activity.</text>
+      <sha1>aykxs8f7w3zms20n2wsghjavyswonss</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Pangya Island</title>
+    <ns>0</ns>
+    <id>264329</id>
+    <revision>
+      <id>637284</id>
+      <parentid>630183</parentid>
+      <timestamp>2026-02-13T21:30:01Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637284</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="862" sha1="6fbvqrzi17hja14i9z5hw9yrkewn0pn" xml:space="preserve">{{Location
+| Name=Pangya Island
+| Guid=3035-8285
+| Deck=Pangya Island is a beautiful location where all golfers played for their tournament.
+| Characters=Characters/Arin,Characters/Azer,Characters/Cecilia_8385,Characters/Kooh,Characters/Lucia_55229,Characters/Max_55230,Characters/Nuri
+| Concepts=Concepts/Golf,Concepts/Tournament
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3613257-img_2480.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3613257-img_2480.png","path":"137\/1377390\/","mime":"image\/png","sizes":"square_small,square_mini,square_medium,square_avatar,square_tiny,scale_small,scale_super,scale_medium,scale_tiny,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Pangya Island is a beautiful location where all golfers played for their tournament.</text>
+      <sha1>6fbvqrzi17hja14i9z5hw9yrkewn0pn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Panthalassa Junction</title>
+    <ns>0</ns>
+    <id>264016</id>
+    <revision>
+      <id>637084</id>
+      <parentid>629983</parentid>
+      <timestamp>2026-02-13T21:27:42Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637084</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="837" sha1="431uf6k7frw82y4gq7dr7j6jb8hxg5w" xml:space="preserve">{{Location
+| Name=Panthalassa Junction
+| Guid=3035-7970
+| Deck=Derelict series of roads that was once a part of a bustling civilization.  Now inhabited by monsters and corrupt AI.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/20/202039/3445126-2022112723075500-e0a513f2ff231ca5e32e8423db190112.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3445126-2022112723075500-e0a513f2ff231ca5e32e8423db190112.jpg","path":"20\/202039\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_small,square_medium,square_avatar,scale_super,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Derelict series of roads that was once a part of a bustling civilization.  Now inhabited by monsters and corrupt AI.</text>
+      <sha1>431uf6k7frw82y4gq7dr7j6jb8hxg5w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Papua New Guinea</title>
+    <ns>0</ns>
+    <id>264033</id>
+    <revision>
+      <id>264490</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264490</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="394" sha1="k4c1evayrtw8cvn9960poymr6tqxd2s" xml:space="preserve">{{Location
+| Name=Papua New Guinea
+| Guid=3035-7987
+| Deck=Papua New Guinea is an island monarchy in the Northwestern Pacific Ocean. Its capital city is Port Moresby.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Papua New Guinea is an island monarchy in the Northwestern Pacific Ocean. Its capital city is Port Moresby.</text>
+      <sha1>k4c1evayrtw8cvn9960poymr6tqxd2s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Petria</title>
+    <ns>0</ns>
+    <id>264025</id>
+    <revision>
+      <id>637093</id>
+      <parentid>629992</parentid>
+      <timestamp>2026-02-13T21:27:47Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637093</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1339" sha1="3yqhn898uk48o1fgpoboybs2qkwgnhc" xml:space="preserve">{{Location
+| Name=Petria
+| Guid=3035-7979
+| Deck=A fictional nation which is the main setting for the Road 96 franchise.
+| Characters=
+| Concepts=Concepts/Road_Trip
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/153/1539451/3448172-flag_of_petria.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3448172-flag_of_petria.png","path":"153\/1539451\/","mime":"image\/png","sizes":"square_small,scale_super,square_medium,scale_medium,scale_small,square_tiny,square_avatar,scale_tiny,square_mini,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":"flag of Petria"},"background":[]}' /&gt;
+Petria is a relatively small inlet nation that is said to resemble an interstate marker sign. A single journey from the bottom of the nation to its unnamed neighbor to the north through Road 96 is said to at least be 3000 miles. The bottom portion is a vast wasteland littered with abandoned gas stations, failing infrastructure, and oil pipelines, while the top portion is teeming with thriving forests. Petria is not without civilization, however, and has a few highly populated cities which include White Sands and Colton City.
+The nation is ruled by one party under President Tyrak, an authoritarian who firmly seized power with an iron fist following a tragic incident known as the Collapse of '86.</text>
+      <sha1>3yqhn898uk48o1fgpoboybs2qkwgnhc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Petrovac</title>
+    <ns>0</ns>
+    <id>264399</id>
+    <revision>
+      <id>264857</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264857</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="317" sha1="teu65jgt0anpd7dyi34um0ionhl13av" xml:space="preserve">{{Location
+| Name=Petrovac
+| Guid=3035-8355
+| Deck=is a small town in Coastal region of Montenegro
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Montenegro,Locations/Ocean,Locations/Town
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+is a small town in Coastal region of Montenegro</text>
+      <sha1>teu65jgt0anpd7dyi34um0ionhl13av</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Phantasmagoria</title>
+    <ns>0</ns>
+    <id>264017</id>
+    <revision>
+      <id>637085</id>
+      <parentid>629984</parentid>
+      <timestamp>2026-02-13T21:27:42Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637085</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="809" sha1="evminog8fxp8nr8ywv7h1fh4hsx2mhd" xml:space="preserve">{{Location
+| Name=Phantasmagoria
+| Guid=3035-7971
+| Deck=Derelict, technologically-advanced theme park that was once extremely popular, especially among children.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/20/202039/3445127-2022112921004900-e0a513f2ff231ca5e32e8423db190112.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3445127-2022112921004900-e0a513f2ff231ca5e32e8423db190112.jpg","path":"20\/202039\/","mime":"image\/jpeg","sizes":"square_medium,scale_medium,scale_small,square_small,square_avatar,square_tiny,scale_super,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Derelict, technologically-advanced theme park that was once extremely popular, especially among children.</text>
+      <sha1>evminog8fxp8nr8ywv7h1fh4hsx2mhd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Phillip Island Grand Prix Circuit</title>
+    <ns>0</ns>
+    <id>264088</id>
+    <revision>
+      <id>264545</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264545</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="1s1nypr1vhe7x0h5pbwj27p14dflrf5" xml:space="preserve">{{Location
+| Name=Phillip Island Grand Prix Circuit
+| Guid=3035-8042
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>1s1nypr1vhe7x0h5pbwj27p14dflrf5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Pinocchios Village</title>
+    <ns>0</ns>
+    <id>264464</id>
+    <revision>
+      <id>264922</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264922</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="175" sha1="c09v9a9xnemtcnoreg1zrraiuhpf09u" xml:space="preserve">{{Location
+| Name=Pinocchio's Village
+| Guid=3035-8421
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>c09v9a9xnemtcnoreg1zrraiuhpf09u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Piscataway</title>
+    <ns>0</ns>
+    <id>264303</id>
+    <revision>
+      <id>637258</id>
+      <parentid>630157</parentid>
+      <timestamp>2026-02-13T21:29:44Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637258</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="726" sha1="in629s34an5692syzz76zexqioo2vq0" xml:space="preserve">{{Location
+| Name=Piscataway
+| Guid=3035-8258
+| Deck=A city in New Jersey and the home of Rutgers University.
+| Characters=
+| Concepts=Concepts/Rutgers_Scarlet_Knights
+| Objects=
+| Locations=Locations/New_Jersey,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614423-3670660899-best_.JPG}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614423-3670660899-best_.JPG","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,scale_medium,square_medium,square_small,square_tiny,scale_small,square_avatar,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A city in New Jersey and the home of Rutgers University.</text>
+      <sha1>in629s34an5692syzz76zexqioo2vq0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Planet 51</title>
+    <ns>0</ns>
+    <id>263996</id>
+    <revision>
+      <id>264453</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264453</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" sha1="gr98ojwqsg0ygzu1tipxi6q9363iyvh" xml:space="preserve">{{Location
+| Name=Planet 51
+| Guid=3035-7950
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>gr98ojwqsg0ygzu1tipxi6q9363iyvh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Pleasant Manor</title>
+    <ns>0</ns>
+    <id>264423</id>
+    <revision>
+      <id>264881</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264881</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="170" sha1="qmyqp1fmkfqoy0v48kzusv1i9ye0sjh" xml:space="preserve">{{Location
+| Name=Pleasant Manor
+| Guid=3035-8379
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>qmyqp1fmkfqoy0v48kzusv1i9ye0sjh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Pleasant Park</title>
+    <ns>0</ns>
+    <id>264413</id>
+    <revision>
+      <id>264871</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264871</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="169" sha1="fih91dmjqrk3d8jbysqddr0e1nldhzj" xml:space="preserve">{{Location
+| Name=Pleasant Park
+| Guid=3035-8369
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>fih91dmjqrk3d8jbysqddr0e1nldhzj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Politiopia</title>
+    <ns>0</ns>
+    <id>264137</id>
+    <revision>
+      <id>264594</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264594</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="166" sha1="0oxmpvxsml34nxmc5twl67741o853v7" xml:space="preserve">{{Location
+| Name=Politiopia
+| Guid=3035-8091
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>0oxmpvxsml34nxmc5twl67741o853v7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Port Abel</title>
+    <ns>0</ns>
+    <id>264023</id>
+    <revision>
+      <id>637091</id>
+      <parentid>629990</parentid>
+      <timestamp>2026-02-13T21:27:46Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637091</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="767" sha1="83a0knjzo39j88o53y908kx3cj9e4m6" xml:space="preserve">{{Location
+| Name=Port Abel
+| Guid=3035-7977
+| Deck=Port Abel serves as the neighborhood in which the Nintendo 3DS version of The Sims 3: Pets takes place.
+| Characters=Characters/Gibson_Goth,Characters/Juliette_Landgraab
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3447164-port_abel.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3447164-port_abel.png","path":"8\/82962\/","mime":"image\/png","sizes":"square_medium,scale_small,scale_super,square_small,square_avatar,scale_medium,square_tiny,square_mini,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+Port Abel serves as the neighborhood in which the Nintendo 3DS version of The Sims 3: Pets takes place.</text>
+      <sha1>83a0knjzo39j88o53y908kx3cj9e4m6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Port Royal</title>
+    <ns>0</ns>
+    <id>264432</id>
+    <revision>
+      <id>264890</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264890</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="166" sha1="g34agzohp07m4p70ngh8ywjkl5h6r63" xml:space="preserve">{{Location
+| Name=Port Royal
+| Guid=3035-8388
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>g34agzohp07m4p70ngh8ywjkl5h6r63</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Prince Edward Island</title>
+    <ns>0</ns>
+    <id>264361</id>
+    <revision>
+      <id>264819</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264819</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="176" sha1="cl5tkxdp431ojilbe6if8qmz6kfrz3a" xml:space="preserve">{{Location
+| Name=Prince Edward Island
+| Guid=3035-8317
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>cl5tkxdp431ojilbe6if8qmz6kfrz3a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Provo</title>
+    <ns>0</ns>
+    <id>264244</id>
+    <revision>
+      <id>637199</id>
+      <parentid>630098</parentid>
+      <timestamp>2026-02-13T21:29:04Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637199</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="713" sha1="e2v1pou77xcgja9e0evooigwd0k2boi" xml:space="preserve">{{Location
+| Name=Provo
+| Guid=3035-8199
+| Deck=Provo is a city in Utah and home of Brigham Young University.
+| Characters=
+| Concepts=Concepts/BYU_Cougars
+| Objects=
+| Locations=Locations/The_United_States_of_America,Locations/Utah
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614060-9290134559-downt.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614060-9290134559-downt.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,square_medium,square_small,square_tiny,scale_small,scale_medium,square_avatar,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+Provo is a city in Utah and home of Brigham Young University.</text>
+      <sha1>e2v1pou77xcgja9e0evooigwd0k2boi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Pullman</title>
+    <ns>0</ns>
+    <id>264323</id>
+    <revision>
+      <id>637278</id>
+      <parentid>630177</parentid>
+      <timestamp>2026-02-13T21:29:57Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637278</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="742" sha1="kg7oe1s22reftye7crf3pyga1o2kver" xml:space="preserve">{{Location
+| Name=Pullman
+| Guid=3035-8279
+| Deck=A city in Washington and the home of Washington State University.
+| Characters=
+| Concepts=Concepts/Washington_State_Cougars
+| Objects=
+| Locations=Locations/The_United_States_of_America,Locations/Washington
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614442-9071754967-pullm.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614442-9071754967-pullm.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,scale_medium,square_medium,square_small,square_tiny,scale_small,square_avatar,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Washington and the home of Washington State University.</text>
+      <sha1>kg7oe1s22reftye7crf3pyga1o2kver</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Pyrenees Mountains</title>
+    <ns>0</ns>
+    <id>264380</id>
+    <revision>
+      <id>264838</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264838</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="386" sha1="igmvq5fjg3kvrq6pjq0c8bgs7kd2gso" xml:space="preserve">{{Location
+| Name=Pyrenees Mountains
+| Guid=3035-8336
+| Deck=The Pyrenees are a mountain range straddling the border of France and Spain.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/France,Locations/Mountains,Locations/Spain
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The Pyrenees are a mountain range straddling the border of France and Spain.</text>
+      <sha1>igmvq5fjg3kvrq6pjq0c8bgs7kd2gso</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Quarantine Zone</title>
+    <ns>0</ns>
+    <id>263995</id>
+    <revision>
+      <id>264452</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264452</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="171" sha1="phqqcqrpf990bi7k6zz8qg3pnf06vjy" xml:space="preserve">{{Location
+| Name=Quarantine Zone
+| Guid=3035-7949
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>phqqcqrpf990bi7k6zz8qg3pnf06vjy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Queens</title>
+    <ns>0</ns>
+    <id>264369</id>
+    <revision>
+      <id>637301</id>
+      <parentid>630200</parentid>
+      <timestamp>2026-02-13T21:30:14Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637301</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="852" sha1="gu0h05aqc2m7sn9o7sv54wl36z85o7n" xml:space="preserve">{{Location
+| Name=Queens
+| Guid=3035-8325
+| Deck=Queens is a borough of New York City, coextensive with Queens County, in the U.S. state of New York.
+| Characters=Characters/50_Cent,Characters/Peter_Parker
+| Concepts=
+| Objects=
+| Locations=Locations/New_York,Locations/New_York_City,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3653272-4676544932-iStoc.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3653272-4676544932-iStoc.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"scale_medium,square_avatar,square_medium,square_small,square_mini,scale_super,scale_small,square_tiny,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Queens is a borough of New York City, coextensive with Queens County, in the U.S. state of New York.</text>
+      <sha1>gu0h05aqc2m7sn9o7sv54wl36z85o7n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Radiator Springs</title>
+    <ns>0</ns>
+    <id>264446</id>
+    <revision>
+      <id>264904</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264904</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="172" sha1="3zrkw0hyh82z5dn5o21ptfbzwvgaapw" xml:space="preserve">{{Location
+| Name=Radiator Springs
+| Guid=3035-8403
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3zrkw0hyh82z5dn5o21ptfbzwvgaapw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Rasunda Soccer Stadium</title>
+    <ns>0</ns>
+    <id>264053</id>
+    <revision>
+      <id>264510</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264510</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="667" sha1="e2yrvxudsbuy1w1mha1g6cqd1s58aen" xml:space="preserve">{{Location
+| Name=Råsunda Soccer Stadium
+| Guid=3035-8007
+| Deck=The Råsunda Soccer Stadium was a soccer stadium in Solna, Sweden. It was inaugurated in April 1937, and closed down in November 2012, before being demolished in 2013. The stadium was the home soil for AIK and, many times also, Team Sweden.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The Råsunda Soccer Stadium was a soccer stadium in Solna, Sweden. It was inaugurated in April 1937, and closed down in November 2012, before being demolished in 2013. The stadium was the home soil for AIK and, many times also, Team Sweden.</text>
+      <sha1>e2yrvxudsbuy1w1mha1g6cqd1s58aen</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Reality Zero</title>
+    <ns>0</ns>
+    <id>264411</id>
+    <revision>
+      <id>264869</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264869</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="168" sha1="n2wh2445jf2pq2xi03hd34t21iollly" xml:space="preserve">{{Location
+| Name=Reality Zero
+| Guid=3035-8367
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>n2wh2445jf2pq2xi03hd34t21iollly</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Red Circus</title>
+    <ns>0</ns>
+    <id>264116</id>
+    <revision>
+      <id>264573</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264573</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="166" sha1="g9ainvxqabibq24jl03g4j8it8vzop1" xml:space="preserve">{{Location
+| Name=Red Circus
+| Guid=3035-8070
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>g9ainvxqabibq24jl03g4j8it8vzop1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Red Square</title>
+    <ns>0</ns>
+    <id>264448</id>
+    <revision>
+      <id>637332</id>
+      <parentid>630231</parentid>
+      <timestamp>2026-02-13T21:30:36Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637332</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="546" sha1="ed8yujso0ovxbrs0sohqqe81gepjrnz" xml:space="preserve">{{Location
+| Name=Red Square
+| Guid=3035-8405
+| Deck=Square in Moscow, Russia
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Moscow,Locations/Russia
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3797960-redsquare.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3797960-redsquare.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_medium,scale_super,scale_small,square_mini,square_avatar,square_tiny","caption":null},"background":[]}' /&gt;
+Square in Moscow, Russia</text>
+      <sha1>ed8yujso0ovxbrs0sohqqe81gepjrnz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Reiho Academy</title>
+    <ns>0</ns>
+    <id>264454</id>
+    <revision>
+      <id>264912</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264912</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="194" sha1="9c0f0kizs8vk9x2hh7bby5rxh6g49x0" xml:space="preserve">{{Location
+| Name=Reihō Academy
+| Guid=3035-8411
+| Characters=Characters/Kazumi_Hasebe
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9c0f0kizs8vk9x2hh7bby5rxh6g49x0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Resort</title>
+    <ns>0</ns>
+    <id>264455</id>
+    <revision>
+      <id>264913</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264913</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="251" sha1="nv13n056jw1tlf8ziybs6rou6otv6x8" xml:space="preserve">{{Location
+| Name=Resort
+| Guid=3035-8412
+| Characters=Characters/Dog_58603,Characters/Killer_Tomato,Characters/Super_Granny,Characters/Tiki_Man
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>nv13n056jw1tlf8ziybs6rou6otv6x8</sha1>
+    </revision>
+  </page>
+</mediawiki>

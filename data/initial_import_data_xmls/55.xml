@@ -1,0 +1,1541 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Locations/Abbey</title>
+    <ns>0</ns>
+    <id>264350</id>
+    <revision>
+      <id>637294</id>
+      <parentid>630193</parentid>
+      <timestamp>2026-02-13T21:30:09Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637294</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="901" sha1="c6d2ipu9bgxubyvip2951cd0ahlz41u" xml:space="preserve">{{Location
+| Name=Abbey
+| Guid=3035-8306
+| Deck=The monastery where the monks live.
+| Characters=
+| Concepts=Concepts/Pope,Concepts/Priest
+| Objects=Objects/Altar,Objects/Church_Organ,Objects/Stained_Glass
+| Locations=Locations/Cathedral,Locations/Chapel,Locations/Church,Locations/Shrine,Locations/Temple
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3637686-11047198-murder-in-the-abbey-windows-walking-through-the-abbey.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3637686-11047198-murder-in-the-abbey-windows-walking-through-the-abbey.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,scale_super,square_medium,scale_medium,square_tiny,scale_small,square_mini,scale_tiny,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":"Murder in the Abbey\/The Abbey"},"background":[]}' /&gt;
+The monastery where the monks live.</text>
+      <sha1>c6d2ipu9bgxubyvip2951cd0ahlz41u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Adidas</title>
+    <ns>0</ns>
+    <id>264450</id>
+    <revision>
+      <id>637334</id>
+      <parentid>630233</parentid>
+      <timestamp>2026-02-13T21:30:38Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637334</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1025" sha1="qps88t5ewkm6axx26f12wsvjcavjdrj" xml:space="preserve">{{Location
+| Name=Adidas
+| Guid=3035-8407
+| Deck=Adidas is a store, typically located within an outlet or a mall, that sells Adidas-branded clothing.
+| Characters=Characters/Miles_Morales
+| Concepts=Concepts/Product_Placement
+| Objects=Objects/Adidas_Superstar,Objects/Shoes
+| Locations=Locations/California,Locations/Earth,Locations/Los_Angeles,Locations/New_York,Locations/New_York_City,Locations/North_America,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America,Locations/Times_Square,Locations/Ventura_County
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3803656-ox5xljeisffd3defiivifxpdse_jpg.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3803656-ox5xljeisffd3defiivifxpdse_jpg.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_medium,scale_small,square_medium,square_small,square_avatar,scale_super,square_tiny,square_mini","caption":null},"background":[]}' /&gt;
+Adidas is a store, typically located within an outlet or a mall, that sells Adidas-branded clothing.</text>
+      <sha1>qps88t5ewkm6axx26f12wsvjcavjdrj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Akila City</title>
+    <ns>0</ns>
+    <id>264365</id>
+    <revision>
+      <id>264823</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264823</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="166" sha1="jxec03ozp4ajg65ilfvvuyqwrusrc6o" xml:space="preserve">{{Location
+| Name=Akila City
+| Guid=3035-8321
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jxec03ozp4ajg65ilfvvuyqwrusrc6o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Albuquerque</title>
+    <ns>0</ns>
+    <id>264192</id>
+    <revision>
+      <id>637178</id>
+      <parentid>630077</parentid>
+      <timestamp>2026-02-13T21:28:49Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637178</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="740" sha1="jtqskbp84dh7efneumoaru6cwkmlnk3" xml:space="preserve">{{Location
+| Name=Albuquerque
+| Guid=3035-8146
+| Deck=A city in New Mexico and the home of the University of New Mexico.
+| Characters=
+| Concepts=Concepts/New_Mexico_Lobos
+| Objects=
+| Locations=Locations/New_Mexico,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3613775-8495049439-Depos.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3613775-8495049439-Depos.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,square_medium,square_avatar,scale_medium,scale_super,scale_small,square_tiny,square_mini,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+A city in New Mexico and the home of the University of New Mexico.</text>
+      <sha1>jtqskbp84dh7efneumoaru6cwkmlnk3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Alpha Halo</title>
+    <ns>0</ns>
+    <id>263989</id>
+    <revision>
+      <id>637068</id>
+      <parentid>629967</parentid>
+      <timestamp>2026-02-13T21:27:30Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637068</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2201" sha1="1o0gs2foir47k132o9jmr7ptpoy7749" xml:space="preserve">{{Location
+| Name=Alpha Halo
+| Guid=3035-7942
+| Deck=Installation 04, also known as Alpha Halo, or simply Halo, was one of seven ring-shaped superweapons that comprised the Forerunners' Halo Array, And it is located close to the gas giant, Threshold and the closest ring to human occupied space. Installation 04's monitor is 343 Guilty Spark.
+| Characters=Characters/343_Guilty_Spark,Characters/Chips_Dubbo,Characters/Cortana,Characters/Jacob_Keyes,Characters/Marcus_Stacker,Characters/Master_Chief,Characters/Sergeant_Major_Avery_Junior_Johnson,Characters/ZukaZamamee
+| Concepts=Concepts/Alien,Concepts/Alien_Invasion,Concepts/Ancient_Advanced_Civilization_Technology,Concepts/Collective_Conciousness,Concepts/Covenant_Elite,Concepts/Covenant_Grunt,Concepts/Cults,Concepts/Extinction,Concepts/Flood_Carrier_Form,Concepts/Flood_Combat_Form,Concepts/Flood_Infection_Form,Concepts/Forerunner_Flood_War,Concepts/Human_Covenant_War,Concepts/Hunters,Concepts/Jackals,Concepts/Low_Poly,Concepts/Monster_Infighting,Concepts/ODST,Concepts/Plot_Twist,Concepts/Religion,Concepts/Sentinel,Concepts/Snow,Concepts/Space_Triptych,Concepts/Super_Weapon,Concepts/The_Covenant,Concepts/The_Flood,Concepts/The_Forerunners,Concepts/The_Great_Journey,Concepts/Tripartite_Conflict,Concepts/War
+| Objects=
+| Locations=Locations/Beach,Locations/Delta_Halo,Locations/Desert,Locations/Gamma_Halo,Locations/Halo,Locations/Island,Locations/Swamp,Locations/The_Milky_Way_Galaxy,Locations/Tundra,Locations/Zeta_Halo
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3439627-9141874153-HCE-A.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3439627-9141874153-HCE-A.jpg","path":"52\/520822\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,square_medium,scale_medium,scale_super,scale_small,square_mini,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Installation 04, also known as Alpha Halo, or simply Halo, was one of seven ring-shaped superweapons that comprised the Forerunners' Halo Array, And it is located close to the gas giant, Threshold and the closest ring to human occupied space. Installation 04's monitor is 343 Guilty Spark.</text>
+      <sha1>1o0gs2foir47k132o9jmr7ptpoy7749</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Ambarino</title>
+    <ns>0</ns>
+    <id>264377</id>
+    <revision>
+      <id>264835</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264835</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="469" sha1="0kg50gog2ekygduw44ahg5rgki8k6uy" xml:space="preserve">{{Location
+| Name=Ambarino
+| Guid=3035-8333
+| Deck=A large rural state in Red Dead Redemption II.
+| Characters=Characters/Charles_Smith,Characters/Colm_ODriscoll,Characters/Eagle_Flies,Characters/Hosea_Matthews,Characters/Kieran_Duffy,Characters/Micah_Bell,Characters/Rains_Fall
+| Concepts=
+| Objects=
+| Locations=Locations/The_United_States_of_America
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+A large rural state in Red Dead Redemption II.</text>
+      <sha1>0kg50gog2ekygduw44ahg5rgki8k6uy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Ames</title>
+    <ns>0</ns>
+    <id>264264</id>
+    <revision>
+      <id>1007304</id>
+      <parentid>637219</parentid>
+      <timestamp>2026-07-19T17:37:47Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007304</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="746" sha1="jmfmw4e7titx8v01sj4supw8a9c3wk1" xml:space="preserve">{{Location
+| Name=Ames
+| Guid=3035-8219
+| Deck=A city in Iowa and the home of Iowa State University.
+| Characters=
+| Concepts=Concepts/Iowa_State_Cyclones
+| Objects=
+| Locations=Locations/Iowa,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3613776-screenshot2024-08-16at9.10.26%E2%80%AFpm.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3613776-screenshot2024-08-16at9.10.26\u202fpm.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_small,square_medium,scale_small,square_avatar,scale_super,square_tiny,scale_medium,square_mini,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":""},"background":[]}' /&gt;
+A city in Iowa and the home of Iowa State University.</text>
+      <sha1>jmfmw4e7titx8v01sj4supw8a9c3wk1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Amherst</title>
+    <ns>0</ns>
+    <id>264318</id>
+    <revision>
+      <id>637273</id>
+      <parentid>630172</parentid>
+      <timestamp>2026-02-13T21:29:54Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637273</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="783" sha1="ph5lxbzox8y1fz69lfgakrf066higp0" xml:space="preserve">{{Location
+| Name=Amherst
+| Guid=3035-8274
+| Deck=A city in Massachusetts and the home of the University of Massachusetts.
+| Characters=
+| Concepts=Concepts/UMass_Minutemen
+| Objects=
+| Locations=Locations/Massachusetts,Locations/New_England,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3613777-8008921283-2022_.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3613777-8008921283-2022_.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,scale_medium,scale_tiny,square_medium,square_avatar,square_small,square_tiny,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Massachusetts and the home of the University of Massachusetts.</text>
+      <sha1>ph5lxbzox8y1fz69lfgakrf066higp0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Amihama</title>
+    <ns>0</ns>
+    <id>264398</id>
+    <revision>
+      <id>264856</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264856</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="163" sha1="2bqdyqzaddhe5kl4ftz2hvz4j9phnuw" xml:space="preserve">{{Location
+| Name=Amihama
+| Guid=3035-8354
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>2bqdyqzaddhe5kl4ftz2hvz4j9phnuw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Anarchy Acres</title>
+    <ns>0</ns>
+    <id>264421</id>
+    <revision>
+      <id>264879</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264879</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="169" sha1="pujrob52s89aeqkur0hmveu45g0x71k" xml:space="preserve">{{Location
+| Name=Anarchy Acres
+| Guid=3035-8377
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>pujrob52s89aeqkur0hmveu45g0x71k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Ancient Planet</title>
+    <ns>0</ns>
+    <id>264206</id>
+    <revision>
+      <id>264663</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264663</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="622" sha1="e015ji5nmy2c8in8gzsavhxf17xygbi" xml:space="preserve">{{Location
+| Name=Ancient Planet
+| Guid=3035-8160
+| Deck=The '''Ancient Planet''' is a fictional planet appearing in the the Sega Mega Drive–Genesis version of Teenage Mutant Ninja Turtles: Tournament Fighters. Located in Dimension X, it is where a Triceraton Fillet is fought.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The '''Ancient Planet''' is a fictional planet appearing in the the Sega Mega Drive–Genesis version of Teenage Mutant Ninja Turtles: Tournament Fighters. Located in Dimension X, it is where a Triceraton Fillet is fought.</text>
+      <sha1>e015ji5nmy2c8in8gzsavhxf17xygbi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Ancient Pyramid</title>
+    <ns>0</ns>
+    <id>264098</id>
+    <revision>
+      <id>637116</id>
+      <parentid>630015</parentid>
+      <timestamp>2026-02-13T21:28:04Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637116</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="794" sha1="tasxflr1vu2lfsp1dbq4t17vrkwqnjc" xml:space="preserve">{{Location
+| Name=Ancient Pyramid
+| Guid=3035-8052
+| Deck=A location that the ClueFinders visit in The ClueFinders 4th Grade Adventures: Puzzle of the Pyramid.
+| Characters=Characters/Sphinx_50686,Characters/Thoth_50687
+| Concepts=
+| Objects=Objects/Pyramid
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3464622-5393213715-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3464622-5393213715-latest.png","path":"7\/73970\/","mime":"image\/png","sizes":"scale_small,square_small,square_medium,square_tiny,square_avatar,scale_medium,scale_super,square_mini,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+A location that the ClueFinders visit in The ClueFinders 4th Grade Adventures: Puzzle of the Pyramid.</text>
+      <sha1>tasxflr1vu2lfsp1dbq4t17vrkwqnjc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Ann Arbor</title>
+    <ns>0</ns>
+    <id>264280</id>
+    <revision>
+      <id>637235</id>
+      <parentid>630134</parentid>
+      <timestamp>2026-02-13T21:29:28Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637235</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="723" sha1="imicp0ckc2yose24cgdmyefuvmc8qmx" xml:space="preserve">{{Location
+| Name=Ann Arbor
+| Guid=3035-8235
+| Deck=A city in Michigan and home of the University of Michigan.
+| Characters=
+| Concepts=Concepts/Michigan_Wolverines
+| Objects=
+| Locations=Locations/Michigan,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3613778-6946456460-ann-a.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3613778-6946456460-ann-a.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_super,scale_small,square_avatar,scale_medium,square_tiny,square_mini,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+A city in Michigan and home of the University of Michigan.</text>
+      <sha1>imicp0ckc2yose24cgdmyefuvmc8qmx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Annapolis</title>
+    <ns>0</ns>
+    <id>264284</id>
+    <revision>
+      <id>637239</id>
+      <parentid>630138</parentid>
+      <timestamp>2026-02-13T21:29:31Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637239</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="831" sha1="d1ccv760ajfw7apfi9rs6u3vn8rjoxd" xml:space="preserve">{{Location
+| Name=Annapolis
+| Guid=3035-8239
+| Deck=The capital city of Maryland and the home of the United States Naval Academy.
+| Characters=Characters/Travis_Pastrana
+| Concepts=Concepts/Navy_Midshipmen,Concepts/Navy_SEALs,Concepts/United_States_Navy
+| Objects=
+| Locations=Locations/Maryland,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3613780-0935957205-4c3f0.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3613780-0935957205-4c3f0.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_small,scale_super,scale_medium,square_medium,square_avatar,square_tiny,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+The capital city of Maryland and the home of the United States Naval Academy.</text>
+      <sha1>d1ccv760ajfw7apfi9rs6u3vn8rjoxd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Annesburg</title>
+    <ns>0</ns>
+    <id>264376</id>
+    <revision>
+      <id>264834</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264834</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" sha1="jg9dta0vv1e4p48kjr18jvdkj9qf1zl" xml:space="preserve">{{Location
+| Name=Annesburg
+| Guid=3035-8332
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jg9dta0vv1e4p48kjr18jvdkj9qf1zl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Antigua and Barbuda</title>
+    <ns>0</ns>
+    <id>264048</id>
+    <revision>
+      <id>264505</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264505</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="409" sha1="cj2ek0stfj7tslomlugaxqyxcdnb7vz" xml:space="preserve">{{Location
+| Name=Antigua and Barbuda
+| Guid=3035-8002
+| Deck=Antigua and Barbuda is a constitutional island monarchy in the Caribbean Sea. Its capital city is Saint John’s.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Antigua and Barbuda is a constitutional island monarchy in the Caribbean Sea. Its capital city is Saint John’s.</text>
+      <sha1>cj2ek0stfj7tslomlugaxqyxcdnb7vz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Aquorium</title>
+    <ns>0</ns>
+    <id>264133</id>
+    <revision>
+      <id>264590</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264590</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="188" sha1="jlr25oc3731f9zhrdg5orj5v10p5xyn" xml:space="preserve">{{Location
+| Name=Aquorium
+| Guid=3035-8087
+| Characters=Characters/HareBritnneys
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jlr25oc3731f9zhrdg5orj5v10p5xyn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Armantia</title>
+    <ns>0</ns>
+    <id>264114</id>
+    <revision>
+      <id>264571</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264571</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="164" sha1="myjqcgr6knegiqz956mztn9qbkxq3ti" xml:space="preserve">{{Location
+| Name=Armantia
+| Guid=3035-8068
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>myjqcgr6knegiqz956mztn9qbkxq3ti</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Armoury</title>
+    <ns>0</ns>
+    <id>264430</id>
+    <revision>
+      <id>264888</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264888</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="163" sha1="8uzov1jzskujhqy7fcub4co7wm0op9h" xml:space="preserve">{{Location
+| Name=Armoury
+| Guid=3035-8386
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>8uzov1jzskujhqy7fcub4co7wm0op9h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Artemis</title>
+    <ns>0</ns>
+    <id>264007</id>
+    <revision>
+      <id>1007314</id>
+      <parentid>637075</parentid>
+      <timestamp>2026-07-19T17:38:22Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007314</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="783" sha1="7v9pnl25bue01ax8g08sm2cn95yqqwj" xml:space="preserve">{{Location
+| Name=Artemis
+| Guid=3035-7961
+| Deck=Artemis is the Chapter 3 map in the Battle Royale mode of Fortnite.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Apollo,Locations/Asteria,Locations/Athena
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3443669-chapter_3_season_4_%252811-15-2022%2529_-_map_-_fortnite.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3443669-chapter_3_season_4_%2811-15-2022%29_-_map_-_fortnite.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_medium,square_small,scale_small,square_avatar,scale_medium,scale_super,square_tiny,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Artemis is the Chapter 3 map in the Battle Royale mode of Fortnite.</text>
+      <sha1>7v9pnl25bue01ax8g08sm2cn95yqqwj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Aspen</title>
+    <ns>0</ns>
+    <id>264186</id>
+    <revision>
+      <id>637174</id>
+      <parentid>630073</parentid>
+      <timestamp>2026-02-13T21:28:46Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637174</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="994" sha1="51plryfjd93yxkbhfiplm7sbhggigpx" xml:space="preserve">{{Location
+| Name=Aspen
+| Guid=3035-8140
+| Characters=Characters/Butters_Stotch,Characters/Eric_Cartman,Characters/Gerald_Broflovski,Characters/Kyle_Broflovski,Characters/Randy_Marsh,Characters/Sheila_Broflovski,Characters/Stan_Marsh
+| Concepts=Concepts/Bully
+| Objects=Objects/Ski_Goggles,Objects/Ski_Lift,Objects/Ski_Mask,Objects/Skis
+| Locations=Locations/Colorado,Locations/Earth,Locations/North_America,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3547513-aspen-colorado-lead-aspentg0122-3bd432152d1f4758b1b89fd8a3a231cc.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3547513-aspen-colorado-lead-aspentg0122-3bd432152d1f4758b1b89fd8a3a231cc.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_small,square_avatar,scale_small,scale_super,square_medium,square_tiny,scale_medium,scale_avatar,square_mini,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;</text>
+      <sha1>51plryfjd93yxkbhfiplm7sbhggigpx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Asteria</title>
+    <ns>0</ns>
+    <id>264008</id>
+    <revision>
+      <id>637076</id>
+      <parentid>629975</parentid>
+      <timestamp>2026-02-13T21:27:36Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637076</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="701" sha1="anetn7fu62a5cbzukarqkyrs41cl8zt" xml:space="preserve">{{Location
+| Name=Asteria
+| Guid=3035-7962
+| Deck=Asteria is the Chapter 4 map of Fortnite: Battle Royale.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Apollo,Locations/Artemis,Locations/Athena
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3443671-asteria_-_map_-_fortnite.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3443671-asteria_-_map_-_fortnite.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_small,scale_super,square_avatar,scale_medium,square_tiny,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Asteria is the Chapter 4 map of Fortnite: Battle Royale.</text>
+      <sha1>anetn7fu62a5cbzukarqkyrs41cl8zt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Astral Plane</title>
+    <ns>0</ns>
+    <id>264213</id>
+    <revision>
+      <id>264670</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264670</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="168" sha1="69lflyb4ey0p3vbp06ezzbabzv4rrg0" xml:space="preserve">{{Location
+| Name=Astral Plane
+| Guid=3035-8167
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>69lflyb4ey0p3vbp06ezzbabzv4rrg0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Athens 8213</title>
+    <ns>0</ns>
+    <id>264258</id>
+    <revision>
+      <id>637213</id>
+      <parentid>630112</parentid>
+      <timestamp>2026-02-13T21:29:13Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637213</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="752" sha1="e6ew6ys5z9hblbk7df35o1dtu4k9m7u" xml:space="preserve">{{Location
+| Name=Athens
+| Guid=3035-8213
+| Deck=A city in Georgia and the home of the University of Georgia.
+| Characters=
+| Concepts=Concepts/Georgia_Bulldogs
+| Objects=
+| Locations=Locations/Georgia,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3613781-6042545721-image.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3613781-6042545721-image.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_small,scale_medium,scale_super,square_medium,scale_small,square_avatar,square_mini,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Georgia and the home of the University of Georgia.</text>
+      <sha1>e6ew6ys5z9hblbk7df35o1dtu4k9m7u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Athens 8247</title>
+    <ns>0</ns>
+    <id>264292</id>
+    <revision>
+      <id>637247</id>
+      <parentid>630146</parentid>
+      <timestamp>2026-02-13T21:29:36Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637247</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="687" sha1="13xddtg49t7grm28tzmlz6rphhn972g" xml:space="preserve">{{Location
+| Name=Athens
+| Guid=3035-8247
+| Deck=A city in Ohio and the home of Ohio University.
+| Characters=
+| Concepts=Concepts/Ohio_Bobcats
+| Objects=
+| Locations=Locations/Ohio,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3613785-6633508715-Halle.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3613785-6633508715-Halle.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_medium,square_small,square_avatar,scale_medium,scale_small,scale_super,square_mini,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Ohio and the home of Ohio University.</text>
+      <sha1>13xddtg49t7grm28tzmlz6rphhn972g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Auburn 8194</title>
+    <ns>0</ns>
+    <id>264239</id>
+    <revision>
+      <id>637194</id>
+      <parentid>630093</parentid>
+      <timestamp>2026-02-13T21:29:00Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637194</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="734" sha1="7qswsi3yfoughsvnsi7g3af3pywjdwk" xml:space="preserve">{{Location
+| Name=Auburn
+| Guid=3035-8194
+| Deck=A city in Alabama and the home of Auburn University.
+| Characters=
+| Concepts=Concepts/Auburn_Tigers
+| Objects=
+| Locations=Locations/Alabama,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3613786-0494324418-20130.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3613786-0494324418-20130.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,square_avatar,scale_medium,scale_small,scale_super,square_medium,square_mini,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Alabama and the home of Auburn University.</text>
+      <sha1>7qswsi3yfoughsvnsi7g3af3pywjdwk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Auschwitz</title>
+    <ns>0</ns>
+    <id>264424</id>
+    <revision>
+      <id>264882</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264882</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" sha1="gzcm34qh8uyqw3w3ihu4grx2195isz9" xml:space="preserve">{{Location
+| Name=Auschwitz
+| Guid=3035-8380
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>gzcm34qh8uyqw3w3ihu4grx2195isz9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Autodromo Internacional Nelson Piquet Brasilia</title>
+    <ns>0</ns>
+    <id>264067</id>
+    <revision>
+      <id>264524</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264524</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="205" sha1="9qoh9j34lj7s0r4jhx2nkon7acqlukr" xml:space="preserve">{{Location
+| Name=Autódromo Internacional Nelson Piquet, Brasília
+| Guid=3035-8021
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9qoh9j34lj7s0r4jhx2nkon7acqlukr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Autodromo Internacional do Algarve</title>
+    <ns>0</ns>
+    <id>264083</id>
+    <revision>
+      <id>264540</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264540</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="191" sha1="a7ex7970fopzez2snd3ql2layn7nzl8" xml:space="preserve">{{Location
+| Name=Autódromo Internacional do Algarve
+| Guid=3035-8037
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>a7ex7970fopzez2snd3ql2layn7nzl8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Autodromo de Buenos Aires Oscar y Juan Galvez</title>
+    <ns>0</ns>
+    <id>264066</id>
+    <revision>
+      <id>264523</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264523</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="203" sha1="hlzv7l52gxjb0nwjlhexj24hlctcshg" xml:space="preserve">{{Location
+| Name=Autódromo de Buenos Aires Oscar y Juan Gálvez
+| Guid=3035-8020
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>hlzv7l52gxjb0nwjlhexj24hlctcshg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Auvergne</title>
+    <ns>0</ns>
+    <id>264382</id>
+    <revision>
+      <id>264840</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264840</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="220" sha1="njykwuovxw5v5txm1i2kkuecpe74x1x" xml:space="preserve">{{Location
+| Name=Auvergne
+| Guid=3035-8338
+| Deck=Region in France
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/France
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Region in France</text>
+      <sha1>njykwuovxw5v5txm1i2kkuecpe74x1x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Avernus</title>
+    <ns>0</ns>
+    <id>264207</id>
+    <revision>
+      <id>264664</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264664</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="163" sha1="0io89qh8ceomzqojfliwwcsj4fko4fs" xml:space="preserve">{{Location
+| Name=Avernus
+| Guid=3035-8161
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>0io89qh8ceomzqojfliwwcsj4fko4fs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Avia Verde</title>
+    <ns>0</ns>
+    <id>264135</id>
+    <revision>
+      <id>264592</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264592</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="166" sha1="lnefhwvwmdf96u1cfg6dp3aqwxpybjq" xml:space="preserve">{{Location
+| Name=Avia Verde
+| Guid=3035-8089
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>lnefhwvwmdf96u1cfg6dp3aqwxpybjq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/BURD</title>
+    <ns>0</ns>
+    <id>264469</id>
+    <revision>
+      <id>1007323</id>
+      <parentid>637337</parentid>
+      <timestamp>2026-07-19T17:38:52Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007323</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="712" sha1="afpcfxqutky4velq7wvdxo0ep4ir1y7" xml:space="preserve">{{Location
+| Name=BURD
+| Guid=3035-8426
+| Deck=BURD is a chain of convenience stores all around the islands in Fortnite.
+| Characters=
+| Concepts=
+| Objects=Objects/Soft_Drink
+| Locations=Locations/BURD_E_Mart
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3819709-crime_city_%28burd_store%29_-_location_-_fortnite.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3819709-crime_city_(burd_store)_-_location_-_fortnite.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,scale_small,square_small,square_medium,square_mini,square_avatar,square_tiny","caption":null},"background":[]}' /&gt;
+BURD is a chain of convenience stores all around the islands in Fortnite.</text>
+      <sha1>afpcfxqutky4velq7wvdxo0ep4ir1y7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/BURD E Mart</title>
+    <ns>0</ns>
+    <id>264472</id>
+    <revision>
+      <id>637340</id>
+      <parentid>630239</parentid>
+      <timestamp>2026-02-13T21:30:42Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637340</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="815" sha1="jvnwx2l8atzu9pkpo7orf1yxaaktmla" xml:space="preserve">{{Location
+| Name=BURD-E-Mart
+| Guid=3035-8429
+| Deck=BURD-E-Marts are hybrid locations for BURD stores and Kwik-E-Mart stores.
+| Characters=Characters/Jonesy
+| Concepts=Concepts/Exploding_Gas_Tanks
+| Objects=Objects/Buzz_Cola,Objects/Gasoline_Can,Objects/Squishee
+| Locations=Locations/BURD,Locations/BURD_To_Go,Locations/Kwik_E_Mart,Locations/Oregon,Locations/Springfield
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3819715-screenshot-11_jpg.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3819715-screenshot-11_jpg.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_medium,scale_super,square_small,square_avatar,scale_small,square_mini,square_medium,square_tiny","caption":null},"background":[]}' /&gt;
+BURD-E-Marts are hybrid locations for BURD stores and Kwik-E-Mart stores.</text>
+      <sha1>jvnwx2l8atzu9pkpo7orf1yxaaktmla</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/BURD To Go</title>
+    <ns>0</ns>
+    <id>264470</id>
+    <revision>
+      <id>1007324</id>
+      <parentid>637338</parentid>
+      <timestamp>2026-07-19T17:38:54Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007324</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="669" sha1="405p83zxcpolyxsnzonao83f41y87re" xml:space="preserve">{{Location
+| Name=BURD To Go
+| Guid=3035-8427
+| Deck=BURD To Go locations are the gas station variations of BURD stores.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/BURD_E_Mart
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3819712-burd_to_go_%281%29_-_landmark_-_fortnite.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3819712-burd_to_go_(1)_-_landmark_-_fortnite.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_medium,scale_small,square_small,square_medium,square_mini,square_avatar,scale_super,square_tiny","caption":null},"background":[]}' /&gt;
+BURD To Go locations are the gas station variations of BURD stores.</text>
+      <sha1>405p83zxcpolyxsnzonao83f41y87re</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Bada Bing</title>
+    <ns>0</ns>
+    <id>264062</id>
+    <revision>
+      <id>977930</id>
+      <parentid>637103</parentid>
+      <timestamp>2026-07-07T22:32:54Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore content truncated by the legacy migration (3035-8016, guid-audit)</comment>
+      <origin>977930</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1563" sha1="3crf9gzpgkla4gaznri9jh36u7ktd7g" xml:space="preserve">{{Location
+| Name=Bada Bing!
+| Guid=3035-8016
+| Deck=The Bada Bing! is a mob-owned strip club and central location in The Sopranos.
+| Characters=Characters/Christopher_Moltisanti,Characters/Joey_LaRocca,Characters/Paulie_Walnuts,Characters/Salvatore_Bonpensiero,Characters/Silvio_Dante,Characters/Tony_Soprano,Characters/Vito_Spatafore
+| Concepts=Concepts/Dancing,Concepts/Hub_World,Concepts/Nudity,Concepts/Strippers
+| Objects=Objects/Pool_Table,Objects/Stripper_Pole
+| Locations=Locations/New_Jersey,Locations/Strip_Club,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/105/1056167/3461341-badabing.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3461341-badabing.jpg","path":"105\/1056167\/","mime":"image\/jpeg","sizes":"square_avatar,square_medium,square_small,scale_medium,scale_small,scale_super,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+
+The Bada Bing! is a fictional strip club and mob hangout for the DiMeo crime family in the crime drama series ''The Sopranos''. Operated by both [[Characters/Silvio_Dante|Silvio Dante]] and [[Characters/Tony_Soprano|Tony Soprano]], it is one of two notable hangouts in the series.
+
+In real life, the strip club is named Satin Dolls and located in Lodi, New Jersey.
+
+
+==Inspirations==
+The Bada Bing! is likely named after a quote from ''The''''Godfather''.
+
+The club is loosely based on Wiggles, a real life strip joint which was onced a hangout for the DeCavalcante family in New Jersey.</text>
+      <sha1>3crf9gzpgkla4gaznri9jh36u7ktd7g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Badminton</title>
+    <ns>0</ns>
+    <id>264112</id>
+    <revision>
+      <id>264569</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264569</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" sha1="hvvmv0glblm6xo3q8ps7b0gjk1lbrd3" xml:space="preserve">{{Location
+| Name=Badminton
+| Guid=3035-8066
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>hvvmv0glblm6xo3q8ps7b0gjk1lbrd3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Baghdad</title>
+    <ns>0</ns>
+    <id>264179</id>
+    <revision>
+      <id>637170</id>
+      <parentid>630069</parentid>
+      <timestamp>2026-02-13T21:28:43Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637170</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="715" sha1="n3hem1hgi0huaro8lu3l6p588hd4gll" xml:space="preserve">{{Location
+| Name=Baghdad
+| Guid=3035-8133
+| Deck=Capital of Iraq and the second largest city in the Arab world.
+| Characters=Characters/Basim_Ibn_Ishaq
+| Concepts=
+| Objects=
+| Locations=Locations/Iraq,Locations/Middle_East,Locations/Palace
+| Image=https://www.giantbomb.com/a/uploads/scale_super/105/1056167/3531492-baghdad.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3531492-baghdad.jpg","path":"105\/1056167\/","mime":"image\/jpeg","sizes":"square_avatar,scale_medium,square_medium,square_small,scale_small,square_mini,square_tiny,scale_super,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Capital of Iraq and the second largest city in the Arab world.</text>
+      <sha1>n3hem1hgi0huaro8lu3l6p588hd4gll</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Bakery</title>
+    <ns>0</ns>
+    <id>264302</id>
+    <revision>
+      <id>637257</id>
+      <parentid>630156</parentid>
+      <timestamp>2026-02-13T21:29:43Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637257</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="651" sha1="sdn8shhz05n8i4zlwu7os28vfx870yj" xml:space="preserve">{{Location
+| Name=Bakery
+| Guid=3035-8257
+| Deck=A place where goods are baked, usually for sale or other commerce.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614422-2243984362-phila.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614422-2243984362-phila.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,scale_medium,square_medium,square_small,square_avatar,square_tiny,square_mini,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+A place where goods are baked, usually for sale or other commerce.</text>
+      <sha1>sdn8shhz05n8i4zlwu7os28vfx870yj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Balcony</title>
+    <ns>0</ns>
+    <id>264224</id>
+    <revision>
+      <id>637181</id>
+      <parentid>630080</parentid>
+      <timestamp>2026-02-13T21:28:51Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637181</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="978" sha1="p4r5tvks3jp2rrf54bzv7wu3448kgy5" xml:space="preserve">{{Location
+| Name=Balcony
+| Guid=3035-8179
+| Characters=Characters/Agent_47,Characters/Alyx_Vance,Characters/Bob_Newbie,Characters/Carmelita_Fox,Characters/Felicity_Usher,Characters/Luigi,Characters/Sam_Fisher,Characters/Sly_Cooper,Characters/The_Boss_8436,Characters/Toad
+| Concepts=
+| Objects=
+| Locations=Locations/Cruise_Ship,Locations/France,Locations/House,Locations/Italy,Locations/Japan,Locations/North_America,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3803303-a-small-balcony-on-a-yellow-apartment-building-a-white-sofa--c1f96de1177ecfedc73a9651dd94ecf0.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3803303-a-small-balcony-on-a-yellow-apartment-building-a-white-sofa--c1f96de1177ecfedc73a9651dd94ecf0.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_super,scale_medium,square_tiny,scale_small,square_avatar,square_medium,square_small,square_mini","caption":null},"background":[]}' /&gt;</text>
+      <sha1>p4r5tvks3jp2rrf54bzv7wu3448kgy5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Bards College</title>
+    <ns>0</ns>
+    <id>264130</id>
+    <revision>
+      <id>264587</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264587</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="187" sha1="214ugt2gd1y8t3ist91kpkwbj79djgk" xml:space="preserve">{{Location
+| Name=Bards College
+| Guid=3035-8084
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Solitude
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>214ugt2gd1y8t3ist91kpkwbj79djgk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Basra</title>
+    <ns>0</ns>
+    <id>264387</id>
+    <revision>
+      <id>264845</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264845</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="251" sha1="gdgfgr7dolxqyw9wf39odygfqkehxak" xml:space="preserve">{{Location
+| Name=Basra
+| Guid=3035-8343
+| Deck=Al-Basrah is a port city in southern Iraq
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Al-Basrah is a port city in southern Iraq</text>
+      <sha1>gdgfgr7dolxqyw9wf39odygfqkehxak</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Baton Rouge</title>
+    <ns>0</ns>
+    <id>264273</id>
+    <revision>
+      <id>637228</id>
+      <parentid>630127</parentid>
+      <timestamp>2026-02-13T21:29:23Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637228</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="782" sha1="jgx9vncp8cx8zzwzecwivl7r6u3724q" xml:space="preserve">{{Location
+| Name=Baton Rouge
+| Guid=3035-8228
+| Deck=The capital of Louisiana and the home of Louisiana State University.
+| Characters=
+| Concepts=Concepts/Louisiana_State_Tigers
+| Objects=
+| Locations=Locations/Louisiana,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3613787-6794620525-baton.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3613787-6794620525-baton.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_small,square_avatar,square_medium,scale_medium,scale_super,square_tiny,square_mini,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+The capital of Louisiana and the home of Louisiana State University.</text>
+      <sha1>jgx9vncp8cx8zzwzecwivl7r6u3724q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Beacon Bay</title>
+    <ns>0</ns>
+    <id>264022</id>
+    <revision>
+      <id>637090</id>
+      <parentid>629989</parentid>
+      <timestamp>2026-02-13T21:27:46Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637090</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="712" sha1="1e5mu83l9polzcq9tx74jlui1h328yd" xml:space="preserve">{{Location
+| Name=Beacon Bay
+| Guid=3035-7976
+| Deck=Beacon Bay is a coastal town which serves as the location for the Nintendo DS version of The Sims 3.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3447163-beacon_bay.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3447163-beacon_bay.png","path":"8\/82962\/","mime":"image\/png","sizes":"square_medium,scale_medium,scale_super,scale_small,square_small,square_avatar,square_tiny,square_mini,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+Beacon Bay is a coastal town which serves as the location for the Nintendo DS version of The Sims 3.</text>
+      <sha1>1e5mu83l9polzcq9tx74jlui1h328yd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Beanstalk Town</title>
+    <ns>0</ns>
+    <id>264467</id>
+    <revision>
+      <id>264925</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264925</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="170" sha1="s3l17w6wjve70o0teravwvjn12zh5ny" xml:space="preserve">{{Location
+| Name=Beanstalk Town
+| Guid=3035-8424
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>s3l17w6wjve70o0teravwvjn12zh5ny</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Beechers Hope</title>
+    <ns>0</ns>
+    <id>264372</id>
+    <revision>
+      <id>264830</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264830</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1052" sha1="alowwojzq0n6qh9n50r5cslcpc44jkn" xml:space="preserve">{{Location
+| Name=Beecher's Hope
+| Guid=3035-8328
+| Deck=The residence of John Marston and his family in the Red Dead series.
+| Characters=Characters/Abigail_Marston,Characters/Charles_Smith,Characters/Jack_Marston,Characters/John_Marston,Characters/Rufus_56473,Characters/Sadie_Adler,Characters/Uncle
+| Concepts=Concepts/Chicken,Concepts/Cows,Concepts/Horses,Concepts/Player_Owned_Houses
+| Objects=Objects/Bathtub,Objects/Bed,Objects/Campfire,Objects/Fireplace,Objects/Gazebo,Objects/Piano
+| Locations=Locations/Barn,Locations/Great_Plains,Locations/The_United_States_of_America,Locations/West_Elizabeth
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+
+==Overview==
+Beecher's Hope is a ranch in Great Plains, West Elizabeth. It was constructed in 1907 by [[Characters/John_Marston|John Marston]], [[Characters/Charles_Smith|Charles Smith]] and [[Characters/Uncle|Uncle]].
+
+==List of Residents==
+* John Marston
+* Abigail Marston
+* Jack Marston
+* Uncle
+* Rufus
+* Charles Smith (temporarily, 1907)
+* Sadie Adler (temporarily, 1907)
+</text>
+      <sha1>alowwojzq0n6qh9n50r5cslcpc44jkn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Berkeley</title>
+    <ns>0</ns>
+    <id>264245</id>
+    <revision>
+      <id>637200</id>
+      <parentid>630099</parentid>
+      <timestamp>2026-02-13T21:29:04Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637200</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="928" sha1="6gzvemuz0yuoyt750r3x9lej9z1lc5a" xml:space="preserve">{{Location
+| Name=Berkeley
+| Guid=3035-8200
+| Deck=A city in California, a suburb of Oakland, and the home of the University of California Berkeley.
+| Characters=
+| Concepts=Concepts/California_Golden_Bears
+| Objects=
+| Locations=Locations/California,Locations/Oakland,Locations/Taco_Bell_Cantina,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3603043-vc_spotlightberkeley_hero_stock_rf_149303390_1280x640.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3603043-vc_spotlightberkeley_hero_stock_rf_149303390_1280x640.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_avatar,scale_super,square_small,square_medium,scale_small,square_tiny,scale_medium,screen_medium,screen_kubrick,square_mini,scale_avatar,scale_large","caption":null},"background":[]}' /&gt;
+A city in California, a suburb of Oakland, and the home of the University of California Berkeley.</text>
+      <sha1>6gzvemuz0yuoyt750r3x9lej9z1lc5a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Bermuda</title>
+    <ns>0</ns>
+    <id>264051</id>
+    <revision>
+      <id>264508</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264508</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="386" sha1="8jrohhodgzkngb6lth55uldqp4w4715" xml:space="preserve">{{Location
+| Name=Bermuda
+| Guid=3035-8005
+| Deck=Bermuda is a British Overseas Territory in the North Atlantic Ocean. Its capital city is Hamilton.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/McDonalds
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Bermuda is a British Overseas Territory in the North Atlantic Ocean. Its capital city is Hamilton.</text>
+      <sha1>8jrohhodgzkngb6lth55uldqp4w4715</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Big Ben</title>
+    <ns>0</ns>
+    <id>264231</id>
+    <revision>
+      <id>1007333</id>
+      <parentid>637186</parentid>
+      <timestamp>2026-07-19T17:39:22Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007333</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="894" sha1="3lick35qtz9uwovgw9sk9nptxmsaowq" xml:space="preserve">{{Location
+| Name=Big Ben
+| Guid=3035-8186
+| Deck=Clock tower, which stands at the north end of the Palace of Westminster in London, England.
+| Characters=
+| Concepts=Concepts/The_19th_Century
+| Objects=
+| Locations=Locations/England,Locations/London
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3597418-%D0%91%D1%83%D1%84%D0%B5%D1%80%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B005.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3597418-\u0411\u0443\u0444\u0435\u0440\u043e\u0431\u043c\u0435\u043d\u043005.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_tiny,square_medium,square_small,square_mini,square_avatar,scale_small,scale_medium,scale_tiny,scale_super,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":"Soccer Kid"},"background":[]}' /&gt;
+Clock tower, which stands at the north end of the Palace of Westminster in London, England.</text>
+      <sha1>3lick35qtz9uwovgw9sk9nptxmsaowq</sha1>
+    </revision>
+  </page>
+</mediawiki>

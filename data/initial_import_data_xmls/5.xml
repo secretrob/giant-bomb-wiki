@@ -1,0 +1,1708 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Characters/Abominable Snow Burns</title>
+    <ns>0</ns>
+    <id>58003</id>
+    <revision>
+      <id>58120</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58120</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="256" sha1="5xf1j8ov8isvs4t56kf22y7kzczjfl8" xml:space="preserve">{{Character
+| Name=Abominable Snow Burns
+| Guid=3005-58786
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/The_Simpsons_Bart_vs_the_World
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5xf1j8ov8isvs4t56kf22y7kzczjfl8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Ace Azzameen</title>
+    <ns>0</ns>
+    <id>57732</id>
+    <revision>
+      <id>721965</id>
+      <parentid>721963</parentid>
+      <timestamp>2026-02-14T19:40:36Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>721965</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="919" sha1="rc6j7jgllesx7hpfeiv8dmackva880k" xml:space="preserve">{{Character
+| Name=Ace Azzameen
+| Guid=3005-58514
+| Deck=A highly regarded pilot in the Rebel Alliance who started out as a freighter pilot for his family's business.
+| Concepts=Concepts/Pilot,Concepts/Rebel_Alliance
+| Enemies=
+| Franchises=
+| Friends=Characters/Galin_Azzameen,Characters/Tomaas_Azzameen
+| Games=Games/Star_Wars_X_Wing_Alliance
+| Locations=
+| People=
+| Objects=Objects/X_Wing,Objects/Y_Wing
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3796661-image.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3796661-image.png","path":"45\/456753\/","mime":"image\/png","sizes":"square_small,scale_medium,scale_super,square_tiny,square_medium,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A highly regarded pilot in the Rebel Alliance who started out as a freighter pilot for his family's business.</text>
+      <sha1>rc6j7jgllesx7hpfeiv8dmackva880k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Achilles 58670</title>
+    <ns>0</ns>
+    <id>57887</id>
+    <revision>
+      <id>58004</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58004</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="227" sha1="oraipjbk9mug9snhf4j9a5ng9araj6r" xml:space="preserve">{{Character
+| Name=Achilles
+| Guid=3005-58670
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Ninja_Gaiden_4
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>oraipjbk9mug9snhf4j9a5ng9araj6r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Adam Schiff</title>
+    <ns>0</ns>
+    <id>58061</id>
+    <revision>
+      <id>58178</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58178</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="238" sha1="thfdh1nhhbkghlusv5i2hnu5kpx9cke" xml:space="preserve">{{Character
+| Name=Adam Schiff
+| Guid=3005-58844
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Law_And_Order_Legacies
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>thfdh1nhhbkghlusv5i2hnu5kpx9cke</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Adel 39664</title>
+    <ns>0</ns>
+    <id>464592</id>
+    <revision>
+      <id>740624</id>
+      <timestamp>2026-03-04T19:51:26Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>740624</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="238" sha1="lxs4a145vulr6d9kd96p9g6xax8x0nf" xml:space="preserve">{{Character
+| Name=Akira (39664)
+| Guid=3005-39664
+| Gender=Male
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Clan_N
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>lxs4a145vulr6d9kd96p9g6xax8x0nf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Adel Elden Ring</title>
+    <ns>0</ns>
+    <id>464610</id>
+    <revision>
+      <id>740791</id>
+      <timestamp>2026-03-04T19:53:07Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>740791</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="243" sha1="203mwxb0rkolu05sfjut0v94k9sdaie" xml:space="preserve">{{Character
+| Name=Adel (Elden Ring)
+| Guid=3005-57951
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Elden_Ring_Nightreign
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>203mwxb0rkolu05sfjut0v94k9sdaie</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Adelheid</title>
+    <ns>0</ns>
+    <id>57929</id>
+    <revision>
+      <id>58046</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58046</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="233" sha1="4r6qp4cu1npw0s3j9cjlon6uuavs0kq" xml:space="preserve">{{Character
+| Name=Adelheid
+| Guid=3005-58712
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Chaos_Zero_Nightmare
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>4r6qp4cu1npw0s3j9cjlon6uuavs0kq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Agent Soul</title>
+    <ns>0</ns>
+    <id>599767</id>
+    <revision>
+      <id>957920</id>
+      <parentid>948942</parentid>
+      <timestamp>2026-04-10T16:45:25Z</timestamp>
+      <contributor>
+        <username>AdarnaEntertainment</username>
+        <id>2782</id>
+      </contributor>
+      <origin>957920</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="386" sha1="7dideildi37gvssctue0me0kmpmaswv" xml:space="preserve">{{Character
+|Guid=0f44d80c-0ee9-4085-8638-3b965ba56a31
+|Name=Agent Soul
+|Caption=Field operative from Team TWISTED. From the game SKYBLITZ.
+|Deck=Field operative from Team TWISTED. From the game SKYBLITZ.
+|RealName=Tracy Marie Hollard
+|Gender=Female
+|Games=Games/SKYBLITZ
+}}
+A fearless field operative in SKYBLITZ known for her focus and ability to operate in chaotic combat situations.</text>
+      <sha1>7dideildi37gvssctue0me0kmpmaswv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Aiba 58812</title>
+    <ns>0</ns>
+    <id>58029</id>
+    <revision>
+      <id>58146</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58146</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="585" sha1="kqw7om2krh6q63ocxik1muzsdrj5g6z" xml:space="preserve">{{Character
+| Name=Aiba
+| Guid=3005-58812
+| Deck=An artificial intelligence residing in the implant in Kaname Date's left eye.
+| Concepts=
+| Enemies=Characters/Saito_Sejima
+| Franchises=
+| Friends=Characters/Boss_58814,Characters/Kaname_Date,Characters/Mizuki_Okiura
+| Games=Games/AI_The_Somnium_Files,Games/AI_The_Somnium_Files_Nirvana_Initiative,Games/No_Sleep_for_Kaname_Date_From_AI_The_Somnium_File
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+An artificial intelligence residing in the implant in Kaname Date's left eye.</text>
+      <sha1>kqw7om2krh6q63ocxik1muzsdrj5g6z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Akiyama Mizuki</title>
+    <ns>0</ns>
+    <id>57718</id>
+    <revision>
+      <id>57834</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57834</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="335" sha1="ab0m827j2bvz2smyqibmtig82jt4d0q" xml:space="preserve">{{Character
+| Name=Akiyama Mizuki
+| Guid=3005-58500
+| Concepts=Concepts/LGBT
+| Enemies=
+| Franchises=
+| Friends=Characters/Asahina_Mafuyu,Characters/Shinonome_Ena,Characters/Yoisaki_Kanade
+| Games=Games/Hatsune_Miku_Colorful_Stage
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ab0m827j2bvz2smyqibmtig82jt4d0q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Alex Weatherstone</title>
+    <ns>0</ns>
+    <id>57903</id>
+    <revision>
+      <id>58020</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58020</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="252" sha1="3juenbs2yq6nnt2frz259w1dpo90wsz" xml:space="preserve">{{Character
+| Name=Alex Weatherstone
+| Guid=3005-58686
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Death_Stranding_2_On_the_Beach
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3juenbs2yq6nnt2frz259w1dpo90wsz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Alice DeRoss 52517</title>
+    <ns>0</ns>
+    <id>464608</id>
+    <revision>
+      <id>993194</id>
+      <parentid>740725</parentid>
+      <timestamp>2026-07-19T00:11:23Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>993194</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="899" sha1="lrx284p5vjyp8bbb347zdfomu5vk0he" xml:space="preserve">{{Character
+| Name=Alice DeRoss
+| Guid=3005-52517
+| Deck=A journalist whose investigations have led her to the Oletus Manor.
+| Concepts=Concepts/Damsel_In_Distress,Concepts/Journalist
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Identity_V
+| Locations=
+| People=
+| Objects=Objects/Boots,Objects/Bow_1349,Objects/Camera,Objects/Gloves,Objects/Short_Jacket,Objects/Skirt
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3551741-7901ed7ffa7158dd611fae7dedfbc220.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3551741-7901ed7ffa7158dd611fae7dedfbc220.jpg","path":"77\/776653\/","mime":"image\/jpeg","sizes":"square_medium,square_small,scale_medium,square_tiny,scale_super,scale_small,scale_large,square_mini,screen_medium,screen_kubrick,scale_avatar,square_avatar","caption":null},"background":[]}' /&gt;
+A journalist whose investigations have led her to the Oletus Manor.</text>
+      <sha1>lrx284p5vjyp8bbb347zdfomu5vk0he</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Alula</title>
+    <ns>0</ns>
+    <id>57725</id>
+    <revision>
+      <id>57841</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57841</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="217" sha1="fk1z0pqjfh2qsasb6rpzgbvi8nw7ggd" xml:space="preserve">{{Character
+| Name=Alula
+| Guid=3005-58507
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/OneShot
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>fk1z0pqjfh2qsasb6rpzgbvi8nw7ggd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Amir 58704</title>
+    <ns>0</ns>
+    <id>57921</id>
+    <revision>
+      <id>58038</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58038</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="536" sha1="mym64aqj6z017qwgxfhqz1bge03qsl6" xml:space="preserve">{{Character
+| Name=Amir
+| Guid=3005-58704
+| Deck=Yuki's trusted assistant, who is more straight-laced in contrast with Yuki's carefree attitude. Amir can cover her own skin in steel armor.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=Characters/Yuki_58713
+| Games=Games/Chaos_Zero_Nightmare
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Yuki's trusted assistant, who is more straight-laced in contrast with Yuki's carefree attitude. Amir can cover her own skin in steel armor.</text>
+      <sha1>mym64aqj6z017qwgxfhqz1bge03qsl6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Amon 58529</title>
+    <ns>0</ns>
+    <id>57747</id>
+    <revision>
+      <id>57863</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57863</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="222" sha1="m7t3y6hj3gs64ewwdexj2vztgerhuok" xml:space="preserve">{{Character
+| Name=Amon
+| Guid=3005-58529
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Borderlands_4
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>m7t3y6hj3gs64ewwdexj2vztgerhuok</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Anaraut</title>
+    <ns>0</ns>
+    <id>58047</id>
+    <revision>
+      <id>58164</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58164</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="247" sha1="da5xuxe4k0qwfrx1p2njl90bjwmkcas" xml:space="preserve">{{Character
+| Name=Anaraut
+| Guid=3005-58830
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Total_War_Saga_Thrones_of_Britannia
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>da5xuxe4k0qwfrx1p2njl90bjwmkcas</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Andy Hattori</title>
+    <ns>0</ns>
+    <id>57802</id>
+    <revision>
+      <id>57918</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57918</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="281" sha1="4qpa8ykk9sxtvg6lap2eijls6wlgb92" xml:space="preserve">{{Character
+| Name=Andy Hattori
+| Guid=3005-58584
+| Concepts=
+| Enemies=Characters/Cyndi_58475,Characters/Ryan_Samejima
+| Franchises=
+| Friends=
+| Games=Games/River_City_Ransom
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>4qpa8ykk9sxtvg6lap2eijls6wlgb92</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Angel Tekken</title>
+    <ns>0</ns>
+    <id>464527</id>
+    <revision>
+      <id>993289</id>
+      <parentid>739185</parentid>
+      <timestamp>2026-07-19T00:16:54Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>993289</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3626" sha1="b0au2fv17ijgubm0grq28deix1ewvwd" xml:space="preserve">{{Character
+| Name=Angel (Tekken)
+| Guid=3005-3506
+| Deck=In the Tekken series, alternate version of Devil. Her aim is to save Kazuya's soul from the Devil.
+| Gender=Non-Binary
+| Concepts=Concepts/Bowling,Concepts/Electric_Wind_Godfist
+| Enemies=
+| Franchises=Franchises/Tekken,Franchises/Tekken_Tag_Tournament
+| Friends=Characters/Jun_Kazama,Characters/Kazuya_Mishima
+| Games=Games/CR_Tekken,Games/Pachi_Slot_Tekken_3rd,Games/Tekken_2,Games/Tekken_5,Games/Tekken_Hybrid,Games/Tekken_Pachi_Slot_3rd,Games/Tekken_R,Games/Tekken_Tag_Tournament,Games/Tekken_Tag_Tournament_2
+| Locations=Locations/Heaven
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/9778/2217358-tekken_angel.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2217358-tekken_angel.jpg","path":"0\/9778\/","mime":"image\/jpeg","sizes":"square_avatar,square_mini,scale_small,square_small,square_tiny,square_medium,scale_medium,screen_medium,scale_large,scale_avatar,scale_super,screen_kubrick,scale_tiny","caption":""},"background":[]}' /&gt;
+
+==Overview==
+Angel was introduced in [[Games/Tekken_2|Tekken 2]]. She fought to save [[Characters/Kazuya_Mishima|Kazuya]]'s soul from the [[Concepts/Devil_Gene|Devil Gene]] but was unsuccessful. She shares the same moves as the [[Devil|Devil]] in Tekken 2 and [[Games/Tekken_Tag_Tournament|Tekken Tag Tournament]].
+
+
+==Tekken 2==
+Although Kazuya is seemingly possessed with a black heart, there is still some good left in him. Angel will battle against Devil so that she may have Kazuya's soul.
+
+'''Ending:''' Angel is sitting on top of a building during the night. She jumps off into the mist-like fog down below. As she falls, she sees all the fighters in the Tournament, from Heihachi to Devil. What looks like the x-rays of bones are shown, and then Devil being surrounded by several angels. The image fades away and Angel is shown forming a ball of light in her hand.
+
+
+==Tekken Tag Tournament==
+Angel is a playable character in ''Tekken Tag Tournament''. However, ''Tekken Tag Tournament'' is not a part of the''Tekken'' series' canonical storyline. This is Angel's last appearance as a playable character so far.
+
+'''Ending:''' Angel stands next to Devil, who is laying on the ground. She crouches and touches his head. Devil transforms into Kazuya (the screen goes white during this transformation). A closeup of Angel smiling is shown. Kazuya regains consciousness, and rises slightly. Angel is nowhere to be seen. This ending takes place in Unknown's stage.
+
+
+==Trivia==
+* To unlock her and Devil, you must beat Arcade Mode using Kazuya. She's selected pressing one of the kick buttons while selecting Devil.
+* Angel is the final boss if you play as Devil.
+* Angel's sub-bosses are Heihachi Mishima (Stage 8) and Jun Kazama (Stage 9).
+* In the Arcade version of Tekken 2, Angel is called Devil when you select her and when you fight in a match with her. She is also mute when fighting, with the exception of when she is defeated; her knock-out sound is simply Kazuya's.
+* To unlock her and Devil, you must beat Arcade Mode with 13 different characters. She's selected pressing the Start button while selecting Devil.
+* Angel's ending is almost identical to Jun Kazama's ending in the same game, which led many fans to erroneously believe that the two characters are one and the same, despite Namco stating that Tekken Tag Tournament is non-canonical.
+* In ''Tekken Tag Tournament'', all Jack robots (Prototype Jack, Jack-2, and Gun Jack) will go haywire if Devil's or Angel's laser strikes them.
+* It's unknown what happened to Angel since she was not seen after Tekken 2.</text>
+      <sha1>b0au2fv17ijgubm0grq28deix1ewvwd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Angeletta</title>
+    <ns>0</ns>
+    <id>57872</id>
+    <revision>
+      <id>57989</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57989</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="235" sha1="lzgtm7az6mj51hzzousu5plxco0z85p" xml:space="preserve">{{Character
+| Name=Angeletta
+| Guid=3005-58655
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Super_Dodge_Ball_1996
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>lzgtm7az6mj51hzzousu5plxco0z85p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Anita Van Buren</title>
+    <ns>0</ns>
+    <id>58058</id>
+    <revision>
+      <id>58175</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58175</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="651" sha1="eaxrf58x9pmkjfpal6gbgup7ssz3nhu" xml:space="preserve">{{Character
+| Name=Anita Van Buren
+| Guid=3005-58841
+| Deck=Anita Van Buren is a fictional character on NBC's long-running police procedural and legal drama television series Law &amp; Order, portrayed by S. Epatha Merkerson.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Law_And_Order_Dead_on_the_Money,Games/Law_And_Order_II_Double_or_Nothing,Games/Law_And_Order_Legacies
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Anita Van Buren is a fictional character on NBC's long-running police procedural and legal drama television series Law &amp; Order, portrayed by S. Epatha Merkerson.</text>
+      <sha1>eaxrf58x9pmkjfpal6gbgup7ssz3nhu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Anne Petriceani</title>
+    <ns>0</ns>
+    <id>57979</id>
+    <revision>
+      <id>58096</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58096</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="258" sha1="rpgcif2fh0g8sligqa5c2f3nnojnl3r" xml:space="preserve">{{Character
+| Name=Anne Petriceani
+| Guid=3005-58762
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Star_Ocean_Integrity_and_Faithlessness
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>rpgcif2fh0g8sligqa5c2f3nnojnl3r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Aoyagi Toya</title>
+    <ns>0</ns>
+    <id>57722</id>
+    <revision>
+      <id>57838</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57838</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="243" sha1="qpermgh2yy3t1okxtp1chbq5hdb6gi2" xml:space="preserve">{{Character
+| Name=Aoyagi Toya
+| Guid=3005-58504
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Hatsune_Miku_Colorful_Stage
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>qpermgh2yy3t1okxtp1chbq5hdb6gi2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Aragog</title>
+    <ns>0</ns>
+    <id>57970</id>
+    <revision>
+      <id>722115</id>
+      <parentid>722111</parentid>
+      <timestamp>2026-02-14T19:41:22Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722115</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="862" sha1="95ypndrbrfjuhn0bpx4nj4ed3z6sipv" xml:space="preserve">{{Character
+| Name=Aragog
+| Guid=3005-58753
+| Concepts=Concepts/Giant_Insects,Concepts/Spiders
+| Enemies=
+| Franchises=
+| Friends=Characters/Rubeus_Hagrid
+| Games=Games/Harry_Potter_and_the_Chamber_of_Secrets,Games/Harry_Potter_and_the_Half_Blood_Prince,Games/LEGO_Harry_Potter_Years_1_4,Games/LEGO_Harry_Potter_Years_5_7
+| Locations=Locations/Forbidden_Forest
+| People=
+| Objects=Objects/Corpse,Objects/Spider_Web
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3819207-screenshot2025-11-02181951.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3819207-screenshot2025-11-02181951.png","path":"151\/1511438\/","mime":"image\/png","sizes":"scale_super,scale_small,square_medium,square_small,square_avatar,scale_medium,square_mini,screen_medium,screen_kubrick,scale_large,scale_avatar,square_tiny","caption":null},"background":[]}' /&gt;</text>
+      <sha1>95ypndrbrfjuhn0bpx4nj4ed3z6sipv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Araya Kagami</title>
+    <ns>0</ns>
+    <id>58070</id>
+    <revision>
+      <id>58187</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58187</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="237" sha1="3qw602nroj5zmhirlyf4rp2lnvt38qh" xml:space="preserve">{{Character
+| Name=Araya Kagami
+| Guid=3005-58853
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/AI_The_Somnium_Files
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3qw602nroj5zmhirlyf4rp2lnvt38qh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Arisha</title>
+    <ns>0</ns>
+    <id>608742</id>
+    <revision>
+      <id>957921</id>
+      <timestamp>2026-04-10T16:48:16Z</timestamp>
+      <contributor>
+        <username>AdarnaEntertainment</username>
+        <id>2782</id>
+      </contributor>
+      <comment>Created page with "{{Character |Guid=58188f14-1636-4412-859a-e37431186776 |Name=Arisha |Aliases=RU Pilot |Caption=Arisha is an RU Pilot, from the game SKYBLITZ. |Deck=Arisha is an RU Pilot, from the game SKYBLITZ. |RealName=Arisha |Gender=Female |Games=Games/SKYBLITZ }} Arisha is an RU Pilot, from the game SKYBLITZ. She assists Team TWISTED during Mission SKYBLITZ."</comment>
+      <origin>957921</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="348" sha1="ledz17eeffirsb331tbmsnd5bl9y8he" xml:space="preserve">{{Character
+|Guid=58188f14-1636-4412-859a-e37431186776
+|Name=Arisha
+|Aliases=RU Pilot
+|Caption=Arisha is an RU Pilot, from the game SKYBLITZ.
+|Deck=Arisha is an RU Pilot, from the game SKYBLITZ.
+|RealName=Arisha
+|Gender=Female
+|Games=Games/SKYBLITZ
+}}
+Arisha is an RU Pilot, from the game SKYBLITZ. She assists Team TWISTED during Mission SKYBLITZ.</text>
+      <sha1>ledz17eeffirsb331tbmsnd5bl9y8he</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Armstrong</title>
+    <ns>0</ns>
+    <id>58066</id>
+    <revision>
+      <id>722162</id>
+      <parentid>722160</parentid>
+      <timestamp>2026-02-14T19:41:42Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722162</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1427" sha1="b1j5o8akslvrpzqbcqe2xijvgy8oovk" xml:space="preserve">{{Character
+| Name=Armstrong
+| Guid=3005-58849
+| Deck=A supervillain affiliated with Shroud's Red Ring organization. Having vestigial arms, he compensates by using a mechanical harness that includes two large robotic arms. Hates Invisigal and takes an immediate dislike to Robert.
+| Concepts=Concepts/Cyborg,Concepts/Organized_Crime,Concepts/Overweight_Character,Concepts/Supervillain
+| Enemies=Characters/Blonde_Blazer,Characters/Coupe,Characters/Flambae,Characters/Golem_58781,Characters/Invisigal,Characters/Malevola,Characters/Phenomaman,Characters/Prism,Characters/Punch_Up,Characters/Robert_Robertson_III,Characters/Sonar,Characters/Waterboy
+| Franchises=
+| Friends=Characters/Shroud_58847,Characters/Toxic
+| Games=Games/Dispatch
+| Locations=Locations/California
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3828165-armstrong.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3828165-armstrong.jpg","path":"77\/776653\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_medium,square_tiny,scale_medium,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A supervillain affiliated with Shroud's Red Ring organization. Having vestigial arms, he compensates by using a mechanical harness that includes two large robotic arms. Hates Invisigal and takes an immediate dislike to Robert.</text>
+      <sha1>b1j5o8akslvrpzqbcqe2xijvgy8oovk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Arthur Van Smythe</title>
+    <ns>0</ns>
+    <id>57868</id>
+    <revision>
+      <id>57985</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57985</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="665" sha1="d58v062s4v5rvnuifbf2fznsm4ndeh1" xml:space="preserve">{{Character
+| Name=Arthur Van Smythe
+| Guid=3005-58651
+| Deck=the localization of Ryuichi Hattori, who makes his sole appearance in Crash 'N the Boys: Street Challenge
+| RealName=Arthur Van Smythe
+| Gender=Male
+| Concepts=
+| Enemies=Characters/Cheese_Romano,Characters/Crash_Cooney,Characters/Dragon_Woo,Characters/Ramon_Garcia,Characters/Troy_Noise_Jackson
+| Franchises=
+| Friends=Characters/Skip_Hildegard
+| Games=Games/Crash_N_the_Boys_Street_Challenge
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+the localization of Ryuichi Hattori, who makes his sole appearance in Crash 'N the Boys: Street Challenge</text>
+      <sha1>d58v062s4v5rvnuifbf2fznsm4ndeh1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Arthur de Richemont</title>
+    <ns>0</ns>
+    <id>58035</id>
+    <revision>
+      <id>58152</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58152</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="256" sha1="lgc63kb85t3a38ziw0xc37j04txret8" xml:space="preserve">{{Character
+| Name=Arthur de Richemont
+| Guid=3005-58818
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Bladestorm_The_Hundred_Years_War
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>lgc63kb85t3a38ziw0xc37j04txret8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Asahina Mafuyu</title>
+    <ns>0</ns>
+    <id>57716</id>
+    <revision>
+      <id>57832</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57832</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="393" sha1="6g88hw4hoafazzcli16sbdlb0al7oct" xml:space="preserve">{{Character
+| Name=Asahina Mafuyu
+| Guid=3005-58498
+| Concepts=Concepts/Depression
+| Enemies=
+| Franchises=
+| Friends=Characters/Akiyama_Mizuki,Characters/Shinonome_Ena,Characters/Yoisaki_Kanade
+| Games=Games/Hatsune_Miku_Colorful_Stage
+| Locations=Locations/Miyamasuzaka_Girls_Academy
+| People=
+| Objects=Objects/Aquarium
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>6g88hw4hoafazzcli16sbdlb0al7oct</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Asuka Tatsuki 51830</title>
+    <ns>0</ns>
+    <id>464606</id>
+    <revision>
+      <id>740720</id>
+      <timestamp>2026-03-04T19:52:26Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>740720</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="267" sha1="5nzib7en5rs3oi39q8lnbco41scdm13" xml:space="preserve">{{Character
+| Name=Asuka Tatsuki
+| Guid=3005-51830
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Puella_Magi_Madoka_Magica_Side_Story_Magia_Record
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5nzib7en5rs3oi39q8lnbco41scdm13</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Aurora 9972</title>
+    <ns>0</ns>
+    <id>464549</id>
+    <revision>
+      <id>993406</id>
+      <parentid>739450</parentid>
+      <timestamp>2026-07-19T00:23:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>993406</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1460" sha1="dc94firj03u76zo8b0u6xcw2oxxylda" xml:space="preserve">{{Character
+| Name=Aurora
+| Guid=3005-9972
+| Deck=One of the main characters from Black Sigil. Kairu's best friend.
+| Gender=Non-Binary
+| Concepts=Concepts/Black_Magic,Concepts/Magic,Concepts/White_Magic
+| Enemies=
+| Franchises=
+| Friends=Characters/Isa,Characters/Kairu,Characters/Nephi,Characters/Nym,Characters/Rogurd
+| Games=Games/Black_Sigil_Blade_of_the_Exiled
+| Locations=
+| People=
+| Objects=Objects/Whip
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/112/935605-aurora.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"935605-aurora.jpg","path":"0\/112\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,square_tiny,square_medium,screen_medium,scale_large,scale_small,square_mini,scale_medium,scale_avatar,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+Aurora is the daughter of Duke Averay and was raised alongside Kairu. She's the hot-headed type that tends to act without thinking first, and although Kairu is more level-headed and prudent, they still managed to become best friends and have been on many adventures together, usually at Aurora's bidding. In battle she is a powerful wizard and wields the element of fire as her main weapon, which she can use not only to fry enemies, but to heal allies as well. She's also able to wield a whip, which, although weak, is able to strike enemies from a distance. Aurora isn't quite built for armor and has to stick to lighter clothing and magical barriers.</text>
+      <sha1>dc94firj03u76zo8b0u6xcw2oxxylda</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Ayumu Kasuga</title>
+    <ns>0</ns>
+    <id>58073</id>
+    <revision>
+      <id>58190</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58190</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="443" sha1="5lfc8ikxecrpey3qclmpb0x6vsv4uaf" xml:space="preserve">{{Character
+| Name=Ayumu Kasuga
+| Guid=3005-58856
+| Deck=The transfered student from the Azumanga Daioh series.
+| Concepts=Concepts/Kansai_dialect
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Azumanga_Daioh_Advance,Games/Azumanga_Daioh_Puzzle_Bobble,Games/Azumanga_Donjyara_Daioh
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The transfered student from the Azumanga Daioh series.</text>
+      <sha1>5lfc8ikxecrpey3qclmpb0x6vsv4uaf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Bardr</title>
+    <ns>0</ns>
+    <id>58048</id>
+    <revision>
+      <id>58165</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58165</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="245" sha1="m36tjepi1fpna6wpzimdk4lhcjsvdkm" xml:space="preserve">{{Character
+| Name=Bardr
+| Guid=3005-58831
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Total_War_Saga_Thrones_of_Britannia
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>m36tjepi1fpna6wpzimdk4lhcjsvdkm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Bartholomew Ogbeche</title>
+    <ns>0</ns>
+    <id>57877</id>
+    <revision>
+      <id>722093</id>
+      <parentid>722090</parentid>
+      <timestamp>2026-02-14T19:41:14Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722093</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1448" sha1="5x0vo5mcv5chtcg267etma0mc8o8k6j" xml:space="preserve">{{Character
+| Name=Bartholomew Ogbeche
+| Guid=3005-58660
+| Deck=Bartholomew Owogbalor Ogbeche (born 1 October 1984) is a Nigerian former professional footballer who played as a striker.
+| Birthday=1984-10-01
+| Concepts=Concepts/Al_Jazira_Club,Concepts/Cadiz_CF,Concepts/Deportivo_Alaves,Concepts/Kavala_F_C,Concepts/Kerala_Blasters_FC,Concepts/Middlesbrough_F_C,Concepts/Mumbai_City_FC,Concepts/NFF_10291,Concepts/Paris_Saint_Germain,Concepts/Real_Valladolid,Concepts/SC_Cambuur,Concepts/Soccer_Player,Concepts/Willem_II_Tilburg,Concepts/Xerez_CD
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/FIFA_10,Games/FIFA_11,Games/FIFA_12,Games/FIFA_15,Games/FIFA_16,Games/FIFA_17,Games/FIFA_18,Games/FIFA_22,Games/FIFA_23,Games/FIFA_Soccer_06,Games/FIFA_Soccer_07,Games/FIFA_Soccer_08,Games/FIFA_Soccer_09,Games/FIFA_Soccer_13,Games/FIFA_Soccer_2005
+| Locations=Locations/Nigeria
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3813636-6294218821-images.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3813636-6294218821-images.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_medium,scale_super,scale_small,square_tiny,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;
+Bartholomew Owogbalor Ogbeche (born 1 October 1984) is a Nigerian former professional footballer who played as a striker.</text>
+      <sha1>5x0vo5mcv5chtcg267etma0mc8o8k6j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Battle Beast</title>
+    <ns>0</ns>
+    <id>57836</id>
+    <revision>
+      <id>57953</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57953</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="230" sha1="ey9xinjzl9r2sitb0yad4upb10675pm" xml:space="preserve">{{Character
+| Name=Battle Beast
+| Guid=3005-58619
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Invincible_Vs
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ey9xinjzl9r2sitb0yad4upb10675pm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Bedman 28317</title>
+    <ns>0</ns>
+    <id>464578</id>
+    <revision>
+      <id>993479</id>
+      <parentid>740450</parentid>
+      <timestamp>2026-07-19T00:28:00Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>993479</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1152" sha1="bupnh84y4b4w8zs963jk4gggo42eqxf" xml:space="preserve">{{Character
+| Name=Bedman
+| Guid=3005-28317
+| Deck=Bedman is a young man in a robot bed, who first appeared in Guilty Gear Xrd.
+| RealName=Romeo F. Neumann
+| Gender=Male
+| Concepts=Concepts/Barefoot,Concepts/Instant_Kill,Concepts/Unknown_Age
+| Enemies=Characters/Ariels,Characters/Leo_Whitefang
+| Franchises=
+| Friends=Characters/Ariels,Characters/Bedman,Characters/Delilah_Neumann,Characters/Jack_O
+| Games=Games/DJMAX_Respect,Games/Guilty_Gear_Strive,Games/Guilty_Gear_Xrd_REV_2,Games/Guilty_Gear_Xrd_Revelator,Games/Guilty_Gear_Xrd_SIGN
+| Locations=
+| People=
+| Objects=Objects/Bed,Objects/Crown,Objects/Glasses,Objects/Mech,Objects/Screw
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/2575365-1136374439-chara.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2575365-1136374439-chara.png","path":"16\/164924\/","mime":"image\/png","sizes":"square_mini,scale_small,square_small,square_avatar,square_tiny,square_medium,scale_medium,screen_medium,scale_large,scale_avatar,scale_tiny,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+Bedman is a young man in a robot bed, who first appeared in Guilty Gear Xrd.</text>
+      <sha1>bupnh84y4b4w8zs963jk4gggo42eqxf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Begtse</title>
+    <ns>0</ns>
+    <id>624676</id>
+    <revision>
+      <id>974273</id>
+      <parentid>974262</parentid>
+      <timestamp>2026-06-04T16:34:51Z</timestamp>
+      <contributor>
+        <username>Reverendhunt</username>
+        <id>297</id>
+      </contributor>
+      <origin>974273</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="417" sha1="ef5o5ai2nrpc4bbndz3j42hwm1mmblq" xml:space="preserve">{{Character
+|Guid=eb46e1ab-1853-4e57-a481-2700088fbe35
+|Name=Begtse
+|Deck=Begtse is a god of war in Tibetan Buddhism, originally a pre-Buddhist Mongolian figure.
+|Gender=Male
+|Concepts=Concepts/God
+|Enemies=Characters/Laufey Norse
+|Friends=Characters/Sekhmet
+|Franchises=Franchises/God of War
+|Games=Games/God of War Laufey
+|Locations=Locations/Afterlife, Locations/Tibet, Locations/Mongolia
+|Objects=Objects/Skull
+}}</text>
+      <sha1>ef5o5ai2nrpc4bbndz3j42hwm1mmblq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Benjamin Final Fantasy</title>
+    <ns>0</ns>
+    <id>464569</id>
+    <revision>
+      <id>993499</id>
+      <parentid>740331</parentid>
+      <timestamp>2026-07-19T00:29:17Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>993499</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2363" sha1="ep2a0snl72v7orl1ylcu1wwloi0opp9" xml:space="preserve">{{Character
+| Name=Benjamin
+| Guid=3005-24535
+| Deck=The protagonist of Final Fantasy: Mystic Quest. An adventurous but naive youth. The player can choose to name him whatever they wish, though his default name is Benjamin.
+| Gender=Male
+| Concepts=Concepts/Male_Protagonists,Concepts/New_Protagonist_in_Sequel
+| Enemies=
+| Franchises=Franchises/Final_Fantasy
+| Friends=Characters/Kaeli,Characters/Phoebe_24538,Characters/Reuben,Characters/Tristam
+| Games=Games/Final_Fantasy_Mystic_Quest,Games/Theatrhythm_Final_Bar_Line,Games/Theatrhythm_Final_Fantasy_Curtain_Call
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/2/23093/2340364-benjamin.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2340364-benjamin.jpg","path":"2\/23093\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,scale_small,square_mini,scale_medium,screen_medium,scale_large,scale_avatar,square_tiny,square_medium,scale_super,screen_kubrick","caption":"BENJAMIN"},"background":[]}' /&gt;
+
+==Overview==
+Benjamin is the protagonist of Final Fantasy Mystic Quest and the only character avaiable for the entire game. Selected early on by The Mysterious Old Man as the "Chosen One" while fleeing from the destruction of his hometown, Benjamin is tasked with visiting each of the four regions of the world and defeating the elemental dark lords.
+
+Benjamin's personality is that of a youth clearly in over his head, but is steadfast and determined enough to see his quest through to the end. The player gets a sense of his naivety with how readily he trusts people (including the mercurial Tristam) and comments about how his allowance is "only 2gp a month".
+
+As the hero, Benjamin can use all available spells and four unique weapon types, each with their own upgraded variants: The Sword, the Axe, the Bombs and the Claw. Besides his starting sword, he is given the first level of the other three weapons by other characters (Kaeli, Tristam and Phoebe). The upgraded versions are either found in dungeons, won in battlefields or bought in stores. The exceptions are the grenades (given by Reuben) and the Dragon Claw (given by Tristam).
+
+At the end of the game, after defeating the Dark King, Benjamin decides he is not yet done with adventures and sets off in Captain Mac's ship to parts unknown (unwittingly bringing Tristam along with him).</text>
+      <sha1>ep2a0snl72v7orl1ylcu1wwloi0opp9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Benjamin Rivera</title>
+    <ns>0</ns>
+    <id>57891</id>
+    <revision>
+      <id>58008</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58008</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="250" sha1="mxv6tmrxemtwzne7u575xh6m6q1rowm" xml:space="preserve">{{Character
+| Name=Benjamin Rivera
+| Guid=3005-58674
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Death_Stranding_2_On_the_Beach
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>mxv6tmrxemtwzne7u575xh6m6q1rowm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Benny 58585</title>
+    <ns>0</ns>
+    <id>57803</id>
+    <revision>
+      <id>57919</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57919</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="259" sha1="c1pjnc96mg8wwyrkgupr0dpkehu0z1p" xml:space="preserve">{{Character
+| Name=Benny
+| Guid=3005-58585
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/River_City_Ransom,Games/River_City_Rival_Showdown
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>c1pjnc96mg8wwyrkgupr0dpkehu0z1p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Berenica</title>
+    <ns>0</ns>
+    <id>57955</id>
+    <revision>
+      <id>58072</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58072</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="g1cumhampirlnkrzwqouo0vccjuz47w" xml:space="preserve">{{Character
+| Name=Berenica
+| Guid=3005-58738
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Duet_Night_Abyss
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>g1cumhampirlnkrzwqouo0vccjuz47w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Beryl 58706</title>
+    <ns>0</ns>
+    <id>57923</id>
+    <revision>
+      <id>58040</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58040</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="374" sha1="df2y4yjo4avo3shlvow9s42rtbq4sco" xml:space="preserve">{{Character
+| Name=Beryl
+| Guid=3005-58706
+| Deck=The short leader of the Wolf Platoon who always seems to be in debt.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Chaos_Zero_Nightmare
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The short leader of the Wolf Platoon who always seems to be in debt.</text>
+      <sha1>df2y4yjo4avo3shlvow9s42rtbq4sco</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Bianca North</title>
+    <ns>0</ns>
+    <id>57893</id>
+    <revision>
+      <id>58010</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58010</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="247" sha1="hq4lsex4noy4cb06k4vdarebhqsmekw" xml:space="preserve">{{Character
+| Name=Bianca North
+| Guid=3005-58676
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Death_Stranding_2_On_the_Beach
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>hq4lsex4noy4cb06k4vdarebhqsmekw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Bibi</title>
+    <ns>0</ns>
+    <id>58027</id>
+    <revision>
+      <id>58144</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58144</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="248" sha1="ruzdujflfkdu5vgf5yw6bfk6orix8un" xml:space="preserve">{{Character
+| Name=Bibi
+| Guid=3005-58810
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/AI_The_Somnium_Files_Nirvana_Initiative
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ruzdujflfkdu5vgf5yw6bfk6orix8un</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Biko Pegasus</title>
+    <ns>0</ns>
+    <id>58022</id>
+    <revision>
+      <id>58139</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58139</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="615" sha1="ccunzj78uktd7ryjkon4yw6x7avv5ae" xml:space="preserve">{{Character
+| Name=Biko Pegasus
+| Guid=3005-58805
+| Deck=Smaller Umamusume who excels in short-distance races and a huge fan of the "Carrot Ranger" series who dreams of becoming a hero herself.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=Characters/Curren_Chan,Characters/Hishi_Akebono,Characters/Hishi_Amazon,Characters/Narita_Bryan
+| Games=Games/Uma_Musume_Pretty_Derby
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Smaller Umamusume who excels in short-distance races and a huge fan of the "Carrot Ranger" series who dreams of becoming a hero herself.</text>
+      <sha1>ccunzj78uktd7ryjkon4yw6x7avv5ae</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Billy Snow</title>
+    <ns>0</ns>
+    <id>464478</id>
+    <revision>
+      <id>796955</id>
+      <parentid>738449</parentid>
+      <timestamp>2026-03-12T03:10:39Z</timestamp>
+      <contributor>
+        <username>Frobie</username>
+        <id>300</id>
+      </contributor>
+      <comment>generate guid</comment>
+      <origin>796955</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="251" sha1="fzgw8qf69ahg55nx7cxwlp9hrorvjiq" xml:space="preserve">{{Character
+|Guid=05ca4c13-b8ae-4cd7-b12f-8f6009aa840b
+|Name=Billy Snow
+|Gender=Male
+|Concepts=Concepts/Boxer
+|Enemies=Characters/Rocky Balboa
+|Games=Games/Rocky Legends, Games/Rocky
+|Locations=Locations/United Kingdom
+|Objects=Objects/Boxing Glove
+}}</text>
+      <sha1>fzgw8qf69ahg55nx7cxwlp9hrorvjiq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Bimmy Lee</title>
+    <ns>0</ns>
+    <id>464477</id>
+    <revision>
+      <id>796956</id>
+      <parentid>738439</parentid>
+      <timestamp>2026-03-12T03:10:58Z</timestamp>
+      <contributor>
+        <username>Frobie</username>
+        <id>300</id>
+      </contributor>
+      <comment>generate guid</comment>
+      <origin>796956</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="376" sha1="8qxkc9a8oiui17og3psowndxn9rsfg4" xml:space="preserve">{{Character
+|Guid=b3a0b866-a378-4991-9e33-627c7b0feb03
+|Name=Bimmy Lee
+|Deck=A fusion of Billy and Jimmy Lee
+|Gender=Male
+|Concepts=Concepts/Fusion, Concepts/Twins, Concepts/Martial Arts
+|Enemies=Characters/Willy Mackey, Characters/Mysterious Warrior, Characters/Abobo
+|Friends=Characters/Uncle Matin, Characters/Marian
+|Games=Games/Double Dragon Gaiden Rise of the Dragons
+}}</text>
+      <sha1>8qxkc9a8oiui17og3psowndxn9rsfg4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Black Lotus 58531</title>
+    <ns>0</ns>
+    <id>57749</id>
+    <revision>
+      <id>57865</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57865</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="405" sha1="tnes4g6eom4q9zxtjg9u8p2zmqa0wma" xml:space="preserve">{{Character
+| Name=Black Lotus
+| Guid=3005-58531
+| Deck=An Irish assassin who strictly follows the bushido code in the Bushido Blade series.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Bushido_Blade
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+An Irish assassin who strictly follows the bushido code in the Bushido Blade series.</text>
+      <sha1>tnes4g6eom4q9zxtjg9u8p2zmqa0wma</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Blonde Blazer</title>
+    <ns>0</ns>
+    <id>57987</id>
+    <revision>
+      <id>803359</id>
+      <parentid>722121</parentid>
+      <timestamp>2026-04-08T02:44:29Z</timestamp>
+      <contributor>
+        <username>Chucktowski</username>
+        <id>7</id>
+      </contributor>
+      <origin>803359</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1691" sha1="hkic3zti6hor8f9ypfmd81mgtwhiq8i" xml:space="preserve">{{Character
+|Guid=3005-58770
+|Name=Blonde Blazer
+|Aliases=Mandy
+|Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3821240-blonde-blazer-is-shroud-in-disguise-v0-ze2z1znbcrxf1.jpg
+|Deck=A friendly and optimistic superhero who is involved with the Superhero Dispatch Network (SDN). She recruits the player character Robert into the organization and can be romanced by him.
+|RealName=Mandy
+|Gender=Female
+|Concepts=Concepts/Flight, Concepts/Love, Concepts/Potential_Love_Interest, Concepts/Romance, Concepts/Super_Strength, Concepts/Superhero, Concepts/Transformation
+|Enemies=Characters/Armstrong, Characters/Coupe, Characters/Shroud_58847
+|Friends=Characters/Chase_58771, Characters/Coupe, Characters/Flambae, Characters/Golem_58781, Characters/Invisigal, Characters/Malevola, Characters/Phenomaman, Characters/Prism, Characters/Punch_Up, Characters/Robert_Robertson_III, Characters/Sonar, Characters/Waterboy
+|Games=Games/Dispatch
+|Locations=Locations/California
+|Objects=Objects/Boots, Objects/Cape, Objects/Dress, Objects/Gloves, Objects/Jewel, Objects/Mask, Objects/Opera_Gloves, Objects/Spandex, Objects/Thigh_High_Boots
+}}
+&lt;div id='imageData' data-json='{"infobox":{"file":"3821240-blonde-blazer-is-shroud-in-disguise-v0-ze2z1znbcrxf1.jpg","path":"77\/776653\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_medium,square_tiny,scale_medium,scale_small,square_mini,square_avatar,screen_medium,scale_avatar,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+A friendly and optimistic superhero who is involved with the Superhero Dispatch Network (SDN). She recruits the player character Robert into the organization and can be romanced by him.</text>
+      <sha1>hkic3zti6hor8f9ypfmd81mgtwhiq8i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Blue Haired Fairy</title>
+    <ns>0</ns>
+    <id>57934</id>
+    <revision>
+      <id>58051</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58051</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="240" sha1="dlh0myq1cz3hlwtxcyzg7xtot18u1j1" xml:space="preserve">{{Character
+| Name=Blue Haired Fairy
+| Guid=3005-58717
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Shrek_Reekin_Havoc
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>dlh0myq1cz3hlwtxcyzg7xtot18u1j1</sha1>
+    </revision>
+  </page>
+</mediawiki>

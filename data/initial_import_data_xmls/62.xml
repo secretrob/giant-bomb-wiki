@@ -1,0 +1,1528 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Locations/Restaurant</title>
+    <ns>0</ns>
+    <id>264330</id>
+    <revision>
+      <id>637285</id>
+      <parentid>630184</parentid>
+      <timestamp>2026-02-13T21:30:02Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637285</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2625" sha1="6jrwqcyxkbrmttvswfru91z99rds772" xml:space="preserve">{{Location
+| Name=Restaurant
+| Guid=3035-8286
+| Deck=A place where people eat at.
+| Characters=Characters/Agent_47,Characters/Carl_Johnson,Characters/Franklin_Clinton,Characters/Gordon_Ramsay,Characters/Kazuma_Kiryu,Characters/Madam_Chen,Characters/Michael_de_Santa,Characters/OddSock,Characters/Sackboy,Characters/Swoop_30790,Characters/The_Boss_8436,Characters/Toggle,Characters/Trevor_Phillips,Characters/Wei_Shen
+| Concepts=Concepts/Cats,Concepts/Chef,Concepts/Consumable,Concepts/Dog,Concepts/Eating,Concepts/Healing_Food,Concepts/Marriage,Concepts/Ordering_Food,Concepts/Tycoon,Concepts/Wiggly_Text
+| Objects=Objects/Bacon,Objects/Bagel,Objects/Baking_Ingredients,Objects/Beef_Bowl,Objects/Burrito,Objects/Canadian_Bacon,Objects/Car,Objects/Cauldron,Objects/Chalupa,Objects/Cheese,Objects/Chefs_Hat,Objects/Coca_Cola,Objects/Coin,Objects/Cup,Objects/Door,Objects/Doritos,Objects/Egg_Sandwich,Objects/Enchirito,Objects/French_Fries,Objects/Fried_Chicken,Objects/Glass,Objects/Grilled_Cheese,Objects/Hamburger,Objects/Ice_Block,Objects/Ice_Cream,Objects/Ice_Cream_Freezer,Objects/Mac_And_Cheese,Objects/Maple_Syrup,Objects/Meat,Objects/Meat_Cleaver,Objects/Mountain_Dew,Objects/Pepsi,Objects/Pizza,Objects/Potato_Chips,Objects/Ramen,Objects/Refrigerator,Objects/Roast_Chicken,Objects/Sandwich,Objects/Spaghetti,Objects/Steel_Chair,Objects/Sugar,Objects/Taco,Objects/Tortilla_Chips,Objects/Tortillas,Objects/Water,Objects/Window,Objects/Wooden_Chair
+| Locations=Locations/Asia,Locations/California,Locations/Casino,Locations/Channel_Islands,Locations/China,Locations/Europe,Locations/Hong_Kong,Locations/Hotels,Locations/Japan,Locations/KFC,Locations/Kitchen,Locations/Las_Vegas,Locations/Little_Big_Planet,Locations/Long_Beach,Locations/Los_Angeles,Locations/Nevada,Locations/North_America,Locations/Pacific_Ocean,Locations/Pizza_Hut,Locations/Santa_Barbara,Locations/Sports_Stadium,Locations/Steelport,Locations/Stilwater,Locations/Taco_Bell,Locations/The_United_States_of_America,Locations/Thousand_Oaks,Locations/Unnamed_North_American_Location,Locations/Ventura_County,Locations/Virtual_Steelport,Locations/Wendys
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3732412-interiordesign_march2024_brave-new-world-11.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3732412-interiordesign_march2024_brave-new-world-11.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_medium,square_avatar,scale_medium,scale_super,square_small,scale_small,square_mini,scale_large,scale_avatar,square_tiny,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A place where people eat at.</text>
+      <sha1>6jrwqcyxkbrmttvswfru91z99rds772</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Rhine</title>
+    <ns>0</ns>
+    <id>264194</id>
+    <revision>
+      <id>264651</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264651</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="161" sha1="e740rgjr6y0gcn3zhiq7iih7vf4rz4v" xml:space="preserve">{{Location
+| Name=Rhine
+| Guid=3035-8148
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>e740rgjr6y0gcn3zhiq7iih7vf4rz4v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Rich Island</title>
+    <ns>0</ns>
+    <id>264342</id>
+    <revision>
+      <id>637288</id>
+      <parentid>630187</parentid>
+      <timestamp>2026-02-13T21:30:05Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637288</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="917" sha1="8fm45vvqj06bh598nt7t8nktvt0vcbw" xml:space="preserve">{{Location
+| Name=Rich Island
+| Guid=3035-8298
+| Deck=A remote island in the Pacific Ocean, besieged by modern pirates fashioned after those from the Golden Age of Piracy.
+| Characters=Characters/Goro_55713,Characters/Goro_Majima,Characters/Jason_Rich,Characters/Noah_Rich
+| Concepts=Concepts/Pirate
+| Objects=
+| Locations=Locations/Island,Locations/Pacific_Ocean
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3628254-2052875188-Like-.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3628254-2052875188-Like-.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_tiny,square_avatar,screen_medium,scale_large,scale_small,scale_super,square_tiny,square_small,square_medium,scale_medium,square_mini,scale_avatar,screen_kubrick","caption":null},"background":[]}' /&gt;
+A remote island in the Pacific Ocean, besieged by modern pirates fashioned after those from the Golden Age of Piracy.</text>
+      <sha1>8fm45vvqj06bh598nt7t8nktvt0vcbw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Rivington</title>
+    <ns>0</ns>
+    <id>264211</id>
+    <revision>
+      <id>264668</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264668</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" sha1="d5kf7qyb58w6gfpowaf94ednqahg0mc" xml:space="preserve">{{Location
+| Name=Rivington
+| Guid=3035-8165
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>d5kf7qyb58w6gfpowaf94ednqahg0mc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Rockingham</title>
+    <ns>0</ns>
+    <id>264109</id>
+    <revision>
+      <id>264566</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264566</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="166" sha1="0lqfw11uonm2eexmoro7z9x82sdv6lu" xml:space="preserve">{{Location
+| Name=Rockingham
+| Guid=3035-8063
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>0lqfw11uonm2eexmoro7z9x82sdv6lu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Rokudo Valley</title>
+    <ns>0</ns>
+    <id>264396</id>
+    <revision>
+      <id>264854</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264854</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="169" sha1="d8dvao2ob4klq00x64n8b9194o0ti5k" xml:space="preserve">{{Location
+| Name=Rokudo Valley
+| Guid=3035-8352
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>d8dvao2ob4klq00x64n8b9194o0ti5k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Roosevelt Island</title>
+    <ns>0</ns>
+    <id>264187</id>
+    <revision>
+      <id>637175</id>
+      <parentid>630074</parentid>
+      <timestamp>2026-02-13T21:28:47Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637175</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="826" sha1="d35ekd8hbujtqpxmt39g1kqjfnuuvnu" xml:space="preserve">{{Location
+| Name=Roosevelt Island
+| Guid=3035-8141
+| Deck=Roosevelt Island is an island in New York City's East River, within the borough of Manhattan.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Manhattan,Locations/New_York,Locations/New_York_City,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3538886-5582330765-20170.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3538886-5582330765-20170.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_super,scale_small,square_medium,square_avatar,square_mini,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Roosevelt Island is an island in New York City's East River, within the borough of Manhattan.</text>
+      <sha1>d35ekd8hbujtqpxmt39g1kqjfnuuvnu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Roswell</title>
+    <ns>0</ns>
+    <id>264335</id>
+    <revision>
+      <id>637287</id>
+      <parentid>630186</parentid>
+      <timestamp>2026-02-13T21:30:04Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637287</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1170" sha1="tn2nk4e7a4oke1sv78pjjt0kfshi6jl" xml:space="preserve">{{Location
+| Name=Roswell
+| Guid=3035-8291
+| Deck=Roswell is a city in New Mexico. It entered greater public consciousness when an alleged alien spacecraft crashed 75 miles away in 1947, and its debris was carted off to the Roswell Army Air Field..
+| Characters=Characters/Dana_Scully,Characters/Fox_Mulder,Characters/Little_Gray,Characters/Private_Carrera
+| Concepts=Concepts/Alien,Concepts/Conspiracy,Concepts/Titular_Location
+| Objects=Objects/UFO
+| Locations=Locations/Military_Base,Locations/New_Mexico,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3628337-8828148765-1024p.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3628337-8828148765-1024p.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,scale_super,scale_small,scale_medium,square_medium,square_mini,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Roswell is a city in New Mexico. It entered greater public consciousness when an alleged alien spacecraft crashed 75 miles away in 1947, and its debris was carted off to the Roswell Army Air Field..</text>
+      <sha1>tn2nk4e7a4oke1sv78pjjt0kfshi6jl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Roundtable Hold</title>
+    <ns>0</ns>
+    <id>264379</id>
+    <revision>
+      <id>637305</id>
+      <parentid>630204</parentid>
+      <timestamp>2026-02-13T21:30:17Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637305</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="802" sha1="0ikejvzlw2s4aw3m6oihlppqtd7u8hk" xml:space="preserve">{{Location
+| Name=Roundtable Hold
+| Guid=3035-8335
+| Deck=A place outside of space and time that serves as a central hub in Elden Ring.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3312578-elden-ring_2021_08-27-21_001.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3312578-elden-ring_2021_08-27-21_001.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_mini,square_medium,square_small,scale_medium,scale_super,square_tiny,scale_small,square_avatar,scale_large,screen_medium,scale_tiny,screen_kubrick,scale_avatar,screen_large,screen_tiny,screen_small","caption":"The Roundtable Hold, as it appears in Elden Ring."},"background":[]}' /&gt;
+A place outside of space and time that serves as a central hub in Elden Ring.</text>
+      <sha1>0ikejvzlw2s4aw3m6oihlppqtd7u8hk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Ruston</title>
+    <ns>0</ns>
+    <id>264274</id>
+    <revision>
+      <id>637229</id>
+      <parentid>630128</parentid>
+      <timestamp>2026-02-13T21:29:24Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637229</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="768" sha1="jqqjkwucme7bh9rqfe26rq86o8han83" xml:space="preserve">{{Location
+| Name=Ruston
+| Guid=3035-8229
+| Deck=A city in Louisiana and the home of Louisiana Tech University.
+| Characters=
+| Concepts=Concepts/Louisiana_Tech_Bulldogs
+| Objects=
+| Locations=Locations/Louisiana,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614360-6451574007-splash.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614360-6451574007-splash.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_medium,square_medium,square_small,scale_small,scale_super,square_tiny,square_avatar,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+A city in Louisiana and the home of Louisiana Tech University.</text>
+      <sha1>jqqjkwucme7bh9rqfe26rq86o8han83</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Saint Christopher and Nevis</title>
+    <ns>0</ns>
+    <id>264052</id>
+    <revision>
+      <id>264509</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264509</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="507" sha1="02374y7xey61os3u2yvw6wx9yoezfny" xml:space="preserve">{{Location
+| Name=Saint Christopher and Nevis
+| Guid=3035-8006
+| Deck=Saint Christopher and Nevis, sometimes called Saint Kitts and Nevis, is a constitutional island monarchy in the Caribbean Sea. Its capital city is Basseterre.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Saint Christopher and Nevis, sometimes called Saint Kitts and Nevis, is a constitutional island monarchy in the Caribbean Sea. Its capital city is Basseterre.</text>
+      <sha1>02374y7xey61os3u2yvw6wx9yoezfny</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Saint Denis 3874</title>
+    <ns>0</ns>
+    <id>465032</id>
+    <revision>
+      <id>752236</id>
+      <timestamp>2026-03-04T23:10:55Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752236</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="369" sha1="98hv03idacyumxcf8z5b1ct4jaw0997" xml:space="preserve">{{Location
+| Name=Saint-Denis
+| Guid=3035-3874
+| Deck=Saint-Denis is a commune in the northern suburbs of Paris, France.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/France,Locations/Paris
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+It is home to France's national stadium, "Stade de France", built for the 1998 FIFA World Cup.
+
+</text>
+      <sha1>98hv03idacyumxcf8z5b1ct4jaw0997</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Saint Lucia</title>
+    <ns>0</ns>
+    <id>264049</id>
+    <revision>
+      <id>264506</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264506</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="373" sha1="fuynino3d4mvzv24mdcq6kqhho1lvkj" xml:space="preserve">{{Location
+| Name=Saint Lucia
+| Guid=3035-8003
+| Deck=Saint Lucia is a constitutional island monarchy in the Caribbean Sea. Its capital city is Castries.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Saint Lucia is a constitutional island monarchy in the Caribbean Sea. Its capital city is Castries.</text>
+      <sha1>fuynino3d4mvzv24mdcq6kqhho1lvkj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Saint Tropez</title>
+    <ns>0</ns>
+    <id>264185</id>
+    <revision>
+      <id>264642</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264642</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="168" sha1="pxa99kvfy816frq3yddy64rru8wldp2" xml:space="preserve">{{Location
+| Name=Saint-Tropez
+| Guid=3035-8139
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>pxa99kvfy816frq3yddy64rru8wldp2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Saint Vincent and the Grenadines</title>
+    <ns>0</ns>
+    <id>264050</id>
+    <revision>
+      <id>264507</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264507</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="436" sha1="n0nyx2esxxwvnbk181znty5k22bjvb8" xml:space="preserve">{{Location
+| Name=Saint Vincent and the Grenadines
+| Guid=3035-8004
+| Deck=Saint Vincent and the Grenadines is a constitutional island monarchy in the Caribbean Sea. Its capital city is Kingstown
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Saint Vincent and the Grenadines is a constitutional island monarchy in the Caribbean Sea. Its capital city is Kingstown</text>
+      <sha1>n0nyx2esxxwvnbk181znty5k22bjvb8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Sainte Marie des Champs</title>
+    <ns>0</ns>
+    <id>264196</id>
+    <revision>
+      <id>264653</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264653</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="179" sha1="g23xi00c1ozy1ze0ndynrp017kci0ih" xml:space="preserve">{{Location
+| Name=Sainte Marie des Champs
+| Guid=3035-8150
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>g23xi00c1ozy1ze0ndynrp017kci0ih</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Samoa</title>
+    <ns>0</ns>
+    <id>264034</id>
+    <revision>
+      <id>264491</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264491</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="437" sha1="59gq7scqxwoem16u1qqx54fzhf7li6y" xml:space="preserve">{{Location
+| Name=Samoa
+| Guid=3035-7988
+| Deck=Samoa, until 4 July 1997 known as Western Samoa, is a state in the South Pacific Ocean. Its capital city is Apia.
+| Characters=Characters/Roman_Reigns
+| Concepts=
+| Objects=
+| Locations=Locations/McDonalds
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Samoa, until 4 July 1997 known as Western Samoa, is a state in the South Pacific Ocean. Its capital city is Apia.</text>
+      <sha1>59gq7scqxwoem16u1qqx54fzhf7li6y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/San Marcos</title>
+    <ns>0</ns>
+    <id>264312</id>
+    <revision>
+      <id>637267</id>
+      <parentid>630166</parentid>
+      <timestamp>2026-02-13T21:29:50Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637267</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="715" sha1="bz564xd5czu7m9rfvua6q1l5mrflnzg" xml:space="preserve">{{Location
+| Name=San Marcos
+| Guid=3035-8267
+| Deck=A city in Texas and the home of Texas State University.
+| Characters=
+| Concepts=Concepts/Texas_State_Bobcats
+| Objects=
+| Locations=Locations/Texas,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614433-0238518034-60a53.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614433-0238518034-60a53.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_super,scale_small,square_medium,scale_medium,square_mini,square_avatar,square_tiny,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Texas and the home of Texas State University.</text>
+      <sha1>bz564xd5czu7m9rfvua6q1l5mrflnzg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Sanremo</title>
+    <ns>0</ns>
+    <id>264075</id>
+    <revision>
+      <id>264532</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264532</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="163" sha1="k0dpqqhl108stiuhe9a99kr23vl952o" xml:space="preserve">{{Location
+| Name=Sanremo
+| Guid=3035-8029
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>k0dpqqhl108stiuhe9a99kr23vl952o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Santa Catalina Island</title>
+    <ns>0</ns>
+    <id>264126</id>
+    <revision>
+      <id>1007641</id>
+      <parentid>637133</parentid>
+      <timestamp>2026-07-19T18:01:06Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007641</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1136" sha1="1s6x08zfnn1mroz167caafy3fq42nzt" xml:space="preserve">{{Location
+| Name=Santa Catalina Island
+| Guid=3035-8080
+| Deck=Santa Catalina Island, also known mononymously as Catalina, is a part of the Channel Islands in California, USA.
+| Characters=Characters/Abby_43250,Characters/Lev
+| Concepts=Concepts/Dolphin
+| Objects=Objects/Boat
+| Locations=Locations/Beach,Locations/California,Locations/Channel_Islands,Locations/Earth,Locations/Los_Angeles,Locations/North_America,Locations/Pacific_Ocean,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3486956-santa_catalina_island_%28california%29_by_sentinel-2%2C_2019-03-30.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3486956-santa_catalina_island_(california)_by_sentinel-2,_2019-03-30.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,scale_small,square_avatar,square_medium,square_small,square_tiny,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Santa Catalina Island, also known mononymously as Catalina, is a part of the Channel Islands in California, USA.</text>
+      <sha1>1s6x08zfnn1mroz167caafy3fq42nzt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Santiago</title>
+    <ns>0</ns>
+    <id>264392</id>
+    <revision>
+      <id>264850</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264850</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="217" sha1="6os47w2g3sbv0x197tetphjc1rkv68k" xml:space="preserve">{{Location
+| Name=Santiago
+| Guid=3035-8348
+| Deck=Chilean capital
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Chile
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Chilean capital</text>
+      <sha1>6os47w2g3sbv0x197tetphjc1rkv68k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Saskatchewan</title>
+    <ns>0</ns>
+    <id>264359</id>
+    <revision>
+      <id>264817</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264817</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="168" sha1="apwyw1qudbk2k5e4bdm554euh1100b2" xml:space="preserve">{{Location
+| Name=Saskatchewan
+| Guid=3035-8315
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>apwyw1qudbk2k5e4bdm554euh1100b2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Satriales Pork Store</title>
+    <ns>0</ns>
+    <id>264347</id>
+    <revision>
+      <id>637292</id>
+      <parentid>630191</parentid>
+      <timestamp>2026-02-13T21:30:08Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637292</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="913" sha1="b2q5y1s6bv86m57uhxreh5wfsryv7tr" xml:space="preserve">{{Location
+| Name=Satriale's Pork Store
+| Guid=3035-8303
+| Deck=An Italian deli meat market and hangout for the Soprano crew.
+| Characters=Characters/Joey_LaRocca,Characters/Paulie_Walnuts,Characters/Salvatore_Bonpensiero,Characters/Silvio_Dante,Characters/Tony_Soprano,Characters/Vito_Spatafore
+| Concepts=
+| Objects=Objects/Meat,Objects/Sandwich,Objects/Soft_Drink
+| Locations=Locations/New_Jersey,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/105/1056167/3631082-satriale.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3631082-satriale.jpg","path":"105\/1056167\/","mime":"image\/jpeg","sizes":"scale_super,square_avatar,square_small,scale_medium,scale_small,square_medium,square_tiny,square_mini,screen_kubrick,scale_avatar,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+An Italian deli meat market and hangout for the Soprano crew.</text>
+      <sha1>b2q5y1s6bv86m57uhxreh5wfsryv7tr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Sauna</title>
+    <ns>0</ns>
+    <id>264171</id>
+    <revision>
+      <id>264628</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264628</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="161" sha1="d6thqyqoq6m0z2rndjx2wrw2gyfephj" xml:space="preserve">{{Location
+| Name=Sauna
+| Guid=3035-8125
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>d6thqyqoq6m0z2rndjx2wrw2gyfephj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Sauria</title>
+    <ns>0</ns>
+    <id>264218</id>
+    <revision>
+      <id>264675</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264675</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="460" sha1="bd9gw13tsky6ex8ritdobobfp0g9h7d" xml:space="preserve">{{Location
+| Name=Sauria
+| Guid=3035-8172
+| Deck=Sauria is a fictional planet from the 1990 video game The Adventures of Rad Gravity. A jungle planet, it is inhabited by dinosaur-like creatures.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Sauria is a fictional planet from the 1990 video game The Adventures of Rad Gravity. A jungle planet, it is inhabited by dinosaur-like creatures.</text>
+      <sha1>bd9gw13tsky6ex8ritdobobfp0g9h7d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Savanna</title>
+    <ns>0</ns>
+    <id>264058</id>
+    <revision>
+      <id>637102</id>
+      <parentid>630001</parentid>
+      <timestamp>2026-02-13T21:27:54Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637102</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="810" sha1="2tplehb27892jx15dybu9686f9yj7ig" xml:space="preserve">{{Location
+| Name=Savanna
+| Guid=3035-8012
+| Deck=A grassy woodland ecosystem native from Africa.
+| Characters=
+| Concepts=Concepts/Cheetahs,Concepts/Elephants,Concepts/Giraffe,Concepts/Hippopotamus,Concepts/Hyena,Concepts/Lions,Concepts/Monkeys,Concepts/Water_Buffalo,Concepts/Wolf,Concepts/Zebra
+| Objects=
+| Locations=Locations/Africa
+| Image=https://www.giantbomb.com/a/uploads/scale_super/59/594908/3458057-2851872245-800px.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3458057-2851872245-800px.jpg","path":"59\/594908\/","mime":"image\/jpeg","sizes":"square_avatar,square_medium,square_small,scale_small,scale_super,scale_medium,square_tiny,square_mini,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+A grassy woodland ecosystem native from Africa.</text>
+      <sha1>2tplehb27892jx15dybu9686f9yj7ig</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Savathuns Throne World</title>
+    <ns>0</ns>
+    <id>263988</id>
+    <revision>
+      <id>637067</id>
+      <parentid>629966</parentid>
+      <timestamp>2026-02-13T21:27:29Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637067</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1376" sha1="2uvyuzsm9n6f6734fn2apn3z515av3i" xml:space="preserve">{{Location
+| Name=Savathûn's Throne World
+| Guid=3035-7940
+| Deck=The Court of Savathûn, also known as the High Coven is the Throne World of Savathûn, the Witch Queen. After she was revived as a Lightbearer, Savathûn reforged most of her realm with the Light instead of Darkness. It became available as as Destination in Destiny 2.
+| Characters=Characters/Alak_Hul_the_Darkblade,Characters/Fynch,Characters/Immaru,Characters/Rhulk_Disciple_of_the_Witness,Characters/Savathun_the_Witch_Queen
+| Concepts=Concepts/Female_Antagonists,Concepts/Ghost_12698,Concepts/Hive,Concepts/Insectoid_Humanoid,Concepts/Lucent_Brood,Concepts/Scorn,Concepts/The_Black_Fleet
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3439407-2658077047-WQLoc.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3439407-2658077047-WQLoc.jpg","path":"52\/520822\/","mime":"image\/jpeg","sizes":"square_avatar,square_medium,scale_super,scale_medium,scale_small,square_mini,square_small,square_tiny,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Court of Savathûn, also known as the High Coven is the Throne World of Savathûn, the Witch Queen. After she was revived as a Lightbearer, Savathûn reforged most of her realm with the Light instead of Darkness. It became available as as Destination in Destiny 2.</text>
+      <sha1>2uvyuzsm9n6f6734fn2apn3z515av3i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Sequoia National Park</title>
+    <ns>0</ns>
+    <id>264072</id>
+    <revision>
+      <id>264529</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264529</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="177" sha1="gmjnc49x12kwdasu8xckq4qusn8er9z" xml:space="preserve">{{Location
+| Name=Sequoia National Park
+| Guid=3035-8026
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>gmjnc49x12kwdasu8xckq4qusn8er9z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Server Room</title>
+    <ns>0</ns>
+    <id>264433</id>
+    <revision>
+      <id>637325</id>
+      <parentid>630224</parentid>
+      <timestamp>2026-02-13T21:30:31Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637325</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="923" sha1="qnkw2kaajm4hkp7fsv46qbfe07ftiw9" xml:space="preserve">{{Location
+| Name=Server Room
+| Guid=3035-8389
+| Deck=A server room is a room, usually air-conditioned, devoted to the continuous operation of computer servers. An entire building or station devoted to this purpose is a data center.
+| Characters=
+| Concepts=Concepts/Hacking
+| Objects=Objects/Air_Conditioning_Unit,Objects/Computer
+| Locations=Locations/Office_Building
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3810023-5754622645-serve.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3810023-5754622645-serve.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,square_avatar,square_tiny,square_small,square_medium,scale_medium,square_mini","caption":null},"background":[]}' /&gt;
+A server room is a room, usually air-conditioned, devoted to the continuous operation of computer servers. An entire building or station devoted to this purpose is a data center.</text>
+      <sha1>qnkw2kaajm4hkp7fsv46qbfe07ftiw9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Seychelles</title>
+    <ns>0</ns>
+    <id>264355</id>
+    <revision>
+      <id>637297</id>
+      <parentid>630196</parentid>
+      <timestamp>2026-02-13T21:30:11Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637297</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="790" sha1="4fapr3hde63kn8nh19x4sv23h0kulam" xml:space="preserve">{{Location
+| Name=Seychelles
+| Guid=3035-8311
+| Deck=Seychelles is the smallest country in Africa.
+| Characters=Characters/Brian_56366,Characters/Liquid_Snake,Characters/Master_Miller,Characters/Quiet,Characters/Revolver_Ocelot,Characters/Venom_Snake
+| Concepts=
+| Objects=
+| Locations=Locations/Africa,Locations/Ocean
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3647031-flag-seychelles_jpg.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3647031-flag-seychelles_jpg.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_super,square_small,square_medium,scale_small,square_avatar,scale_medium,square_mini,square_tiny,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Seychelles is the smallest country in Africa.</text>
+      <sha1>4fapr3hde63kn8nh19x4sv23h0kulam</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Shang Tsungs Lab</title>
+    <ns>0</ns>
+    <id>264151</id>
+    <revision>
+      <id>637149</id>
+      <parentid>630048</parentid>
+      <timestamp>2026-02-13T21:28:28Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637149</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1031" sha1="e8i1xr5yw1jmviolpdaq64hhzuntjws" xml:space="preserve">{{Location
+| Name=Shang Tsung's Lab
+| Guid=3035-8105
+| Deck=Shang Tsung's lab is where the sorcerer claims to hone his magical abilities. In truth, this lab is a facade, for his true and horrifying experiments take place in the Flesh Pits hidden below.
+| Characters=Characters/Shang_Tsung
+| Concepts=Concepts/Magic,Concepts/Wizards
+| Objects=
+| Locations=Locations/Shang_Tsungs_Flesh_Pits
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3497457-4695815475-F4VLW85bIAA1q6O.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3497457-4695815475-F4VLW85bIAA1q6O.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,square_avatar,screen_medium,scale_large,scale_small,square_mini,scale_tiny,scale_avatar,screen_kubrick","caption":null},"background":[]}' /&gt;
+Shang Tsung's lab is where the sorcerer claims to hone his magical abilities. In truth, this lab is a facade, for his true and horrifying experiments take place in the Flesh Pits hidden below.</text>
+      <sha1>e8i1xr5yw1jmviolpdaq64hhzuntjws</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Sherwood Country Club</title>
+    <ns>0</ns>
+    <id>264124</id>
+    <revision>
+      <id>637131</id>
+      <parentid>630030</parentid>
+      <timestamp>2026-02-13T21:28:14Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637131</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1095" sha1="bu1c4qy556rqv79orh52o1yapnw87ez" xml:space="preserve">{{Location
+| Name=Sherwood Country Club
+| Guid=3035-8078
+| Deck=Sherwood Country Club is a private country club known for its golf course and celebrity alumni.
+| Characters=Characters/Caitlyn_Jenner,Characters/Justin_Bieber,Characters/Kim_Kardashian,Characters/Tiger_Woods
+| Concepts=Concepts/Golf
+| Objects=
+| Locations=Locations/California,Locations/Earth,Locations/Home,Locations/House,Locations/Lake,Locations/Lake_Sherwood,Locations/North_America,Locations/Swimming_Pool,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America,Locations/Thousand_Oaks,Locations/Ventura_County
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3486953-getimage.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3486953-getimage.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,scale_small,square_avatar,square_medium,square_small,square_mini,scale_avatar,screen_medium,screen_kubrick,scale_large,square_tiny","caption":null},"background":[]}' /&gt;
+Sherwood Country Club is a private country club known for its golf course and celebrity alumni.</text>
+      <sha1>bu1c4qy556rqv79orh52o1yapnw87ez</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Sierra Leone</title>
+    <ns>0</ns>
+    <id>264031</id>
+    <revision>
+      <id>264488</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264488</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="326" sha1="s517ikfmsajhz4rpv4ifp782zv4ape8" xml:space="preserve">{{Location
+| Name=Sierra Leone
+| Guid=3035-7985
+| Deck=Sierra Leone is a republic in Western Africa. Its capital city is Freetown.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Sierra Leone is a republic in Western Africa. Its capital city is Freetown.</text>
+      <sha1>s517ikfmsajhz4rpv4ifp782zv4ape8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Sierra Nevada</title>
+    <ns>0</ns>
+    <id>264406</id>
+    <revision>
+      <id>637317</id>
+      <parentid>630216</parentid>
+      <timestamp>2026-02-13T21:30:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637317</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="995" sha1="q4gwow5bw47tziai7uq46tzq9hlgicp" xml:space="preserve">{{Location
+| Name=Sierra Nevada
+| Guid=3035-8362
+| Deck=Sierra Nevada is a range of mountains that primarily exist in California, though some do actually cross into the state of Nevada.
+| Characters=
+| Concepts=
+| Objects=Objects/Giant_Redwoods
+| Locations=Locations/California,Locations/Earth,Locations/Nevada,Locations/New_California_Republic,Locations/North_America,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3732382-sierra-nevada-range.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3732382-sierra-nevada-range.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_medium,square_small,square_avatar,scale_small,square_tiny,scale_super,scale_medium,screen_kubrick,scale_large,scale_avatar,square_mini,screen_medium","caption":null},"background":[]}' /&gt;
+Sierra Nevada is a range of mountains that primarily exist in California, though some do actually cross into the state of Nevada.</text>
+      <sha1>q4gwow5bw47tziai7uq46tzq9hlgicp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/SimNation</title>
+    <ns>0</ns>
+    <id>264181</id>
+    <revision>
+      <id>637172</id>
+      <parentid>630071</parentid>
+      <timestamp>2026-02-13T21:28:45Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637172</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="691" sha1="jwmmdzzuf4hxart3evyy8skxr311io7" xml:space="preserve">{{Location
+| Name=SimNation
+| Guid=3035-8135
+| Deck=SimNation is the fictional country that all The Sims games take place in.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3537030-the_sims_2_conceptart_sekpr.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3537030-the_sims_2_conceptart_sekpr.png","path":"8\/82962\/","mime":"image\/png","sizes":"square_small,square_avatar,square_medium,scale_small,scale_super,square_tiny,scale_medium,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+SimNation is the fictional country that all The Sims games take place in.</text>
+      <sha1>jwmmdzzuf4hxart3evyy8skxr311io7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Sisika Penitentiary</title>
+    <ns>0</ns>
+    <id>264378</id>
+    <revision>
+      <id>264836</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264836</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="487" sha1="b8270mvusar1zegvifvtgqsdfl45vw1" xml:space="preserve">{{Location
+| Name=Sisika Penitentiary
+| Guid=3035-8334
+| Deck=A maximum security prison featured in Red Dead Redemption 2.
+| Characters=Characters/John_Marston
+| Concepts=
+| Objects=
+| Locations=Locations/Lemoyne,Locations/Prison,Locations/The_United_States_of_America
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+John Marston is arrested after the Saint Denis bank robbery and imprisoned in Sisika Penitentiary. Arthur Morgan and Sadie Adler free him later on.
+</text>
+      <sha1>b8270mvusar1zegvifvtgqsdfl45vw1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Skatepark</title>
+    <ns>0</ns>
+    <id>264348</id>
+    <revision>
+      <id>264806</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264806</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="220" sha1="5brtbnkr04nfeqjvmrqrptbc2snbygd" xml:space="preserve">{{Location
+| Name=Skatepark
+| Guid=3035-8304
+| Characters=
+| Concepts=Concepts/Revert,Concepts/Skateboarding
+| Objects=Objects/Wristband
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5brtbnkr04nfeqjvmrqrptbc2snbygd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Ski Resort</title>
+    <ns>0</ns>
+    <id>264463</id>
+    <revision>
+      <id>264921</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264921</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1366" sha1="gxds7wecacfwzwr0ovo5cqad6zi287g" xml:space="preserve">{{Location
+| Name=Ski Resort
+| Guid=3035-8420
+| Deck=A ski resort is a resort developed for skiing, snowboarding, and other winter sports. In Europe, most ski resorts are towns or villages in or adjacent to a ski area–a mountainous area with pistes (ski trails) and a ski lift system. In North America, it is more common for ski areas to exist well away from towns, so ski resorts usually are destination resorts, often purpose-built and self-contained, where skiing is the main activity.
+| Characters=
+| Concepts=Concepts/Alpine_Skiing,Concepts/Cross_country_Skiing,Concepts/Skiing,Concepts/Snow,Concepts/Tourism
+| Objects=Objects/Ski_Goggles,Objects/Ski_Lift,Objects/Ski_Mask,Objects/Skis
+| Locations=Locations/Austria,Locations/Europe,Locations/Italy,Locations/Japan,Locations/Mountains,Locations/North_America,Locations/Switzerland,Locations/The_Alps
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+A ski resort is a resort developed for skiing, snowboarding, and other winter sports. In Europe, most ski resorts are towns or villages in or adjacent to a ski area–a mountainous area with pistes (ski trails) and a ski lift system. In North America, it is more common for ski areas to exist well away from towns, so ski resorts usually are destination resorts, often purpose-built and self-contained, where skiing is the main activity.
+
+</text>
+      <sha1>gxds7wecacfwzwr0ovo5cqad6zi287g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Sky High Village</title>
+    <ns>0</ns>
+    <id>263994</id>
+    <revision>
+      <id>264451</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264451</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="172" sha1="jtclsdwjuntr8okkzdt4bdtf82vel6m" xml:space="preserve">{{Location
+| Name=Sky High Village
+| Guid=3035-7948
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jtclsdwjuntr8okkzdt4bdtf82vel6m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Snake Way</title>
+    <ns>0</ns>
+    <id>264223</id>
+    <revision>
+      <id>637180</id>
+      <parentid>630079</parentid>
+      <timestamp>2026-02-13T21:28:51Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637180</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="863" sha1="k8r7i2b0kpo4wribnv4otvc0in4fv2w" xml:space="preserve">{{Location
+| Name=Snake Way
+| Guid=3035-8178
+| Deck=The long, narrow and winding path in the other world leading from King Yemma's palace to King Kai's Planet.
+| Characters=Characters/Princess_Snake
+| Concepts=Concepts/The_Afterlife
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/3/34658/3569421-dbz_infinite_worldps2screenshots21089snake_road_mission.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3569421-dbz_infinite_worldps2screenshots21089snake_road_mission.jpg","path":"3\/34658\/","mime":"image\/jpeg","sizes":"scale_small,square_avatar,square_small,scale_super,scale_medium,square_medium,square_mini,square_tiny,screen_medium,scale_avatar,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+The long, narrow and winding path in the other world leading from King Yemma's palace to King Kai's Planet.</text>
+      <sha1>k8r7i2b0kpo4wribnv4otvc0in4fv2w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Snetterton Circuit</title>
+    <ns>0</ns>
+    <id>264065</id>
+    <revision>
+      <id>264522</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264522</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="174" sha1="lfgswy9jc927em0szb06mzq3hlp9iz9" xml:space="preserve">{{Location
+| Name=Snetterton Circuit
+| Guid=3035-8019
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>lfgswy9jc927em0szb06mzq3hlp9iz9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Soleanna</title>
+    <ns>0</ns>
+    <id>263984</id>
+    <revision>
+      <id>637063</id>
+      <parentid>629962</parentid>
+      <timestamp>2026-02-13T21:27:26Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637063</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1159" sha1="hymik0ue2qgceo2zn24euoxw0vz57qy" xml:space="preserve">{{Location
+| Name=Soleanna
+| Guid=3035-7932
+| Deck=The City of Water, which is featured in the 2006 game Sonic the Hedgehog.
+| Characters=Characters/Amy_Rose,Characters/Blaze_the_Cat,Characters/Dr_Robotnik,Characters/Knuckles,Characters/Princess_Elise,Characters/Shadow_the_Hedgehog,Characters/Silver_The_Hedgehog,Characters/Sonic_the_Hedgehog,Characters/Tails
+| Concepts=
+| Objects=Objects/Barrel,Objects/Boat,Objects/Crate
+| Locations=Locations/Beach,Locations/City,Locations/Earth,Locations/Forest
+| Image=https://www.giantbomb.com/a/uploads/scale_super/105/1056167/3438084-image_2023-01-04_015124223.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3438084-image_2023-01-04_015124223.png","path":"105\/1056167\/","mime":"image\/png","sizes":"scale_super,scale_small,square_tiny,scale_medium,square_medium,square_small,square_avatar,square_mini,screen_kubrick,scale_avatar,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+
+==Overview==
+Soleanna is a city and large coastal region which first appeared in the Sonic the Hedgehog comic books. The city itself was inspired by the architectural look of [[Locations/Venice_Italy|Venice]].</text>
+      <sha1>hymik0ue2qgceo2zn24euoxw0vz57qy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/South Bend</title>
+    <ns>0</ns>
+    <id>264291</id>
+    <revision>
+      <id>637246</id>
+      <parentid>630145</parentid>
+      <timestamp>2026-02-13T21:29:36Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637246</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="739" sha1="hoe587cwcz8mp84tlbym4up34ofbq07" xml:space="preserve">{{Location
+| Name=South Bend
+| Guid=3035-8246
+| Deck=A city in Indiana and the home of the University of Notre Dame.
+| Characters=
+| Concepts=Concepts/Notre_Dame_Fighting_Irish
+| Objects=
+| Locations=Locations/Indiana,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614414-3076620603-Notre.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614414-3076620603-Notre.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_small,scale_super,square_medium,square_avatar,square_mini,square_tiny,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Indiana and the home of the University of Notre Dame.</text>
+      <sha1>hoe587cwcz8mp84tlbym4up34ofbq07</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Southern 100</title>
+    <ns>0</ns>
+    <id>264084</id>
+    <revision>
+      <id>264541</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264541</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="168" sha1="46ppnb3xj89zvmjrhpbq9yyc93rudjh" xml:space="preserve">{{Location
+| Name=Southern 100
+| Guid=3035-8038
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>46ppnb3xj89zvmjrhpbq9yyc93rudjh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Space Hub</title>
+    <ns>0</ns>
+    <id>264131</id>
+    <revision>
+      <id>264588</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264588</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" sha1="ljw7hkk92giicvkijktodcr5kg88lof" xml:space="preserve">{{Location
+| Name=Space Hub
+| Guid=3035-8085
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ljw7hkk92giicvkijktodcr5kg88lof</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Splashbucklers</title>
+    <ns>0</ns>
+    <id>264456</id>
+    <revision>
+      <id>264914</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264914</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="240" sha1="5xssw0hl2i2p2y5nei2uxwfugqeqlh5" xml:space="preserve">{{Location
+| Name=Splashbucklers!
+| Guid=3035-8413
+| Characters=Characters/Dog_58603,Characters/Killer_Tomato,Characters/Super_Granny
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5xssw0hl2i2p2y5nei2uxwfugqeqlh5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Stanford</title>
+    <ns>0</ns>
+    <id>264308</id>
+    <revision>
+      <id>637263</id>
+      <parentid>630162</parentid>
+      <timestamp>2026-02-13T21:29:47Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637263</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="798" sha1="a5wu1kg05lov7f848x0v535cwo3vheu" xml:space="preserve">{{Location
+| Name=Stanford
+| Guid=3035-8263
+| Deck=A city in the San Francisco Bay area of northern California and the home of Stanford University.
+| Characters=
+| Concepts=Concepts/Stanford_Cardinal
+| Objects=
+| Locations=Locations/California,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614429-7206731589-Hoove.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614429-7206731589-Hoove.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_small,square_medium,square_small,square_tiny,scale_medium,scale_super,square_avatar,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A city in the San Francisco Bay area of northern California and the home of Stanford University.</text>
+      <sha1>a5wu1kg05lov7f848x0v535cwo3vheu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Starkville</title>
+    <ns>0</ns>
+    <id>264282</id>
+    <revision>
+      <id>637237</id>
+      <parentid>630136</parentid>
+      <timestamp>2026-02-13T21:29:30Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637237</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="785" sha1="e8777l3izhj56dfxppacltdlyfxbot9" xml:space="preserve">{{Location
+| Name=Starkville
+| Guid=3035-8237
+| Deck=A city in Mississippi and the home of Mississippi State University.
+| Characters=
+| Concepts=Concepts/Mississippi_State_Bulldogs
+| Objects=
+| Locations=Locations/Mississippi,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614376-4183004186-at-th.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614376-4183004186-at-th.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,square_medium,square_tiny,square_avatar,scale_super,scale_medium,scale_small,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Mississippi and the home of Mississippi State University.</text>
+      <sha1>e8777l3izhj56dfxppacltdlyfxbot9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/State College</title>
+    <ns>0</ns>
+    <id>264299</id>
+    <revision>
+      <id>637254</id>
+      <parentid>630153</parentid>
+      <timestamp>2026-02-13T21:29:41Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637254</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="742" sha1="15oiflq2qq9137gykm4x80tgm9fq8aa" xml:space="preserve">{{Location
+| Name=State College
+| Guid=3035-8254
+| Deck=A city in Pennsylvania and the home of Penn State University.
+| Characters=
+| Concepts=Concepts/Penn_State_Nittany_Lions
+| Objects=
+| Locations=Locations/Pennsylvania,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614420-3633772506-state.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614420-3633772506-state.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_medium,scale_small,scale_medium,square_avatar,square_tiny,square_mini,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A city in Pennsylvania and the home of Penn State University.</text>
+      <sha1>15oiflq2qq9137gykm4x80tgm9fq8aa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Statesboro</title>
+    <ns>0</ns>
+    <id>264259</id>
+    <revision>
+      <id>637214</id>
+      <parentid>630113</parentid>
+      <timestamp>2026-02-13T21:29:13Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637214</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="763" sha1="elv6p2ytpqdq6llwh6r7ph2h0az0k8n" xml:space="preserve">{{Location
+| Name=Statesboro
+| Guid=3035-8214
+| Deck=Statesboro is a city in Georgia and the home of Georgia Southern University.
+| Characters=
+| Concepts=Concepts/Georgia_Southern_Eagles
+| Objects=
+| Locations=Locations/Georgia,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614341-2238676294-bullo.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614341-2238676294-bullo.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_small,scale_super,scale_medium,square_medium,square_avatar,square_tiny,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+Statesboro is a city in Georgia and the home of Georgia Southern University.</text>
+      <sha1>elv6p2ytpqdq6llwh6r7ph2h0az0k8n</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1632 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>People/Paul Hoggart 18725</title>
+    <ns>0</ns>
+    <id>465049</id>
+    <revision>
+      <id>752366</id>
+      <timestamp>2026-03-04T23:12:12Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752366</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="246" sha1="jotkvbbsgp3yqe9ncpauw2juxpvob61" xml:space="preserve">{{Person
+| Name=Paul Hoggart
+| Guid=3040-18725
+| Gender=Male
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Flockers,Games/Worms_W_M_D
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jotkvbbsgp3yqe9ncpauw2juxpvob61</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Paul Kilanowski</title>
+    <ns>0</ns>
+    <id>456406</id>
+    <revision>
+      <id>456992</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456992</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="224" sha1="lkmmqrppo25tbibgc11mi958simwx2m" xml:space="preserve">{{Person
+| Name=Paul Kilanowski
+| Guid=3040-193266
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Super_Granny_4
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>lkmmqrppo25tbibgc11mi958simwx2m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Pavel Ananyev</title>
+    <ns>0</ns>
+    <id>456482</id>
+    <revision>
+      <id>457068</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457068</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="220" sha1="c3e9wwh6517wwwymrctc1ht69w8dirf" xml:space="preserve">{{Person
+| Name=Pavel Ananyev
+| Guid=3040-193343
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Monster_Mash
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>c3e9wwh6517wwwymrctc1ht69w8dirf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Pavel Giris</title>
+    <ns>0</ns>
+    <id>456498</id>
+    <revision>
+      <id>457084</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457084</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="218" sha1="9n16papqx2bh2hyyzej70hcwqoo089b" xml:space="preserve">{{Person
+| Name=Pavel Giris
+| Guid=3040-193359
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Monster_Mash
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9n16papqx2bh2hyyzej70hcwqoo089b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Peng Ven</title>
+    <ns>0</ns>
+    <id>456509</id>
+    <revision>
+      <id>457095</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457095</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="249" sha1="24ns87mlk5gx0ialipug917g8uobhia" xml:space="preserve">{{Person
+| Name=Peng Ven
+| Guid=3040-193370
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Cookie_Domination,Games/Westward_IV_All_Aboard
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>24ns87mlk5gx0ialipug917g8uobhia</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Peng Ven Wong</title>
+    <ns>0</ns>
+    <id>456516</id>
+    <revision>
+      <id>457102</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457102</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="225" sha1="jbdtcsumzyo3ilq3uznmqajizd5upzm" xml:space="preserve">{{Person
+| Name=Peng Ven Wong
+| Guid=3040-193377
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Westward_Kingdoms
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jbdtcsumzyo3ilq3uznmqajizd5upzm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Peter Bergstrom 54349</title>
+    <ns>0</ns>
+    <id>465093</id>
+    <revision>
+      <id>752429</id>
+      <timestamp>2026-03-04T23:13:15Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752429</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="204" sha1="tk397miuzaixifudlewxilvm23m1i0n" xml:space="preserve">{{Person
+| Name=Peter Bergström
+| Guid=3040-54349
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>tk397miuzaixifudlewxilvm23m1i0n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Peter Strahle 129301</title>
+    <ns>0</ns>
+    <id>465146</id>
+    <revision>
+      <id>752533</id>
+      <timestamp>2026-03-04T23:14:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752533</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="203" sha1="998x7wzuv1bnb88jgtrabusgto5ixlx" xml:space="preserve">{{Person
+| Name=Peter Strǻhle
+| Guid=3040-129301
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>998x7wzuv1bnb88jgtrabusgto5ixlx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Phil Spencer 19275</title>
+    <ns>0</ns>
+    <id>465050</id>
+    <revision>
+      <id>1008402</id>
+      <parentid>752367</parentid>
+      <timestamp>2026-07-19T18:46:32Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1008402</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3704" sha1="8btcj3mpth50guxlm7wc3c51wbjrjjx" xml:space="preserve">{{Person
+| Name=Phil Spencer
+| Guid=3040-19275
+| Deck=Phil Spencer is the Head of Xbox at Microsoft Corp.
+| Gender=Male
+| Birthday=1968-01-12
+| LastName=Spencer
+| Twitter=XboxP3
+| Characters=
+| Concepts=
+| Franchises=Franchises/Age_of_Empires,Franchises/Backyard_Wrestling,Franchises/Championship_Manager,Franchises/Commandos,Franchises/Daikatana,Franchises/Deus_Ex,Franchises/Fear_Effect,Franchises/Gears_of_War,Franchises/Hitman,Franchises/Legacy_of_Kain,Franchises/Legaia,Franchises/Mass_Effect,Franchises/Mickey_Mouse,Franchises/Pandemonium,Franchises/Resident_Evil,Franchises/Rise_of_Nations,Franchises/Thief,Franchises/TimeSplitters,Franchises/Tomb_Raider,Franchises/Zoo_Tycoon
+| Games=Games/Age_of_Empires_Online,Games/Alan_Wake,Games/Backyard_Wrestling_Dont_Try_This_at_Home,Games/Blue_Dragon,Games/Braveheart,Games/Championship_Manager_4,Games/Championship_Manager_Quiz,Games/Championship_Manager_Season_00_01,Games/Championship_Manager_Season_01_02,Games/Championship_Manager_Season_02_03,Games/Championship_Manager_Season_03_04,Games/Chicken_Run,Games/Commandos_2_Men_of_Courage,Games/Commandos_3_Destination_Berlin,Games/D4_Dark_Dreams_Dont_Die,Games/Deus_Ex,Games/Deus_Ex_Invisible_War,Games/Disneys_102_Dalmatians_Puppies_to_the_Rescue,Games/EOE_Eve_of_Extinction,Games/Fate_of_the_Dragon,Games/Fear_Effect_2_Retro_Helix,Games/Gangsters_2,Games/Gears_of_War_3,Games/Grabbed_by_the_Ghoulies,Games/Hitman_2_Silent_Assassin,Games/Hitman_Codename_47,Games/Hitman_Contracts,Games/Jade_Empire,Games/Kameo_Elements_of_Power,Games/Kinect_Nat_Geo_TV,Games/Kinect_Sports,Games/Kinect_Star_Wars,Games/Legacy_of_Kain_Blood_Omen_2,Games/Legacy_of_Kain_Defiance,Games/Legacy_of_Kain_Soul_Reaver_2,Games/Legaia_2_Duel_Saga,Games/Mad_Dash_Racing,Games/Mad_Maestro,Games/Mass_Effect,Games/Mister_Mosquito,Games/Nike_Kinect_Training,Games/Ori_and_the_Blind_Forest,Games/Pandemonium,Games/Popstar_Maker,Games/Praetorians,Games/Project_I_G_I_Im_Going_In,Games/Republic_The_Revolution,Games/Resident_Evil_Survivor,Games/Revenant,Games/Rise_of_Nations,Games/Salt_Lake_2002,Games/Shellshock_Nam_67,Games/Startopia,Games/Sudeki,Games/Sunset_Overdrive,Games/Swingerz_Golf,Games/Sword_of_the_Berserk_Guts_Rage,Games/Sydney_2000,Games/Thief_Deadly_Shadows,Games/Timeline,Games/TimeSplitters,Games/TimeSplitters_2,Games/Tomb_Raider,Games/Tunic,Games/Ty_the_Tasmanian_Tiger_2013,Games/Urban_Chaos,Games/Vanguard_Saga_of_Heroes,Games/Virtual_Resort_Spring_Break,Games/Walt_Disney_World_Quest_Magical_Racing_Tour,Games/Way_of_the_Samurai,Games/Whiplash,Games/World_War_II_Panzer_Claws
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/2630655-phil-spencer-microsoft_reuters_1200.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2630655-phil-spencer-microsoft_reuters_1200.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_tiny,square_medium,square_small,scale_tiny,scale_medium,scale_small,ignore_jpg_scale_medium,square_mini,square_avatar,screen_medium,scale_large,scale_avatar,scale_super,ignore_jpg_scale_small,screen_kubrick,screen_tiny","caption":null},"background":[]}' /&gt;
+Phil Spencer is Head of Xbox Division at Microsoft. He leads all teams within Xbox, Xbox Live, and creative teams including Xbox Music, Xbox Video and Microsoft Studios.
+
+Spencer became general manager of Microsoft Game Studios in 2008. He helped with the creation of many of Microsoft's first party games and he succeeds Don Mattrick as leader for the Xbox Division.
+
+Spencer was promoted to Microsoft's Senior Leadership Team and was given the title of Executive Vice President of Gaming in September of 2017. He now reports directly to the CEO of Microsoft Satya Nadella.</text>
+      <sha1>8btcj3mpth50guxlm7wc3c51wbjrjjx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Pierce Young</title>
+    <ns>0</ns>
+    <id>456473</id>
+    <revision>
+      <id>457059</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457059</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="212" sha1="isk8wak65ol2uwsnwyu1k9kg6diinpi" xml:space="preserve">{{Person
+| Name=Pierce Young
+| Guid=3040-193334
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Kuros
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>isk8wak65ol2uwsnwyu1k9kg6diinpi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Pierre Eric Loriaux 40870</title>
+    <ns>0</ns>
+    <id>465078</id>
+    <revision>
+      <id>1008403</id>
+      <parentid>752407</parentid>
+      <timestamp>2026-07-19T18:46:39Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1008403</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="917" sha1="k9o6b8u3kee4r1qd3zyzlozfbuz6tm2" xml:space="preserve">{{Person
+| Name=Pierre-Eric Loriaux
+| Guid=3040-40870
+| Gender=Male
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Atlantis_The_Lost_Tales,Games/Beach_Volley,Games/Beyond_Atlantis_II,Games/Cabal,Games/China_The_Forbidden_City,Games/Dreams_1998,Games/Ivanhoe,Games/Liquid_Kids,Games/MegaRace_MR3,Games/Pang,Games/Plotting,Games/Super_Dany,Games/The_Guardian_of_Darkness,Games/The_Raven_Project,Games/Timecop,Games/Toki_Going_Ape_Spit,Games/Versailles_1685
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3364028-0740573942-14606.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3364028-0740573942-14606.jpg","path":"7\/73970\/","mime":"image\/jpeg","sizes":"square_medium,scale_super,square_mini,square_small,scale_small,scale_medium,screen_kubrick,scale_avatar,square_avatar,screen_medium,scale_large,square_tiny","caption":null},"background":[]}' /&gt;</text>
+      <sha1>k9o6b8u3kee4r1qd3zyzlozfbuz6tm2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Pope Francis</title>
+    <ns>0</ns>
+    <id>456474</id>
+    <revision>
+      <id>738292</id>
+      <parentid>457060</parentid>
+      <timestamp>2026-02-15T00:30:57Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>738292</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="537" sha1="d0vsvmueorl3eh5ewu49exy9200cmdb" xml:space="preserve">{{Person
+| Name=Pope Francis
+| Guid=3040-193335
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/15/158386/3820824-francis.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3820824-francis.png","path":"15\/158386\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_avatar,screen_medium,screen_kubrick,square_mini,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>d0vsvmueorl3eh5ewu49exy9200cmdb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Pramod Kumar</title>
+    <ns>0</ns>
+    <id>456532</id>
+    <revision>
+      <id>457118</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457118</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="225" sha1="0ot67vb6wsew3jik2qt7jwg1favjhwg" xml:space="preserve">{{Person
+| Name=Pramod Kumar
+| Guid=3040-193393
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Tradewinds_Legends
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>0ot67vb6wsew3jik2qt7jwg1favjhwg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Pranshu Mishra</title>
+    <ns>0</ns>
+    <id>456273</id>
+    <revision>
+      <id>456859</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456859</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="218" sha1="0x2cls1xzpm0u36fb4sc0bbmmexj2e8" xml:space="preserve">{{Person
+| Name=Pranshu Mishra
+| Guid=3040-193133
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Sand_Land
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>0x2cls1xzpm0u36fb4sc0bbmmexj2e8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Przemyslaw Danowski</title>
+    <ns>0</ns>
+    <id>456560</id>
+    <revision>
+      <id>457146</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457146</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="233" sha1="oastcb519rgb68xfclnb6y35p6zv8z3" xml:space="preserve">{{Person
+| Name=Przemyslaw Danowski
+| Guid=3040-193421
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Heartwild_Solitaire
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>oastcb519rgb68xfclnb6y35p6zv8z3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Przemyslaw Glapinski</title>
+    <ns>0</ns>
+    <id>456334</id>
+    <revision>
+      <id>456920</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456920</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="232" sha1="ki5q9zqxcet4kpeqyd3i72wx7adr3ue" xml:space="preserve">{{Person
+| Name=Przemysław Glapiński
+| Guid=3040-193194
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/The_Thaumaturge
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ki5q9zqxcet4kpeqyd3i72wx7adr3ue</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/R74n</title>
+    <ns>0</ns>
+    <id>456205</id>
+    <revision>
+      <id>456790</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456790</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="209" sha1="71un205kaife6p5nwwcng58ktqx4jxt" xml:space="preserve">{{Person
+| Name=R74n
+| Guid=3040-193064
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Sandboxels
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>71un205kaife6p5nwwcng58ktqx4jxt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/R Jackson 67735</title>
+    <ns>0</ns>
+    <id>465103</id>
+    <revision>
+      <id>752441</id>
+      <timestamp>2026-03-04T23:13:25Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752441</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="197" sha1="ltqabnrlziojyn82yb1dvqzy2qm5tc1" xml:space="preserve">{{Person
+| Name=R Jackson
+| Guid=3040-67735
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ltqabnrlziojyn82yb1dvqzy2qm5tc1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Rahul Kohli</title>
+    <ns>0</ns>
+    <id>456239</id>
+    <revision>
+      <id>456825</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456825</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="401" sha1="slebgvjvfstow7ok8wwhtpl3tcykbiw" xml:space="preserve">{{Person
+| Name=Rahul Kohli
+| Guid=3040-193099
+| Birthday=1985-11-13
+| LastName=Kohli
+| Hometown=London
+| Characters=Characters/Scarecrow
+| Concepts=
+| Franchises=
+| Games=Games/Fortnite,Games/Gears_5,Games/Ghostbusters_Spirits_Unleashed,Games/Rage_2,Games/Saros
+| Locations=Locations/England,Locations/London
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>slebgvjvfstow7ok8wwhtpl3tcykbiw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Rajesh G S 139238</title>
+    <ns>0</ns>
+    <id>465153</id>
+    <revision>
+      <id>752540</id>
+      <timestamp>2026-03-04T23:14:53Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752540</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="453" sha1="gx9fm1174gk2hqgfikitd6vxy6t4346" xml:space="preserve">{{Person
+| Name=Rajesh G.S.
+| Guid=3040-139238
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Beastly_Frantic_Foto,Games/Bigfoot_Collision_Course,Games/Groovin_Blocks,Games/Heathcliff_Frantic_Foto,Games/Hot_Wheels_All_Out,Games/Hot_Wheels_Ultimate_Racing,Games/M_And_Ms_Beach_Party,Games/Margots_Word_Brain,Games/Showtime_Championship_Boxing
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>gx9fm1174gk2hqgfikitd6vxy6t4346</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Raphael Colantonio 26998</title>
+    <ns>0</ns>
+    <id>465056</id>
+    <revision>
+      <id>752376</id>
+      <timestamp>2026-03-04T23:12:23Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752376</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="238" sha1="a6zhjldvljam8yfy3n09pfpetqzoesf" xml:space="preserve">{{Person
+| Name=Raphaël Colantonio
+| Guid=3040-26998
+| Gender=Male
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Arx_Fatalis
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>a6zhjldvljam8yfy3n09pfpetqzoesf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Raphael M Antonio</title>
+    <ns>0</ns>
+    <id>456456</id>
+    <revision>
+      <id>457042</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457042</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="227" sha1="auphkgr7zxitci2kaqu5pi03ab8f3ua" xml:space="preserve">{{Person
+| Name=Raphael M. Antonio
+| Guid=3040-193316
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Eye_For_Design
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>auphkgr7zxitci2kaqu5pi03ab8f3ua</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Rasheed Abueideh</title>
+    <ns>0</ns>
+    <id>456227</id>
+    <revision>
+      <id>456813</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456813</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="libfuj0z1yrbcqc9qiituubju7cngev" xml:space="preserve">{{Person
+| Name=Rasheed Abueideh
+| Guid=3040-193087
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Dreams_on_a_Pillow
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>libfuj0z1yrbcqc9qiituubju7cngev</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Reiji Kawashima</title>
+    <ns>0</ns>
+    <id>456236</id>
+    <revision>
+      <id>456822</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456822</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="273" sha1="lrzxnmnscpt9e43r7b7tr7kb02fqq95" xml:space="preserve">{{Person
+| Name=Reiji Kawashima
+| Guid=3040-193096
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Dynasty_Warriors_Origins,Games/Groove_Coaster_Future_Performers
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>lrzxnmnscpt9e43r7b7tr7kb02fqq95</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Rich Covi</title>
+    <ns>0</ns>
+    <id>456368</id>
+    <revision>
+      <id>456954</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456954</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="216" sha1="tkrfbkhmzyv9dlyv4idmelhw93yujgf" xml:space="preserve">{{Person
+| Name=Rich Covi
+| Guid=3040-193228
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Super_Granny
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>tkrfbkhmzyv9dlyv4idmelhw93yujgf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Rich Gold</title>
+    <ns>0</ns>
+    <id>456215</id>
+    <revision>
+      <id>456800</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456800</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="1om9znv0j3ch5spplxy4fde0mr63olq" xml:space="preserve">{{Person
+| Name=Rich Gold
+| Guid=3040-193074
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Little_Computer_People
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>1om9znv0j3ch5spplxy4fde0mr63olq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Rick Zieff</title>
+    <ns>0</ns>
+    <id>456272</id>
+    <revision>
+      <id>456858</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456858</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="214" sha1="q6bz5x10roxwpzymom5kbphpop0rfee" xml:space="preserve">{{Person
+| Name=Rick Zieff
+| Guid=3040-193132
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Sand_Land
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>q6bz5x10roxwpzymom5kbphpop0rfee</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Ricky Berwick</title>
+    <ns>0</ns>
+    <id>456283</id>
+    <revision>
+      <id>456869</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456869</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="515" sha1="94wjrh5j7hltyprl173hp8oevkjp74u" xml:space="preserve">{{Person
+| Name=Ricky Berwick
+| Guid=3040-193143
+| Deck=A Canadian entertainer and comedian who utilizes his disability as the crux of his highly popular content.
+| Gender=Male
+| Birthday=1992-04-23
+| LastName=Berwick
+| Twitter=rickyberwick
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Mewgenics
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+A Canadian entertainer and comedian who utilizes his disability as the crux of his highly popular content.</text>
+      <sha1>94wjrh5j7hltyprl173hp8oevkjp74u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Rie Patterson</title>
+    <ns>0</ns>
+    <id>456556</id>
+    <revision>
+      <id>457142</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457142</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="219" sha1="k5hhhkdrdq7vxtqyql4yd81gaw56s8o" xml:space="preserve">{{Person
+| Name=Rie Patterson
+| Guid=3040-193417
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Word_Monaco
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>k5hhhkdrdq7vxtqyql4yd81gaw56s8o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Rihanna 191952</title>
+    <ns>0</ns>
+    <id>465159</id>
+    <revision>
+      <id>1008419</id>
+      <parentid>752553</parentid>
+      <timestamp>2026-07-19T18:47:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1008419</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="710" sha1="6erg5a45hejed7oiiph969idm974c7c" xml:space="preserve">{{Person
+| Name=Rihanna
+| Guid=3040-191952
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Dance_Dance_Revolution_X2,Games/Grand_Theft_Auto_V,Games/Just_Dance_2014,Games/Kinect_Sports,Games/NBA_2K13,Games/NBA_Live_09,Games/Samba_de_Amigo
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/original/8/82962/3401625-rihanna_fenty_2018.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3401625-rihanna_fenty_2018.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_super,square_medium,square_small,scale_small,square_tiny,scale_medium,scale_tiny,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>6erg5a45hejed7oiiph969idm974c7c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Rika</title>
+    <ns>0</ns>
+    <id>456527</id>
+    <revision>
+      <id>457113</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457113</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="249" sha1="100uobg2xlf603ra6niainpqsgfxy3e" xml:space="preserve">{{Person
+| Name=Rika
+| Guid=3040-193388
+| Characters=Characters/Birdo
+| Concepts=
+| Franchises=
+| Games=Games/BS_Super_Mario_USA_Power_Challenge
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>100uobg2xlf603ra6niainpqsgfxy3e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Risa Mei</title>
+    <ns>0</ns>
+    <id>456270</id>
+    <revision>
+      <id>738286</id>
+      <parentid>456856</parentid>
+      <timestamp>2026-02-15T00:30:51Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>738286</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1236" sha1="mbnijfo7mwd18zpmgy710kfl0gca7vv" xml:space="preserve">{{Person
+| Name=Risa Mei
+| Guid=3040-193130
+| Deck=American voice actress, singer, and motion capture artist.
+| Gender=Non-Binary
+| LastName=Mei
+| Characters=Characters/Kokomi_Sangonomiya
+| Concepts=Concepts/Voice_Acting
+| Franchises=
+| Games=Games/Arcade_Spirits_The_New_Challengers,Games/Arknights,Games/Azure_Striker_Gunvolt_3,Games/Card_en_Ciel,Games/Cassette_Beasts,Games/Fire_Emblem_Heroes,Games/FragPunk,Games/Genshin_Impact,Games/Goddess_of_Victory_Nikke,Games/Honkai_Star_Rail,Games/Honor_of_Kings,Games/Loop8_Summer_of_Gods,Games/Lunar_Remastered_Collection,Games/Phantom_Brave_The_Lost_Hero,Games/Pokemon_Masters,Games/Sand_Land,Games/Tower_of_Fantasy,Games/Zenless_Zone_Zero
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3726116-1894361507-2a9c0.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3726116-1894361507-2a9c0.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"square_small,scale_small,scale_medium,scale_super,square_medium,square_mini,scale_avatar,screen_medium,square_tiny,scale_large,square_avatar,screen_kubrick","caption":"With Animal Crossing-branded gear"},"background":[]}' /&gt;
+American voice actress, singer, and motion capture artist.</text>
+      <sha1>mbnijfo7mwd18zpmgy710kfl0gca7vv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Risha Tonkih</title>
+    <ns>0</ns>
+    <id>456465</id>
+    <revision>
+      <id>457051</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457051</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="9vk6kspzgqpek4qj9cxd5huyl0tvob0" xml:space="preserve">{{Person
+| Name=Risha Tonkih
+| Guid=3040-193326
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Westward_III_Gold_Rush
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9vk6kspzgqpek4qj9cxd5huyl0tvob0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Robert Tengelin</title>
+    <ns>0</ns>
+    <id>456502</id>
+    <revision>
+      <id>457088</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457088</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="269" sha1="rim39fda6bg7ferho7qer5il8opfso6" xml:space="preserve">{{Person
+| Name=Robert Tengelin
+| Guid=3040-193363
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Cake_Mania_Lights_Camera_Action,Games/Cake_Mania_To_the_Max
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>rim39fda6bg7ferho7qer5il8opfso6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Roby Robinson</title>
+    <ns>0</ns>
+    <id>456550</id>
+    <revision>
+      <id>457136</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457136</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="219" sha1="rtc4fuhlz7ad1if408pur4t8u6odsl6" xml:space="preserve">{{Person
+| Name=Roby Robinson
+| Guid=3040-193411
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Word_Monaco
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>rtc4fuhlz7ad1if408pur4t8u6odsl6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Rogerio Leitum</title>
+    <ns>0</ns>
+    <id>456457</id>
+    <revision>
+      <id>457043</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457043</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="224" sha1="l0iem57d9vmgnwslbhczbiy6hxaqhgt" xml:space="preserve">{{Person
+| Name=Rogério Leitum
+| Guid=3040-193317
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Eye_For_Design
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>l0iem57d9vmgnwslbhczbiy6hxaqhgt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Ronald B DeRuyter 41907</title>
+    <ns>0</ns>
+    <id>465080</id>
+    <revision>
+      <id>752409</id>
+      <timestamp>2026-03-04T23:12:56Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752409</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="205" sha1="qddana67p0a5inek8viqpblam4scrl9" xml:space="preserve">{{Person
+| Name=Ronald B DeRuyter
+| Guid=3040-41907
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>qddana67p0a5inek8viqpblam4scrl9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Rose Marie David 51509</title>
+    <ns>0</ns>
+    <id>465091</id>
+    <revision>
+      <id>752427</id>
+      <timestamp>2026-03-04T23:13:13Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752427</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="204" sha1="che9w0vpxj853ocldokkbowm4lsni35" xml:space="preserve">{{Person
+| Name=Rose Marie David
+| Guid=3040-51509
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>che9w0vpxj853ocldokkbowm4lsni35</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Ross Wegscheider</title>
+    <ns>0</ns>
+    <id>456314</id>
+    <revision>
+      <id>456900</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456900</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="dil2wusgqcvcgxkde4u850d4s4tt2c8" xml:space="preserve">{{Person
+| Name=Ross Wegscheider
+| Guid=3040-193174
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Suikoden_Tierkreis
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>dil2wusgqcvcgxkde4u850d4s4tt2c8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Rudolf Wolterbeek Muller 59213</title>
+    <ns>0</ns>
+    <id>465096</id>
+    <revision>
+      <id>752433</id>
+      <timestamp>2026-03-04T23:13:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752433</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="212" sha1="pirw4f650ta6dasn8ccc51xp18tzyf0" xml:space="preserve">{{Person
+| Name=Rudolf Wolterbeek-Muller
+| Guid=3040-59213
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>pirw4f650ta6dasn8ccc51xp18tzyf0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Ryan Hauer 108277</title>
+    <ns>0</ns>
+    <id>465129</id>
+    <revision>
+      <id>752509</id>
+      <timestamp>2026-03-04T23:14:22Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752509</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="218" sha1="t34jioqby52rf4x9gbs8cnj5h4earf5" xml:space="preserve">{{Person
+| Name=Ryan Hauer
+| Guid=3040-108277
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Lost_Planet_3
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>t34jioqby52rf4x9gbs8cnj5h4earf5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Ryan McKeown</title>
+    <ns>0</ns>
+    <id>456426</id>
+    <revision>
+      <id>457012</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457012</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="220" sha1="8vnq3lxzfj0a1eljz58e8dkahwwl2a1" xml:space="preserve">{{Person
+| Name=Ryan McKeown
+| Guid=3040-193286
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Burger_Island
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>8vnq3lxzfj0a1eljz58e8dkahwwl2a1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Ryui Takanahashi 133057</title>
+    <ns>0</ns>
+    <id>465148</id>
+    <revision>
+      <id>752535</id>
+      <timestamp>2026-03-04T23:14:46Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752535</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="230" sha1="kf2c3s72zv68j8seld5omtf4n4ad6uc" xml:space="preserve">{{Person
+| Name=Ryui Takanahashi
+| Guid=3040-133057
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/D_C_III_Da_Capo_III
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>kf2c3s72zv68j8seld5omtf4n4ad6uc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sachi Schmidt Hori</title>
+    <ns>0</ns>
+    <id>456259</id>
+    <revision>
+      <id>738280</id>
+      <parentid>456845</parentid>
+      <timestamp>2026-02-15T00:30:45Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>738280</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="600" sha1="nwr5ayjpqtv40i20qgtfh8d3k9mvo4r" xml:space="preserve">{{Person
+| Name=Sachi Schmidt-Hori
+| Guid=3040-193119
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Assassins_Creed_Shadows
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/3/34651/3715086-sachischmidt-hori.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3715086-sachischmidt-hori.jpg","path":"3\/34651\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,square_tiny,square_medium,scale_small,scale_super,square_mini,scale_tiny,screen_kubrick,scale_large,scale_avatar,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>nwr5ayjpqtv40i20qgtfh8d3k9mvo4r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sachiko Miyano</title>
+    <ns>0</ns>
+    <id>456269</id>
+    <revision>
+      <id>738285</id>
+      <parentid>456855</parentid>
+      <timestamp>2026-02-15T00:30:50Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>738285</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1631" sha1="6nbkmk14hqcoz3iuo73z6wfei5uuyt8" xml:space="preserve">{{Person
+| Name=Sachiko Miyano
+| Guid=3040-193129
+| Deck=Sachiko Miyano is a Japanese music composer.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Ace_Combat_Assault_Horizon_Legacy,Games/Astro_Bot,Games/Code_Vein,Games/Final_Fantasy_Brave_Exvius,Games/Final_Fantasy_Crystal_Chronicles_The_Crystal_Bearers,Games/Final_Fantasy_VII_Ever_Crisis,Games/Final_Fantasy_VII_Rebirth,Games/Final_Fantasy_VII_Remake,Games/Final_Fantasy_XIII_2,Games/Final_Fantasy_XIV_Dawntrail,Games/Final_Fantasy_XIV_Stormblood,Games/Final_Fantasy_XV,Games/Final_Fantasy_XV_Pocket_Edition,Games/Final_Fantasy_XVI,Games/God_Eater_2_Rage_Burst,Games/God_Eater_3,Games/Gran_Turismo_6,Games/Gran_Turismo_7,Games/Harvestella,Games/Kingdom_Hearts_III,Games/Live_A_Live,Games/Mario_Rabbids_Sparks_of_Hope,Games/Metroid_Other_M,Games/Secret_of_Mana_2018,Games/Stellar_Blade,Games/Sword_Art_Online_Fractured_Daydream,Games/Tekken_8,Games/The_Last_Guardian,Games/The_Playroom_VR,Games/The_Wizard_of_Oz_Beyond_The_Yellow_Brick_Road,Games/Trials_of_Mana_2020,Games/Valkyria_Revolution,Games/Visions_of_Mana,Games/World_of_Final_Fantasy,Games/Xenoblade_Chronicles_3
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3719243-5645-1463074275.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3719243-5645-1463074275.png","path":"8\/82962\/","mime":"image\/png","sizes":"square_medium,square_small,scale_small,square_mini,scale_super,scale_medium,scale_avatar,square_tiny,screen_medium,screen_kubrick,scale_large,square_avatar","caption":null},"background":[]}' /&gt;
+Sachiko Miyano is a Japanese music composer.</text>
+      <sha1>6nbkmk14hqcoz3iuo73z6wfei5uuyt8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Saki Yasuda</title>
+    <ns>0</ns>
+    <id>456219</id>
+    <revision>
+      <id>456804</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456804</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="246" sha1="ti2j5gj5x2tadso29n7tavm6io7gki0" xml:space="preserve">{{Person
+| Name=Saki Yasuda
+| Guid=3040-193078
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Ys_vs_Trails_in_the_Sky_Alternative_Saga
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ti2j5gj5x2tadso29n7tavm6io7gki0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Sam Haft</title>
+    <ns>0</ns>
+    <id>456357</id>
+    <revision>
+      <id>456943</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456943</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="475" sha1="7upqmx93uge98gry38wgmjee9g455re" xml:space="preserve">{{Person
+| Name=Sam Haft
+| Guid=3040-193217
+| Gender=Male
+| LastName=Haft
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Contra_Rogue_Corps,Games/DreamWorks_Trolls_Remix_Rescue,Games/Fretless_The_Wrath_of_Riffson,Games/In_Sound_Mind,Games/Mewgenics,Games/Pathfinder_Kingmaker,Games/Smite,Games/Super_Smash_Bros_Ultimate,Games/Yu_Gi_Oh_Duel_Links
+| Locations=
+| Objects=
+| People=People/Yoav_Landau
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>7upqmx93uge98gry38wgmjee9g455re</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Samantha Ong</title>
+    <ns>0</ns>
+    <id>456506</id>
+    <revision>
+      <id>457092</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457092</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="i2t79ut98fxoufude4h0pt8lgcmnutk" xml:space="preserve">{{Person
+| Name=Samantha Ong
+| Guid=3040-193367
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Westward_IV_All_Aboard
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>i2t79ut98fxoufude4h0pt8lgcmnutk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Samantha Ong 193378</title>
+    <ns>0</ns>
+    <id>456517</id>
+    <revision>
+      <id>457103</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457103</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="224" sha1="1x9fzom9cgj06f3gb0ve528uopsmg3c" xml:space="preserve">{{Person
+| Name=Samantha Ong
+| Guid=3040-193378
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Westward_Kingdoms
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>1x9fzom9cgj06f3gb0ve528uopsmg3c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Saori Sugimoto</title>
+    <ns>0</ns>
+    <id>456355</id>
+    <revision>
+      <id>456941</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456941</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="222" sha1="iu0c915qq10ypy282731ejrrvaua1k9" xml:space="preserve">{{Person
+| Name=Saori Sugimoto
+| Guid=3040-193215
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Kunio_no_Oden
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>iu0c915qq10ypy282731ejrrvaua1k9</sha1>
+    </revision>
+  </page>
+</mediawiki>

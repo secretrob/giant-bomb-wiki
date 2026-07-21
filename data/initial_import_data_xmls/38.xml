@@ -1,0 +1,3151 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Games/Chaos Zero Nightmare/Credits</title>
+    <ns>0</ns>
+    <id>255629</id>
+    <revision>
+      <id>256084</id>
+      <timestamp>2025-12-08T07:32:23Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>256084</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="325" sha1="7xolk4b56prm852xmy9vb4qism1c7ua" xml:space="preserve">{{Credits
+|ParentPage=Games/Chaos_Zero_Nightmare
+}}
+{{CreditSubobject
+|Game=Games/Chaos_Zero_Nightmare
+|Release=
+|Dlc=
+|Person=People/Calliope_Mori
+|Company=
+|Department=Audio
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Chaos_Zero_Nightmare
+|Release=
+|Dlc=
+|Person=People/Nerissa_Ravencroft
+|Company=
+|Department=Audio
+|Role=
+}}
+</text>
+      <sha1>7xolk4b56prm852xmy9vb4qism1c7ua</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Cherokee Trails/Credits</title>
+    <ns>0</ns>
+    <id>250204</id>
+    <revision>
+      <id>250649</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250649</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="211" sha1="gw7cqpwmvuan8hugz5zzdxlvnq2wvq3" xml:space="preserve">{{Credits
+|ParentPage=Games/Cherokee_Trails
+}}
+{{CreditSubobject
+|Game=Games/Cherokee_Trails
+|Release=
+|Dlc=
+|Person=People/John_Bell_118447
+|Company=
+|Department=Voice Actor
+|Role=PC Windows the actors were
+}}
+</text>
+      <sha1>gw7cqpwmvuan8hugz5zzdxlvnq2wvq3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Chicken Royale: Challenge Run!</title>
+    <ns>0</ns>
+    <id>624477</id>
+    <revision>
+      <id>973739</id>
+      <parentid>973716</parentid>
+      <timestamp>2026-04-30T11:57:52Z</timestamp>
+      <contributor>
+        <username>TheMercuryMan</username>
+        <id>3443</id>
+      </contributor>
+      <origin>973739</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="937" sha1="2o9dli2uemdt3keolgq1825h9dypg3g" xml:space="preserve">{{Game
+|Guid=4dd5a1f9-2088-47db-bee6-8faf430c3d4f
+|Name=Chicken Royale: Challenge Run!
+|Aliases=Chicken Royale 3D: Challenge, Chicken Challenge, Chicken Simulator
+|ReleaseDateType=Full
+|ReleaseDate=2020-06-05
+|Concepts=Concepts/Battle Royale
+|Developers=Companies/Rush Production
+|Genres=Genres/Action
+|Platforms=Platforms/Android, Platforms/iPhone, Platforms/iPad
+}}
+Chicken Royale: Challenge Run! is a mobile multiplayer action game developed by Fransuaza Polishchuk and Isaac Danfi, released in 2020, combining classic endless hopper mechanics with a 100-player battle royale format. Players control an animal avatar starting at the edge of an endless, heavily congested highway. The main objective is to outlast up to 99 other opponents and be the last player standing.
+
+By completing matches, players earn in-game currency which can be used to unlock over 50 different characters, ranging from various birds to robots and dinosaurs.</text>
+      <sha1>2o9dli2uemdt3keolgq1825h9dypg3g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/ChikuTaku/Credits</title>
+    <ns>0</ns>
+    <id>251761</id>
+    <revision>
+      <id>252209</id>
+      <timestamp>2025-12-08T07:32:14Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>252209</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="169" sha1="16qfhi4aufswc7l569y13b07xlx55oj" xml:space="preserve">{{Credits
+|ParentPage=Games/ChikuTaku
+}}
+{{CreditSubobject
+|Game=Games/ChikuTaku
+|Release=
+|Dlc=
+|Person=People/Amelia_Watson
+|Company=
+|Department=Production
+|Role=
+}}
+</text>
+      <sha1>16qfhi4aufswc7l569y13b07xlx55oj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Chivalware</title>
+    <ns>0</ns>
+    <id>624549</id>
+    <revision>
+      <id>974925</id>
+      <parentid>973982</parentid>
+      <timestamp>2026-06-09T22:39:17Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974925</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="592" sha1="ll4z2k717gt70c7a9kye24w87jkgwqa" xml:space="preserve">{{Game
+|Guid=b8695138-8f9e-4c3f-820f-5ce8eff1601b
+|Name=Chivalware
+|Image=https://giantbomb.com/api/media/file/media--file--chivalware-1780531572557-06-09-2026.webp
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--chivalware_keyart_2560x1440-06-09-2026.png
+|Deck=A fast-paced tile-matching roguelite.
+|ReleaseDateType=Quarter
+|QuarterPart=Q4
+|QuarterYearPart=2026
+|Concepts=Concepts/Digital Distribution, Concepts/Steam, Concepts/2D, Concepts/Roguelike
+|Developers=Companies/Regal Pigeon
+|Genres=Genres/Action
+|Platforms=Platforms/PC
+|Publishers=Companies/The Arcade Crew
+}}</text>
+      <sha1>ll4z2k717gt70c7a9kye24w87jkgwqa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Chronicles of the Wolf/Credits</title>
+    <ns>0</ns>
+    <id>254489</id>
+    <revision>
+      <id>254941</id>
+      <timestamp>2025-12-08T07:32:20Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254941</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="480" sha1="s2qx45m5ne6dqa4ocf085dvcwnsehsq" xml:space="preserve">{{Credits
+|ParentPage=Games/Chronicles_of_the_Wolf
+}}
+{{CreditSubobject
+|Game=Games/Chronicles_of_the_Wolf
+|Release=
+|Dlc=
+|Person=People/Robert_Belgrade
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Chronicles_of_the_Wolf
+|Release=
+|Dlc=
+|Person=People/Mig_Perez
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Chronicles_of_the_Wolf
+|Release=
+|Dlc=
+|Person=People/Oscar_Araujo
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>s2qx45m5ne6dqa4ocf085dvcwnsehsq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Chronoscript: The Endless End</title>
+    <ns>0</ns>
+    <id>624935</id>
+    <revision>
+      <id>974672</id>
+      <timestamp>2026-06-08T00:55:47Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=de322f4e-481d-4ea8-a56a-c18dd5fa2f71 |Name=Chronoscript: The Endless End |ReleaseDateType=None }}"</comment>
+      <origin>974672</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="110" sha1="aqqgr4i0f2709vh9mvz3w06sczuwkt9" xml:space="preserve">{{Game
+|Guid=de322f4e-481d-4ea8-a56a-c18dd5fa2f71
+|Name=Chronoscript: The Endless End
+|ReleaseDateType=None
+}}</text>
+      <sha1>aqqgr4i0f2709vh9mvz3w06sczuwkt9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Clair Obscur Expedition 33/Credits</title>
+    <ns>0</ns>
+    <id>252664</id>
+    <revision>
+      <id>253114</id>
+      <timestamp>2025-12-08T07:32:16Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>253114</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="201" sha1="sqy55c8uyosaju5k9s2yjy8pgkrjbim" xml:space="preserve">{{Credits
+|ParentPage=Games/Clair_Obscur_Expedition_33
+}}
+{{CreditSubobject
+|Game=Games/Clair_Obscur_Expedition_33
+|Release=
+|Dlc=
+|Person=People/Ben_Starr
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>sqy55c8uyosaju5k9s2yjy8pgkrjbim</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Classified France 44/Credits</title>
+    <ns>0</ns>
+    <id>252156</id>
+    <revision>
+      <id>252605</id>
+      <timestamp>2025-12-08T07:32:15Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>252605</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="193" sha1="dia9odrjltt25mrni4gt52bnn5z3i2c" xml:space="preserve">{{Credits
+|ParentPage=Games/Classified_France_44
+}}
+{{CreditSubobject
+|Game=Games/Classified_France_44
+|Release=
+|Dlc=
+|Person=People/Alex_Jordan
+|Company=
+|Department=Voice Actor
+|Role=Tom
+}}
+</text>
+      <sha1>dia9odrjltt25mrni4gt52bnn5z3i2c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Clifford the Big Red Dog Learning Activities/Credits</title>
+    <ns>0</ns>
+    <id>249919</id>
+    <revision>
+      <id>250354</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250354</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="284" sha1="j8trcrr9vllb7l3wsrejcmovzk9rh8n" xml:space="preserve">{{Credits
+|ParentPage=Games/Clifford_the_Big_Red_Dog_Learning_Activities
+}}
+{{CreditSubobject
+|Game=Games/Clifford_the_Big_Red_Dog_Learning_Activities
+|Release=
+|Dlc=
+|Person=People/Bridget_Erdmann
+|Company=
+|Department=Production
+|Role=PC Windows executive producer and animation
+}}
+</text>
+      <sha1>j8trcrr9vllb7l3wsrejcmovzk9rh8n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Clive Barker's Hellraiser: Revival</title>
+    <ns>0</ns>
+    <id>624938</id>
+    <revision>
+      <id>974675</id>
+      <timestamp>2026-06-08T00:57:51Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=6af7e45b-98af-4d67-ad41-f7fe3af919e9 |Name=Clive Barker's Hellraiser: Revival |ReleaseDateType=None }}"</comment>
+      <origin>974675</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="115" sha1="j86wsz0ldichtcl1oqyk7xfs99nxh6o" xml:space="preserve">{{Game
+|Guid=6af7e45b-98af-4d67-ad41-f7fe3af919e9
+|Name=Clive Barker's Hellraiser: Revival
+|ReleaseDateType=None
+}}</text>
+      <sha1>j86wsz0ldichtcl1oqyk7xfs99nxh6o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Clonus/Credits</title>
+    <ns>0</ns>
+    <id>250260</id>
+    <revision>
+      <id>250705</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250705</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="174" sha1="l38aqn96z6zr6ovvu5k5hgyyn0ksre0" xml:space="preserve">{{Credits
+|ParentPage=Games/Clonus
+}}
+{{CreditSubobject
+|Game=Games/Clonus
+|Release=
+|Dlc=
+|Person=People/John_Bell
+|Company=
+|Department=Design
+|Role=Atari 8-bit game by
+}}
+</text>
+      <sha1>l38aqn96z6zr6ovvu5k5hgyyn0ksre0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Clonus II/Credits</title>
+    <ns>0</ns>
+    <id>250245</id>
+    <revision>
+      <id>250690</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250690</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="194" sha1="tg7rmf025tpmg7gy6ghnkuqy3alsyje" xml:space="preserve">{{Credits
+|ParentPage=Games/Clonus_II
+}}
+{{CreditSubobject
+|Game=Games/Clonus_II
+|Release=
+|Dlc=
+|Person=People/John_Bell
+|Company=
+|Department=Design
+|Role=Atari 8-bit game idea and screens
+}}
+</text>
+      <sha1>tg7rmf025tpmg7gy6ghnkuqy3alsyje</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Cloudlands VR Minigolf 53858</title>
+    <ns>0</ns>
+    <id>464995</id>
+    <revision>
+      <id>797249</id>
+      <parentid>797247</parentid>
+      <timestamp>2026-03-21T03:27:42Z</timestamp>
+      <contributor>
+        <username>Frobie</username>
+        <id>300</id>
+      </contributor>
+      <comment>add image</comment>
+      <origin>797249</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="494" sha1="btqfnnsftxq13bucknt0rk6moh4oav3" xml:space="preserve">{{Game
+|Guid=3030-53858
+|Name=Cloudlands : VR Minigolf
+|Image=https://giantbomb.com/wiki-uploads/9/97/Cloudlands-vrgolf.jpg
+|Deck=Cloudlands : VR Minigolf is a virtual reality minigolf game for the HTC Vive.
+|ReleaseDateType=Full
+|ReleaseDate=2016-04-04
+|Concepts=Concepts/Golf
+|Developers=Companies/Futuretown
+|Objects=Objects/Golf Ball, Objects/Golf Club
+|Platforms=Platforms/PC
+|Publishers=Companies/Futuretown
+}}
+Cloudlands : VR Minigolf is a virtual reality minigolf game for the HTC Vive.</text>
+      <sha1>btqfnnsftxq13bucknt0rk6moh4oav3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Cloudlings</title>
+    <ns>0</ns>
+    <id>624967</id>
+    <revision>
+      <id>974705</id>
+      <timestamp>2026-06-08T01:22:02Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=2cb20048-0c70-4804-9a1a-9510477d239e |Name=Cloudlings |ReleaseDateType=None }}"</comment>
+      <origin>974705</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="91" sha1="kk6pj9r7oxoff4byojvgia48fv4voaj" xml:space="preserve">{{Game
+|Guid=2cb20048-0c70-4804-9a1a-9510477d239e
+|Name=Cloudlings
+|ReleaseDateType=None
+}}</text>
+      <sha1>kk6pj9r7oxoff4byojvgia48fv4voaj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Cloudpunk City of Ghosts/Credits</title>
+    <ns>0</ns>
+    <id>249665</id>
+    <revision>
+      <id>250099</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250099</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="233" sha1="jgu449zq4wf5x6l77onvor4av8f53fl" xml:space="preserve">{{Credits
+|ParentPage=Games/Cloudpunk_City_of_Ghosts
+}}
+{{CreditSubobject
+|Game=Games/Cloudpunk_City_of_Ghosts
+|Release=
+|Dlc=
+|Person=People/Mike_Clarke_192326
+|Company=
+|Department=Voice Actor
+|Role=PC Windows additional voices
+}}
+</text>
+      <sha1>jgu449zq4wf5x6l77onvor4av8f53fl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Clown Town</title>
+    <ns>0</ns>
+    <id>624798</id>
+    <revision>
+      <id>974837</id>
+      <parentid>974834</parentid>
+      <timestamp>2026-06-09T03:04:03Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974837</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="616" sha1="fu08odqnuc9pb9aqayu96uprsiwuans" xml:space="preserve">{{Game
+|Guid=aa39d3fc-019a-43e3-8204-26f83a5ec534
+|Name=Clown Town
+|Image=https://giantbomb.com/api/media/file/media--file--abssdczzzz-06-09-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--wqrweraaacc-06-09-2026.jpg
+|Deck=A circus job simulator. What could be scary about that?
+|ReleaseDateType=Full
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/First Person Perspective, Concepts/Steam, Concepts/Clowns
+|Developers=Companies/MainManMike
+|Genres=Genres/Action, Genres/Simulation
+|Platforms=Platforms/PC
+|Publishers=Companies/Ice Dagger Studios
+|Themes=Themes/Horror
+}}</text>
+      <sha1>fu08odqnuc9pb9aqayu96uprsiwuans</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Clutch 2027</title>
+    <ns>0</ns>
+    <id>624642</id>
+    <revision>
+      <id>974261</id>
+      <parentid>974177</parentid>
+      <timestamp>2026-06-03T16:24:14Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974261</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="509" sha1="itcthfller6vgrxgwwv6ywfdscz6gi1" xml:space="preserve">{{Game
+|Guid=4e72d702-0821-4290-ba24-32dd4a5a57b5
+|Name=Clutch
+|Image=Clutch-object-1780396998991.webp
+|Deck=An open-world driving game from former Forza Horizon developers.
+|ReleaseDateType=Quarter
+|QuarterPart=Q2
+|QuarterYearPart=2027
+|Concepts=Concepts/Digital Distribution, Concepts/Open World
+|Developers=Companies/Maverick Games
+|Genres=Genres/Driving Racing
+|Platforms=Platforms/PlayStation 5, Platforms/Xbox Series X S, Platforms/PC
+|Publishers=Companies/Maverick Games
+|Games=Games/Forza Horizon 6
+}}</text>
+      <sha1>itcthfller6vgrxgwwv6ywfdscz6gi1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Collapse 22859/Credits</title>
+    <ns>0</ns>
+    <id>464898</id>
+    <revision>
+      <id>747822</id>
+      <timestamp>2026-03-04T22:10:38Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>747822</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="15878" sha1="okf5ee0pxj7lmios0m2egmqswhnf1s7" xml:space="preserve">{{Credits
+|ParentPage=Games/Collapse_22859
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Paul_Johnson
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Aleksander_Paneychuk
+|Company=
+|Department=Unclassified
+|Role=Fight Motion Capturing
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Dmitriy_Rudiy
+|Company=
+|Department=Design
+|Role=Fight Direction / Fight Motion Capturing
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Igor_Belousov
+|Company=
+|Department=Audio
+|Role=Music
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Dmitriy_Chughay
+|Company=
+|Department=Quality Assurance
+|Role=Testing | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Andrey_Nazarenko
+|Company=
+|Department=Unclassified
+|Role=Sound Director | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Julia_Lavinukova
+|Company=
+|Department=Visual Arts
+|Role=Texture Artist | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Daria_Marchenko
+|Company=
+|Department=Visual Arts
+|Role=Character Artist | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Denis_Didenko
+|Company=
+|Department=Visual Arts
+|Role=Character Artist | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Yuriy_Andropov
+|Company=
+|Department=Design
+|Role=Locataion Design | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Ivan_Gorobets
+|Company=
+|Department=Design
+|Role=Locataion Design | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Farhod_Naimov
+|Company=
+|Department=Design
+|Role=Locataion Design | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Andrei_Zherebko
+|Company=
+|Department=Design
+|Role=Locataion Design | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Yuriy_Harazha
+|Company=
+|Department=Design
+|Role=Animation | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Max_Zhuravlev
+|Company=
+|Department=Design
+|Role=Animation / Cutscene Direction | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Michael_Nastenko
+|Company=
+|Department=Visual Arts
+|Role=Special Effects Artist | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Sergey_Solokhin
+|Company=
+|Department=Unclassified
+|Role=Character Programmer / Technical Animator | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Yuriy_Skolar
+|Company=
+|Department=Programming
+|Role=Gameplay Programming | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Mikhail_Mishin
+|Company=
+|Department=Unclassified
+|Role=Gameplay Programming / Testing | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Oleksiy_Datiy
+|Company=
+|Department=Programming
+|Role=Programming | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Sergey_Svichka
+|Company=
+|Department=Design
+|Role=Story | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Roman_Guro
+|Company=
+|Department=Design
+|Role=Art Director / Game Director / Cutscene Direction | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Dmitriy_Chugai
+|Company=
+|Department=Design
+|Role=Lead Level Designer | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Sergey_Savyak
+|Company=
+|Department=Design
+|Role=Lead Animator / Cutscene Direction | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Anton_Shekhovtsov
+|Company=
+|Department=Programming
+|Role=Lead Programmer | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Victor_Blagomir
+|Company=
+|Department=Unclassified
+|Role=Managing Director | Creoteam
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Yuriy_Lenin
+|Company=
+|Department=Unclassified
+|Role=Sound Director / Sound Expert
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Maksim_Nikitenko
+|Company=
+|Department=Unclassified
+|Role=Sound Director
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Ekaterina_Kukureko
+|Company=
+|Department=Thanks
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Veronika_Marchun
+|Company=
+|Department=Thanks
+|Role=for the help on the first stages of development
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Mikhail_Zaporozhcenko
+|Company=
+|Department=Unclassified
+|Role=Other Contributor
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Konstantin_Kartashov
+|Company=
+|Department=Unclassified
+|Role=Other Contributor
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Vadim_Diduk
+|Company=
+|Department=Unclassified
+|Role=Other Contributor
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Dmitry_Kravtsov
+|Company=
+|Department=Unclassified
+|Role=Other Contributor
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Vadim_Besedin
+|Company=
+|Department=Unclassified
+|Role=Motion Capture Operator
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Julija_Serova
+|Company=
+|Department=Unclassified
+|Role=Actor
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Yuriy_Klatskin
+|Company=
+|Department=Unclassified
+|Role=Actor
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Maria_Kravchenko
+|Company=
+|Department=Unclassified
+|Role=Actor
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Kirill_Nikitenko
+|Company=
+|Department=Unclassified
+|Role=Actor
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Anna_Kuntseva
+|Company=
+|Department=Business
+|Role=Traffic Manager | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Maksim_Lelkov
+|Company=
+|Department=Unclassified
+|Role=Head of Product Development | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Yaroslav_Sevostyanyuk
+|Company=
+|Department=Business
+|Role=International Sales Manager | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Daria_Donets
+|Company=
+|Department=Business
+|Role=International Sales Manager | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Vladislav_Zhukov
+|Company=
+|Department=Business
+|Role=Community Manager | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Sergey_Vladinets
+|Company=
+|Department=Business
+|Role=Community Manager | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Lubmila_Osipova
+|Company=
+|Department=Business
+|Role=Marketing Specialist | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Elena_Barsukova
+|Company=
+|Department=Business
+|Role=Advertisement and PR Assistant Manager | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Alevtina_Vinogradova
+|Company=
+|Department=Business
+|Role=PR Manager | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Anastasia_Potemkina
+|Company=
+|Department=Business
+|Role=PR Manager | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Georgiy_Dobrodeev
+|Company=
+|Department=Unclassified
+|Role=Advertisement and PR Director | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Evgenia_Potemkina
+|Company=
+|Department=Unclassified
+|Role=Art Designer | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Artem_Sukhanov
+|Company=
+|Department=Unclassified
+|Role=Art Designer | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Daniella_Klimashevskaya
+|Company=
+|Department=Unclassified
+|Role=Art Designer | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Sanan_Ushanov
+|Company=
+|Department=Unclassified
+|Role=Art Designer | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Kirill_Bestemyanov
+|Company=
+|Department=Unclassified
+|Role=Technical Expert | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Nikita_Prosnikov
+|Company=
+|Department=Unclassified
+|Role=Product Manager | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Stanislav_Pleschev
+|Company=
+|Department=Unclassified
+|Role=Product Manager | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Sergey_Bobkov
+|Company=
+|Department=Production
+|Role=Producer | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Marina_Ravun
+|Company=
+|Department=Thanks
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Maksim_Nikolaev
+|Company=
+|Department=Thanks
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Ivan_Bunakov
+|Company=
+|Department=Unclassified
+|Role=Head of Development Department | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Yevgeniy_Popov
+|Company=
+|Department=Thanks
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Yuriy_Maslikov
+|Company=
+|Department=Thanks
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Aleksey_Peshehonov
+|Company=
+|Department=Thanks
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Dmitriy_Penzin
+|Company=
+|Department=Thanks
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Igor_Ustinov
+|Company=
+|Department=Thanks
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Vladimir_Minyaev
+|Company=
+|Department=Thanks
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Karlos_Mateos
+|Company=
+|Department=Thanks
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Svetlana_Ladoshkina
+|Company=
+|Department=Thanks
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Maksim_Ustonov
+|Company=
+|Department=Thanks
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Tatiana_Ustinova
+|Company=
+|Department=Business
+|Role=Head of Marketing and Sales Department | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Igor_Sukhov
+|Company=
+|Department=Business
+|Role=Finance Director | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Victoria_Enns
+|Company=
+|Department=Business
+|Role=Head of International Department | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Aleksander_Mikhailov
+|Company=
+|Department=Business
+|Role=Managing Director | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Natalia_Lebedeva
+|Company=
+|Department=Business
+|Role=Legal Department | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Evsey_Evseyev
+|Company=
+|Department=Business
+|Role=Legal Department | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Georgiy_Vitaliev
+|Company=
+|Department=Business
+|Role=Legal Department | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Anton_Danilov
+|Company=
+|Department=Business
+|Role=Sales Marketing | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Elena_Boriskina
+|Company=
+|Department=Business
+|Role=Sales Marketing | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Andrey_Kravchinskiy
+|Company=
+|Department=Business
+|Role=Sales Marketing | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Artem_Mitenkov
+|Company=
+|Department=Business
+|Role=Sales Marketing | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Tatiana_Motrofanova
+|Company=
+|Department=Business
+|Role=Sales Marketing | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Aleksander_Kotchetkov
+|Company=
+|Department=Business
+|Role=Sales Marketing | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Kozhevnikov_Sergey
+|Company=
+|Department=Quality Assurance
+|Role=External Tester | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Petrov_Yevgeniy
+|Company=
+|Department=Quality Assurance
+|Role=External Tester | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Belyaev_Petr
+|Company=
+|Department=Quality Assurance
+|Role=External Tester | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Aleksandr_Sedykh
+|Company=
+|Department=Quality Assurance
+|Role=Local Tester | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Nikita_Portyanko
+|Company=
+|Department=Quality Assurance
+|Role=Local Tester | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Andrey_Lesnyakov
+|Company=
+|Department=Unclassified
+|Role=Local Tester | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Mikhail_Sineokiy
+|Company=
+|Department=Quality Assurance
+|Role=Local Tester | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Aleksander_Konyakhin
+|Company=
+|Department=Quality Assurance
+|Role=Local Tester | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Kirill_Leiko
+|Company=
+|Department=Quality Assurance
+|Role=Local Tester | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Dmitriy_Anufiev
+|Company=
+|Department=Quality Assurance
+|Role=Local Tester | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Ivan_Raynov
+|Company=
+|Department=Quality Assurance
+|Role=Local Tester | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Anton_Kirsh
+|Company=
+|Department=Quality Assurance
+|Role=Local Tester | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Igor_Dmitriev
+|Company=
+|Department=Quality Assurance
+|Role=Senior Tester | Buka Entertainment
+}}
+{{CreditSubobject
+|Game=Games/Collapse_22859
+|Release=
+|Dlc=
+|Person=People/Alexander_Pak
+|Company=
+|Department=Production
+|Role=Executive Producer | Buka Entertainment
+}}
+</text>
+      <sha1>okf5ee0pxj7lmios0m2egmqswhnf1s7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Colorblind</title>
+    <ns>0</ns>
+    <id>624863</id>
+    <revision>
+      <id>975136</id>
+      <parentid>974600</parentid>
+      <timestamp>2026-06-17T19:42:45Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975136</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="657" sha1="119dmq6b411c8xcyrksxdmpm9d26fz1" xml:space="preserve">{{Game
+|Guid=868b8314-6e59-4048-a540-9e37125b679f
+|Name=Colorbound
+|Image=https://giantbomb.com/api/media/file/media--file--colorbound-06-17-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--colorboundb-06-17-2026.jpg
+|Deck=A puzzle platformer with many hidden paths.
+|ReleaseDateType=Month
+|MonthPart=August
+|MonthYearPart=2026
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Puzzle Platformer, Concepts/Jump, Concepts/2D, Concepts/Steam Achievements
+|Developers=Companies/Panpipe Studio
+|Genres=Genres/Puzzle, Genres/Platformer
+|Platforms=Platforms/PC
+|Publishers=Companies/Whitethorn Digital
+}}</text>
+      <sha1>119dmq6b411c8xcyrksxdmpm9d26fz1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Combate Monero/Credits</title>
+    <ns>0</ns>
+    <id>253398</id>
+    <revision>
+      <id>253848</id>
+      <timestamp>2025-12-08T07:32:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>253848</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1720" sha1="g6mj98cagwm30kzuyxg3hc7utldxhua" xml:space="preserve">{{Credits
+|ParentPage=Games/Combate_Monero
+}}
+{{CreditSubobject
+|Game=Games/Combate_Monero
+|Release=
+|Dlc=
+|Person=People/Pao_Bries
+|Company=
+|Department=Voice Actor
+|Role=Fátima, Lobaberta Sullivana
+}}
+{{CreditSubobject
+|Game=Games/Combate_Monero
+|Release=
+|Dlc=
+|Person=People/Fernando_Garcia_Rosales
+|Company=
+|Department=Voice Actor
+|Role=Xiucóatl
+}}
+{{CreditSubobject
+|Game=Games/Combate_Monero
+|Release=
+|Dlc=
+|Person=People/George_C_Boulevard
+|Company=
+|Department=Voice Actor
+|Role=El Maizo, Cramil
+}}
+{{CreditSubobject
+|Game=Games/Combate_Monero
+|Release=
+|Dlc=
+|Person=People/Mariana_Aylin
+|Company=
+|Department=Voice Actor
+|Role=Ba'al
+}}
+{{CreditSubobject
+|Game=Games/Combate_Monero
+|Release=
+|Dlc=
+|Person=People/Guillermo_Carlos_Espino
+|Company=
+|Department=Voice Actor
+|Role=Pepe
+}}
+{{CreditSubobject
+|Game=Games/Combate_Monero
+|Release=
+|Dlc=
+|Person=People/Brandon_Marquez
+|Company=
+|Department=Voice Actor
+|Role=M
+}}
+{{CreditSubobject
+|Game=Games/Combate_Monero
+|Release=
+|Dlc=
+|Person=People/Gustavo_Oribe_Mendieta
+|Company=
+|Department=Voice Actor
+|Role=Checomal
+}}
+{{CreditSubobject
+|Game=Games/Combate_Monero
+|Release=
+|Dlc=
+|Person=People/Yair_Perez_Trujillo
+|Company=
+|Department=Voice Actor
+|Role=Vulcar, Koatl
+}}
+{{CreditSubobject
+|Game=Games/Combate_Monero
+|Release=
+|Dlc=
+|Person=People/Carlos_Fernando_Sanchez_Ruiz
+|Company=
+|Department=Voice Actor
+|Role=El Bulbo
+}}
+{{CreditSubobject
+|Game=Games/Combate_Monero
+|Release=
+|Dlc=
+|Person=People/Omar_Soto_de_la_Torre
+|Company=
+|Department=Voice Actor
+|Role=Meteorix
+}}
+{{CreditSubobject
+|Game=Games/Combate_Monero
+|Release=
+|Dlc=
+|Person=People/Araidna_Aracely_Benitez_Ambrosio
+|Company=
+|Department=Voice Actor
+|Role=San Miguel Arcángel
+}}
+</text>
+      <sha1>g6mj98cagwm30kzuyxg3hc7utldxhua</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Computer Spacegames/Credits</title>
+    <ns>0</ns>
+    <id>249678</id>
+    <revision>
+      <id>250112</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250112</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="372" sha1="70xo3e0f7is9crnjqbnb83t6izi564l" xml:space="preserve">{{Credits
+|ParentPage=Games/Computer_Spacegames
+}}
+{{CreditSubobject
+|Game=Games/Computer_Spacegames
+|Release=
+|Dlc=
+|Person=People/Mark_Duffin
+|Company=
+|Department=Visual Arts
+|Role=Apple II illustrated by / BBC Micro illustrated by / Commodore PET/CBM illustrated by / TRS-80 illustrated by / VIC-20 illustrated by / ZX81 illustrated by / ZX Spectrum illustrated by
+}}
+</text>
+      <sha1>70xo3e0f7is9crnjqbnb83t6izi564l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Concord/Credits</title>
+    <ns>0</ns>
+    <id>250358</id>
+    <revision>
+      <id>250803</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250803</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="167" sha1="2pfvs073jcqyrpu2tly4c45r1g13bph" xml:space="preserve">{{Credits
+|ParentPage=Games/Concord
+}}
+{{CreditSubobject
+|Game=Games/Concord
+|Release=
+|Dlc=
+|Person=People/Hiroki_Totoki
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>2pfvs073jcqyrpu2tly4c45r1g13bph</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Cookie Domination/Credits</title>
+    <ns>0</ns>
+    <id>256008</id>
+    <revision>
+      <id>256463</id>
+      <timestamp>2025-12-08T07:32:24Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>256463</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3577" sha1="sjz5ixa6dpqvavvrgd07n05pfdtxxdn" xml:space="preserve">{{Credits
+|ParentPage=Games/Cookie_Domination
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Daniel_Bernstein
+|Company=
+|Department=Unclassified
+|Role=President and CEO, Sound and Music
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Vitali_Vostrikov
+|Company=
+|Department=Unclassified
+|Role=General Manager Sandlot Games St. Petersburg
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Brian_Lynch
+|Company=
+|Department=Unclassified
+|Role=Producer, Designer
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Leah_Verre
+|Company=
+|Department=Unclassified
+|Role=Producer
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Alexey_Sharshavin
+|Company=
+|Department=Unclassified
+|Role=Lead Programmer
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Sergey_Grachev
+|Company=
+|Department=Unclassified
+|Role=Programmer
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Andrey_Ponomarev
+|Company=
+|Department=Unclassified
+|Role=Art Lead
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Maya_Raab
+|Company=
+|Department=Unclassified
+|Role=Art
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Marina_Tonkih
+|Company=
+|Department=Unclassified
+|Role=Art
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Peng_Ven
+|Company=
+|Department=Unclassified
+|Role=Art
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Sharon_A_Fuentes
+|Company=
+|Department=Unclassified
+|Role=Art
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Olga_Sergeeva
+|Company=
+|Department=Unclassified
+|Role=Scripting
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Oksana_Stroy
+|Company=
+|Department=Unclassified
+|Role=Scripting, Project Manager
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Melissa_Cuthill
+|Company=
+|Department=Unclassified
+|Role=Writer
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/James_Costello
+|Company=
+|Department=Unclassified
+|Role=Quality Assurance Manager
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Cody_Roesch
+|Company=
+|Department=Unclassified
+|Role=Quality Assurance Engineer
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Matt_Dell
+|Company=
+|Department=Unclassified
+|Role=Marketing Deployment Manager
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Arthur_Hagman
+|Company=
+|Department=Unclassified
+|Role=Graphic Designer
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Julie_Haehn
+|Company=
+|Department=Unclassified
+|Role=Special Thanks
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Falaumaina_Mohd_Sharil
+|Company=
+|Department=Unclassified
+|Role=Special Thanks
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Tyler_Perry
+|Company=
+|Department=Unclassified
+|Role=Special Thanks
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Matt_Rudge
+|Company=
+|Department=Unclassified
+|Role=Special Thanks
+}}
+{{CreditSubobject
+|Game=Games/Cookie_Domination
+|Release=
+|Dlc=
+|Person=People/Jeffrey_Lim
+|Company=
+|Department=Unclassified
+|Role=Special Thanks
+}}
+</text>
+      <sha1>sjz5ixa6dpqvavvrgd07n05pfdtxxdn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Cooking for Ma!</title>
+    <ns>0</ns>
+    <id>624958</id>
+    <revision>
+      <id>974696</id>
+      <timestamp>2026-06-08T01:17:55Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=7f9ef68f-8eb4-4599-b853-d8858e474aaa |Name=Cooking for Ma! |ReleaseDateType=None }}"</comment>
+      <origin>974696</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="96" sha1="7d7gb9a26x5upz9yvy7fgpzubfu5tks" xml:space="preserve">{{Game
+|Guid=7f9ef68f-8eb4-4599-b853-d8858e474aaa
+|Name=Cooking for Ma!
+|ReleaseDateType=None
+}}</text>
+      <sha1>7d7gb9a26x5upz9yvy7fgpzubfu5tks</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Cordura</title>
+    <ns>0</ns>
+    <id>624577</id>
+    <revision>
+      <id>974068</id>
+      <parentid>974067</parentid>
+      <timestamp>2026-06-02T00:27:53Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974068</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="593" sha1="81bqcu56f9cbnnm34g90wj5xbmt4hjn" xml:space="preserve">{{Game
+|Guid=c49317e4-4c66-4aef-848e-5ac7e64e5732
+|Name=Cordura
+|Image=https://giantbomb.com/api/media/file/media--file--library_capsule_2mdfx-06-02-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--library_heroasdfasdf_2x-06-02-2026.jpg
+|Deck=A 4-player psychological horror game.
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/Polygonal 3D, Concepts/4 Player Co op, Concepts/Online, Concepts/Steam
+|Developers=Companies/Garage51
+|Genres=Genres/Action Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/Garage51
+|Themes=Themes/Horror
+}}</text>
+      <sha1>81bqcu56f9cbnnm34g90wj5xbmt4hjn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Cosmic Guerilla/Credits</title>
+    <ns>0</ns>
+    <id>250061</id>
+    <revision>
+      <id>250503</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250503</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="214" sha1="p27yd5i3bc3m2wribw27fubhxruykcn" xml:space="preserve">{{Credits
+|ParentPage=Games/Cosmic_Guerilla
+}}
+{{CreditSubobject
+|Game=Games/Cosmic_Guerilla
+|Release=
+|Dlc=
+|Person=People/Graham_Stafford
+|Company=
+|Department=Programming
+|Role=ZX Spectrum author (as Graham)
+}}
+</text>
+      <sha1>p27yd5i3bc3m2wribw27fubhxruykcn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Cosmic Guerilla 89034</title>
+    <ns>0</ns>
+    <id>465028</id>
+    <revision>
+      <id>796939</id>
+      <parentid>751852</parentid>
+      <timestamp>2026-03-12T06:29:02Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796939</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="958" sha1="qulp6bqhzng01qfk2d00xriw9u5ssyc" xml:space="preserve">{{Game
+| Name= Cosmic Guerilla
+| Guid=3030-89034
+| Deck=An imitation and a non official version of the arcade Cosmic Guerilla.
+| ReleaseDate=1983-05-01
+| ReleaseDateType=Year
+| Characters=
+| Concepts=
+| Developers=Companies/Crystal_Computing
+| Franchises=Franchises/Cosmic_Guerilla
+| Genres=Genres/Action,Genres/Shoot_Em_Up
+| Locations=
+| Objects=
+| Platforms=Platforms/ZX_Spectrum
+| Publishers=Companies/Crystal_Computing
+| Games=
+| Themes=Themes/Sci_Fi
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3466002-5649729503-60802.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3466002-5649729503-60802.jpg","path":"7\/73970\/","mime":"image\/jpeg","sizes":"scale_tiny,square_small,square_medium,scale_avatar,square_mini,scale_super,scale_medium,screen_kubrick,scale_large,scale_small,screen_medium,square_avatar,square_tiny","caption":null},"background":[]}' /&gt;
+An imitation and a non official version of the arcade Cosmic Guerilla.</text>
+      <sha1>qulp6bqhzng01qfk2d00xriw9u5ssyc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Cosmic Guerilla 89034/Credits</title>
+    <ns>0</ns>
+    <id>465029</id>
+    <revision>
+      <id>751853</id>
+      <timestamp>2026-03-04T23:05:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>751853</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="jtzvb6dug4b2tln7z77j5crydjy7bvi" xml:space="preserve">{{Credits
+|ParentPage=Games/Cosmic_Guerilla_89034
+}}
+{{CreditSubobject
+|Game=Games/Cosmic_Guerilla_89034
+|Release=
+|Dlc=
+|Person=People/Graham_Stafford
+|Company=
+|Department=Programming
+|Role=ZX Spectrum author (as Graham)
+}}
+</text>
+      <sha1>jtzvb6dug4b2tln7z77j5crydjy7bvi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Counter Strike 2/Credits</title>
+    <ns>0</ns>
+    <id>249701</id>
+    <revision>
+      <id>250135</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250135</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="321" sha1="omejmycg29qy3128boazcgpxxq35n4r" xml:space="preserve">{{Credits
+|ParentPage=Games/Counter_Strike_2
+}}
+{{CreditSubobject
+|Game=Games/Counter_Strike_2
+|Release=
+|Dlc=
+|Person=People/Matthew_Wilde
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Counter_Strike_2
+|Release=
+|Dlc=
+|Person=People/Fletcher_Dunn
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>omejmycg29qy3128boazcgpxxq35n4r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Cow Chess</title>
+    <ns>0</ns>
+    <id>624957</id>
+    <revision>
+      <id>974695</id>
+      <timestamp>2026-06-08T01:17:35Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=8773a00d-f200-411f-8c8b-f35ecb6a093b |Name=Cow Chess |ReleaseDateType=None }}"</comment>
+      <origin>974695</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="90" sha1="18hxnwg5fq9b47p1i0xbrrpy7jpwafu" xml:space="preserve">{{Game
+|Guid=8773a00d-f200-411f-8c8b-f35ecb6a093b
+|Name=Cow Chess
+|ReleaseDateType=None
+}}</text>
+      <sha1>18hxnwg5fq9b47p1i0xbrrpy7jpwafu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Cowboy Snake/Credits</title>
+    <ns>0</ns>
+    <id>249769</id>
+    <revision>
+      <id>250203</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250203</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="182" sha1="ndlvu667c1rxz3rjj54nlaud4cgbre2" xml:space="preserve">{{Credits
+|ParentPage=Games/Cowboy_Snake
+}}
+{{CreditSubobject
+|Game=Games/Cowboy_Snake
+|Release=
+|Dlc=
+|Person=People/Nguyen_Dang_Tu_Tram
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+</text>
+      <sha1>ndlvu667c1rxz3rjj54nlaud4cgbre2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Cozy Game Restoration</title>
+    <ns>0</ns>
+    <id>624995</id>
+    <revision>
+      <id>974733</id>
+      <timestamp>2026-06-08T01:36:06Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=31b07a14-fd44-4661-a5d3-cc346de69e1d |Name=Cozy Game Restoration |ReleaseDateType=None }}"</comment>
+      <origin>974733</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="102" sha1="ro4c58ii9mmjedp9gugsgsq2ltmrx50" xml:space="preserve">{{Game
+|Guid=31b07a14-fd44-4661-a5d3-cc346de69e1d
+|Name=Cozy Game Restoration
+|ReleaseDateType=None
+}}</text>
+      <sha1>ro4c58ii9mmjedp9gugsgsq2ltmrx50</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Cracked 19315/Credits</title>
+    <ns>0</ns>
+    <id>464877</id>
+    <revision>
+      <id>746797</id>
+      <timestamp>2026-03-04T21:54:23Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>746797</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="176" sha1="s930uxwnsc8uvl07vd8ubthuzlnqcsl" xml:space="preserve">{{Credits
+|ParentPage=Games/Cracked_19315
+}}
+{{CreditSubobject
+|Game=Games/Cracked_19315
+|Release=
+|Dlc=
+|Person=People/Tom_Sloper
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>s930uxwnsc8uvl07vd8ubthuzlnqcsl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Cralon/Credits</title>
+    <ns>0</ns>
+    <id>254925</id>
+    <revision>
+      <id>255377</id>
+      <timestamp>2025-12-08T07:32:21Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>255377</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" sha1="qicisrfpusugvj1rrz4fm7v01ikclfy" xml:space="preserve">{{Credits
+|ParentPage=Games/Cralon
+}}
+{{CreditSubobject
+|Game=Games/Cralon
+|Release=
+|Dlc=
+|Person=People/Bjorn_Pankratz
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Cralon
+|Release=
+|Dlc=
+|Person=People/Jennifer_Pankratz
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>qicisrfpusugvj1rrz4fm7v01ikclfy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Crash n Burn 12850/Credits</title>
+    <ns>0</ns>
+    <id>464821</id>
+    <revision>
+      <id>745499</id>
+      <timestamp>2026-03-04T21:34:30Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>745499</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="894" sha1="4k7pyho4y9g4yx6dfg8tswn4c4ul80r" xml:space="preserve">{{Credits
+|ParentPage=Games/Crash_n_Burn_12850
+}}
+{{CreditSubobject
+|Game=Games/Crash_n_Burn_12850
+|Release=
+|Dlc=
+|Person=People/Mark_Cerny
+|Company=
+|Department=Design
+|Role=Designer / Programmer
+}}
+{{CreditSubobject
+|Game=Games/Crash_n_Burn_12850
+|Release=
+|Dlc=
+|Person=People/Kjell_Vistad
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Crash_n_Burn_12850
+|Release=
+|Dlc=
+|Person=People/Mira_F_Ross
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Crash_n_Burn_12850
+|Release=
+|Dlc=
+|Person=People/Daniel_Colon_Jr
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Crash_n_Burn_12850
+|Release=
+|Dlc=
+|Person=People/Cyrus_Lum
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Crash_n_Burn_12850
+|Release=
+|Dlc=
+|Person=People/Michael_Provenza
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>4k7pyho4y9g4yx6dfg8tswn4c4ul80r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Crayon Shinchan My Sugoroku Great Strategy</title>
+    <ns>0</ns>
+    <id>625204</id>
+    <revision>
+      <id>985785</id>
+      <timestamp>2026-07-17T05:58:15Z</timestamp>
+      <contributor>
+        <username>G123ctw</username>
+        <id>4170</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=5da5a9d8-99fd-43cd-be50-9228634bf723 |Name=Crayon Shinchan My Sugoroku Great Strategy |Aliases=My Sugoroku Great Strategy |Image=Shinchancover.png |ReleaseDateType=None }}"</comment>
+      <origin>985785</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="184" sha1="f5qac7ow0g7v0rdigjs5w19eyjxpdhq" xml:space="preserve">{{Game
+|Guid=5da5a9d8-99fd-43cd-be50-9228634bf723
+|Name=Crayon Shinchan My Sugoroku Great Strategy
+|Aliases=My Sugoroku Great Strategy
+|Image=Shinchancover.png
+|ReleaseDateType=None
+}}</text>
+      <sha1>f5qac7ow0g7v0rdigjs5w19eyjxpdhq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Creepy Redneck Dinosaur Mansion 3/Credits</title>
+    <ns>0</ns>
+    <id>254818</id>
+    <revision>
+      <id>255270</id>
+      <timestamp>2025-12-08T07:32:21Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>255270</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="218" sha1="omt6704i4kqasguo6veak86o5gedg1i" xml:space="preserve">{{Credits
+|ParentPage=Games/Creepy_Redneck_Dinosaur_Mansion_3
+}}
+{{CreditSubobject
+|Game=Games/Creepy_Redneck_Dinosaur_Mansion_3
+|Release=
+|Dlc=
+|Person=People/Xalavier_Nelson_Jr
+|Company=
+|Department=Design
+|Role=
+}}
+</text>
+      <sha1>omt6704i4kqasguo6veak86o5gedg1i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Crisol: Theater of Idols</title>
+    <ns>0</ns>
+    <id>465198</id>
+    <revision>
+      <id>797085</id>
+      <parentid>797078</parentid>
+      <timestamp>2026-03-16T14:28:14Z</timestamp>
+      <contributor>
+        <username>Chucktowski</username>
+        <id>7</id>
+      </contributor>
+      <origin>797085</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="800" sha1="080qe6r5ghprr043l48xej72ig7n7ws" xml:space="preserve">{{Game
+|Guid=c9e46839-5335-4abf-a841-058540b8253e
+|Name=Crisol: Theater of Idols
+|Aliases=Crisol
+|Image=210457398 IGDB-272x380.jpg
+|BackgroundImage=4653206-characters.jpg
+|Deck=Crisol is a survival horror adventure set in a twisted version of Spain. As a soldier captured by religious dogmatism, you must use your own blood as ammunition, without draining to the point of death. Explore the cursed island of Tormentosa, uncover dark secrets, and battle horrifying enemies.
+|ReleaseDateType=Full
+|ReleaseDate=2026-02-10
+|Concepts=Concepts/First Person Perspective, Concepts/Horror, Concepts/Blood
+|Genres=Genres/Action Adventure, Genres/First Person Shooter
+|Locations=Locations/Spain
+|Platforms=Platforms/PC, Platforms/Xbox Series X S, Platforms/PlayStation 5
+|Publishers=Companies/Blumhouse Games
+}}</text>
+      <sha1>080qe6r5ghprr043l48xej72ig7n7ws</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Crosscountry USA/Credits</title>
+    <ns>0</ns>
+    <id>253913</id>
+    <revision>
+      <id>254364</id>
+      <timestamp>2025-12-08T07:32:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254364</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="184" sha1="mo2n7vkc490r9o8biefl9q9ambklnl5" xml:space="preserve">{{Credits
+|ParentPage=Games/Crosscountry_USA
+}}
+{{CreditSubobject
+|Game=Games/Crosscountry_USA
+|Release=
+|Dlc=
+|Person=People/Dave_Vincent
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>mo2n7vkc490r9o8biefl9q9ambklnl5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Crossfire 2027</title>
+    <ns>0</ns>
+    <id>624712</id>
+    <revision>
+      <id>974396</id>
+      <parentid>974394</parentid>
+      <timestamp>2026-06-06T00:53:39Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974396</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="542" sha1="3tycwl6wr6p4zb20qanyuk4twlo06vr" xml:space="preserve">{{Game
+|Guid=9efacd25-c1f0-4217-8b68-4d37e54c8bc1
+|Name=Crossfire
+|Image=https://giantbomb.com/api/media/file/media--file--xzcvzxcv-06-06-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--qwreqwer-06-06-2026.jpg
+|Deck=A single-player cover shooter in the Crossfire universe.
+|ReleaseDateType=None
+|Concepts=Concepts/Digital Distribution, Concepts/Steam
+|Developers=Companies/Thats No Moon
+|Franchises=Franchises/CrossFire
+|Genres=Genres/Action, Genres/Shooter
+|Platforms=Platforms/PC
+|Publishers=Companies/Team K1
+}}</text>
+      <sha1>3tycwl6wr6p4zb20qanyuk4twlo06vr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Crow Country/Credits</title>
+    <ns>0</ns>
+    <id>252346</id>
+    <revision>
+      <id>252796</id>
+      <timestamp>2025-12-08T07:32:16Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>252796</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="175" sha1="4hoe8bs1mev02930dzfulbbxplapyxw" xml:space="preserve">{{Credits
+|ParentPage=Games/Crow_Country
+}}
+{{CreditSubobject
+|Game=Games/Crow_Country
+|Release=
+|Dlc=
+|Person=People/Kimlinh_Tran
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+</text>
+      <sha1>4hoe8bs1mev02930dzfulbbxplapyxw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Crystal Ice/Credits</title>
+    <ns>0</ns>
+    <id>249945</id>
+    <revision>
+      <id>250383</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250383</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="196" sha1="mh22kwwn3ghphprjmyyptio4m1h6vs0" xml:space="preserve">{{Credits
+|ParentPage=Games/Crystal_Ice
+}}
+{{CreditSubobject
+|Game=Games/Crystal_Ice
+|Release=
+|Dlc=
+|Person=People/Susan_G_McBride
+|Company=
+|Department=Thanks
+|Role=Android special thanks to
+}}
+</text>
+      <sha1>mh22kwwn3ghphprjmyyptio4m1h6vs0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Curiosity/Credits</title>
+    <ns>0</ns>
+    <id>255780</id>
+    <revision>
+      <id>256235</id>
+      <timestamp>2025-12-08T07:32:24Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>256235</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="170" sha1="3yj2l4cyhb5enen13rrh0ms2wxpd43b" xml:space="preserve">{{Credits
+|ParentPage=Games/Curiosity
+}}
+{{CreditSubobject
+|Game=Games/Curiosity
+|Release=
+|Dlc=
+|Person=People/GrandPooBear
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>3yj2l4cyhb5enen13rrh0ms2wxpd43b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Curse of Resthaven</title>
+    <ns>0</ns>
+    <id>624638</id>
+    <revision>
+      <id>974172</id>
+      <parentid>974170</parentid>
+      <timestamp>2026-06-02T12:02:00Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974172</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="446" sha1="mtm33tk53yr0shry7g0zpdglm6o7297" xml:space="preserve">{{Game
+|Guid=4c187f7f-0b16-491f-9489-2209b0ff2dd4
+|Name=Curse of Resthaven
+|Image=Curse-of-resthaven 5ueq.600.webp
+|Deck=A narrative roguelite about an investigation on a cursed island.
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/2D, Concepts/Detective, Concepts/Steam
+|Developers=Companies/Hilltop Studios
+|Genres=Genres/Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/Digital Bandidos
+|Themes=Themes/Crime
+}}</text>
+      <sha1>mtm33tk53yr0shry7g0zpdglm6o7297</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Cursemark</title>
+    <ns>0</ns>
+    <id>624950</id>
+    <revision>
+      <id>974687</id>
+      <timestamp>2026-06-08T01:03:23Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=d0cf3852-5d34-44a1-8ec2-07b9aa2a7f20 |Name=Cursemark |ReleaseDateType=None }}"</comment>
+      <origin>974687</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="90" sha1="hv1dasuihwua2k299exwlixp0jhgd0v" xml:space="preserve">{{Game
+|Guid=d0cf3852-5d34-44a1-8ec2-07b9aa2a7f20
+|Name=Cursemark
+|ReleaseDateType=None
+}}</text>
+      <sha1>hv1dasuihwua2k299exwlixp0jhgd0v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Cutie Patoots</title>
+    <ns>0</ns>
+    <id>624912</id>
+    <revision>
+      <id>974649</id>
+      <timestamp>2026-06-08T00:42:40Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=624f773c-9528-403b-b1e1-62cba1b4f914 |Name=Cutie Patoots |ReleaseDateType=None }}"</comment>
+      <origin>974649</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="94" sha1="g3gddfsjsswj3iwervpau8rarsu6wl6" xml:space="preserve">{{Game
+|Guid=624f773c-9528-403b-b1e1-62cba1b4f914
+|Name=Cutie Patoots
+|ReleaseDateType=None
+}}</text>
+      <sha1>g3gddfsjsswj3iwervpau8rarsu6wl6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Danger Zone 1986/Credits</title>
+    <ns>0</ns>
+    <id>249622</id>
+    <revision>
+      <id>250056</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250056</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="182" sha1="mj283i74xqtuhvw91oozqhuf4gb2tll" xml:space="preserve">{{Credits
+|ParentPage=Games/Danger_Zone_1986
+}}
+{{CreditSubobject
+|Game=Games/Danger_Zone_1986
+|Release=
+|Dlc=
+|Person=People/Mike_Clark
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>mj283i74xqtuhvw91oozqhuf4gb2tll</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Dangeresque The Roomisode Triungulate/Credits</title>
+    <ns>0</ns>
+    <id>250365</id>
+    <revision>
+      <id>751864</id>
+      <parentid>250810</parentid>
+      <timestamp>2026-03-04T23:05:25Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250810</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="0yxm4sdlh8iipzh7vnx4afqm5um98qc" xml:space="preserve">{{Credits
+|ParentPage=Games/Dangeresque_The_Roomisode_Triungulate
+}}
+{{CreditSubobject
+|Game=Games/Dangeresque_The_Roomisode_Triungulate
+|Release=
+|Dlc=
+|Person=People/Matt_Chapman
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>0yxm4sdlh8iipzh7vnx4afqm5um98qc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Darius 32891</title>
+    <ns>0</ns>
+    <id>464928</id>
+    <revision>
+      <id>988103</id>
+      <parentid>978151</parentid>
+      <timestamp>2026-07-17T19:58:35Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3030-32891)</comment>
+      <origin>988103</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="33450" sha1="d44xh6qbzpvtbtrsowdns0nxb94mjg0" xml:space="preserve">{{Game
+| Name=Darius
+| Guid=3030-32891
+| Aliases=ダライアス,Daraiasu
+| Deck=The first game in the Darius series, this game was released by Taito in 1986.
+| ReleaseDate=1986-12-31
+| ReleaseDateType=Year
+| Characters=Characters/Dual_Shears,Characters/Electric_Fan,Characters/Fatty_Glutton,Characters/King_Fossil,Characters/Octopus,Characters/Proco,Characters/Tiat
+| Concepts=Concepts/Multi_Monitor_Arcade_Cabinet,Concepts/Multiple_Endings,Concepts/Retroachievements,Concepts/Shortcut,Concepts/Single_Word_Titles
+| Developers=Companies/Taito_Corporation
+| Franchises=Franchises/Arcade_Archives,Franchises/Darius
+| Genres=Genres/Shoot_Em_Up
+| Locations=Locations/Darius
+| Objects=Objects/Spaceship
+| Platforms=Platforms/Arcade,Platforms/Genesis,Platforms/Nintendo_Switch,Platforms/PlayStation_4
+| Publishers=Companies/HAMSTER_Corporation,Companies/Taito_Corporation
+| Games=Games/A_Shooter,Games/Dead_Moon,Games/Deep_Blue,Games/Gradius,Games/Gradius_Collection,Games/Gradius_Gaiden,Games/Gradius_II,Games/Gradius_III,Games/Gradius_ReBirth,Games/Gradius_V,Games/Jikkyou_Oshaberi_Parodius,Games/Life_Force,Games/Parodius,Games/R_Type_DX,Games/Rabio_Lepus_Special,Games/Rolling_Gunner,Games/Salamander_2,Games/Sexy_Parodius,Games/Syvalion,Games/Thunder_Cross,Games/Thunder_Cross_II,Games/W_Ring_The_Double_Rings,Games/X_Multiply
+| Themes=Themes/Sci_Fi
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/7465/1555795-darius_arcade_flyer.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"1555795-darius_arcade_flyer.png","path":"0\/7465\/","mime":"image\/png","sizes":"square_avatar,square_small,scale_small,square_tiny,scale_avatar,square_medium,scale_medium,screen_medium,scale_large,square_mini,scale_tiny,ignore_jpg_scale_medium,scale_super,screen_kubrick","caption":"Flyer front (Japan)"},"background":[]}' /&gt;
+
+==Overview==
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_medium/0/7465/1555795-darius_arcade_flyer.png|full=https://www.giantbomb.com/a/uploads/original/0/7465/1555795-darius_arcade_flyer.png|align=right|width=298|caption=The Japanese arcade flyer for Darius}}
+Darius (ダライアス) is a horizontal shoot 'em up arcade game, developed and released by [[Companies/Taito_Corporation|Taito]]in 1987. The arcade cabinet used a unique three screen set-up, non-linear level design, and multiple endings. This would be the first installment in the [[Franchises/Darius|Darius series]], and the second game in the Darius canon. Each level ends with a huge boss designed after marine animals – a theme that would become a staple to the series.
+
+There were numerous ports in its earlier lifespan, none of which are called Darius. Softek and The Edge would make an Amiga, Atari ST, and ZX Spectrum conversion called [[Games/Darius_Plus|Darius+]], released only in Europe. For Japan only, an expanded port would be created by Bits Laboratory and NEC for the PC Engine Duo called [[Games/Super_Darius|Super Darius]] (スーパーダライアス Sūpā Daraiasu). For the PC Engine, the port would be called Darius Plus (ダライアス・プラス Daraiasu Purasu).
+
+A port for PlayStation 4, [[Franchises/Arcade_Archives|Arcade Archives]]: Darius, was released in Japan in 2016. In 2017, this version of the game was packed on a PS4 disc with a multi-disc soundtrack, called Darius: 30th Anniversary Edition.
+
+
+==Gameplay==
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589642-shawk.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589642-shawk.png|align=right|width=317|caption=Silver Hawk Model 3F-1B from the title screen}}
+The player controls a fighter spacecraft named the “Silver Hawk,” and must navigate the levels, called zones. In each zone, the player must fight a number of fighter crafts, ground vehicles, turrets, and other obstacles. There are a total of 28 zones, but only 7 can be played in one playthrough.
+
+The Silver Hawk is equipped with two weapons: Missile, a forward firing gun, and Bomb, which drops bombs. The third piece of equipment is called the “Arm” (Armor) and is a green energy shield that can absorb a certain number of hits before the ship gets harmed.
+
+
+===Boss Battles===
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589644-t022.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589644-t022.png|align=left|width=320|caption=King Fossil, Zone A boss}}
+At the end of each zone, the ground fades away, and large warning text flashes on screen: "WARNING! A HUGE BATTLESHIP x-y IS APPROACHING FAST.", where x is the name of the boss, and y is the letter identifying the zone. The Silver Hawk then flies into the tunnel where the boss resides, and defeating the boss allows the player to progress to the next zone. Bosses in Darius are robotic and mechanical, but are designed as marine animals – like a fish or a squid. Each boss has individual parts that can be destroyed before the boss is killed, like breaking off a tentacle of a squid. If the player takes too long to defeat the boss, red orbs in wireframe cubes appear as mines. The bosses in Darius reappear in other Darius series games; sometimes in greater roles, otherwise in mere rehashings or bit parts.
+
+
+===Power ups===
+Power-ups can be obtained by shooting specific enemies of a certain color. The power-ups are in the form of colored, glowing orbs, and the color corresponds to one of the three equipment items, as follows:
+
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589645-007.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589645-007.png|align=right|width=64}}
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589646-008.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589646-008.png|align=right|width=64}}
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589647-009.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589647-009.png|align=right|width=64}}
+* Red - Missile
+* Green - Bomb
+* Blue – Arm
+Collecting an orb powers up the corresponding weapon, and highlights a new division on the power bar of each weapon. The Arm, if it is diminished or absent at the time of collecting the blue power-up, is regenerated and powered up.
+
+If the player powers up a weapon eight times, the weapon changes to a new, more powerful type. This then becomes the player's default, and can be powered up a further level. However, losing a life resets the power bar and the base weapons are restored.
+
+There are two other power-up orbs - silver and gold - which can be obtained by shooting at certain points of the terrain. However, there are no visual clues as to where these may be in the level.
+
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589648-010.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589648-010.png|align=right|width=64}}
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589649-011.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589649-011.png|align=right|width=64}}
+* Silver - Gives a score bonus
+* Gold - A screen clear bomb
+
+==Synopsis==
+
+===Background===
+Amnelia, or the Green Mother Planet, is the first home of humans in the universe. The early history of Amnelia is one of chaos and destruction, until a boy named Amnelia and his legendary bird, Silver Hawk, unified the planet and began the first true human civilization. The planet would be named after him, and the year of his crowing would become the first year of Amnelia.
+
+Humans would spread throughout Amnelia, and eventually onto Amnelia's two moons Blazar and Masa. When Blazar claimed ownership of Masa, war would break out throughout the planetary system in Amnelian year 547. However, the next year, Masa scientists would discover a mysterious and deadly weapon: the A.N. (All Nothing). The dangerous potential of this weapon lead to a mutual ceasefire. In Amnelian year 609, the 25&lt;sup&gt;th&lt;/sup&gt; Amnelian king was born with powers to see far into the future. At the age of 14, he predicted that Amnelia would be attacked by a unknown force, and the Universal Royal Army was created.
+
+Three years later, in Amnelian year 626, a mechanical race called the Thiima invaded. The Thiima existed solely to protect the entire universe against threats to peace and were dormant in a different dimension until A.N. was discovered. Using A.N. themselves, Thiima easily crushed most Amnelian resistance. Amnelian scientists are forced to use A.N. to create a powerful spacecraft called the Silver Hawk ARCF-06A,. Two Amnelian pilots, Sameluck Raida and Lutia Feen, sacrificed themselves and the Silver Hawk to destroy the Thiima on their base on the moon Kazumn, orbiting the planet Darius.
+
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589659-planetdarius.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589659-planetdarius.png|align=left|width=320|caption=The planet Darius, as seen in Darius Gaiden}}
+With Darius now free from Thiima control, humans would colonize Darius. Thousands of years would pass, and by Amnelian year 2402, due to the long geographical separation, Amnelia had receded in legend, and Darius declared its first year as an independent planet.
+
+
+===Story===
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_medium/19/199401/2589662-proco.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589662-proco.png|align=right|width=357|caption=Proco (left) and Tiat (right)}}
+In the Darius year 201, the planet Darius was attacked by the Belser army. Belser had quietly acquired Thiima technology via the A.N. control nerve of Thiima's ultimate battleship "GT" (Great Thing). Top scientists and engineers on Darius created a new Silver Hawk, Silver Hawk Model 3F-1B Space Fighter, loosely based on the ARCF-06A version, and selected 2 pilots, Proco and Tiat, to fly the Silver Hawks in defense of Darius. Despite not having the A.N. power of the Silver Hawk ARCF-06A, Proco and Tiat were able to successfully fight the Belser.
+
+
+===Endings===
+Because of the non-linear progression of the zones, multiple endings were possible. There are a total of five unique endings:
+
+
+====V Zone====
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_medium/19/199401/2589665-endv.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589665-endv.png|align=right|width=480}}
+Proco and Tiat defeat the Belser boss and reach the final Belser fortress, but are unable to destroy the fortress core with conventional weapons. With grim determination they combine the two ships and, in the form of a fiery phoenix, they crash into the core, destroying the Belser fortress. However, in singleplayer, this ending is not shown and is replaced by a close-up of the Silver Hawk and a victory message.
+
+
+====W Zone====
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_medium/19/199401/2589666-t083.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589666-t083.png|align=right|width=480}}
+Proco and Tiat are able to defeat the final Belser boss, but return home to Darius to find the planet is a “star of death.” They warp to a new planet, and are determined to create a new civilization, one just as great as Darius. This is the canon ending, with the people of Darius being evacuated to the planets of Orga and Vadis.
+
+
+====X Zone====
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_medium/19/199401/2589667-t089.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589667-t089.png|align=right|width=480}}
+Proco and Tiat defeat the final Belser boss, but the fierce fighting has left their ship with only a couple more hours of energy. Just when all hope is lost, a huge battleship appears on screen. Proco and Tiat have no choice but to catch a ride and start a journey into the unknown.
+
+
+====Y Zone====
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_medium/19/199401/2589668-t095.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589668-t095.png|align=right|width=480}}
+After the final boss is defeated, the player (or players) is shown playing the Darius arcade cabinet and cheering, with a speech bubble saying “I've finished!” and “I've got it!”
+
+
+====Z Zone&lt;ins&gt; &lt;/ins&gt;====
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_medium/19/199401/2589669-t101.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589669-t101.png|align=right|width=480}}
+Proco and Tiat fight and destroy the Great Thing Thiima ship. Immediately, all of the Besler ships disappear from the radar, as the Great Thing was controlling the other fighters remotely. Proco and Tiat return to the thriving planet of Darius, with peace revived throughout the planetary system.
+
+
+==Equipment Details==
+The three base pieces of equipment are the Missile, Bomb and Arm. At the top of the screen each piece of equipment is listed, along with a power bar. By obtaining a power-up for a specific piece of equipment, the power bar for the equipment increases. When 8 power-ups are collected, the equipment is changed into a more powerful type. All three pieces of equipment have three forms, each with increased strength and new abilities.
+
+
+===Missile===
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589672-miss-bmp.jpg|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589672-miss-bmp.jpg|align=right|width=72}}
+'''1. Missile''' (AAM-21 Eagle) – a small missile pod which shoots small glowing projectiles
+
+
+{| class='wikitable gb-table-natural'
+|-
+! Power Bar Level||Number of consecutive shots||Projectile Speed (dots/second)||Number of Projectiles
+|-
+| &lt;p&gt;0&lt;/p&gt;||&lt;p&gt;3&lt;/p&gt;||&lt;p&gt;420&lt;/p&gt;||&lt;p&gt;1&lt;/p&gt;
+|-
+| &lt;p&gt;1&lt;/p&gt;||&lt;p&gt;3&lt;/p&gt;||&lt;p&gt;440&lt;/p&gt;||&lt;p&gt;1&lt;/p&gt;
+|-
+| &lt;p&gt;2&lt;/p&gt;||&lt;p&gt;3&lt;/p&gt;||&lt;p&gt;460&lt;/p&gt;||&lt;p&gt;2&lt;/p&gt;
+|-
+| &lt;p&gt;3&lt;/p&gt;||&lt;p&gt;3&lt;/p&gt;||&lt;p&gt;480&lt;/p&gt;||&lt;p&gt;2&lt;/p&gt;
+|-
+| &lt;p&gt;4&lt;/p&gt;||&lt;p&gt;4&lt;/p&gt;||&lt;p&gt;500&lt;/p&gt;||&lt;p&gt;2&lt;/p&gt;
+|-
+| &lt;p&gt;5&lt;/p&gt;||&lt;p&gt;4&lt;/p&gt;||&lt;p&gt;520&lt;/p&gt;||&lt;p&gt;3&lt;/p&gt;
+|-
+| &lt;p&gt;6&lt;/p&gt;||&lt;p&gt;4&lt;/p&gt;||&lt;p&gt;540&lt;/p&gt;||&lt;p&gt;3&lt;/p&gt;
+|-
+| &lt;p&gt;7&lt;/p&gt;||&lt;p&gt;4&lt;/p&gt;||&lt;p&gt;560&lt;/p&gt;||&lt;p&gt;3&lt;/p&gt;
+|}
+
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589673-lase-bmp.jpg|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589673-lase-bmp.jpg|align=right|width=72}}
+'''2. Laser''' (JU3 Pulse Laser Unit) – a more powerful laser gun, which shoots lasers that can travel through enemies.
+
+
+{| class='wikitable gb-table-natural'
+|-
+! Power Bar Level||Number of consecutive shots||Projectile Speed (dots/second)||Number of enemies that laser can pass through
+|-
+| &lt;p&gt;0&lt;/p&gt;||&lt;p&gt;4&lt;/p&gt;||&lt;p&gt;440&lt;/p&gt;||&lt;p&gt;2&lt;/p&gt;
+|-
+| &lt;p&gt;1&lt;/p&gt;||&lt;p&gt;4&lt;/p&gt;||&lt;p&gt;440&lt;/p&gt;||&lt;p&gt;3&lt;/p&gt;
+|-
+| &lt;p&gt;2&lt;/p&gt;||&lt;p&gt;4&lt;/p&gt;||&lt;p&gt;460&lt;/p&gt;||&lt;p&gt;3&lt;/p&gt;
+|-
+| &lt;p&gt;3&lt;/p&gt;||&lt;p&gt;4&lt;/p&gt;||&lt;p&gt;460&lt;/p&gt;||&lt;p&gt;4&lt;/p&gt;
+|-
+| &lt;p&gt;4&lt;/p&gt;||&lt;p&gt;5&lt;/p&gt;||&lt;p&gt;480&lt;/p&gt;||&lt;p&gt;4&lt;/p&gt;
+|-
+| &lt;p&gt;5&lt;/p&gt;||&lt;p&gt;5&lt;/p&gt;||&lt;p&gt;480&lt;/p&gt;||&lt;p&gt;5&lt;/p&gt;
+|-
+| &lt;p&gt;6&lt;/p&gt;||&lt;p&gt;5&lt;/p&gt;||&lt;p&gt;500&lt;/p&gt;||&lt;p&gt;5&lt;/p&gt;
+|-
+| &lt;p&gt;7&lt;/p&gt;||&lt;p&gt;5&lt;/p&gt;||&lt;p&gt;500&lt;/p&gt;||&lt;p&gt;6&lt;/p&gt;
+|}
+
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589674-wave-bmp.jpg|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589674-wave-bmp.jpg|align=right|width=72}}
+'''3. Wave''' (TS Vionic Wave Unit) – a wave gun which shoots wide green waves of energy with increased damage and can travel through terrain and obstacles.
+
+
+{| class='wikitable gb-table-natural'
+|-
+! Power Bar Level||Number of consecutive waves||Wave Speed (dots/second)||Size of wave
+|-
+| &lt;p&gt;0&lt;/p&gt;||&lt;p&gt;3&lt;/p&gt;||&lt;p&gt;440&lt;/p&gt;||&lt;p&gt;Small&lt;/p&gt;
+|-
+| &lt;p&gt;1&lt;/p&gt;||&lt;p&gt;3&lt;/p&gt;||&lt;p&gt;460&lt;/p&gt;||&lt;p&gt;Small&lt;/p&gt;
+|-
+| &lt;p&gt;2&lt;/p&gt;||&lt;p&gt;3&lt;/p&gt;||&lt;p&gt;460&lt;/p&gt;||&lt;p&gt;Medium&lt;/p&gt;
+|-
+| &lt;p&gt;3&lt;/p&gt;||&lt;p&gt;3&lt;/p&gt;||&lt;p&gt;480&lt;/p&gt;||&lt;p&gt;Medium&lt;/p&gt;
+|-
+| &lt;p&gt;4&lt;/p&gt;||&lt;p&gt;4&lt;/p&gt;||&lt;p&gt;480&lt;/p&gt;||&lt;p&gt;Large&lt;/p&gt;
+|-
+| &lt;p&gt;5&lt;/p&gt;||&lt;p&gt;4&lt;/p&gt;||&lt;p&gt;500&lt;/p&gt;||&lt;p&gt;Large&lt;/p&gt;
+|-
+| &lt;p&gt;6&lt;/p&gt;||&lt;p&gt;4&lt;/p&gt;||&lt;p&gt;500&lt;/p&gt;||&lt;p&gt;Extra Large&lt;/p&gt;
+|-
+| &lt;p&gt;7&lt;/p&gt;||&lt;p&gt;4&lt;/p&gt;||&lt;p&gt;520&lt;/p&gt;||&lt;p&gt;Extra Large&lt;/p&gt;
+|}
+
+
+===Bomb===
+Each level on the Bomb power bar increases how “smart” the bombs are, making them seek targets better, and with each upgrade, the more directions of attack are added.
+
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589675-bomb-bmp.jpg|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589675-bomb-bmp.jpg|align=right|width=72}}
+'''Bomb''' (ASM-4 SRAB): a bomb that drops vertically from the nose of the Silver Hawk
+
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589676-twin-bmp.jpg|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589676-twin-bmp.jpg|align=right|width=72}}
+'''Twin''': bombs are launched both up and down vertically from the Silver Hawk
+
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589678-mult-bmp.jpg|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589678-mult-bmp.jpg|align=right|width=72}}
+'''Multi''': bombs are launched in an X pattern from the Silver Hawk
+
+
+===Arm===
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589679-arm-bmp.jpg|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589679-arm-bmp.jpg|align=right|width=72}}
+'''Arm:''' A green shield that protects the Silver Hawk and will take three hits
+
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589680-supe-bmp.jpg|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589680-supe-bmp.jpg|align=right|width=72}}
+'''Super:''' Silver shield that adds additional protection for more hits
+
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589681-hype-bmp.jpg|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589681-hype-bmp.jpg|align=right|width=72}}
+'''Hyper:''' Golden shield that adds additional protection for more hits, and will protect the Silver Hawk from the terrain
+
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_medium/19/199401/2589682-014.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589682-014.png|align=left|width=120|caption=Missile, Bomb, Arm}}
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_medium/19/199401/2589683-015.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589683-015.png|align=left|width=120|caption=Laser, Twin, Super}}
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_medium/19/199401/2589684-016.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589684-016.png|align=left|width=120|caption=Wave, Multi, Hyper}}
+
+==Zones and Bosses==
+There are 26 unique zones (V and Z are repeated), and five zone themes, with each zone having a specific soundtrack. The themes are the following, with their soundtrack in parentheses: Cavern ([http://www.youtube.com/watch?v=HQnKIpEc-No Captain Neo]), Mountains ([http://www.youtube.com/watch?v=qtkzjctKJrw Cosmic Airway]), Fortress ([http://www.youtube.com/watch?v=MZSXp9qzWfk Inorganic Beat]), Open Space ([http://www.youtube.com/watch?v=NvP5OBoym4Y Chaos]), and Underwater ([http://www.youtube.com/watch?v=ZASkx60ZZoY The Sea]).
+
+At the beginning of each zone, a message with "Zone is over. We are now rushing into *next level*. Be on your guard!" flashes on the screen. This warning would be common to the rest of the Darius games.
+
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_medium/19/199401/2589685-dariusmap.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589685-dariusmap.png|align=right|width=325|caption=Zone progression from the Japanese arcade flier}}
+After defeating each boss, the tunnel splits in two, giving the player the choice of going up or down. This non-linear progression creates a multi-tiered level tree.
+
+Each set of levels in the tree makes a stage, and each stage has a unique boss. Only in Stage 7, are their unique bosses for each zone. For example, because zones D, E, and F are in Stage 3, the boss at the ends of all three zones are the same boss.
+
+
+{| class='wikitable gb-table-natural'
+|-
+! Stages||Zones||Bosses
+|-
+| Stage 1||Zone A||King Fossil
+|-
+| Stage 2||Zone B||Electric Fan
+|-
+| ||Zone C||Electric Fan
+|-
+| Stage 3||Zone D||Dual Shears
+|-
+| ||Zone E||Dual Shears
+|-
+| ||Zone F||Dual Shears
+|-
+| Stage 4||Zone G||Fatty Glutton
+|-
+| ||Zone H||Fatty Glutton
+|-
+| ||Zone I||Fatty Glutton
+|-
+| ||Zone J||Fatty Glutton
+|-
+| Stage 5||Zone K||Keen Bayonet
+|-
+| ||Zone L||Keen Bayonet
+|-
+| ||Zone M||Keen Bayonet
+|-
+| ||Zone N||Keen Bayonet
+|-
+| ||Zone O||Keen Bayonet
+|-
+| Stage 6||Zone P||Iron Hammer
+|-
+| ||Zone Q||Iron Hammer
+|-
+| ||Zone R||Iron Hammer
+|-
+| ||Zone S||Iron Hammer
+|-
+| ||Zone T||Iron Hammer
+|-
+| ||Zone U||Iron Hammer
+|-
+| Stage 7||Zone V||Strong Shell
+|-
+| ||Zone W||Green Coronatus
+|-
+| ||Zone X||Octopus
+|-
+| ||Zone Y||Cuttle Fish
+|-
+| ||Zone Z||Great Thing
+|}
+
+
+==Development and History==
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_medium/19/199401/2589686-darius1arcade.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589686-darius1arcade.png|align=right|width=360}}
+Taito was a well established arcade giant by the 80s, having made classics like [[Games/Space_Invaders|Space Invaders]] and [[Games/QIX_6136|Qix]]. With plenty of room to experiment, Taito produced a glut of games, capitalizing on the popularity of shooters and martial arts games. At the time, [[Games/Gradius|Gradius]]and [[Games/R_Type|R-Type]] were dominating the shooter market and setting the industry standard. Looking to make a shooter that would stand apart from others, Taito created Darius. Besides from the unique marine design, great soundtrack, and replayability, the main draw was the wide screen, 45 inch arcade cabinet.
+
+The cabinet used three horizontal CRT monitors and raster graphics. In order to seamlessly connect the three screens together, two of the monitors, which display the first and last thirds of the game's screen, respectively, are placed in the bottom of the cabinet facing upwards, with their visuals reflected into view via a one-way mirror. The third monitor, which displays the middle portion of the game's screen, is placed behind the mirror and is the only one actually facing the player. The reflection of the two bottom monitors partially overlaps the third monitor, giving the illusion of a seamless wide screen. When looking at the monitor at a high angle, like from a standing position, it is very easy to see the two CRT monitors at the bottom of the cabinet. However, sitting in the chairs attached to the cabinet would render only the wide screen visible. This widescreen technique would be used in [[Games/The_Ninja_Warriors|The Ninja Warriors]] and [[Games/Sagaia|Darius II]], and Konami would use a similar setup in the [[Games/X_Men_1992|X-Men]] arcade game.
+
+
+==Music==
+The Darius cabinet has six speakers that surround the player, and the stereo sound is driven by two Z80's at 4MHz, which powers two YM-2203 chips (also at 4MHz) and a MSM5205 ADPCM chip.
+
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589690-zuntata%2B90s.jpg|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589690-zuntata%2B90s.jpg|align=left|width=320|caption=Original members of Zuntata at Game Music Festival Super Live '92}}
+Taito was able to put the sound system to good use by having the in-house music division Zuntata create the soundtrack of the game. [[People/Hisayoshi_Ogura|Hisayoshi Ogura]], the founding member of Zuntata, is the sole composer credit in the game. Ogura uses keywords to help conceptualize his music, letting the theme of the music guide the production. In the case of Darius, Ogura composed the music with the idea of "a large existence" in mind, hoping to reflect the scale of the bosses and zones. The game's main theme, titled "Chaos", is notable for being one of the earliest examples of avant-garde in video game music. Ogura, in an interview for Square Enix Music Online, described the composition process for Chaos:
+
+&lt;blockquote data-size="small" data-align="center"&gt;"CHAOS" was completed very quickly, and for its time it was extremely avant-garde music. I assigned this piece the role of Darius's main theme. I'll have them hear something no one's ever heard in a game before! With these kinds of thoughts in mind, I composed a piece with the expressive scale of the beginning of the universe. Actually, while I was composing it, the piece was entitled "Big Bang."
+
+&lt;/blockquote&gt;The sound system of Darius gained a reputation for being incredibly powerful, and at certain stages would cause the entire cabinet and player to vibrate. According to Ogura, this happened because the two YM-2203 sound chips would play out of sync from each other. Because each chip could only produce three sounds at one time, both needed to be played at the same time. The audio engineers at Taito had difficulty fixing the time lag because the sequencer inconveniently used a hexadecimal number system. Due to this lag and additional difficulty volume balancing, Darius had a lot of what Ogura describes as “Body Sonic.”
+
+The musical score saw its first commercial release on CD, vinyl and cassette tape on June 25, 1987 by Alfa Records through their video game music-centric imprint G.M.O. Records.
+
+
+==Ports==
+Because of the widescreen cabinet, direct ports of the arcade game were impossible. The graphics needed to be scaled down, and zones edited to accommodate for smaller screens. All of the ports, except Darius+ would come out after [[Games/Sagaia|Darius II]] had been released, so most ports feature bosses and sprites from Darius II.
+
+
+===Darius+===
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589695-darius_.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589695-darius_.png|align=right|width=250}}
+[[Games/Darius_Plus|Darius+]] was a full conversion of Darius in 1989 for the [[Platforms/Atari_ST|Atari ST]], the [[Platforms/Amiga|Amiga]], and the[[Platforms/ZX_Spectrum|ZX Spectrum]], and was developed by Softekand published by [[Companies/The_Edge|The Edge]]. While still a side-scrolling shooter, the game featured none of the weapon systems from Darius and only had five bosses. The game would be praised for the large colorful graphics, and for the competent shooting action.
+
+
+===Super Darius===
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589693-superdariuscover.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589693-superdariuscover.png|align=right|width=320}}
+[[Games/Super_Darius|Super Darius]] (スーパーダライアス Sūpā Daraiasu) was released in Japan on March 16, 1990 for the [[Platforms/TurboGrafx_CD|PC Engine Duo]], and was developed by [[Companies/Bits_Laboratory|Bits Laboratory]] and published by [[Companies/NEC_Avenue_Ltd|NEC Avenue]]. It is mostly the same as Darius, but is designed for one screen and has original bosses and bosses from Darius II. Super Darius also shares the same soundtrack and sound effects from Darius. Because of the extra bosses, each zone has its own unique boss. The game would be criticized for disappointing graphics and frame-rate issues, but lauded for tight gameplay and being a well executed shooter.
+
+
+===Darius Plus===
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589692-dariusplus.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589692-dariusplus.png|align=right|width=300}}
+Darius Plus (ダライアス・プラス Daraiasu Purasu) was released in Japan on September 21, 1990 for the PC Engine, and was developed by Bits Laboratory and published by NEC Avenue. Darius Plus is essentially Super Darius, but with less bosses. The game was released on the PC Engine HuCard, and was in fact designed for the [[Platforms/SuperGrafx|PC Engine SuperGrafx]]. While many reviewers praised the graphics and gameplay, they questioned why one would choose Darius Plus over Super Darius.
+
+
+===Darius Alpha===
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589696-3511743981-Dariu.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589696-3511743981-Dariu.png|align=right|width=297}}
+[[Games/Darius_Alpha|Darius Alpha]] (Darius α, ダライアス・アルファ, Daraiasu Arufa) was released in Japan in 1990 for the PC Engine, and was developed by Bits Laboratory and published by NEC Avenue. Darius Alpha is a boss rush version of Darius Plus, with the Silver Hawk being automatically upgraded at the end of each boss. Darius Alpha is also notable for being one of the rarest PC Engine games ever made, with only 800 copies produced.
+
+
+===Sagaia===
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589697-sagaia.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589697-sagaia.png|align=right|width=320}}
+Sagaia (サーガイア, Sāgaia) was released in Japan for the [[Platforms/Game_Boy|Gameboy]]on December 13, 1991 and was developed and published by Taito. Sagaia for the Gameboy is not to be confused with the international release of Darius II, which was also called Sagaia. The game is a scaled down version of Darius, with only 8 zones and a linear progression of levels. However, the zones have been redesigned, and features two unique bosses: Big Merman and Ancient Helm. It mixes features from both Darius and Darius II, including the ability to set the number of lives and auto-fire options.
+
+
+===Darius R===
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/19/199401/2589698-dariusr.png|full=https://www.giantbomb.com/a/uploads/original/19/199401/2589698-dariusr.png|align=right|width=255}}
+Darius R (R standing for Revival) was released in Japan for the [[Platforms/Game_Boy_Advance|Gameboy Advance]]on December 13, 2002 and was developed by Ride On and published by Pacific Century Cyber Works. It is a very close port of Darius with almost identical graphics, but with only 15 zones. The soundtrack is a mix of music from all of the Darius games, and the number of power-ups needed to upgrade the equipment is decreased. The game has a option to revisit zones that were completed in earlier runs.
+
+
+==Arcade Specifications==
+CPU: 2x Motorola 68000 @ 8 MHz
+
+Resolution: 864x224 (three 288x224 monitors)
+
+Sound CPU: 2x Zilog Z80 @ 4 MHz
+
+Sound Hardware: 2x Yamaha YM2203, Oki MSM5205
+
+
+==Additional Information==
+* Darius is pronounced "Da - rai - us"
+* Proco and Tiat backward forms taitocorp, or Taito Corp
+* The red orbs in wireframe cubes mines from the boss fights would reappear in [[Games/Darius_Twin|Darius Twin]] as power-ups.
+* The original Japanese flier suggests that bosses Guard Savage, Big Rajarnn, Hyper Sting, and Mystic Power were in Darius. All of these bosses would instead be in Super Darius
+* A fan-made port of Darius to the [[Platforms/Sharp_X68000|X68000]]was released in Japan. It only contains zone one and a boss battle with King Fossil. It can be downloaded [http://homepage2.nifty.com/fluidmechanics/x68.htm here].
+* An additional version of Darius, called Darius Extra, was released in Japan in 1986. The major changes was the introduction of a point limit for the bosses, in order to prevent point milking.
+* The dip-switch settings allowed for increased autofire speed, increased difficulty settings, and increased number of lives.
+* Although the title screen states “Taito Corporation 1986”, the cabinet was only released in 1987.
+* The iOS, Xbox 360, and PlayStation 3 game [[Games/Space_Invaders_Infinity_Gene|Space Invaders Infinity Gene]], also by Taito, includes an upgrade option to the same craft used in Darius, and has some of the same enemies.
+* The first stage's theme, called "Captain Neo", is a reworked version of a song from an earlier arcade game by Taito, Metal Soldier Isaac II. When a prototype of Darius was exhibited at a trade show, the song was used as a temporary placeholder. However, upon hearing the song at the trade show, Ogura liked it and decided to keep it. "I was surprised by its overwhelming power," said Ogura, "so much that I could feel it in my bones."
+* A Commodore 64 version of Darius+ was planned and developed by The Edge, but was never released. Part of the source code is available at [http://www.gamesthatwerent.com/gtw64/darius GTW64].
+* Super Darius and Darius Plus are the only PC Engine games that are also compatible with the PC Engine SuperGrafx. In fact, playing both games on the SuperGrafx improves the frame-rate.
+* [[Companies/Pony_Canyon_Inc|Pony Canyon]] / Scitron released a limited-edition soundtrack album for this game (Darius - PCCB-00093) on 21/08/1992.
+* Zuntata Records released a limited-edition soundtrack album for this game (Zuntata History L'ab-normal 1st - ZTTL-0038) on 01/04/1999.
+* Sinclair ZX Spectrum version of Darius+ can be found at the [http://www.worldofspectrum.org/infoseekid.cgi?id=0001254 World of Spectrum]
+* [[Games/Rainbow_Islands|Rainbow Islands]] has a secret Darius level with a cutesy rendition of the soundtrack
+* A previously cancelled port of Darius to the Sega Genesis was released as part of the Sega Genesis Mini in 2019</text>
+      <sha1>d44xh6qbzpvtbtrsowdns0nxb94mjg0</sha1>
+    </revision>
+  </page>
+</mediawiki>

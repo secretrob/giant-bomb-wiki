@@ -1,0 +1,3083 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Games/Morpheus 17368/Credits</title>
+    <ns>0</ns>
+    <id>464865</id>
+    <revision>
+      <id>746465</id>
+      <timestamp>2026-03-04T21:48:24Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>746465</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="192" sha1="5fon908uge37weav48xvo3t32sfblud" xml:space="preserve">{{Credits
+|ParentPage=Games/Morpheus_17368
+}}
+{{CreditSubobject
+|Game=Games/Morpheus_17368
+|Release=
+|Dlc=
+|Person=People/Paul_Grace
+|Company=
+|Department=Thanks
+|Role=PC-Windows thanks to
+}}
+</text>
+      <sha1>5fon908uge37weav48xvo3t32sfblud</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Mortal Kombat 1/Credits</title>
+    <ns>0</ns>
+    <id>250274</id>
+    <revision>
+      <id>751855</id>
+      <parentid>250719</parentid>
+      <timestamp>2026-03-04T23:05:13Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250719</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6078" sha1="dld3ehaqu74uouex8oeatrdgnpreae8" xml:space="preserve">{{Credits
+|ParentPage=Games/Mortal_Kombat_1
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Kelly_Hu
+|Company=
+|Department=Voice Actor
+|Role=Li Mei, Madam Bo
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Steve_Blum
+|Company=
+|Department=Voice Actor
+|Role=Baraka, Markon
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Cherise_Boothe
+|Company=
+|Department=Voice Actor
+|Role=Tanya
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Andrew_Bowen
+|Company=
+|Department=Voice Actor
+|Role=Johnny Cage
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Jean_Claude_Van_Damme
+|Company=
+|Department=Voice Actor
+|Role=Johnny Cage
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Vic_Chao
+|Company=
+|Department=Voice Actor
+|Role=Kenshi Takahashi, Goro
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Noshir_Dalal
+|Company=
+|Department=Voice Actor
+|Role=Rain
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Alan_Lee
+|Company=
+|Department=Voice Actor
+|Role=Shang Tsung
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Yuri_Lowenthal
+|Company=
+|Department=Voice Actor
+|Role=Smoke, Adam
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Sunil_Malhotra
+|Company=
+|Department=Voice Actor
+|Role=Kung Lao
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/J_K_Simmons
+|Company=
+|Department=Voice Actor
+|Role=Omni-Man
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Ed_Boon
+|Company=
+|Department=Production
+|Role=Chief Creative Officer
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Vincent_Rodriguez_III
+|Company=
+|Department=Voice Actor
+|Role=Kung Lao
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Kaiji_Tang
+|Company=
+|Department=Voice Actor
+|Role=Sub-Zero/Noob Saibot
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Daisuke_Tsuji
+|Company=
+|Department=Voice Actor
+|Role=Scorpion
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Kari_Wahlgren
+|Company=
+|Department=Voice Actor
+|Role=Kitana, Mileena
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Matthew_Yang_King
+|Company=
+|Department=Voice Actor
+|Role=Liu Kang
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Ron_Yuan
+|Company=
+|Department=Voice Actor
+|Role=Scorpion
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Tyler_Lansdown
+|Company=
+|Department=Production
+|Role=Community Manager
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Jacob_Craner
+|Company=
+|Department=Voice Actor
+|Role=Havik, Katara Vala
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Susan_Eisenberg
+|Company=
+|Department=Voice Actor
+|Role=Ashrah
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Andrew_Morgado
+|Company=
+|Department=Voice Actor
+|Role=Reptile
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Jamieson_Price
+|Company=
+|Department=Voice Actor
+|Role=Ermac
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Stephanie_Brownback
+|Company=
+|Department=Quality Assurance
+|Role=Lead QA Analyst
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Mara_Junot
+|Company=
+|Department=Voice Actor
+|Role=Sindel, Sareena, Cris
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Ike_Amadi
+|Company=
+|Department=Voice Actor
+|Role=General Shao
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Megan_Fox
+|Company=
+|Department=Voice Actor
+|Role=Nitara
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/John_Cena
+|Company=
+|Department=Voice Actor
+|Role=Peacemaker
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Jennifer_Hale
+|Company=
+|Department=Voice Actor
+|Role=Damashi/"Kronika"
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Courtenay_Taylor
+|Company=
+|Department=Voice Actor
+|Role=Janet Cage, Kalima
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Chris_Cox
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Jake_Green
+|Company=
+|Department=Voice Actor
+|Role=Homelander
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Mary_Elizabeth_McGlynn
+|Company=
+|Department=Voice Actor
+|Role=Harumi Shirai
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Travis_Willingham
+|Company=
+|Department=Voice Actor
+|Role=God Raiden
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Enuka_Okuma
+|Company=
+|Department=Voice Actor
+|Role=Cyrax (II)
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Erika_Ishii
+|Company=
+|Department=Voice Actor
+|Role=Sektor (II)
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Sean_Krishan
+|Company=
+|Department=Voice Actor
+|Role=Quan Chi
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Robert_Patrick
+|Company=
+|Department=Voice Actor
+|Role=T-1000 (also face model)
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Arnold_Schwarzenegger
+|Company=
+|Department=Unclassified
+|Role=Conan (face model)
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Roger_L_Jackson
+|Company=
+|Department=Voice Actor
+|Role=Ghostface
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_1
+|Release=
+|Dlc=
+|Person=People/Cristina_Vee
+|Company=
+|Department=Voice Actor
+|Role=Nitara (fight walla)
+}}
+</text>
+      <sha1>dld3ehaqu74uouex8oeatrdgnpreae8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Mortal Kombat Legacy Kollection/Credits</title>
+    <ns>0</ns>
+    <id>255104</id>
+    <revision>
+      <id>751950</id>
+      <parentid>255557</parentid>
+      <timestamp>2026-03-04T23:06:45Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>255557</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4762" sha1="5n5rodefoqzp7t4howd3k3nilautut0" xml:space="preserve">{{Credits
+|ParentPage=Games/Mortal_Kombat_Legacy_Kollection
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Ed_Boon
+|Company=
+|Department=Design
+|Role=Co-director/producer, voice of Scorpion/Smoke/Liu Kang/Jax
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/John_Tobias
+|Company=
+|Department=Design
+|Role=Co-director/producer, voice of Sub-Zero (MK4)
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Jon_Hey
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Richard_Divizio
+|Company=
+|Department=Unclassified
+|Role=Kano/Baraka
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Carlos_Pesina
+|Company=
+|Department=Unclassified
+|Role=Raiden
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Daniel_Pesina
+|Company=
+|Department=Unclassified
+|Role=Johnny Cage/Sub-Zero I/Sub-Zero II/Scorpion/Smoke/Noob Saibot (MK1/2)
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Ho_Sung_Pak
+|Company=
+|Department=Unclassified
+|Role=Liu Kang (MK1/2), Shang Tsung (MK1)
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Elizabeth_Malecki
+|Company=
+|Department=Unclassified
+|Role=Sonya (MK1)
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Kerri_Hoskins
+|Company=
+|Department=Unclassified
+|Role=Sonya (MK3)
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Dan_Forden
+|Company=
+|Department=Audio
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/John_Vogel
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Katalin_Zamiar
+|Company=
+|Department=Unclassified
+|Role=Kitana/Mileena/Jade (MK2)
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Brian_Glynn
+|Company=
+|Department=Unclassified
+|Role=Shao Kahn
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Steve_Ritchie
+|Company=
+|Department=Voice Actor
+|Role=Shao Kahn
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Dr_Phillip_Ahn
+|Company=
+|Department=Unclassified
+|Role=Shang Tsung (MK2)
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/C_Anthony_Marquez
+|Company=
+|Department=Unclassified
+|Role=Kung Lao
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Sal_DiVita
+|Company=
+|Department=Unclassified
+|Role=Nightwolf/Sektor/Cyrax/Cyber-Smoke
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Fergus_McGovern
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Vincent_Pontarelli
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Josh_Tsui
+|Company=
+|Department=Unclassified
+|Role=Sub-Zero (unmasked, MK2)
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Steve_Beran
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Michael_OBrien
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Becky_Gable
+|Company=
+|Department=Unclassified
+|Role=Kitana/Mileena/Jade (UMK3)
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Lia_Montelongo
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Ann_Mazza
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Peg_Burr
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/John_Turk
+|Company=
+|Department=Unclassified
+|Role=Shang Tsung/Sub-Zero I/Sub-Zero II/Scorpion/Human Smoke/Ermac/Rain/Noob Saibot/Chameleon (MK3/UMK3)
+}}
+{{CreditSubobject
+|Game=Games/Mortal_Kombat_Legacy_Kollection
+|Release=
+|Dlc=
+|Person=People/Dan_Amrich
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>5n5rodefoqzp7t4howd3k3nilautut0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Moss: The Forgotten Relic</title>
+    <ns>0</ns>
+    <id>624507</id>
+    <revision>
+      <id>973812</id>
+      <timestamp>2026-05-14T23:05:04Z</timestamp>
+      <contributor>
+        <username>Mopopolis</username>
+        <id>237</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=0b9de494-828a-4e49-9019-2a4753f4eb31 |Name=Moss: The Forgotten Relic |Image=Moss The Forgotten Relic game cover.jpg |Deck=A reimagined release of Moss and Moss 2, now playable as a single experience without the requirement of a VR headset |ReleaseDateType=Quarter |QuarterPart=Q3 |QuarterYearPart=2026 |Characters=Characters/Quill 55434 |Developers=Companies/Polyarc Games |Franchises=Franchises/Moss |Genres=Genres/Adventure, Genres/Puzzle, Genres/Platformer |P..."</comment>
+      <origin>973812</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="643" sha1="j7dgqhv4z5bc3t3aaujpaphfv2sm092" xml:space="preserve">{{Game
+|Guid=0b9de494-828a-4e49-9019-2a4753f4eb31
+|Name=Moss: The Forgotten Relic
+|Image=Moss The Forgotten Relic game cover.jpg
+|Deck=A reimagined release of Moss and Moss 2, now playable as a single experience without the requirement of a VR headset
+|ReleaseDateType=Quarter
+|QuarterPart=Q3
+|QuarterYearPart=2026
+|Characters=Characters/Quill 55434
+|Developers=Companies/Polyarc Games
+|Franchises=Franchises/Moss
+|Genres=Genres/Adventure, Genres/Puzzle, Genres/Platformer
+|Platforms=Platforms/PC, Platforms/PlayStation 5, Platforms/Xbox Series X S, Platforms/Nintendo Switch, Platforms/Nintendo Switch 2
+|Publishers=Companies/Polyarc Games
+}}</text>
+      <sha1>j7dgqhv4z5bc3t3aaujpaphfv2sm092</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Motorhead 4226/Credits</title>
+    <ns>0</ns>
+    <id>464704</id>
+    <revision>
+      <id>743749</id>
+      <timestamp>2026-03-04T21:04:53Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>743749</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="747" sha1="nsnab0zpb6mh2gbw5abbjadp7t6yr75" xml:space="preserve">{{Credits
+|ParentPage=Games/Motorhead_4226
+}}
+{{CreditSubobject
+|Game=Games/Motorhead_4226
+|Release=
+|Dlc=
+|Person=People/Ben_Daglish
+|Company=
+|Department=Audio
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Motorhead_4226
+|Release=
+|Dlc=
+|Person=People/Jason_Wilson
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Motorhead_4226
+|Release=
+|Dlc=
+|Person=People/Michael_Merren
+|Company=
+|Department=Production
+|Role=Producer
+}}
+{{CreditSubobject
+|Game=Games/Motorhead_4226
+|Release=
+|Dlc=
+|Person=People/Vicky_Reilly
+|Company=
+|Department=Business
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Motorhead_4226
+|Release=
+|Dlc=
+|Person=People/Andy_Green
+|Company=
+|Department=Production
+|Role=Amiga directed by / Atari ST directed by
+}}
+</text>
+      <sha1>nsnab0zpb6mh2gbw5abbjadp7t6yr75</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Mouse P I for Hire/Credits</title>
+    <ns>0</ns>
+    <id>251588</id>
+    <revision>
+      <id>252036</id>
+      <timestamp>2025-12-08T07:32:14Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>252036</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="186" sha1="5ugx2f4x0a4m5j4i7rek0pppf9m06ma" xml:space="preserve">{{Credits
+|ParentPage=Games/Mouse_P_I_for_Hire
+}}
+{{CreditSubobject
+|Game=Games/Mouse_P_I_for_Hire
+|Release=
+|Dlc=
+|Person=People/Troy_Baker
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>5ugx2f4x0a4m5j4i7rek0pppf9m06ma</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Mouser 1983/Credits</title>
+    <ns>0</ns>
+    <id>252072</id>
+    <revision>
+      <id>252521</id>
+      <timestamp>2025-12-08T07:32:15Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>252521</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="179" sha1="pro0t51fsbwokihqjq6am3gcbt0se4g" xml:space="preserve">{{Credits
+|ParentPage=Games/Mouser_1983
+}}
+{{CreditSubobject
+|Game=Games/Mouser_1983
+|Release=
+|Dlc=
+|Person=People/Ryuichi_Nishizawa
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>pro0t51fsbwokihqjq6am3gcbt0se4g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Mr. Magpie's Harmless Card Game</title>
+    <ns>0</ns>
+    <id>624791</id>
+    <revision>
+      <id>974820</id>
+      <parentid>974818</parentid>
+      <timestamp>2026-06-09T00:24:07Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974820</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="528" sha1="gixp6dzg6q3p2cflt0v8u8zltku546g" xml:space="preserve">{{Game
+|Guid=c9e1216a-de6e-4ec2-a4f1-23196028adbf
+|Name=Mr. Magpie's Harmless Card Game
+|Image=https://giantbomb.com/api/media/file/media--file--uytiyuadf-06-09-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--dqwc-06-09-2026.jpg
+|Deck=A horror-themed deckbuilder.
+|ReleaseDateType=None
+|Concepts=Concepts/Digital Distribution, Concepts/Steam
+|Developers=Companies/Giant Light Studios
+|Genres=Genres/Strategy
+|Platforms=Platforms/PC
+|Publishers=Companies/Behaviour Interactive
+|Themes=Themes/Horror
+}}</text>
+      <sha1>gixp6dzg6q3p2cflt0v8u8zltku546g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Mr Love Queens Choice 74591</title>
+    <ns>0</ns>
+    <id>465020</id>
+    <revision>
+      <id>796977</id>
+      <parentid>796933</parentid>
+      <timestamp>2026-03-12T06:54:51Z</timestamp>
+      <contributor>
+        <username>Frobie</username>
+        <id>300</id>
+      </contributor>
+      <comment>fix image</comment>
+      <origin>796977</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="516" sha1="n3w9dhlny2f99oh8vnfojuwyjf5v465" xml:space="preserve">{{Game
+|Guid=3030-74591
+|Name=Mr. Love Queen's Choice
+|Image=https://www.giantbomb.com/a/uploads/original/42/426809/3119264-3726517470-59848.png
+|Deck=.
+|ReleaseDateType=None
+}}
+&lt;div id='imageData' data-json='{"infobox":{"file":"3119264-3726517470-59848.png","path":"42\/426809\/","mime":"image\/png","sizes":"scale_medium,square_medium,scale_small,scale_tiny,scale_super,square_small,square_avatar,scale_large,square_mini,screen_medium,scale_avatar,square_tiny,screen_kubrick","caption":null},"background":[]}' /&gt;
+.</text>
+      <sha1>n3w9dhlny2f99oh8vnfojuwyjf5v465</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Mr Wongs Loopy Laundry/Credits</title>
+    <ns>0</ns>
+    <id>250113</id>
+    <revision>
+      <id>250558</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250558</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="250" sha1="aeya723g5h3nu6vcbksaqdptwz96ldk" xml:space="preserve">{{Credits
+|ParentPage=Games/Mr_Wongs_Loopy_Laundry
+}}
+{{CreditSubobject
+|Game=Games/Mr_Wongs_Loopy_Laundry
+|Release=
+|Dlc=
+|Person=People/John_Prince
+|Company=
+|Department=Programming
+|Role=Amstrad CPC game by / ZX Spectrum game by (as J. Prince)
+}}
+</text>
+      <sha1>aeya723g5h3nu6vcbksaqdptwz96ldk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Mullet Mad Jack/Credits</title>
+    <ns>0</ns>
+    <id>250551</id>
+    <revision>
+      <id>250996</id>
+      <timestamp>2025-12-08T07:32:12Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250996</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="65j80r0d568g4702nrcoz6wkq1dhrgo" xml:space="preserve">{{Credits
+|ParentPage=Games/Mullet_Mad_Jack
+}}
+{{CreditSubobject
+|Game=Games/Mullet_Mad_Jack
+|Release=
+|Dlc=
+|Person=People/Gianni_Matragrano
+|Company=
+|Department=Voice Actor
+|Role=Mr. Bullet, Mr. Cortex, Robillionaire Decoy
+}}
+</text>
+      <sha1>65j80r0d568g4702nrcoz6wkq1dhrgo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Multiverse/Credits</title>
+    <ns>0</ns>
+    <id>251722</id>
+    <revision>
+      <id>252170</id>
+      <timestamp>2025-12-08T07:32:14Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>252170</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="174" sha1="66c80emrmr0f803uzih99dr7npsed5u" xml:space="preserve">{{Credits
+|ParentPage=Games/Multiverse
+}}
+{{CreditSubobject
+|Game=Games/Multiverse
+|Release=
+|Dlc=
+|Person=People/Antoni_Burguera
+|Company=
+|Department=Programming
+|Role=
+}}
+</text>
+      <sha1>66c80emrmr0f803uzih99dr7npsed5u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Muramasa: Revenant Blades</title>
+    <ns>0</ns>
+    <id>625029</id>
+    <revision>
+      <id>974989</id>
+      <parentid>974878</parentid>
+      <timestamp>2026-06-12T01:15:15Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974989</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="761" sha1="3wf22xvfubf61aqlmq3wefie7p3aw9q" xml:space="preserve">{{Game
+|Guid=578071f1-7510-4600-93b2-1664c8f45f3b
+|Name=Muramasa: Revenant Blades
+|Image=https://giantbomb.com/api/media/file/media--file--abfsasefase-06-09-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--rtehbrthet-06-09-2026.jpg
+|Deck=An action RPG from Vanillaware featuring six protagonists each with their own combat style.
+|ReleaseDateType=Year
+|YearPart=2027
+|Concepts=Concepts/Digital Distribution, Concepts/Multiple Protagonists, Concepts/Steam
+|Developers=Companies/Vanillaware Ltd
+|Genres=Genres/Action, Genres/Role Playing
+|Platforms=Platforms/Nintendo Switch 2, Platforms/PC, Platforms/Nintendo Switch, Platforms/PlayStation 5
+|Publishers=Companies/XSEED Games, Companies/Marvelous, Companies/Marvelous Europe Limited
+}}</text>
+      <sha1>3wf22xvfubf61aqlmq3wefie7p3aw9q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Murder 4925/Credits</title>
+    <ns>0</ns>
+    <id>464716</id>
+    <revision>
+      <id>743879</id>
+      <timestamp>2026-03-04T21:06:35Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>743879</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="176" sha1="3p16oyjjng2sys3liv92icd6u6cu3jk" xml:space="preserve">{{Credits
+|ParentPage=Games/Murder_4925
+}}
+{{CreditSubobject
+|Game=Games/Murder_4925
+|Release=
+|Dlc=
+|Person=People/Grant_Harrison
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>3p16oyjjng2sys3liv92icd6u6cu3jk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Muri: Wildwoods</title>
+    <ns>0</ns>
+    <id>624888</id>
+    <revision>
+      <id>975216</id>
+      <parentid>974625</parentid>
+      <timestamp>2026-06-26T22:39:59Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975216</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="667" sha1="oedahoth4qvaayhce03i6enut14kt2t" xml:space="preserve">{{Game
+|Guid=7986fb74-3436-4647-bf9a-157f689b325f
+|Name=Muri: Wildwoods
+|Image=https://giantbomb.com/api/media/file/media--file--muri--wildwoods-06-26-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--muri--wildwoodsb-06-26-2026.jpg
+|Deck=Restore vibrancy to the world in this action platformer.
+|ReleaseDateType=None
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Polygonal 3D, Concepts/Female Protagonists, Concepts/Jump, Concepts/Steam Cloud
+|Developers=Companies/Speldosa Interactive
+|Genres=Genres/Platformer
+|Platforms=Platforms/PC
+|Publishers=Companies/Speldosa Interactive
+|Themes=Themes/Fantasy
+}}</text>
+      <sha1>oedahoth4qvaayhce03i6enut14kt2t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Mute Crimson 36341</title>
+    <ns>0</ns>
+    <id>464958</id>
+    <revision>
+      <id>796896</id>
+      <parentid>749534</parentid>
+      <timestamp>2026-03-12T06:28:31Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796896</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1115" sha1="2itcle59r3etuqmwgr2otpakezsi8jp" xml:space="preserve">{{Game
+| Name=Mute Crimson
+| Guid=3030-36341
+| Deck=Simple, but brutal XBLIG Ninja platformer.
+| ReleaseDate=2011-03-15
+| Characters=
+| Concepts=Concepts/2D,Concepts/Advancing_Wall_of_Doom,Concepts/Blood,Concepts/Blood_Splatter,Concepts/Boss_Fight,Concepts/Collectible,Concepts/Death,Concepts/Double_Jump,Concepts/Jump,Concepts/Masocore,Concepts/Moving_Platform,Concepts/Ninja,Concepts/Wall_Jump,Concepts/Xbox_Live_Indie_Games
+| Developers=
+| Franchises=
+| Genres=Genres/Platformer
+| Locations=
+| Objects=
+| Platforms=Platforms/Xbox_360_Games_Store
+| Publishers=
+| Games=Games/Ninja_Gaiden_1992,Games/The_Tempura_of_the_Dead
+| Themes=Themes/Martial_Arts
+| Image=https://www.giantbomb.com/a/uploads/scale_super/9/90792/1882105-xboxboxart.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"1882105-xboxboxart.jpg","path":"9\/90792\/","mime":"image\/jpeg","sizes":"square_avatar,scale_small,scale_avatar,scale_medium,screen_medium,scale_large,square_mini,square_small,square_tiny,square_medium,scale_super,scale_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+Simple, but brutal XBLIG Ninja platformer.</text>
+      <sha1>2itcle59r3etuqmwgr2otpakezsi8jp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/My Cannibal Family</title>
+    <ns>0</ns>
+    <id>624937</id>
+    <revision>
+      <id>974674</id>
+      <timestamp>2026-06-08T00:56:39Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=c68998be-657c-45bb-81a7-984850a57a95 |Name=My Cannibal Family |ReleaseDateType=None }}"</comment>
+      <origin>974674</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="99" sha1="7cmq4vvq75go6msbugb4inkku7jqbsj" xml:space="preserve">{{Game
+|Guid=c68998be-657c-45bb-81a7-984850a57a95
+|Name=My Cannibal Family
+|ReleaseDateType=None
+}}</text>
+      <sha1>7cmq4vvq75go6msbugb4inkku7jqbsj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/My Little Pony A Zephyr Heights Mystery/Credits</title>
+    <ns>0</ns>
+    <id>253675</id>
+    <revision>
+      <id>254126</id>
+      <timestamp>2025-12-08T07:32:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254126</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2629" sha1="4x5436ydvwff6lsqdwt2448r5ptsiyf" xml:space="preserve">{{Credits
+|ParentPage=Games/My_Little_Pony_A_Zephyr_Heights_Mystery
+}}
+{{CreditSubobject
+|Game=Games/My_Little_Pony_A_Zephyr_Heights_Mystery
+|Release=
+|Dlc=
+|Person=People/Jenna_Warren
+|Company=
+|Department=Voice Actor
+|Role=Sunny Starscout
+}}
+{{CreditSubobject
+|Game=Games/My_Little_Pony_A_Zephyr_Heights_Mystery
+|Release=
+|Dlc=
+|Person=People/JJ_Gerber
+|Company=
+|Department=Voice Actor
+|Role=Hitch Trailblazer
+}}
+{{CreditSubobject
+|Game=Games/My_Little_Pony_A_Zephyr_Heights_Mystery
+|Release=
+|Dlc=
+|Person=People/Ana_Sani
+|Company=
+|Department=Voice Actor
+|Role=Izzy Moonbow
+}}
+{{CreditSubobject
+|Game=Games/My_Little_Pony_A_Zephyr_Heights_Mystery
+|Release=
+|Dlc=
+|Person=People/AJ_Bridel
+|Company=
+|Department=Voice Actor
+|Role=Pipp Petals
+}}
+{{CreditSubobject
+|Game=Games/My_Little_Pony_A_Zephyr_Heights_Mystery
+|Release=
+|Dlc=
+|Person=People/Anna_Maria_Maleshev
+|Company=
+|Department=Voice Actor
+|Role=Zipp Storm
+}}
+{{CreditSubobject
+|Game=Games/My_Little_Pony_A_Zephyr_Heights_Mystery
+|Release=
+|Dlc=
+|Person=People/Bahia_Watson
+|Company=
+|Department=Voice Actor
+|Role=Misty Fly
+}}
+{{CreditSubobject
+|Game=Games/My_Little_Pony_A_Zephyr_Heights_Mystery
+|Release=
+|Dlc=
+|Person=People/Amanda_Martinez
+|Company=
+|Department=Voice Actor
+|Role=Queen Haven
+}}
+{{CreditSubobject
+|Game=Games/My_Little_Pony_A_Zephyr_Heights_Mystery
+|Release=
+|Dlc=
+|Person=People/Tallula_Dinsmore
+|Company=
+|Department=Voice Actor
+|Role=Female NPC 1
+}}
+{{CreditSubobject
+|Game=Games/My_Little_Pony_A_Zephyr_Heights_Mystery
+|Release=
+|Dlc=
+|Person=People/Alexandra_Petrachuk
+|Company=
+|Department=Voice Actor
+|Role=Female NPC 2
+}}
+{{CreditSubobject
+|Game=Games/My_Little_Pony_A_Zephyr_Heights_Mystery
+|Release=
+|Dlc=
+|Person=People/Charlotte_Rogers
+|Company=
+|Department=Voice Actor
+|Role=Female NPC 3
+}}
+{{CreditSubobject
+|Game=Games/My_Little_Pony_A_Zephyr_Heights_Mystery
+|Release=
+|Dlc=
+|Person=People/Alexandre_Nachi
+|Company=
+|Department=Voice Actor
+|Role=Male NPC 1
+}}
+{{CreditSubobject
+|Game=Games/My_Little_Pony_A_Zephyr_Heights_Mystery
+|Release=
+|Dlc=
+|Person=People/Kenny_Wong
+|Company=
+|Department=Voice Actor
+|Role=Male NPC 5
+}}
+{{CreditSubobject
+|Game=Games/My_Little_Pony_A_Zephyr_Heights_Mystery
+|Release=
+|Dlc=
+|Person=People/Jonah_Carson
+|Company=
+|Department=Voice Actor
+|Role=Male NPC 2
+}}
+{{CreditSubobject
+|Game=Games/My_Little_Pony_A_Zephyr_Heights_Mystery
+|Release=
+|Dlc=
+|Person=People/Noah_Ruscica
+|Company=
+|Department=Voice Actor
+|Role=Male NPC 3
+}}
+{{CreditSubobject
+|Game=Games/My_Little_Pony_A_Zephyr_Heights_Mystery
+|Release=
+|Dlc=
+|Person=People/Chris_Cavener
+|Company=
+|Department=Voice Actor
+|Role=Male NPC 4
+}}
+</text>
+      <sha1>4x5436ydvwff6lsqdwt2448r5ptsiyf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/My Otter Friends</title>
+    <ns>0</ns>
+    <id>624623</id>
+    <revision>
+      <id>974149</id>
+      <parentid>974147</parentid>
+      <timestamp>2026-06-02T10:58:33Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974149</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="412" sha1="4f03m41cdr78qbi334d318r7ynm5q06" xml:space="preserve">{{Game
+|Guid=32588d4b-fad0-4ebc-9d7c-56b7670d65aa
+|Name=My Otter Friends
+|Image=Coc5dx.jpg
+|Deck=Take on the role of an otter trying to clean up their island after a massive flood.
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/Steam, Concepts/Polygonal 3D, Concepts/Otters
+|Developers=Companies/Polygoat
+|Genres=Genres/Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/Polygoat
+}}</text>
+      <sha1>4f03m41cdr78qbi334d318r7ynm5q06</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Mystery Masterpiece The Moonstone/Credits</title>
+    <ns>0</ns>
+    <id>250190</id>
+    <revision>
+      <id>250635</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250635</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="244" sha1="lkylphxijuj7ctndvqg9u2ri0ynwxi7" xml:space="preserve">{{Credits
+|ParentPage=Games/Mystery_Masterpiece_The_Moonstone
+}}
+{{CreditSubobject
+|Game=Games/Mystery_Masterpiece_The_Moonstone
+|Release=
+|Dlc=
+|Person=People/John_Bell_118447
+|Company=
+|Department=Voice Actor
+|Role=PC Windows voice talent
+}}
+</text>
+      <sha1>lkylphxijuj7ctndvqg9u2ri0ynwxi7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Mystery of Shark Island/Credits</title>
+    <ns>0</ns>
+    <id>249961</id>
+    <revision>
+      <id>250399</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250399</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="238" sha1="fy8zc7cjmynuffomh6b6tn7fpmm3o8b" xml:space="preserve">{{Credits
+|ParentPage=Games/Mystery_of_Shark_Island
+}}
+{{CreditSubobject
+|Game=Games/Mystery_of_Shark_Island
+|Release=
+|Dlc=
+|Person=People/Nicholas_Stern
+|Company=
+|Department=Visual Arts
+|Role=PC Windows art director (as Nick Stern)
+}}
+</text>
+      <sha1>fy8zc7cjmynuffomh6b6tn7fpmm3o8b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Méwilo</title>
+    <ns>0</ns>
+    <id>625180</id>
+    <revision>
+      <id>978485</id>
+      <parentid>978484</parentid>
+      <timestamp>2026-07-16T15:42:51Z</timestamp>
+      <contributor>
+        <username>Chucktowski</username>
+        <id>7</id>
+      </contributor>
+      <origin>978485</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="473" sha1="lnfyia6ijab35o085r0butr5od4jzbw" xml:space="preserve">{{Game
+|Guid=a67c2832-11e7-40bf-879f-df2f3a0a9ac9
+|Name=Méwilo
+|Aliases=Mewilo
+|Image=5547307-mewilo-atari-st-front-cover2.png
+|Deck=Designed by Muriel Tramis, Méwilo is a mystery adventure game set on the island of Martinique, with the player taking on the role of a paranormal investigator.
+|ReleaseDateType=Full
+|ReleaseDate=1987-11-28
+|Concepts=Concepts/Zombie
+|Developers=Companies/Coktel Vision
+|Locations=Locations/Martinique
+|Publishers=Companies/Coktel Vision
+}}</text>
+      <sha1>lnfyia6ijab35o085r0butr5od4jzbw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/NOL</title>
+    <ns>0</ns>
+    <id>624809</id>
+    <revision>
+      <id>974983</id>
+      <parentid>974976</parentid>
+      <timestamp>2026-06-11T02:19:28Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974983</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="601" sha1="h0lujbq4auk7i9poeygxvmkec72g95e" xml:space="preserve">{{Game
+|Guid=d6268d62-2426-4acf-92fb-0cce8a2304e8
+|Name=NOL
+|Image=https://giantbomb.com/api/media/file/media--file--yutrhdgfjjjj-06-11-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--zxcvzxvahjjssddd-06-11-2026.jpg
+|Deck=A manga-inspired, first-person horror game.
+|ReleaseDateType=None
+|Concepts=Concepts/Digital Distribution, Concepts/Steam, Concepts/First Person Perspective, Concepts/Black and White, Concepts/Male Protagonists
+|Developers=Companies/Team NOL
+|Genres=Genres/Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/Sanditio Bayu
+|Themes=Themes/Horror
+}}</text>
+      <sha1>h0lujbq4auk7i9poeygxvmkec72g95e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/N 13373/Credits</title>
+    <ns>0</ns>
+    <id>464824</id>
+    <revision>
+      <id>745622</id>
+      <timestamp>2026-03-04T21:36:55Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>745622</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="m3wak4oo16c987tanzf1rmgedq8m1s6" xml:space="preserve">{{Credits
+|ParentPage=Games/N_13373
+}}
+{{CreditSubobject
+|Game=Games/N_13373
+|Release=
+|Dlc=
+|Person=People/Raigan_Burns
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/N_13373
+|Release=
+|Dlc=
+|Person=People/Mare_Sheppard
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>m3wak4oo16c987tanzf1rmgedq8m1s6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/National Geographic Explore VR/Credits</title>
+    <ns>0</ns>
+    <id>249907</id>
+    <revision>
+      <id>250342</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250342</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="231" sha1="hfb4yrjlsn8jlpm9cyeon4nuqmfjzk6" xml:space="preserve">{{Credits
+|ParentPage=Games/National_Geographic_Explore_VR
+}}
+{{CreditSubobject
+|Game=Games/National_Geographic_Explore_VR
+|Release=
+|Dlc=
+|Person=People/Bridget_Erdmann
+|Company=
+|Department=Business
+|Role=Meta Quest marketing
+}}
+</text>
+      <sha1>hfb4yrjlsn8jlpm9cyeon4nuqmfjzk6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Natsu Mon 20th Century Summer Kid/Credits</title>
+    <ns>0</ns>
+    <id>253312</id>
+    <revision>
+      <id>253762</id>
+      <timestamp>2025-12-08T07:32:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>253762</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="215" sha1="lgnrzv5my8qkngppnfmbrw1u8am299n" xml:space="preserve">{{Credits
+|ParentPage=Games/Natsu_Mon_20th_Century_Summer_Kid
+}}
+{{CreditSubobject
+|Game=Games/Natsu_Mon_20th_Century_Summer_Kid
+|Release=
+|Dlc=
+|Person=People/Kaz_Ayabe
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>lgnrzv5my8qkngppnfmbrw1u8am299n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Natsuiro Kenjutsu Komachi/Credits</title>
+    <ns>0</ns>
+    <id>254233</id>
+    <revision>
+      <id>254684</id>
+      <timestamp>2025-12-08T07:32:20Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254684</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="545" sha1="300zhjn2oyv56k7jlcd5ucr9icbck2a" xml:space="preserve">{{Credits
+|ParentPage=Games/Natsuiro_Kenjutsu_Komachi
+}}
+{{CreditSubobject
+|Game=Games/Natsuiro_Kenjutsu_Komachi
+|Release=
+|Dlc=
+|Person=People/Misa_Hashimoto
+|Company=
+|Department=Unclassified
+|Role=SE and Music Editing
+}}
+{{CreditSubobject
+|Game=Games/Natsuiro_Kenjutsu_Komachi
+|Release=
+|Dlc=
+|Person=People/Yuuki_Nishinomiya
+|Company=
+|Department=Design
+|Role=Scenario Writer
+}}
+{{CreditSubobject
+|Game=Games/Natsuiro_Kenjutsu_Komachi
+|Release=
+|Dlc=
+|Person=People/Aoi_Nishimata
+|Company=
+|Department=Unclassified
+|Role=Character Design
+}}
+</text>
+      <sha1>300zhjn2oyv56k7jlcd5ucr9icbck2a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Necris Dome/Credits</title>
+    <ns>0</ns>
+    <id>249582</id>
+    <revision>
+      <id>250016</id>
+      <timestamp>2025-12-08T07:32:09Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250016</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="238" sha1="5195uqmjkwoid17mhifcsxayb5d2x2k" xml:space="preserve">{{Credits
+|ParentPage=Games/Necris_Dome
+}}
+{{CreditSubobject
+|Game=Games/Necris_Dome
+|Release=
+|Dlc=
+|Person=People/Nigel_Fletcher
+|Company=
+|Department=Visual Arts
+|Role=Amstrad CPC design and artwork / ZX Spectrum design and artwork
+}}
+</text>
+      <sha1>5195uqmjkwoid17mhifcsxayb5d2x2k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Neighborhoods</title>
+    <ns>0</ns>
+    <id>624546</id>
+    <revision>
+      <id>974923</id>
+      <parentid>973976</parentid>
+      <timestamp>2026-06-09T22:30:36Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974923</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="640" sha1="9z25cob66zgz1xyru4ht86c8om17t2q" xml:space="preserve">{{Game
+|Guid=c0a5a389-cce3-48eb-8b18-969c2783cb69
+|Name=Neighborhoods
+|Image=https://giantbomb.com/api/media/file/media--file--neighborhoods-1780524540988-06-09-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--ss_1ba6d49fba360e7db85f7e4ab15dc3480b0958c0-1920x1080-06-09-2026.jpg
+|Deck=A cozy city sim from E-Line Media.
+|ReleaseDateType=None
+|Concepts=Concepts/Digital Distribution, Concepts/Steam, Concepts/Polygonal 3D
+|Developers=Companies/E Line Media
+|Genres=Genres/Simulation
+|Platforms=Platforms/PC
+|Publishers=Companies/E Line Media
+|Games=Games/SimCity, Games/Cities Skylines
+|Themes=Themes/Management
+}}</text>
+      <sha1>9z25cob66zgz1xyru4ht86c8om17t2q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Neko Station</title>
+    <ns>0</ns>
+    <id>624808</id>
+    <revision>
+      <id>974997</id>
+      <parentid>974996</parentid>
+      <timestamp>2026-06-13T22:29:05Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974997</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="599" sha1="8naxeafz2sq75f3a885iviak3lohtyv" xml:space="preserve">{{Game
+|Guid=fb0f6a64-cf2c-4841-a33b-1261b30519f4
+|Name=Neko Station
+|Image=https://giantbomb.com/api/media/file/media--file--nvcxdsfgaaa-06-13-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--uyeasdfbxxzzz-06-13-2026.jpg
+|Deck=A desktop idle game about managing a train for cats.
+|ReleaseDateType=None
+|Concepts=Concepts/Digital Distribution, Concepts/Steam, Concepts/Indie, Concepts/Cats, Concepts/Steam Achievements
+|Developers=Companies/Secret Character
+|Genres=Genres/Simulation
+|Platforms=Platforms/PC
+|Publishers=Companies/Flyhigh Works
+|Themes=Themes/Management
+}}</text>
+      <sha1>8naxeafz2sq75f3a885iviak3lohtyv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Neon Death Drop</title>
+    <ns>0</ns>
+    <id>624914</id>
+    <revision>
+      <id>974651</id>
+      <timestamp>2026-06-08T00:43:15Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=182bd6ac-d052-406f-b8b0-e5e273622ff7 |Name=Neon Death Drop |ReleaseDateType=None }}"</comment>
+      <origin>974651</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="96" sha1="eb0bkz8jowahk4yg6r5f0jjccae4xl7" xml:space="preserve">{{Game
+|Guid=182bd6ac-d052-406f-b8b0-e5e273622ff7
+|Name=Neon Death Drop
+|ReleaseDateType=None
+}}</text>
+      <sha1>eb0bkz8jowahk4yg6r5f0jjccae4xl7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Neptunia Riders VS Dogoos/Credits</title>
+    <ns>0</ns>
+    <id>252166</id>
+    <revision>
+      <id>252615</id>
+      <timestamp>2025-12-08T07:32:15Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>252615</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="794" sha1="3tmtdsabg7nc59iblew99wqmiig39aq" xml:space="preserve">{{Credits
+|ParentPage=Games/Neptunia_Riders_VS_Dogoos
+}}
+{{CreditSubobject
+|Game=Games/Neptunia_Riders_VS_Dogoos
+|Release=
+|Dlc=
+|Person=People/Mariko_Honda
+|Company=
+|Department=Voice Actor
+|Role=Uzume
+}}
+{{CreditSubobject
+|Game=Games/Neptunia_Riders_VS_Dogoos
+|Release=
+|Dlc=
+|Person=People/Rie_Tanaka
+|Company=
+|Department=Voice Actor
+|Role=Neptune
+}}
+{{CreditSubobject
+|Game=Games/Neptunia_Riders_VS_Dogoos
+|Release=
+|Dlc=
+|Person=People/Asami_Imai
+|Company=
+|Department=Voice Actor
+|Role=Noire
+}}
+{{CreditSubobject
+|Game=Games/Neptunia_Riders_VS_Dogoos
+|Release=
+|Dlc=
+|Person=People/Kana_Asumi
+|Company=
+|Department=Voice Actor
+|Role=Blanc
+}}
+{{CreditSubobject
+|Game=Games/Neptunia_Riders_VS_Dogoos
+|Release=
+|Dlc=
+|Person=People/Rina_Sato
+|Company=
+|Department=Voice Actor
+|Role=Vert
+}}
+</text>
+      <sha1>3tmtdsabg7nc59iblew99wqmiig39aq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Nevertales Shattered Image Collectors Edition/Credits</title>
+    <ns>0</ns>
+    <id>250202</id>
+    <revision>
+      <id>250647</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250647</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="268" sha1="sse0t06lpjiugejsgbqpctgj5wyrhp0" xml:space="preserve">{{Credits
+|ParentPage=Games/Nevertales_Shattered_Image_Collectors_Edition
+}}
+{{CreditSubobject
+|Game=Games/Nevertales_Shattered_Image_Collectors_Edition
+|Release=
+|Dlc=
+|Person=People/John_Bell_118447
+|Company=
+|Department=Voice Actor
+|Role=PC Windows voice actors
+}}
+</text>
+      <sha1>sse0t06lpjiugejsgbqpctgj5wyrhp0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Nick Jr Party Adventure/Credits</title>
+    <ns>0</ns>
+    <id>253681</id>
+    <revision>
+      <id>254132</id>
+      <timestamp>2025-12-08T07:32:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254132</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="197" sha1="aleqhurbow2ktm7zkbjj7uq8teso84b" xml:space="preserve">{{Credits
+|ParentPage=Games/Nick_Jr_Party_Adventure
+}}
+{{CreditSubobject
+|Game=Games/Nick_Jr_Party_Adventure
+|Release=
+|Dlc=
+|Person=People/Nolan_North
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>aleqhurbow2ktm7zkbjj7uq8teso84b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Nickelodeon All Star Brawl 2/Credits</title>
+    <ns>0</ns>
+    <id>250853</id>
+    <revision>
+      <id>251298</id>
+      <timestamp>2025-12-08T07:32:12Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251298</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6672" sha1="i0ff4t09kfok5qm8xxqezq03sz6vbd2" xml:space="preserve">{{Credits
+|ParentPage=Games/Nickelodeon_All_Star_Brawl_2
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Thaddeus_Crews
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Tom_Kenny
+|Company=
+|Department=Voice Actor
+|Role=SpongeBob SquarePants
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Bill_Fagerbakke
+|Company=
+|Department=Voice Actor
+|Role=Patrick Star
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Debi_Derryberry
+|Company=
+|Department=Voice Actor
+|Role=Jimmy Neutron
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Carlos_Alazraqui
+|Company=
+|Department=Voice Actor
+|Role=Rocko
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Richard_Steven_Horvitz
+|Company=
+|Department=Voice Actor
+|Role=Invader Zim/Daggett Doofus Beaver
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Janice_Kawaye
+|Company=
+|Department=Voice Actor
+|Role=Jenny Wakeman
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Douglas_Lawrence
+|Company=
+|Department=Voice Actor
+|Role=Plankton/Chum Slave
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Billy_West
+|Company=
+|Department=Voice Actor
+|Role=Ren and Stimpy
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Frank_Welker
+|Company=
+|Department=Voice Actor
+|Role=Garfield/Girl-Eating Plant
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Alanna_Ubach
+|Company=
+|Department=Voice Actor
+|Role=El Tigre
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Tara_Strong
+|Company=
+|Department=Voice Actor
+|Role=Ember McClain
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Rodger_Bumpass
+|Company=
+|Department=Voice Actor
+|Role=Squidward Tentacles
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Tress_MacNeille
+|Company=
+|Department=Voice Actor
+|Role=Grandma Gertie
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Abby_Trott
+|Company=
+|Department=Voice Actor
+|Role=April O'Neil/Computer Voice
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Barry_Gordon
+|Company=
+|Department=Voice Actor
+|Role=Donatello
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Rob_Paulsen
+|Company=
+|Department=Voice Actor
+|Role=Raphael
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Brian_Doyle_Murray
+|Company=
+|Department=Voice Actor
+|Role=Flying Dutchman
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Candi_Milo
+|Company=
+|Department=Voice Actor
+|Role=Nora Wakeman
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Caz_Inghram
+|Company=
+|Department=Voice Actor
+|Role=Aang
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/David_Kaufman
+|Company=
+|Department=Voice Actor
+|Role=Danny Phantom/Ectopus
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/David_Kaye
+|Company=
+|Department=Voice Actor
+|Role=Powdered Toast Man
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Fred_Tatasciore
+|Company=
+|Department=Voice Actor
+|Role=Reptar
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Grey_DeLisle
+|Company=
+|Department=Voice Actor
+|Role=Frida Suarez
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Hoon_Lee
+|Company=
+|Department=Voice Actor
+|Role=Splinter
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Jacqueline_Grace_Lopez
+|Company=
+|Department=Voice Actor
+|Role=Korra
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Jessica_DiCicco
+|Company=
+|Department=Voice Actor
+|Role=Lucy Loud
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/James_Jonah_Jim_Cummings
+|Company=
+|Department=Voice Actor
+|Role=Shredder
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Jim_Meskimen
+|Company=
+|Department=Voice Actor
+|Role=Nigel Thornberry
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Mark_DeCarlo
+|Company=
+|Department=Voice Actor
+|Role=Hugh Neutron
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Mary_Jo_Catlett
+|Company=
+|Department=Voice Actor
+|Role=Mrs. Puff
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Melissa_Fahn
+|Company=
+|Department=Voice Actor
+|Role=Gaz
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Nick_Bakay
+|Company=
+|Department=Voice Actor
+|Role=Norbert Foster Beaver
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Piotr_Michael
+|Company=
+|Department=Voice Actor
+|Role=Clockwork
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Ramone_Hamilton
+|Company=
+|Department=Voice Actor
+|Role=Gerald Johansson
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Ricco_Fajardo
+|Company=
+|Department=Voice Actor
+|Role=Cabbage Merchant
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Rosearik_Rikki_Simons
+|Company=
+|Department=Voice Actor
+|Role=Gir
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Susan_Silo
+|Company=
+|Department=Voice Actor
+|Role=Sartana of the Dead
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Suzie_Yeung
+|Company=
+|Department=Voice Actor
+|Role=Azula
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Trevor_Devall
+|Company=
+|Department=Voice Actor
+|Role=Vlad Plasmius
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_All_Star_Brawl_2
+|Release=
+|Dlc=
+|Person=People/Dave_Simmons
+|Company=
+|Department=Voice Actor
+|Role=Announcer
+}}
+</text>
+      <sha1>i0ff4t09kfok5qm8xxqezq03sz6vbd2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Nickelodeon Extreme Tennis/Credits</title>
+    <ns>0</ns>
+    <id>249860</id>
+    <revision>
+      <id>250295</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250295</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2454" sha1="djo9ywowybrewl8k4dmsbihdt8uyyol" xml:space="preserve">{{Credits
+|ParentPage=Games/Nickelodeon_Extreme_Tennis
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_Extreme_Tennis
+|Release=
+|Dlc=
+|Person=People/Tom_Kenny
+|Company=
+|Department=Voice Actor
+|Role=SpongeBob SquarePants/Dog
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_Extreme_Tennis
+|Release=
+|Dlc=
+|Person=People/Bill_Fagerbakke
+|Company=
+|Department=Voice Actor
+|Role=Patrick Star
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_Extreme_Tennis
+|Release=
+|Dlc=
+|Person=People/Greg_Cipes
+|Company=
+|Department=Voice Actor
+|Role=Michelangelo
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_Extreme_Tennis
+|Release=
+|Dlc=
+|Person=People/Zane_VanWicklyn
+|Company=
+|Department=Voice Actor
+|Role=Arnold Shortman
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_Extreme_Tennis
+|Release=
+|Dlc=
+|Person=People/Francesca_Marie_Smith
+|Company=
+|Department=Voice Actor
+|Role=Helga Pataki
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_Extreme_Tennis
+|Release=
+|Dlc=
+|Person=People/Lacey_Chabert
+|Company=
+|Department=Voice Actor
+|Role=Eliza Thornberry
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_Extreme_Tennis
+|Release=
+|Dlc=
+|Person=People/Richard_Steven_Horvitz
+|Company=
+|Department=Voice Actor
+|Role=Invader Zim
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_Extreme_Tennis
+|Release=
+|Dlc=
+|Person=People/Frank_Welker
+|Company=
+|Department=Voice Actor
+|Role=Garfield
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_Extreme_Tennis
+|Release=
+|Dlc=
+|Person=People/James_Jonah_Jim_Cummings
+|Company=
+|Department=Voice Actor
+|Role=Cat
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_Extreme_Tennis
+|Release=
+|Dlc=
+|Person=People/Cheryl_Chase
+|Company=
+|Department=Voice Actor
+|Role=Angelica Pickles
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_Extreme_Tennis
+|Release=
+|Dlc=
+|Person=People/Cree_Summer
+|Company=
+|Department=Voice Actor
+|Role=Susie Carmichael
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_Extreme_Tennis
+|Release=
+|Dlc=
+|Person=People/Carlos_Alazraqui
+|Company=
+|Department=Voice Actor
+|Role=Rocko
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_Extreme_Tennis
+|Release=
+|Dlc=
+|Person=People/David_Kaufman
+|Company=
+|Department=Voice Actor
+|Role=Danny Phantom
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_Extreme_Tennis
+|Release=
+|Dlc=
+|Person=People/Tara_Strong
+|Company=
+|Department=Voice Actor
+|Role=Timmy Turner
+}}
+{{CreditSubobject
+|Game=Games/Nickelodeon_Extreme_Tennis
+|Release=
+|Dlc=
+|Person=People/Jeff_Bottoms
+|Company=
+|Department=Voice Actor
+|Role=Announcer
+}}
+</text>
+      <sha1>djo9ywowybrewl8k4dmsbihdt8uyyol</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Nightmare Kart/Credits</title>
+    <ns>0</ns>
+    <id>252343</id>
+    <revision>
+      <id>252793</id>
+      <timestamp>2025-12-08T07:32:16Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>252793</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="59n1q70bc2rpbax2979tk58pooj91e8" xml:space="preserve">{{Credits
+|ParentPage=Games/Nightmare_Kart
+}}
+{{CreditSubobject
+|Game=Games/Nightmare_Kart
+|Release=
+|Dlc=
+|Person=People/Gianni_Matragrano
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>59n1q70bc2rpbax2979tk58pooj91e8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Nine Noir Lives/Credits</title>
+    <ns>0</ns>
+    <id>249998</id>
+    <revision>
+      <id>250436</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250436</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2747" sha1="ni7z22norz4kcv5ahy660970isb8j9p" xml:space="preserve">{{Credits
+|ParentPage=Games/Nine_Noir_Lives
+}}
+{{CreditSubobject
+|Game=Games/Nine_Noir_Lives
+|Release=
+|Dlc=
+|Person=People/Lucas_Gilbertson
+|Company=
+|Department=Voice Actor
+|Role=Cuddles Nutterbutter/Voodoo Guitar Employee/Safemaster of Khri/Edgar Montameeuw/Mattrick Nutterbutter/Henchtiger 3
+}}
+{{CreditSubobject
+|Game=Games/Nine_Noir_Lives
+|Release=
+|Dlc=
+|Person=People/Carol_Anne_Day
+|Company=
+|Department=Voice Actor
+|Role=Tabby Marshmallow/Voodoo Guitar Owner/Professor Huggie/Cosmo Politon/Henchtiger 4
+}}
+{{CreditSubobject
+|Game=Games/Nine_Noir_Lives
+|Release=
+|Dlc=
+|Person=People/SungWon_Cho
+|Company=
+|Department=Voice Actor
+|Role=Kibbler/Ticket Salescat/Tybalt Magtheridon
+}}
+{{CreditSubobject
+|Game=Games/Nine_Noir_Lives
+|Release=
+|Dlc=
+|Person=People/Brett_Bauer
+|Company=
+|Department=Voice Actor
+|Role=Constable Frangipane/Meowy the Cat
+}}
+{{CreditSubobject
+|Game=Games/Nine_Noir_Lives
+|Release=
+|Dlc=
+|Person=People/Hans_Wackershauser
+|Company=
+|Department=Voice Actor
+|Role=Pepe Silva/Derpy Duncan
+}}
+{{CreditSubobject
+|Game=Games/Nine_Noir_Lives
+|Release=
+|Dlc=
+|Person=People/Mike_Shepherd
+|Company=
+|Department=Voice Actor
+|Role=Fuzzball Wuzzball/Humboldt
+}}
+{{CreditSubobject
+|Game=Games/Nine_Noir_Lives
+|Release=
+|Dlc=
+|Person=People/Onalea_Gilbertson
+|Company=
+|Department=Voice Actor
+|Role=Edna Honeybottom/Scarlett Catulet (as Kris Rundle)
+}}
+{{CreditSubobject
+|Game=Games/Nine_Noir_Lives
+|Release=
+|Dlc=
+|Person=People/Brendan_Hunter
+|Company=
+|Department=Voice Actor
+|Role=Bartholomew Montameeuw
+}}
+{{CreditSubobject
+|Game=Games/Nine_Noir_Lives
+|Release=
+|Dlc=
+|Person=People/Caitlynne_Medrek
+|Company=
+|Department=Voice Actor
+|Role=Platty
+}}
+{{CreditSubobject
+|Game=Games/Nine_Noir_Lives
+|Release=
+|Dlc=
+|Person=People/Caleb_Gordon
+|Company=
+|Department=Voice Actor
+|Role=Celestine
+}}
+{{CreditSubobject
+|Game=Games/Nine_Noir_Lives
+|Release=
+|Dlc=
+|Person=People/Dallas_Soonias
+|Company=
+|Department=Voice Actor
+|Role=Tinkle
+}}
+{{CreditSubobject
+|Game=Games/Nine_Noir_Lives
+|Release=
+|Dlc=
+|Person=People/Daniel_Lowes
+|Company=
+|Department=Design
+|Role=Story, voice (Henchtiger 2)
+}}
+{{CreditSubobject
+|Game=Games/Nine_Noir_Lives
+|Release=
+|Dlc=
+|Person=People/Doug_McKeag
+|Company=
+|Department=Voice Actor
+|Role=Krakowski (as Keith Hamill)
+}}
+{{CreditSubobject
+|Game=Games/Nine_Noir_Lives
+|Release=
+|Dlc=
+|Person=People/Megan_Baldrey
+|Company=
+|Department=Voice Actor
+|Role=Beatrice Magtheridon
+}}
+{{CreditSubobject
+|Game=Games/Nine_Noir_Lives
+|Release=
+|Dlc=
+|Person=People/Nancy_Situ
+|Company=
+|Department=Voice Actor
+|Role=Storn
+}}
+{{CreditSubobject
+|Game=Games/Nine_Noir_Lives
+|Release=
+|Dlc=
+|Person=People/William_Kruger
+|Company=
+|Department=Design
+|Role=Director, game design, story, voice (Henchtiger 1)
+}}
+</text>
+      <sha1>ni7z22norz4kcv5ahy660970isb8j9p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Ninja Gaiden II Black/Credits</title>
+    <ns>0</ns>
+    <id>254336</id>
+    <revision>
+      <id>254788</id>
+      <timestamp>2025-12-08T07:32:20Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254788</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="338" sha1="oln7f9hwv71shat8m4h7pp663w225e2" xml:space="preserve">{{Credits
+|ParentPage=Games/Ninja_Gaiden_II_Black
+}}
+{{CreditSubobject
+|Game=Games/Ninja_Gaiden_II_Black
+|Release=
+|Dlc=
+|Person=People/Yoshiki_Horiuchi
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Ninja_Gaiden_II_Black
+|Release=
+|Dlc=
+|Person=People/Hideki_Nimi
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>oln7f9hwv71shat8m4h7pp663w225e2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Ninjala 2: The Uncharted Planet</title>
+    <ns>0</ns>
+    <id>625027</id>
+    <revision>
+      <id>974873</id>
+      <parentid>974846</parentid>
+      <timestamp>2026-06-09T15:47:33Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974873</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="367" sha1="h93i3ckbfesdrvgg750o9c4403kvvg7" xml:space="preserve">{{Game
+|Guid=25716483-5b3f-4c97-9776-e6e30ddc73a9
+|Name=Ninjala 2: The Uncharted Planet
+|Image=https://giantbomb.com/api/media/file/media--file--screenshot-2026-06-09-at-11-44-37-am-06-09-2026.png
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/Sequel
+|Platforms=Platforms/Nintendo Switch 2
+|Publishers=Companies/GungHo Online Entertainment
+}}</text>
+      <sha1>h93i3ckbfesdrvgg750o9c4403kvvg7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Nintendo Switch Sports Resort</title>
+    <ns>0</ns>
+    <id>625031</id>
+    <revision>
+      <id>974880</id>
+      <parentid>974856</parentid>
+      <timestamp>2026-06-09T16:13:47Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974880</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="459" sha1="edocchmtgm6q89ph8ao339vb81svtjb" xml:space="preserve">{{Game
+|Guid=8a925f4e-f058-4c78-a2f9-23f818e2178f
+|Name=Nintendo Switch Sports Resort
+|Image=https://giantbomb.com/api/media/file/media--file--switch-sports-resort-646x363-06-09-2026.jpg
+|Deck=Return to Wuhu Island to compete in a dozen sports.
+|ReleaseDateType=Full
+|ReleaseDate=2026-10-22
+|Concepts=Concepts/Digital Distribution
+|Franchises=Franchises/Wii Sports
+|Genres=Genres/Sports
+|Platforms=Platforms/Nintendo Switch 2
+|Publishers=Companies/Nintendo
+}}</text>
+      <sha1>edocchmtgm6q89ph8ao339vb81svtjb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/No, I'm Not a Human</title>
+    <ns>0</ns>
+    <id>624874</id>
+    <revision>
+      <id>975154</id>
+      <parentid>975152</parentid>
+      <timestamp>2026-06-17T23:13:49Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975154</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="87" sha1="3piypic7ilbbn900t6689w2o3n7r7z4" xml:space="preserve">{{Game
+|Guid=ea1f7a86-94a2-4f89-bb93-799e72241b17
+|Name=Delete
+|ReleaseDateType=None
+}}</text>
+      <sha1>3piypic7ilbbn900t6689w2o3n7r7z4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/No Straight Roads 2</title>
+    <ns>0</ns>
+    <id>624806</id>
+    <revision>
+      <id>974964</id>
+      <parentid>974962</parentid>
+      <timestamp>2026-06-11T01:41:00Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974964</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="685" sha1="a911dkvlrbcks04o8133dbwjx8ktvrb" xml:space="preserve">{{Game
+|Guid=a8d82ef9-b07e-485b-9bfa-086af36bc1ad
+|Name=No Straight Roads 2
+|Image=https://giantbomb.com/api/media/file/media--file--adcvdfrhtjjjj-06-11-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--eqrasdsavzzeeeee-06-11-2026.jpg
+|Deck=Metronomik's music action adventure returns; now with four playable characters.
+|ReleaseDateType=Year
+|YearPart=2026
+|Concepts=Concepts/Digital Distribution, Concepts/Sequel, Concepts/Rock Music, Concepts/Polygonal 3D, Concepts/Jump, Concepts/Steam
+|Developers=Companies/Metronomik
+|Franchises=Franchises/No Straight Roads
+|Genres=Genres/Action Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/Shueisha Games
+}}</text>
+      <sha1>a911dkvlrbcks04o8133dbwjx8ktvrb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Nonamed The Remake/Credits</title>
+    <ns>0</ns>
+    <id>250059</id>
+    <revision>
+      <id>250499</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250499</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="214" sha1="5oxv19grl7oz8d73kpvzrsxcviwty4p" xml:space="preserve">{{Credits
+|ParentPage=Games/Nonamed_The_Remake
+}}
+{{CreditSubobject
+|Game=Games/Nonamed_The_Remake
+|Release=
+|Dlc=
+|Person=People/Matt_Furniss
+|Company=
+|Department=Audio
+|Role=PC Windows música por (music by)
+}}
+</text>
+      <sha1>5oxv19grl7oz8d73kpvzrsxcviwty4p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/OD/Credits</title>
+    <ns>0</ns>
+    <id>251554</id>
+    <revision>
+      <id>252001</id>
+      <timestamp>2025-12-08T07:32:14Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>252001</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="640" sha1="i24fnjybf41i65xrk9kegaufxep1665" xml:space="preserve">{{Credits
+|ParentPage=Games/OD
+}}
+{{CreditSubobject
+|Game=Games/OD
+|Release=
+|Dlc=
+|Person=People/Hideo_Kojima
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/OD
+|Release=
+|Dlc=
+|Person=People/Jordan_Peele
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/OD
+|Release=
+|Dlc=
+|Person=People/Sophia_Lillis
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/OD
+|Release=
+|Dlc=
+|Person=People/Hunter_Schafer
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/OD
+|Release=
+|Dlc=
+|Person=People/Udo_Kier
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+</text>
+      <sha1>i24fnjybf41i65xrk9kegaufxep1665</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Obey Me 72829</title>
+    <ns>0</ns>
+    <id>465019</id>
+    <revision>
+      <id>796932</id>
+      <parentid>751501</parentid>
+      <timestamp>2026-03-12T06:28:58Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796932</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="973" sha1="7tmtz7wp426opac9ygynlafyxsck9yn" xml:space="preserve">{{Game
+| Name=Obey Me
+| Guid=3030-72829
+| Deck=Obey Me is an isometric brawler.
+| ReleaseDate=2020-04-21
+| Characters=
+| Concepts=Concepts/Combo,Concepts/Digital_Distribution,Concepts/Indie,Concepts/Original_Soundtrack_Release,Concepts/PAX_East_2019
+| Developers=Companies/E404_Game_Studios
+| Franchises=
+| Genres=Genres/Brawler
+| Locations=
+| Objects=
+| Platforms=Platforms/Nintendo_Switch,Platforms/PC,Platforms/PlayStation_4,Platforms/Xbox_One
+| Publishers=Companies/Blowfish_Studios
+| Games=
+| Themes=Themes/Post_Apocalyptic
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/87790/3185016-box_om.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3185016-box_om.png","path":"8\/87790\/","mime":"image\/png","sizes":"scale_super,scale_tiny,square_small,square_medium,scale_small,scale_large,square_mini,screen_medium,scale_medium,screen_kubrick,scale_avatar,square_avatar,square_tiny","caption":null},"background":[]}' /&gt;
+Obey Me is an isometric brawler.</text>
+      <sha1>7tmtz7wp426opac9ygynlafyxsck9yn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Off The Grid/Credits</title>
+    <ns>0</ns>
+    <id>253767</id>
+    <revision>
+      <id>254218</id>
+      <timestamp>2025-12-08T07:32:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254218</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="178" sha1="owjvjw2n0wg3zyur7pkcogxwx7c3sn5" xml:space="preserve">{{Credits
+|ParentPage=Games/Off_The_Grid
+}}
+{{CreditSubobject
+|Game=Games/Off_The_Grid
+|Release=
+|Dlc=
+|Person=People/Neill_Blomkamp
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>owjvjw2n0wg3zyur7pkcogxwx7c3sn5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Off the Wall 1991/Credits</title>
+    <ns>0</ns>
+    <id>249809</id>
+    <revision>
+      <id>250244</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250244</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="503" sha1="agw65mvgeg1ipaq6qhrekngooxeptbp" xml:space="preserve">{{Credits
+|ParentPage=Games/Off_the_Wall_1991
+}}
+{{CreditSubobject
+|Game=Games/Off_the_Wall_1991
+|Release=
+|Dlc=
+|Person=People/Pat_McCarthy
+|Company=
+|Department=Programming
+|Role=Arcade engineers
+}}
+{{CreditSubobject
+|Game=Games/Off_the_Wall_1991
+|Release=
+|Dlc=
+|Person=People/Cris_Drobny
+|Company=
+|Department=Thanks
+|Role=Arcade and special thanks to
+}}
+{{CreditSubobject
+|Game=Games/Off_the_Wall_1991
+|Release=
+|Dlc=
+|Person=People/Brad_Fuller
+|Company=
+|Department=Audio
+|Role=Arcade sound fx
+}}
+</text>
+      <sha1>agw65mvgeg1ipaq6qhrekngooxeptbp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Oh Deer 57895</title>
+    <ns>0</ns>
+    <id>464998</id>
+    <revision>
+      <id>1004739</id>
+      <parentid>796917</parentid>
+      <timestamp>2026-07-19T15:13:54Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1004739</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1593" sha1="bg3upyvscwfcf1vtmtpeyb0ozlewz56" xml:space="preserve">{{Game
+| Name=Oh, Deer!
+| Guid=3030-57895
+| Deck="Oh, Deer!" is a game about drifting through turns and hitting (or not hitting) as many deer as possible while driving to grandma's house.
+| ReleaseDate=2015-06-12
+| Characters=
+| Concepts=Concepts/Blood,Concepts/Deer,Concepts/Deliberately_Retro,Concepts/Digital_Distribution,Concepts/Humble_Bundle,Concepts/Indie,Concepts/PlayStation_Mobile,Concepts/Pre_Release_Public_Testing
+| Developers=Companies/Necrosoft_Games
+| Franchises=
+| Genres=Genres/Driving_Racing
+| Locations=
+| Objects=Objects/Car
+| Platforms=Platforms/PC,Platforms/PlayStation_Network_Vita
+| Publishers=Companies/Humble_Original,Companies/Necrosoft_Games
+| Games=
+| Themes=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/10/103881/2917059-oh%2C%20deer%21%20logo.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2917059-oh, deer! logo.png","path":"10\/103881\/","mime":"image\/png","sizes":"scale_small,square_medium,scale_avatar,square_mini,scale_super,scale_medium,square_small,square_avatar,scale_large,square_tiny,screen_medium,scale_tiny,screen_kubrick","caption":"Oh, Deer! Logo"},"background":[]}' /&gt;
+
+==Overview==
+Oh, Deer! is a driving game developed by Necrosoft Games and published by Humble Original (PC version), and Necrosoft Games (original PlayStation Mobile version) for Vita and PC.
+
+Oh, Deer! was the last game released for [[Concepts/PlayStation_Mobile|PlayStation Mobile]]. The game was released in an alpha state for the PlayStation Mobile version. The beta PC version made its debut as a part of the February 2017 Humble Monthly Bundle.</text>
+      <sha1>bg3upyvscwfcf1vtmtpeyb0ozlewz56</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Oh My Doug!</title>
+    <ns>0</ns>
+    <id>624531</id>
+    <revision>
+      <id>974915</id>
+      <parentid>973951</parentid>
+      <timestamp>2026-06-09T21:37:40Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974915</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="581" sha1="dway8n7m8j276bsdlipuep35n4x6q20" xml:space="preserve">{{Game
+|Guid=3696b737-17ec-4c54-b0ed-90d299bcfd90
+|Name=Oh, My Doug!
+|Image=https://giantbomb.com/api/media/file/media--file--tyjrtyf-06-09-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--xzcvzxcvsdfa-06-09-2026.jpg
+|Deck=A search action game with a 90s animation style similar to Ren &amp; Stimpy.
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/2D, Concepts/Side Scrolling, Concepts/Search Action
+|Developers=Companies/Odd Men in Studios
+|Genres=Genres/Platformer
+|Platforms=Platforms/PC
+|Publishers=Companies/Odd Men in Studios
+}}</text>
+      <sha1>dway8n7m8j276bsdlipuep35n4x6q20</sha1>
+    </revision>
+  </page>
+</mediawiki>

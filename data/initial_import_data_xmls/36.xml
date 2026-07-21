@@ -1,0 +1,2056 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Games/Arcade Classics 41102/Credits</title>
+    <ns>0</ns>
+    <id>464967</id>
+    <revision>
+      <id>750107</id>
+      <timestamp>2026-03-04T22:41:32Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>750107</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="197" sha1="ok8cyd3tnuvlg5lbdtms7ne4puo076u" xml:space="preserve">{{Credits
+|ParentPage=Games/Arcade_Classics_41102
+}}
+{{CreditSubobject
+|Game=Games/Arcade_Classics_41102
+|Release=
+|Dlc=
+|Person=People/Rosie_Rappaport
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>ok8cyd3tnuvlg5lbdtms7ne4puo076u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Arcane Eats</title>
+    <ns>0</ns>
+    <id>624770</id>
+    <revision>
+      <id>974778</id>
+      <parentid>974505</parentid>
+      <timestamp>2026-06-08T16:20:47Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974778</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="647" sha1="74t7958noxm3ob5um4yuanwyew0ygzh" xml:space="preserve">{{Game
+|Guid=efb63b9f-511b-4bbd-b4c8-6fcc6e7642be
+|Name=Arcane Eats
+|Image=https://giantbomb.com/api/media/file/media--file--library_600x900_2x-06-08-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--library_hero_2x-06-08-2026.jpg
+|Deck=A roguelike deckbuilder about creating the top cooking guild in the land.
+|ReleaseDateType=Year
+|YearPart=2026
+|Concepts=Concepts/Steam, Concepts/Indie, Concepts/Digital Distribution, Concepts/2D, Concepts/Roguelike, Concepts/Cooking
+|Developers=Companies/Wonderbelly Games
+|Genres=Genres/Strategy
+|Platforms=Platforms/PC
+|Publishers=Companies/Skystone Games
+|Themes=Themes/Fantasy
+}}</text>
+      <sha1>74t7958noxm3ob5um4yuanwyew0ygzh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Area 51 103/Credits</title>
+    <ns>0</ns>
+    <id>464620</id>
+    <revision>
+      <id>742755</id>
+      <timestamp>2026-03-04T20:49:45Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>742755</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1312" sha1="qy8mgae7i7acwk5s8onke0m890w88r3" xml:space="preserve">{{Credits
+|ParentPage=Games/Area_51_103
+}}
+{{CreditSubobject
+|Game=Games/Area_51_103
+|Release=
+|Dlc=
+|Person=People/Ken_Humphries
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Area_51_103
+|Release=
+|Dlc=
+|Person=People/Robert_Weatherby
+|Company=
+|Department=Design
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Area_51_103
+|Release=
+|Dlc=
+|Person=People/Mike_Hally
+|Company=
+|Department=Design
+|Role=Arcade game design / PlayStation game design / SEGA Saturn game design
+}}
+{{CreditSubobject
+|Game=Games/Area_51_103
+|Release=
+|Dlc=
+|Person=People/Steve_Caterson
+|Company=
+|Department=Design
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Area_51_103
+|Release=
+|Dlc=
+|Person=People/Guy_Fumagalli
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Area_51_103
+|Release=
+|Dlc=
+|Person=People/Hector_Silva
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Area_51_103
+|Release=
+|Dlc=
+|Person=People/James_Mestemaker
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Area_51_103
+|Release=
+|Dlc=
+|Person=People/Jeanne_Parson
+|Company=
+|Department=Audio
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Area_51_103
+|Release=
+|Dlc=
+|Person=People/Rob_Rowe
+|Company=
+|Department=Production
+|Role=PlayStation producer / SEGA Saturn producer
+}}
+</text>
+      <sha1>qy8mgae7i7acwk5s8onke0m890w88r3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Aretha Collection 1993-1995</title>
+    <ns>0</ns>
+    <id>489711</id>
+    <revision>
+      <id>957923</id>
+      <parentid>831332</parentid>
+      <timestamp>2026-04-10T17:53:19Z</timestamp>
+      <contributor>
+        <username>Reverendhunt</username>
+        <id>297</id>
+      </contributor>
+      <origin>957923</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1152" sha1="ovdpiezuweh6qzq9kc9djxd806oodzs" xml:space="preserve">{{Game
+|Guid=c2977e5a-911f-409a-9764-662b1e03b3ef
+|Name=Aretha Collection 1993-1995
+|Deck=Aretha Collection 1993-1995 is a compilation of three Super Famicom games in the Aretha series.
+|ReleaseDateType=Full
+|ReleaseDate=2026-07-30
+|Concepts=Concepts/Digital Distribution
+|Developers=Companies/Edia, Companies/Japan Art Media
+|Franchises=Franchises/Aretha
+|Genres=Genres/Compilation, Genres/Role Playing
+|Platforms=Platforms/PlayStation 4, Platforms/PlayStation 5, Platforms/Nintendo Switch
+|Publishers=Companies/Edia
+|Themes=Themes/Anime, Themes/Fantasy
+}}
+'''Aretha Collection 1993-1995''' is a compilation of three games, released on the [[Platform/PlayStation_4|PlayStation 4]], [[Platform/PlayStation_5|PlayStation 5]], and [[Platform/Switch|Switch]] on July 30, 2026 in Japan. While the PS5 and Switch versions received physical and digital versions, the PS4 version is digital only.
+
+The games included on the compilation are:
+*'''[[Games/Aretha|Aretha the Super Famicom]]'''
+*'''[[Games/Aretha_II_Ariel_no_Fushigi_na_Tabi|Aretha II: Ariel no Fushigi na Tabi]]'''
+*'''[[Games/Rejoice_Aretha_Oukoku_no_Kanata|Rejoice: Aretha Ōkoku no Kanata]]'''</text>
+      <sha1>ovdpiezuweh6qzq9kc9djxd806oodzs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Arizona Sunshine 2026</title>
+    <ns>0</ns>
+    <id>624917</id>
+    <revision>
+      <id>974654</id>
+      <timestamp>2026-06-08T00:46:09Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=1deec7d0-cd50-4263-bffd-eb46bc5e51f3 |Name=Arizona Sunshine |Deck=A "flatscreen" remake of the popular 2016 VR game. |ReleaseDateType=None |Platforms=Platforms/PlayStation 5, Platforms/Nintendo Switch 2, Platforms/Xbox Series X S }}"</comment>
+      <origin>974654</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="245" sha1="5dhy6cavmpl9gdbrwlpfi9i67fl1dhe" xml:space="preserve">{{Game
+|Guid=1deec7d0-cd50-4263-bffd-eb46bc5e51f3
+|Name=Arizona Sunshine
+|Deck=A "flatscreen" remake of the popular 2016 VR game.
+|ReleaseDateType=None
+|Platforms=Platforms/PlayStation 5, Platforms/Nintendo Switch 2, Platforms/Xbox Series X S
+}}</text>
+      <sha1>5dhy6cavmpl9gdbrwlpfi9i67fl1dhe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Arkheron/Credits</title>
+    <ns>0</ns>
+    <id>254310</id>
+    <revision>
+      <id>254761</id>
+      <timestamp>2025-12-08T07:32:20Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254761</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" sha1="pftjxdw5cv4s67at9j590rh1ohktrdu" xml:space="preserve">{{Credits
+|ParentPage=Games/Arkheron
+}}
+{{CreditSubobject
+|Game=Games/Arkheron
+|Release=
+|Dlc=
+|Person=People/Rob_Pardo
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>pftjxdw5cv4s67at9j590rh1ohktrdu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Armatus</title>
+    <ns>0</ns>
+    <id>624799</id>
+    <revision>
+      <id>974832</id>
+      <parentid>974534</parentid>
+      <timestamp>2026-06-09T02:51:05Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974832</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="670" sha1="0f4z58bf0tepd3ktevodm9kxo8g6u86" xml:space="preserve">{{Game
+|Guid=f23b9b5a-8eb5-413e-9734-92b0fbbd102f
+|Name=Armatus
+|Image=https://giantbomb.com/api/media/file/media--file--absfdvsd-06-09-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--yteadfasdfa-06-09-2026.jpg
+|Deck=A third-person shooter set in a demon-infested Paris.
+|ReleaseDateType=Year
+|YearPart=2026
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Demon, Concepts/Third Person Perspective, Concepts/Roguelike, Concepts/Steam
+|Developers=Companies/Counterplay Games Inc
+|Genres=Genres/Action
+|Locations=Locations/Paris, Locations/France
+|Platforms=Platforms/PC
+|Publishers=Companies/Fictions
+|Themes=Themes/Fantasy
+}}</text>
+      <sha1>0f4z58bf0tepd3ktevodm9kxo8g6u86</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Arthurs 2nd Grade/Credits</title>
+    <ns>0</ns>
+    <id>249917</id>
+    <revision>
+      <id>250352</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250352</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="216" sha1="o5tfbee3ono4t68d17itbg8qdjbtkhs" xml:space="preserve">{{Credits
+|ParentPage=Games/Arthurs_2nd_Grade
+}}
+{{CreditSubobject
+|Game=Games/Arthurs_2nd_Grade
+|Release=
+|Dlc=
+|Person=People/Bridget_Erdmann
+|Company=
+|Department=Production
+|Role=PC Windows executive producer
+}}
+</text>
+      <sha1>o5tfbee3ono4t68d17itbg8qdjbtkhs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Arthurs Birthday/Credits</title>
+    <ns>0</ns>
+    <id>249893</id>
+    <revision>
+      <id>250356</id>
+      <parentid>250328</parentid>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250328</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="253" sha1="7yra8mst9kmq4m6cdkos04u05cyo4x8" xml:space="preserve">{{Credits
+|ParentPage=Games/Arthurs_Birthday
+}}
+{{CreditSubobject
+|Game=Games/Arthurs_Birthday
+|Release=
+|Dlc=
+|Person=People/Bridget_Erdmann
+|Company=
+|Department=Visual Arts
+|Role=PC Windows art director, artists, animators and Aunt Bonnie (audio)
+}}
+</text>
+      <sha1>7yra8mst9kmq4m6cdkos04u05cyo4x8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Arthurs Birthday 88913</title>
+    <ns>0</ns>
+    <id>465024</id>
+    <revision>
+      <id>796941</id>
+      <parentid>796937</parentid>
+      <timestamp>2026-03-12T06:53:21Z</timestamp>
+      <contributor>
+        <username>Frobie</username>
+        <id>300</id>
+      </contributor>
+      <comment>fix image</comment>
+      <origin>796941</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1174" sha1="clabvis4klfer53tjdhj4vkefi8wkk0" xml:space="preserve">{{Game
+|Guid=3030-88913
+|Name=Arthur's Birthday
+|Image=https://www.giantbomb.com/a/uploads/original/7/73970/3461790-2217366285-16997.png
+|Deck=An updated release of the 1994 game Arthur's Birthday. For mobile devices this is the first release of the game.
+|ReleaseDateType=Year
+|YearPart=1997
+|Characters=Characters/Arthur_Read
+|Concepts=Concepts/Licensed_Game
+|Developers=Companies/Living_Books, Companies/Wax_Tadpole_Productions
+|Franchises=Franchises/Arthur
+|Genres=Genres/Educational
+|Platforms=Platforms/Android, Platforms/iPad, Platforms/iPhone, Platforms/Mac, Platforms/PC
+|Publishers=Companies/Broderbund_Software_Inc, Companies/Google, Companies/Jordan_Freeman_Group, Companies/Wanderful_Inc
+|Themes=Themes/Fantasy
+}}
+&lt;div id='imageData' data-json='{"infobox":{"file":"3461790-2217366285-16997.png","path":"7\/73970\/","mime":"image\/png","sizes":"scale_super,square_medium,screen_medium,screen_kubrick,scale_large,scale_tiny,scale_small,scale_avatar,square_mini,scale_medium,square_avatar,square_small,square_tiny","caption":null},"background":[]}' /&gt;
+An updated release of the 1994 game Arthur's Birthday. For mobile devices this is the first release of the game.</text>
+      <sha1>clabvis4klfer53tjdhj4vkefi8wkk0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Arthurs Birthday 88913/Credits</title>
+    <ns>0</ns>
+    <id>465025</id>
+    <revision>
+      <id>751849</id>
+      <timestamp>2026-03-04T23:05:05Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>751849</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="265" sha1="jjfshtgqab0vx51jxqf9v9q8jaorvbr" xml:space="preserve">{{Credits
+|ParentPage=Games/Arthurs_Birthday_88913
+}}
+{{CreditSubobject
+|Game=Games/Arthurs_Birthday_88913
+|Release=
+|Dlc=
+|Person=People/Bridget_Erdmann
+|Company=
+|Department=Visual Arts
+|Role=PC Windows art director, artists, animators and Aunt Bonnie (audio)
+}}
+</text>
+      <sha1>jjfshtgqab0vx51jxqf9v9q8jaorvbr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Arthurs Kindergarten/Credits</title>
+    <ns>0</ns>
+    <id>249913</id>
+    <revision>
+      <id>250348</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250348</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="222" sha1="9qxpmaube8zb717li2o16d5b10mrpzq" xml:space="preserve">{{Credits
+|ParentPage=Games/Arthurs_Kindergarten
+}}
+{{CreditSubobject
+|Game=Games/Arthurs_Kindergarten
+|Release=
+|Dlc=
+|Person=People/Bridget_Erdmann
+|Company=
+|Department=Production
+|Role=PC Windows executive producer
+}}
+</text>
+      <sha1>9qxpmaube8zb717li2o16d5b10mrpzq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Arthurs Kindergarten 88923</title>
+    <ns>0</ns>
+    <id>465026</id>
+    <revision>
+      <id>796938</id>
+      <parentid>751850</parentid>
+      <timestamp>2026-03-12T06:29:02Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796938</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1102" sha1="246tuhn7lbkv7em62vs66t5jj38e7tk" xml:space="preserve">{{Game
+| Name= Arthur's Kindergarten
+| Guid=3030-88923
+| Deck=A new, updated version of the original Arthur's Kindergarten (1999).
+| ReleaseDate=2002-04-01
+| ReleaseDateType=Year
+| Characters=Characters/Arthur_Read
+| Concepts=Concepts/Licensed_Game
+| Developers=Companies/Fluent_Solutions,Companies/ImaginEngine_Corp,Companies/Mez_Designs,Companies/Presage_Software_Inc
+| Franchises=Franchises/Arthur
+| Genres=Genres/Educational
+| Locations=
+| Objects=
+| Platforms=Platforms/Mac,Platforms/PC
+| Publishers=Companies/The_Learning_Company
+| Games=
+| Themes=Themes/Fantasy
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3461868-arthurs_kindergarten_2002_pc_3_1.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3461868-arthurs_kindergarten_2002_pc_3_1.jpg","path":"7\/73970\/","mime":"image\/jpeg","sizes":"scale_tiny,scale_medium,scale_avatar,square_mini,square_medium,scale_super,scale_large,square_small,square_avatar,screen_kubrick,square_tiny,screen_medium,scale_small","caption":null},"background":[]}' /&gt;
+A new, updated version of the original Arthur's Kindergarten (1999).</text>
+      <sha1>246tuhn7lbkv7em62vs66t5jj38e7tk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Arthurs Kindergarten 88923/Credits</title>
+    <ns>0</ns>
+    <id>465027</id>
+    <revision>
+      <id>751851</id>
+      <timestamp>2026-03-04T23:05:08Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>751851</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" sha1="opx0f5209agxtabgldb4mfd6o2xytb3" xml:space="preserve">{{Credits
+|ParentPage=Games/Arthurs_Kindergarten_88923
+}}
+{{CreditSubobject
+|Game=Games/Arthurs_Kindergarten_88923
+|Release=
+|Dlc=
+|Person=People/Bridget_Erdmann
+|Company=
+|Department=Production
+|Role=PC Windows executive producer
+}}
+</text>
+      <sha1>opx0f5209agxtabgldb4mfd6o2xytb3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Arthurs Wilderness Rescue/Credits</title>
+    <ns>0</ns>
+    <id>249905</id>
+    <revision>
+      <id>250340</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250340</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="257" sha1="nwi0csqabahnltu5b66m9uhs147ghp6" xml:space="preserve">{{Credits
+|ParentPage=Games/Arthurs_Wilderness_Rescue
+}}
+{{CreditSubobject
+|Game=Games/Arthurs_Wilderness_Rescue
+|Release=
+|Dlc=
+|Person=People/Bridget_Erdmann
+|Company=
+|Department=Production
+|Role=Mac executive producer / PC Windows executive producer
+}}
+</text>
+      <sha1>nwi0csqabahnltu5b66m9uhs147ghp6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Artificial Detective</title>
+    <ns>0</ns>
+    <id>465260</id>
+    <revision>
+      <id>797340</id>
+      <parentid>797338</parentid>
+      <timestamp>2026-03-27T01:57:17Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>797340</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="656" sha1="7zdewfjl0dwsjjtrhp2i36tljmgvrdz" xml:space="preserve">{{Game
+|Guid=f96fa4d2-389a-4ac3-b39e-37df05e768bf
+|Name=Artificial Detective
+|Image=https://giantbomb.com/api/media/file/media--file--cobtxb-03-27-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--artificial-detective-ann_03-26-26-03-27-2026.jpg
+|ReleaseDateType=Year
+|YearPart=2027
+|Concepts=Concepts/Digital Distribution, Concepts/Robot, Concepts/Detective, Concepts/Steam, Concepts/Steam Achievements, Concepts/Steam Cloud, Concepts/Achievements
+|Developers=Companies/Vivix
+|Genres=Genres/Adventure
+|Platforms=Platforms/Xbox Series X S, Platforms/PC
+|Publishers=Companies/Vivix
+|Themes=Themes/Sci Fi, Themes/Post Apocalyptic
+}}</text>
+      <sha1>7zdewfjl0dwsjjtrhp2i36tljmgvrdz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Arzette The Jewel of Faramore/Credits</title>
+    <ns>0</ns>
+    <id>250791</id>
+    <revision>
+      <id>251236</id>
+      <timestamp>2025-12-08T07:32:12Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251236</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5266" sha1="fq1553v1z40lv38mlmiz3ezn4eum8ic" xml:space="preserve">{{Credits
+|ParentPage=Games/Arzette_The_Jewel_of_Faramore
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Seth_Fulkerson
+|Company=
+|Department=Design
+|Role=Director; writer; programmer; designer; original concept; additional art; SFX; additional testing; voice of Dewey; additional voices
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Angel_Haven_Ray
+|Company=
+|Department=Voice Actor
+|Role=Arzette
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Bradley_Gareth
+|Company=
+|Department=Voice Actor
+|Role=Mortar/Cypress/Fleetus/Count Denny
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Brandon_Acosta
+|Company=
+|Department=Voice Actor
+|Role=Beeves/King Rabklin/Salvik/Dail
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/John_Patneaude
+|Company=
+|Department=Voice Actor
+|Role=Wogram/Lord Kari/Mayor Covenplate/Barnabuss
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Anna_Chloe_Moorey
+|Company=
+|Department=Voice Actor
+|Role=Apatu/Payop/Glubbert/Additional Voices
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Heidi_Tabing
+|Company=
+|Department=Voice Actor
+|Role=Zazie/Univor/Fairy
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Andy_Field
+|Company=
+|Department=Voice Actor
+|Role=Klive/Alven
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Jeffrey_Rath
+|Company=
+|Department=Voice Actor
+|Role=Tutorial Voice/Skelvis
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Bonnie_Jean_Wilbur
+|Company=
+|Department=Voice Actor
+|Role=Narrator/Brinda
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Juwan_Royal
+|Company=
+|Department=Voice Actor
+|Role=Milbert/Boru
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Sova_Reign
+|Company=
+|Department=Voice Actor
+|Role=Ciclena/Maki
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Stephanie_Arata
+|Company=
+|Department=Voice Actor
+|Role=Daimur/Francine
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Audi_Sorlie
+|Company=
+|Department=Design
+|Role=Writer; executive producer (Seedy Eye Software); original concept; SFX; additional testing; voice of Tork; additional voices; Norwegian localization; producer (Limited Run Games)
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Coury_Carlson
+|Company=
+|Department=Voice Actor
+|Role=Crowdee
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Daniel_Richeson
+|Company=
+|Department=Voice Actor
+|Role=Munbum/Additional Voices
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Dimitris_Giannakis
+|Company=
+|Department=Voice Actor
+|Role=Joe
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Joe_Modzeleski
+|Company=
+|Department=Business
+|Role=Producer (Limited Run Games); quality assurance (Limited Run Games); voice of Rudy
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/John_Linneman
+|Company=
+|Department=Design
+|Role=Additional design; voice of Ellido
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Josh_Fairhurst
+|Company=
+|Department=Business
+|Role=Executive producer (Limited Run Games); voice of Odie
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Justyn_Barrios
+|Company=
+|Department=Voice Actor
+|Role=Duke Nodelki/Additional Voices
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Marc_Duddleson
+|Company=
+|Department=Production
+|Role=Video production; voice of Yukeen
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Sanora_Fulkerson
+|Company=
+|Department=Quality Assurance
+|Role=Additional testing; voice of Morgh
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Vinny_Vinesauce
+|Company=
+|Department=Voice Actor
+|Role=Frich/Additional Voices
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Vivianne_Ducharme
+|Company=
+|Department=Visual Arts
+|Role=Background art; additional art; voice of Motte; additional voices; French localization
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Yahel_Velazquez
+|Company=
+|Department=Voice Actor
+|Role=Announcer
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Landon_Wood
+|Company=
+|Department=Voice Actor
+|Role=Additional Voices
+}}
+{{CreditSubobject
+|Game=Games/Arzette_The_Jewel_of_Faramore
+|Release=
+|Dlc=
+|Person=People/Jimmy_Davis
+|Company=
+|Department=Visual Arts
+|Role=Illustration; animation
+}}
+</text>
+      <sha1>fq1553v1z40lv38mlmiz3ezn4eum8ic</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Ascenders: Beyond the Peak</title>
+    <ns>0</ns>
+    <id>624792</id>
+    <revision>
+      <id>974831</id>
+      <parentid>974527</parentid>
+      <timestamp>2026-06-09T02:45:47Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974831</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="746" sha1="45lm8ax24ekp32eo29b6kx7y3femkg8" xml:space="preserve">{{Game
+|Guid=dbf3db0e-0728-4acd-b85d-1146655e2fae
+|Name=Ascenders: Beyond the Peak
+|Image=https://giantbomb.com/api/media/file/media--file--afewdava-06-09-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--rthtrgsgfa-06-09-2026.jpg
+|Deck=A turn-based roguelike climbing survival game where the perilous cliffs may hide Lovecraftian horrors.
+|ReleaseDateType=Quarter
+|QuarterPart=Q3
+|QuarterYearPart=2026
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Climbing, Concepts/Turn Based, Concepts/Roguelike, Concepts/Tactical Turn Based Combat, Concepts/Steam
+|Developers=Companies/Ludogram
+|Genres=Genres/Strategy
+|Platforms=Platforms/PC
+|Publishers=Companies/Twin Sails Interactive
+|Themes=Themes/Horror
+}}</text>
+      <sha1>45lm8ax24ekp32eo29b6kx7y3femkg8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Ash 33261</title>
+    <ns>0</ns>
+    <id>464933</id>
+    <revision>
+      <id>796887</id>
+      <parentid>749181</parentid>
+      <timestamp>2026-03-12T06:28:24Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796887</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1080" sha1="id0rduieoo54o40bjh9hsb0oy29s5br" xml:space="preserve">{{Game
+| Name=Ash
+| Guid=3030-33261
+| Deck=Ash is a JRPG developed originally for iOS by SRRN Games, similar to Square's SNES-era RPGs. The game is receiving exceptionally strong reviews for an iPhone-native game. A 3DS port is currently in the works.
+| ReleaseDate=2010-11-09
+| Characters=
+| Concepts=Concepts/Original_Soundtrack_Release,Concepts/PAX_East_2012,Concepts/Single_Word_Titles
+| Developers=Companies/SRRN_Games
+| Franchises=
+| Genres=Genres/Role_Playing
+| Locations=
+| Objects=
+| Platforms=Platforms/iPhone,Platforms/Nintendo_3DS_eShop
+| Publishers=Companies/Circle_Entertainment,Companies/SRRN_Games
+| Games=
+| Themes=Themes/Fantasy
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/165036/3006309-sq_3dsds_ash.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3006309-sq_3dsds_ash.jpg","path":"16\/165036\/","mime":"image\/jpeg","sizes":"scale_super,scale_large,square_mini,square_avatar,square_small,scale_small,scale_medium,screen_medium,square_medium,square_tiny,scale_avatar,scale_tiny,screen_kubrick","caption":null},"background":[]}' /&gt;
+  </text>
+      <sha1>id0rduieoo54o40bjh9hsb0oy29s5br</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Ash 33261/Credits</title>
+    <ns>0</ns>
+    <id>464934</id>
+    <revision>
+      <id>749182</id>
+      <timestamp>2026-03-04T22:29:57Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>749182</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="167" sha1="nywalnno5yepv5f2wbm9iym5ukmv1ne" xml:space="preserve">{{Credits
+|ParentPage=Games/Ash_33261
+}}
+{{CreditSubobject
+|Game=Games/Ash_33261
+|Release=
+|Dlc=
+|Person=People/Khanh_Doan
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+</text>
+      <sha1>nywalnno5yepv5f2wbm9iym5ukmv1ne</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Assassin's Creed Black Flag Resynced</title>
+    <ns>0</ns>
+    <id>624453</id>
+    <revision>
+      <id>978461</id>
+      <parentid>978460</parentid>
+      <timestamp>2026-07-15T02:33:14Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>978461</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1088" sha1="7wtdeqonw4h5l63htsjj33bi1jp2n60" xml:space="preserve">{{Game
+|Guid=80e35439-89b0-4b66-a9e7-e20ab756c51b
+|Name=Assassin's Creed Black Flag Resynced
+|Image=https://giantbomb.com/api/media/file/media--file--document-04-23-2026.png
+|Deck=A remake of 2013's Assassin's Creed IV.
+|ReleaseDateType=Full
+|ReleaseDate=2026-07-09
+|Characters=Characters/Edward Kenway
+|Concepts=Concepts/Digital Distribution, Concepts/Polygonal 3D, Concepts/Remake, Concepts/Achievements, Concepts/Platinum Trophy, Concepts/PlayStation Trophies, Concepts/Male Protagonists, Concepts/Pirate, Concepts/Questing, Concepts/Assassin, Concepts/Knights Templar
+|Developers=Companies/Ubisoft Singapore, Companies/Ubisoft Barcelona
+|Franchises=Franchises/Assassins Creed
+|Genres=Genres/Action Adventure
+|Locations=Locations/Caribbean, Locations/Havana, Locations/Nassau, Locations/Florida
+|Objects=Objects/Pirate Ship, Objects/Hidden Blade, Objects/Pirate Hat, Objects/Cannon, Objects/Mortar
+|Platforms=Platforms/PlayStation 5, Platforms/Xbox Series X S, Platforms/PC
+|Publishers=Companies/Ubisoft Entertainment
+|Games=Games/Skull And Bones
+|Themes=Themes/Alternate Historical
+}}</text>
+      <sha1>7wtdeqonw4h5l63htsjj33bi1jp2n60</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Assassins Creed III Remastered/Credits</title>
+    <ns>0</ns>
+    <id>251300</id>
+    <revision>
+      <id>251746</id>
+      <timestamp>2025-12-08T07:32:13Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251746</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="211" sha1="bqqxkr01gpi68ouaflp8f8td4o13n52" xml:space="preserve">{{Credits
+|ParentPage=Games/Assassins_Creed_III_Remastered
+}}
+{{CreditSubobject
+|Game=Games/Assassins_Creed_III_Remastered
+|Release=
+|Dlc=
+|Person=People/Nolan_North
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>bqqxkr01gpi68ouaflp8f8td4o13n52</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Astro Bot/Credits</title>
+    <ns>0</ns>
+    <id>252523</id>
+    <revision>
+      <id>252973</id>
+      <timestamp>2025-12-08T07:32:16Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>252973</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="723" sha1="lykh1xjgf5zt1angc784a32fytmqg65" xml:space="preserve">{{Credits
+|ParentPage=Games/Astro_Bot
+}}
+{{CreditSubobject
+|Game=Games/Astro_Bot
+|Release=
+|Dlc=
+|Person=People/Gary_Barth
+|Company=
+|Department=Unclassified
+|Role=Creative Arts - Creative Director
+}}
+{{CreditSubobject
+|Game=Games/Astro_Bot
+|Release=
+|Dlc=
+|Person=People/Kenneth_Young
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Astro_Bot
+|Release=
+|Dlc=
+|Person=People/Nicolas_Doucet
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Astro_Bot
+|Release=
+|Dlc=
+|Person=People/Kemmei_Adachi
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Astro_Bot
+|Release=
+|Dlc=
+|Person=People/Sachiko_Miyano
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>lykh1xjgf5zt1angc784a32fytmqg65</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Astromeda/Credits</title>
+    <ns>0</ns>
+    <id>249654</id>
+    <revision>
+      <id>250088</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250088</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="195" sha1="821i6gshl2b32tz3ys9d7p885f7erwp" xml:space="preserve">{{Credits
+|ParentPage=Games/Astromeda
+}}
+{{CreditSubobject
+|Game=Games/Astromeda
+|Release=
+|Dlc=
+|Person=People/Anthony_J_Wilson
+|Company=
+|Department=Programming
+|Role=Atari 8-bit written by
+}}
+</text>
+      <sha1>821i6gshl2b32tz3ys9d7p885f7erwp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Astrosmash 2023/Credits</title>
+    <ns>0</ns>
+    <id>250619</id>
+    <revision>
+      <id>251064</id>
+      <timestamp>2025-12-08T07:32:12Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251064</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="178" sha1="5jgs2cnxulfbqb2ih8uvxd840xzqfg7" xml:space="preserve">{{Credits
+|ParentPage=Games/Astrosmash_2023
+}}
+{{CreditSubobject
+|Game=Games/Astrosmash_2023
+|Release=
+|Dlc=
+|Person=People/Tommy_Tallarico
+|Company=
+|Department=Audio
+|Role=
+}}
+</text>
+      <sha1>5jgs2cnxulfbqb2ih8uvxd840xzqfg7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Atelier Karia: The Night Kingdom &amp; the Guide of Memories</title>
+    <ns>0</ns>
+    <id>625042</id>
+    <revision>
+      <id>974894</id>
+      <timestamp>2026-06-09T17:29:44Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=75a8c568-b21d-42c3-a9b0-c77d55c8e73c |Name=Atelier Karia: The Night Kingdom &amp; the Guide of Memories |Image=Capsule 616x353.jpg |ReleaseDateType=Full |Concepts=Concepts/Digital Distribution, Concepts/Steam, Concepts/Female Protagonists, Concepts/Amnesia |Developers=Companies/Koei Tecmo |Franchises=Franchises/Atelier |Genres=Genres/Role Playing |Platforms=Platforms/PC, Platforms/Nintendo Switch 2 |Publishers=Companies/Koei Tecmo |Themes=Themes/Fantasy }}"</comment>
+      <origin>974894</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="469" sha1="doljd1o6bl109yn4qjncopx53e0ts2m" xml:space="preserve">{{Game
+|Guid=75a8c568-b21d-42c3-a9b0-c77d55c8e73c
+|Name=Atelier Karia: The Night Kingdom &amp; the Guide of Memories
+|Image=Capsule 616x353.jpg
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/Steam, Concepts/Female Protagonists, Concepts/Amnesia
+|Developers=Companies/Koei Tecmo
+|Franchises=Franchises/Atelier
+|Genres=Genres/Role Playing
+|Platforms=Platforms/PC, Platforms/Nintendo Switch 2
+|Publishers=Companies/Koei Tecmo
+|Themes=Themes/Fantasy
+}}</text>
+      <sha1>doljd1o6bl109yn4qjncopx53e0ts2m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Atlanta TD</title>
+    <ns>0</ns>
+    <id>624961</id>
+    <revision>
+      <id>974699</id>
+      <timestamp>2026-06-08T01:18:47Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=f632db67-bc51-4440-9e09-9bca245a471a |Name=Atlanta TD |ReleaseDateType=None }}"</comment>
+      <origin>974699</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="91" sha1="7bwtqp8wiehyy5191438rymev8iffwo" xml:space="preserve">{{Game
+|Guid=f632db67-bc51-4440-9e09-9bca245a471a
+|Name=Atlanta TD
+|ReleaseDateType=None
+}}</text>
+      <sha1>7bwtqp8wiehyy5191438rymev8iffwo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Attack of the Astrals</title>
+    <ns>0</ns>
+    <id>624985</id>
+    <revision>
+      <id>974723</id>
+      <timestamp>2026-06-08T01:31:26Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=af05ca7e-b3f3-4d18-9a24-910c0a2d2b0a |Name=Attack of the Astrals |ReleaseDateType=None }}"</comment>
+      <origin>974723</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="102" sha1="buk33wia4wcq77tl2lgw3n2rnbip0v5" xml:space="preserve">{{Game
+|Guid=af05ca7e-b3f3-4d18-9a24-910c0a2d2b0a
+|Name=Attack of the Astrals
+|ReleaseDateType=None
+}}</text>
+      <sha1>buk33wia4wcq77tl2lgw3n2rnbip0v5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Attack on Titan 3</title>
+    <ns>0</ns>
+    <id>624721</id>
+    <revision>
+      <id>974415</id>
+      <parentid>974414</parentid>
+      <timestamp>2026-06-06T03:55:35Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974415</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="713" sha1="2jus11b1g4xlv0ejp419ox9udvrkntl" xml:space="preserve">{{Game
+|Guid=955f16e9-618d-402a-8a1e-8216d7281a2a
+|Name=Attack on Titan 3
+|Image=https://giantbomb.com/api/media/file/media--file--abnaweaf-06-06-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--ss_d9ecc2b0785aa1301b5688a1c01622ca2f460121-1920x1080-06-06-2026.jpg
+|Deck=The definitive ending to the Attack on Titan video game series.
+|ReleaseDateType=None
+|Concepts=Concepts/Digital Distribution, Concepts/Licensed Game, Concepts/Steam, Concepts/Polygonal 3D
+|Developers=Companies/Omega Force
+|Franchises=Franchises/Attack on Titan
+|Genres=Genres/Action
+|Platforms=Platforms/PC, Platforms/PlayStation 5, Platforms/Xbox Series X S
+|Publishers=Companies/Koei Tecmo
+|Themes=Themes/Anime
+}}</text>
+      <sha1>2jus11b1g4xlv0ejp419ox9udvrkntl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Avatar Legends: The Fighting Game</title>
+    <ns>0</ns>
+    <id>465270</id>
+    <revision>
+      <id>797354</id>
+      <parentid>797353</parentid>
+      <timestamp>2026-03-29T01:10:04Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>797354</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="817" sha1="7ci1o0eqx5x0y3g70bqbm5wt72vp3tp" xml:space="preserve">{{Game
+|Guid=c0582dc4-8c2d-4f7b-acdd-d3f93f42784c
+|Name=Avatar Legends: The Fighting Game
+|Image=https://giantbomb.com/api/media/file/media--file--library_capsule_2x-03-29-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--library_hero_2x-03-29-2026.jpg
+|ReleaseDateType=Year
+|YearPart=2026
+|Concepts=Concepts/Digital Distribution, Concepts/Steam, Concepts/GGPO, Concepts/Licensed Game, Concepts/Classical Elements, Concepts/Air Element, Concepts/Aqua element, Concepts/Fire Element, Concepts/Earth Element, Concepts/Hand to Hand Combat
+|Franchises=Franchises/Avatar The Last Airbender
+|Genres=Genres/Fighting
+|Platforms=Platforms/PC, Platforms/PlayStation 5, Platforms/Xbox Series X S, Platforms/Nintendo Switch 2
+|Publishers=Companies/PM Studios
+|Themes=Themes/Anime, Themes/Martial Arts
+}}</text>
+      <sha1>7ci1o0eqx5x0y3g70bqbm5wt72vp3tp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Avatar The Last Airbender Quest for Balance/Credits</title>
+    <ns>0</ns>
+    <id>251161</id>
+    <revision>
+      <id>251607</id>
+      <timestamp>2025-12-08T07:32:13Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251607</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="233" sha1="04w97d97t45woo4c4dw7bjdkukjfn2i" xml:space="preserve">{{Credits
+|ParentPage=Games/Avatar_The_Last_Airbender_Quest_for_Balance
+}}
+{{CreditSubobject
+|Game=Games/Avatar_The_Last_Airbender_Quest_for_Balance
+|Release=
+|Dlc=
+|Person=People/Cory_Yee
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+</text>
+      <sha1>04w97d97t45woo4c4dw7bjdkukjfn2i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Azure Striker Gunvolt Trilogy Enhanced/Credits</title>
+    <ns>0</ns>
+    <id>254581</id>
+    <revision>
+      <id>255033</id>
+      <timestamp>2025-12-08T07:32:21Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>255033</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="413" sha1="gs0bm3ukpn6wo1armqdlkct5z7hic7x" xml:space="preserve">{{Credits
+|ParentPage=Games/Azure_Striker_Gunvolt_Trilogy_Enhanced
+}}
+{{CreditSubobject
+|Game=Games/Azure_Striker_Gunvolt_Trilogy_Enhanced
+|Release=
+|Dlc=
+|Person=People/Uchida_Yuma
+|Company=
+|Department=Voice Actor
+|Role=Copen (Japanese)
+}}
+{{CreditSubobject
+|Game=Games/Azure_Striker_Gunvolt_Trilogy_Enhanced
+|Release=
+|Dlc=
+|Person=People/Mayu_Mineda
+|Company=
+|Department=Voice Actor
+|Role=Lola (Japanese)
+}}
+</text>
+      <sha1>gs0bm3ukpn6wo1armqdlkct5z7hic7x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Baby Einstein Baby Newton Fun with Shapes/Credits</title>
+    <ns>0</ns>
+    <id>249897</id>
+    <revision>
+      <id>250332</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250332</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="263" sha1="7autg0vho48zhw6tm4hu3z366ms212d" xml:space="preserve">{{Credits
+|ParentPage=Games/Baby_Einstein_Baby_Newton_Fun_with_Shapes
+}}
+{{CreditSubobject
+|Game=Games/Baby_Einstein_Baby_Newton_Fun_with_Shapes
+|Release=
+|Dlc=
+|Person=People/Bridget_Erdmann
+|Company=
+|Department=Production
+|Role=PC Windows creative director
+}}
+</text>
+      <sha1>7autg0vho48zhw6tm4hu3z366ms212d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Backgammon 2000 67603</title>
+    <ns>0</ns>
+    <id>465012</id>
+    <revision>
+      <id>796926</id>
+      <parentid>751351</parentid>
+      <timestamp>2026-03-12T06:28:53Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796926</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="971" sha1="n81wsyt8vf0tu5x3sskq83clje19xnz" xml:space="preserve">{{Game
+| Name=Backgammon 2000
+| Guid=3030-67603
+| Deck=A backgammon simulator for PlayStation from Oxford Softworks and Unbalance.
+| ReleaseDate=2000-05-18
+| Characters=
+| Concepts=Concepts/Backgammon,Concepts/Year_in_the_Title
+| Developers=Companies/Oxford_Softworks
+| Franchises=
+| Genres=Genres/Trivia_Board_Game
+| Locations=
+| Objects=
+| Platforms=Platforms/PlayStation
+| Publishers=Companies/Unbalance_Corporation
+| Games=Games/Backgammon_2000
+| Themes=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3008450-5052885164-39931.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3008450-5052885164-39931.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,scale_avatar,square_medium,square_small,scale_large,scale_small,square_tiny,square_avatar,screen_medium,square_mini,scale_tiny,screen_kubrick","caption":null},"background":[]}' /&gt;
+A backgammon simulator for PlayStation from Oxford Softworks and Unbalance.</text>
+      <sha1>n81wsyt8vf0tu5x3sskq83clje19xnz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Bad Magpie</title>
+    <ns>0</ns>
+    <id>624744</id>
+    <revision>
+      <id>974752</id>
+      <parentid>974466</parentid>
+      <timestamp>2026-06-08T12:52:45Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974752</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="665" sha1="tcyu4apxmhzba4beu82xh42tgfm9pkp" xml:space="preserve">{{Game
+|Guid=e79814ca-d4dc-4d98-ada5-194873459dea
+|Name=Bad Magpie
+|Image=https://giantbomb.com/api/media/file/media--file--erhtaera-06-07-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--tryurtyjrf-06-07-2026.jpg
+|Deck=A narrative adventure about a one-winged bird who has a penchant for getting into trouble.
+|ReleaseDateType=Year
+|YearPart=2027
+|Concepts=Concepts/Digital Distribution, Concepts/Polygonal 3D, Concepts/Animal Protagonists
+|Developers=Companies/Milktooth
+|Genres=Genres/Adventure
+|Platforms=Platforms/Xbox Series X S, Platforms/PC
+|Publishers=Companies/Milktooth
+|Games=Games/Untitled Goose Game
+|Themes=Themes/Comedy
+}}</text>
+      <sha1>tcyu4apxmhzba4beu82xh42tgfm9pkp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Ballfrog/Credits</title>
+    <ns>0</ns>
+    <id>249707</id>
+    <revision>
+      <id>250141</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250141</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="176" sha1="keef1j1p379ts7kkxsz8shqfk1gn7l0" xml:space="preserve">{{Credits
+|ParentPage=Games/Ballfrog
+}}
+{{CreditSubobject
+|Game=Games/Ballfrog
+|Release=
+|Dlc=
+|Person=People/Florian_Himsl
+|Company=
+|Department=Design
+|Role=Lead Designer
+}}
+</text>
+      <sha1>keef1j1p379ts7kkxsz8shqfk1gn7l0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Ballgame</title>
+    <ns>0</ns>
+    <id>624651</id>
+    <revision>
+      <id>974192</id>
+      <parentid>974191</parentid>
+      <timestamp>2026-06-02T14:05:22Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974192</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="595" sha1="jm2hcsm0l9zfwbhgj9co5sgflga0odd" xml:space="preserve">{{Game
+|Guid=91e0cc35-c7cc-4ff6-b3e3-17ff7a67d56f
+|Name=Ballgame
+|Image=https://giantbomb.com/api/media/file/media--file--header-06-02-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--ss_6fe8a6582b77af00af5d656d61bdfcdc1085659a-1920x1080-06-02-2026.jpg
+|Deck=A chaotic, physics-based mash-up between platforming and golf.
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/Indie, Concepts/2D, Concepts/Steam
+|Developers=Companies/Human Computer
+|Genres=Genres/Golf, Genres/Platformer
+|Platforms=Platforms/PC
+|Publishers=Companies/Human Computer
+}}</text>
+      <sha1>jm2hcsm0l9zfwbhgj9co5sgflga0odd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Ballistik/Credits</title>
+    <ns>0</ns>
+    <id>255998</id>
+    <revision>
+      <id>256453</id>
+      <timestamp>2025-12-08T07:32:24Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>256453</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1342" sha1="nch1ssbklgkqxcuizkh2z9dzlkuwqy0" xml:space="preserve">{{Credits
+|ParentPage=Games/Ballistik
+}}
+{{CreditSubobject
+|Game=Games/Ballistik
+|Release=
+|Dlc=
+|Person=People/Denis_Shishkin
+|Company=
+|Department=Unclassified
+|Role=Programming
+}}
+{{CreditSubobject
+|Game=Games/Ballistik
+|Release=
+|Dlc=
+|Person=People/Konstantin_Shishkin
+|Company=
+|Department=Unclassified
+|Role=Art and Level Design
+}}
+{{CreditSubobject
+|Game=Games/Ballistik
+|Release=
+|Dlc=
+|Person=People/Viktoria_Shishkina
+|Company=
+|Department=Unclassified
+|Role=Art and Level Design
+}}
+{{CreditSubobject
+|Game=Games/Ballistik
+|Release=
+|Dlc=
+|Person=People/Konstantin_Elgazin
+|Company=
+|Department=Unclassified
+|Role=Music
+}}
+{{CreditSubobject
+|Game=Games/Ballistik
+|Release=
+|Dlc=
+|Person=People/Israel_Evans
+|Company=
+|Department=Unclassified
+|Role=Art Director
+}}
+{{CreditSubobject
+|Game=Games/Ballistik
+|Release=
+|Dlc=
+|Person=People/Matt_Hayhurst
+|Company=
+|Department=Unclassified
+|Role=Artist
+}}
+{{CreditSubobject
+|Game=Games/Ballistik
+|Release=
+|Dlc=
+|Person=People/Daniel_Bernstein
+|Company=
+|Department=Unclassified
+|Role=Sound and Music
+}}
+{{CreditSubobject
+|Game=Games/Ballistik
+|Release=
+|Dlc=
+|Person=People/Andrew_Megowan
+|Company=
+|Department=Unclassified
+|Role=Technical Director
+}}
+{{CreditSubobject
+|Game=Games/Ballistik
+|Release=
+|Dlc=
+|Person=People/Andrew_Lum
+|Company=
+|Department=Unclassified
+|Role=Testing
+}}
+</text>
+      <sha1>nch1ssbklgkqxcuizkh2z9dzlkuwqy0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Balrum 54458</title>
+    <ns>0</ns>
+    <id>464996</id>
+    <revision>
+      <id>796916</id>
+      <parentid>751038</parentid>
+      <timestamp>2026-03-12T06:28:46Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796916</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3046" sha1="in4g06dv2y70uy75cijqkb1r4bvnix4" xml:space="preserve">{{Game
+| Name=Balrum
+| Guid=3030-54458
+| Deck=An isometric, open world, turn-based RPG in which players build a home and farm while attempting to unlock the secrets of the world outside their safe and isolated village. Originally funded on Kickstarter.
+| ReleaseDate=2016-03-01
+| Characters=
+| Concepts=Concepts/Crafting,Concepts/Dialogue_Tree,Concepts/Farming,Concepts/GOG_com,Concepts/Kickstarter_Funded,Concepts/Mining,Concepts/Single_Word_Titles,Concepts/Tactical_Turn_Based_Combat
+| Developers=Companies/Balcony_Team
+| Franchises=
+| Genres=Genres/Role_Playing
+| Locations=
+| Objects=
+| Platforms=Platforms/PC
+| Publishers=Companies/Balcony_Team
+| Games=
+| Themes=Themes/Fantasy
+| Image=https://www.giantbomb.com/a/uploads/scale_super/33/338034/3305784-8744677130-libra.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3305784-8744677130-libra.jpg","path":"33\/338034\/","mime":"image\/jpeg","sizes":"screen_kubrick,scale_super,scale_tiny,square_medium,scale_avatar,scale_small,square_tiny,square_small,scale_medium,screen_medium,scale_large,square_mini,square_avatar","caption":null},"background":[]}' /&gt;
+Balrum is an old-school, turn-based, open world RPG with deep tactical combat. Explore a huge living fantasy world with dozens of side quests next to an epic main quest. In addition to traditional RPG features Balrum has deep crafting which allows the player to craft their own custom items. Balrum also features farming your own crops, building your home, and survival mechanics complemented by the game's main features. In Balrum you will have a faithful animal companion as your pet. Your pet is fully controllable and adds greatly to the complexity of the combat.
+
+The player takes control of a young man whose peaceful life is suddenly interrupted by events which will change his life forever.
+
+
+==Features:==
+* Real-Time world with Turn-Based Combat
+* A huge Open World with dozens of Dungeons to explore
+* Spend your learning points to create a pure class or a hybrid class
+* Dozens of Side Quests and an Epic Main Quest
+* Three separate paths leading to the end
+* Building
+* Farming
+* Tame various animals to be your loyal Companion
+* Deep Crafting System which allows you to create custom items
+* Day/Night Cycle with Weather Effects
+* Survival Mechanics
+
+==Story==
+It's twenty years after your village fled the kingdom and took refuge in Darkwood. You always knew that these woods hold dark secrets but now you start to feel it's evil on your own skin. Horrible things are happening. You discover fragments of the woods dark history and come to the conclusion that you have to leave your home. You know in your heart that once you step out of the protection of the place where you grown up, nothing will be the same. You have to face a world that's in chaos. A world without laws. Nevertheless you feel something else too. You feel freedom. A completely new world awaits you to explore it, but the feeling quickly turns into guilt. There are people in Darkwood who are counting on your help. You are their last hope.</text>
+      <sha1>in4g06dv2y70uy75cijqkb1r4bvnix4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Bancho the Chef</title>
+    <ns>0</ns>
+    <id>624655</id>
+    <revision>
+      <id>974223</id>
+      <parentid>974221</parentid>
+      <timestamp>2026-06-02T22:47:34Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974223</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="473" sha1="q59yb2d971hb0tlws9ge6awo3nfzs0k" xml:space="preserve">{{Game
+|Guid=dcc5cddb-553e-4e92-a909-c9e983054559
+|Name=Bancho the Chef
+|Image=Bancho.jpg
+|Deck=A prequel to Dave the Diver.
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/Prequel, Concepts/Cooking
+|Developers=Companies/Mintrocket
+|Franchises=Franchises/Dave the Diver
+|Genres=Genres/Simulation
+|Locations=Locations/Japan, Locations/South Korea, Locations/China, Locations/Asia
+|Platforms=Platforms/PlayStation 5
+|Publishers=Companies/Mintrocket
+}}</text>
+      <sha1>q59yb2d971hb0tlws9ge6awo3nfzs0k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Bang Bang Ball/Credits</title>
+    <ns>0</ns>
+    <id>252609</id>
+    <revision>
+      <id>253059</id>
+      <timestamp>2025-12-08T07:32:16Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>253059</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="178" sha1="7a7yyh3nlp2ka3481adiw891lnwk7a6" xml:space="preserve">{{Credits
+|ParentPage=Games/Bang_Bang_Ball
+}}
+{{CreditSubobject
+|Game=Games/Bang_Bang_Ball
+|Release=
+|Dlc=
+|Person=People/Ikuya_Ochi
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>7a7yyh3nlp2ka3481adiw891lnwk7a6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Barbarian Saga: Beastmaster</title>
+    <ns>0</ns>
+    <id>624951</id>
+    <revision>
+      <id>974688</id>
+      <timestamp>2026-06-08T01:03:40Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=e374f63a-5d9d-4580-b78b-171c1de6a9f5 |Name=Barbarian Saga: Beastmaster |ReleaseDateType=None }}"</comment>
+      <origin>974688</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="108" sha1="kyl6ryz7boy93c9f0bjeojynjwwuheo" xml:space="preserve">{{Game
+|Guid=e374f63a-5d9d-4580-b78b-171c1de6a9f5
+|Name=Barbarian Saga: Beastmaster
+|ReleaseDateType=None
+}}</text>
+      <sha1>kyl6ryz7boy93c9f0bjeojynjwwuheo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Barbie Rewind</title>
+    <ns>0</ns>
+    <id>624740</id>
+    <revision>
+      <id>974453</id>
+      <parentid>974425</parentid>
+      <timestamp>2026-06-07T18:24:41Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974453</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="544" sha1="e6zcwm0xbywukon6f07j0we8eavsiim" xml:space="preserve">{{Game
+|Guid=e7897d4b-514a-4b0b-84a5-e1ea5b10baf6
+|Name=Barbie Rewind
+|Image=Asaba.webp
+|Deck=A collection of sixteen classic Barbie games.
+|ReleaseDateType=Full
+|ReleaseDate=2026-11-12
+|Concepts=Concepts/Digital Distribution
+|Developers=Companies/Digital Eclipse Software Inc
+|Franchises=Franchises/Barbie
+|Genres=Genres/Compilation
+|Platforms=Platforms/PlayStation 4, Platforms/PlayStation 5, Platforms/Xbox Series X S, Platforms/Xbox One, Platforms/Nintendo Switch, Platforms/Nintendo Switch 2, Platforms/PC
+|Publishers=Companies/Atari SA
+}}</text>
+      <sha1>e6zcwm0xbywukon6f07j0we8eavsiim</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Baseball 8145/Credits</title>
+    <ns>0</ns>
+    <id>464749</id>
+    <revision>
+      <id>744502</id>
+      <timestamp>2026-03-04T21:17:28Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>744502</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="315" sha1="74187iih5uocgu9qr88ve8kqpqyh3lu" xml:space="preserve">{{Credits
+|ParentPage=Games/Baseball_8145
+}}
+{{CreditSubobject
+|Game=Games/Baseball_8145
+|Release=
+|Dlc=
+|Person=People/Hiroshi_Yamauchi
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Baseball_8145
+|Release=
+|Dlc=
+|Person=People/Kenji_Miki
+|Company=
+|Department=Design
+|Role=Director
+}}
+</text>
+      <sha1>74187iih5uocgu9qr88ve8kqpqyh3lu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Bashful Adoration</title>
+    <ns>0</ns>
+    <id>624960</id>
+    <revision>
+      <id>974698</id>
+      <timestamp>2026-06-08T01:18:28Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=4c3d2997-b7a6-438f-b04c-41c8d3a4b323 |Name=Bashful Adoration |ReleaseDateType=None }}"</comment>
+      <origin>974698</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="98" sha1="dtdr7ckxhjblz8fxikssu4wobgapb1b" xml:space="preserve">{{Game
+|Guid=4c3d2997-b7a6-438f-b04c-41c8d3a4b323
+|Name=Bashful Adoration
+|ReleaseDateType=None
+}}</text>
+      <sha1>dtdr7ckxhjblz8fxikssu4wobgapb1b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Batman Arkham Shadow/Credits</title>
+    <ns>0</ns>
+    <id>252303</id>
+    <revision>
+      <id>252752</id>
+      <timestamp>2025-12-08T07:32:16Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>252752</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="326" sha1="291m9n25w2b1i3ffhk82j7huzqzseth" xml:space="preserve">{{Credits
+|ParentPage=Games/Batman_Arkham_Shadow
+}}
+{{CreditSubobject
+|Game=Games/Batman_Arkham_Shadow
+|Release=
+|Dlc=
+|Person=People/Cory_Yee
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Batman_Arkham_Shadow
+|Release=
+|Dlc=
+|Person=People/Nolan_North
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>291m9n25w2b1i3ffhk82j7huzqzseth</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Be My Horde</title>
+    <ns>0</ns>
+    <id>624924</id>
+    <revision>
+      <id>974661</id>
+      <timestamp>2026-06-08T00:50:06Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=878faa15-91db-416d-9438-621116f0675e |Name=Be My Horde |ReleaseDateType=None }}"</comment>
+      <origin>974661</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="92" sha1="jrhbvo2f8xsqq3gs9imckia0se4scey" xml:space="preserve">{{Game
+|Guid=878faa15-91db-416d-9438-621116f0675e
+|Name=Be My Horde
+|ReleaseDateType=None
+}}</text>
+      <sha1>jrhbvo2f8xsqq3gs9imckia0se4scey</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Beards Go Underground</title>
+    <ns>0</ns>
+    <id>624493</id>
+    <revision>
+      <id>973749</id>
+      <timestamp>2026-05-04T12:57:00Z</timestamp>
+      <contributor>
+        <username>PandaBee-Studios</username>
+        <id>3627</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=3937fd62-2ad4-4655-9606-20d3e585a4af |Name=Beards Go Underground |Caption=The Mining Deckbuilder |ReleaseDateType=Full }}"</comment>
+      <origin>973749</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="134" sha1="f9jvabxvjzgim4x7nzss66oildhp3im" xml:space="preserve">{{Game
+|Guid=3937fd62-2ad4-4655-9606-20d3e585a4af
+|Name=Beards Go Underground
+|Caption=The Mining Deckbuilder
+|ReleaseDateType=Full
+}}</text>
+      <sha1>f9jvabxvjzgim4x7nzss66oildhp3im</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Beastfolk Barber</title>
+    <ns>0</ns>
+    <id>624846</id>
+    <revision>
+      <id>975085</id>
+      <parentid>975081</parentid>
+      <timestamp>2026-06-15T20:16:10Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975085</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="685" sha1="eyj31x5nsxi90s5e2ikqcmwrt9p5l0f" xml:space="preserve">{{Game
+|Guid=64974699-af6c-4888-a321-65d74e49985f
+|Name=Beastfolk Barber
+|Image=https://giantbomb.com/api/media/file/media--file--beastfolk-barber-06-15-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--beastfolk-barberb-06-15-2026.jpg
+|Deck=A visual novel and barbershop simulator in a city of animal people.
+|ReleaseDateType=None
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Anthropomorphism, Concepts/Steam, Concepts/2D, Concepts/Visual Novel
+|Developers=Companies/Safe Flight Games, Companies/GameWorks Ventures
+|Genres=Genres/Simulation, Genres/Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/Sigono
+|Themes=Themes/Fantasy
+}}</text>
+      <sha1>eyj31x5nsxi90s5e2ikqcmwrt9p5l0f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Beauty and the Beast Perfect Match/Credits</title>
+    <ns>0</ns>
+    <id>250126</id>
+    <revision>
+      <id>250571</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250571</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="253" sha1="emrcxf2fv4cqscz420rz6xilh0vna53" xml:space="preserve">{{Credits
+|ParentPage=Games/Beauty_and_the_Beast_Perfect_Match
+}}
+{{CreditSubobject
+|Game=Games/Beauty_and_the_Beast_Perfect_Match
+|Release=
+|Dlc=
+|Person=People/Rob_Rowe
+|Company=
+|Department=Business
+|Role=Android director and franchise management
+}}
+</text>
+      <sha1>emrcxf2fv4cqscz420rz6xilh0vna53</sha1>
+    </revision>
+  </page>
+</mediawiki>

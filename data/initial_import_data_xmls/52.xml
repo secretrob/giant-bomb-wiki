@@ -1,0 +1,3765 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Games/The Evil Within The Consequence/Credits</title>
+    <ns>0</ns>
+    <id>250155</id>
+    <revision>
+      <id>250600</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250600</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="248" sha1="dww4849mwkplrv36ky1az7ygxm5a7hv" xml:space="preserve">{{Credits
+|ParentPage=Games/The_Evil_Within_The_Consequence
+}}
+{{CreditSubobject
+|Game=Games/The_Evil_Within_The_Consequence
+|Release=
+|Dlc=
+|Person=People/William_Noble
+|Company=
+|Department=Quality Assurance
+|Role=PC Windows playtest managers
+}}
+</text>
+      <sha1>dww4849mwkplrv36ky1az7ygxm5a7hv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Evil Within The Executioner/Credits</title>
+    <ns>0</ns>
+    <id>250159</id>
+    <revision>
+      <id>250604</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250604</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="248" sha1="i5gvjooad9t3j99asx0z5btj4h09ysg" xml:space="preserve">{{Credits
+|ParentPage=Games/The_Evil_Within_The_Executioner
+}}
+{{CreditSubobject
+|Game=Games/The_Evil_Within_The_Executioner
+|Release=
+|Dlc=
+|Person=People/William_Noble
+|Company=
+|Department=Quality Assurance
+|Role=PC Windows playtest managers
+}}
+</text>
+      <sha1>i5gvjooad9t3j99asx0z5btj4h09ysg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Great Chocolate Chase A Chocolatier Twist/Credits</title>
+    <ns>0</ns>
+    <id>249951</id>
+    <revision>
+      <id>250389</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250389</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="266" sha1="e9qwyhhnt3xcu4zzipcpxvlh8z33uri" xml:space="preserve">{{Credits
+|ParentPage=Games/The_Great_Chocolate_Chase_A_Chocolatier_Twist
+}}
+{{CreditSubobject
+|Game=Games/The_Great_Chocolate_Chase_A_Chocolatier_Twist
+|Release=
+|Dlc=
+|Person=People/Nicholas_Stern
+|Company=
+|Department=Visual Arts
+|Role=PC Windows art director
+}}
+</text>
+      <sha1>e9qwyhhnt3xcu4zzipcpxvlh8z33uri</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Greenening</title>
+    <ns>0</ns>
+    <id>624896</id>
+    <revision>
+      <id>975243</id>
+      <parentid>974633</parentid>
+      <timestamp>2026-06-27T03:06:54Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975243</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="681" sha1="gags6ly66oazrnhbtywu3k7b2stcf0k" xml:space="preserve">{{Game
+|Guid=bb232766-56b3-44bc-9209-4fc0290557a7
+|Name=The Greenening
+|Image=https://giantbomb.com/api/media/file/media--file--the-greenening-06-27-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--the-greeneningb-06-27-2026.jpg
+|Deck=An incremental exploration game about restoring the greenery to an ashen planet.
+|ReleaseDateType=Full
+|ReleaseDate=2026-05-07
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Polygonal 3D, Concepts/Exploration, Concepts/Steam Achievements, Concepts/Steam Cloud
+|Developers=Companies/Erkberg Games
+|Genres=Genres/Simulation
+|Platforms=Platforms/PC
+|Publishers=Companies/Erkberg Games
+}}</text>
+      <sha1>gags6ly66oazrnhbtywu3k7b2stcf0k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Harvest 32454</title>
+    <ns>0</ns>
+    <id>464921</id>
+    <revision>
+      <id>796882</id>
+      <parentid>749053</parentid>
+      <timestamp>2026-03-12T06:28:20Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796882</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1168" sha1="cfk6cd1wnqi1adsjv2dclv1cxqeb9hi" xml:space="preserve">{{Game
+| Name=The Harvest
+| Guid=3030-32454
+| Deck=Science fiction themed RPG for Windows Phone and Windows 8.
+| ReleaseDate=2010-10-15
+| Characters=
+| Concepts=Concepts/Achievements,Concepts/Role_Playing_Shooter,Concepts/RPG_Elements,Concepts/Touch_Controls,Concepts/Xbox_Live
+| Developers=Companies/Xbox_Game_Studios
+| Franchises=
+| Genres=Genres/Action,Genres/Role_Playing
+| Locations=
+| Objects=
+| Platforms=Platforms/PC,Platforms/Windows_Phone
+| Publishers=Companies/Xbox_Game_Studios
+| Games=
+| Themes=Themes/Sci_Fi
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/87790/2481856-box_harvest.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2481856-box_harvest.png","path":"8\/87790\/","mime":"image\/png","sizes":"square_small,square_tiny,square_medium,scale_tiny,scale_small,square_mini,square_avatar,scale_medium,screen_medium,scale_large,scale_avatar,scale_super,screen_kubrick","caption":"WIN8 box art (cropped)"},"background":[]}' /&gt;
+
+==Overview==
+The Harvest is a touch based action RPG first released on Windows Phone on October 15, 2010. An updated version titled The Harvest HD is set to be released for Windows 8 on October 26, 2012.</text>
+      <sha1>cfk6cd1wnqi1adsjv2dclv1cxqeb9hi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Haunted Palace/Credits</title>
+    <ns>0</ns>
+    <id>250258</id>
+    <revision>
+      <id>250703</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250703</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="198" sha1="2gltybfpjelnnos3ef6uupequlrzo6l" xml:space="preserve">{{Credits
+|ParentPage=Games/The_Haunted_Palace
+}}
+{{CreditSubobject
+|Game=Games/The_Haunted_Palace
+|Release=
+|Dlc=
+|Person=People/John_Bell
+|Company=
+|Department=Design
+|Role=Atari 8-bit game by
+}}
+</text>
+      <sha1>2gltybfpjelnnos3ef6uupequlrzo6l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Hearth &amp; Harbour</title>
+    <ns>0</ns>
+    <id>624881</id>
+    <revision>
+      <id>975185</id>
+      <parentid>975183</parentid>
+      <timestamp>2026-06-21T23:06:31Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975185</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="647" sha1="es631tq570bv8ws5bcwqahdxv6vhcjc" xml:space="preserve">{{Game
+|Guid=a29eb20a-3171-4c68-a3c3-43f373b0ff5f
+|Name=The Hearth and Harbour
+|Image=https://giantbomb.com/api/media/file/media--file--the-hearth-harbour-06-21-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--the-hearth-harbourb-06-21-2026.jpg
+|Deck=Build a new life by restoring a delapidated restaurant in this adventure RPG.
+|ReleaseDateType=Year
+|YearPart=2026
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/2D, Concepts/Cooking
+|Developers=Companies/Saltstone Studios
+|Genres=Genres/Adventure, Genres/Role Playing
+|Platforms=Platforms/PC
+|Publishers=Companies/Fellow Traveller
+}}</text>
+      <sha1>es631tq570bv8ws5bcwqahdxv6vhcjc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Horus Heresy Legions 67983</title>
+    <ns>0</ns>
+    <id>465013</id>
+    <revision>
+      <id>796927</id>
+      <parentid>751362</parentid>
+      <timestamp>2026-03-12T06:28:54Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796927</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1447" sha1="ps3gzt5zj7ptghqx59663x419xxjfuo" xml:space="preserve">{{Game
+| Name=The Horus Heresy: Legions
+| Guid=3030-67983
+| Deck=Space Marine Legions battle each other during The Horus Heresy, the brutal civil war that lead to Warhammer 40,000's grim dark future.
+| ReleaseDate=2018-03-15
+| Characters=
+| Concepts=Concepts/Legions
+| Developers=Companies/Everguild
+| Franchises=Franchises/Warhammer_40_000
+| Genres=Genres/Card_Game,Genres/Strategy
+| Locations=
+| Objects=
+| Platforms=Platforms/Android,Platforms/iPad,Platforms/iPhone,Platforms/Mac,Platforms/PC
+| Publishers=
+| Games=Games/Drakenlords_CCG_Card_Duels
+| Themes=Themes/Sci_Fi
+| Image=https://www.giantbomb.com/a/uploads/scale_super/37/378913/3013022-horusheresy_legions.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3013022-horusheresy_legions.jpg","path":"37\/378913\/","mime":"image\/jpeg","sizes":"square_medium,square_small,scale_medium,square_tiny,scale_super,scale_large,scale_small,square_mini,square_avatar,scale_avatar,scale_tiny,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+
+==Overview==
+The Horus Heresy: Legions is a digital card game set in the Warhammer 40,000 universe. The game uses key conflicts inspired by the Black Library novels as the basis for time-limited events. Players recreate these battles using decks consisting of a Warlord and 30 cards of troops and tactics in one-on-one turn based duels. These decks can either be constructed for ranked play or sealed for the time limited events.</text>
+      <sha1>ps3gzt5zj7ptghqx59663x419xxjfuo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Hundred Line Last Defense Academy/Credits</title>
+    <ns>0</ns>
+    <id>252911</id>
+    <revision>
+      <id>253361</id>
+      <timestamp>2025-12-08T07:32:17Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>253361</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="428" sha1="5h91isztw6shged7a7u6aeoizmy60yx" xml:space="preserve">{{Credits
+|ParentPage=Games/The_Hundred_Line_Last_Defense_Academy
+}}
+{{CreditSubobject
+|Game=Games/The_Hundred_Line_Last_Defense_Academy
+|Release=
+|Dlc=
+|Person=People/Kazutaka_Kodaka
+|Company=
+|Department=Unclassified
+|Role=Director and Writer
+}}
+{{CreditSubobject
+|Game=Games/The_Hundred_Line_Last_Defense_Academy
+|Release=
+|Dlc=
+|Person=People/Kotaro_Uchikoshi
+|Company=
+|Department=Unclassified
+|Role=Director and Writer
+}}
+</text>
+      <sha1>5h91isztw6shged7a7u6aeoizmy60yx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Isle of Lost Bees</title>
+    <ns>0</ns>
+    <id>624997</id>
+    <revision>
+      <id>974735</id>
+      <timestamp>2026-06-08T01:36:43Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=bea39b6b-163f-41f8-ae3d-e5689fd18790 |Name=The Isle of Lost Bees |ReleaseDateType=None }}"</comment>
+      <origin>974735</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="102" sha1="qml7iivycsiu6ytsunxcy8ehpwgfopu" xml:space="preserve">{{Game
+|Guid=bea39b6b-163f-41f8-ae3d-e5689fd18790
+|Name=The Isle of Lost Bees
+|ReleaseDateType=None
+}}</text>
+      <sha1>qml7iivycsiu6ytsunxcy8ehpwgfopu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Lara Croft Collection/Credits</title>
+    <ns>0</ns>
+    <id>253700</id>
+    <revision>
+      <id>254151</id>
+      <timestamp>2025-12-08T07:32:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254151</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="987" sha1="5b0orxmjzo31ky9tevsora1dt0wm9j9" xml:space="preserve">{{Credits
+|ParentPage=Games/The_Lara_Croft_Collection
+}}
+{{CreditSubobject
+|Game=Games/The_Lara_Croft_Collection
+|Release=
+|Dlc=
+|Person=People/Keeley_Hawes
+|Company=
+|Department=Voice Actor
+|Role=Lara Croft
+}}
+{{CreditSubobject
+|Game=Games/The_Lara_Croft_Collection
+|Release=
+|Dlc=
+|Person=People/James_Jonah_Jim_Cummings
+|Company=
+|Department=Voice Actor
+|Role=Totec, Xolotl
+}}
+{{CreditSubobject
+|Game=Games/The_Lara_Croft_Collection
+|Release=
+|Dlc=
+|Person=People/Rae_Wright
+|Company=
+|Department=Voice Actor
+|Role=Isis
+}}
+{{CreditSubobject
+|Game=Games/The_Lara_Croft_Collection
+|Release=
+|Dlc=
+|Person=People/Jack_Tilden
+|Company=
+|Department=Voice Actor
+|Role=Horus, Set
+}}
+{{CreditSubobject
+|Game=Games/The_Lara_Croft_Collection
+|Release=
+|Dlc=
+|Person=People/Dorian_Lockett
+|Company=
+|Department=Voice Actor
+|Role=Carter Bell
+}}
+{{CreditSubobject
+|Game=Games/The_Lara_Croft_Collection
+|Release=
+|Dlc=
+|Person=People/Brenoch_Adams
+|Company=
+|Department=Voice Actor
+|Role=Osiris
+}}
+</text>
+      <sha1>5b0orxmjzo31ky9tevsora1dt0wm9j9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Legend of Prince Valiant</title>
+    <ns>0</ns>
+    <id>625057</id>
+    <revision>
+      <id>974966</id>
+      <timestamp>2026-06-11T01:45:48Z</timestamp>
+      <contributor>
+        <username>Mento</username>
+        <id>29</id>
+      </contributor>
+      <comment>Adding new NES game to the site.</comment>
+      <origin>974966</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1318" sha1="grnvlzk42epndycqx1bny9r9u5o926q" xml:space="preserve">{{Game
+|Guid=12340e81-8fd3-4d6d-a108-396b8f732a99
+|Name=The Legend of Prince Valiant
+|Aliases=Little Lancelot
+|Image=Legendofprincevaliantbox.jpg
+|Deck=A side-scrolling action game based on the medieval comic strip about a bowl-headed adventurer.
+|ReleaseDateType=Full
+|ReleaseDate=1992
+|Concepts=Concepts/Games Based on Comic Books, Concepts/Tie In, Concepts/Pit
+|Developers=Companies/Ocean Software Ltd
+|Genres=Genres/Action, Genres/Brawler
+|Locations=Locations/England
+|Platforms=Platforms/Nintendo Entertainment System
+|Publishers=Companies/Ocean Software Ltd, Companies/Piko Interactive LLC
+|Themes=Themes/Medieval, Themes/Fantasy
+}}
+== Overview ==
+The Legend of Prince Valiant is a PAL-only NES game released by Ocean Software in 1992 and based on the serial newspaper comic of the same name of a noble adventurer during the time of King Arthur and Camelot. It was later rereleased as Little Lancelot by Piko Interactive, sold via their site, many years later in 2019; this was also the game's North American debut.
+
+The game has players make their way through various levels, either in a side-scrolling format or a first-person format, avoiding traps while defeating enemies in their path. The player has a health gauge they can restore but limited lives, and traps like pitfalls or the swamp are instant kills.</text>
+      <sha1>grnvlzk42epndycqx1bny9r9u5o926q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Legend of Zelda: Ocarina of Time</title>
+    <ns>0</ns>
+    <id>625036</id>
+    <revision>
+      <id>974867</id>
+      <parentid>974866</parentid>
+      <timestamp>2026-06-09T15:27:57Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974867</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="775" sha1="6jbh42egjl1ng8g5iipm5kmefc0ija9" xml:space="preserve">{{Game
+|Guid=37f92793-99d0-4ee8-a11e-3a15ff986839
+|Name=The Legend of Zelda: Ocarina of Time
+|Image=https://giantbomb.com/api/media/file/media--file--the-legend-of-zelda_-ocarina-of-time-nintendo-direct-6-9-2026---0-1-27-06-09-2026.jpeg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--the-legend-of-zelda_-ocarina-of-time-nintendo-direct-6-9-2026---0-1-06-06-09-2026.jpeg
+|Deck=A full remake of 1998's The Legend of Zelda: Ocarina of Time.
+|ReleaseDateType=Year
+|YearPart=2026
+|Characters=Characters/Link
+|Concepts=Concepts/Digital Distribution, Concepts/Remake
+|Franchises=Franchises/The Legend of Zelda, Franchises/Ocarina of Time
+|Locations=Locations/Hyrule
+|Platforms=Platforms/Nintendo Switch 2
+|Publishers=Companies/Nintendo
+|Themes=Themes/Fantasy
+}}</text>
+      <sha1>6jbh42egjl1ng8g5iipm5kmefc0ija9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Llamasoft Collection/Credits</title>
+    <ns>0</ns>
+    <id>255765</id>
+    <revision>
+      <id>256220</id>
+      <timestamp>2025-12-08T07:32:24Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>256220</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="199" sha1="3hp8gwfjbfm0zl9nmghnkm0itgzmxr0" xml:space="preserve">{{Credits
+|ParentPage=Games/The_Llamasoft_Collection
+}}
+{{CreditSubobject
+|Game=Games/The_Llamasoft_Collection
+|Release=
+|Dlc=
+|Person=People/Jeff_Minter
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>3hp8gwfjbfm0zl9nmghnkm0itgzmxr0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Lost World Jurassic Park 4125/Credits</title>
+    <ns>0</ns>
+    <id>464698</id>
+    <revision>
+      <id>743732</id>
+      <timestamp>2026-03-04T21:04:30Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>743732</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34584" sha1="9knp0f5r63l1qi9q2a2gvubfkceo1vn" xml:space="preserve">{{Credits
+|ParentPage=Games/The_Lost_World_Jurassic_Park_4125
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Patrick_Gilmore
+|Company=
+|Department=Production
+|Role=Producer from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Jack_Grillo
+|Company=
+|Department=Audio
+|Role=Sound Designer from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Michael_Giacchino
+|Company=
+|Department=Audio
+|Role=Musical Composer and Orchestrator at DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Parker_A_Davis
+|Company=
+|Department=Design
+|Role=Designer from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Sanders_Keel
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Arnold_Feener
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Lyle_J_Hall
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/James_Lenoel
+|Company=
+|Department=Business
+|Role=Worked on the European Documentation from Electronic Arts Europe. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Richard_Hilleman
+|Company=
+|Department=Production
+|Role=Executive Producer from Electronic Arts. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Dennis_Lee
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Jeff_Goldblum
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Bernard_Stolar
+|Company=
+|Department=Thanks
+|Role=Received a Special Thanks from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Sunil_Thankamushy
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Matt_Hall
+|Company=
+|Department=Visual Arts
+|Role=Lead Artist for Textures, 2D Backgrounds, and Visual Development from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Steve_Booth
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Janine_Cook
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Peter_Hirschmann
+|Company=
+|Department=Production
+|Role=Associate Producer from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Steve_Townsend
+|Company=
+|Department=Production
+|Role=Assistant Producer from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Matt_Brown
+|Company=
+|Department=Production
+|Role=Technical Project Lead from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Matthew_From
+|Company=
+|Department=Programming
+|Role=Engineer from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Wayne_Shea
+|Company=
+|Department=Programming
+|Role=Engineer from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Michael_Heilemann
+|Company=
+|Department=Programming
+|Role=Engineer from DreamWorks Interactive
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Dmitri_Ellingson
+|Company=
+|Department=Visual Arts
+|Role=Artist for 3D Backgrounds from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Micah_Linton
+|Company=
+|Department=Visual Arts
+|Role=Artist for 3D Backgrounds from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Justin_Norr
+|Company=
+|Department=Design
+|Role=Designer from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Randy_Oyler
+|Company=
+|Department=Design
+|Role=Designer from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Corey_Comstock
+|Company=
+|Department=Visual Arts
+|Role=Lead Animator from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Tim_Goodwin
+|Company=
+|Department=Visual Arts
+|Role=Animator from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Scott_Hyman
+|Company=
+|Department=Visual Arts
+|Role=Animator from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Sunil_Thanamushy
+|Company=
+|Department=Visual Arts
+|Role=Animator from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Derek_Nansen
+|Company=
+|Department=Visual Arts
+|Role=Animator from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Ken_Anglionto
+|Company=
+|Department=Visual Arts
+|Role=Animator from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Damon_Tripodi
+|Company=
+|Department=Quality Assurance
+|Role=Lead of Quality Assurance from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Lynn_Henson
+|Company=
+|Department=Quality Assurance
+|Role=Quality Assurance Tester from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Greg_Hillegas
+|Company=
+|Department=Quality Assurance
+|Role=Quality Assurance Tester from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Patrick_McComb
+|Company=
+|Department=Quality Assurance
+|Role=Quality Assurance Tester from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Lawrence_Monji
+|Company=
+|Department=Quality Assurance
+|Role=Quality Assurance Tester from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Mike_Morgan
+|Company=
+|Department=Quality Assurance
+|Role=Quality Assurance Tester from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Jon_Palevsky
+|Company=
+|Department=Quality Assurance
+|Role=Quality Assurance Tester from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Miles_Teves
+|Company=
+|Department=Visual Arts
+|Role=Worked on the Visual Development from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Philip_Felix
+|Company=
+|Department=Visual Arts
+|Role=Worked on the Visual Development from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Catherine_Yuh
+|Company=
+|Department=Visual Arts
+|Role=Worked on the Visual Development from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/George_Chang
+|Company=
+|Department=Visual Arts
+|Role=Worked on Additional Video Sequences at DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Tim_Simonec
+|Company=
+|Department=Audio
+|Role=Additional and Provided Additional Orchestration for DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Greg_Nestor
+|Company=
+|Department=Audio
+|Role=Score Copyist from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Billy_Martin
+|Company=
+|Department=Audio
+|Role=Worked on Score Preparation for DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Steve_Smith
+|Company=
+|Department=Audio
+|Role=Recording Engineer for DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Steve_Culp
+|Company=
+|Department=Audio
+|Role=Assistant Recording Engineer from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Simon_James
+|Company=
+|Department=Audio
+|Role=Concert Master from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Slamm_Andrews
+|Company=
+|Department=Audio
+|Role=Music Mixer from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Bryan_Franklin
+|Company=
+|Department=Audio
+|Role=Sound Designer from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Eric_Kraber
+|Company=
+|Department=Audio
+|Role=Sound Designer from DreamWorks Interactive
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Dee_Bradley_Baker
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Steve_Blum
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Ed_Wasser
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Wally_Wingert
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Barbra_Isenberg
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Jeff_Nuzzi
+|Company=
+|Department=Business
+|Role=Marketing Lead from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Amy_Bennett
+|Company=
+|Department=Business
+|Role=Marketing Coordinator from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Marc_Fusco
+|Company=
+|Department=Production
+|Role=Director from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Jeff_Czengros
+|Company=
+|Department=Business
+|Role=A Part of the Crew for DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Rick_Peddelton
+|Company=
+|Department=Business
+|Role=A Part of the Crew for DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Matt_Stell
+|Company=
+|Department=Business
+|Role=A Part of the Crew for DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Mark_Burdon
+|Company=
+|Department=Business
+|Role=A Part of the Crew for DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/John_Philip_Britt
+|Company=
+|Department=Programming
+|Role=PAL Engineer from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Kathleen_Cohen
+|Company=
+|Department=Business
+|Role=Worked on the DWI Localization for DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Wesley_Yanagi
+|Company=
+|Department=Audio
+|Role=Worked on the DWI Localization for DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Don_Lessem
+|Company=
+|Department=Thanks
+|Role=Received a Special Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Steven_Spielberg
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Jeffrey_Katzenberg
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/David_Geffen
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Colin_Wilson
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Jerry_Molen
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Julianne_Moore
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Jerry_Schmitz
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Stan_Winston
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Rick_Carter
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/David_Lowery
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Diana_Tinkley
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Leslie_Barnett
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Mark_Kurtz
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Barbra_Ritchie
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Stiles_White
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Don_Levy
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Keith_Addis
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Tucker_Carney
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Andrea_McCall
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Cris_Clarke
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Keri_Wilson
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Christine_Johnson
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Glenn_Entis
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Patty_Stonesifer
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Thomas_Boyd
+|Company=
+|Department=Production
+|Role=Technical Director from Electronic Arts. Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/John_Batter
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Richard_Lapin
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Leslie_Ward
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Irene_Cho
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Monica_Singh
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Steve_Arnold
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Joe_Aguilar
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Paul_Howard
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Max_Spielberg
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Jeff_Freiling
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Tina_Kowalewski
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Steve_Hutchins
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Jason_Friedman
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Noah_Hughes
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Valerie_Lettera
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Brad_Globe
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Nancy_Cushing_Jones
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Craig_Relyea
+|Company=
+|Department=Thanks
+|Role=Received a Thanks from DreamWorks Interactive. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Caroline_Petrook
+|Company=
+|Department=Production
+|Role=Assistant Producer from Electronic Arts. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Atsuko_Matsumoto
+|Company=
+|Department=Production
+|Role=Project Director from Electronic Arts. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Michael_Quigley
+|Company=
+|Department=Business
+|Role=Product Marketing from Electronic Arts. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Emily_Kenner
+|Company=
+|Department=Business
+|Role=Product Marketing from Electronic Arts. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Eric_Kornblum
+|Company=
+|Department=Visual Arts
+|Role=Video Specialist from Electronic Arts. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Catherine_Benante
+|Company=
+|Department=Visual Arts
+|Role=Computer Graphics Artist from Electronic Arts. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Roseann_Mitchell
+|Company=
+|Department=Visual Arts
+|Role=Computer Graphics Artist from Electronic Arts. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Jason_Armatta
+|Company=
+|Department=Design
+|Role=Provided the Documentation fro Electronic Arts. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Nancy_Waisanen
+|Company=
+|Department=Visual Arts
+|Role=Worked on the Package Art Direction from Electronic Arts. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Corey_Higgins
+|Company=
+|Department=Visual Arts
+|Role=Worked on the Package Design from Electronic Arts. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Fred_Dieckmann
+|Company=
+|Department=Quality Assurance
+|Role=Quality Assurance Tester from Electronic Arts. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Jeff_Chang
+|Company=
+|Department=Quality Assurance
+|Role=Quality Assurance Tester from Electronic Arts. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Sean_Madden
+|Company=
+|Department=Quality Assurance
+|Role=Quality Assurance Tester from Electronic Arts. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Lombert_Doria
+|Company=
+|Department=Quality Assurance
+|Role=Quality Assurance Tester from Electronic Arts. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/John_Hanley
+|Company=
+|Department=Quality Assurance
+|Role=Provided Quality Assurance for Electronic Arts. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Rebecca_Colbourn
+|Company=
+|Department=Quality Assurance
+|Role=Provided Quality Assurance for Electronic Arts. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Billy_Delli_Gatti
+|Company=
+|Department=Thanks
+|Role=Received a Special Thanks from Electronic Arts. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Sean_Ratcliffe
+|Company=
+|Department=Production
+|Role=European Product Manager from Electronic Arts Europe. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Anita_K_Legg
+|Company=
+|Department=Visual Arts
+|Role=Graphic Designer  and  European Documentation Layout from Electronic Arts Europe. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/James_Deverill
+|Company=
+|Department=Quality Assurance
+|Role=Quality Assurance from Electronic Arts Europe. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Markus_Weise
+|Company=
+|Department=Quality Assurance
+|Role=Quality Assurance from Electronic Arts Europe. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Kevin_Smith
+|Company=
+|Department=Business
+|Role=Materials Planner from Electronic Arts Europe.
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Petrina_Wallace
+|Company=
+|Department=Business
+|Role=Localization Manger from Electronic Arts Europe. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Carol_Aggett
+|Company=
+|Department=Business
+|Role=Localization Manager from Electronic Arts Europe. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Trude_Olen
+|Company=
+|Department=Business
+|Role=Localization Manager from Electronic Arts Europe. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Sonia_Yazmadjian
+|Company=
+|Department=Business
+|Role=Worked on the Localization from Electronic Arts Europe. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Bettina_Klos
+|Company=
+|Department=Business
+|Role=Worked on the Localization from Electronic Arts Europe. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Nathalie_Duret
+|Company=
+|Department=Business
+|Role=Worked on the Localization from Electronic Arts Europe. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Julio_Valladares
+|Company=
+|Department=Business
+|Role=Worked on the Localization from Electronic Arts Europe. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Ricardo_Martinez
+|Company=
+|Department=Business
+|Role=Worked on the Localization from Electronic Arts Europe. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Gian_Maria_Battistini
+|Company=
+|Department=Business
+|Role=Worked on the Localization from Electronic Arts Europe. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Ben_Sprecht
+|Company=
+|Department=Business
+|Role=Worked on the Localization from Electronic Arts Europe. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Michael_S_Jablonn
+|Company=
+|Department=Production
+|Role=Associate Producer from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Kristin_McCloskey
+|Company=
+|Department=Business
+|Role=Product Manager from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Michael_Dobbins
+|Company=
+|Department=Quality Assurance
+|Role=Lead Tester from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Jeff_B_Junio
+|Company=
+|Department=Quality Assurance
+|Role=Assistant Lead Tester from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Paulita_Villatuya
+|Company=
+|Department=Quality Assurance
+|Role=Assistant Lead Tester from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Amy_Albertson
+|Company=
+|Department=Quality Assurance
+|Role=Tester from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Anthony_Borba
+|Company=
+|Department=Quality Assurance
+|Role=Tester from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Karen_Brown
+|Company=
+|Department=Quality Assurance
+|Role=Tester from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Michael_Callahan
+|Company=
+|Department=Quality Assurance
+|Role=Tester from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Howard_Gipson
+|Company=
+|Department=Quality Assurance
+|Role=Tester from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Lloyd_Kinoshita
+|Company=
+|Department=Quality Assurance
+|Role=Tester from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Christopher_Lucich
+|Company=
+|Department=Quality Assurance
+|Role=Tester from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Tony_Lynch
+|Company=
+|Department=Quality Assurance
+|Role=Tester from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Matt_Underwood
+|Company=
+|Department=Quality Assurance
+|Role=Tester from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Fernando_Valderrama
+|Company=
+|Department=Quality Assurance
+|Role=Tester from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Marcus_Montgomery
+|Company=
+|Department=Quality Assurance
+|Role=Tester from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Curtis_Clarkson
+|Company=
+|Department=Design
+|Role=Worked on the Manual. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Richard_Verdoni
+|Company=
+|Department=Design
+|Role=Worked on the Manual. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Shuji_Utsumi
+|Company=
+|Department=Thanks
+|Role=Received a Special Thanks from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Judy_Nybo
+|Company=
+|Department=Thanks
+|Role=Received a Special Thanks from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Geraldine_Dessimoz
+|Company=
+|Department=Thanks
+|Role=Received a Special Thanks from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Undyne_Stafford
+|Company=
+|Department=Thanks
+|Role=Received a Special Thanks from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Mark_Subotnick
+|Company=
+|Department=Thanks
+|Role=Received a Special Thanks from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Marcelyn_Ditter
+|Company=
+|Department=Thanks
+|Role=Received a Special Thanks from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Connie_Brammier
+|Company=
+|Department=Thanks
+|Role=Received a Special Thanks from Sega of America, Inc. for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Tassonyi_Kadocsa
+|Company=
+|Department=Design
+|Role=Project Manager from Appalosa Interactive for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Tibor_Szekely
+|Company=
+|Department=Programming
+|Role=Programmer from Appalosa Interactive for the Saturn version. 
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Zoltan_Nagy
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Andrew_Green_164581
+|Company=
+|Department=Voice Actor
+|Role=Playstation voice actor (DreamWorks Interactive)
+}}
+{{CreditSubobject
+|Game=Games/The_Lost_World_Jurassic_Park_4125
+|Release=
+|Dlc=
+|Person=People/Dave_Thompson_192189
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>9knp0f5r63l1qi9q2a2gvubfkceo1vn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Making of Karateka/Credits</title>
+    <ns>0</ns>
+    <id>250785</id>
+    <revision>
+      <id>251230</id>
+      <timestamp>2025-12-08T07:32:12Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251230</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="935" sha1="nhbro90qfh95j9xu0fbt1ztdq7ld0gi" xml:space="preserve">{{Credits
+|ParentPage=Games/The_Making_of_Karateka
+}}
+{{CreditSubobject
+|Game=Games/The_Making_of_Karateka
+|Release=
+|Dlc=
+|Person=People/Mike_Mika
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Making_of_Karateka
+|Release=
+|Dlc=
+|Person=People/Chris_Kohler
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Making_of_Karateka
+|Release=
+|Dlc=
+|Person=People/Jordan_Mechner
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Making_of_Karateka
+|Release=
+|Dlc=
+|Person=People/Veda_Hlubinka_Cook
+|Company=
+|Department=Unclassified
+|Role=Interviewee
+}}
+{{CreditSubobject
+|Game=Games/The_Making_of_Karateka
+|Release=
+|Dlc=
+|Person=People/John_Tobias
+|Company=
+|Department=Unclassified
+|Role=Interviewee
+}}
+{{CreditSubobject
+|Game=Games/The_Making_of_Karateka
+|Release=
+|Dlc=
+|Person=People/Francis_Mechner
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>nhbro90qfh95j9xu0fbt1ztdq7ld0gi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Mermaid Mask</title>
+    <ns>0</ns>
+    <id>624871</id>
+    <revision>
+      <id>975149</id>
+      <parentid>974608</parentid>
+      <timestamp>2026-06-17T22:36:06Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975149</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="705" sha1="r1zz91l9mpxjy1plde5tuk4bbshb3d5" xml:space="preserve">{{Game
+|Guid=55f9acb4-f991-44e1-a51f-59cd6b2272ea
+|Name=The Mermaid Mask
+|Image=https://giantbomb.com/api/media/file/media--file--the-mermaid-mask-06-17-2026.webp
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--the-mermaid-maskb-06-17-2026.jpg
+|Deck=A point-and-click murder mystery aboard a submarine.
+|ReleaseDateType=Full
+|ReleaseDate=2026-07-16
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Murder, Concepts/Detective, Concepts/Point and Click, Concepts/2D, Concepts/Steam Achievements, Concepts/Steam Cloud
+|Developers=Companies/SFB Games
+|Objects=Objects/Submarine
+|Platforms=Platforms/PC
+|Publishers=Companies/SFB Games
+|Themes=Themes/Crime
+}}</text>
+      <sha1>r1zz91l9mpxjy1plde5tuk4bbshb3d5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The New Kid on the Block/Credits</title>
+    <ns>0</ns>
+    <id>249899</id>
+    <revision>
+      <id>250334</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250334</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="235" sha1="t4zc0ztu1frfmrxwmgcgsm5w2yq1phm" xml:space="preserve">{{Credits
+|ParentPage=Games/The_New_Kid_on_the_Block
+}}
+{{CreditSubobject
+|Game=Games/The_New_Kid_on_the_Block
+|Release=
+|Dlc=
+|Person=People/Bridget_Erdmann
+|Company=
+|Department=Visual Arts
+|Role=PC Windows assistant art director
+}}
+</text>
+      <sha1>t4zc0ztu1frfmrxwmgcgsm5w2yq1phm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Pines</title>
+    <ns>0</ns>
+    <id>624918</id>
+    <revision>
+      <id>974655</id>
+      <timestamp>2026-06-08T00:46:38Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=77e6836c-b9ce-4104-a86a-0833cc311f7f |Name=The Pines |ReleaseDateType=None }}"</comment>
+      <origin>974655</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="90" sha1="qbtwnae8qvfaytum1zuz5e5qmnbyuw7" xml:space="preserve">{{Game
+|Guid=77e6836c-b9ce-4104-a86a-0833cc311f7f
+|Name=The Pines
+|ReleaseDateType=None
+}}</text>
+      <sha1>qbtwnae8qvfaytum1zuz5e5qmnbyuw7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Queen of Duellist Gaiden a 41378</title>
+    <ns>0</ns>
+    <id>464969</id>
+    <revision>
+      <id>796901</id>
+      <parentid>750136</parentid>
+      <timestamp>2026-03-12T06:28:35Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796901</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1492" sha1="6j3nipgxcqpt1rvc2u1jwv3470ew3b3" xml:space="preserve">{{Game
+| Name=The Queen of Duellist Gaiden α+
+| Guid=3030-41378
+| Deck=The final game in the Queen of Duellist series.
+| ReleaseDate=1994-03-05
+| Characters=Characters/Chizuru_Takamori,Characters/Elza_Kanagusuku,Characters/Emily_Barnett,Characters/Great_Takegami,Characters/Kiriko_Koumiyouji,Characters/Mai_Maino,Characters/Miyuki_Matsuda,Characters/Reika_Kanbe,Characters/Ryu_Hou,Characters/Strange_Gold
+| Concepts=Concepts/Destructible_Clothing
+| Developers=Companies/Agumix
+| Franchises=Franchises/The_Queen_of_Duellist
+| Genres=Genres/Fighting
+| Locations=
+| Objects=
+| Platforms=Platforms/FM_Towns,Platforms/NEC_PC_9801,Platforms/Sharp_X68000
+| Publishers=Companies/Xing_Entertainment
+| Games=Games/Arcana_Heart
+| Themes=Themes/Adult
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/2421529-qodap.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2421529-qodap.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"square_avatar,scale_avatar,scale_small,square_small,square_mini,scale_medium,screen_medium,scale_large,square_tiny,square_medium,scale_super,scale_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+[[Franchises/The_Queen_of_Duellist|The Queen of Duellist]] returns to FM Towns and Sharp X68000 for one last installment. This game was also released in a "LIGHT" version for those two systems, which removed the game's "Graphic Mode". The cast remains the same from [[Games/The_Queen_of_Duellist_Gaiden_a|The Queen of Duellist Gaiden α]].</text>
+      <sha1>6j3nipgxcqpt1rvc2u1jwv3470ew3b3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Rabbit Haul</title>
+    <ns>0</ns>
+    <id>624954</id>
+    <revision>
+      <id>974691</id>
+      <timestamp>2026-06-08T01:05:10Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=1c3ed1f4-f6b2-4ac8-92cb-f7aad0bc396b |Name=The Rabbit Haul |ReleaseDateType=None }}"</comment>
+      <origin>974691</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="96" sha1="5zd5g9in5mv0a3trfszqtvurr5ngke3" xml:space="preserve">{{Game
+|Guid=1c3ed1f4-f6b2-4ac8-92cb-f7aad0bc396b
+|Name=The Rabbit Haul
+|ReleaseDateType=None
+}}</text>
+      <sha1>5zd5g9in5mv0a3trfszqtvurr5ngke3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Regreening</title>
+    <ns>0</ns>
+    <id>624902</id>
+    <revision>
+      <id>975250</id>
+      <parentid>974639</parentid>
+      <timestamp>2026-06-27T22:37:52Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975250</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="633" sha1="84wltihh0lmra4hhn5zgdparmm5gy6j" xml:space="preserve">{{Game
+|Guid=840df6b8-99bd-4bf0-9436-255f0ee7601b
+|Name=The Regreening
+|Image=https://giantbomb.com/api/media/file/media--file--the-regreening-06-27-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--the-regreeningb-06-27-2026.jpg
+|Deck=Turn the deserts green in this cozy farming sim.
+|ReleaseDateType=None
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Polygonal 3D, Concepts/Farming, Concepts/Hugging, Concepts/Fox, Concepts/Crafting
+|Developers=Companies/Positive Impact Games
+|Genres=Genres/Simulation
+|Platforms=Platforms/PC
+|Publishers=Companies/ByteRockers Games
+}}</text>
+      <sha1>84wltihh0lmra4hhn5zgdparmm5gy6j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Return of A J/Credits</title>
+    <ns>0</ns>
+    <id>252319</id>
+    <revision>
+      <id>252768</id>
+      <timestamp>2025-12-08T07:32:16Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>252768</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="192" sha1="9wrkas4wakxm3hrgsil04zm8makteii" xml:space="preserve">{{Credits
+|ParentPage=Games/The_Return_of_A_J
+}}
+{{CreditSubobject
+|Game=Games/The_Return_of_A_J
+|Release=
+|Dlc=
+|Person=People/Azurelore_Korrigan
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>9wrkas4wakxm3hrgsil04zm8makteii</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Road of Dust and Sorrow</title>
+    <ns>0</ns>
+    <id>624940</id>
+    <revision>
+      <id>974677</id>
+      <timestamp>2026-06-08T00:58:26Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=e03051a5-03af-4183-b5ec-b40820f61006 |Name=The Road of Dust and Sorrow |ReleaseDateType=None }}"</comment>
+      <origin>974677</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="108" sha1="gok03ay2mcn30vj7e8l8e3zzi7wwft5" xml:space="preserve">{{Game
+|Guid=e03051a5-03af-4183-b5ec-b40820f61006
+|Name=The Road of Dust and Sorrow
+|ReleaseDateType=None
+}}</text>
+      <sha1>gok03ay2mcn30vj7e8l8e3zzi7wwft5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Rugrats Movie Activity Challenge/Credits</title>
+    <ns>0</ns>
+    <id>249895</id>
+    <revision>
+      <id>250330</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250330</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="309" sha1="4qi3j5375rzd6yp3w0e2ho4vrxl079g" xml:space="preserve">{{Credits
+|ParentPage=Games/The_Rugrats_Movie_Activity_Challenge
+}}
+{{CreditSubobject
+|Game=Games/The_Rugrats_Movie_Activity_Challenge
+|Release=
+|Dlc=
+|Person=People/Bridget_Erdmann
+|Company=
+|Department=Design
+|Role=Mac creative supervisor and design team / PC Windows creative supervisor and design team
+}}
+</text>
+      <sha1>4qi3j5375rzd6yp3w0e2ho4vrxl079g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Sims 4 Get to Work/Credits</title>
+    <ns>0</ns>
+    <id>249803</id>
+    <revision>
+      <id>250238</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250238</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="223" sha1="3w8t4i9bjf4n71t8hka00epj1bvf314" xml:space="preserve">{{Credits
+|ParentPage=Games/The_Sims_4_Get_to_Work
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_4_Get_to_Work
+|Release=
+|Dlc=
+|Person=People/Bob_Flanagan
+|Company=
+|Department=Programming
+|Role=PC Windows lead mac engineer
+}}
+</text>
+      <sha1>3w8t4i9bjf4n71t8hka00epj1bvf314</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Sims 4 Luxury Party Stuff/Credits</title>
+    <ns>0</ns>
+    <id>249805</id>
+    <revision>
+      <id>250240</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250240</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="231" sha1="1ka4mug5sxc0wsxk1yyizvkcqhv6t4z" xml:space="preserve">{{Credits
+|ParentPage=Games/The_Sims_4_Luxury_Party_Stuff
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_4_Luxury_Party_Stuff
+|Release=
+|Dlc=
+|Person=People/Bob_Flanagan
+|Company=
+|Department=Programming
+|Role=PC Windows engineering
+}}
+</text>
+      <sha1>1ka4mug5sxc0wsxk1yyizvkcqhv6t4z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Sims Bustin Out 14043/Credits</title>
+    <ns>0</ns>
+    <id>464828</id>
+    <revision>
+      <id>745755</id>
+      <timestamp>2026-03-04T21:38:51Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>745755</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7685" sha1="moqnjr7jevpr8hztsvomtxzlqc2hcc4" xml:space="preserve">{{Credits
+|ParentPage=Games/The_Sims_Bustin_Out_14043
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Lucy_Bradshaw
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/James_Featherstone
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Jean_Yves_Duret
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Anthony_Barbagallo
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Russell_Medeiros
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Eron_Garcia
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Simon_Steel
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Ben_Jackson
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Andrew_Chung
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Paul_Richards
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Tim_Wileman
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Paul_Davies
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/David_Boat
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Jason_Collins
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Robert_Stiasny
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Adam_Rivera
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Joseph_Lee
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Christopher_Held
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Matthew_Salazar
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Sue_Garfield
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/David_Fielding
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Masaru_Ohnuma
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Michael_Dean
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Justin_Brown
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Jonathan_Sari
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/David_Kaplan
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Kyle_Robertson
+|Company=
+|Department=Unclassified
+|Role=North America Customer Quality Control
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Will_Kerslake_96008
+|Company=
+|Department=Unclassified
+|Role=Object Engineer
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Dan_Amrich
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Josh_Riemersma
+|Company=
+|Department=Unclassified
+|Role=Software Tester GCN 
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Bing_Gordon
+|Company=
+|Department=Unclassified
+|Role=Special Thanks
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Benjamin_Crick
+|Company=
+|Department=Unclassified
+|Role=North America Customer Quality Control Management
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Darryl_Jenkins
+|Company=
+|Department=Unclassified
+|Role=North America Customer Quality Control
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Dave_Knudson
+|Company=
+|Department=Unclassified
+|Role=North America Customer Quality Control
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Christine_Kong
+|Company=
+|Department=Unclassified
+|Role=Localisation Product Management (Korea/China)
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Frank_Werner
+|Company=
+|Department=Unclassified
+|Role=Documentation Layout
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Nikki_Rapp
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Jason_Bay
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Jason_Graves
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Richard_Briggs
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Daniel_Elenbaas
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Francois_Hermann
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Mike_Sanderson
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Tim_Smith
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Rod_Abernethy
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Jerry_Martin
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Don_Mattrick
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/John_Cutter
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Oscar_Contreras
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/The_Sims_Bustin_Out_14043
+|Release=
+|Dlc=
+|Person=People/Bob_Flanagan
+|Company=
+|Department=Production
+|Role=PlayStation 2 technical director / Xbox technical director
+}}
+</text>
+      <sha1>moqnjr7jevpr8hztsvomtxzlqc2hcc4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Sinking City 2</title>
+    <ns>0</ns>
+    <id>624933</id>
+    <revision>
+      <id>974670</id>
+      <timestamp>2026-06-08T00:54:35Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=16606519-9f80-42f4-be6a-0e75459b87e1 |Name=The Sinking City 2 |ReleaseDateType=None }}"</comment>
+      <origin>974670</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="99" sha1="f40wzfy005610f1nwxufbbdn2p58qn1" xml:space="preserve">{{Game
+|Guid=16606519-9f80-42f4-be6a-0e75459b87e1
+|Name=The Sinking City 2
+|ReleaseDateType=None
+}}</text>
+      <sha1>f40wzfy005610f1nwxufbbdn2p58qn1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Spy Strikes Back/Credits</title>
+    <ns>0</ns>
+    <id>249734</id>
+    <revision>
+      <id>250168</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250168</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="262" sha1="he9k66x0p5qspjyu4vfthrg7jf3w4ps" xml:space="preserve">{{Credits
+|ParentPage=Games/The_Spy_Strikes_Back
+}}
+{{CreditSubobject
+|Game=Games/The_Spy_Strikes_Back
+|Release=
+|Dlc=
+|Person=People/Rick_Incrocci
+|Company=
+|Department=Visual Arts
+|Role=Apple II cover artwork (R. Incrocci) / C64 cover artwork (R. Incrocci)
+}}
+</text>
+      <sha1>he9k66x0p5qspjyu4vfthrg7jf3w4ps</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Starship Shag Shack/Credits</title>
+    <ns>0</ns>
+    <id>249777</id>
+    <revision>
+      <id>250212</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250212</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="200" sha1="l0x2om0i3zf6u5gc76mrn6v7r03ho4f" xml:space="preserve">{{Credits
+|ParentPage=Games/The_Starship_Shag_Shack
+}}
+{{CreditSubobject
+|Game=Games/The_Starship_Shag_Shack
+|Release=
+|Dlc=
+|Person=People/Diedrich_Bader
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>l0x2om0i3zf6u5gc76mrn6v7r03ho4f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Telwynium</title>
+    <ns>0</ns>
+    <id>624886</id>
+    <revision>
+      <id>975209</id>
+      <parentid>975207</parentid>
+      <timestamp>2026-06-26T21:30:01Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975209</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="662" sha1="1hm25xoxbi5i8k5wx4j1n3wsfvas0r7" xml:space="preserve">{{Game
+|Guid=e436d091-02af-4ea5-a9ed-8e512108c91c
+|Name=The Telwynium
+|Image=https://giantbomb.com/api/media/file/media--file--the-telwynium-06-26-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--the-telwyniumb-06-26-2026.jpg
+|Deck=A collection of point-and-click adventure stories made in the classic style of the 1990s.
+|ReleaseDateType=Year
+|YearPart=2027
+|Concepts=Concepts/Indie, Concepts/2D, Concepts/Point and Click, Concepts/Steam, Concepts/Deliberately Retro, Concepts/Steam Achievements, Concepts/Steam Cloud
+|Developers=Companies/Dave Lloyd
+|Genres=Genres/Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/Powerhoof
+}}</text>
+      <sha1>1hm25xoxbi5i8k5wx4j1n3wsfvas0r7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Tortoise and the Hare/Credits</title>
+    <ns>0</ns>
+    <id>249891</id>
+    <revision>
+      <id>250326</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250326</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="250" sha1="i1mywlti65prdd3vang96u3ssad9f8s" xml:space="preserve">{{Credits
+|ParentPage=Games/The_Tortoise_and_the_Hare
+}}
+{{CreditSubobject
+|Game=Games/The_Tortoise_and_the_Hare
+|Release=
+|Dlc=
+|Person=People/Bridget_Erdmann
+|Company=
+|Department=Visual Arts
+|Role=PC Windows art direction and additional voices
+}}
+</text>
+      <sha1>i1mywlti65prdd3vang96u3ssad9f8s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Troll &amp; The Witch's House</title>
+    <ns>0</ns>
+    <id>624977</id>
+    <revision>
+      <id>974715</id>
+      <timestamp>2026-06-08T01:26:38Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=cf2b214d-ce5a-4837-bad4-6514792a2c4e |Name=The Troll &amp; The Witch's House |ReleaseDateType=None }}"</comment>
+      <origin>974715</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="110" sha1="80dq6b3ncsntadckqz8lvfr1jh62cea" xml:space="preserve">{{Game
+|Guid=cf2b214d-ce5a-4837-bad4-6514792a2c4e
+|Name=The Troll &amp; The Witch's House
+|ReleaseDateType=None
+}}</text>
+      <sha1>80dq6b3ncsntadckqz8lvfr1jh62cea</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/The Wild Thornberrys Rambler 2000/Credits</title>
+    <ns>0</ns>
+    <id>249949</id>
+    <revision>
+      <id>250387</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250387</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="424" sha1="sugl2x91tulk926xyxtgsb9upw73xs2" xml:space="preserve">{{Credits
+|ParentPage=Games/The_Wild_Thornberrys_Rambler_2000
+}}
+{{CreditSubobject
+|Game=Games/The_Wild_Thornberrys_Rambler_2000
+|Release=
+|Dlc=
+|Person=People/Susan_G_McBride
+|Company=
+|Department=Thanks
+|Role=PC Windows special thanks
+}}
+{{CreditSubobject
+|Game=Games/The_Wild_Thornberrys_Rambler_2000
+|Release=
+|Dlc=
+|Person=People/Lacey_Chabert
+|Company=
+|Department=Voice Actor
+|Role=PC Windows voice talent (Eliza)
+}}
+</text>
+      <sha1>sugl2x91tulk926xyxtgsb9upw73xs2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Them Bombs 69048</title>
+    <ns>0</ns>
+    <id>465014</id>
+    <revision>
+      <id>990423</id>
+      <parentid>796928</parentid>
+      <timestamp>2026-07-17T23:12:02Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3030-69048)</comment>
+      <origin>990423</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3610" sha1="q3x9plzcmnhgr3qb3xt6bnk34za1tc1" xml:space="preserve">{{Game
+| Name=Them Bombs!
+| Guid=3030-69048
+| Deck=Them Bombs!
+| ReleaseDate=2017-05-01
+| ReleaseDateType=Month
+| Characters=
+| Concepts=
+| Developers=
+| Franchises=
+| Genres=Genres/Puzzle,Genres/Simulation
+| Locations=
+| Objects=
+| Platforms=Platforms/Android,Platforms/iPhone,Platforms/Nintendo_Switch,Platforms/PC
+| Publishers=
+| Games=Games/Keep_Talking_and_Nobody_Explodes
+| Themes=Themes/Crime
+| Image=https://www.giantbomb.com/a/uploads/scale_super/18/187788/3117367-9819296615-heade.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3117367-9819296615-heade.jpg","path":"18\/187788\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_tiny,square_avatar,screen_medium,square_medium,scale_small,square_mini,scale_large,scale_super,square_tiny,scale_avatar,screen_kubrick","caption":null},"background":[]}' /&gt;
+
+=='''Overview'''==
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/scale_super/42/424316/3115187-screenshot_1.png|full=https://www.giantbomb.com/a/uploads/original/42/424316/3115187-screenshot_1.png|align=right|width=480|caption=The "electric locks" module, one of 12 featured in the game}}
+Them Bombs is a 2D couch co-op game for 2-4 people, in which one of the players has to defuse a bomb by disarming all of its modules before the timer runs out. However, the player can only properly disarm a module if they are guided by another player(s), whose task is to read the instructions from the bomb defusal manual.
+
+Them Bombs is inspired by a similar game of the same genre, Keep Talking and Nobody Explodes.
+
+The game was initially released on mobile devices by Yellow Dot Games in 2017. As of today, it is available on PC (Steam), Android and iOS devices, and Nintendo Switch. It is later coming to PlayStation 4 and Xbox One consoles.
+
+
+=='''The story and the objective'''==
+The story features a crazy villain named Dr TiNT, who places ticking bombs in random densely-populated areas (eg. a hospital, plane, shopping mall, etc.), and then sends a text message with the location of the bomb to a random person. That person, called Unlikely Hero, is the player. The person reading the defusal manual is called an Expert.
+
+In order to defuse the bomb, the Unlikely Hero and the Expert have to cooperate. That, above all, means verbal communication, as the Expert needs to explain all the steps of solving a module to the Unlikely Hero, and the Unlikely Hero must carefully describe the modules, ask the right questions and correctly interpret the answers.
+
+
+
+
+=='''The bomb'''==
+3, 4 or 6 (out of 12) random modules can fit into one bomb, each of them varying in difficulty and type of puzzle to solve. All the modules must be disarmed before the bomb can be successfully defused. Trying to disarm a module without following the instructions results in time penalty, which brings the player closer to detonation.
+
+The player can choose from 3 levels – Beginner, Normal, and Hard. The higher the difficulty level, the less time the player has to defuse the bomb, and the more modules there are to be disarmed. The game also includes Custom mode, which lets the player choose the number of modules, set the defusal time length or choose particular bomb modules.
+
+
+
+
+=='''The manual'''==
+The manual contains a detailed description of every module and a list of appendices used for decoding pieces of information. The instructions include both written and visual clues, alongside with tables of reference. Players can adjust font size and choose to read in dark, grey or light modes.
+
+The manual can either be accessed in-game, as one of the game modes, or printed out.</text>
+      <sha1>q3x9plzcmnhgr3qb3xt6bnk34za1tc1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Theos: Cities of Myth</title>
+    <ns>0</ns>
+    <id>624545</id>
+    <revision>
+      <id>974922</id>
+      <parentid>974921</parentid>
+      <timestamp>2026-06-09T22:12:17Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974922</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="594" sha1="4c8lr1fzeldd0kcn7ohmf41u78qaj8h" xml:space="preserve">{{Game
+|Guid=05251fe5-4dea-4dce-832a-316743723cc0
+|Name=Theos: Cities of Myth
+|Image=https://giantbomb.com/api/media/file/media--file--theos-cities-of-myth-button-1780503602826-06-09-2026.webp
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--theos-cities-of-myth_2026_06-01-26_003-06-09-2026.jpg
+|Deck=A Greek mythology city builder.
+|ReleaseDateType=None
+|Concepts=Concepts/Digital Distribution, Concepts/Steam, Concepts/Greek Mythology, Concepts/Indie
+|Developers=Companies/Triskell Interactive
+|Genres=Genres/Strategy
+|Platforms=Platforms/PC
+|Publishers=Companies/DotEmu
+}}</text>
+      <sha1>4c8lr1fzeldd0kcn7ohmf41u78qaj8h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/There Are No Ghosts at The Grand</title>
+    <ns>0</ns>
+    <id>624773</id>
+    <revision>
+      <id>974780</id>
+      <parentid>974508</parentid>
+      <timestamp>2026-06-08T16:44:49Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974780</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="653" sha1="jr0zyyiu96oodcojllbpiy1nrqe7aod" xml:space="preserve">{{Game
+|Guid=863776f3-24c3-4665-ae9c-1363d4d2836b
+|Name=There Are No Ghosts at The Grand
+|Image=https://giantbomb.com/api/media/file/media--file--awewwqqw-06-08-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--jtrjyrjya-06-08-2026.jpg
+|Deck=Rebuild a delapidated hotel during the day and fight the ghosts that haunt it at night.
+|ReleaseDateType=Quarter
+|QuarterPart=Q4
+|QuarterYearPart=2026
+|Concepts=Concepts/Digital Distribution, Concepts/Indie, Concepts/Polygonal 3D, Concepts/Ghost
+|Developers=Companies/Friday Sundae
+|Genres=Genres/Simulation, Genres/Action
+|Platforms=Platforms/PC
+|Publishers=Companies/Friday Sundae
+}}</text>
+      <sha1>jr0zyyiu96oodcojllbpiy1nrqe7aod</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/They Will Come</title>
+    <ns>0</ns>
+    <id>624931</id>
+    <revision>
+      <id>974668</id>
+      <timestamp>2026-06-08T00:53:36Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=4dee30bf-8493-4fe2-8ad9-5c5cdf47032b |Name=They Will Come |ReleaseDateType=None }}"</comment>
+      <origin>974668</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="95" sha1="hgz9df2p3s8zlwjwl4plfzsv3j80ygq" xml:space="preserve">{{Game
+|Guid=4dee30bf-8493-4fe2-8ad9-5c5cdf47032b
+|Name=They Will Come
+|ReleaseDateType=None
+}}</text>
+      <sha1>hgz9df2p3s8zlwjwl4plfzsv3j80ygq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/This is a cry for/Credits</title>
+    <ns>0</ns>
+    <id>255916</id>
+    <revision>
+      <id>256371</id>
+      <timestamp>2025-12-08T07:32:24Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>256371</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="191" sha1="fj8d1r2tqsn896yq7ajniz5y6u11ngi" xml:space="preserve">{{Credits
+|ParentPage=Games/This_is_a_cry_for
+}}
+{{CreditSubobject
+|Game=Games/This_is_a_cry_for
+|Release=
+|Dlc=
+|Person=People/Danielle_McMillen
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>fj8d1r2tqsn896yq7ajniz5y6u11ngi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Thousand Hells: The Underworld Heists</title>
+    <ns>0</ns>
+    <id>624887</id>
+    <revision>
+      <id>975210</id>
+      <parentid>974624</parentid>
+      <timestamp>2026-06-26T21:47:27Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975210</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="701" sha1="9xpn7hdt154jp5ykl67305c29lw93s5" xml:space="preserve">{{Game
+|Guid=98c77764-7b23-44d5-bcca-d3d1197f1ffc
+|Name=Thousand Hells: The Underworld Heists
+|Image=https://giantbomb.com/api/media/file/media--file--thousand-hells--the-underworld-heists-06-26-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--thousand-hells--the-underworld-heistsb-06-26-2026.jpg
+|Deck=Build a character, build a party, and descend into the underworld in this narrative adventure RPG.
+|ReleaseDateType=None
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/2D, Concepts/Steam
+|Developers=Companies/A Sharp LLC
+|Genres=Genres/Adventure, Genres/Role Playing
+|Platforms=Platforms/PC
+|Publishers=Companies/Kitfox Games
+|Themes=Themes/Fantasy
+}}</text>
+      <sha1>9xpn7hdt154jp5ykl67305c29lw93s5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Thunder Blast Man/Credits</title>
+    <ns>0</ns>
+    <id>254020</id>
+    <revision>
+      <id>254471</id>
+      <timestamp>2025-12-08T07:32:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254471</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="862" sha1="msqkcsa21uxmp9rupdu14m288s6vtq0" xml:space="preserve">{{Credits
+|ParentPage=Games/Thunder_Blast_Man
+}}
+{{CreditSubobject
+|Game=Games/Thunder_Blast_Man
+|Release=
+|Dlc=
+|Person=People/Lin_Chan_Nan
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Thunder_Blast_Man
+|Release=
+|Dlc=
+|Person=People/Su_Ping_Chen
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Thunder_Blast_Man
+|Release=
+|Dlc=
+|Person=People/Ahi_Hsu
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Thunder_Blast_Man
+|Release=
+|Dlc=
+|Person=People/Amadeus_Wang
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Thunder_Blast_Man
+|Release=
+|Dlc=
+|Person=People/Eric_Wu
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Thunder_Blast_Man
+|Release=
+|Dlc=
+|Person=People/Huan_Lin_Tsai
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>msqkcsa21uxmp9rupdu14m288s6vtq0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Thunderbolt/Credits</title>
+    <ns>0</ns>
+    <id>249578</id>
+    <revision>
+      <id>250012</id>
+      <timestamp>2025-12-08T07:32:09Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250012</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="197" sha1="gey39tjalg7b9chuejyuh22jasfmy3u" xml:space="preserve">{{Credits
+|ParentPage=Games/Thunderbolt
+}}
+{{CreditSubobject
+|Game=Games/Thunderbolt
+|Release=
+|Dlc=
+|Person=People/Nigel_Fletcher
+|Company=
+|Department=Visual Arts
+|Role=C64 design and artwork
+}}
+</text>
+      <sha1>gey39tjalg7b9chuejyuh22jasfmy3u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Tideward</title>
+    <ns>0</ns>
+    <id>625006</id>
+    <revision>
+      <id>975308</id>
+      <parentid>974756</parentid>
+      <timestamp>2026-07-02T02:32:55Z</timestamp>
+      <contributor>
+        <username>Chucktowski</username>
+        <id>7</id>
+      </contributor>
+      <origin>975308</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="737" sha1="f7x82i4q1msd7chg89aeh80026w0pgd" xml:space="preserve">{{Game
+|Guid=37777fff-c724-4d77-97d9-37d2f4bb2e5f
+|Name=Tideward
+|Image=AppIcon-512tideward.png
+|Deck=An unhurried idle role-playing game native to every Apple device.
+|ReleaseDateType=Full
+}}
+Tideward is an idle role-playing game developed by Manu Games LLC for Apple platforms, including iPhone, iPad, Mac, Apple TV, Apple Vision Pro, and Apple Watch. The game centers on tending a small coastal world across twenty-three trades, with progression continuing in real time and during offline periods of up to twenty-four hours. It synchronizes across devices through CloudKit and is built without advertising, tracking, or third-party SDKs. A free TestFlight alpha is available ahead of a planned U.S. App Store release in February 2027.</text>
+      <sha1>f7x82i4q1msd7chg89aeh80026w0pgd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Time Strike</title>
+    <ns>0</ns>
+    <id>624789</id>
+    <revision>
+      <id>974817</id>
+      <parentid>974524</parentid>
+      <timestamp>2026-06-09T00:04:53Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974817</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="664" sha1="hqye4qlf4mcoverfisbf1c3vbaja3aw" xml:space="preserve">{{Game
+|Guid=e6077e51-b650-463f-95ef-7a2de546ea69
+|Name=Time Strike
+|Image=https://giantbomb.com/api/media/file/media--file--coc788-06-09-2026.webp
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--ss_b3f0a694fd6fa96cefdc3a61ab9155c1b1d03c14-1920x1080-06-09-2026.jpg
+|Deck=A voxel-based first-person shooter with time manipulation.
+|ReleaseDateType=None
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Voxel, Concepts/Time Manipulation, Concepts/Polygonal 3D
+|Developers=Companies/Mode 7 Games
+|Genres=Genres/First Person Shooter
+|Platforms=Platforms/PC
+|Publishers=Companies/Mode 7 Games
+|Themes=Themes/Sci Fi
+}}</text>
+      <sha1>hqye4qlf4mcoverfisbf1c3vbaja3aw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Tinkernest</title>
+    <ns>0</ns>
+    <id>624839</id>
+    <revision>
+      <id>975074</id>
+      <parentid>974576</parentid>
+      <timestamp>2026-06-15T18:12:48Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975074</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="622" sha1="ma7jz4g7j7nvojnud77bu24rnpk1pk2" xml:space="preserve">{{Game
+|Guid=79187d52-fe08-4a48-9788-34cb9b4998fd
+|Name=Tinkernest
+|Image=https://giantbomb.com/api/media/file/media--file--tinkernest-06-15-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--tinkernestb-06-15-2026.jpg
+|Deck=An exploration, crafting, town-building simulator.
+|ReleaseDateType=None
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Isometric Viewpoint, Concepts/Crafting, Concepts/City Building, Concepts/Steam
+|Developers=Companies/Holyperson, Companies/Starbi
+|Genres=Genres/Simulation
+|Platforms=Platforms/PC
+|Publishers=Companies/Holyperson, Companies/Starbi
+}}</text>
+      <sha1>ma7jz4g7j7nvojnud77bu24rnpk1pk2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Tiny Delivery</title>
+    <ns>0</ns>
+    <id>624859</id>
+    <revision>
+      <id>975122</id>
+      <parentid>974596</parentid>
+      <timestamp>2026-06-16T23:29:05Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975122</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="588" sha1="lj4txz940qem57g8396fnyft2kow0jx" xml:space="preserve">{{Game
+|Guid=3ea474d3-14d2-48ff-bb4c-c3f37827b2bc
+|Name=Tiny Delivery
+|Image=https://giantbomb.com/api/media/file/media--file--tiny-delivery-06-16-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--tiny-deliveryb-06-16-2026.jpg
+|Deck=A narrative adventure about a delivery robot.
+|ReleaseDateType=Quarter
+|QuarterPart=Q3
+|QuarterYearPart=2026
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Robot, Concepts/Polygonal 3D
+|Developers=Companies/Sinica
+|Genres=Genres/Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/Sinica
+}}</text>
+      <sha1>lj4txz940qem57g8396fnyft2kow0jx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Tiny Glade/Credits</title>
+    <ns>0</ns>
+    <id>252952</id>
+    <revision>
+      <id>253402</id>
+      <timestamp>2025-12-08T07:32:17Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>253402</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="575" sha1="mbwasguavpyxo911008wkrcat2udgv6" xml:space="preserve">{{Credits
+|ParentPage=Games/Tiny_Glade
+}}
+{{CreditSubobject
+|Game=Games/Tiny_Glade
+|Release=
+|Dlc=
+|Person=People/Tomasz_Stachowiak
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Tiny_Glade
+|Release=
+|Dlc=
+|Person=People/Oda_Tilset
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Tiny_Glade
+|Release=
+|Dlc=
+|Person=People/Martin_Kvale_192947
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Tiny_Glade
+|Release=
+|Dlc=
+|Person=People/Anastasia_Opara
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>mbwasguavpyxo911008wkrcat2udgv6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Titanium Court</title>
+    <ns>0</ns>
+    <id>465201</id>
+    <revision>
+      <id>797084</id>
+      <parentid>797083</parentid>
+      <timestamp>2026-03-16T14:27:09Z</timestamp>
+      <contributor>
+        <username>Chucktowski</username>
+        <id>7</id>
+      </contributor>
+      <origin>797084</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="428" sha1="a4s9tx9fv1st4uah1oxs4n9d9dbqdfw" xml:space="preserve">{{Game
+|Guid=3ba53fc0-e8a6-4c98-a44b-d90208a906e0
+|Name=Titanium Court
+|Image=Cobdts.jpg
+|BackgroundImage=Titanium court bg.png
+|Deck=A surreal strategy game for clowns and criminals. Navigate a Fairy Court through danger via Match 3 and resource management mechanics.
+|ReleaseDateType=None
+|Developers=Companies/AP Thomson
+|Genres=Genres/Strategy
+|Platforms=Platforms/PC, Platforms/Mac
+|Publishers=Companies/Fellow Traveller
+}}</text>
+      <sha1>a4s9tx9fv1st4uah1oxs4n9d9dbqdfw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/To Kill a God</title>
+    <ns>0</ns>
+    <id>624796</id>
+    <revision>
+      <id>974931</id>
+      <parentid>974531</parentid>
+      <timestamp>2026-06-10T00:06:58Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974931</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="574" sha1="k3f0tmsoha1ow32f33olqd3gvovhqf5" xml:space="preserve">{{Game
+|Guid=1af0d217-9734-46d2-b0fc-ea23ee15d856
+|Name=To Kill a God
+|Image=https://giantbomb.com/api/media/file/media--file--zvxdfaerg-06-10-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--piojxzcvj-06-10-2026.jpg
+|Deck=A roguelite action RPG set in an endless cycle of death and rebirth.
+|ReleaseDateType=None
+|Concepts=Concepts/Digital Distribution, Concepts/Indie, Concepts/Roguelike, Concepts/Steam
+|Developers=Companies/Glitch Factory
+|Genres=Genres/Action, Genres/Role Playing
+|Platforms=Platforms/PC
+|Publishers=Companies/Mad Mushroom
+}}</text>
+      <sha1>k3f0tmsoha1ow32f33olqd3gvovhqf5</sha1>
+    </revision>
+  </page>
+</mediawiki>

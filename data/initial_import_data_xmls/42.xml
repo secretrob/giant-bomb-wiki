@@ -1,0 +1,2108 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Games/G I Joe Wrath of Cobra/Credits</title>
+    <ns>0</ns>
+    <id>251031</id>
+    <revision>
+      <id>251476</id>
+      <timestamp>2025-12-08T07:32:13Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251476</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="322" sha1="0zcbcb2xrvlzkrtnijanfiph6xooh51" xml:space="preserve">{{Credits
+|ParentPage=Games/G_I_Joe_Wrath_of_Cobra
+}}
+{{CreditSubobject
+|Game=Games/G_I_Joe_Wrath_of_Cobra
+|Release=
+|Dlc=
+|Person=People/Johnny_Gioeli
+|Company=
+|Department=Audio
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/G_I_Joe_Wrath_of_Cobra
+|Release=
+|Dlc=
+|Person=People/Tee_Lopes
+|Company=
+|Department=Audio
+|Role=
+}}
+</text>
+      <sha1>0zcbcb2xrvlzkrtnijanfiph6xooh51</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Galactic Empire 17971/Credits</title>
+    <ns>0</ns>
+    <id>464874</id>
+    <revision>
+      <id>746591</id>
+      <timestamp>2026-03-04T21:50:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>746591</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="196" sha1="6yjvoqbn47pn1k6yorwnyum33frq51y" xml:space="preserve">{{Credits
+|ParentPage=Games/Galactic_Empire_17971
+}}
+{{CreditSubobject
+|Game=Games/Galactic_Empire_17971
+|Release=
+|Dlc=
+|Person=People/Frederic_Motte
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>6yjvoqbn47pn1k6yorwnyum33frq51y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Galactic Quest/Credits</title>
+    <ns>0</ns>
+    <id>250239</id>
+    <revision>
+      <id>250684</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250684</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="209" sha1="3gb22dlvohebbgx3r5olig57hei2roa" xml:space="preserve">{{Credits
+|ParentPage=Games/Galactic_Quest
+}}
+{{CreditSubobject
+|Game=Games/Galactic_Quest
+|Release=
+|Dlc=
+|Person=People/John_Bell
+|Company=
+|Department=Design
+|Role=Apple II game by / Atari 8-bit game by
+}}
+</text>
+      <sha1>3gb22dlvohebbgx3r5olig57hei2roa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Galaxian 2445/Credits</title>
+    <ns>0</ns>
+    <id>464659</id>
+    <revision>
+      <id>743326</id>
+      <timestamp>2026-03-04T20:58:09Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>743326</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1223" sha1="8aktay7w8psobzu6g9vlx0sjp5h5b3k" xml:space="preserve">{{Credits
+|ParentPage=Games/Galaxian_2445
+}}
+{{CreditSubobject
+|Game=Games/Galaxian_2445
+|Release=
+|Dlc=
+|Person=People/Mark_Ackerman
+|Company=
+|Department=Programming
+|Role=(2600 version)
+}}
+{{CreditSubobject
+|Game=Games/Galaxian_2445
+|Release=
+|Dlc=
+|Person=People/Kazunori_Sawano
+|Company=
+|Department=Design
+|Role=Planning
+}}
+{{CreditSubobject
+|Game=Games/Galaxian_2445
+|Release=
+|Dlc=
+|Person=People/Shigeichi_Ishimura
+|Company=
+|Department=Design
+|Role=Hardware and Sound Design
+}}
+{{CreditSubobject
+|Game=Games/Galaxian_2445
+|Release=
+|Dlc=
+|Person=People/Kouichi_Tashiro
+|Company=
+|Department=Programming
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Galaxian_2445
+|Release=
+|Dlc=
+|Person=People/Haruhisa_Udagawa
+|Company=
+|Department=Programming
+|Role=Programming, FC
+}}
+{{CreditSubobject
+|Game=Games/Galaxian_2445
+|Release=
+|Dlc=
+|Person=People/Fukashi_Omorita
+|Company=
+|Department=Programming
+|Role=Sound Driver, FC
+}}
+{{CreditSubobject
+|Game=Games/Galaxian_2445
+|Release=
+|Dlc=
+|Person=People/Nobuyuki_Ohnogi
+|Company=
+|Department=Audio
+|Role=Music and Sound, FC
+}}
+{{CreditSubobject
+|Game=Games/Galaxian_2445
+|Release=
+|Dlc=
+|Person=People/Alan_Murphy
+|Company=
+|Department=Visual Arts
+|Role=Atari 5200 graphics
+}}
+</text>
+      <sha1>8aktay7w8psobzu6g9vlx0sjp5h5b3k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Galaxian Wars: Alien Shooter</title>
+    <ns>0</ns>
+    <id>625186</id>
+    <revision>
+      <id>978456</id>
+      <timestamp>2026-07-11T22:43:13Z</timestamp>
+      <contributor>
+        <username>EVERGAME</username>
+        <id>5208</id>
+      </contributor>
+      <comment>Creating a new game page for the indie arcade space shooter Galaxian Wars: Alien Shooter.</comment>
+      <origin>978456</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2409" sha1="hv85t0uqophazl5onvmevqvo1mn3dxv" xml:space="preserve">{{Game
+|Guid=f646aa68-e74b-427a-9080-b6ea7f04137f
+|Name=Galaxian Wars: Alien Shooter
+|Deck=A fast-paced, skill-based arcade space shooter heavily inspired by classic Galaxian-style games and running on a custom hybrid ZX Spectrum emulation engine.
+|ReleaseDateType=Full
+|ReleaseDate=2026-06-14
+|Genres=Genres/Shoot Em Up
+|Platforms=Platforms/Android
+}}
+Galaxian Wars: Alien Shooter is a fast-paced, skill-based arcade space shooter inspired by classic Galaxian-style games and retro alien invaders. It features relentless waves of alien swarms in deterministic arcade combat where precision, reaction, and positioning are key. The game features no upgrades or grinding, focusing purely on skill, mastery, and survival with global leaderboard dominance in a brutal one-credit arcade experience.
+
+== Gameplay ==
+
+* Pure Arcade Shooter: Classic top-down gameplay with zero upgrades or progression systems.
+* 100% Deterministic Combat: Every action, hit, and mistake matters. No random elements, only player skill.
+* Fast &amp; Replayable: Quick sessions designed specifically for mastery, reflex training, and skill improvement.
+
+== Dynamic Swarm AI ==
+
+* Coordinated Alien Swarms: Smart enemy formations controlled by flagship intelligence behavior.
+* Tactical Elimination: Destroy leaders to destabilize entire formations and cause chaos in enemy ranks.
+* Adaptive Flagships: Surviving enemy leaders adapt, escape, and return in later waves with increased aggression.
+* Berserk Phases: End-of-wave rage mechanics that dramatically increase pressure and intensity.
+
+== Technical Specs &amp; 8-Bit Retro Engine ==
+The game is built on a custom hybrid engine combining modern host performance with hardware-accurate emulated ZX Spectrum subsystems:
+
+* Hardware-Accurate Rendering: Authentic attribute clash simulation.
+* Voltage-Based Colors: True-to-hardware palette reproduction using voltage-level color emulation instead of basic RGB approximations.
+* Register-Level AY Audio: Pure chiptune soundscapes driven at the register level by an authentic AY-8910 audio chip emulation.
+* Fixed 50Hz Cycle: Perfect 20ms frame steps for authentic retro gameplay timing and speed.
+
+== Competitive Challenge ==
+
+* Global Leaderboards: Worldwide competition for high-scores.
+* Retro Name Entry: Authentic 3-letter arcade name entry system for high-score tables.
+* Hardcore Rules: One credit, one run, no continues, and no revives.</text>
+      <sha1>hv85t0uqophazl5onvmevqvo1mn3dxv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Galaxy Fraulein Yuna Mika Akitaka Illust Works/Credits</title>
+    <ns>0</ns>
+    <id>253840</id>
+    <revision>
+      <id>254291</id>
+      <timestamp>2025-12-08T07:32:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254291</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="243" sha1="pzzbb5chmwtepafsvkq65vjukqnfcp1" xml:space="preserve">{{Credits
+|ParentPage=Games/Galaxy_Fraulein_Yuna_Mika_Akitaka_Illust_Works
+}}
+{{CreditSubobject
+|Game=Games/Galaxy_Fraulein_Yuna_Mika_Akitaka_Illust_Works
+|Release=
+|Dlc=
+|Person=People/Mika_Akitaka
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+</text>
+      <sha1>pzzbb5chmwtepafsvkq65vjukqnfcp1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Game The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!: Dungeon and Mystery Girl</title>
+    <ns>0</ns>
+    <id>624444</id>
+    <revision>
+      <id>973633</id>
+      <timestamp>2026-04-20T16:44:46Z</timestamp>
+      <contributor>
+        <username>Chucktowski</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=7953cceb-cbad-4625-b98d-5a7435dc77fc |Name=GAME The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!: Dungeon and Mystery Girl |Image=Cobvchgamethestrongestvert.webp |BackgroundImage=Ar5nadgamethestrongestjobbg.webp |Deck=A fast-paced arena shooter game with simple controls and strategic battles. Experience a story original to the game, starring the characters of Appraiser (Provisional). |ReleaseDateType=None |Publishers=Comp..."</comment>
+      <origin>973633</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="491" sha1="tvc0xhgiez9nsaabm1ab5qd9wenxzra" xml:space="preserve">{{Game
+|Guid=7953cceb-cbad-4625-b98d-5a7435dc77fc
+|Name=GAME The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!: Dungeon and Mystery Girl
+|Image=Cobvchgamethestrongestvert.webp
+|BackgroundImage=Ar5nadgamethestrongestjobbg.webp
+|Deck=A fast-paced arena shooter game with simple controls and strategic battles. Experience a story original to the game, starring the characters of Appraiser (Provisional).
+|ReleaseDateType=None
+|Publishers=Companies/Sunsoft
+}}</text>
+      <sha1>tvc0xhgiez9nsaabm1ab5qd9wenxzra</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Game of Thrones Legends/Credits</title>
+    <ns>0</ns>
+    <id>253965</id>
+    <revision>
+      <id>254416</id>
+      <timestamp>2025-12-08T07:32:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254416</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="210" sha1="k1v4dc1i14if5ow5aa579hnonln3le3" xml:space="preserve">{{Credits
+|ParentPage=Games/Game_of_Thrones_Legends
+}}
+{{CreditSubobject
+|Game=Games/Game_of_Thrones_Legends
+|Release=
+|Dlc=
+|Person=People/Alejandro_Navarro_Hojman
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>k1v4dc1i14if5ow5aa579hnonln3le3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Gargoyles Remastered/Credits</title>
+    <ns>0</ns>
+    <id>251312</id>
+    <revision>
+      <id>251758</id>
+      <timestamp>2025-12-08T07:32:13Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251758</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="197" sha1="59j4zc4w83qyyi7tq4qyhlrrlb670ag" xml:space="preserve">{{Credits
+|ParentPage=Games/Gargoyles_Remastered
+}}
+{{CreditSubobject
+|Game=Games/Gargoyles_Remastered
+|Release=
+|Dlc=
+|Person=People/Keith_David
+|Company=
+|Department=Voice Actor
+|Role=Goliath
+}}
+</text>
+      <sha1>59j4zc4w83qyyi7tq4qyhlrrlb670ag</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Gemini 1983/Credits</title>
+    <ns>0</ns>
+    <id>249726</id>
+    <revision>
+      <id>250160</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250160</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="5y0v8tw6xls03lcukcc5n9tza21tygb" xml:space="preserve">{{Credits
+|ParentPage=Games/Gemini_1983
+}}
+{{CreditSubobject
+|Game=Games/Gemini_1983
+|Release=
+|Dlc=
+|Person=People/John_OFallon
+|Company=
+|Department=Programming
+|Role=Apple II game by
+}}
+</text>
+      <sha1>5y0v8tw6xls03lcukcc5n9tza21tygb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Gemini X</title>
+    <ns>0</ns>
+    <id>624943</id>
+    <revision>
+      <id>974680</id>
+      <timestamp>2026-06-08T01:01:06Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=b6200d41-6b16-4882-8b26-f57667c56a8c |Name=Gemini X |ReleaseDateType=None }}"</comment>
+      <origin>974680</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="89" sha1="2aa0206c3nl0ae07v12vuof35mehoff" xml:space="preserve">{{Game
+|Guid=b6200d41-6b16-4882-8b26-f57667c56a8c
+|Name=Gemini X
+|ReleaseDateType=None
+}}</text>
+      <sha1>2aa0206c3nl0ae07v12vuof35mehoff</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Ghost Writer</title>
+    <ns>0</ns>
+    <id>624993</id>
+    <revision>
+      <id>974731</id>
+      <timestamp>2026-06-08T01:35:23Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=f8b03c88-546d-4cec-8f53-648eebb8e5ac |Name=Ghost Writer |ReleaseDateType=None }}"</comment>
+      <origin>974731</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="93" sha1="tspto4a5x23duoy6xaauuqiqefbjqrr" xml:space="preserve">{{Game
+|Guid=f8b03c88-546d-4cec-8f53-648eebb8e5ac
+|Name=Ghost Writer
+|ReleaseDateType=None
+}}</text>
+      <sha1>tspto4a5x23duoy6xaauuqiqefbjqrr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Ghost of Yotei/Credits</title>
+    <ns>0</ns>
+    <id>253696</id>
+    <revision>
+      <id>254147</id>
+      <timestamp>2025-12-08T07:32:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254147</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="182" sha1="htoila4sf2kcr09cca5bznyrw1ldrn1" xml:space="preserve">{{Credits
+|ParentPage=Games/Ghost_of_Yotei
+}}
+{{CreditSubobject
+|Game=Games/Ghost_of_Yotei
+|Release=
+|Dlc=
+|Person=People/Erika_Ishii
+|Company=
+|Department=Voice Actor
+|Role=Atsu
+}}
+</text>
+      <sha1>htoila4sf2kcr09cca5bznyrw1ldrn1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Ghostrunner 2/Credits</title>
+    <ns>0</ns>
+    <id>250334</id>
+    <revision>
+      <id>250779</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250779</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="175" sha1="hphok8re2mvusf43cdkjo24xkazc9dp" xml:space="preserve">{{Credits
+|ParentPage=Games/Ghostrunner_2
+}}
+{{CreditSubobject
+|Game=Games/Ghostrunner_2
+|Release=
+|Dlc=
+|Person=People/David_Cox
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>hphok8re2mvusf43cdkjo24xkazc9dp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/GigaBash Mobile</title>
+    <ns>0</ns>
+    <id>624812</id>
+    <revision>
+      <id>975004</id>
+      <parentid>975001</parentid>
+      <timestamp>2026-06-14T02:03:04Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975004</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="517" sha1="6y00wvd3ktpm3t82fbdh2qoqqaxhv9j" xml:space="preserve">{{Game
+|Guid=1276f259-001b-4203-9b96-b2b27cd11343
+|Name=GigaBash Mobile
+|Image=https://giantbomb.com/api/media/file/media--file--hciapoga8aazeqf-06-14-2026.jpg
+|Deck=The kaiju arena fighter comes to mobile devices.
+|ReleaseDateType=Year
+|YearPart=2026
+|Concepts=Concepts/Kaiju, Concepts/Digital Distribution
+|Developers=Companies/PassionRepublic Games
+|Franchises=Franchises/GigaBash
+|Genres=Genres/Fighting
+|Platforms=Platforms/Android, Platforms/iPhone, Platforms/iPad
+|Publishers=Companies/PassionRepublic Games
+}}</text>
+      <sha1>6y00wvd3ktpm3t82fbdh2qoqqaxhv9j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Gigantosaurus Dino Sports/Credits</title>
+    <ns>0</ns>
+    <id>253679</id>
+    <revision>
+      <id>254130</id>
+      <timestamp>2025-12-08T07:32:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254130</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1278" sha1="1wcfvpduah9eefpdq5bayki51as7vdp" xml:space="preserve">{{Credits
+|ParentPage=Games/Gigantosaurus_Dino_Sports
+}}
+{{CreditSubobject
+|Game=Games/Gigantosaurus_Dino_Sports
+|Release=
+|Dlc=
+|Person=People/Adam_Kirschner
+|Company=
+|Department=Voice Actor
+|Role=Ignatius
+}}
+{{CreditSubobject
+|Game=Games/Gigantosaurus_Dino_Sports
+|Release=
+|Dlc=
+|Person=People/Leah_Juel
+|Company=
+|Department=Voice Actor
+|Role=Tiny
+}}
+{{CreditSubobject
+|Game=Games/Gigantosaurus_Dino_Sports
+|Release=
+|Dlc=
+|Person=People/Nahanni_Mitchell
+|Company=
+|Department=Voice Actor
+|Role=Mazu
+}}
+{{CreditSubobject
+|Game=Games/Gigantosaurus_Dino_Sports
+|Release=
+|Dlc=
+|Person=People/Dylan_Schombing
+|Company=
+|Department=Voice Actor
+|Role=Rocky
+}}
+{{CreditSubobject
+|Game=Games/Gigantosaurus_Dino_Sports
+|Release=
+|Dlc=
+|Person=People/Nicholas_Holmes
+|Company=
+|Department=Voice Actor
+|Role=Bill
+}}
+{{CreditSubobject
+|Game=Games/Gigantosaurus_Dino_Sports
+|Release=
+|Dlc=
+|Person=People/Shannon_Chan_Kent
+|Company=
+|Department=Voice Actor
+|Role=Cror/Termy
+}}
+{{CreditSubobject
+|Game=Games/Gigantosaurus_Dino_Sports
+|Release=
+|Dlc=
+|Person=People/Benjamin_Jacobson
+|Company=
+|Department=Voice Actor
+|Role=Marshall
+}}
+{{CreditSubobject
+|Game=Games/Gigantosaurus_Dino_Sports
+|Release=
+|Dlc=
+|Person=People/Samuel_Vincent
+|Company=
+|Department=Voice Actor
+|Role=Totor
+}}
+</text>
+      <sha1>1wcfvpduah9eefpdq5bayki51as7vdp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Global Domination 2509/Credits</title>
+    <ns>0</ns>
+    <id>464662</id>
+    <revision>
+      <id>743338</id>
+      <timestamp>2026-03-04T20:58:30Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>743338</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="339" sha1="fgsek0h7to5erasop4rt3f1lramo9vl" xml:space="preserve">{{Credits
+|ParentPage=Games/Global_Domination_2509
+}}
+{{CreditSubobject
+|Game=Games/Global_Domination_2509
+|Release=
+|Dlc=
+|Person=People/Pete_Bratcher
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Global_Domination_2509
+|Release=
+|Dlc=
+|Person=People/Graeme_Baird
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>fgsek0h7to5erasop4rt3f1lramo9vl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Glyph 2/Credits</title>
+    <ns>0</ns>
+    <id>255994</id>
+    <revision>
+      <id>256449</id>
+      <timestamp>2025-12-08T07:32:24Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>256449</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2702" sha1="lu3vltmbcjkrcexxio6xm8damkbtdyh" xml:space="preserve">{{Credits
+|ParentPage=Games/Glyph_2
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/Wade_McNutt
+|Company=
+|Department=Unclassified
+|Role=Producer/Designer
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/Matt_Dell
+|Company=
+|Department=Unclassified
+|Role=Marketing Manager
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/Arthur_Hagman
+|Company=
+|Department=Unclassified
+|Role=Graphic Designer
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/Tim_Knappenberger
+|Company=
+|Department=Unclassified
+|Role=QA Manager
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/James_Costello
+|Company=
+|Department=Unclassified
+|Role=QA Lead
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/Stephen_Hosmer
+|Company=
+|Department=Unclassified
+|Role=QA Engineer
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/Cody_Roesch
+|Company=
+|Department=Unclassified
+|Role=QA Engineer
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/Alex_Carmichael
+|Company=
+|Department=Unclassified
+|Role=QA Engineer
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/Clinton_Woodbury
+|Company=
+|Department=Unclassified
+|Role=QA Engineer
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/Melissa_Cuthill
+|Company=
+|Department=Unclassified
+|Role=Writing
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/Darek_Rusin
+|Company=
+|Department=Unclassified
+|Role=Producer/Developer
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/Michal_Nowakowski
+|Company=
+|Department=Unclassified
+|Role=Programming
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/Artur_Szymanski
+|Company=
+|Department=Unclassified
+|Role=Art
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/Otton_Laskowski
+|Company=
+|Department=Unclassified
+|Role=Art
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/Chris_Mahnken
+|Company=
+|Department=Unclassified
+|Role=Special Thanks
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/Leah_Verre
+|Company=
+|Department=Unclassified
+|Role=Special Thanks
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/Brian_Lynch
+|Company=
+|Department=Unclassified
+|Role=Special Thanks
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/Jared_Nieuwenhuis
+|Company=
+|Department=Unclassified
+|Role=Special Thanks
+}}
+{{CreditSubobject
+|Game=Games/Glyph_2
+|Release=
+|Dlc=
+|Person=People/Julie_Haehn
+|Company=
+|Department=Unclassified
+|Role=Special Thanks
+}}
+</text>
+      <sha1>lu3vltmbcjkrcexxio6xm8damkbtdyh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Go-Go Town!</title>
+    <ns>0</ns>
+    <id>624851</id>
+    <revision>
+      <id>975111</id>
+      <parentid>974588</parentid>
+      <timestamp>2026-06-16T20:52:29Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975111</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="764" sha1="gtvrv6opgwjiopvmxqevady768zxqem" xml:space="preserve">{{Game
+|Guid=8ec7021c-5d2e-4bef-851c-b12001382a72
+|Name=Go-Go Town!
+|Image=https://giantbomb.com/api/media/file/media--file--go-go-town-06-16-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--go-go-town-b-06-16-2026.jpg
+|Deck=A city builder from the makers of Yonder and Grow.
+|ReleaseDateType=Full
+|ReleaseDate=2026-06-18
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/City Building, Concepts/Steam, Concepts/Pre Release Public Testing, Concepts/Online, Concepts/Cooperative Play, Concepts/Split Screen Multiplayer, Concepts/Steam Achievements, Concepts/Steam Cloud
+|Developers=Companies/Prideful Sloth
+|Genres=Genres/Simulation
+|Platforms=Platforms/PC
+|Publishers=Companies/Prideful Sloth
+|Themes=Themes/Management
+}}</text>
+      <sha1>gtvrv6opgwjiopvmxqevady768zxqem</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/God of War Laufey</title>
+    <ns>0</ns>
+    <id>624660</id>
+    <revision>
+      <id>974263</id>
+      <parentid>974259</parentid>
+      <timestamp>2026-06-03T12:22:14Z</timestamp>
+      <contributor>
+        <username>Reverendhunt</username>
+        <id>297</id>
+      </contributor>
+      <origin>974263</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="805" sha1="o5ezw6xyr5vcbmo85w0l9j8b5t6hidd" xml:space="preserve">{{Game
+|Guid=fba54b59-745c-4687-a351-d39d29241b70
+|Name=God of War Laufey
+|Image=Laufey.webp
+|Deck=A spin-off of God of War focusing on Kratos' wife, Laufey, and her journey in the afterlife.
+|ReleaseDateType=None
+|Characters=Characters/Kratos, Characters/Laufey Norse, Characters/Atreus, Characters/Sekhmet
+|Concepts=Concepts/Digital Distribution, Concepts/Female Protagonists, Concepts/God, Concepts/The Afterlife, Concepts/Slashing Weapons, Concepts/Magic, Concepts/Frost Giants, Concepts/Titular Protagonist
+|Developers=Companies/SIE Santa Monica Studio, Companies/PlayStation Studios
+|Franchises=Franchises/God of War
+|Genres=Genres/Action Adventure
+|Locations=Locations/Midgard
+|Platforms=Platforms/PlayStation 5
+|Publishers=Companies/Sony Interactive Entertainment America
+|Themes=Themes/Fantasy
+}}</text>
+      <sha1>o5ezw6xyr5vcbmo85w0l9j8b5t6hidd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Godzilla 3063/Credits</title>
+    <ns>0</ns>
+    <id>464675</id>
+    <revision>
+      <id>743480</id>
+      <timestamp>2026-03-04T21:00:32Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>743480</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="593" sha1="2glhmuuzvxj60q02qc20pitgv7mcxae" xml:space="preserve">{{Credits
+|ParentPage=Games/Godzilla_3063
+}}
+{{CreditSubobject
+|Game=Games/Godzilla_3063
+|Release=
+|Dlc=
+|Person=People/Lunarian_Shintani
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Godzilla_3063
+|Release=
+|Dlc=
+|Person=People/Masatomo_Miyamoto
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Godzilla_3063
+|Release=
+|Dlc=
+|Person=People/Jemini_Hirono
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Godzilla_3063
+|Release=
+|Dlc=
+|Person=People/Masamitsu_Niitani
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>2glhmuuzvxj60q02qc20pitgv7mcxae</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Gold Rush 8806/Credits</title>
+    <ns>0</ns>
+    <id>464763</id>
+    <revision>
+      <id>744635</id>
+      <timestamp>2026-03-04T21:20:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>744635</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1129" sha1="lg2d3wnivngwplvedtyqf2kdv0j4auw" xml:space="preserve">{{Credits
+|ParentPage=Games/Gold_Rush_8806
+}}
+{{CreditSubobject
+|Game=Games/Gold_Rush_8806
+|Release=
+|Dlc=
+|Person=People/Doug_MacNeill
+|Company=
+|Department=Design
+|Role=Creator / Designer / Graphics
+}}
+{{CreditSubobject
+|Game=Games/Gold_Rush_8806
+|Release=
+|Dlc=
+|Person=People/Ken_MacNeill
+|Company=
+|Department=Design
+|Role=Creator / Designer / Programming
+}}
+{{CreditSubobject
+|Game=Games/Gold_Rush_8806
+|Release=
+|Dlc=
+|Person=People/Jeff_Stephenson
+|Company=
+|Department=Programming
+|Role=Development System
+}}
+{{CreditSubobject
+|Game=Games/Gold_Rush_8806
+|Release=
+|Dlc=
+|Person=People/Chris_Iden
+|Company=
+|Department=Programming
+|Role=Development System
+}}
+{{CreditSubobject
+|Game=Games/Gold_Rush_8806
+|Release=
+|Dlc=
+|Person=People/Anita_Scott
+|Company=
+|Department=Audio
+|Role=Music
+}}
+{{CreditSubobject
+|Game=Games/Gold_Rush_8806
+|Release=
+|Dlc=
+|Person=People/Robert_E_Heitman
+|Company=
+|Department=Programming
+|Role=Graphics Utilities (Credited as "Robert Heitman")
+}}
+{{CreditSubobject
+|Game=Games/Gold_Rush_8806
+|Release=
+|Dlc=
+|Person=People/Jerry_Albright
+|Company=
+|Department=Business
+|Role=Documentation
+}}
+</text>
+      <sha1>lg2d3wnivngwplvedtyqf2kdv0j4auw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Golgo 13 33474</title>
+    <ns>0</ns>
+    <id>464939</id>
+    <revision>
+      <id>749204</id>
+      <timestamp>2026-03-04T22:30:21Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>749204</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1132" sha1="nvx5725ju61ivz6480tbmx6jh27batn" xml:space="preserve">{{Game
+| Name=Golgo-13
+| Guid=3030-33474
+| Deck=A Golgo-13 arcade lightgun shooter from Raizing, published by Namco.
+| ReleaseDate=1999-12-31
+| ReleaseDateType=Quarter
+| Characters=Characters/Golgo_13
+| Concepts=Concepts/Anti_Hero,Concepts/Assassin,Concepts/Enemy_Sniper,Concepts/Games_Based_on_Anime,Concepts/Games_Based_on_Comic_Books,Concepts/Jump,Concepts/Lawbreaking,Concepts/Light_Gun,Concepts/Namco_System_11,Concepts/Nameless_Protagonist,Concepts/Polygonal_3D,Concepts/Sniping
+| Developers=Companies/Eighting_Co_Ltd
+| Franchises=Franchises/Golgo_13
+| Genres=Genres/Action
+| Locations=
+| Objects=Objects/Rifle,Objects/Scope,Objects/Sniper_Rifle,Objects/Suit_and_Tie,Objects/Tuxedo
+| Platforms=Platforms/Arcade
+| Publishers=Companies/Namco
+| Games=Games/Golgo_13_2_Kiseki_no_Dandou,Games/Golgo_13_3_Juusei_no_Chinkonka,Games/Golgo_13_Top_Secret_Episode,Games/Point_Blank,Games/Silent_Scope,Games/The_Mafat_Conspiracy,Games/The_Sniper_2
+| Themes=Themes/Anime,Themes/Crime,Themes/Espionage
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+A Golgo-13 arcade lightgun shooter from Raizing, published by Namco.</text>
+      <sha1>nvx5725ju61ivz6480tbmx6jh27batn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Gombo</title>
+    <ns>0</ns>
+    <id>624894</id>
+    <revision>
+      <id>975233</id>
+      <parentid>974631</parentid>
+      <timestamp>2026-06-27T00:40:30Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975233</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="640" sha1="i7bqfxwz2omi8g692273i9fkmllnodv" xml:space="preserve">{{Game
+|Guid=b4dde714-604b-4841-bc23-656d092ed680
+|Name=Gombo
+|Image=https://giantbomb.com/api/media/file/media--file--gombogombo-06-27-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--gombob-06-27-2026.jpg
+|Deck=A survival game set in a magical cartoon world.
+|ReleaseDateType=Full
+|ReleaseDate=2026-06-03
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Online, Concepts/Cooperative Play, Concepts/Survival, Concepts/Pre Release Public Testing
+|Developers=Companies/Martin Cochet
+|Genres=Genres/Action Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/FDG Entertainment
+}}</text>
+      <sha1>i7bqfxwz2omi8g692273i9fkmllnodv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Gone Feral</title>
+    <ns>0</ns>
+    <id>624772</id>
+    <revision>
+      <id>974779</id>
+      <parentid>974507</parentid>
+      <timestamp>2026-06-08T16:28:51Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974779</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="732" sha1="qt560weki4c0fj74yaui2uws7ya5m0r" xml:space="preserve">{{Game
+|Guid=f14e93eb-e393-4d81-99ed-c1313affda84
+|Name=Gone Feral
+|Image=https://giantbomb.com/api/media/file/media--file--coc77d-06-08-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--ss_a33a51be95354ff11f4f8af09dd8ad3523c72902-1920x1080-06-08-2026.jpg
+|Deck=Two survivors hunt down the family who left them for dead in the voxel-based 1980s horror story.
+|ReleaseDateType=None
+|Concepts=Concepts/Steam, Concepts/Voxel, Concepts/Indie, Concepts/Digital Distribution, Concepts/The 1980s, Concepts/Polygonal 3D, Concepts/Cooperative Play, Concepts/Online
+|Developers=Companies/Just Purkey Games
+|Genres=Genres/Action
+|Platforms=Platforms/PC
+|Publishers=Companies/Just Purkey Games
+|Themes=Themes/Horror
+}}</text>
+      <sha1>qt560weki4c0fj74yaui2uws7ya5m0r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Gotcha 10952/Credits</title>
+    <ns>0</ns>
+    <id>464807</id>
+    <revision>
+      <id>745130</id>
+      <timestamp>2026-03-04T21:28:37Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>745130</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="449" sha1="gewvn8k2g8aaxhaifq2c8w6d7o5fwzm" xml:space="preserve">{{Credits
+|ParentPage=Games/Gotcha_10952
+}}
+{{CreditSubobject
+|Game=Games/Gotcha_10952
+|Release=
+|Dlc=
+|Person=People/Markus_Wilding
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Gotcha_10952
+|Release=
+|Dlc=
+|Person=People/Matthias_Wehner
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Gotcha_10952
+|Release=
+|Dlc=
+|Person=People/Tobias_J_Richter
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>gewvn8k2g8aaxhaifq2c8w6d7o5fwzm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Gotcha Celebrity Secrets/Credits</title>
+    <ns>0</ns>
+    <id>249963</id>
+    <revision>
+      <id>250401</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250401</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="224" sha1="d5m3n7nfpyoc1f5f10fibn4tyt5f53e" xml:space="preserve">{{Credits
+|ParentPage=Games/Gotcha_Celebrity_Secrets
+}}
+{{CreditSubobject
+|Game=Games/Gotcha_Celebrity_Secrets
+|Release=
+|Dlc=
+|Person=People/Nicholas_Stern
+|Company=
+|Department=Visual Arts
+|Role=PC Windows art director
+}}
+</text>
+      <sha1>d5m3n7nfpyoc1f5f10fibn4tyt5f53e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Gothic Classic Khorinis Saga/Credits</title>
+    <ns>0</ns>
+    <id>253063</id>
+    <revision>
+      <id>253513</id>
+      <timestamp>2025-12-08T07:32:17Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>253513</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="525" sha1="2k0yhjjo7oc35ma7ftjbq57x7eoc3p0" xml:space="preserve">{{Credits
+|ParentPage=Games/Gothic_Classic_Khorinis_Saga
+}}
+{{CreditSubobject
+|Game=Games/Gothic_Classic_Khorinis_Saga
+|Release=
+|Dlc=
+|Person=People/Michael_Hoge
+|Company=
+|Department=Unclassified
+|Role=Management, Game Design, Story, Dialogs and Missions, AI Scripting, Art Director
+
+
+}}
+{{CreditSubobject
+|Game=Games/Gothic_Classic_Khorinis_Saga
+|Release=
+|Dlc=
+|Person=People/Bjorn_Pankratz
+|Company=
+|Department=Unclassified
+|Role=Additional Game Design, Administration Programing, Additional Sound Effects, QA Lead
+
+}}
+</text>
+      <sha1>2k0yhjjo7oc35ma7ftjbq57x7eoc3p0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Graveyard Dude/Credits</title>
+    <ns>0</ns>
+    <id>253889</id>
+    <revision>
+      <id>254340</id>
+      <timestamp>2025-12-08T07:32:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254340</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="177" sha1="9htv9wasudp9ejj3e7lbag6zmlmwo5v" xml:space="preserve">{{Credits
+|ParentPage=Games/Graveyard_Dude
+}}
+{{CreditSubobject
+|Game=Games/Graveyard_Dude
+|Release=
+|Dlc=
+|Person=People/Rani_Baker
+|Company=
+|Department=Programming
+|Role=
+}}
+</text>
+      <sha1>9htv9wasudp9ejj3e7lbag6zmlmwo5v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Green Again</title>
+    <ns>0</ns>
+    <id>624904</id>
+    <revision>
+      <id>974641</id>
+      <timestamp>2026-06-08T00:30:35Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=0e13b04e-b222-4b6d-8ff3-40e53a9933e3 |Name=Green Again |ReleaseDateType=None }}"</comment>
+      <origin>974641</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="92" sha1="1wplh3l4kx3dvhwhcddx8tt0jgivfqp" xml:space="preserve">{{Game
+|Guid=0e13b04e-b222-4b6d-8ff3-40e53a9933e3
+|Name=Green Again
+|ReleaseDateType=None
+}}</text>
+      <sha1>1wplh3l4kx3dvhwhcddx8tt0jgivfqp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Gridiron 40400</title>
+    <ns>0</ns>
+    <id>464962</id>
+    <revision>
+      <id>796898</id>
+      <parentid>750029</parentid>
+      <timestamp>2026-03-12T06:28:33Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796898</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="933" sha1="s8r1vm8c3f3pjrdrm5e4aa6ihbje9ty" xml:space="preserve">{{Game
+| Name=Gridiron!
+| Guid=3030-40400
+| Deck=The first game developed by Bethesda Softworks.
+| ReleaseDate=1986-12-31
+| ReleaseDateType=Year
+| Characters=
+| Concepts=Concepts/2D,Concepts/Single_Word_Titles
+| Developers=Companies/Bethesda_Softworks
+| Franchises=
+| Genres=Genres/Football,Genres/Simulation,Genres/Sports
+| Locations=
+| Objects=
+| Platforms=Platforms/Amiga,Platforms/Atari_ST
+| Publishers=Companies/Bethesda_Softworks
+| Games=
+| Themes=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/1/12139/2360618-2360617-gridiron.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2360618-2360617-gridiron.jpg","path":"1\/12139\/","mime":"image\/jpeg","sizes":"square_avatar,scale_small,square_small,scale_medium,screen_medium,scale_large,scale_avatar,square_mini,square_tiny,square_medium,scale_super,scale_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+The first game developed by Bethesda Softworks.</text>
+      <sha1>s8r1vm8c3f3pjrdrm5e4aa6ihbje9ty</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Gridrunner 3060/Credits</title>
+    <ns>0</ns>
+    <id>464672</id>
+    <revision>
+      <id>743474</id>
+      <timestamp>2026-03-04T21:00:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>743474</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="488" sha1="8nf2ojsatmxyr6n5hlg50ahksjdb9t4" xml:space="preserve">{{Credits
+|ParentPage=Games/Gridrunner_3060
+}}
+{{CreditSubobject
+|Game=Games/Gridrunner_3060
+|Release=
+|Dlc=
+|Person=People/Jeff_Minter
+|Company=
+|Department=Programming
+|Role=Coder and designer
+}}
+{{CreditSubobject
+|Game=Games/Gridrunner_3060
+|Release=
+|Dlc=
+|Person=People/Paul_Robertshaw
+|Company=
+|Department=Programming
+|Role=Coding
+}}
+{{CreditSubobject
+|Game=Games/Gridrunner_3060
+|Release=
+|Dlc=
+|Person=People/Dave_Carlin
+|Company=
+|Department=Visual Arts
+|Role=Title graphics
+}}
+</text>
+      <sha1>8nf2ojsatmxyr6n5hlg50ahksjdb9t4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Groove Coaster Future Performers/Credits</title>
+    <ns>0</ns>
+    <id>254365</id>
+    <revision>
+      <id>254817</id>
+      <timestamp>2025-12-08T07:32:20Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254817</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="674" sha1="asblsr62ds872okm8igfd8sam36hyk9" xml:space="preserve">{{Credits
+|ParentPage=Games/Groove_Coaster_Future_Performers
+}}
+{{CreditSubobject
+|Game=Games/Groove_Coaster_Future_Performers
+|Release=
+|Dlc=
+|Person=People/Shirakami_Fubuki
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Groove_Coaster_Future_Performers
+|Release=
+|Dlc=
+|Person=People/Miko_Sakura
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Groove_Coaster_Future_Performers
+|Release=
+|Dlc=
+|Person=People/Ayane_Sakura
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Groove_Coaster_Future_Performers
+|Release=
+|Dlc=
+|Person=People/Reiji_Kawashima
+|Company=
+|Department=Voice Actor
+|Role=
+}}
+</text>
+      <sha1>asblsr62ds872okm8igfd8sam36hyk9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Ground Zero Hero</title>
+    <ns>0</ns>
+    <id>624628</id>
+    <revision>
+      <id>974156</id>
+      <parentid>974155</parentid>
+      <timestamp>2026-06-02T11:24:12Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974156</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="616" sha1="mbi4vm4vqcwmke09zwcjok4ioxylir5" xml:space="preserve">{{Game
+|Guid=f3bc28a8-7de5-4045-b5b6-35f9d523ca75
+|Name=Ground Zero Hero
+|Image=https://giantbomb.com/api/media/file/media--file--library_600x900ewh_2x-06-02-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--library_heroasdf_2x-06-02-2026.jpg
+|Deck=A roguelite auto-shooter about mutating in nuclear fallout.
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/2D, Concepts/Steam, Concepts/Mutant, Concepts/Roguelike
+|Developers=Companies/Rowan Edmondson
+|Genres=Genres/Action
+|Platforms=Platforms/PC
+|Publishers=Companies/Acclaim Inc.
+|Themes=Themes/Post Apocalyptic
+}}</text>
+      <sha1>mbi4vm4vqcwmke09zwcjok4ioxylir5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Growing My Manhole</title>
+    <ns>0</ns>
+    <id>624814</id>
+    <revision>
+      <id>975008</id>
+      <parentid>975005</parentid>
+      <timestamp>2026-06-14T02:11:04Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975008</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="582" sha1="fe0ye25gpiw79u3dbbskwciknv14m2s" xml:space="preserve">{{Game
+|Guid=ddf620a4-d8c5-4358-9921-8a8ac457ac01
+|Name=Growing My Manhole
+|Image=https://giantbomb.com/api/media/file/media--file--oiuytrsdfvbb-06-14-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--hjgfdsvbxcnmmmm-06-14-2026.jpg
+|Deck=The hole only gets bigger.
+|ReleaseDateType=Quarter
+|QuarterPart=Q3
+|QuarterYearPart=2026
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/2D
+|Developers=Companies/SylverDev
+|Genres=Genres/Action
+|Platforms=Platforms/PC
+|Publishers=Companies/Gearbyte Games
+|Games=Games/Donut County
+}}</text>
+      <sha1>fe0ye25gpiw79u3dbbskwciknv14m2s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Guild Wars 3</title>
+    <ns>0</ns>
+    <id>624713</id>
+    <revision>
+      <id>974421</id>
+      <parentid>974399</parentid>
+      <timestamp>2026-06-06T05:01:00Z</timestamp>
+      <contributor>
+        <username>Mopopolis</username>
+        <id>237</id>
+      </contributor>
+      <origin>974421</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="879" sha1="7j8441bzdv0oaztq4jfu0e7cc7jnsp7" xml:space="preserve">{{Game
+|Guid=90634c9a-e568-427c-9148-fd6ac62d79da
+|Name=Guild Wars 3
+|Image=https://giantbomb.com/api/media/file/media--file--erherahhrae-06-06-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--youiyf-06-06-2026.jpg
+|Deck=The third iteration of ArenaNet's MMORPG franchise takes place more than a thousand years into the past in the lands of Orr, where players join the Vaelwardens, a guild tasked with protecting the land and people of Orr.
+|ReleaseDateType=Quarter
+|QuarterPart=Q4
+|QuarterYearPart=2027
+|Concepts=Concepts/Digital Distribution, Concepts/Steam, Concepts/Polygonal 3D, Concepts/Magic, Concepts/Third Person Perspective, Concepts/Prequel
+|Developers=Companies/ArenaNet Inc
+|Franchises=Franchises/Guild Wars
+|Genres=Genres/MMORPG
+|Platforms=Platforms/PC, Platforms/PlayStation 5
+|Publishers=Companies/ArenaNet Inc
+|Themes=Themes/Fantasy
+}}</text>
+      <sha1>7j8441bzdv0oaztq4jfu0e7cc7jnsp7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Gun Smoke 15361/Credits</title>
+    <ns>0</ns>
+    <id>464847</id>
+    <revision>
+      <id>746009</id>
+      <timestamp>2026-03-04T21:42:08Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>746009</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="451" sha1="f8s9mdzmt8sd5ykxylqqigy41mwtn76" xml:space="preserve">{{Credits
+|ParentPage=Games/Gun_Smoke_15361
+}}
+{{CreditSubobject
+|Game=Games/Gun_Smoke_15361
+|Release=
+|Dlc=
+|Person=People/Ayako_Mori
+|Company=
+|Department=Audio
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Gun_Smoke_15361
+|Release=
+|Dlc=
+|Person=People/Yoshiki_Okamoto
+|Company=
+|Department=Design
+|Role=Designer
+}}
+{{CreditSubobject
+|Game=Games/Gun_Smoke_15361
+|Release=
+|Dlc=
+|Person=People/Darryl_Williams
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>f8s9mdzmt8sd5ykxylqqigy41mwtn76</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Gundam: Rogue Orbit</title>
+    <ns>0</ns>
+    <id>624710</id>
+    <revision>
+      <id>974388</id>
+      <parentid>974331</parentid>
+      <timestamp>2026-06-06T00:34:27Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974388</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="768" sha1="71ubdizzafdglh7nssqbt4i9s0f5738" xml:space="preserve">{{Game
+|Guid=6ae8a0e6-b2d7-4f41-b02b-0b2f7e424dc1
+|Name=Gundam Rogue Orbit
+|Image=https://giantbomb.com/api/media/file/media--file--gundam-rogue-orbit-announced_06-05-26-06-06-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--gundam-rogue-orbit-announced_06-05-26-06-06-2026.jpg
+|Deck=A fast-paced action game set in a separate Gundam universe.
+|ReleaseDateType=Year
+|YearPart=2027
+|Concepts=Concepts/Digital Distribution, Concepts/Licensed Game
+|Developers=Companies/Bandai Namco Entertainment
+|Franchises=Franchises/Gundam
+|Genres=Genres/Action
+|Platforms=Platforms/PC, Platforms/PlayStation 5, Platforms/Xbox Series X S
+|Publishers=Companies/Bandai Namco Entertainment
+|Games=Games/Armored Core VI Fires of Rubicon
+|Themes=Themes/Sci Fi
+}}</text>
+      <sha1>71ubdizzafdglh7nssqbt4i9s0f5738</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Guns Undarkness/Credits</title>
+    <ns>0</ns>
+    <id>254960</id>
+    <revision>
+      <id>255413</id>
+      <timestamp>2025-12-08T07:32:22Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>255413</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="182" sha1="5mnkm0zye42sli94t6tagrvt2vmrt8l" xml:space="preserve">{{Credits
+|ParentPage=Games/Guns_Undarkness
+}}
+{{CreditSubobject
+|Game=Games/Guns_Undarkness
+|Release=
+|Dlc=
+|Person=People/Shoji_Meguro
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>5mnkm0zye42sli94t6tagrvt2vmrt8l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Guns of Fury/Credits</title>
+    <ns>0</ns>
+    <id>254590</id>
+    <revision>
+      <id>255042</id>
+      <timestamp>2025-12-08T07:32:21Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>255042</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="179" sha1="ji0e4rqfv7kdiyyb1tdp3l0l6fszxml" xml:space="preserve">{{Credits
+|ParentPage=Games/Guns_of_Fury
+}}
+{{CreditSubobject
+|Game=Games/Guns_of_Fury
+|Release=
+|Dlc=
+|Person=People/Dominic_Ninmark
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>ji0e4rqfv7kdiyyb1tdp3l0l6fszxml</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Gunship 3172/Credits</title>
+    <ns>0</ns>
+    <id>464678</id>
+    <revision>
+      <id>743504</id>
+      <timestamp>2026-03-04T21:00:48Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>743504</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="783" sha1="6ynvcjej9cq9gkrsjndaoooeyxuy1px" xml:space="preserve">{{Credits
+|ParentPage=Games/Gunship_3172
+}}
+{{CreditSubobject
+|Game=Games/Gunship_3172
+|Release=
+|Dlc=
+|Person=People/Joseph_Morel
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Gunship_3172
+|Release=
+|Dlc=
+|Person=People/David_Rivas
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Gunship_3172
+|Release=
+|Dlc=
+|Person=People/Salvatore_Saccheri
+|Company=
+|Department=Unclassified
+|Role=Quality Assurance for Microprose Software. (Microprose Software, Inc., 1999)
+}}
+{{CreditSubobject
+|Game=Games/Gunship_3172
+|Release=
+|Dlc=
+|Person=People/Betsy_Kirk
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Gunship_3172
+|Release=
+|Dlc=
+|Person=People/Lani_Minella
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>6ynvcjej9cq9gkrsjndaoooeyxuy1px</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/HIGH SCHOOL OF THE DEAD DAY 0</title>
+    <ns>0</ns>
+    <id>625202</id>
+    <revision>
+      <id>985780</id>
+      <timestamp>2026-07-17T05:23:41Z</timestamp>
+      <contributor>
+        <username>G123ctw</username>
+        <id>4170</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=0ad1405d-e445-4562-a7d3-bf7d045c50ce |Name=HIGH SCHOOL OF THE DEAD DAY 0 |Aliases=HOTDZero |Image=Hotdcover.jpg |ReleaseDateType=None }}"</comment>
+      <origin>985780</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="149" sha1="ht1oxzwjc6difpq64vtq7cppih0d1d8" xml:space="preserve">{{Game
+|Guid=0ad1405d-e445-4562-a7d3-bf7d045c50ce
+|Name=HIGH SCHOOL OF THE DEAD DAY 0
+|Aliases=HOTDZero
+|Image=Hotdcover.jpg
+|ReleaseDateType=None
+}}</text>
+      <sha1>ht1oxzwjc6difpq64vtq7cppih0d1d8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Hack 95</title>
+    <ns>0</ns>
+    <id>624768</id>
+    <revision>
+      <id>974776</id>
+      <parentid>974503</parentid>
+      <timestamp>2026-06-08T15:52:52Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974776</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="580" sha1="qbwq6tanurh8dx80rdl81vin4mi2vsb" xml:space="preserve">{{Game
+|Guid=758b4c01-9f1c-4ca1-86c2-839f3ddb021c
+|Name=Hack 95
+|Image=https://giantbomb.com/api/media/file/media--file--abfaerg-06-08-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--qweffqawe-06-08-2026.jpg
+|Deck=A card-based hacking game set in 1995.
+|ReleaseDateType=None
+|Concepts=Concepts/Steam, Concepts/Digital Distribution, Concepts/The 1990s, Concepts/Hacking, Concepts/Indie, Concepts/Turn Based
+|Developers=Companies/Village Studio
+|Genres=Genres/Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/Village Studio
+|Themes=Themes/Crime
+}}</text>
+      <sha1>qbwq6tanurh8dx80rdl81vin4mi2vsb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Haex</title>
+    <ns>0</ns>
+    <id>624709</id>
+    <revision>
+      <id>974386</id>
+      <parentid>974385</parentid>
+      <timestamp>2026-06-06T00:26:27Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974386</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="631" sha1="o2qbjmasyuoyyuzkidva6pyc6ekp9nt" xml:space="preserve">{{Game
+|Guid=51d7e6c2-2886-4001-bf32-2ceb5af85f66
+|Name=Haex
+|Image=https://giantbomb.com/api/media/file/media--file--heeag-06-06-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--hrwhr-06-06-2026.jpg
+|Deck=A survival game for up to three players set in the arctic circle.
+|ReleaseDateType=Year
+|YearPart=2027
+|Concepts=Concepts/Digital Distribution, Concepts/Steam, Concepts/Steam Achievements, Concepts/Steam Cloud, Concepts/Cooperative Play, Concepts/Pre Release Public Testing
+|Developers=Companies/Dead Astronauts
+|Genres=Genres/Action
+|Platforms=Platforms/PC
+|Publishers=Companies/Dead Astronauts
+}}</text>
+      <sha1>o2qbjmasyuoyyuzkidva6pyc6ekp9nt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Hands Over</title>
+    <ns>0</ns>
+    <id>624597</id>
+    <revision>
+      <id>974124</id>
+      <parentid>974106</parentid>
+      <timestamp>2026-06-02T02:35:43Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974124</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="486" sha1="ghad9qetu3duck71033dc704ddnyk35" xml:space="preserve">{{Game
+|Guid=51b15a7a-a0b2-408a-b09b-1d0eb9f8e92c
+|Name=Hands Over
+|Image=Handsover.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--hands-over2-06-02-2026.jpg
+|Deck=A five-player horror game show.
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/Polygonal 3D, Concepts/Steam, Concepts/Online
+|Developers=Companies/ArtDock
+|Genres=Genres/Action
+|Platforms=Platforms/PC
+|Publishers=Companies/ArtDock
+|Themes=Themes/Game Show, Themes/Horror
+}}</text>
+      <sha1>ghad9qetu3duck71033dc704ddnyk35</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Harvest Moon: Echoes of Teradea</title>
+    <ns>0</ns>
+    <id>465175</id>
+    <revision>
+      <id>796986</id>
+      <parentid>752726</parentid>
+      <timestamp>2026-03-12T14:34:34Z</timestamp>
+      <contributor>
+        <username>Chucktowski</username>
+        <id>7</id>
+      </contributor>
+      <origin>796986</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="923" sha1="0h4c6v5lq1n1rxmqvkl6flrc3uowivo" xml:space="preserve">{{Game
+|Guid=793efc6b-3cba-408f-bdbe-8f52afa0e5a1
+|Name=Harvest Moon: Echoes of Teradea
+|Image=https://giantbomb.com/wiki-uploads/e/ee/HDI45M1WYAEh6Qb.jpg
+|Deck=Help the Guardian Spirits revitalize the land of Teradea and uncover the mystery of the wolves of the mist in Harvest Moon: Echoes of Teradea.
+|ReleaseDateType=None
+|Concepts=Concepts/Steam, Concepts/Digital Distribution, Concepts/Marriage, Concepts/Potential Love Interest, Concepts/Wolf, Concepts/Mist, Concepts/Farming, Concepts/God, Concepts/Chicken, Concepts/Horses, Concepts/Horse Riding
+|Franchises=Franchises/Harvest Moon
+|Genres=Genres/Role Playing, Genres/Simulation
+|Locations=Locations/Farm, Locations/Island
+|Objects=Objects/Crop, Objects/Tree
+|Platforms=Platforms/Xbox Series X S, Platforms/Nintendo Switch, Platforms/Nintendo Switch 2, Platforms/PlayStation 5, Platforms/PC
+|Publishers=Companies/Natsume
+|Themes=Themes/Dating, Themes/Management
+}}</text>
+      <sha1>0h4c6v5lq1n1rxmqvkl6flrc3uowivo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Hattrick 10933/Credits</title>
+    <ns>0</ns>
+    <id>464805</id>
+    <revision>
+      <id>745127</id>
+      <timestamp>2026-03-04T21:28:36Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>745127</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="314" sha1="hua0iacuvhwulqc1xie8rhlirsobgi8" xml:space="preserve">{{Credits
+|ParentPage=Games/Hattrick_10933
+}}
+{{CreditSubobject
+|Game=Games/Hattrick_10933
+|Release=
+|Dlc=
+|Person=People/Thomas_Krause
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Hattrick_10933
+|Release=
+|Dlc=
+|Person=People/Jorg_Rohrer
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>hua0iacuvhwulqc1xie8rhlirsobgi8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Hawker</title>
+    <ns>0</ns>
+    <id>624989</id>
+    <revision>
+      <id>974727</id>
+      <timestamp>2026-06-08T01:33:04Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=94cd5d5a-bbe9-4191-b473-adc3aec5af64 |Name=Hawker |ReleaseDateType=None }}"</comment>
+      <origin>974727</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="87" sha1="1j9rxz1fj9zw14qv1wqrjs7xd8qal6y" xml:space="preserve">{{Game
+|Guid=94cd5d5a-bbe9-4191-b473-adc3aec5af64
+|Name=Hawker
+|ReleaseDateType=None
+}}</text>
+      <sha1>1j9rxz1fj9zw14qv1wqrjs7xd8qal6y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Hawthorn</title>
+    <ns>0</ns>
+    <id>624890</id>
+    <revision>
+      <id>975226</id>
+      <parentid>974627</parentid>
+      <timestamp>2026-06-26T23:56:20Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975226</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="744" sha1="ew760wzyebr7afb6vvfris334q0fm4i" xml:space="preserve">{{Game
+|Guid=cab4a920-c0bc-44a6-bb76-8fdde93808c0
+|Name=Hawthorn
+|Image=https://giantbomb.com/api/media/file/media--file--hawthorn-06-26-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--hawthornb-06-26-2026.jpg
+|Deck=A sandbox RPG in a world of anthropomorphic animals designed by former Naughty Dog, Bethesda, and BioWare devs.
+|ReleaseDateType=None
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Anthropomorphism, Concepts/Open World, Concepts/Sandbox, Concepts/Polygonal 3D, Concepts/Third Person Perspective, Concepts/Online, Concepts/Cooperative Play, Concepts/Owl
+|Developers=Companies/Near Studios
+|Genres=Genres/Role Playing
+|Platforms=Platforms/PC
+|Themes=Themes/Fantasy
+}}</text>
+      <sha1>ew760wzyebr7afb6vvfris334q0fm4i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/HeatMeUp</title>
+    <ns>0</ns>
+    <id>465218</id>
+    <revision>
+      <id>797179</id>
+      <timestamp>2026-03-20T16:51:23Z</timestamp>
+      <contributor>
+        <username>Humayune</username>
+        <id>2145</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=eb3f8643-9caa-4992-8065-27da3de59b3e |Name=Heat Me Up! |Aliases=Heat Me Up! |ReleaseDateType=Full |ReleaseDate=2025-07-03 |Genres=Genres/Puzzle, Genres/Platformer |Platforms=Platforms/Android }}"</comment>
+      <origin>797179</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="207" sha1="3mh3p7m7jnp9sf6rba8s5e3k32kxj2g" xml:space="preserve">{{Game
+|Guid=eb3f8643-9caa-4992-8065-27da3de59b3e
+|Name=Heat Me Up!
+|Aliases=Heat Me Up!
+|ReleaseDateType=Full
+|ReleaseDate=2025-07-03
+|Genres=Genres/Puzzle, Genres/Platformer
+|Platforms=Platforms/Android
+}}</text>
+      <sha1>3mh3p7m7jnp9sf6rba8s5e3k32kxj2g</sha1>
+    </revision>
+  </page>
+</mediawiki>

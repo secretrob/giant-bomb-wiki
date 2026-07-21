@@ -1,0 +1,1612 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>People/Jeffrey Mattson</title>
+    <ns>0</ns>
+    <id>456419</id>
+    <revision>
+      <id>457005</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457005</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="224" sha1="rwucbg6tzaze8cc9uvbzzn6qx2puy3p" xml:space="preserve">{{Person
+| Name=Jeffrey Mattson
+| Guid=3040-193279
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Super_Granny_5
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>rwucbg6tzaze8cc9uvbzzn6qx2puy3p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jennifer Pankratz</title>
+    <ns>0</ns>
+    <id>456277</id>
+    <revision>
+      <id>738289</id>
+      <parentid>456863</parentid>
+      <timestamp>2026-02-15T00:30:54Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>738289</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1421" sha1="05tyhfe2sb3fpuwg0jmr85yg8x6b90j" xml:space="preserve">{{Person
+| Name=Jennifer Pankratz
+| Guid=3040-193137
+| Deck=Jennifer Pankratz is a German game developer, game designer and story writer
+| Gender=Non-Binary
+| Birthday=1983-02-28
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Cralon,Games/ELEX,Games/ELEX_II,Games/Risen,Games/Risen_2_Dark_Waters,Games/Risen_3_Titan_Lords
+| Locations=
+| Objects=
+| People=People/Bjorn_Pankratz
+| Image=https://www.giantbomb.com/a/uploads/scale_super/161/1613774/3743463-3741905404-98749.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3743463-3741905404-98749.jpg","path":"161\/1613774\/","mime":"image\/jpeg","sizes":"scale_super,scale_medium,square_tiny,square_mini,square_medium,square_small,scale_small,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+Jennifer Pankratz, born Gartmann on February 28, 1983, is a German game developer, game designer and story writer. She is known for her work as a game designer and story writer for the development studio [https://www.mobygames.com/company/2010/piranha-bytes-gmbh Piranha Bytes] ,where she played a key role in the development of the Risen and ELEX series of computer games. In addition, she also had a significant role in the areas of PR and social media. In july 2024, she and her husband [https://www.mobygames.com/person/37826/bjorn-pankratz Björn Pankratz] founded the Indie Game Studio Pithead Studio.</text>
+      <sha1>05tyhfe2sb3fpuwg0jmr85yg8x6b90j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jenny Kidd</title>
+    <ns>0</ns>
+    <id>456290</id>
+    <revision>
+      <id>456876</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456876</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="224" sha1="iysgcwoda65iwgqr5o9eo4h56un7ebx" xml:space="preserve">{{Person
+| Name=Jenny Kidd
+| Guid=3040-193150
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Donkey_Kong_Bananza
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>iysgcwoda65iwgqr5o9eo4h56un7ebx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jeremy Constant 128547</title>
+    <ns>0</ns>
+    <id>465145</id>
+    <revision>
+      <id>752532</id>
+      <timestamp>2026-03-04T23:14:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752532</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="205" sha1="2a2wo7lyw7v2l8dih4xm88n5sva3ghz" xml:space="preserve">{{Person
+| Name=Jeremy Constant 
+| Guid=3040-128547
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>2a2wo7lyw7v2l8dih4xm88n5sva3ghz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jeremy Kellerman</title>
+    <ns>0</ns>
+    <id>456226</id>
+    <revision>
+      <id>456812</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456812</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="215" sha1="trbzlclaruhxv1q5ug69zvah4u1fsuq" xml:space="preserve">{{Person
+| Name=Jeremy Kellerman
+| Guid=3040-193086
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Butt
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>trbzlclaruhxv1q5ug69zvah4u1fsuq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jeremy Steiner</title>
+    <ns>0</ns>
+    <id>456245</id>
+    <revision>
+      <id>456831</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456831</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="296" sha1="0m9rco0chlya1jmzqrxu3odww6vuhpx" xml:space="preserve">{{Person
+| Name=Jeremy Steiner
+| Guid=3040-193105
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Call_of_Duty_2,Games/Call_of_Duty_3,Games/James_Bond_Top_Agent,Games/Legends_of_Norrath
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>0m9rco0chlya1jmzqrxu3odww6vuhpx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jerome Hubert 32413</title>
+    <ns>0</ns>
+    <id>465068</id>
+    <revision>
+      <id>752390</id>
+      <timestamp>2026-03-04T23:12:37Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752390</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="202" sha1="tf7kd7dneqpkypioq1xz7ykiu9abl2q" xml:space="preserve">{{Person
+| Name=Jérome Hubert
+| Guid=3040-32413
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>tf7kd7dneqpkypioq1xz7ykiu9abl2q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jerron Bacat</title>
+    <ns>0</ns>
+    <id>456233</id>
+    <revision>
+      <id>456819</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456819</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="236" sha1="onqokrhg2h59aq42d4be52kc40bb6pe" xml:space="preserve">{{Person
+| Name=Jerron Bacat
+| Guid=3040-193093
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Fatal_Fury_City_of_the_Wolves
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>onqokrhg2h59aq42d4be52kc40bb6pe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jerry Klein</title>
+    <ns>0</ns>
+    <id>456428</id>
+    <revision>
+      <id>457014</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457014</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="219" sha1="r5wsvuzz6it6gk5tr6v3k9s5je8y7kw" xml:space="preserve">{{Person
+| Name=Jerry Klein
+| Guid=3040-193288
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Burger_Island
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>r5wsvuzz6it6gk5tr6v3k9s5je8y7kw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jesse Camacho</title>
+    <ns>0</ns>
+    <id>456309</id>
+    <revision>
+      <id>456895</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456895</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="nirm2e78y4sl6quen0eykqnq1n2vb3t" xml:space="preserve">{{Person
+| Name=Jesse Camacho
+| Guid=3040-193169
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Suikoden_Tierkreis
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>nirm2e78y4sl6quen0eykqnq1n2vb3t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jesse Young 168987</title>
+    <ns>0</ns>
+    <id>465157</id>
+    <revision>
+      <id>752545</id>
+      <timestamp>2026-03-04T23:14:57Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752545</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="220" sha1="gk7vps0si0bec30gm2uy22j0sf0v3fj" xml:space="preserve">{{Person
+| Name=	Jesse Young
+| Guid=3040-168987
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Lost_Planet_3
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>gk7vps0si0bec30gm2uy22j0sf0v3fj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jessica Luminaire</title>
+    <ns>0</ns>
+    <id>456291</id>
+    <revision>
+      <id>456877</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456877</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="588" sha1="1npqi3x6lh989t4gxefelopkrj6l9u6" xml:space="preserve">{{Person
+| Name=Jessica Luminaire
+| Guid=3040-193151
+| Deck=Jessica Luminaire are the developer behind Blobun. They are a plural system consisting of Roxy, Mika, Willow, Ashe, Coco, Autumn, and Riley.
+| Website=https://www.cyansorcery.com/
+| LastName=Luminaire
+| Hometown=California
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Blobun
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Jessica Luminaire are the developer behind Blobun. They are a plural system consisting of Roxy, Mika, Willow, Ashe, Coco, Autumn, and Riley.</text>
+      <sha1>1npqi3x6lh989t4gxefelopkrj6l9u6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jessica Stevens</title>
+    <ns>0</ns>
+    <id>456317</id>
+    <revision>
+      <id>456903</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456903</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="301" sha1="s5483pj60h5pctvyjss3rs7n88v6zrt" xml:space="preserve">{{Person
+| Name=Jessica Stevens
+| Guid=3040-193177
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Activision_Collection_1,Games/Space_Shuttle_A_Journey_into_Space
+| Locations=
+| Objects=
+| People=People/Daniel_James_Kitchen
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>s5483pj60h5pctvyjss3rs7n88v6zrt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jochen Hess 26650</title>
+    <ns>0</ns>
+    <id>465054</id>
+    <revision>
+      <id>752374</id>
+      <timestamp>2026-03-04T23:12:20Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752374</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="a9mxn6l3sl68dv3cnxyx1vqp9bj88l2" xml:space="preserve">{{Person
+| Name=Jochen Hess
+| Guid=3040-26650
+| Aliases=Jochen Heß
+| Gender=Male
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Logical,Games/Mad_TV,Games/Mad_TV_2,Games/Rock_n_Roll
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>a9mxn6l3sl68dv3cnxyx1vqp9bj88l2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Joel Nelson</title>
+    <ns>0</ns>
+    <id>456471</id>
+    <revision>
+      <id>457057</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457057</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="211" sha1="et33cbmyfspu4cx820vk5v879keu8a8" xml:space="preserve">{{Person
+| Name=Joel Nelson
+| Guid=3040-193332
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Kuros
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>et33cbmyfspu4cx820vk5v879keu8a8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Johann Pachelbel 124659</title>
+    <ns>0</ns>
+    <id>465142</id>
+    <revision>
+      <id>752529</id>
+      <timestamp>2026-03-04T23:14:38Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752529</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" sha1="buu4rthz85lpeijpfj6soepl2502vo8" xml:space="preserve">{{Person
+| Name= Johann Pachelbel
+| Guid=3040-124659
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/G_Senjou_no_Maou
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>buu4rthz85lpeijpfj6soepl2502vo8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/John Dunbar</title>
+    <ns>0</ns>
+    <id>456371</id>
+    <revision>
+      <id>456957</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456957</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="255" sha1="1wcusqoqepj2y3ztbnzkgubxk1kkrkq" xml:space="preserve">{{Person
+| Name=John Dunbar
+| Guid=3040-193231
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Orbital_93990,Games/Super_Granny,Games/Tradewinds
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>1wcusqoqepj2y3ztbnzkgubxk1kkrkq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/John Iluin</title>
+    <ns>0</ns>
+    <id>456536</id>
+    <revision>
+      <id>457122</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457122</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="215" sha1="4008mjpsg6khz9w3k2b699lj4zqvv8r" xml:space="preserve">{{Person
+| Name=John Iluin
+| Guid=3040-193397
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Alpha_Ball
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>4008mjpsg6khz9w3k2b699lj4zqvv8r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/John Lang</title>
+    <ns>0</ns>
+    <id>456396</id>
+    <revision>
+      <id>456982</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456982</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="216" sha1="a6yfuh7xmpoxczse9pkav60koquwa8c" xml:space="preserve">{{Person
+| Name=John Lang
+| Guid=3040-193256
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Tradewinds_2
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>a6yfuh7xmpoxczse9pkav60koquwa8c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/John Robinson 40915</title>
+    <ns>0</ns>
+    <id>465079</id>
+    <revision>
+      <id>752408</id>
+      <timestamp>2026-03-04T23:12:55Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752408</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="308" sha1="ir8hrx95uk6tjvwl5rb4fz3syweh0m7" xml:space="preserve">{{Person
+| Name=John Robinson
+| Guid=3040-40915
+| Characters=
+| Concepts=
+| Franchises=Franchises/Crash_Bandicoot
+| Games=Games/Castlevania_Symphony_of_the_Night,Games/Crash_Bandicoot_The_Wrath_of_Cortex
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ir8hrx95uk6tjvwl5rb4fz3syweh0m7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jonah Carson</title>
+    <ns>0</ns>
+    <id>456347</id>
+    <revision>
+      <id>456933</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456933</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="246" sha1="lpx7dicekb9zo2xzpwul0skdgii4lqa" xml:space="preserve">{{Person
+| Name=Jonah Carson
+| Guid=3040-193207
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/My_Little_Pony_A_Zephyr_Heights_Mystery
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>lpx7dicekb9zo2xzpwul0skdgii4lqa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jonathan Breese</title>
+    <ns>0</ns>
+    <id>456416</id>
+    <revision>
+      <id>457002</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457002</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="224" sha1="pjpx1him5q15ywxq2iq6ry2qzg6x2ew" xml:space="preserve">{{Person
+| Name=Jonathan Breese
+| Guid=3040-193276
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Super_Granny_5
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>pjpx1him5q15ywxq2iq6ry2qzg6x2ew</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jonathan Joss</title>
+    <ns>0</ns>
+    <id>456281</id>
+    <revision>
+      <id>456867</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456867</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="704" sha1="mubeh1gm01erhmp81mia1pc3mz4tzot" xml:space="preserve">{{Person
+| Name=Jonathan Joss
+| Guid=3040-193141
+| Deck=Jonathan Joss was a Texas-born actor and voice actor.
+| Gender=Male
+| Birthday=1965-12-22
+| Death=2025-06-01
+| LastName=Joss
+| Hometown=San Antonio, Texas
+| Characters=Characters/Alkai_Turner,Characters/John_Fairbanks,Characters/John_Redcorn
+| Concepts=Concepts/LGBT,Concepts/Native_American,Concepts/Voice_Acting
+| Franchises=
+| Games=Games/Cyberpunk_2077,Games/Days_Gone,Games/King_of_the_Hill,Games/Red_Dead_Redemption,Games/The_Walking_Dead_Michonne
+| Locations=Locations/San_Antonio,Locations/Texas
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Jonathan Joss was a Texas-born actor and voice actor.</text>
+      <sha1>mubeh1gm01erhmp81mia1pc3mz4tzot</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jose Garcia 72385</title>
+    <ns>0</ns>
+    <id>465110</id>
+    <revision>
+      <id>752448</id>
+      <timestamp>2026-03-04T23:13:30Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752448</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="216" sha1="2np4wah0vnux0x0z6r5qhm6p7ugbhfa" xml:space="preserve">{{Person
+| Name=Jose Garcia
+| Guid=3040-72385
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Dying_Light
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>2np4wah0vnux0x0z6r5qhm6p7ugbhfa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Josh Lester</title>
+    <ns>0</ns>
+    <id>456574</id>
+    <revision>
+      <id>457160</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457160</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="223" sha1="6qtivru2r12s0nn1madb9vu2r1djxnn" xml:space="preserve">{{Person
+| Name=Josh Lester
+| Guid=3040-193435
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Slyder_Adventures
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>6qtivru2r12s0nn1madb9vu2r1djxnn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Joshua Soh Qishan</title>
+    <ns>0</ns>
+    <id>456503</id>
+    <revision>
+      <id>457089</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457089</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" sha1="4e0zwn1m76yj06flboqx7ltacuz7wtd" xml:space="preserve">{{Person
+| Name=Joshua Soh Qishan
+| Guid=3040-193364
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Westward_IV_All_Aboard
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>4e0zwn1m76yj06flboqx7ltacuz7wtd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Joshua Soh Qishan 193374</title>
+    <ns>0</ns>
+    <id>456513</id>
+    <revision>
+      <id>457099</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457099</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="016cgenn2gl5sx06h2c98hok4ln5upc" xml:space="preserve">{{Person
+| Name=Joshua Soh Qishan
+| Guid=3040-193374
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Westward_Kingdoms
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>016cgenn2gl5sx06h2c98hok4ln5upc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jude Benv</title>
+    <ns>0</ns>
+    <id>456300</id>
+    <revision>
+      <id>456886</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456886</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="222" sha1="487i7otu994589xxbqsx93eum00xa7z" xml:space="preserve">{{Person
+| Name=Jude Benv
+| Guid=3040-193160
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Suikoden_Tierkreis
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>487i7otu994589xxbqsx93eum00xa7z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jules Jones</title>
+    <ns>0</ns>
+    <id>456332</id>
+    <revision>
+      <id>456918</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456918</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="221" sha1="3tle4mmm326h91qrvn8832oa8t6yxtu" xml:space="preserve">{{Person
+| Name=Jules Jones
+| Guid=3040-193192
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/The_Thaumaturge
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3tle4mmm326h91qrvn8832oa8t6yxtu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Julian Jones</title>
+    <ns>0</ns>
+    <id>456469</id>
+    <revision>
+      <id>457055</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457055</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="241" sha1="f5sv8gxvn21i5kb7isiw0iuccnwkmhz" xml:space="preserve">{{Person
+| Name=Julian Jones
+| Guid=3040-193330
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Kuros,Games/Westward_IV_All_Aboard
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>f5sv8gxvn21i5kb7isiw0iuccnwkmhz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jun Donna</title>
+    <ns>0</ns>
+    <id>456526</id>
+    <revision>
+      <id>457112</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457112</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="254" sha1="3emx8ayrj70n2wbfcc92dnmrerck4zu" xml:space="preserve">{{Person
+| Name=Jun Donna
+| Guid=3040-193387
+| Characters=Characters/Birdo
+| Concepts=
+| Franchises=
+| Games=Games/BS_Super_Mario_USA_Power_Challenge
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3emx8ayrj70n2wbfcc92dnmrerck4zu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Jun Ito 81297</title>
+    <ns>0</ns>
+    <id>465118</id>
+    <revision>
+      <id>752467</id>
+      <timestamp>2026-03-04T23:13:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752467</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="718" sha1="jumij26ouj5xut2yuktjigwpjrhfgk9" xml:space="preserve">{{Person
+| Name=Jun Itō
+| Guid=3040-81297
+| Aliases=Jun Ito
+| Characters=
+| Concepts=
+| Franchises=Franchises/Brain_Age,Franchises/Mario,Franchises/Mario_Kart,Franchises/Touch_Generations,Franchises/Wii_Play
+| Games=Games/Animal_Crossing_New_Leaf,Games/Bloodborne,Games/Brain_Age_Train_Your_Brain_in_Minutes_a_Day,Games/Dark_Souls,Games/Demons_Souls,Games/Enchanted_Arms,Games/Mario_Kart_7,Games/Mario_Kart_8,Games/Mario_Kart_Wii,Games/Nintendo_Land,Games/Pokemon_Mystery_Dungeon_Gates_to_Infinity,Games/Pokemon_Ranger_Guardian_Signs,Games/PokePark_2_Wonders_Beyond,Games/Shadow_Tower_Abyss,Games/Wii_Play_Motion
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jumij26ouj5xut2yuktjigwpjrhfgk9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/K Blackton 67739</title>
+    <ns>0</ns>
+    <id>465105</id>
+    <revision>
+      <id>752443</id>
+      <timestamp>2026-03-04T23:13:26Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752443</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="198" sha1="ipkqdbkc25yxcfs80z6cef8pqn1d9d7" xml:space="preserve">{{Person
+| Name=K Blackton
+| Guid=3040-67739
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ipkqdbkc25yxcfs80z6cef8pqn1d9d7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/K C Tan 43932</title>
+    <ns>0</ns>
+    <id>465084</id>
+    <revision>
+      <id>752415</id>
+      <timestamp>2026-03-04T23:13:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752415</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="196" sha1="76mbd5x87yvxkwyrybz93yt5oqqr3m3" xml:space="preserve">{{Person
+| Name=K.C. Tan
+| Guid=3040-43932
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>76mbd5x87yvxkwyrybz93yt5oqqr3m3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Kaoru Koda</title>
+    <ns>0</ns>
+    <id>456384</id>
+    <revision>
+      <id>456970</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456970</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="223" sha1="pyry8e8mlzwohx5m2vwfpp2eolroa02" xml:space="preserve">{{Person
+| Name=Kaoru Koda
+| Guid=3040-193244
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Shrek_Reekin_Havoc
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>pyry8e8mlzwohx5m2vwfpp2eolroa02</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Kar Wing Lau 68369</title>
+    <ns>0</ns>
+    <id>465106</id>
+    <revision>
+      <id>752444</id>
+      <timestamp>2026-03-04T23:13:27Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752444</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="200" sha1="fz1qeb7fi5ldiwh2u8c1kw6dis45cef" xml:space="preserve">{{Person
+| Name=Kar-Wing-Lau
+| Guid=3040-68369
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>fz1qeb7fi5ldiwh2u8c1kw6dis45cef</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Karl Heinz Teichmann 37873</title>
+    <ns>0</ns>
+    <id>465074</id>
+    <revision>
+      <id>752396</id>
+      <timestamp>2026-03-04T23:12:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752396</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="233" sha1="0ckxkfvxydpps09uau4ioc8bzdwlmzz" xml:space="preserve">{{Person
+| Name=Karl Heinz Teichmann
+| Guid=3040-37873
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Legend_of_Faerghail
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>0ckxkfvxydpps09uau4ioc8bzdwlmzz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Katherine Lai</title>
+    <ns>0</ns>
+    <id>456301</id>
+    <revision>
+      <id>456887</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456887</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="mmf52p3vv94pb1byhwhzru6xkvjlfiu" xml:space="preserve">{{Person
+| Name=Katherine Lai
+| Guid=3040-193161
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Suikoden_Tierkreis
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>mmf52p3vv94pb1byhwhzru6xkvjlfiu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Kathleen Quaife Hodge 29637</title>
+    <ns>0</ns>
+    <id>465066</id>
+    <revision>
+      <id>752386</id>
+      <timestamp>2026-03-04T23:12:33Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752386</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="209" sha1="rjq4snt7aeekk2xgq4mz197oj8gxzgt" xml:space="preserve">{{Person
+| Name=Kathleen Quaife-Hodge
+| Guid=3040-29637
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>rjq4snt7aeekk2xgq4mz197oj8gxzgt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Katie Hutchison</title>
+    <ns>0</ns>
+    <id>456310</id>
+    <revision>
+      <id>456896</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456896</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" sha1="be8xoba8b88unw8t11qernloucsly58" xml:space="preserve">{{Person
+| Name=Katie Hutchison
+| Guid=3040-193170
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Suikoden_Tierkreis
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>be8xoba8b88unw8t11qernloucsly58</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Katrina Nickolan</title>
+    <ns>0</ns>
+    <id>456412</id>
+    <revision>
+      <id>456998</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456998</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="278" sha1="efblphc357x6rjd8mh5idfm4xj7hhfl" xml:space="preserve">{{Person
+| Name=Katrina Nickolan
+| Guid=3040-193272
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Super_Granny_4,Games/Westward_IV_All_Aboard,Games/Westward_Kingdoms
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>efblphc357x6rjd8mh5idfm4xj7hhfl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Katya Maximova</title>
+    <ns>0</ns>
+    <id>456437</id>
+    <revision>
+      <id>457023</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457023</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="242" sha1="q6gp2uev8hyq50j4ociuccad8iqy48k" xml:space="preserve">{{Person
+| Name=Katya Maximova
+| Guid=3040-193297
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Cake_Mania_2_Jills_Next_Adventure
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>q6gp2uev8hyq50j4ociuccad8iqy48k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Kawaragi Shiho 142383</title>
+    <ns>0</ns>
+    <id>465154</id>
+    <revision>
+      <id>752541</id>
+      <timestamp>2026-03-04T23:14:54Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752541</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="204" sha1="s7zw7uh6xeu6wkaupnofhbmvqelfzp4" xml:space="preserve">{{Person
+| Name=Kawaragi Shiho 
+| Guid=3040-142383
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>s7zw7uh6xeu6wkaupnofhbmvqelfzp4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Kelsey Jaffer</title>
+    <ns>0</ns>
+    <id>456318</id>
+    <revision>
+      <id>456904</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456904</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="233" sha1="g1jm5lspueiy6ebto5v8n51g9ed9m6p" xml:space="preserve">{{Person
+| Name=Kelsey Jaffer
+| Guid=3040-193178
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Everybodys_Golf_Hot_Shots
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>g1jm5lspueiy6ebto5v8n51g9ed9m6p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Kelvin Hoon</title>
+    <ns>0</ns>
+    <id>456507</id>
+    <revision>
+      <id>457093</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457093</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" sha1="pw360oa0l7gcgyn7k0pibihfg1g0mpx" xml:space="preserve">{{Person
+| Name=Kelvin Hoon
+| Guid=3040-193368
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Westward_IV_All_Aboard
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>pw360oa0l7gcgyn7k0pibihfg1g0mpx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Kenji Sazanami</title>
+    <ns>0</ns>
+    <id>456390</id>
+    <revision>
+      <id>456976</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456976</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="lpz9b3qopv1waevqs47xyz4p19jf7hm" xml:space="preserve">{{Person
+| Name=Kenji Sazanami
+| Guid=3040-193250
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Barnyard_Invasion
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>lpz9b3qopv1waevqs47xyz4p19jf7hm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Kettel</title>
+    <ns>0</ns>
+    <id>456238</id>
+    <revision>
+      <id>738275</id>
+      <parentid>456824</parentid>
+      <timestamp>2026-02-15T00:30:39Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>738275</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="734" sha1="3w4sb4udmlo2nsqu6srlj36i5wx7pbz" xml:space="preserve">{{Person
+| Name=Kettel
+| Guid=3040-193098
+| Deck=Kettel, whose real name is Reimer Eising, is a Dutch electronic musician.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Ibb_And_Obb
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3688484-a-443121-1516308175-2847.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3688484-a-443121-1516308175-2847.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_super,scale_large,scale_medium,scale_small,square_mini,square_tiny,scale_avatar,screen_kubrick,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;
+Kettel, whose real name is Reimer Eising, is a Dutch electronic musician.</text>
+      <sha1>3w4sb4udmlo2nsqu6srlj36i5wx7pbz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Kikugoro Kimura</title>
+    <ns>0</ns>
+    <id>456378</id>
+    <revision>
+      <id>456964</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456964</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="236" sha1="juqkb4nuyz0xvam5ujzqrk4kiwf0jeb" xml:space="preserve">{{Person
+| Name=Kikugoro Kimura
+| Guid=3040-193238
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Shrek_Hassle_at_the_Castle
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>juqkb4nuyz0xvam5ujzqrk4kiwf0jeb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Kikugoro Kimura 193243</title>
+    <ns>0</ns>
+    <id>456383</id>
+    <revision>
+      <id>456969</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456969</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" sha1="h2bjyy1ne0t7kjc0qz9pkam76k7fbhg" xml:space="preserve">{{Person
+| Name=Kikugoro Kimura
+| Guid=3040-193243
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Shrek_Reekin_Havoc
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>h2bjyy1ne0t7kjc0qz9pkam76k7fbhg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Kilian David Palmer</title>
+    <ns>0</ns>
+    <id>456339</id>
+    <revision>
+      <id>456925</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456925</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="2gpg5lue8qgegmznh5nwxrpn5qdn59q" xml:space="preserve">{{Person
+| Name=Kilian David Palmer
+| Guid=3040-193199
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/The_Thaumaturge
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>2gpg5lue8qgegmznh5nwxrpn5qdn59q</sha1>
+    </revision>
+  </page>
+</mediawiki>

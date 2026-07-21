@@ -1,0 +1,1698 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Concepts/A World in the Mirror</title>
+    <ns>0</ns>
+    <id>95821</id>
+    <revision>
+      <id>998782</id>
+      <parentid>742181</parentid>
+      <timestamp>2026-07-19T05:42:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>998782</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1165" sha1="9rz5sg1g4uy6qs73s4dmu4vp1uvd7f6" xml:space="preserve">{{Concept
+| Name=A World in the Mirror
+| Guid=3015-13373
+| Deck=When we can enter mirrors as portals, or be transported to other places simply by contacting the mirror
+| Characters=
+| Concepts=Concepts/Another_World,Concepts/Enemies_from_the_Mirrors,Concepts/Teleportation
+| Franchises=
+| Games=Games/Dragon_Quest_VIII_Journey_of_the_Cursed_King,Games/Lady_Stalker_Kako_kara_no_Chousen,Games/The_Evil_Within,Games/The_Evil_Within_2
+| Locations=
+| Objects=Objects/Mirror
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3665417-%D0%91%D1%83%D1%84%D0%B5%D1%80%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B0_12-17-2024_05.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3665417-\u0411\u0443\u0444\u0435\u0440\u043e\u0431\u043c\u0435\u043d\u0430_12-17-2024_05.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"scale_medium,scale_small,scale_super,scale_large,square_mini,scale_avatar,square_avatar,square_small,square_tiny,square_medium,screen_kubrick,screen_medium,scale_tiny","caption":"The Evil Within"},"background":[]}' /&gt;
+When we can enter mirrors as portals, or be transported to other places simply by contacting the mirror</text>
+      <sha1>9rz5sg1g4uy6qs73s4dmu4vp1uvd7f6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Aarakocra</title>
+    <ns>0</ns>
+    <id>95733</id>
+    <revision>
+      <id>587978</id>
+      <parentid>487739</parentid>
+      <timestamp>2026-02-08T07:14:57Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587978</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1029" sha1="k72aeop5o136ikiv85jhynvgxlslto0" xml:space="preserve">{{Concept
+| Name=Aarakocra
+| Guid=3015-13284
+| Deck=Aarakocra are a race of anthropomorphic bird people belonging to the Dungeons &amp; Dragons series.
+| Characters=
+| Concepts=Concepts/Anthropomorphism,Concepts/Birdmen,Concepts/Birds
+| Franchises=Franchises/Dungeons_And_Dragons
+| Games=Games/Gateway_to_the_Savage_Frontier,Games/Idle_Champions_of_the_Forgotten_Realms,Games/Neverwinter,Games/Spelljammer_Pirates_of_Realmspace,Games/Tales_from_Candlekeep_Tomb_of_Annihilation
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3628739-5391219293-latest.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3628739-5391219293-latest.jpg","path":"52\/520822\/","mime":"image\/jpeg","sizes":"scale_super,square_small,square_medium,square_avatar,scale_medium,scale_small,square_tiny,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Aarakocra are a race of anthropomorphic bird people belonging to the Dungeons &amp; Dragons series.</text>
+      <sha1>k72aeop5o136ikiv85jhynvgxlslto0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Acklay</title>
+    <ns>0</ns>
+    <id>96082</id>
+    <revision>
+      <id>96217</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96217</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" sha1="h4vn00xkcvc45bdojs9frn3mgc3tziv" xml:space="preserve">{{Concept
+| Name=Acklay
+| Guid=3015-13643
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/LEGO_Star_Wars_III_The_Clone_Wars
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>h4vn00xkcvc45bdojs9frn3mgc3tziv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Acolyte 13657</title>
+    <ns>0</ns>
+    <id>96095</id>
+    <revision>
+      <id>588650</id>
+      <parentid>488000</parentid>
+      <timestamp>2026-02-08T07:20:20Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588650</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="927" sha1="68hcpku8cwzc0gvkpn85qlu41eke7ve" xml:space="preserve">{{Concept
+| Name=Acolyte
+| Guid=3015-13657
+| Deck=Beings from the Cosmic Realm, they are one of the new enemies introduced in Doom: The Dark Ages
+| Characters=
+| Concepts=Concepts/Cthulhu_Mythos,Concepts/Demon,Concepts/Magic,Concepts/Spellcaster
+| Franchises=
+| Games=Games/Doom_The_Dark_Ages
+| Locations=
+| Objects=Objects/Robe
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3824665-william-bao-william-bao-dtda-acolyte-00-williambao.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3824665-william-bao-william-bao-dtda-acolyte-00-williambao.jpg","path":"77\/776653\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_medium,scale_medium,square_tiny,scale_small,square_avatar,screen_medium,screen_kubrick,square_mini,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+Beings from the Cosmic Realm, they are one of the new enemies introduced in Doom: The Dark Ages</text>
+      <sha1>68hcpku8cwzc0gvkpn85qlu41eke7ve</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Aegiomon</title>
+    <ns>0</ns>
+    <id>96066</id>
+    <revision>
+      <id>588630</id>
+      <parentid>487992</parentid>
+      <timestamp>2026-02-08T07:20:11Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588630</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1006" sha1="j1ib3c5eebec6b7yu4p6iwc3hje27re" xml:space="preserve">{{Concept
+| Name=Aegiomon
+| Guid=3015-13627
+| Deck=Aegiomon is a champion-level Shaman Digimon. It plays a key role in Digimon Story: Time Stranger.
+| Characters=
+| Concepts=Concepts/Digimon,Concepts/Digivolution,Concepts/Elecmon,Concepts/Goats,Concepts/Jupitermon,Concepts/Lightning_Manipulation,Concepts/Satyr
+| Franchises=
+| Games=Games/Digimon_Heroes,Games/Digimon_Soul_Chaser,Games/Digimon_Story_Time_Stranger
+| Locations=Locations/Cyberspace
+| Objects=Objects/Flute
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3812440-3895916923-latest.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3812440-3895916923-latest.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_super,scale_medium,square_small,square_avatar,square_tiny,square_medium,scale_small,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;
+Aegiomon is a champion-level Shaman Digimon. It plays a key role in Digimon Story: Time Stranger.</text>
+      <sha1>j1ib3c5eebec6b7yu4p6iwc3hje27re</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Alfa Romeo</title>
+    <ns>0</ns>
+    <id>95776</id>
+    <revision>
+      <id>95910</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>95910</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="244" sha1="ndl3fxko7fe0qg7yd6ll4f49r40wgw6" xml:space="preserve">{{Concept
+| Name=Alfa Romeo
+| Guid=3015-13327
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=Objects/Alfa_Romeo_156,Objects/Alfa_Romeo_158
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ndl3fxko7fe0qg7yd6ll4f49r40wgw6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/American Shorthair</title>
+    <ns>0</ns>
+    <id>95757</id>
+    <revision>
+      <id>588045</id>
+      <parentid>487761</parentid>
+      <timestamp>2026-02-08T07:15:29Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588045</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="758" sha1="m6znbs0pk8j1ecdurw11prze0uakiig" xml:space="preserve">{{Concept
+| Name=American Shorthair
+| Guid=3015-13308
+| Deck=A breed of cat.
+| Characters=
+| Concepts=Concepts/Cats
+| Franchises=
+| Games=Games/Kawaii_Koneko_3D,Games/Kawaii_Koneko_DS,Games/Kawaii_Koneko_DS_2,Games/Kawaii_Koneko_DS_3,Games/Petz_Catz_2,Games/Petz_Catz_Clan
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/59/594908/3637503-4048492863-Jewel.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3637503-4048492863-Jewel.jpg","path":"59\/594908\/","mime":"image\/jpeg","sizes":"scale_super,square_medium,scale_medium,scale_small,square_avatar,square_small,square_tiny,square_mini,scale_avatar,scale_large,scale_tiny,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A breed of cat.</text>
+      <sha1>m6znbs0pk8j1ecdurw11prze0uakiig</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Anchor as a Weapon</title>
+    <ns>0</ns>
+    <id>96041</id>
+    <revision>
+      <id>588573</id>
+      <parentid>487970</parentid>
+      <timestamp>2026-02-08T07:19:43Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588573</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1626" sha1="6aqi7web1e3za9yvl31empa1xdcf73g" xml:space="preserve">{{Concept
+| Name=Anchor as a Weapon
+| Guid=3015-13600
+| Deck=Some characters in games are so hypertrophied strong that they can simply swing the ship's anchor with their hands, hurl it with psychic power, or throw enemies at it for an enhanced attack or finishing
+| Characters=Characters/May,Characters/Metal_Shark_Player
+| Concepts=Concepts/Bizarre_Weapons,Concepts/Blunt_Weapons,Concepts/Super_Strength
+| Franchises=
+| Games=Games/Elden_Ring,Games/Grabbed_by_the_Ghoulies,Games/Guilty_Gear,Games/Guilty_Gear_Strive,Games/Guilty_Gear_X,Games/Guilty_Gear_X_Plus,Games/Guilty_Gear_X2,Games/Guilty_Gear_Xrd_REV_2,Games/Guilty_Gear_Xrd_Revelator,Games/Guilty_Gear_Xrd_SIGN,Games/Guilty_Gear_XX_Accent_Core_Plus_R,Games/Guilty_Gear_XX_L_Core,Games/Guilty_Gear_XX_L_Core_Plus,Games/Guilty_Gear_XX_Reload,Games/Guilty_Gear_XX_Slash,Games/Mega_Man_X6,Games/Minecraft_Dungeons,Games/Terraria
+| Locations=
+| Objects=Objects/Anchor_3403
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3785503-eldenring-anchorasaweapon.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3785503-eldenring-anchorasaweapon.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_super,square_tiny,scale_small,square_medium,square_avatar,screen_medium,screen_kubrick,scale_large,square_mini,scale_avatar,scale_tiny","caption":"Elden Ring - Anchor as a Weapon"},"background":[]}' /&gt;
+Some characters in games are so hypertrophied strong that they can simply swing the ship's anchor with their hands, hurl it with psychic power, or throw enemies at it for an enhanced attack or finishing</text>
+      <sha1>6aqi7web1e3za9yvl31empa1xdcf73g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Animated Portraits</title>
+    <ns>0</ns>
+    <id>95794</id>
+    <revision>
+      <id>588103</id>
+      <parentid>487782</parentid>
+      <timestamp>2026-02-08T07:15:57Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588103</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3557" sha1="7r37d35g7hfw5qib4t6bpgx6tyzra7o" xml:space="preserve">{{Concept
+| Name=Animated Portraits
+| Guid=3015-13345
+| Deck=In these games, the characters' portraits shows them doing movements like opening and closing their mouths when talking and blinking.
+| Characters=
+| Concepts=Concepts/Breast_Bounce,Concepts/Dialogue_Portraits,Concepts/Sprite,Concepts/Visual_Novel
+| Franchises=
+| Games=Games/Ace_Attorney_Investigations_2_Prosecutors_Gambit,Games/Ace_Attorney_Investigations_Miles_Edgeworth,Games/Another_Time_Another_Leaf_Kagami_no_Naka_no_Tantei,Games/Apollo_Justice_Ace_Attorney,Games/Arcana_Heart_3,Games/Arcana_Heart_3_LOVE_MAX,Games/Arcana_Heart_3_LOVE_MAX_SIX_STARS,Games/Banjo_Kazooie,Games/Banjo_Tooie,Games/BlazBlue_Calamity_Trigger,Games/BlazBlue_Calamity_Trigger_Portable,Games/BlazBlue_Central_Fiction,Games/BlazBlue_Chrono_Phantasma,Games/BlazBlue_Chrono_Phantasma_Extend,Games/BlazBlue_Continuum_Shift,Games/BlazBlue_Continuum_Shift_Extend,Games/BlazBlue_Continuum_Shift_II,Games/Deltarune_Chapter_1_And_2,Games/Deltarune_Chapter_3_And_4,Games/Dragon_Ball_GT_Final_Bout,Games/Eyeshield_21,Games/Final_Fight,Games/Final_Fight_2,Games/Final_Fight_3,Games/Fire_Emblem,Games/Fire_Emblem_Path_of_Radiance,Games/Fire_Emblem_Radiant_Dawn,Games/Fire_Emblem_Shadow_Dragon_and_the_Blade_of_Light,Games/Hyper_Street_Fighter_II_The_Anniversary_Edition,Games/Ikatan_Ikamono_Tantei,Games/JoJos_Bizarre_Adventure,Games/JoJos_Venture,Games/Joy_Mech_Fight,Games/Kenshuui_Tendo_Dokuta,Games/Keroro_RPG_Kishi_to_Busha_to_Densetsu_no_Kaizoku,Games/LifeSigns_Surgical_Unit,Games/Marvel_Super_Heroes,Games/Mega_Man_8,Games/Mega_Man_Star_Force,Games/Mega_Man_Star_Force_2,Games/Mega_Man_Star_Force_3,Games/Mega_Man_X,Games/Mega_Man_X2,Games/Mega_Man_X3,Games/Mega_Man_X4,Games/Mega_Man_X6,Games/Mega_Man_X7,Games/Megami_no_Etsubo,Games/Persona_3_Reload,Games/Persona_4_Arena,Games/Persona_4_Arena_Ultimax,Games/Persona_5,Games/Persona_5_Royal,Games/Persona_5_Strikers,Games/Phoenix_Wright_Ace_Attorney,Games/Phoenix_Wright_Ace_Attorney_Justice_For_All,Games/Phoenix_Wright_Ace_Attorney_Trials_and_Tribulations,Games/Phoenix_Wright_Ace_Attorney_Trilogy,Games/Sonic_CD,Games/Sonic_Mania,Games/Sonic_the_Hedgehog,Games/Sonic_the_Hedgehog_2,Games/Sonic_the_Hedgehog_3,Games/Star_Fox,Games/Star_Fox_2,Games/Star_Fox_64,Games/Star_Fox_Command,Games/Street_Fighter_II_Champion_Edition,Games/Street_Fighter_II_The_World_Warrior,Games/Street_Fighter_II_Turbo_Hyper_Fighting,Games/Super_Street_Fighter_II,Games/Super_Street_Fighter_II_Turbo,Games/Super_Street_Fighter_II_Turbo_HD_Remix,Games/Tales_of_Hearts,Games/Tales_of_Innocence,Games/Tales_of_Xillia,Games/Tengen_Toppa_Gurren_Lagann,Games/Thems_Fightin_Herds,Games/Time_Hollow,Games/Ultra_Street_Fighter_II_The_Final_Challengers,Games/Under_Night_In_Birth,Games/Under_Night_In_Birth_Exe_Late_cl_r,Games/Under_Night_In_Birth_Exe_Late_st,Games/Under_Night_In_Birth_II_Sys_Celes,Games/Undertale,Games/X_Men_Children_of_the_Atom,Games/Zero_One,Games/Zero_One_SP
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/59/594908/3650889-7911566129-AJAA_.gif}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3650889-7911566129-AJAA_.gif","path":"59\/594908\/","mime":"image\/gif","sizes":"scale_small,square_medium,square_avatar,square_small,scale_medium,scale_super,square_tiny,square_mini,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":"Apollo Justice: Ace Attorney"},"background":[]}' /&gt;
+In these games, the characters' portraits shows them doing movements like opening and closing their mouths when talking and blinking.</text>
+      <sha1>7r37d35g7hfw5qib4t6bpgx6tyzra7o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Ankylosaurus</title>
+    <ns>0</ns>
+    <id>95719</id>
+    <revision>
+      <id>587941</id>
+      <parentid>487726</parentid>
+      <timestamp>2026-02-08T07:14:36Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587941</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1549" sha1="atm1p9w2280crmmo2fh1judkejjr6xq" xml:space="preserve">{{Concept
+| Name=Ankylosaurus
+| Guid=3015-13267
+| Aliases=Desert Baretta
+| Deck=A genus of armored dinosaur, known for its spiky appearance and club tail.
+| Characters=Characters/Peek
+| Concepts=Concepts/Ankylomon,Concepts/Bulette,Concepts/Dinosaur
+| Franchises=
+| Games=Games/ARK_Survival_Evolved,Games/Carnivores_2,Games/Dinosaur_Adventure,Games/Exoprimal,Games/Final_Fantasy,Games/Final_Fantasy_I_And_II_Dawn_of_Souls,Games/Final_Fantasy_I_II,Games/Final_Fantasy_Pixel_Remaster_Collection,Games/Jurassic_Park_1994,Games/Jurassic_Park_Builder,Games/Jurassic_Park_Dinosaur_Battles,Games/Jurassic_Park_III,Games/Jurassic_Park_III_Park_Builder,Games/Jurassic_Park_III_The_DNA_Factor,Games/Jurassic_Park_Operation_Genesis,Games/Jurassic_World_Alive,Games/Jurassic_World_Evolution,Games/Jurassic_World_Evolution_2,Games/Jurassic_World_The_Game,Games/LEGO_Jurassic_World,Games/Omori,Games/Paleo_Pines,Games/The_Isle,Games/Turok_Evolution,Games/Warpath_Jurassic_Park,Games/Worlds_of_Ultima_The_Savage_Empire
+| Locations=
+| Objects=Objects/Spikes
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3622924-ankylosaurus_jwa.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3622924-ankylosaurus_jwa.png","path":"16\/164924\/","mime":"image\/png","sizes":"square_avatar,square_medium,square_small,scale_medium,scale_super,scale_small,scale_large,scale_avatar,square_tiny,square_mini,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A genus of armored dinosaur, known for its spiky appearance and club tail.</text>
+      <sha1>atm1p9w2280crmmo2fh1judkejjr6xq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Annihilape</title>
+    <ns>0</ns>
+    <id>95995</id>
+    <revision>
+      <id>588469</id>
+      <parentid>487926</parentid>
+      <timestamp>2026-02-08T07:18:56Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588469</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="644" sha1="l0sq63v9cdojjb5ntpatkt87i1pxjve" xml:space="preserve">{{Concept
+| Name=Annihilape
+| Guid=3015-13552
+| Deck=Evolution of Primeape
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Go,Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777866-0979annihilape.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777866-0979annihilape.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,square_tiny,scale_small,square_avatar,scale_medium,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Evolution of Primeape</text>
+      <sha1>l0sq63v9cdojjb5ntpatkt87i1pxjve</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Announced Before the Platform</title>
+    <ns>0</ns>
+    <id>95731</id>
+    <revision>
+      <id>95865</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>95865</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="480" sha1="spapsmo2nbk7khfy0gquok7rk4xbtep" xml:space="preserve">{{Concept
+| Name=Announced Before the Platform
+| Guid=3015-13282
+| Deck=Games announced to be coming to a platform before that platform is even announced.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/My_Time_at_Evershine,Games/The_Legend_of_Dark_Witch_Episode_4,Games/Ultimate_Hunting
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Games announced to be coming to a platform before that platform is even announced.</text>
+      <sha1>spapsmo2nbk7khfy0gquok7rk4xbtep</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Apollomon</title>
+    <ns>0</ns>
+    <id>95876</id>
+    <revision>
+      <id>588244</id>
+      <parentid>487834</parentid>
+      <timestamp>2026-02-08T07:17:05Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588244</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1040" sha1="opu3ymzr9oprv2mm1vfcg72lqebnj3f" xml:space="preserve">{{Concept
+| Name=Apollomon
+| Guid=3015-13428
+| Deck=Apollomon is a Mega-level Shaman Digimon and a member of the Olympos XII.
+| Characters=
+| Concepts=Concepts/Digimon,Concepts/Digivolution,Concepts/Fire_Manipulation,Concepts/God
+| Franchises=
+| Games=Games/Digimon_Heroes,Games/Digimon_Soul_Chaser,Games/Digimon_Story_Lost_Evolution,Games/Digimon_Story_Super_Xros_Wars_Blue_Red,Games/Digimon_Story_Time_Stranger,Games/Digimon_World_Championship,Games/Digimon_World_Dusk_Dawn
+| Locations=Locations/Cyberspace
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3710678-4788117647-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3710678-4788117647-latest.png","path":"16\/164924\/","mime":"image\/png","sizes":"scale_small,square_small,square_avatar,scale_medium,square_medium,screen_kubrick,square_mini,scale_super,scale_tiny,screen_medium,scale_avatar,scale_large,square_tiny","caption":null},"background":[]}' /&gt;
+Apollomon is a Mega-level Shaman Digimon and a member of the Olympos XII.</text>
+      <sha1>opu3ymzr9oprv2mm1vfcg72lqebnj3f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Archaludon</title>
+    <ns>0</ns>
+    <id>95942</id>
+    <revision>
+      <id>588350</id>
+      <parentid>487873</parentid>
+      <timestamp>2026-02-08T07:17:58Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588350</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="903" sha1="g11xf3aaldki77alwug6yxxsg76rk7p" xml:space="preserve">{{Concept
+| Name=Archaludon
+| Guid=3015-13499
+| Deck=A Steel/Dragon Pokémon. The evolution of Duraludon.
+| Characters=
+| Concepts=Concepts/Dragon,Concepts/Dragon_type_Pokemon,Concepts/Duraludon,Concepts/Evolution,Concepts/Gotta_catch_em_all,Concepts/Pokemon,Concepts/Pokemon_Battle,Concepts/Steel_type_Pokemon
+| Franchises=
+| Games=Games/Pokemon_Champions,Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3773291-1018archaludon.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3773291-1018archaludon.png","path":"16\/164924\/","mime":"image\/png","sizes":"scale_super,scale_small,scale_medium,square_medium,square_tiny,square_small,scale_tiny,square_avatar,screen_medium,scale_large,square_mini,screen_kubrick,scale_avatar","caption":null},"background":[]}' /&gt;
+A Steel/Dragon Pokémon. The evolution of Duraludon.</text>
+      <sha1>g11xf3aaldki77alwug6yxxsg76rk7p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Arctibax</title>
+    <ns>0</ns>
+    <id>96012</id>
+    <revision>
+      <id>588505</id>
+      <parentid>487943</parentid>
+      <timestamp>2026-02-08T07:19:14Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588505</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="587" sha1="me13lyynthbts52dzsupnspq1pqm58w" xml:space="preserve">{{Concept
+| Name=Arctibax
+| Guid=3015-13569
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Go,Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777889-0997arctibax.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777889-0997arctibax.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_medium,square_small,scale_medium,scale_super,scale_small,square_tiny,square_avatar,square_mini,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;</text>
+      <sha1>me13lyynthbts52dzsupnspq1pqm58w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Aston Martin</title>
+    <ns>0</ns>
+    <id>95785</id>
+    <revision>
+      <id>588094</id>
+      <parentid>487779</parentid>
+      <timestamp>2026-02-08T07:15:53Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588094</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1109" sha1="kjlo6y2ub761svmgtd5l0y2rx4qnmgy" xml:space="preserve">{{Concept
+| Name=Aston Martin
+| Guid=3015-13336
+| Deck=British manufacturer of luxury sports cars and grand tourers. Its predecessor was founded in 1913 by Lionel Martin and Robert Bamford.
+| Characters=
+| Concepts=Concepts/Licensed_Cars,Concepts/The_1910s
+| Franchises=
+| Games=Games/Asphalt_Urban_GT,Games/Asphalt_Urban_GT_2,Games/EA_Sports_FC_25,Games/Gran_Turismo
+| Locations=Locations/United_Kingdom
+| Objects=Objects/Aston_Martin_DB5,Objects/Aston_Martin_DB7,Objects/Aston_Martin_DB9,Objects/Aston_Martin_V12_Vanquish,Objects/Car
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3648940-8559018560-aston.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3648940-8559018560-aston.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_tiny,square_small,square_medium,scale_medium,scale_super,scale_small,square_avatar,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+British manufacturer of luxury sports cars and grand tourers. Its predecessor was founded in 1913 by Lionel Martin and Robert Bamford.</text>
+      <sha1>kjlo6y2ub761svmgtd5l0y2rx4qnmgy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Audi</title>
+    <ns>0</ns>
+    <id>95779</id>
+    <revision>
+      <id>95913</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>95913</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="293" sha1="485ukws36ph3mwzp1vwa3dff0z9zop8" xml:space="preserve">{{Concept
+| Name=Audi
+| Guid=3015-13330
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Asphalt_Urban_GT,Games/Michelin_Rally_Masters_Race_of_Champions
+| Locations=
+| Objects=Objects/Audi_A4,Objects/Audi_R8
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>485ukws36ph3mwzp1vwa3dff0z9zop8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Autodesk Gameware</title>
+    <ns>0</ns>
+    <id>95868</id>
+    <revision>
+      <id>588226</id>
+      <parentid>487828</parentid>
+      <timestamp>2026-02-08T07:16:58Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588226</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="739" sha1="3yv2cbaeoa4a5b9i6s625k75nrx1n5o" xml:space="preserve">{{Concept
+| Name=Autodesk Gameware
+| Guid=3015-13420
+| Deck=A discontinued middleware.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Mario_Kart_8,Games/Rocket_League,Games/South_Park_The_Stick_of_Truth,Games/The_Legend_of_Zelda_Breath_of_the_Wild
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/59/594908/3705117-6446777095-854f1.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3705117-6446777095-854f1.png","path":"59\/594908\/","mime":"image\/png","sizes":"scale_super,square_medium,square_small,square_avatar,scale_small,scale_medium,scale_avatar,square_mini,square_tiny,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+A discontinued middleware.</text>
+      <sha1>3yv2cbaeoa4a5b9i6s625k75nrx1n5o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Automatic Flashlight Applying</title>
+    <ns>0</ns>
+    <id>95795</id>
+    <revision>
+      <id>95929</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>95929</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1987" sha1="5pky6dydw9okr8r7wqabtjiuglmqfo7" xml:space="preserve">{{Concept
+| Name=Automatic Flashlight Applying
+| Guid=3015-13346
+| Deck=When the game character, entering dark locations, independently activates his light sources: lamp, flashlight, candle, flare, magic fire, etc. without the player's action
+| Characters=Characters/Ajay_Ghale,Characters/Chloe_Frazer,Characters/Claire_Redfield,Characters/Jason_Brody,Characters/Junior_Deputy,Characters/Leon_S_Kennedy,Characters/Mayu_Amakura,Characters/Miku_Hinasaki,Characters/Misaki_Asou,Characters/Nathan_Drake,Characters/Ruka_Minazuki,Characters/Yuuri_Kozukata
+| Concepts=Concepts/Darkness,Concepts/Survival_Horror
+| Franchises=
+| Games=Games/Dear_Esther,Games/Far_Cry_3,Games/Far_Cry_4,Games/Far_Cry_5,Games/Far_Cry_New_Dawn,Games/Fatal_Frame,Games/Fatal_Frame_II_Crimson_Butterfly,Games/Fatal_Frame_III_The_Tormented,Games/Fatal_Frame_Maiden_of_Black_Water,Games/Fatal_Frame_Mask_of_the_Lunar_Eclipse,Games/Project_Zero_2_Wii_Edition,Games/Resident_Evil_2_2019,Games/Resident_Evil_4_2023,Games/Uncharted_2_Among_Thieves,Games/Uncharted_3_Drakes_Deception,Games/Uncharted_4_A_Thiefs_End,Games/Uncharted_Drakes_Fortune,Games/Uncharted_Golden_Abyss,Games/Uncharted_Legacy_of_Thieves_Collection,Games/Uncharted_The_Lost_Legacy,Games/Uncharted_The_Nathan_Drake_Collection
+| Locations=
+| Objects=Objects/Anglehead_Flashlight,Objects/Flare,Objects/Flashlight,Objects/Lantern
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Some games take on the function of lighting up the darkness themselves, which seems convenient and atmospheric. But since it is activated when the avatar's feet cross a strictly defined point on the location, such “help” can conflict with the feelings of the player, when he wants to take a closer look at some corner, but going beyond the zone set by the developer, the torch is treacherously extinguished by AI.
+Sometimes the hero always walks with a flashlight in his hand, which is part of his lore image and we can't do anything about it.
+</text>
+      <sha1>5pky6dydw9okr8r7wqabtjiuglmqfo7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Autopsy</title>
+    <ns>0</ns>
+    <id>96093</id>
+    <revision>
+      <id>96228</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96228</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="958" sha1="pd7blszf4zthzokhu7tbfv4cd8pc6sy" xml:space="preserve">{{Concept
+| Name=Autopsy
+| Guid=3015-13655
+| Deck=An autopsy is a surgical examination of a corpse to determine factors of a death, such as cause, mode, and manner, or to inspect present diseases or injuries for educational purposes. When performed on animals, it's instead called a necropsy.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Autopsy_Simulator,Games/CSI_Deadly_Intent,Games/Law_And_Order_Criminal_Intent,Games/Law_And_Order_II_Double_or_Nothing,Games/Law_And_Order_Justice_is_Served,Games/NCIS,Games/Phoenix_Wright_Ace_Attorney,Games/The_Mortuary_Assistant,Games/The_X_Files_Resist_or_Serve
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+An autopsy is a surgical examination of a corpse to determine factors of a death, such as cause, mode, and manner, or to inspect present diseases or injuries for educational purposes. When performed on animals, it's instead called a necropsy.</text>
+      <sha1>pd7blszf4zthzokhu7tbfv4cd8pc6sy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Azer</title>
+    <ns>0</ns>
+    <id>95823</id>
+    <revision>
+      <id>588156</id>
+      <parentid>487803</parentid>
+      <timestamp>2026-02-08T07:16:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588156</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1246" sha1="bch3y7ue5b0fvuh3y5okkj3dna9ycv1" xml:space="preserve">{{Concept
+| Name=Azer
+| Guid=3015-13375
+| Aliases=Honoo no Majin
+| Deck=A race of dwarf-like fire elementals that originated in Dungeons &amp; Dragons, but has been used occasionally in other fantasy fiction.
+| Characters=Characters/Djinn_56588
+| Concepts=Concepts/Dwarf,Concepts/Elementals,Concepts/Fire_Element,Concepts/Fire_Manipulation,Concepts/Overweight_Character,Concepts/Palette_Swap,Concepts/Shirtless
+| Franchises=
+| Games=Games/Baldurs_Gate_3,Games/Final_Fantasy_III,Games/Final_Fantasy_III_2006,Games/Final_Fantasy_Pixel_Remaster_Collection,Games/Neverwinter_Nights_Shadows_of_Undrentide
+| Locations=
+| Objects=Objects/Hammer,Objects/Scimitar,Objects/Shield
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3667045-0979074597-latest.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3667045-0979074597-latest.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,scale_super,scale_medium,scale_small,scale_tiny,square_medium,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick,square_tiny","caption":null},"background":[]}' /&gt;
+A race of dwarf-like fire elementals that originated in Dungeons &amp; Dragons, but has been used occasionally in other fantasy fiction.</text>
+      <sha1>bch3y7ue5b0fvuh3y5okkj3dna9ycv1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Bacchusmon</title>
+    <ns>0</ns>
+    <id>95877</id>
+    <revision>
+      <id>588247</id>
+      <parentid>487835</parentid>
+      <timestamp>2026-02-08T07:17:06Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588247</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="927" sha1="au77f3ahihldmya9v1mbeeds7gl0h2k" xml:space="preserve">{{Concept
+| Name=Bacchusmon
+| Guid=3015-13429
+| Deck=Bacchusmon is a Mega-level Shaman Digimon and a member of the Olympos XII.
+| Characters=
+| Concepts=Concepts/Digimon,Concepts/Digivolution
+| Franchises=
+| Games=Games/Digimon_Collectors,Games/Digimon_Heroes,Games/Digimon_Story_Time_Stranger
+| Locations=Locations/Cyberspace
+| Objects=Objects/Alcoholic_Beverages,Objects/Cape,Objects/Fruit,Objects/Gloves
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3712382-3932010002-Bacch.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3712382-3932010002-Bacch.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,square_medium,square_tiny,square_small,scale_medium,square_avatar,screen_medium,scale_large,scale_avatar,scale_tiny,square_mini,screen_kubrick","caption":null},"background":[]}' /&gt;
+Bacchusmon is a Mega-level Shaman Digimon and a member of the Olympos XII.</text>
+      <sha1>au77f3ahihldmya9v1mbeeds7gl0h2k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Backlog</title>
+    <ns>0</ns>
+    <id>95799</id>
+    <revision>
+      <id>588109</id>
+      <parentid>487785</parentid>
+      <timestamp>2026-02-08T07:16:01Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588109</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1238" sha1="p8xnd376xz5jqidkkhmm34zp687hflx" xml:space="preserve">{{Concept
+| Name=Backlog
+| Guid=3015-13350
+| Deck=A feature that enables the player to review recent conversations. Mostly used in visual novels.
+| Characters=
+| Concepts=Concepts/Stat_Tracking,Concepts/Text_Based,Concepts/Visual_Novel
+| Franchises=
+| Games=Games/Biz_Taiken_DS_Series_Kigyoudou_Inshoku,Games/Exstetra,Games/Happiness_2_Sakura_Celebration,Games/Power_Pro_Kun_Pocket_10,Games/Power_Pro_Kun_Pocket_11,Games/Power_Pro_Kun_Pocket_12,Games/Power_Pro_Kun_Pocket_13,Games/Power_Pro_Kun_Pocket_14,Games/Power_Pro_Kun_Pocket_9,Games/Shadowverse_Champions_Battle,Games/Summon_Night_X_Tears_Crown,Games/Zero_One_SP
+| Locations=
+| Objects=Objects/Diary,Objects/Diary_Pages,Objects/Notebook,Objects/Notes
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/59/594908/3654474-7186604256-erase.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3654474-7186604256-erase.jpg","path":"59\/594908\/","mime":"image\/jpeg","sizes":"scale_medium,scale_small,square_medium,square_small,square_avatar,scale_super,square_tiny,square_mini,screen_medium,scale_large,scale_avatar,screen_kubrick","caption":null},"background":[]}' /&gt;
+A feature that enables the player to review recent conversations. Mostly used in visual novels.</text>
+      <sha1>p8xnd376xz5jqidkkhmm34zp687hflx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Barbaria</title>
+    <ns>0</ns>
+    <id>95838</id>
+    <revision>
+      <id>588196</id>
+      <parentid>487815</parentid>
+      <timestamp>2026-02-08T07:16:42Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588196</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="820" sha1="trpsbplj5lwc9hhrz65p4wqkpy3f38y" xml:space="preserve">{{Concept
+| Name=Barbaria
+| Guid=3015-13390
+| Deck=The Barbaria were genetically mutated soldiers created by the Enclave.
+| Characters=
+| Concepts=Concepts/Big_Henchman,Concepts/Enclave,Concepts/Mutant,Concepts/Non_Player_Character
+| Franchises=
+| Games=Games/The_Incredible_Hulk_2008
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3686962-2687480392-latest.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3686962-2687480392-latest.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,square_medium,scale_super,scale_small,square_avatar,scale_avatar,square_mini,square_tiny,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Barbaria were genetically mutated soldiers created by the Enclave.</text>
+      <sha1>trpsbplj5lwc9hhrz65p4wqkpy3f38y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Baxcalibur</title>
+    <ns>0</ns>
+    <id>96013</id>
+    <revision>
+      <id>588507</id>
+      <parentid>487944</parentid>
+      <timestamp>2026-02-08T07:19:15Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588507</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="642" sha1="5lm7dtn0x4ta5ip5o5z6s8nahjghgab" xml:space="preserve">{{Concept
+| Name=Baxcalibur
+| Guid=3015-13570
+| Characters=
+| Concepts=Concepts/Mega_Evolution
+| Franchises=
+| Games=Games/Pokemon_Go,Games/Pokemon_Legends_Z_A,Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777891-0998baxcalibur.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777891-0998baxcalibur.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,scale_small,square_tiny,square_avatar,square_mini,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>5lm7dtn0x4ta5ip5o5z6s8nahjghgab</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Beelzemon Blast Mode</title>
+    <ns>0</ns>
+    <id>95792</id>
+    <revision>
+      <id>588098</id>
+      <parentid>487781</parentid>
+      <timestamp>2026-02-08T07:15:55Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588098</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1597" sha1="1zsgb5eu1y5eztncj61jss9xnxv4d7q" xml:space="preserve">{{Concept
+| Name=Beelzemon Blast Mode
+| Guid=3015-13343
+| Aliases=Beelzemon Bluster Mode,Beelzebumon Blast Mode
+| Deck=A "Mode Change" for Beelzemon. His mind becomes clearer and he grows two pairs of wings, and a blaster is melded with one of his arms. In some games, this is the default representation of Beelzemon.
+| Characters=
+| Concepts=Concepts/Demon,Concepts/Digimon,Concepts/Digimon_Tamer,Concepts/Digivolution,Concepts/Impmon
+| Franchises=
+| Games=Games/Digimon_Battle,Games/Digimon_Links,Games/Digimon_Masters,Games/Digimon_ReArise,Games/Digimon_Rumble_Arena,Games/Digimon_Soul_Chaser,Games/Digimon_Story_Cyber_Sleuth,Games/Digimon_Story_Cyber_Sleuth_Complete_Edition,Games/Digimon_Story_Cyber_Sleuth_Hackers_Memory,Games/Digimon_Story_Lost_Evolution,Games/Digimon_Tamers_Battle_Spirit_Ver_1_5,Games/Digimon_World_3,Games/Digimon_World_4,Games/Digimon_World_Dusk_Dawn
+| Locations=Locations/Cyberspace
+| Objects=Objects/Motorcycle,Objects/Shotgun
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3649518-beelzemon_blast_mode.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3649518-beelzemon_blast_mode.png","path":"16\/164924\/","mime":"image\/png","sizes":"square_small,scale_super,scale_medium,scale_small,square_avatar,square_medium,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A "Mode Change" for Beelzemon. His mind becomes clearer and he grows two pairs of wings, and a blaster is melded with one of his arms. In some games, this is the default representation of Beelzemon.</text>
+      <sha1>1zsgb5eu1y5eztncj61jss9xnxv4d7q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Biker Gang</title>
+    <ns>0</ns>
+    <id>95715</id>
+    <revision>
+      <id>587927</id>
+      <parentid>487722</parentid>
+      <timestamp>2026-02-08T07:14:31Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587927</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2805" sha1="clddpoin1wvxeerviquh13mi4c6lq9m" xml:space="preserve">{{Concept
+| Name=Biker Gang
+| Guid=3015-13263
+| Aliases=Motorcycle Gang,Outlaw Motorcycle Club
+| Deck=A biker gang, or "outlaw motorcycle club", is a street gang whose members ride and share enthusiasm for motorcycles.  To qualify as this, the members have to actively participate in illegal activity as part of their function.
+| Characters=Characters/Ashley_Butler,Characters/Barbon,Characters/Ben,Characters/Big_Daddy_56464,Characters/Billy_Grey,Characters/Brian_Jeremy,Characters/Cactus_Rose,Characters/Clay_Simons,Characters/Deacon_St_John,Characters/Francis,Characters/Jake_Conway,Characters/Jason_Michaels,Characters/Jessie_9364,Characters/Jim_Fitzgerald,Characters/Johnny_Klebitz,Characters/Maureen_Corley,Characters/Sugar_46359,Characters/Terry_Thorpe
+| Concepts=Concepts/Arm_Wrestling,Concepts/Bandit,Concepts/Drugs,Concepts/Gang_Leader,Concepts/Lost_MC,Concepts/Motorcycle_Racing,Concepts/Robbery,Concepts/Theft
+| Franchises=
+| Games=Games/Big_Mutha_Truckers,Games/Brutal_Legend,Games/Dead_Rising_3,Games/Double_Dragon_And_Kunio_kun_Retro_Brawler_Bundle,Games/Dustborn,Games/Freaky_Flyers,Games/Full_Throttle_1995,Games/Grand_Theft_Auto_Chinatown_Wars,Games/Grand_Theft_Auto_Episodes_from_Liberty_City,Games/Grand_Theft_Auto_IV,Games/Grand_Theft_Auto_IV_And_Episodes_from_Liberty_City_The_Complete_Edition,Games/Grand_Theft_Auto_Liberty_City_Stories,Games/Grand_Theft_Auto_The_Trilogy_The_Definitive_Edition,Games/Grand_Theft_Auto_V,Games/Grand_Theft_Auto_Vice_City,Games/Hitman_Contracts,Games/Left_4_Dead,Games/Morris_Meets_the_Bikers,Games/Ninja_Gaiden_1988,Games/Police_Quest_In_Pursuit_of_the_Death_Angel,Games/Renegade,Games/Ride_to_Hell_Retribution,Games/Shaq_Fu_A_Legend_Reborn,Games/Streets_of_Rage_4,Games/The_Legend_of_the_Dragonflame_High_School_3
+| Locations=Locations/Chicago,Locations/Chinatown,Locations/Liberty_City,Locations/Sturgis,Locations/Tacoma,Locations/Vice_City
+| Objects=Objects/Baseball_Bat,Objects/Bicycle,Objects/Chains,Objects/Cocaine,Objects/Gun,Objects/Harley_Davidson_Fat_Boy,Objects/Harley_Davidson_Super_Glide,Objects/Knife,Objects/Marijuana,Objects/Motorcycle,Objects/Motorcycle_Helmet,Objects/Uzi
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3618260-0598660084-ss_7e.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3618260-0598660084-ss_7e.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"square_small,square_medium,square_avatar,scale_super,scale_small,scale_medium,square_tiny,square_mini,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+A biker gang, or "outlaw motorcycle club", is a street gang whose members ride and share enthusiasm for motorcycles.  To qualify as this, the members have to actively participate in illegal activity as part of their function.</text>
+      <sha1>clddpoin1wvxeerviquh13mi4c6lq9m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Black Warriors</title>
+    <ns>0</ns>
+    <id>95730</id>
+    <revision>
+      <id>587973</id>
+      <parentid>487737</parentid>
+      <timestamp>2026-02-08T07:14:54Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587973</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2067" sha1="r89vu6edwoms6f3qjbs2f3tb1aerlxd" xml:space="preserve">{{Concept
+| Name=Black Warriors
+| Guid=3015-13281
+| Aliases=Shadow Warriors
+| Deck=The Black Warriors or Shadow Warriors are a recurring villainous organization in the Double Dragon series.
+| Characters=Characters/Abobo,Characters/Abore,Characters/Baker_43240,Characters/Blade_14806,Characters/Bolo_35280,Characters/Bones_14804,Characters/Burnov,Characters/Carlem,Characters/Chen_Ron_Pyo,Characters/Cheng_Ron_Fu,Characters/Chin_Taimei,Characters/Countdown,Characters/Dominique,Characters/Duke_43246,Characters/Icepick,Characters/Jackson_43242,Characters/Jeff_25953,Characters/Jick,Characters/Jim_35285,Characters/Jimmy_Lee,Characters/Koga_Shuko,Characters/Li_Cheng_Long,Characters/Linda_35270,Characters/McGuire,Characters/Mibobo,Characters/Mysterious_Warrior,Characters/OHara,Characters/Raymond,Characters/Right_Arm,Characters/Roper,Characters/Sekka,Characters/Shadow_Boss,Characters/Shadow_Master,Characters/Sickle,Characters/Steve_43241,Characters/Trigger_Happy,Characters/Williams,Characters/Willy_Mackey
+| Concepts=Concepts/Ninja
+| Franchises=
+| Games=Games/Battletoads_And_Double_Dragon_The_Ultimate_Team,Games/Double_Dragon,Games/Double_Dragon_1987,Games/Double_Dragon_Advance,Games/Double_Dragon_And_Kunio_kun_Retro_Brawler_Bundle,Games/Double_Dragon_Collection,Games/Double_Dragon_II_The_Revenge,Games/Double_Dragon_III_The_Sacred_Stones,Games/Double_Dragon_Trilogy,Games/Double_Dragon_V_The_Shadow_Falls,Games/Super_Double_Dragon,Games/Technos_Arcade_1,Games/Technos_Collection_1
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3626999-1475546672-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3626999-1475546672-latest.png","path":"16\/164924\/","mime":"image\/png","sizes":"square_medium,square_small,square_avatar,scale_medium,scale_super,scale_small,square_tiny,scale_tiny,screen_medium,screen_kubrick,square_mini,scale_avatar,scale_large","caption":null},"background":[]}' /&gt;
+The Black Warriors or Shadow Warriors are a recurring villainous organization in the Double Dragon series.</text>
+      <sha1>r89vu6edwoms6f3qjbs2f3tb1aerlxd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Blackmail</title>
+    <ns>0</ns>
+    <id>96060</id>
+    <revision>
+      <id>96195</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96195</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="212" sha1="8a8yvpas7b3372tg6a01xyzh3wl7k9h" xml:space="preserve">{{Concept
+| Name=Blackmail
+| Guid=3015-13621
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Gangland
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>8a8yvpas7b3372tg6a01xyzh3wl7k9h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Blight Club</title>
+    <ns>0</ns>
+    <id>464453</id>
+    <revision>
+      <id>738503</id>
+      <parentid>738338</parentid>
+      <timestamp>2026-02-24T01:28:07Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Undo revision [[Special:Diff/738338|738338]] by [[Special:Contributions/Chucktowski|Chucktowski]] ([[User talk:Chucktowski|talk]])</comment>
+      <origin>738503</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="25" sha1="1miswpqywugc3ir0alkdau2zj1icyuz" xml:space="preserve">{{Concept
+|Name=Delete
+}}</text>
+      <sha1>1miswpqywugc3ir0alkdau2zj1icyuz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Blood Taste</title>
+    <ns>0</ns>
+    <id>95710</id>
+    <revision>
+      <id>587916</id>
+      <parentid>487718</parentid>
+      <timestamp>2026-02-08T07:14:26Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587916</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1284" sha1="lcm7bmqpn24d098ay3ppzu33awam9yx" xml:space="preserve">{{Concept
+| Name=Blood Taste
+| Guid=3015-13258
+| Aliases=Bloodhound
+| Deck=Blood Taste is a red-tinted variant on the Guard Hound enemy in Final Fantasy VII-based games.
+| Characters=
+| Concepts=Concepts/Dog,Concepts/Guard_Hound,Concepts/Palette_Swap,Concepts/Shinra_Electric_Power_Company
+| Franchises=
+| Games=Games/Crisis_Core_Final_Fantasy_VII,Games/Crisis_Core_Final_Fantasy_VII_Reunion,Games/Final_Fantasy_Brave_Exvius,Games/Final_Fantasy_Record_Keeper,Games/Final_Fantasy_VII,Games/Final_Fantasy_VII_Ever_Crisis,Games/Final_Fantasy_VII_Final_Fantasy_VIII_Remastered_Twin_Pack,Games/Final_Fantasy_VII_G_Bike,Games/Final_Fantasy_VII_Remake,Games/Mobius_Final_Fantasy,Games/Pictlogica_Final_Fantasy
+| Locations=Locations/Midgar
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3617660-9050233984-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3617660-9050233984-latest.png","path":"16\/164924\/","mime":"image\/png","sizes":"square_avatar,square_medium,square_small,screen_medium,screen_kubrick,scale_small,scale_super,scale_large,scale_avatar,square_mini,scale_medium,scale_tiny,square_tiny","caption":null},"background":[]}' /&gt;
+Blood Taste is a red-tinted variant on the Guard Hound enemy in Final Fantasy VII-based games.</text>
+      <sha1>lcm7bmqpn24d098ay3ppzu33awam9yx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Bombirdier</title>
+    <ns>0</ns>
+    <id>95982</id>
+    <revision>
+      <id>588437</id>
+      <parentid>487913</parentid>
+      <timestamp>2026-02-08T07:18:42Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588437</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="593" sha1="cc9t2ij8n9hnazd7kjr9rmvhamz6u2l" xml:space="preserve">{{Concept
+| Name=Bombirdier
+| Guid=3015-13539
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Go,Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777853-0962bombirdier.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777853-0962bombirdier.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>cc9t2ij8n9hnazd7kjr9rmvhamz6u2l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Boules</title>
+    <ns>0</ns>
+    <id>95919</id>
+    <revision>
+      <id>96054</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96054</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="539" sha1="6cescm6l2wl3tpwmeq5yt9tbliiu0p0" xml:space="preserve">{{Concept
+| Name=Boules
+| Guid=3015-13474
+| Deck=Whether it's Bocce or Pétanque, boules is a type of lawn sport where you toss your balls at bigger balls.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Bocce,Games/Elf_Bowling_Bocce_Style,Games/Obut_Petanque,Games/Obut_Petanque_2,Games/Petanque_Master,Games/Petanque_Pro
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Whether it's Bocce or Pétanque, boules is a type of lawn sport where you toss your balls at bigger balls.</text>
+      <sha1>6cescm6l2wl3tpwmeq5yt9tbliiu0p0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Brambleghast</title>
+    <ns>0</ns>
+    <id>95968</id>
+    <revision>
+      <id>588408</id>
+      <parentid>487899</parentid>
+      <timestamp>2026-02-08T07:18:27Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588408</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="582" sha1="0zbo8nx9b1mx4jc0xiavyimbeq3aftp" xml:space="preserve">{{Concept
+| Name=Brambleghast
+| Guid=3015-13525
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777833-0947brambleghast.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777833-0947brambleghast.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_small,scale_super,square_tiny,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>0zbo8nx9b1mx4jc0xiavyimbeq3aftp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Bramblin</title>
+    <ns>0</ns>
+    <id>95967</id>
+    <revision>
+      <id>588406</id>
+      <parentid>487898</parentid>
+      <timestamp>2026-02-08T07:18:27Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588406</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="570" sha1="chv0ivyc1ak2etmf2dkh5y0n3tq19fx" xml:space="preserve">{{Concept
+| Name=Bramblin
+| Guid=3015-13524
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777832-0946bramblin.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777832-0946bramblin.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,scale_small,square_tiny,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>chv0ivyc1ak2etmf2dkh5y0n3tq19fx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Brolder</title>
+    <ns>0</ns>
+    <id>96091</id>
+    <revision>
+      <id>96226</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96226</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="620" sha1="ndg1dmkq7wq0068zgpwc487grks1ztq" xml:space="preserve">{{Concept
+| Name=Brolder
+| Guid=3015-13653
+| Deck=Brolders are living boulders with eyes and yellow arms that first appear in Super Mario 3D World. Their name is a play on the words "boulder" and "bro", a short term for "brother".
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Mario_Golf_Super_Rush,Games/Super_Mario_3D_World
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Brolders are living boulders with eyes and yellow arms that first appear in Super Mario 3D World. Their name is a play on the words "boulder" and "bro", a short term for "brother".
+
+</text>
+      <sha1>ndg1dmkq7wq0068zgpwc487grks1ztq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Brute Bonnet</title>
+    <ns>0</ns>
+    <id>96001</id>
+    <revision>
+      <id>588484</id>
+      <parentid>487932</parentid>
+      <timestamp>2026-02-08T07:19:02Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588484</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="582" sha1="sx2q3dxqzfriu1uoeg9q70in1l7dmgm" xml:space="preserve">{{Concept
+| Name=Brute Bonnet
+| Guid=3015-13558
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777872-0986brute_bonnet.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777872-0986brute_bonnet.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,scale_small,square_tiny,scale_large,scale_avatar,square_mini,square_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;</text>
+      <sha1>sx2q3dxqzfriu1uoeg9q70in1l7dmgm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Butterfly Enemy</title>
+    <ns>0</ns>
+    <id>95889</id>
+    <revision>
+      <id>588277</id>
+      <parentid>487847</parentid>
+      <timestamp>2026-02-08T07:17:21Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588277</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1483" sha1="8uefm2fjb4vz5gelz0tpmube19injc3" xml:space="preserve">{{Concept
+| Name=Butterfly Enemy
+| Guid=3015-13441
+| Deck=A familiar opponent in the light fantasy setting in which platformers and JRPGs are usually made. Particularly large individuals are sometimes even made bosses
+| Characters=Characters/Moonlight_Butterfly,Characters/Mothra
+| Concepts=Concepts/Butterfly,Concepts/Caterpillar,Concepts/Enemies_Emerging_From_Eggs,Concepts/Flying_Enemies,Concepts/Giant_Insects,Concepts/Insect_Infestation,Concepts/Moth
+| Franchises=
+| Games=Games/Apidya,Games/Crystalis,Games/Dark_Cloud_2,Games/Dark_Souls,Games/Dragon_Warrior,Games/Lady_Stalker_Kako_kara_no_Chousen,Games/Mickey_Mania,Games/Mr_Nutz,Games/Resident_Evil_2,Games/Resident_Evil_Survivor,Games/Rogue_Galaxy,Games/SaGa_Frontier,Games/The_Messenger_2018
+| Locations=Locations/Garden
+| Objects=Objects/Butterfly_Net,Objects/Flowers
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3713076-darkcloud2.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3713076-darkcloud2.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_super,square_avatar,square_medium,scale_small,scale_avatar,square_mini,square_tiny,scale_large,screen_kubrick,screen_medium","caption":"Dark Cloud 2"},"background":[]}' /&gt;
+All butterfly-like creatures, such as moths and various mutated specimens, are suitable, as sometimes it is not clear how to distinguish them from the usual caterpillar with wings. [[Concepts/Fairy|Fairies]] excluded.</text>
+      <sha1>8uefm2fjb4vz5gelz0tpmube19injc3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Buzz Bomber</title>
+    <ns>0</ns>
+    <id>95736</id>
+    <revision>
+      <id>587988</id>
+      <parentid>487742</parentid>
+      <timestamp>2026-02-08T07:15:01Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587988</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1921" sha1="aihqidsixmmbx2xx1cifjxo015noccp" xml:space="preserve">{{Concept
+| Name=Buzz Bomber
+| Guid=3015-13287
+| Aliases=Beeton
+| Deck=Buzz Bomber is a mechanical wasp, and is the first flying enemy encountered in the Sonic the Hedgehog series.
+| Characters=Characters/Dr_Robotnik
+| Concepts=Concepts/Badnik,Concepts/Recurring_Minion,Concepts/Robot,Concepts/Wasps
+| Franchises=
+| Games=Games/6_Pak,Games/M6,Games/Mario_And_Sonic_at_the_Sochi_2014_Winter_Olympic_Games,Games/Mario_And_Sonic_at_the_Tokyo_2020_Olympic_Games,Games/Sega_Genesis_Classics,Games/Sega_Genesis_Collection,Games/Sega_Top_Ten,Games/Sonic_Adventure_2,Games/Sonic_Adventure_2_Battle,Games/Sonic_Classic_Collection,Games/Sonic_Classics_3_in_1,Games/Sonic_Dream_Team,Games/Sonic_Forces_Speed_Battle,Games/Sonic_Frontiers,Games/Sonic_Generations,Games/Sonic_Jump,Games/Sonic_Lost_World,Games/Sonic_Mania,Games/Sonic_Mania_Team_Sonic_Racing_Double_Pack,Games/Sonic_Mega_Collection,Games/Sonic_Mega_Collection_Plus,Games/Sonic_Origins,Games/Sonic_Racing_CrossWorlds,Games/Sonic_Rumble,Games/Sonic_Runners,Games/Sonic_Runners_Adventure,Games/Sonic_Superstars,Games/Sonic_the_Hedgehog,Games/Sonic_the_Hedgehog_Chaos,Games/Sonic_the_Hedgehog_Spinball,Games/Sonic_Tweet,Games/Sonic_X_Shadow_Generations,Games/Sonics_Schoolhouse,Games/Sonics_Ultimate_Genesis_Collection
+| Locations=Locations/Green_Hill_Zone,Locations/Marble_Zone,Locations/Spring_Yard_Zone
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3629856-5721683838-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3629856-5721683838-latest.png","path":"16\/164924\/","mime":"image\/png","sizes":"square_medium,scale_super,square_small,scale_tiny,square_avatar,scale_small,scale_medium,square_mini,screen_kubrick,scale_avatar,square_tiny,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Buzz Bomber is a mechanical wasp, and is the first flying enemy encountered in the Sonic the Hedgehog series.</text>
+      <sha1>aihqidsixmmbx2xx1cifjxo015noccp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Byzantine Empire</title>
+    <ns>0</ns>
+    <id>96097</id>
+    <revision>
+      <id>96232</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96232</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="223" sha1="bxnsmm5xq2pgpugra945g9cwwfu96bf" xml:space="preserve">{{Concept
+| Name=Byzantine Empire
+| Guid=3015-13659
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Empire_Earth
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>bxnsmm5xq2pgpugra945g9cwwfu96bf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Cadillac</title>
+    <ns>0</ns>
+    <id>95691</id>
+    <revision>
+      <id>587852</id>
+      <parentid>487700</parentid>
+      <timestamp>2026-02-08T07:13:58Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587852</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1610" sha1="6jnsfi6ytg6cawaqj6d6rk517mrsf36" xml:space="preserve">{{Concept
+| Name=Cadillac 
+| Guid=3015-13238
+| Deck=Cadillac was a American luxury automobile division by General Motors that sells expensive luxury models in the US.
+| Characters=
+| Concepts=Concepts/Licensed_Cars
+| Franchises=
+| Games=Games/Cadillacs_and_Dinosaurs,Games/Cadillacs_and_Dinosaurs_The_Second_Cataclysm,Games/Driver,Games/Driver_San_Francisco,Games/Enthusia_Professional_Racing,Games/Forza_Horizon,Games/Forza_Horizon_2,Games/Forza_Horizon_3,Games/Forza_Horizon_4,Games/Forza_Motorsport,Games/Forza_Motorsport_2,Games/Forza_Motorsport_2023,Games/Forza_Motorsport_3,Games/Forza_Motorsport_4,Games/Forza_Motorsport_5,Games/Forza_Motorsport_6,Games/Forza_Motorsport_6_Apex,Games/Gran_Turismo_2009,Games/Gran_Turismo_4,Games/Gran_Turismo_5,Games/Gran_Turismo_6,Games/Gran_Turismo_Concept_2002_Tokyo_Geneva,Games/Racing_Gears_Advance,Games/Street_Rod,Games/Street_Rod_2_The_Next_Generation
+| Locations=Locations/The_United_States_of_America
+| Objects=Objects/Cadillac_Escalade,Objects/Car,Objects/Sedan,Objects/Sports_Car,Objects/Sports_Utility_Vehicle
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/137/1377390/3601732-img_2201.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601732-img_2201.png","path":"137\/1377390\/","mime":"image\/png","sizes":"scale_tiny,square_medium,scale_super,square_avatar,scale_medium,square_small,scale_small,square_tiny,scale_avatar,square_mini,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+Cadillac was a American luxury automobile division by General Motors that sells expensive luxury models in the US.</text>
+      <sha1>6jnsfi6ytg6cawaqj6d6rk517mrsf36</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Camera as a Weapon</title>
+    <ns>0</ns>
+    <id>95849</id>
+    <revision>
+      <id>588212</id>
+      <parentid>487821</parentid>
+      <timestamp>2026-02-08T07:16:50Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588212</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1613" sha1="rer09p3qeo0u8mc567fn8ulgrgn5rw5" xml:space="preserve">{{Concept
+| Name=Camera as a Weapon
+| Guid=3015-13401
+| Deck=When, by capturing an enemy on film, we damage them or impose a negative status, like blinding, with the flash. And also the ability to hit the device itself up close or throw it like a projectile
+| Characters=Characters/Frank_West,Characters/Johnny_Cage,Characters/Ran_Hibiki
+| Concepts=Concepts/Cameraman,Concepts/Improvised_Weapon,Concepts/Journalist,Concepts/Photo_Mode,Concepts/Photography
+| Franchises=
+| Games=Games/DreadOut,Games/DreadOut_2,Games/DreadOut_Keepers_of_The_Dark,Games/DreadOut_Remastered_Collection,Games/Fatal_Frame,Games/Fatal_Frame_II_Crimson_Butterfly,Games/Fatal_Frame_III_The_Tormented,Games/Fatal_Frame_Maiden_of_Black_Water,Games/Fatal_Frame_Mask_of_the_Lunar_Eclipse,Games/Marvel_vs_Capcom_Infinite,Games/Michigan_Report_from_Hell,Games/Mortal_Kombat_1,Games/Mortal_Kombat_11,Games/Project_Justice,Games/Project_Zero_2_Wii_Edition,Games/Soccer_Kid,Games/Spirit_Camera_The_Cursed_Memoir,Games/ToeJam_And_Earl_in_Panic_on_Funkotron,Games/Ultimate_Marvel_vs_Capcom_3
+| Locations=
+| Objects=Objects/Photo
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3693126-fatalframe3.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3693126-fatalframe3.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_small,square_avatar,scale_super,scale_medium,square_mini,scale_tiny,square_tiny,screen_medium,scale_large,screen_kubrick,scale_avatar","caption":"Fatal Frame 3"},"background":[]}' /&gt;
+Such an action counts on the hero's side as well as on the opponents.</text>
+      <sha1>rer09p3qeo0u8mc567fn8ulgrgn5rw5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Cameraman</title>
+    <ns>0</ns>
+    <id>95890</id>
+    <revision>
+      <id>948945</id>
+      <parentid>588279</parentid>
+      <timestamp>2026-04-10T08:42:43Z</timestamp>
+      <contributor>
+        <username>Bjilnir</username>
+        <id>2785</id>
+      </contributor>
+      <origin>948945</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1310" sha1="6prib07gu0iayouy15jpuaa7al6pm3b" xml:space="preserve">{{Concept
+|Guid=3015-13442
+|Name=Cameraman
+|Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3716240-thedevilinside.jpg
+|Deck=A person with a video camera
+|Characters=Characters/Elena_Fisher, Characters/Jeff_the_Cameraman, Characters/Vernon_Fenwick, Characters/Lakitu
+|Concepts=Concepts/Being_the_Cameraman, Concepts/Camera_as_a_Weapon, Concepts/Fake_T_V_Show, Concepts/Filmmaking, Concepts/Game_Show_Host, Concepts/Journalist, Concepts/Television_Newscast, Concepts/Video_Camera_Interface, Concepts/Videography, Concepts/Watching_TV
+|Games=Games/Ape_Escape_3, Games/Astro_Bot, Games/Astros_Playroom, Games/Michigan_Report_from_Hell, Games/Resident_Evil_6, Games/Teenage_Mutant_Ninja_Turtles_Shredders_Revenge, Games/The_Devil_Inside, Games/Uncharted_2_Among_Thieves, Games/Uncharted_Drakes_Fortune, Games/Uncharted_The_Nathan_Drake_Collection, Games/Super Mario 64
+|Objects=Objects/Camera, Objects/Television
+}}
+&lt;div id='imageData' data-json='{"infobox":{"file":"3716240-thedevilinside.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_mini,square_tiny,scale_medium,scale_small,square_avatar,square_medium,screen_medium,scale_avatar,scale_tiny,scale_large,screen_kubrick","caption":"The Devil Inside"},"background":[]}' /&gt;
+A person with a video camera</text>
+      <sha1>6prib07gu0iayouy15jpuaa7al6pm3b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Canadian Hockey League</title>
+    <ns>0</ns>
+    <id>95925</id>
+    <revision>
+      <id>96060</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96060</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="236" sha1="cr4w62sxi7v9yem7dzdalc8j7ykt3vb" xml:space="preserve">{{Concept
+| Name=Canadian Hockey League
+| Guid=3015-13480
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/NHL_11,Games/NHL_21
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>cr4w62sxi7v9yem7dzdalc8j7ykt3vb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Canceled Ports</title>
+    <ns>0</ns>
+    <id>95812</id>
+    <revision>
+      <id>998995</id>
+      <parentid>742178</parentid>
+      <timestamp>2026-07-19T06:11:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>998995</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3045" sha1="mjzusr51qpt2atdi6ebg73vo8nuondh" xml:space="preserve">{{Concept
+| Name=Canceled Ports
+| Guid=3015-13363
+| Aliases=Canceled Conversions
+| Deck=Sometimes games have been in the works for a platform outside of (or alongside) versions that did release.
+| Characters=
+| Concepts=Concepts/Cancelled_Games,Concepts/Port
+| Franchises=
+| Games=Games/Ashes_Cricket_2013,Games/Bases_Loaded,Games/Brutal_Sports_Football,Games/Bubsy_3D,Games/Bubsy_II,Games/Burai_Fighter,Games/Chomperman_2006,Games/Circus_Charlie,Games/ClayFighter_2_Judgment_Clay,Games/ClayFighter_63_1_3,Games/ClayFighter_Sculptors_Cut,Games/Comanche_Maximum_Overkill,Games/Crash_Twinsanity,Games/Donkey_Kong_3_Dai_Gyakushuu,Games/Dragon_Ball_Z_V_R_V_S,Games/Evil_Dead_The_Game_2022,Games/Fighting_Force,Games/Final_Fantasy_VII,Games/Futurama,Games/FX_Fighter,Games/Galidor_Defenders_of_the_Outer_Dimension,Games/Gargoyles,Games/Gex_Trilogy,Games/Half_Life,Games/Halo_Combat_Evolved,Games/Happy_Tree_Friends_False_Alarm,Games/Hard_Yardage,Games/Ice_Nine,Games/Indiana_Jones_Greatest_Adventures,Games/It_Came_from_the_Desert,Games/Jelly_Boy,Games/Killer_Instinct,Games/Killer_Instinct_2013,Games/Looney_Tunes_Space_Race,Games/Mad_Max_2015,Games/Martial_Arts_Capoeira,Games/Marvel_vs_Capcom_2_New_Age_of_Heroes,Games/Marvels_Midnight_Suns,Games/Metal_Gear_Solid,Games/Metal_Gear_Solid_3_Snake_Eater,Games/Mortal_Kombat,Games/Mortal_Kombat_Gold,Games/Mortal_Kombat_X,Games/Oddworld_Munchs_Oddysee,Games/Oddworld_Strangers_Wrath,Games/Omega_Fighter,Games/Pac_Man_Museum_43368,Games/Pathfinder_Kingmaker,Games/PAW_Patrol_On_a_Roll,Games/Pillars_of_Eternity_II_Deadfire,Games/Psi_Ops_The_Mindgate_Conspiracy,Games/Psychonauts,Games/Puggsy,Games/Putty_Squad,Games/Sitting_Ducks,Games/Soccer_Kid,Games/Sonic_the_Hedgehog_2006,Games/Steam_Hearts_And_Advanced_Variable_Geo_Saturn_Tribute,Games/Stone_Smash,Games/Street_Fighter,Games/Super_Star_Wars,Games/Superman_1999,Games/Survival_Arts,Games/Teenage_Mutant_Ninja_Turtles_1989,Games/The_Last_Guardian,Games/The_Suffering,Games/TMNT,Games/Ultimate_Mortal_Kombat_3,Games/Wolfenstein_3D,Games/Yie_Ar_Kung_Fu
+| Locations=
+| Objects=Objects/Dreamcast,Objects/GameCube,Objects/Sega_Genesis,Objects/SNES
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3660854-3815717786-Half-.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3660854-3815717786-Half-.jpg","path":"52\/520822\/","mime":"image\/jpeg","sizes":"scale_medium,square_medium,square_small,square_avatar,square_mini,scale_small,scale_super,square_tiny,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+* Please only add games that were actually announced or have been revealed to have been in-production post-cancelation. Nothing that was only rumored.
+* For simplicity sake, games whose first version was canceled but released elsewhere is fair game (provided it wasn't an [[Concepts/Uncancelled_Games|uncanceled game]] - where work wasn't immediately moved to another platform)
+* Please write a description of which platform(s) the game was canceled for in each entry.</text>
+      <sha1>mjzusr51qpt2atdi6ebg73vo8nuondh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Capsakid</title>
+    <ns>0</ns>
+    <id>95972</id>
+    <revision>
+      <id>588417</id>
+      <parentid>487903</parentid>
+      <timestamp>2026-02-08T07:18:32Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588417</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="570" sha1="1g0ctf5qq1ewhf5go1nis27ie1j831z" xml:space="preserve">{{Concept
+| Name=Capsakid
+| Guid=3015-13529
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777839-0951capsakid.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777839-0951capsakid.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,square_tiny,scale_small,square_mini,screen_medium,screen_kubrick,scale_large,scale_avatar,square_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>1g0ctf5qq1ewhf5go1nis27ie1j831z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Caracal</title>
+    <ns>0</ns>
+    <id>95888</id>
+    <revision>
+      <id>588274</id>
+      <parentid>487846</parentid>
+      <timestamp>2026-02-08T07:17:20Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588274</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="679" sha1="iaovwhvyxk70axk7nmkhzd4c34cypap" xml:space="preserve">{{Concept
+| Name=Caracal
+| Guid=3015-13440
+| Deck=A wild cat
+| Characters=Characters/Fes
+| Concepts=
+| Franchises=
+| Games=Games/Super_Monkey_Ball_Banana_Rumble
+| Locations=Locations/Africa,Locations/Middle_East
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/59/594908/3711533-5578881127-Carac.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3711533-5578881127-Carac.jpg","path":"59\/594908\/","mime":"image\/jpeg","sizes":"scale_super,square_medium,square_small,square_avatar,scale_small,scale_medium,square_tiny,square_mini,scale_tiny,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+A wild cat</text>
+      <sha1>iaovwhvyxk70axk7nmkhzd4c34cypap</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Carnotaurus</title>
+    <ns>0</ns>
+    <id>96047</id>
+    <revision>
+      <id>999001</id>
+      <parentid>742186</parentid>
+      <timestamp>2026-07-19T06:12:00Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>999001</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1356" sha1="fqwbnkjk78z480jola2gumu20uix742" xml:space="preserve">{{Concept
+| Name=Carnotaurus
+| Guid=3015-13606
+| Deck=A large dinosaur similar to the T-Rex, but slightly smaller in size, with a pair of small horns near the eyebrows
+| Characters=
+| Concepts=Concepts/Dinosaur
+| Franchises=
+| Games=Games/ARK_Survival_Evolved,Games/Dino_Hunter_Deadly_Shores,Games/Dino_Stalker,Games/Dinosaur_King,Games/Dinosaur_King_2005,Games/Exoprimal,Games/Jurassic_Park_2011,Games/Jurassic_Park_Builder,Games/Jurassic_Park_III_Park_Builder,Games/Jurassic_World_Alive,Games/Jurassic_World_Evolution,Games/Jurassic_World_Evolution_2,Games/Jurassic_World_Evolution_3,Games/Jurassic_World_The_Game,Games/Ninja_Gaiden_3_Razors_Edge,Games/Prehistoric_Kingdom,Games/The_Isle,Games/The_Lost_World_Jurassic_Park_1997,Games/The_Lost_World_Jurassic_Park_4125,Games/Zoo_Tycoon_2
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3790739-carnotaurus.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3790739-carnotaurus.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,square_medium,scale_super,scale_small,square_avatar,square_tiny,square_mini,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A large dinosaur similar to the T-Rex, but slightly smaller in size, with a pair of small horns near the eyebrows</text>
+      <sha1>fqwbnkjk78z480jola2gumu20uix742</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Catching an Arrow</title>
+    <ns>0</ns>
+    <id>96058</id>
+    <revision>
+      <id>588616</id>
+      <parentid>487986</parentid>
+      <timestamp>2026-02-08T07:20:04Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588616</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="968" sha1="9u140hvexa644al0mcqqnur5yyix41b" xml:space="preserve">{{Concept
+| Name=Catching an Arrow
+| Guid=3015-13619
+| Deck=An arrow is fired, but the targeted person deftly catches it with their hand.
+| Characters=Characters/Batman,Characters/Bullseye,Characters/John_Redcorn,Characters/Taskmaster
+| Concepts=
+| Franchises=
+| Games=Games/Dead_or_Alive_3,Games/Injustice_2
+| Locations=
+| Objects=Objects/Arrow,Objects/Fist
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3793350-deadoralive3-catchinganarrowwithhand.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3793350-deadoralive3-catchinganarrowwithhand.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_super,square_tiny,scale_medium,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":"Dead or Alive 3 - Catching an Arrow"},"background":[]}' /&gt;
+All similar projectiles are suitable: arrows from bows, bolts from crossbows, harpoons from guns.</text>
+      <sha1>9u140hvexa644al0mcqqnur5yyix41b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Ceresmon</title>
+    <ns>0</ns>
+    <id>95878</id>
+    <revision>
+      <id>588249</id>
+      <parentid>487836</parentid>
+      <timestamp>2026-02-08T07:17:08Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588249</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="905" sha1="ewai4pg2m68ngnw2j3jw2n8ri05q5p1" xml:space="preserve">{{Concept
+| Name=Ceresmon
+| Guid=3015-13430
+| Deck=Ceresmon is a Mega-level God Man Digimon and a member of the Olympos XII.
+| Characters=
+| Concepts=Concepts/Birds,Concepts/Digimon,Concepts/Digivolution,Concepts/God,Concepts/Sentient_Plant
+| Franchises=
+| Games=Games/Digimon_Heroes,Games/Digimon_Story_Time_Stranger,Games/Digimon_Survive
+| Locations=Locations/Cyberspace
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3712137-0366483397-latest.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3712137-0366483397-latest.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"square_small,square_avatar,square_medium,scale_super,scale_medium,square_tiny,scale_small,scale_large,square_mini,scale_tiny,screen_kubrick,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+Ceresmon is a Mega-level God Man Digimon and a member of the Olympos XII.</text>
+      <sha1>ewai4pg2m68ngnw2j3jw2n8ri05q5p1</sha1>
+    </revision>
+  </page>
+</mediawiki>

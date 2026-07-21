@@ -1,0 +1,1530 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Locations/Magma Ocean Planet</title>
+    <ns>0</ns>
+    <id>264203</id>
+    <revision>
+      <id>264660</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264660</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="624" sha1="ptnt0i81z9ovo9kn6md0szvssykgphh" xml:space="preserve">{{Location
+| Name=Magma Ocean Planet
+| Guid=3035-8157
+| Deck=The '''Magma Ocean Planet''' is a fictional planet appearing in the the Sega Mega Drive–Genesis version of Teenage Mutant Ninja Turtles: Tournament Fighters. Located in Dimension X, it is where Clone Sisyphus is fought.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The '''Magma Ocean Planet''' is a fictional planet appearing in the the Sega Mega Drive–Genesis version of Teenage Mutant Ninja Turtles: Tournament Fighters. Located in Dimension X, it is where Clone Sisyphus is fought.</text>
+      <sha1>ptnt0i81z9ovo9kn6md0szvssykgphh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Magmam City</title>
+    <ns>0</ns>
+    <id>264462</id>
+    <revision>
+      <id>264920</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264920</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="167" sha1="iqlupkhaggbxpw6okp9629efe1sk55m" xml:space="preserve">{{Location
+| Name=Magmam City
+| Guid=3035-8419
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>iqlupkhaggbxpw6okp9629efe1sk55m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Malaga 3426</title>
+    <ns>0</ns>
+    <id>465031</id>
+    <revision>
+      <id>752217</id>
+      <timestamp>2026-03-04T23:10:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752217</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="240" sha1="ssi2qto9e9c4gg35wikctudfg95fhp9" xml:space="preserve">{{Location
+| Name=Malaga
+| Guid=3035-3426
+| Deck=Town in the game Sword of Vermilion
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Town in the game Sword of Vermilion</text>
+      <sha1>ssi2qto9e9c4gg35wikctudfg95fhp9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Malawi</title>
+    <ns>0</ns>
+    <id>264043</id>
+    <revision>
+      <id>264500</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264500</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="318" sha1="2eu4eye1c9q417licjo6ugdfk53py24" xml:space="preserve">{{Location
+| Name=Malawi
+| Guid=3035-7997
+| Deck=Malawi is a republic in Southeastern Africa. Its capital city is Lilongwe.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Malawi is a republic in Southeastern Africa. Its capital city is Lilongwe.</text>
+      <sha1>2eu4eye1c9q417licjo6ugdfk53py24</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Manhattan 8222</title>
+    <ns>0</ns>
+    <id>264267</id>
+    <revision>
+      <id>637222</id>
+      <parentid>630121</parentid>
+      <timestamp>2026-02-13T21:29:19Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637222</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="732" sha1="rrtzgyjpi504lkeulwryhj8h1c806kh" xml:space="preserve">{{Location
+| Name=Manhattan
+| Guid=3035-8222
+| Deck=A city in Kansas and the home of Kansas State University.
+| Characters=
+| Concepts=Concepts/Kansas_State_Wildcats
+| Objects=
+| Locations=Locations/Kansas,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614353-8063978100-Riley.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614353-8063978100-Riley.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,square_medium,square_avatar,scale_medium,scale_super,scale_small,square_mini,scale_tiny,square_tiny,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+A city in Kansas and the home of Kansas State University.</text>
+      <sha1>rrtzgyjpi504lkeulwryhj8h1c806kh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Manitoba</title>
+    <ns>0</ns>
+    <id>264357</id>
+    <revision>
+      <id>264815</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264815</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="164" sha1="ncb8lwsix8tcs72kg7ymrrrq4e8yzxg" xml:space="preserve">{{Location
+| Name=Manitoba
+| Guid=3035-8313
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ncb8lwsix8tcs72kg7ymrrrq4e8yzxg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Maple Valley Raceway</title>
+    <ns>0</ns>
+    <id>264169</id>
+    <revision>
+      <id>637164</id>
+      <parentid>630063</parentid>
+      <timestamp>2026-02-13T21:28:39Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637164</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="961" sha1="ghnfceajkx3hx3v6symgwwpp2xclp4k" xml:space="preserve">{{Location
+| Name=Maple Valley Raceway
+| Guid=3035-8123
+| Deck=One of the very first fictional tracks of the Forza Motorsport franchise, Maple Valley Raceway could be considered as Turn 10's response to Gran Turismo's Autumn Ring, with its fall landscape and its cross-over.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/1/14876/3515465-8541813515-5f05e1.jpeg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3515465-8541813515-5f05e1.jpeg","path":"1\/14876\/","mime":"image\/jpeg","sizes":"scale_super,square_small,square_medium,square_avatar,scale_small,scale_medium,square_mini,square_tiny,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+One of the very first fictional tracks of the Forza Motorsport franchise, Maple Valley Raceway could be considered as Turn 10's response to Gran Turismo's Autumn Ring, with its fall landscape and its cross-over.</text>
+      <sha1>ghnfceajkx3hx3v6symgwwpp2xclp4k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Mata Nui</title>
+    <ns>0</ns>
+    <id>263998</id>
+    <revision>
+      <id>637073</id>
+      <parentid>629972</parentid>
+      <timestamp>2026-02-13T21:27:33Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637073</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1010" sha1="mkm7sksj7pqlwi9d2n9rh53ulflonrw" xml:space="preserve">{{Location
+| Name=Mata-Nui
+| Guid=3035-7952
+| Deck=Mata-Nui was a large island that was a major setting in Bionicle. Below it is the city of Metru-Nui which mirrors it's surface counterpart.
+| Characters=Characters/Takanuva
+| Concepts=Concepts/Bohrok,Concepts/Rahkshi
+| Objects=
+| Locations=Locations/Beach,Locations/Cave,Locations/Desert,Locations/Island,Locations/Jungle,Locations/Tundra,Locations/Volcanic_Terrain,Locations/Volcano
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3442208-7447548711-CGI_M.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3442208-7447548711-CGI_M.jpg","path":"52\/520822\/","mime":"image\/jpeg","sizes":"square_medium,square_small,square_avatar,scale_super,scale_medium,scale_small,scale_tiny,square_tiny,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Mata-Nui was a large island that was a major setting in Bionicle. Below it is the city of Metru-Nui which mirrors it's surface counterpart.</text>
+      <sha1>mkm7sksj7pqlwi9d2n9rh53ulflonrw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Mauritania</title>
+    <ns>0</ns>
+    <id>264044</id>
+    <revision>
+      <id>264501</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264501</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="324" sha1="ajz1z2errqlwe64uhmq6trqjs74pumz" xml:space="preserve">{{Location
+| Name=Mauritania
+| Guid=3035-7998
+| Deck=Mauritania is a republic in Western Africa. Its capital city is Nouakchott.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Mauritania is a republic in Western Africa. Its capital city is Nouakchott.</text>
+      <sha1>ajz1z2errqlwe64uhmq6trqjs74pumz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Mauritius</title>
+    <ns>0</ns>
+    <id>264045</id>
+    <revision>
+      <id>264502</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264502</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="378" sha1="nx3etfk6by4evgdqdyzs7yr0h3l79kx" xml:space="preserve">{{Location
+| Name=Mauritius
+| Guid=3035-7999
+| Deck=Mauritius is an island republic in the Southern Indian Ocean. Its capital city is Port Louis.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/McDonalds
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Mauritius is an island republic in the Southern Indian Ocean. Its capital city is Port Louis.</text>
+      <sha1>nx3etfk6by4evgdqdyzs7yr0h3l79kx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/McDonalds</title>
+    <ns>0</ns>
+    <id>264161</id>
+    <revision>
+      <id>637158</id>
+      <parentid>630057</parentid>
+      <timestamp>2026-02-13T21:28:34Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637158</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8576" sha1="rnycmecvuv5fahdo5hpbkjfjqfkif6e" xml:space="preserve">{{Location
+| Name=McDonald's
+| Guid=3035-8115
+| Deck=McDonald's is a very popular American fast food chain that has served over a billion burgers worldwide.
+| Characters=Characters/Abby_Mallard,Characters/Alvin_Seville,Characters/Ariel_12406,Characters/Ash_Ketchum,Characters/Babs_Bunny,Characters/Batman,Characters/Birdie_15897,Characters/Bo_Peep,Characters/Bob_41745,Characters/Brother_Bear,Characters/Bugs_Bunny,Characters/Buster_Bunny,Characters/Buzz_Lightyear,Characters/Char_Aznable,Characters/Charlie_Brown,Characters/Chicken_Little,Characters/Chip_16730,Characters/Daffy_Duck,Characters/Dale,Characters/Daphne_Blake,Characters/Dash_Parr,Characters/Dick_Grayson,Characters/Dodger,Characters/Donkey,Characters/Dory,Characters/Dot_Warner,Characters/Ducky,Characters/Dukey,Characters/Elmer_Fudd,Characters/Elmyra_Duff,Characters/Emmet,Characters/Eric_Cartman,Characters/Flik_7441,Characters/Flounder,Characters/Fozzie_Bear,Characters/Fred_Jones,Characters/Garfield,Characters/Gingerbread_Man_7744,Characters/Ginormica,Characters/Gonzo_the_Great,Characters/Goofy,Characters/Grimace,Characters/Gru,Characters/Grug_Crood,Characters/Guy_31933,Characters/Hamburglar,Characters/Hamton_J_Pig,Characters/Heimlich,Characters/Hiccup_Haddock,Characters/Humungousaur,Characters/Jack_Jack_Parr,Characters/James_Gordon,Characters/Jaq,Characters/Johnny_Test,Characters/Kermit_the_Frog,Characters/Kim_Possible,Characters/Lucy_Van_Pelt,Characters/Mario,Characters/Marlin,Characters/Mary_Test,Characters/Megamind,Characters/Meowth,Characters/Mickey_Mouse,Characters/Mike_Wazowski,Characters/Minion_26137,Characters/Minnie_Mouse,Characters/Miss_Piggy,Characters/Mr_Incredible,Characters/Mr_Peabody,Characters/Mr_Potato_Head,Characters/Mrs_Incredible,Characters/Mushu,Characters/Nemo_7442,Characters/Papa_Bear_45878,Characters/Papa_Smurf,Characters/Parappa,Characters/Patrick_Star,Characters/Pepe_Le_Pew,Characters/Peter_Parker,Characters/Pikachu,Characters/Plankton,Characters/Plucky_Duck,Characters/Pluto,Characters/Po,Characters/Porky_Pig,Characters/Puss_in_Boots,Characters/Ralph_23754,Characters/Rex_25359,Characters/Rich_Uncle_Pennybags,Characters/Ron_Stoppable,Characters/Ronald_McDonald,Characters/Rufus_14762,Characters/Sarge,Characters/Scooby_Doo,Characters/Scrat,Characters/Sebastian_36612,Characters/Shaggy,Characters/Sheriff_Woody,Characters/Sherman_36011,Characters/Shrek,Characters/Sid_23565,Characters/Sister_Bear,Characters/Skipper,Characters/Snoopy,Characters/Sonic_the_Hedgehog,Characters/SpongeBob_SquarePants,Characters/Stitch,Characters/Sweet_Mayhem,Characters/Sylvester,Characters/The_Missing_Link,Characters/Tigress,Characters/Travis_Scott,Characters/Vanellope_Von_Schweetz,Characters/Velma_Dinkley,Characters/Violet_Parr,Characters/Wakko_Warner,Characters/Woodstock,Characters/Wyldstyle,Characters/Yakko_Warner
+| Concepts=
+| Objects=Objects/Apple,Objects/Bacon,Objects/Barbecue_Sauce,Objects/Blueberry,Objects/Bottle,Objects/Bread,Objects/Building,Objects/Cardboard_Box,Objects/Cash_Register,Objects/Cheese,Objects/Cherry,Objects/Coca_Cola,Objects/Coin,Objects/Crate,Objects/Cucumber,Objects/Deep_Fryer,Objects/French_Fries,Objects/Fried_Chicken,Objects/Hamburger,Objects/Hot_Sauce,Objects/Ice_Block,Objects/Ketchup,Objects/Lettuce,Objects/Meat,Objects/Milk,Objects/Milkshake,Objects/Mustard,Objects/Onion,Objects/Parfait,Objects/Pickle,Objects/Pineapple,Objects/Pizza,Objects/Sandwich,Objects/Soda_Fountain,Objects/Soft_Drink,Objects/Spaghetti,Objects/Sprite,Objects/Strawberry,Objects/Tomato,Objects/Tortillas,Objects/Toy_Soldier,Objects/Vegetable_Oil,Objects/Water
+| Locations=Locations/Africa,Locations/Airport,Locations/Alabama,Locations/Alaska,Locations/Andorra,Locations/Argentina,Locations/Arizona,Locations/Arkansas,Locations/Aruba,Locations/Asia,Locations/Australia,Locations/Austria,Locations/Azerbaijian,Locations/Bahrain,Locations/Bangkok,Locations/Barbados,Locations/Beirut,Locations/Belarus,Locations/Belfast,Locations/Belgium,Locations/Bermuda,Locations/Bolivia,Locations/Bosnia_and_Herzegovina,Locations/Brazil,Locations/Brunei,Locations/Bulgaria,Locations/California,Locations/Canada,Locations/Cardiff,Locations/Casablanca,Locations/Chile,Locations/China,Locations/College,Locations/Colombia,Locations/Colorado,Locations/Connecticut,Locations/Costa_Rica,Locations/Croatia,Locations/Cuba,Locations/Curacao,Locations/Cyprus,Locations/Czech_Republic,Locations/Czechoslovakia,Locations/Delaware,Locations/Delhi,Locations/Denmark,Locations/Dominican_Republic,Locations/Dublin,Locations/Dundee,Locations/Earth,Locations/Ecuador,Locations/Egypt,Locations/El_Salvador,Locations/Estonia,Locations/Fiji,Locations/Finland,Locations/Florida,Locations/France,Locations/French_Guiana,Locations/Geneva,Locations/Georgia,Locations/Georgia_3236,Locations/Germany,Locations/Gibraltar_7279,Locations/Greece,Locations/Guadeloupe,Locations/Guam,Locations/Guatemala,Locations/Harlem,Locations/Hawaii,Locations/Honduras,Locations/Hong_Kong,Locations/Humboldt_County,Locations/Hungary,Locations/Iceland,Locations/Idaho,Locations/Illinois,Locations/India,Locations/Indiana,Locations/Indonesia,Locations/Iowa,Locations/Iran,Locations/Iraq,Locations/Ireland,Locations/Island,Locations/Isle_of_Man,Locations/Israel,Locations/Italy,Locations/Jakarta,Locations/Jamaica,Locations/Japan,Locations/Jordan,Locations/Kansas,Locations/Kansas_City,Locations/Kazakhstan,Locations/Kentucky,Locations/Kuwait,Locations/Kuwait_City,Locations/Lahore,Locations/Larnaca,Locations/Las_Vegas,Locations/Latvia,Locations/Lebanon,Locations/Liechtenstein,Locations/Lima,Locations/Lithuania,Locations/London,Locations/Long_Beach,Locations/Los_Angeles,Locations/Louisiana,Locations/Luxembourg,Locations/Macau,Locations/Maine,Locations/Malaysia,Locations/Malta,Locations/Martinique,Locations/Maryland,Locations/Massachusetts,Locations/Mauritius,Locations/Mexico,Locations/Mexico_City,Locations/Michigan,Locations/Minnesota,Locations/Mississippi,Locations/Missouri,Locations/Moldova,Locations/Monaco,Locations/Montana,Locations/Montenegro,Locations/Morocco,Locations/Moscow,Locations/Nebraska,Locations/Nevada,Locations/New_Caledonia,Locations/New_Hampshire,Locations/New_Jersey,Locations/New_Mexico,Locations/New_York,Locations/New_York_City,Locations/New_Zealand,Locations/Nicaragua,Locations/North_America,Locations/North_Carolina,Locations/North_Dakota,Locations/North_Macedonia,Locations/Northern_Ireland,Locations/Norway,Locations/Office_Building,Locations/Ohio,Locations/Oklahoma,Locations/Oklahoma_City,Locations/Oman,Locations/Oregon,Locations/Oxnard,Locations/Pakistan,Locations/Panama,Locations/Paraguay,Locations/Pennsylvania,Locations/Perth_Western_Australia,Locations/Peru,Locations/Philadelphia,Locations/Poland,Locations/Portugal,Locations/Puerto_Rico,Locations/Qatar,Locations/Republic_of_Suriname,Locations/Reunion,Locations/Rhode_Island,Locations/Romania,Locations/Russia,Locations/Samoa,Locations/San_Marino,Locations/Santa_Barbara,Locations/Saudi_Arabia,Locations/Scotland,Locations/Serbia,Locations/Shopping_Mall,Locations/Singapore,Locations/Slovakia,Locations/Slovenia,Locations/South_Africa,Locations/South_America,Locations/South_Australia,Locations/South_Carolina,Locations/South_Dakota,Locations/South_Korea,Locations/Soviet_Union,Locations/Spain,Locations/Sri_Lanka,Locations/Sweden,Locations/Switzerland,Locations/Tahiti,Locations/Taiwan,Locations/Tampa_Bay,Locations/Tampere,Locations/Tbilisi,Locations/Tennessee,Locations/Texas,Locations/Thailand,Locations/The_Bronx,Locations/The_Milky_Way_Galaxy,Locations/The_Netherlands,Locations/The_Philippines,Locations/The_United_States_of_America,Locations/Thousand_Oaks,Locations/Trinidad_and_Tobago,Locations/Turkey,Locations/Ukraine,Locations/United_Arab_Emirates,Locations/United_Kingdom,Locations/Uruguay,Locations/Utah,Locations/Venezuela,Locations/Ventura_County,Locations/Vermont,Locations/Victoria_Australia,Locations/Vietnam,Locations/Virginia,Locations/Wales,Locations/Washington,Locations/Washington_D_C,Locations/West_Virginia,Locations/Western_Australia,Locations/Wisconsin,Locations/Wyoming
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3511761-intro-1680098756.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3511761-intro-1680098756.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_medium,square_small,scale_small,square_avatar,square_tiny,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+McDonald's is a very popular American fast food chain that has served over a billion burgers worldwide.</text>
+      <sha1>rnycmecvuv5fahdo5hpbkjfjqfkif6e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Meat Forest</title>
+    <ns>0</ns>
+    <id>264441</id>
+    <revision>
+      <id>637329</id>
+      <parentid>630228</parentid>
+      <timestamp>2026-02-13T21:30:34Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637329</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="767" sha1="jpo9dbvr4vmljrodoyngfl0sf8atyw3" xml:space="preserve">{{Location
+| Name=Meat Forest
+| Guid=3035-8397
+| Deck=A corrupted forest where all of the flora is raw meat instead. An important location in the game Fight.EXE.
+| Characters=
+| Concepts=Concepts/Cults
+| Objects=Objects/Meat,Objects/Tree
+| Locations=Locations/Cabin,Locations/Forest
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3782334-image_004_0000.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3782334-image_004_0000.png","path":"16\/164924\/","mime":"image\/png","sizes":"scale_super,scale_small,square_avatar,square_tiny,square_small,scale_medium,square_medium,scale_tiny,square_mini","caption":null},"background":[]}' /&gt;
+A corrupted forest where all of the flora is raw meat instead. An important location in the game Fight.EXE.</text>
+      <sha1>jpo9dbvr4vmljrodoyngfl0sf8atyw3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Meow Aid</title>
+    <ns>0</ns>
+    <id>264460</id>
+    <revision>
+      <id>264918</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264918</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="264" sha1="9j92pjiciqiua9d86t8f1pd9evamyfs" xml:space="preserve">{{Location
+| Name=Meow Aid
+| Guid=3035-8417
+| Characters=Characters/Colonel_Hans_Foote,Characters/Dog_58603,Characters/Kamila_58629,Characters/Margaret_58630
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9j92pjiciqiua9d86t8f1pd9evamyfs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Meth Lab</title>
+    <ns>0</ns>
+    <id>264178</id>
+    <revision>
+      <id>264635</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264635</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="192" sha1="hko46ve9eyo3v51o7vu3ha97x3b3370" xml:space="preserve">{{Location
+| Name=Meth Lab
+| Guid=3035-8132
+| Characters=
+| Concepts=
+| Objects=Objects/Meth
+| Locations=Locations/Tacoma
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>hko46ve9eyo3v51o7vu3ha97x3b3370</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Millennia</title>
+    <ns>0</ns>
+    <id>264102</id>
+    <revision>
+      <id>637120</id>
+      <parentid>630019</parentid>
+      <timestamp>2026-02-13T21:28:07Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637120</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1031" sha1="eas4g69w3z1s0dol1wdhub0fkuxumay" xml:space="preserve">{{Location
+| Name=Millennia
+| Guid=3035-8056
+| Deck=A far-off planet that is the setting for The ClueFinders Reading Adventures Ages 9-12: Mystery of the Missing Amulet.
+| Characters=Characters/Cipher_50715,Characters/Doldreks,Characters/Gargoyles,Characters/Ice_Breaker,Characters/Jukebox,Characters/Malicia,Characters/Rock_Monster,Characters/Sorrens,Characters/Stone_Head
+| Concepts=
+| Objects=
+| Locations=Locations/Crystal_Caverns_8055,Locations/Mount_Valdrock,Locations/Mystic_Mountains
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3464773-8256662423-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3464773-8256662423-latest.png","path":"7\/73970\/","mime":"image\/png","sizes":"scale_small,square_medium,square_avatar,square_small,scale_medium,scale_super,square_tiny,square_mini,screen_medium,scale_large,scale_avatar,screen_kubrick","caption":null},"background":[]}' /&gt;
+A far-off planet that is the setting for The ClueFinders Reading Adventures Ages 9-12: Mystery of the Missing Amulet.</text>
+      <sha1>eas4g69w3z1s0dol1wdhub0fkuxumay</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Minefield</title>
+    <ns>0</ns>
+    <id>264442</id>
+    <revision>
+      <id>637330</id>
+      <parentid>630229</parentid>
+      <timestamp>2026-02-13T21:30:35Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637330</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="783" sha1="fpicbpglumbc8qcmfnakcemhc6fba4w" xml:space="preserve">{{Location
+| Name=Minefield
+| Guid=3035-8399
+| Characters=
+| Concepts=Concepts/Bomb_Disposal,Concepts/Explosion,Concepts/Gib,Concepts/Instant_Death,Concepts/Military,Concepts/Missing_Body_Part,Concepts/Nazi,Concepts/War,Concepts/World_War_II
+| Objects=Objects/Anti_Personnel_Mine,Objects/Anti_Tank_Mine,Objects/Claymore,Objects/Explosives,Objects/Mine_Detector,Objects/Severed_Limbs
+| Locations=Locations/Trench
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3785081-minefield.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3785081-minefield.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_super,scale_small,scale_tiny,square_avatar,scale_medium,square_tiny,square_mini","caption":null},"background":[]}' /&gt;</text>
+      <sha1>fpicbpglumbc8qcmfnakcemhc6fba4w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Mirage Planet</title>
+    <ns>0</ns>
+    <id>264204</id>
+    <revision>
+      <id>264661</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264661</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="607" sha1="abca7puh3qmt9xxhd5z4nmfkmay9ra0" xml:space="preserve">{{Location
+| Name=Mirage Planet
+| Guid=3035-8158
+| Deck=The '''Mirage Planet''' is a fictional planet appearing in the the Sega Mega Drive–Genesis version of Teenage Mutant Ninja Turtles: Tournament Fighters. Located in Dimension X, it is where Clone Raphael is fought.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The '''Mirage Planet''' is a fictional planet appearing in the the Sega Mega Drive–Genesis version of Teenage Mutant Ninja Turtles: Tournament Fighters. Located in Dimension X, it is where Clone Raphael is fought.</text>
+      <sha1>abca7puh3qmt9xxhd5z4nmfkmay9ra0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Miyamasuzaka Girls Academy</title>
+    <ns>0</ns>
+    <id>264445</id>
+    <revision>
+      <id>264903</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264903</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="207" sha1="c20n2h4c9ff782hfacyvsuiq3tt3wye" xml:space="preserve">{{Location
+| Name=Miyamasuzaka Girls Academy
+| Guid=3035-8402
+| Characters=Characters/Asahina_Mafuyu
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>c20n2h4c9ff782hfacyvsuiq3tt3wye</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Mobile</title>
+    <ns>0</ns>
+    <id>264305</id>
+    <revision>
+      <id>637260</id>
+      <parentid>630159</parentid>
+      <timestamp>2026-02-13T21:29:45Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637260</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="780" sha1="nzgcp7kjdpvbqm4qrqpw0keok8fi8vf" xml:space="preserve">{{Location
+| Name=Mobile
+| Guid=3035-8260
+| Deck=A port city in Alabama and the home of the University of South Alabama.
+| Characters=
+| Concepts=Concepts/South_Alabama_Jaguars
+| Objects=
+| Locations=Locations/Alabama,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614426-1450135870-City_.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614426-1450135870-City_.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,scale_medium,square_tiny,square_medium,square_small,square_avatar,square_mini,scale_large,screen_kubrick,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+A port city in Alabama and the home of the University of South Alabama.</text>
+      <sha1>nzgcp7kjdpvbqm4qrqpw0keok8fi8vf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Monkey Kingdom</title>
+    <ns>0</ns>
+    <id>264092</id>
+    <revision>
+      <id>637110</id>
+      <parentid>630009</parentid>
+      <timestamp>2026-02-13T21:28:00Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637110</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="951" sha1="5sof7sjzwialudk369tnx94lq5zmbt6" xml:space="preserve">{{Location
+| Name=Monkey Kingdom
+| Guid=3035-8046
+| Deck=A region of Numeria which appears in The ClueFinders 3rd Grade Adventures: Mystery of Mathra.
+| Characters=Characters/Antonio_50644,Characters/Chest_Monkey,Characters/Door_Monkey,Characters/Monument_Monkey,Characters/Oomla,Characters/Queen_Itchybella,Characters/Sentinel_50643,Characters/Vasco_de_Bongo,Characters/Vine_Monkey
+| Concepts=
+| Objects=
+| Locations=Locations/Numeria
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3464016-6638769695-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3464016-6638769695-latest.png","path":"7\/73970\/","mime":"image\/png","sizes":"scale_small,square_medium,square_small,scale_super,scale_medium,square_avatar,square_mini,square_tiny,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A region of Numeria which appears in The ClueFinders 3rd Grade Adventures: Mystery of Mathra.</text>
+      <sha1>5sof7sjzwialudk369tnx94lq5zmbt6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Monroe</title>
+    <ns>0</ns>
+    <id>264275</id>
+    <revision>
+      <id>1007559</id>
+      <parentid>637230</parentid>
+      <timestamp>2026-07-19T17:55:14Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007559</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="788" sha1="rxgvv6i1amsza95f10gjahzhi3zrk17" xml:space="preserve">{{Location
+| Name=Monroe
+| Guid=3035-8230
+| Deck=A city in Louisiana and the home of the University of Louisiana-Monroe.
+| Characters=
+| Concepts=Concepts/Louisiana_Monroe_Warhawks
+| Objects=
+| Locations=Locations/Louisiana,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614368-9379880652-HERO%25.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614368-9379880652-HERO%.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_medium,square_tiny,square_small,square_avatar,scale_medium,scale_small,scale_super,square_mini,scale_large,screen_medium,scale_avatar,screen_kubrick","caption":null},"background":[]}' /&gt;
+A city in Louisiana and the home of the University of Louisiana-Monroe.</text>
+      <sha1>rxgvv6i1amsza95f10gjahzhi3zrk17</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Monument Valley</title>
+    <ns>0</ns>
+    <id>264071</id>
+    <revision>
+      <id>1007562</id>
+      <parentid>637105</parentid>
+      <timestamp>2026-07-19T17:55:21Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007562</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1239" sha1="b5pqbo9duof0w3gmwz38i7cyjjkkd74" xml:space="preserve">{{Location
+| Name=Monument Valley
+| Guid=3035-8025
+| Deck=A geologic formation of a series of red sandstone cliffs along the Arizona-Utah border in the United States. A famous tourist view often depicted in popular culture.
+| Characters=
+| Concepts=Concepts/Native_American,Concepts/Off_Road_Racing,Concepts/Pop_Culture_Reference,Concepts/Vulture
+| Objects=Objects/Boulder,Objects/Rock,Objects/Tumbleweed
+| Locations=Locations/Arizona,Locations/Canyon,Locations/Desert,Locations/Mountains,Locations/The_United_States_of_America,Locations/Utah,Locations/Wild_West
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3628295-%D0%91%D1%83%D1%84%D0%B5%D1%80%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B001.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3628295-\u0411\u0443\u0444\u0435\u0440\u043e\u0431\u043c\u0435\u043d\u043001.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_medium,square_avatar,square_small,scale_super,scale_small,scale_tiny,scale_medium,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":"Monument Valley"},"background":[]}' /&gt;
+A popular backdrop in racing games, western action games and 2D platformers, which often have a Wild West-themed level.</text>
+      <sha1>b5pqbo9duof0w3gmwz38i7cyjjkkd74</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Moonlight Bay</title>
+    <ns>0</ns>
+    <id>264020</id>
+    <revision>
+      <id>637088</id>
+      <parentid>629987</parentid>
+      <timestamp>2026-02-13T21:27:44Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637088</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="682" sha1="6s6h1xfz84hxrodqvrmdchtjvq6qpnt" xml:space="preserve">{{Location
+| Name=Moonlight Bay
+| Guid=3035-7974
+| Deck=Moonlight Bay is a coastal town in the console version of The Sims 3.
+| Characters=Characters/Tyler_Strong
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3447161-moonlight_bay.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3447161-moonlight_bay.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_super,square_small,square_avatar,square_medium,scale_medium,scale_small,square_tiny,square_mini,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+Moonlight Bay is a coastal town in the console version of The Sims 3.</text>
+      <sha1>6s6h1xfz84hxrodqvrmdchtjvq6qpnt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Morgantown</title>
+    <ns>0</ns>
+    <id>264324</id>
+    <revision>
+      <id>637279</id>
+      <parentid>630178</parentid>
+      <timestamp>2026-02-13T21:29:58Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637279</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="785" sha1="mwy5e8gh78p8rl5vovwkgxsxeh52q8n" xml:space="preserve">{{Location
+| Name=Morgantown
+| Guid=3035-8280
+| Deck=A city in West Virginia and the home of the University of West Virginia.
+| Characters=
+| Concepts=Concepts/West_Virginia_Mountaineers
+| Objects=
+| Locations=Locations/Appalachia,Locations/The_United_States_of_America,Locations/West_Virginia
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614443-0431217440-Mount.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614443-0431217440-Mount.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,square_small,square_medium,square_tiny,scale_medium,scale_small,square_avatar,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A city in West Virginia and the home of the University of West Virginia.</text>
+      <sha1>mwy5e8gh78p8rl5vovwkgxsxeh52q8n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Mount Hood National Forest</title>
+    <ns>0</ns>
+    <id>264403</id>
+    <revision>
+      <id>637314</id>
+      <parentid>630213</parentid>
+      <timestamp>2026-02-13T21:30:23Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637314</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1002" sha1="bjmszr9diks7bjz0cwxo082u5bwup8t" xml:space="preserve">{{Location
+| Name=Mount Hood National Forest
+| Guid=3035-8359
+| Deck=A National Forest in the state of Oregon.
+| Characters=Characters/Addy_Walker,Characters/Boozer,Characters/Deacon_St_John,Characters/Iron_Mike,Characters/Rikki_Patil,Characters/Skizzo
+| Concepts=
+| Objects=Objects/Tree
+| Locations=Locations/Earth,Locations/Forest,Locations/Hood_River_County,Locations/Lake,Locations/Lost_Lake,Locations/Lost_Lake_Resort,Locations/North_America,Locations/Oregon,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3732377-mt_hood_natl_forest.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3732377-mt_hood_natl_forest.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_mini,square_avatar,square_small,scale_small,scale_super,square_tiny,square_medium,scale_medium,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+A National Forest in the state of Oregon.</text>
+      <sha1>bjmszr9diks7bjz0cwxo082u5bwup8t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Mount Pleasant</title>
+    <ns>0</ns>
+    <id>264246</id>
+    <revision>
+      <id>637201</id>
+      <parentid>630100</parentid>
+      <timestamp>2026-02-13T21:29:05Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637201</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="737" sha1="7g17qhz1o6xl30u0jf9sb5kjb4hu9f4" xml:space="preserve">{{Location
+| Name=Mount Pleasant
+| Guid=3035-8201
+| Deck=A city in Michigan and home of Central Michigan University.
+| Characters=
+| Concepts=Concepts/Central_Michigan_Chippewas
+| Objects=
+| Locations=Locations/Michigan,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614324-0732706735-cW4XS.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614324-0732706735-cW4XS.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,square_medium,square_avatar,scale_medium,scale_super,scale_small,square_mini,square_tiny,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Michigan and home of Central Michigan University.</text>
+      <sha1>7g17qhz1o6xl30u0jf9sb5kjb4hu9f4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Mount Rainier</title>
+    <ns>0</ns>
+    <id>264073</id>
+    <revision>
+      <id>264530</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264530</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="169" sha1="rdhvvfp25se2zxpyoh2028cgiijsrab" xml:space="preserve">{{Location
+| Name=Mount Rainier
+| Guid=3035-8027
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>rdhvvfp25se2zxpyoh2028cgiijsrab</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Mount Valdrock</title>
+    <ns>0</ns>
+    <id>264103</id>
+    <revision>
+      <id>637121</id>
+      <parentid>630020</parentid>
+      <timestamp>2026-02-13T21:28:07Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637121</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="711" sha1="25i7jt0wx6khlx3h47cuf4x1niehc15" xml:space="preserve">{{Location
+| Name=Mount Valdrock
+| Guid=3035-8057
+| Deck=A volcano  on the planet Millennia located beyond the Mystic Mountains.
+| Characters=Characters/Gargoyles
+| Concepts=
+| Objects=
+| Locations=Locations/Millennia
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3464775-8919548251-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3464775-8919548251-latest.png","path":"7\/73970\/","mime":"image\/png","sizes":"scale_super,square_small,square_avatar,scale_small,scale_medium,square_medium,square_mini,square_tiny,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+A volcano  on the planet Millennia located beyond the Mystic Mountains.</text>
+      <sha1>25i7jt0wx6khlx3h47cuf4x1niehc15</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Mount Vertigo</title>
+    <ns>0</ns>
+    <id>264457</id>
+    <revision>
+      <id>264915</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264915</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="238" sha1="qvtc9ofe7g2mjr3okt8cxn2ppxfk1gv" xml:space="preserve">{{Location
+| Name=Mount Vertigo
+| Guid=3035-8414
+| Characters=Characters/Dog_58603,Characters/Killer_Tomato,Characters/Super_Granny
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>qvtc9ofe7g2mjr3okt8cxn2ppxfk1gv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Muckingham</title>
+    <ns>0</ns>
+    <id>264175</id>
+    <revision>
+      <id>637167</id>
+      <parentid>630066</parentid>
+      <timestamp>2026-02-13T21:28:41Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637167</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="684" sha1="0l1v9fksrjfg7ysoiif9z8kic1fz58c" xml:space="preserve">{{Location
+| Name=Muckingham
+| Guid=3035-8129
+| Deck=Muckingham is a fictional area that PowerWash Simulator takes place in.
+| Characters=
+| Concepts=
+| Objects=Objects/Pressure_Washer
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3528562-1spm65wcbze91.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3528562-1spm65wcbze91.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,scale_small,square_small,square_medium,square_tiny,square_avatar,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Muckingham is a fictional area that PowerWash Simulator takes place in.</text>
+      <sha1>0l1v9fksrjfg7ysoiif9z8kic1fz58c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Muncie</title>
+    <ns>0</ns>
+    <id>264240</id>
+    <revision>
+      <id>637195</id>
+      <parentid>630094</parentid>
+      <timestamp>2026-02-13T21:29:01Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637195</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="708" sha1="m43setd15zifbriqwd68pzzzt3ce6ej" xml:space="preserve">{{Location
+| Name=Muncie
+| Guid=3035-8195
+| Deck=A city in Indiana and home of Ball State University.
+| Characters=
+| Concepts=Concepts/Ball_State_Cardinals
+| Objects=
+| Locations=Locations/Indiana,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614055-5316445289-aeria.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614055-5316445289-aeria.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_tiny,square_medium,square_small,square_avatar,scale_super,scale_medium,scale_small,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+A city in Indiana and home of Ball State University.</text>
+      <sha1>m43setd15zifbriqwd68pzzzt3ce6ej</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Murakumo Fortress</title>
+    <ns>0</ns>
+    <id>264397</id>
+    <revision>
+      <id>264855</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264855</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="173" sha1="6jq9oq98mvjbazuah82dcqgpew8oc7e" xml:space="preserve">{{Location
+| Name=Murakumo Fortress
+| Guid=3035-8353
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>6jq9oq98mvjbazuah82dcqgpew8oc7e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Murfreesboro</title>
+    <ns>0</ns>
+    <id>264281</id>
+    <revision>
+      <id>637236</id>
+      <parentid>630135</parentid>
+      <timestamp>2026-02-13T21:29:29Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637236</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1264" sha1="8elne2egpj0zje5jdq5t30ae0i6zz3b" xml:space="preserve">{{Location
+| Name=Murfreesboro
+| Guid=3035-8236
+| Deck=Murfreesboro is a city in Tennessee and the home of Middle Tennessee State University.
+| Characters=
+| Concepts=Concepts/Middle_Tennessee_Blue_Raiders
+| Objects=
+| Locations=Locations/Southern_United_States,Locations/Tennessee,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614374-9786990816-eyJidWNrZXQiOiJpbXBhY3QtcHJvZHVjdGlvbiIsImtleSI6Il9vcmlnaW5hbHMvN2FjNDZiMTgtNzY0OC00ZmI4LWI0MWEtZDk3MzQ0OGQ2YjI1LzIwMjAwOTEwXzE2MDMxMDAwMF9pT1MuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2NDB9LCJqcGVnIjp7InF1YWxpdHkiOjgwfX19.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614374-9786990816-eyJidWNrZXQiOiJpbXBhY3QtcHJvZHVjdGlvbiIsImtleSI6Il9vcmlnaW5hbHMvN2FjNDZiMTgtNzY0OC00ZmI4LWI0MWEtZDk3MzQ0OGQ2YjI1LzIwMjAwOTEwXzE2MDMxMDAwMF9pT1MuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2NDB9LCJqcGVnIjp7InF1YWxpdHkiOjgwfX19.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,square_tiny,square_small,square_medium,scale_small,scale_medium,square_avatar,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Murfreesboro is a city in Tennessee and the home of Middle Tennessee State University.</text>
+      <sha1>8elne2egpj0zje5jdq5t30ae0i6zz3b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Mysterious Mansion</title>
+    <ns>0</ns>
+    <id>264096</id>
+    <revision>
+      <id>637114</id>
+      <parentid>630013</parentid>
+      <timestamp>2026-02-13T21:28:03Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637114</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="696" sha1="s8oz2pxjhhxvgbakj5492mfub96h9hx" xml:space="preserve">{{Location
+| Name=Mysterious Mansion
+| Guid=3035-8050
+| Deck=The setting of ClueFinders: Mystery Mansion Arcade.
+| Characters=Characters/Alistair_Loveless,Characters/Fletcher_Q_Limburger
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3464293-7464159547-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3464293-7464159547-latest.png","path":"7\/73970\/","mime":"image\/png","sizes":"scale_super,square_tiny,square_small,square_medium,square_avatar,scale_medium,scale_small,square_mini,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+The setting of ClueFinders: Mystery Mansion Arcade.</text>
+      <sha1>s8oz2pxjhhxvgbakj5492mfub96h9hx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Mystic Mountains</title>
+    <ns>0</ns>
+    <id>264104</id>
+    <revision>
+      <id>637122</id>
+      <parentid>630021</parentid>
+      <timestamp>2026-02-13T21:28:08Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637122</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="705" sha1="0tzj063s9lyxqyxl1mukhm669mtgyif" xml:space="preserve">{{Location
+| Name=Mystic Mountains
+| Guid=3035-8058
+| Deck=A region on the planet Millennia.
+| Characters=Characters/Cipher_50715,Characters/Rock_Monster,Characters/Sorrens,Characters/Stone_Head
+| Concepts=
+| Objects=
+| Locations=Locations/Millennia
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3464776-6608940469-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3464776-6608940469-latest.png","path":"7\/73970\/","mime":"image\/png","sizes":"square_medium,square_small,scale_small,square_avatar,scale_super,square_mini,scale_medium,scale_avatar,square_tiny,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+A region on the planet Millennia.</text>
+      <sha1>0tzj063s9lyxqyxl1mukhm669mtgyif</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Namibia</title>
+    <ns>0</ns>
+    <id>263978</id>
+    <revision>
+      <id>264435</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264435</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="178" sha1="iix33j3q9rqbcszqdpdfamo4ripsrk1" xml:space="preserve">{{Location
+| Name=Namibia
+| Guid=3035-7926
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Earth
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>iix33j3q9rqbcszqdpdfamo4ripsrk1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Nayshall</title>
+    <ns>0</ns>
+    <id>264113</id>
+    <revision>
+      <id>637127</id>
+      <parentid>630026</parentid>
+      <timestamp>2026-02-13T21:28:11Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637127</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="790" sha1="o0wimiefsl89gl5o4doccfi2a11d9rb" xml:space="preserve">{{Location
+| Name=Nayshall
+| Guid=3035-8067
+| Deck=Nayshall is a fictional Asian country that is an important setpiece in Street Fighter 6.
+| Characters=Characters/Bosch_49558,Characters/Gerald_Golby,Characters/JP
+| Concepts=
+| Objects=
+| Locations=Locations/Asia
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3478770-9119267323-latest.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3478770-9119267323-latest.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_small,square_medium,square_small,square_avatar,scale_super,square_tiny,scale_medium,scale_tiny,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+Nayshall is a fictional Asian country that is an important setpiece in Street Fighter 6.</text>
+      <sha1>o0wimiefsl89gl5o4doccfi2a11d9rb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Nele Island</title>
+    <ns>0</ns>
+    <id>264344</id>
+    <revision>
+      <id>637290</id>
+      <parentid>630189</parentid>
+      <timestamp>2026-02-13T21:30:06Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637290</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="763" sha1="12505tsysazqgbtit4m6k87oxmvme5m" xml:space="preserve">{{Location
+| Name=Nele Island
+| Guid=3035-8300
+| Deck=A fictional Hawai'ian island in the Like a Dragon series.
+| Characters=Characters/Goro_Majima,Characters/Ichiban_Kasuga,Characters/Rodriguez_55711
+| Concepts=
+| Objects=
+| Locations=Locations/Hawaii,Locations/Island
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3628256-4417540903-Like-.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3628256-4417540903-Like-.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_tiny,scale_super,square_medium,square_small,square_avatar,square_tiny,screen_medium,scale_large,square_mini,scale_small,scale_medium,scale_avatar,screen_kubrick","caption":null},"background":[]}' /&gt;
+A fictional Hawai'ian island in the Like a Dragon series.</text>
+      <sha1>12505tsysazqgbtit4m6k87oxmvme5m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Nemea Town</title>
+    <ns>0</ns>
+    <id>264009</id>
+    <revision>
+      <id>637077</id>
+      <parentid>629976</parentid>
+      <timestamp>2026-02-13T21:27:36Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637077</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="819" sha1="szf8dmpd5mkotespad5kt8zksjnjvpy" xml:space="preserve">{{Location
+| Name=Nemea Town
+| Guid=3035-7963
+| Deck=Town in Harvestella that is perpetually spring all year long due to its close proximity to the spring Seaslight.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/20/202039/3445118-2022110613575500-e0a513f2ff231ca5e32e8423db190112.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3445118-2022110613575500-e0a513f2ff231ca5e32e8423db190112.jpg","path":"20\/202039\/","mime":"image\/jpeg","sizes":"scale_small,square_small,scale_medium,scale_super,square_medium,square_avatar,square_tiny,scale_avatar,square_mini,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Town in Harvestella that is perpetually spring all year long due to its close proximity to the spring Seaslight.</text>
+      <sha1>szf8dmpd5mkotespad5kt8zksjnjvpy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Neo Tilted</title>
+    <ns>0</ns>
+    <id>264418</id>
+    <revision>
+      <id>264876</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264876</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="166" sha1="687tftjgrps7ox59f8xdejd4opkui7h" xml:space="preserve">{{Location
+| Name=Neo Tilted
+| Guid=3035-8374
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>687tftjgrps7ox59f8xdejd4opkui7h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Neomuna</title>
+    <ns>0</ns>
+    <id>264018</id>
+    <revision>
+      <id>637086</id>
+      <parentid>629985</parentid>
+      <timestamp>2026-02-13T21:27:43Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637086</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1312" sha1="d30l80r81n6hhzaiuqn8omqw8sz2dzo" xml:space="preserve">{{Location
+| Name=Neomuna
+| Guid=3035-7972
+| Deck=Neomuna is a destination in Lightfall. It is a Human city on Neptune that developed in secret during or shortly after the Collapse.
+
+It is defended by warriors known as Cloud Striders, who have voluntarily undergone cybernetic augmentation at the cost of significantly reducing their lifespan.
+| Characters=Characters/Emperor_Calus,Characters/Nimbus,Characters/Osiris_37711
+| Concepts=Concepts/Cabal_9935,Concepts/Human,Concepts/MacGuffin,Concepts/Psion,Concepts/Vex
+| Objects=
+| Locations=Locations/City,Locations/Cyberspace,Locations/Neptune
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3454111-7252229639-Neomu.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3454111-7252229639-Neomu.jpg","path":"52\/520822\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,square_medium,scale_medium,scale_super,scale_small,square_tiny,square_mini,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+Neomuna is a destination in Lightfall. It is a Human city on Neptune that developed in secret during or shortly after the Collapse.
+
+It is defended by warriors known as Cloud Striders, who have voluntarily undergone cybernetic augmentation at the cost of significantly reducing their lifespan.</text>
+      <sha1>d30l80r81n6hhzaiuqn8omqw8sz2dzo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Neon</title>
+    <ns>0</ns>
+    <id>264364</id>
+    <revision>
+      <id>264822</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264822</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="160" sha1="dece9cju6a5otrtkgjzd8ch2d9q07lg" xml:space="preserve">{{Location
+| Name=Neon
+| Guid=3035-8320
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>dece9cju6a5otrtkgjzd8ch2d9q07lg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Neria</title>
+    <ns>0</ns>
+    <id>264226</id>
+    <revision>
+      <id>264684</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264684</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="161" sha1="6jtszzznegaxwz8n0zhnjosuuyepm6d" xml:space="preserve">{{Location
+| Name=Neria
+| Guid=3035-8181
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>6jtszzznegaxwz8n0zhnjosuuyepm6d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Nessus</title>
+    <ns>0</ns>
+    <id>264054</id>
+    <revision>
+      <id>637099</id>
+      <parentid>629998</parentid>
+      <timestamp>2026-02-13T21:27:52Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637099</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="929" sha1="1mzd9l3eft6p1m2j9o0d56iswztrr0m" xml:space="preserve">{{Location
+| Name=Nessus
+| Guid=3035-8008
+| Deck=Nessus is a very red centaur on an eccentric orbit, located beyond Saturn in the outer Solar System.
+| Characters=Characters/Cayde_6,Characters/Emperor_Calus,Characters/Failsafe,Characters/Xur
+| Concepts=Concepts/Cabal_9935,Concepts/Fallen_9932,Concepts/Psion,Concepts/Red_Legion,Concepts/Vex
+| Objects=Objects/Leviathan_7194
+| Locations=Locations/Forest
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3454106-8865291399-7066_.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3454106-8865291399-7066_.jpg","path":"52\/520822\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_small,scale_small,square_tiny,square_avatar,square_medium,square_mini,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+Nessus is a very red centaur on an eccentric orbit, located beyond Saturn in the outer Solar System.</text>
+      <sha1>1mzd9l3eft6p1m2j9o0d56iswztrr0m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Netherlands Antilles</title>
+    <ns>0</ns>
+    <id>264046</id>
+    <revision>
+      <id>264503</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264503</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="514" sha1="s3mjdetxi6agkck0t20xj9ebte4mfr8" xml:space="preserve">{{Location
+| Name=Netherlands Antilles
+| Guid=3035-8000
+| Deck=The Netherlands Antilles was, until 10 October 2010, an island territory in the Caribbean Sea, associated to the Netherlands. Its capital city was called Willemstad.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The Netherlands Antilles was, until 10 October 2010, an island territory in the Caribbean Sea, associated to the Netherlands. Its capital city was called Willemstad.</text>
+      <sha1>s3mjdetxi6agkck0t20xj9ebte4mfr8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/New Atlantis</title>
+    <ns>0</ns>
+    <id>264363</id>
+    <revision>
+      <id>264821</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264821</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="233" sha1="5jjbhqoylb4mi1hnzwll1lob7wha224" xml:space="preserve">{{Location
+| Name=New Atlantis
+| Guid=3035-8319
+| Characters=Characters/Barrett_56361,Characters/Sarah_Morgan,Characters/Vasco
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5jjbhqoylb4mi1hnzwll1lob7wha224</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/New Brunswick</title>
+    <ns>0</ns>
+    <id>264360</id>
+    <revision>
+      <id>264818</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264818</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="169" sha1="534jx9qpy8oxm2wnj2kb8hrsr5d88gn" xml:space="preserve">{{Location
+| Name=New Brunswick
+| Guid=3035-8316
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>534jx9qpy8oxm2wnj2kb8hrsr5d88gn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/New Donk City</title>
+    <ns>0</ns>
+    <id>264473</id>
+    <revision>
+      <id>264931</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264931</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="169" sha1="iwf71qepghrrss6ihtsga283xr06x15" xml:space="preserve">{{Location
+| Name=New Donk City
+| Guid=3035-8430
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>iwf71qepghrrss6ihtsga283xr06x15</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Niagara Falls</title>
+    <ns>0</ns>
+    <id>264440</id>
+    <revision>
+      <id>637328</id>
+      <parentid>630227</parentid>
+      <timestamp>2026-02-13T21:30:33Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637328</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="484" sha1="olbl2efhy8jzijy7dua80hm4kvowzd8" xml:space="preserve">{{Location
+| Name=Niagara Falls
+| Guid=3035-8396
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3778264-7239695987-1024p.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3778264-7239695987-1024p.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_super,scale_small,square_mini,square_medium,square_avatar,scale_tiny,square_tiny","caption":null},"background":[]}' /&gt;</text>
+      <sha1>olbl2efhy8jzijy7dua80hm4kvowzd8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Nicaragua</title>
+    <ns>0</ns>
+    <id>263979</id>
+    <revision>
+      <id>637059</id>
+      <parentid>629958</parentid>
+      <timestamp>2026-02-13T21:27:23Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637059</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="797" sha1="1hhuvjhoi0nsxvkvk98wi82o5ygccj4" xml:space="preserve">{{Location
+| Name=Nicaragua
+| Guid=3035-7927
+| Deck=A large country in central America.
+| Characters=Characters/Big_Boss,Characters/Strangelove
+| Concepts=
+| Objects=Objects/Bandana
+| Locations=Locations/Earth,Locations/Lake,Locations/Lake_Nicaragua,Locations/McDonalds,Locations/South_America,Locations/Taco_Bell
+| Image=https://www.giantbomb.com/a/uploads/scale_super/105/1056167/3437828-image_2023-01-03_034946848.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3437828-image_2023-01-03_034946848.png","path":"105\/1056167\/","mime":"image\/png","sizes":"square_medium,square_avatar,square_small,scale_super,scale_small,scale_medium,square_tiny,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A large country in central America.</text>
+      <sha1>1hhuvjhoi0nsxvkvk98wi82o5ygccj4</sha1>
+    </revision>
+  </page>
+</mediawiki>

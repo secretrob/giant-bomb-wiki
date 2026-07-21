@@ -1,0 +1,1979 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Characters/Dog 58603</title>
+    <ns>0</ns>
+    <id>57821</id>
+    <revision>
+      <id>57937</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57937</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1007" sha1="dfmcyvjlev16iycurx9ez6s16pmos96" xml:space="preserve">{{Character
+| Name=Dog
+| Guid=3005-58603
+| Concepts=Concepts/Dalmatian,Concepts/Dog,Concepts/Respawn
+| Enemies=Characters/Hilda_58632,Characters/Kamila_58629,Characters/Margaret_58630,Characters/Super_Granny
+| Franchises=Franchises/Super_Granny
+| Friends=Characters/Gnome_58602,Characters/Gorilla_58609,Characters/Monkey_43350,Characters/Mr_Fang,Characters/Robo_Kitty,Characters/Robot,Characters/Tiki_Man
+| Games=Games/Granny_in_Paradise,Games/Super_Granny,Games/Super_Granny_3,Games/Super_Granny_4,Games/Super_Granny_Winter_Wonderland
+| Locations=Locations/Cannery,Locations/Cave,Locations/Cruise_Ship,Locations/Egypt,Locations/Factory,Locations/Farm,Locations/Forest,Locations/Ice_Cave,Locations/Jungle,Locations/Las_Vegas,Locations/Meow_Aid,Locations/Mount_Vertigo,Locations/Resort,Locations/Splashbucklers,Locations/The_American_FUNtier,Locations/Transylfangia,Locations/Underwater,Locations/Volcano
+| People=
+| Objects=Objects/Bone
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>dfmcyvjlev16iycurx9ez6s16pmos96</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Dominic The Don Donatello</title>
+    <ns>0</ns>
+    <id>57852</id>
+    <revision>
+      <id>722086</id>
+      <parentid>722081</parentid>
+      <timestamp>2026-02-14T19:41:11Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722086</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="735" sha1="2ld86nwjggxg7ou6qfcxed9yfmkn651" xml:space="preserve">{{Character
+| Name=Dominic 'The Don' Donatello
+| Guid=3005-58635
+| Deck=From the Tiger Woods PGA Tour games.
+| Concepts=Concepts/Racial_Stereotypes
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Tiger_Woods_PGA_Tour_2003,Games/Tiger_Woods_PGA_Tour_2004
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/239/2391650/3809811-thedon.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3809811-thedon.jpg","path":"239\/2391650\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_tiny,scale_medium,square_medium,scale_small,square_avatar,screen_medium,screen_kubrick,scale_avatar,square_mini,scale_large","caption":null},"background":[]}' /&gt;
+From the Tiger Woods PGA Tour games.</text>
+      <sha1>2ld86nwjggxg7ou6qfcxed9yfmkn651</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Doppelganger Tomb Raider</title>
+    <ns>0</ns>
+    <id>464551</id>
+    <revision>
+      <id>994129</id>
+      <parentid>739478</parentid>
+      <timestamp>2026-07-19T01:05:06Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>994129</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5602" sha1="eccwmqojzu620cl0pn6hcnd38lxtyug" xml:space="preserve">{{Character
+| Name=Doppelgänger
+| Guid=3005-11293
+| Deck=The Doppelgängers are clones of Lara Croft that was created by Jacqueline Natla.
+| Gender=Non-Binary
+| Concepts=Concepts/Alternate_Costume,Concepts/Clone,Concepts/Copy_Ability,Concepts/Evil_Twin,Concepts/Female_Antagonists,Concepts/Female_Protagonists,Concepts/Henchman,Concepts/Regenerating_Health,Concepts/Reincarnation,Concepts/Super_Speed,Concepts/Super_Strength,Concepts/Villain
+| Enemies=Characters/Alister_Fletcher,Characters/Amanda_Evert,Characters/Lara_Croft,Characters/Zip
+| Franchises=Franchises/Tomb_Raider
+| Friends=Characters/Amanda_Evert,Characters/Jacqueline_Natla,Characters/Lara_Croft
+| Games=Games/Lara_Croft_Tomb_Raider_Anniversary,Games/The_Tomb_Raider_Trilogy,Games/Tomb_Raider,Games/Tomb_Raider_Collection_1,Games/Tomb_Raider_I_II_III_Remastered,Games/Tomb_Raider_Underworld
+| Locations=Locations/Atlantis
+| People=
+| Objects=Objects/Pistol
+| Image=https://www.giantbomb.com/a/uploads/scale_super/12/120992/2271838-tomb_raider_dopplegangers.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2271838-tomb_raider_dopplegangers.jpg","path":"12\/120992\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,scale_small,square_tiny,square_medium,square_mini,scale_medium,screen_medium,scale_large,scale_avatar,scale_super,screen_kubrick","caption":"A Gang of Gangers"},"background":[]}' /&gt;
+
+==Characteristics==
+The appearance of the Doppelgänger is identical to that of [[Characters/Lara_Croft|Lara]], but her hair is a darker shade of brown, she has dark lines around her eyes, she has darker lips and her skin is paler and veiny. She can not only move exactly in-synchronization with Lara, but can also predict Lara's moves and dodge or counter her attacks. She remains silent throughout all of her appearances.
+
+The Doppelgänger wears her hair tied back in the classic Lara Croft plait and wears fingerless gloves identical to Lara's. Her outfit is similar to Lara's style of outfit but with a darker tone. She wears what appears to be a black leather one-piece with a zip down the front and two zip-pockets, black leather trousers hanging slightly below her waist and black combat boots. She has two gun holsters attached to her trousers.
+
+
+==Tomb Raider &amp;amp; Anniversary==
+The Lara copy is first encountered in the [[Locations/Atlantis|Atlantis]] level of [[Games/Tomb_Raider|Tomb Raider]]. It reappears in the remake [[Games/Lara_Croft_Tomb_Raider_Anniversary|Tomb Raider Anniversary]], in the Lost Island level The Great Pyramid. Lara manages to outsmart the Atlantean by tricking it into a pit of lava covered by a trapdoor.
+
+
+==Underworld==
+A Doppelgänger appears again when Lara returns to Croft Manor to find it in flames. The Doppelgänger attacked [[Characters/Zip|Zip]] and stole [[Characters/Amanda_Evert|Amanda]]'s wraith stone from Lara's vault using a retina scanner. When Lara finds Zip and [[Characters/Winston_Smith|Winston]], Zip attacks her, thinking that the Doppelgänger was her, but Winston and Lara manage to convince Zip that it wasn't her who raided the manor. Lara makes her way to the tech room to view the manor's security footage where she encounters the Doppelgänger on the other side of a glass screen. She is suspicious of the Doppelgänger but thinks she might be a reflection and tests it by making several movements which the Doppelgänger manages to mimic perfectly. However, the Doppelgänger then shoots [[Characters/Alister_Fletcher|Alister]] and confronts Lara directly. Using her ability to predict Lara's moves she dodges all of her gunfire and manages to bring Lara to the floor. The Doppelgänger escapes and Alister dies of the gunshot she fired at him. Zip and Winston see the Doppelgänger escaping the mansion and Lara brings Alister's body out and realizes exactly what the Doppelgänger is; a new clone of her created by [[Characters/Jacqueline_Natla|Natla]].
+
+When Lara confronts Natla, the Doppelgänger and Amanda appear. But the Doppelgänger throws Amanda down the shaft in the chamber and when Lara tries to attack her using Mjöllnir she dodges all of her attacks and escapes. The final confrontation between Lara and the Doppelgänger takes place in Helheim where the Doppelgänger brings Lara to the floor, but before she can hit her Amanda appears and uses her powers to throw the Doppelgänger into a pit with a pool of deadly etir at the bottom.
+
+
+==Lara's Shadow==
+Lara's Shadow sees the player taking control of the Doppelgänger. The story picks up where the Doppelgänger was thrown down a pit by Amanda. It has landed on a safe platform at the edge of the Eitr pool and is able to use its Shadow Powers to escape the pit and follow Lara. It however arrives after Lara's and Amanda's departure and finds the wounded Jacqueline Natla (who still survived after being hit by [[Objects/Mjollnir|Mjolnir]]) near the destroyed Midgard Serpent. It helps Natla back to a control room of Atlantean design and then sets out to start up a machinery for Natla. She is then ordered to kill Lara. And after dispatching Lara, Natla orders the doppelgänger to "end your own life as well."
+
+At this point the story jumps to the events of Beneath the Ashes, where Lara takes control over the doppelgänger by saying the phrase "Okh Eshivar". It becomes clear that Lara does not hold the doppelgänger responsible for Alister's death as it was just a puppet in Natla's foul game. Lara turns the tables by ordering the doppelgänger to go after Natla to torture and kill her and to not follow any more orders after this, thus freeing it from any master.</text>
+      <sha1>eccwmqojzu620cl0pn6hcnd38lxtyug</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Doug Funnie</title>
+    <ns>0</ns>
+    <id>57760</id>
+    <revision>
+      <id>974743</id>
+      <parentid>722001</parentid>
+      <timestamp>2026-06-08T01:47:09Z</timestamp>
+      <contributor>
+        <username>Nickelodeon</username>
+        <id>1239</id>
+      </contributor>
+      <origin>974743</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="642" sha1="ckzeufvu6n19jakvd42elv3xb9x9ymo" xml:space="preserve">{{Character
+|Guid=3005-58542
+|Name=Doug Funnie
+|Image=https://www.giantbomb.com/a/uploads/scale_super/239/2391650/3799548-profile_-_doug_funnie.png
+|Deck=He's the main character from Doug.
+|Gender=Male
+|Friends=Characters/Porkchop
+|Games=Games/Disneys_Doug_Dougs_Big_Game
+}}
+&lt;div id='imageData' data-json='{"infobox":{"file":"3799548-profile_-_doug_funnie.png","path":"239\/2391650\/","mime":"image\/png","sizes":"scale_super,scale_medium,square_tiny,square_medium,square_small,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+He's the main character from Doug.</text>
+      <sha1>ckzeufvu6n19jakvd42elv3xb9x9ymo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Dragon Woo</title>
+    <ns>0</ns>
+    <id>57815</id>
+    <revision>
+      <id>57931</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57931</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="325" sha1="iurby9ml4pubqjzxzvynnz2ffme2evh" xml:space="preserve">{{Character
+| Name=Dragon Woo
+| Guid=3005-58597
+| Concepts=
+| Enemies=Characters/Arthur_Van_Smythe,Characters/Mr_Thornley,Characters/Skip_Hildegard
+| Franchises=
+| Friends=
+| Games=Games/Crash_N_the_Boys_Street_Challenge
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>iurby9ml4pubqjzxzvynnz2ffme2evh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Duleep Singh</title>
+    <ns>0</ns>
+    <id>58046</id>
+    <revision>
+      <id>722152</id>
+      <parentid>722149</parentid>
+      <timestamp>2026-02-14T19:41:38Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722152</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1334" sha1="4is9d3p184e4f7kq4502v3cv3rzdpwx" xml:space="preserve">{{Character
+| Name=Duleep Singh
+| Guid=3005-58829
+| Deck=Duleep Singh (1838 – 1893), also known as Dalip Singh or the Black Prince of Perthshire, was the last Maharaja of the Sikh Empire as Ranjit Singh's youngest son, ruling from 1843 to 1849. He was also an associate of, and great-uncle to, the Assassin Henry Green.
+| Concepts=Concepts/A_I_Companion,Concepts/Historical_Figures_in_Fictional_Settings,Concepts/Sikhism
+| Enemies=
+| Franchises=
+| Friends=Characters/Evie_Frye,Characters/Henry_Green,Characters/Queen_Victoria
+| Games=Games/Assassins_Creed_Syndicate
+| Locations=Locations/India,Locations/United_Kingdom
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3828767-2664351126-assas.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3828767-2664351126-assas.jpg","path":"151\/1511438\/","mime":"image\/png","sizes":"scale_super,scale_small,square_small,square_medium,square_tiny,square_avatar,scale_medium,screen_medium,square_mini,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+Duleep Singh (1838 – 1893), also known as Dalip Singh or the Black Prince of Perthshire, was the last Maharaja of the Sikh Empire as Ranjit Singh's youngest son, ruling from 1843 to 1849. He was also an associate of, and great-uncle to, the Assassin Henry Green.</text>
+      <sha1>4is9d3p184e4f7kq4502v3cv3rzdpwx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Dunkel Vertex</title>
+    <ns>0</ns>
+    <id>57982</id>
+    <revision>
+      <id>994198</id>
+      <parentid>740794</parentid>
+      <timestamp>2026-07-19T01:09:25Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>994198</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1363" sha1="86z6zeiqnzr94793yegf75fky73ek8q" xml:space="preserve">{{Character
+| Name=Dunkel Vertex
+| Guid=3005-58765
+| Deck=The minor antagonist of Chaos Code series. He's colonel of Earth Union who has since been leading the union against a Kurenai organization.
+| Concepts=Concepts/Boss_Fight,Concepts/Cyborg,Concepts/Evil_Laugh,Concepts/Geriatric_Antagonist,Concepts/Lightning_Manipulation,Concepts/Male_Antagonist,Concepts/Mix_Up,Concepts/Shoryuken,Concepts/SNK_Boss_Syndrome,Concepts/Spin_Attack,Concepts/Terrorist,Concepts/Villain,Concepts/Zoning_Character
+| Enemies=
+| Franchises=
+| Friends=Characters/Hikaru_Otagi,Characters/Lupinus
+| Games=Games/Chaos_Code,Games/Chaos_Code_Nemesis_Experiment,Games/Chaos_Code_New_Sign_of_Catastrophe
+| Locations=
+| People=
+| Objects=Objects/Gloves,Objects/Hat,Objects/Military_Uniform,Objects/Mustache
+| Image=https://www.giantbomb.com/a/uploads/original/36/361609/3820545-dunkelvertexscreenshot.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3820545-dunkelvertexscreenshot.png","path":"36\/361609\/","mime":"image\/png","sizes":"scale_medium,scale_super,scale_small,square_small,square_medium,square_tiny,square_avatar,screen_medium,screen_kubrick,scale_large,square_mini,scale_avatar,scale_tiny","caption":null},"background":[]}' /&gt;
+The minor antagonist of Chaos Code series. He's colonel of Earth Union who has since been leading the union against a Kurenai organization.</text>
+      <sha1>86z6zeiqnzr94793yegf75fky73ek8q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Dylan Faden</title>
+    <ns>0</ns>
+    <id>624671</id>
+    <revision>
+      <id>974248</id>
+      <timestamp>2026-06-02T23:53:51Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Character |Guid=2fa113e1-abec-46f1-9b4b-c334157b50cd |Name=Dylan Faden |Image=Dylan Faden - Portrait.webp |Deck=The brother of Jesse Faden, the protagonist of Control. Dylan becomes the protagonist in Control Resonant. |Gender=Male |Friends=Characters/Jesse Faden |Games=Games/Control, Games/Control 2 }}"</comment>
+      <origin>974248</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="306" sha1="0lrjge3y60va1dbvbzkj1ok8zo1ib63" xml:space="preserve">{{Character
+|Guid=2fa113e1-abec-46f1-9b4b-c334157b50cd
+|Name=Dylan Faden
+|Image=Dylan Faden - Portrait.webp
+|Deck=The brother of Jesse Faden, the protagonist of Control. Dylan becomes the protagonist in Control Resonant.
+|Gender=Male
+|Friends=Characters/Jesse Faden
+|Games=Games/Control, Games/Control 2
+}}</text>
+      <sha1>0lrjge3y60va1dbvbzkj1ok8zo1ib63</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Eagle Street Fighter</title>
+    <ns>0</ns>
+    <id>464532</id>
+    <revision>
+      <id>994211</id>
+      <parentid>739264</parentid>
+      <timestamp>2026-07-19T01:10:08Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>994211</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1511" sha1="an3zn4f37pq51h6lo3x8namno0jycpr" xml:space="preserve">{{Character
+| Name=Eagle
+| Guid=3005-4820
+| Deck=British bouncer who appears in the original Street Fighter.
+| Gender=Male
+| Concepts=Concepts/Combo,Concepts/LGBT,Concepts/Martial_Arts,Concepts/Music_Reference,Concepts/Special_Attack,Concepts/Unknown_Age,Concepts/Voice_Acting
+| Enemies=Characters/Guile,Characters/Sagat
+| Franchises=Franchises/Capcom_Versus,Franchises/SNK_vs_Capcom,Franchises/Street_Fighter,Franchises/Street_Fighter_Alpha
+| Friends=Characters/Adon
+| Games=Games/10_Pack,Games/Capcom_Arcade_2nd_Stadium,Games/Capcom_Arcade_Hits_Volume_1,Games/Capcom_Fighting_Collection_2,Games/Capcom_vs_SNK_2_Mark_of_the_Millennium,Games/SNK_vs_Capcom_Card_Fighters_DS,Games/Street_Fighter,Games/Street_Fighter_30th_Anniversary_Collection,Games/Street_Fighter_Alpha_3,Games/Street_Fighter_Alpha_3_MAX,Games/Street_Fighter_Series
+| Locations=Locations/England
+| People=
+| Objects=Objects/Bo,Objects/Mustache,Objects/Suspenders
+| Image=https://www.giantbomb.com/a/uploads/scale_super/2/27765/1356142-eagle.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"1356142-eagle.jpg","path":"2\/27765\/","mime":"image\/jpeg","sizes":"square_tiny,square_medium,scale_super,scale_medium,scale_small,square_small,square_mini,square_avatar,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":""},"background":[]}' /&gt;
+Eagle was hired to defeat [[Characters/Sagat|Sagat]] in the first World Warrior tournament but ultimately failed. He fights with the Bojutsu style which implements two staffs (or Bo).</text>
+      <sha1>an3zn4f37pq51h6lo3x8namno0jycpr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Ed Green</title>
+    <ns>0</ns>
+    <id>58051</id>
+    <revision>
+      <id>58168</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58168</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="244" sha1="9m3sv3wrq4rukh2eajbwr6kpazm8tu5" xml:space="preserve">{{Character
+| Name=Ed Green
+| Guid=3005-58834
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Law_And_Order_Justice_is_Served
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9m3sv3wrq4rukh2eajbwr6kpazm8tu5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Edge WWE</title>
+    <ns>0</ns>
+    <id>464511</id>
+    <revision>
+      <id>994226</id>
+      <parentid>738965</parentid>
+      <timestamp>2026-07-19T01:11:04Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>994226</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3497" sha1="q78u5qklw4r603uay69jedt09d2yrdn" xml:space="preserve">{{Character
+| Name=Edge
+| Guid=3005-566
+| Deck=Edge is a Canadian professional wrestler who has appeared in many WWE games.
+| RealName=Adam Joseph Copeland
+| Gender=Male
+| Birthday=1973-10-30
+| Concepts=Concepts/Changing_Sides,Concepts/Character_Models_Based_on_Actual_People,Concepts/Character_Select_Screen,Concepts/Finishing_Move,Concepts/Licensed_Game,Concepts/Professional_Wrestler,Concepts/Real_Photos_on_Cover_Art,Concepts/Taunting,Concepts/Team_Up_Attack,Concepts/WrestleMania
+| Enemies=Characters/Alberto_Del_Rio,Characters/Batista,Characters/Chris_Benoit,Characters/Chris_Jericho,Characters/Christian,Characters/Eddie_Guerrero,Characters/Jeff_Hardy,Characters/John_Cena,Characters/Kane_572,Characters/Kurt_Angle,Characters/Matt_Hardy,Characters/Mick_Foley,Characters/Randy_Orton,Characters/Rey_Mysterio,Characters/Ric_Flair,Characters/Roman_Reigns,Characters/The_Undertaker,Characters/Triple_H,Characters/William_Regal
+| Franchises=Franchises/ECW,Franchises/WWE,Franchises/WWE_2K,Franchises/WWE_SmackDown,Franchises/WWE_Smackdown_vs_Raw
+| Friends=Characters/Bret_Hart,Characters/Chavo_Guerrero,Characters/Chris_Jericho,Characters/Christian,Characters/Curt_Hawkins,Characters/Eddie_Guerrero,Characters/Gangrel,Characters/Hulk_Hogan,Characters/John_Bradshaw_Layfield,Characters/Kurt_Angle,Characters/Lita,Characters/Matt_Hardy,Characters/Mick_Foley,Characters/Montel_Vontavious_Porter,Characters/Rey_Mysterio,Characters/Rhino,Characters/Vickie_Guerrero,Characters/Zack_Ryder
+| Games=Games/WWE_12,Games/WWE_13,Games/WWE_2K_Battlegrounds,Games/WWE_2K14,Games/WWE_2K15,Games/WWE_2K17,Games/WWE_2K18,Games/WWE_2K19,Games/WWE_2K20,Games/WWE_2K22,Games/WWE_2K23,Games/WWE_Aftershock,Games/WWE_All_Stars,Games/WWE_Champions,Games/WWE_Crush_Hour,Games/WWE_Day_of_Reckoning,Games/WWE_Day_of_Reckoning_2,Games/WWE_Raw_2,Games/WWE_Road_to_WrestleMania_X8,Games/WWE_SmackDown_Here_Comes_the_Pain,Games/WWE_SmackDown_Shut_Your_Mouth,Games/WWE_SmackDown_vs_RAW,Games/WWE_SmackDown_vs_RAW_2006,Games/WWE_SmackDown_vs_RAW_2007,Games/WWE_SmackDown_vs_RAW_2008,Games/WWE_SmackDown_vs_RAW_2009,Games/WWE_SmackDown_vs_RAW_2010,Games/WWE_SmackDown_vs_RAW_2011,Games/WWE_SuperCard,Games/WWE_Survivor_Series,Games/WWE_WrestleFest,Games/WWE_WrestleMania_21,Games/WWE_WrestleMania_X8,Games/WWE_WrestleMania_XIX,Games/WWF_Attitude,Games/WWF_No_Mercy,Games/WWF_Raw_2002,Games/WWF_Road_to_WrestleMania,Games/WWF_Royal_Rumble_2000,Games/WWF_SmackDown,Games/WWF_SmackDown_2_Know_Your_Role,Games/WWF_SmackDown_Just_Bring_It,Games/WWF_WrestleMania_2000
+| Locations=Locations/Canada
+| People=People/Matt_Lasky
+| Objects=Objects/Coat,Objects/Ladder,Objects/Steel_Chair,Objects/Table,Objects/WWE_Championship,Objects/WWE_Intercontinental_Championship
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/7383/2283306-edge.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2283306-edge.png","path":"0\/7383\/","mime":"image\/png","sizes":"square_small,square_tiny,square_medium,scale_super,scale_tiny,scale_small,square_mini,square_avatar,scale_medium,screen_medium,scale_avatar,scale_large,screen_kubrick","caption":""},"background":[]}' /&gt;
+Nicknames:
+
+* "King Edge the Awesome"
+* "Mr. Money in the Bank"
+* "The Rated-R Superstar"
+* "The Ultimate Opportunist"
+* "The Master Manipulator"
+Finishers:
+
+* Spear
+* Edgecution (or Buzz Kill)
+* Edgecator
+* Downward Spiral
+Signature Moves:
+
+* Big Boot
+* Diving Crossbody
+* Flapjack
+* Missile Dropkick
+* Spinning Heel Kick
+* Edge-O-Matic
+* Electric Chair
+* Winning Edge</text>
+      <sha1>q78u5qklw4r603uay69jedt09d2yrdn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Elvis Perfect Dark</title>
+    <ns>0</ns>
+    <id>464529</id>
+    <revision>
+      <id>994258</id>
+      <parentid>739217</parentid>
+      <timestamp>2026-07-19T01:12:46Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>994258</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1155" sha1="sgnzmpaac9mzap1hahin61zicbw9pj2" xml:space="preserve">{{Character
+| Name="Elvis"
+| Guid=3005-3984
+| Deck="Elvis" is the nickname for the alien friend to Joanna Dark in Perfect Dark for the N64.  He aided Joanna with his intellect and alien weaponry to save the world.
+| RealName=Aelphaeis Mangarae
+| Gender=Male
+| Concepts=Concepts/Alien,Concepts/Avatar_Awards,Concepts/Greys
+| Enemies=Characters/Cassandra_De_Vries,Characters/Mr_Blonde,Characters/Trent
+| Franchises=Franchises/Perfect_Dark
+| Friends=Characters/Daniel_Carrington,Characters/Joanna_Dark
+| Games=Games/Perfect_Dark_2000
+| Locations=Locations/Area_51
+| People=
+| Objects=Objects/Klobb
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/4024/288875-uselvis.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"288875-uselvis.jpg","path":"0\/4024\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,scale_small,scale_medium,screen_medium,scale_large,scale_avatar,square_mini,square_tiny,square_medium,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+"Elvis" is the nickname for the alien friend to Joanna Dark in Perfect Dark for the N64.  He aided Joanna with his intellect and alien weaponry to save the world.</text>
+      <sha1>sgnzmpaac9mzap1hahin61zicbw9pj2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Emma Rockford</title>
+    <ns>0</ns>
+    <id>474263</id>
+    <revision>
+      <id>973685</id>
+      <parentid>948930</parentid>
+      <timestamp>2026-04-25T21:24:32Z</timestamp>
+      <contributor>
+        <username>Dochaus</username>
+        <id>140</id>
+      </contributor>
+      <origin>973685</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="393" sha1="ttz0u2d6w2vpokeqea64ghcm7j9rbq1" xml:space="preserve">{{Character
+|Guid=37f6b4d0-db37-4b5d-a46e-45b95f5f2300
+|Name=Emma Rockford
+|Image=EmmaR profile.png
+|Deck=Assistant DA for the State. Sleep deprived and overworked, but incredibly perceptive as she hunts down the Heartbreak Killer.
+|RealName=Emma Rockford
+|Gender=Female
+|Concepts=Concepts/Lawyer
+|Enemies=Characters/Morgan 256356
+|Friends=Characters/Morgan 256356
+|Games=Games/of the Devil
+}}</text>
+      <sha1>ttz0u2d6w2vpokeqea64ghcm7j9rbq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Emmerson T Kenny</title>
+    <ns>0</ns>
+    <id>57978</id>
+    <revision>
+      <id>58095</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58095</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="260" sha1="6zyjh54i7c7hjyr2a5n87yar9u032al" xml:space="preserve">{{Character
+| Name=Emmerson T. Kenny
+| Guid=3005-58761
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Star_Ocean_Integrity_and_Faithlessness
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>6zyjh54i7c7hjyr2a5n87yar9u032al</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Erhard Shield Hero</title>
+    <ns>0</ns>
+    <id>464598</id>
+    <revision>
+      <id>740663</id>
+      <timestamp>2026-03-04T19:51:52Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>740663</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="261" sha1="sw9a3s3n5zdn3vxojjtapm3ktfv8gq1" xml:space="preserve">{{Character
+| Name=Erhard
+| Guid=3005-44981
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/The_Rising_of_the_Shield_Hero_Relive_The_Animation
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>sw9a3s3n5zdn3vxojjtapm3ktfv8gq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Eric Von Burns</title>
+    <ns>0</ns>
+    <id>58004</id>
+    <revision>
+      <id>58121</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58121</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="249" sha1="52qebmx92vywy0o3db7yclme1g2doxq" xml:space="preserve">{{Character
+| Name=Eric Von Burns
+| Guid=3005-58787
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/The_Simpsons_Bart_vs_the_World
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>52qebmx92vywy0o3db7yclme1g2doxq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Eris 58551</title>
+    <ns>0</ns>
+    <id>57769</id>
+    <revision>
+      <id>722017</id>
+      <parentid>57885</parentid>
+      <timestamp>2026-02-14T19:40:51Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722017</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="833" sha1="bredglo5lbandprs3iczcuwb9goo70v" xml:space="preserve">{{Character
+| Name=Eris
+| Guid=3005-58551
+| Deck=Eris is the Greek goddess of strife and discord who is famous for causing the Trojan War.
+| Gender=Non-Binary
+| Concepts=Concepts/Greek_Mythology,Concepts/War
+| Enemies=
+| Franchises=
+| Friends=Characters/Ares
+| Games=Games/Hades_II
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3802745-2244372537-1200.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3802745-2244372537-1200.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_super,scale_medium,square_small,scale_tiny,scale_small,square_avatar,square_medium,square_tiny,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;
+Eris is the Greek goddess of strife and discord who is famous for causing the Trojan War.</text>
+      <sha1>bredglo5lbandprs3iczcuwb9goo70v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Eugen dArgenteau</title>
+    <ns>0</ns>
+    <id>58080</id>
+    <revision>
+      <id>58197</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58197</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="240" sha1="rigxdsge8cpeio5eno0kl3hsmxrysc0" xml:space="preserve">{{Character
+| Name=Eugen d'Argenteau
+| Guid=3005-58863
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Napoleon_Total_War
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>rigxdsge8cpeio5eno0kl3hsmxrysc0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Euphina</title>
+    <ns>0</ns>
+    <id>57926</id>
+    <revision>
+      <id>58043</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58043</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="232" sha1="4wu8mnu4z26sk0rhgyore3z0foy5r2u" xml:space="preserve">{{Character
+| Name=Euphina
+| Guid=3005-58709
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Chaos_Zero_Nightmare
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>4wu8mnu4z26sk0rhgyore3z0foy5r2u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Everest Hot Wheels</title>
+    <ns>0</ns>
+    <id>464587</id>
+    <revision>
+      <id>994320</id>
+      <parentid>740570</parentid>
+      <timestamp>2026-07-19T01:16:17Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>994320</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="596" sha1="f1oolw9p3cso9ouf9j5ky8fr8kwc59j" xml:space="preserve">{{Character
+| Name=Everest
+| Guid=3005-35519
+| Gender=Male
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Hot_Wheels_World_Race
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/39/392987/3055325-4293824021-latest
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3055325-4293824021-latest","path":"39\/392987\/","mime":"image\/jpeg","sizes":"scale_small,square_medium,square_small,square_avatar,square_mini,scale_super,square_tiny,scale_medium,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;</text>
+      <sha1>f1oolw9p3cso9ouf9j5ky8fr8kwc59j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Evil Leafy</title>
+    <ns>0</ns>
+    <id>57710</id>
+    <revision>
+      <id>57826</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57826</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="247" sha1="9ludtr9b2axlej5jofi4gki4w11rwmv" xml:space="preserve">{{Character
+| Name=Evil Leafy
+| Guid=3005-58492
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Battle_For_Dream_Island_Again_5b
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9ludtr9b2axlej5jofi4gki4w11rwmv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Farah Reyes</title>
+    <ns>0</ns>
+    <id>474261</id>
+    <revision>
+      <id>973686</id>
+      <parentid>806391</parentid>
+      <timestamp>2026-04-25T21:25:03Z</timestamp>
+      <contributor>
+        <username>Dochaus</username>
+        <id>140</id>
+      </contributor>
+      <origin>973686</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="246" sha1="e1auokemhkgmfrg6mr5nqu42hcxr3su" xml:space="preserve">{{Character
+|Guid=f9afa863-2fa7-442a-86d5-c60bcf522186
+|Name=Farah Reyes
+|Image=CG londonreyes1.png
+|Deck=Honest yet overconfident cop and London's partner. She serves as Morgan's first major enemy in game.
+|RealName=Farah Reyes
+|Gender=Female
+}}</text>
+      <sha1>e1auokemhkgmfrg6mr5nqu42hcxr3su</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Fidel Camuze</title>
+    <ns>0</ns>
+    <id>57974</id>
+    <revision>
+      <id>58091</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58091</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="278" sha1="m53fo1e1ilz219w52evyys2iu7bbwg4" xml:space="preserve">{{Character
+| Name=Fidel Camuze
+| Guid=3005-58757
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=Characters/Daril_Camuze
+| Games=Games/Star_Ocean_Integrity_and_Faithlessness
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>m53fo1e1ilz219w52evyys2iu7bbwg4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Filbert 58733</title>
+    <ns>0</ns>
+    <id>57950</id>
+    <revision>
+      <id>58067</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58067</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" sha1="ik5jbvp8n698vjjpt2pc7o4mn2b80yf" xml:space="preserve">{{Character
+| Name=Filbert
+| Guid=3005-58733
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Duet_Night_Abyss
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ik5jbvp8n698vjjpt2pc7o4mn2b80yf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Finley Cat Cafe</title>
+    <ns>0</ns>
+    <id>464601</id>
+    <revision>
+      <id>994374</id>
+      <parentid>740694</parentid>
+      <timestamp>2026-07-19T01:19:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>994374</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="711" sha1="r877sluudh56fpgtrchi4qc6ns8o930" xml:space="preserve">{{Character
+| Name=Finley
+| Guid=3005-48883
+| Deck=University student artist that makes independent music on her free time.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Cat_Cafe_Manager
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/original/20/202039/3388450-finley.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3388450-finley.png","path":"20\/202039\/","mime":"image\/png","sizes":"square_small,scale_super,scale_small,square_medium,scale_medium,square_avatar,square_tiny,scale_avatar,square_mini,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+University student artist that makes independent music on her free time.</text>
+      <sha1>r877sluudh56fpgtrchi4qc6ns8o930</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Finny the Fish</title>
+    <ns>0</ns>
+    <id>57766</id>
+    <revision>
+      <id>722014</id>
+      <parentid>722012</parentid>
+      <timestamp>2026-02-14T19:40:50Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722014</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="749" sha1="98tfvwcwp2sgxo5i1n1r58nwtnrtgpe" xml:space="preserve">{{Character
+| Name=Finny the Fish
+| Guid=3005-58548
+| Deck=From The PS2 Game of Finny the Fish: And The Seven Waters.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Finny_the_Fish_And_the_Seven_Waters
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/239/2391650/3801127-1101050-finny_the_fish.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3801127-1101050-finny_the_fish.jpg","path":"239\/2391650\/","mime":"image\/jpeg","sizes":"scale_super,scale_medium,square_medium,square_small,scale_small,square_tiny,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+From The PS2 Game of Finny the Fish: And The Seven Waters.</text>
+      <sha1>98tfvwcwp2sgxo5i1n1r58nwtnrtgpe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Fiore Brunelli</title>
+    <ns>0</ns>
+    <id>57977</id>
+    <revision>
+      <id>58094</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58094</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="257" sha1="a8el8g6sy10evsehdyazo8ilwq2ou9a" xml:space="preserve">{{Character
+| Name=Fiore Brunelli
+| Guid=3005-58760
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Star_Ocean_Integrity_and_Faithlessness
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>a8el8g6sy10evsehdyazo8ilwq2ou9a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Flag Smasher</title>
+    <ns>0</ns>
+    <id>58039</id>
+    <revision>
+      <id>58156</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58156</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="237" sha1="dwjw7fdcl69b80wbjtm63ebl5071l87" xml:space="preserve">{{Character
+| Name=Flag-Smasher 
+| Guid=3005-58822
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Marvels_Deadpool_VR
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>dwjw7fdcl69b80wbjtm63ebl5071l87</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Flak 58575</title>
+    <ns>0</ns>
+    <id>57793</id>
+    <revision>
+      <id>722060</id>
+      <parentid>722057</parentid>
+      <timestamp>2026-02-14T19:41:04Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722060</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="668" sha1="reecniyxlqg9evi9tyh5zea0jzlvmah" xml:space="preserve">{{Character
+| Name=Flak
+| Guid=3005-58575
+| Deck=A clone trooper who served the Republic during the Clone Wars.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3805566-hq720.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3805566-hq720.jpg","path":"45\/456753\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_super,square_tiny,scale_medium,scale_small,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;
+A clone trooper who served the Republic during the Clone Wars.</text>
+      <sha1>reecniyxlqg9evi9tyh5zea0jzlvmah</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Flambae</title>
+    <ns>0</ns>
+    <id>57993</id>
+    <revision>
+      <id>722127</id>
+      <parentid>58110</parentid>
+      <timestamp>2026-02-14T19:41:28Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722127</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1149" sha1="nmsrx16y42d74knqm93q0fur9joixyd" xml:space="preserve">{{Character
+| Name=Flambae
+| Guid=3005-58776
+| Deck=An arrogant and mean-spirited Pyrokinetic former Supervillain who is now a member of the Z-Team at the Superhero Dispatch Network. A former enemy of Mecha-Man.
+| Concepts=
+| Enemies=Characters/Armstrong,Characters/Coupe,Characters/Robert_Robertson_III,Characters/Shroud_58847
+| Franchises=
+| Friends=Characters/Blonde_Blazer,Characters/Chase_58771,Characters/Coupe,Characters/Golem_58781,Characters/Invisigal,Characters/Prism,Characters/Robert_Robertson_III
+| Games=Games/Dispatch
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3821249-dossier_flambae.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3821249-dossier_flambae.png","path":"77\/776653\/","mime":"image\/png","sizes":"square_small,scale_super,square_medium,scale_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_avatar,scale_large","caption":null},"background":[]}' /&gt;
+An arrogant and mean-spirited Pyrokinetic former Supervillain who is now a member of the Z-Team at the Superhero Dispatch Network. A former enemy of Mecha-Man.</text>
+      <sha1>nmsrx16y42d74knqm93q0fur9joixyd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Fluke Hot Wheels</title>
+    <ns>0</ns>
+    <id>464588</id>
+    <revision>
+      <id>994394</id>
+      <parentid>740571</parentid>
+      <timestamp>2026-07-19T01:20:15Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>994394</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="594" sha1="la3pblx6oe0d22oyi4xm82ktn8tcdr4" xml:space="preserve">{{Character
+| Name=Fluke
+| Guid=3005-35545
+| Gender=Male
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Hot_Wheels_World_Race
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/39/392987/3055328-8221609864-latest
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3055328-8221609864-latest","path":"39\/392987\/","mime":"image\/jpeg","sizes":"square_small,scale_super,scale_small,scale_medium,square_medium,square_tiny,square_avatar,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;</text>
+      <sha1>la3pblx6oe0d22oyi4xm82ktn8tcdr4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Franceska Mila Rose</title>
+    <ns>0</ns>
+    <id>57889</id>
+    <revision>
+      <id>722102</id>
+      <parentid>722100</parentid>
+      <timestamp>2026-02-14T19:41:18Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722102</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="880" sha1="it1cbuk4ivx4ls5jsgircavhz0ev0k6" xml:space="preserve">{{Character
+| Name=Franceska Mila Rose
+| Guid=3005-58672
+| Deck=Franceska Mila Rose is the 55th Arrancar in Sousuke Aizen's army and one of Tier Harribel's three Fracción, collectively known as the Tres Bestias
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/182/1827248/3814038-3927696902-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3814038-3927696902-latest.png","path":"182\/1827248\/","mime":"image\/png","sizes":"square_small,square_tiny,scale_medium,scale_super,scale_small,square_avatar,square_medium,screen_medium,screen_kubrick,scale_large,square_mini,scale_avatar","caption":null},"background":[]}' /&gt;
+Franceska Mila Rose is the 55th Arrancar in Sousuke Aizen's army and one of Tier Harribel's three Fracción, collectively known as the Tres Bestias</text>
+      <sha1>it1cbuk4ivx4ls5jsgircavhz0ev0k6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Franky One Piece</title>
+    <ns>0</ns>
+    <id>464526</id>
+    <revision>
+      <id>994418</id>
+      <parentid>739183</parentid>
+      <timestamp>2026-07-19T01:21:33Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>994418</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7474" sha1="j2w5ysx8yq0da1wih46v52rsth01dld" xml:space="preserve">{{Character
+| Name=Franky
+| Guid=3005-3480
+| Deck=Franky is the cyborg shipwright of the Straw Hat Crew. He designed and created the Straw Hat Pirate ship the Thousand Sunny. He was a former apprentice of the shipwright Tom. His real name is Cutty Flam. After the timeskip, he has a bounty of 94 million beri.
+| RealName=Cutty Flam
+| Gender=Male
+| Concepts=Concepts/Adapted_from_Television,Concepts/Cartoon_Character,Concepts/Cyborg,Concepts/Games_Based_on_Anime,Concepts/Licensed_Game,Concepts/Pirate
+| Enemies=Characters/Bartholomew_Kuma,Characters/Gild_Tesoro,Characters/Wapol
+| Franchises=Franchises/Eyeshield_21,Franchises/Jump_Super_Stars,Franchises/Musou,Franchises/One_Piece,Franchises/One_Piece_Pirate_Warriors,Franchises/Shaman_King,Franchises/Shonen_Jump
+| Friends=Characters/Bartolomeo,Characters/Brook,Characters/Iceberg,Characters/Monkey_D_Luffy,Characters/Nami,Characters/Nico_Robin,Characters/Roronoa_Zoro,Characters/Sanji,Characters/Tony_Tony_Chopper,Characters/Usopp
+| Games=Games/Fighting_For_One_Piece,Games/Jump_Ultimate_Stars,Games/Jumputi_Heroes,Games/One_Piece_Burning_Blood,Games/One_Piece_Burning_Will,Games/One_Piece_Dai_Kaizoku_Colosseum,Games/One_Piece_Dance_Battle,Games/One_Piece_Doragon_Doriimu,Games/One_Piece_Gear_Spirit,Games/One_Piece_Gigant_Battle_2_New_World,Games/One_Piece_Grand_Cruise,Games/One_Piece_Odyssey,Games/One_Piece_Pirate_Warriors,Games/One_Piece_Pirate_Warriors_2,Games/One_Piece_Pirate_Warriors_3,Games/One_Piece_Pirate_Warriors_4,Games/One_Piece_Romance_Dawn_Boken_no_Yoake,Games/One_Piece_Super_Grand_Battle_X,Games/One_Piece_Thousand_Storm,Games/One_Piece_Treasure_Cruise,Games/One_Piece_Unlimited_Adventure,Games/One_Piece_Unlimited_Cruise,Games/One_Piece_Unlimited_Cruise_Episode_2,Games/One_Piece_Unlimited_Cruise_SP,Games/One_Piece_Unlimited_Cruise_SP2,Games/One_Piece_Unlimited_World_RED,Games/One_Piece_World_Seeker,Games/One_Py_Berry_Match
+| Locations=
+| People=People/Greg_Ayres,People/Patrick_Seitz
+| Objects=Objects/Bionic_Arm,Objects/Cola,Objects/Flamethrower,Objects/Metal_Armor,Objects/Sunglasses
+| Image=https://www.giantbomb.com/a/uploads/scale_super/9/94709/2655468-untitled-155.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2655468-untitled-155.jpg","path":"9\/94709\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,square_small,square_avatar,square_mini,scale_medium,screen_medium,scale_large,scale_avatar,square_tiny,square_medium,scale_tiny,screen_kubrick","caption":null},"background":[]}' /&gt;
+
+==Origin==
+Franky was originally an orphan named Cutty Flam that was raised as the shipwright apprentice of Tom the Builder on Water Seven. When Tom was arrested for building the Ororo Jackson, the pirate ship of the Pirate King Gold Roger; his sentence was suspended to provide him time to build a Sea Train to help the struggling city. Cutty and Iceburg, his fellow apprentice, aided Tom to build the Sea Train. It took several years to complete, but Spandam of the World Government framed Tom for attacking Water Seven using Cutty's own personal fleet of mini battle ships.
+
+As Spandam took Tom to Eneis Lobby via the Sea Train, Cutty tried to stand in its path and was run over. Heavily injured, Cutty drifted to a ship where he modified his own body to become a cyborg and returned to Water Seven several years later. Iceburg was now the mayor of the prospering Water Seven, and informed Cutty that the World Government was looking for him to find the plans for the ancient weapon Pluton, that Tom had intrusted to his apprentices. Changing his name to Franky, he took in the dregs of the city to form the Franky Family.
+
+
+==Creation==
+Franky is a main character from the manga series ''One Piece'' that is both written and illustrated by Eiichiro Oda. The series began its serialization in Shueisha's ''Weekly Shōnen Jump'' on August 4, 1997. Franky wouldn't appear in the series until the Water Seven Arc in 2004.
+
+Franky first appeared in ''One Piece'' Volume 35, CH. 329 ''"Enter "My Name is 'Franky'".''
+
+
+==Major Story Arcs==
+
+===Water Seven Arc===
+When the Franky Family robed the Straw Hat Pirates of two million berry, Franky took that money to buy the wood of the famous tree Adam. When he returned, he found the Franky Family had been devastated by the Straw Hats. Franky hunted down [[Characters/Monkey_D_Luffy|Luffy]], the Straw Hat captain, to avenge his men, but the battle was halted by the news that Iceburg had been attacked and nearly killed. Later that day, the CP-9, the black-ops team of the World Government, abducted him after they learned he was really Cutty Flam and possibly held the plan to Pluton.
+
+
+===Enies Lobby Arc===
+Franky was freed on the Sea Train on the way to Enies Lobby and was freed by [[Characters/Sanji|Sanji]], the Straw Hat cook. He was there to rescue [[Characters/Nico_Robin|Nico Robin]], who was also held by CP-9. They battled up through the train, but Franky was recaptured and taken to Enies Lobby with Nico Robin. After he escaped his chains, Franky fought along with the Straw Hats to find which of the CP-9 had the key to Robin's Sea Prism cuffs before she was rushed off the island by Spandam. Franky battled with Fukuro, then he helped [[Characters/Nami|Nami]]halt the rampage of Chopper, who had transformed into a monster.
+
+Franky was given the key to Robin's cuffs and was sent ahead to free her as Luffy battled with Rob Lucci of the CP-9. Frnaky and the crew escaped the island on the Going Merry, but it cracked in half on the journey back to Water Seven. They were rescued by Iceburg's ship, and back home Franky offered to build a new ship for the Straw Hats using the wood he bought with their stolen money. Upon its completion, Luffy convinced a reluctant Franky to join his crew as shipwright. They named the ship the Thousand Sunny.
+
+
+===Thriller Bark Arc===
+ 
+
+
+==Powers &amp;amp; Abilities==
+Franky is a self-made cyborg who modified himself to recover from the injuries he suffered being struck by the Sea Train. Since he did all the work himself, he's only a cyborg on his front half. His backside is still flesh. This gives him a superhuman level of strength and durability, and an assortment of weapons are build into his cyborg arms. His body and abilities are powered through his own cola-fueled engine stored in his abdomen.
+
+
+===Original Modifications===
+
+====Weapons Left====
+Weapons Left is a cannon build into Franky's left arm. His right hand detached at the wrist to reveal a cannon hidden within his forearm. An aiming sight forms in the center of his hand.
+
+
+====Beans Left====
+Franky's left forearm hides a four barrel machine gun that fires rapid fire beans.
+
+
+====Strong Right====
+Franky can fire his right arm with explosive force at a great distance and retract it via a chain that it's attached to.
+
+
+====Franky Fresh Fire====
+Franky can expel a powerful blast of fire through his mouth.
+
+
+===Armored Franky===
+After the Straw Hat's defeat on Sabaody Archipelago, Franky found himself on Baldimore, and advanced his own body using the plans and materials he found in the original lab of the world's greatest genius, Dr. Vegapunk.
+
+
+====Franky Radical Beam====
+One of the most powerful upgrades in Franky's arsenal is the Franky Radical Beam. By forming his two hands together, he can focus an energy blast with such devastating power that it can destroy nearly anything it its path.
+
+
+==Weapons &amp;amp; Equipment==
+
+===Black Rhino FR-U IV===
+
+===Brachio Tank Unit V===
+
+===General Franky===</text>
+      <sha1>j2w5ysx8yq0da1wih46v52rsth01dld</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Frederick Abberline</title>
+    <ns>0</ns>
+    <id>58045</id>
+    <revision>
+      <id>58162</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58162</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="249" sha1="nv59rvjsoho4cj8gpaqjpco4ogmnel2" xml:space="preserve">{{Character
+| Name=Frederick Abberline
+| Guid=3005-58828
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Assassins_Creed_Syndicate
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>nv59rvjsoho4cj8gpaqjpco4ogmnel2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Fu Man Chu Burns</title>
+    <ns>0</ns>
+    <id>58002</id>
+    <revision>
+      <id>58119</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58119</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="251" sha1="o52l3vkav1xxii306owva1ih6pkksih" xml:space="preserve">{{Character
+| Name=Fu Man Chu Burns
+| Guid=3005-58785
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/The_Simpsons_Bart_vs_the_World
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>o52l3vkav1xxii306owva1ih6pkksih</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Fuchsia Penny Arcade</title>
+    <ns>0</ns>
+    <id>464516</id>
+    <revision>
+      <id>994444</id>
+      <parentid>739115</parentid>
+      <timestamp>2026-07-19T01:22:56Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>994444</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="985" sha1="92yqv0lg2jn89gqr962xzkz3oefnh8y" xml:space="preserve">{{Character
+| Name=Fuchsia
+| Guid=3005-2571
+| Deck=Fuchsia is a robot that is modified by Anne-Claire and it is a support character.  Its attack is Rainbow and has the effect of getting stronger every time you use it.
+| Concepts=
+| Enemies=
+| Franchises=Franchises/Penny_Arcade
+| Friends=
+| Games=Games/Penny_Arcade_Adventures_On_the_Rain_Slick_Precipice_of_Darkness_Episode_One
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/4925/231607-fuchsia1.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"231607-fuchsia1.png","path":"0\/4925\/","mime":"image\/png","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,screen_kubrick","caption":"Fuchsia"},"background":[]}' /&gt;
+Fuchsia is a robot that is modified by Anne-Claire and it is a support character.  Its attack is Rainbow and has the effect of getting stronger every time you use it.</text>
+      <sha1>92yqv0lg2jn89gqr962xzkz3oefnh8y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/G Man Half Life</title>
+    <ns>0</ns>
+    <id>464509</id>
+    <revision>
+      <id>978703</id>
+      <parentid>978140</parentid>
+      <timestamp>2026-07-17T05:17:26Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3005-421)</comment>
+      <origin>978703</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="14910" sha1="fdkey2qgbh8akr5ea75hcm4zgaxto2k" xml:space="preserve">{{Character
+| Name=G-Man
+| Guid=3005-421
+| Deck=An enigmatic character of disturbing power, the inhuman G-Man represents an unknown, trans-dimensional organization, and is a major influence on the events in the Half-Life universe.
+| RealName=Unknown
+| Gender=Male
+| Concepts=Concepts/Agents,Concepts/Betrayal,Concepts/Black_Mesa,Concepts/Cameo,Concepts/Foreshadowing,Concepts/GoldSrc,Concepts/Interactive_Cutscene,Concepts/Machinima,Concepts/Meme_Origin,Concepts/Multiple_Endings,Concepts/Mysterious_Ally,Concepts/Pseudonym,Concepts/Recurring_Character,Concepts/Resonance_Cascade,Concepts/Seven_Hour_War,Concepts/Slow_In_Game_Introduction,Concepts/Source_2,Concepts/Teleportation,Concepts/The_Combine,Concepts/Uncanny_Valley,Concepts/Unreliable_Mentor,Concepts/Unusual_Speech_Patterns,Concepts/Voice_Acting
+| Enemies=Characters/Adrian_Shephard,Characters/Alyx_Vance,Characters/Barney_Calhoun,Characters/Dog,Characters/Eli_Vance,Characters/Gordon_Freeman
+| Franchises=Franchises/Half_Life,Franchises/Portal
+| Friends=
+| Games=Games/Black_Mesa,Games/Codename_Gordon,Games/Half_Life,Games/Half_Life_2,Games/Half_Life_2_Episode_One,Games/Half_Life_2_Episode_Two,Games/Half_Life_2_Survivor,Games/Half_Life_Alyx,Games/Half_Life_Blue_Shift,Games/Half_Life_Deathmatch_Source,Games/Half_Life_Decay,Games/Half_Life_Opposing_Force,Games/Half_Life_Uplink,Games/Synergy,Games/The_Orange_Box
+| Locations=Locations/Black_Mesa_Research_Facility,Locations/City_17,Locations/Combine_Citadel,Locations/Earth,Locations/gm_construct,Locations/New_Mexico,Locations/The_United_States_of_America,Locations/White_Forest,Locations/Xen
+| People=People/Doug_Lombardi,People/Gabe_Newell,People/Ken_Birdwell,People/Michael_Shapiro
+| Objects=Objects/Briefcase,Objects/Necktie,Objects/Suit_and_Tie
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"11508-gman.jpg","path":"0\/30\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,square_tiny,scale_small,scale_large,scale_avatar,screen_kubrick,scale_tiny","caption":"Half-Life's G-Man"},"background":[]}' /&gt;
+
+==The Mystery Man==
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/0/6153/328232-05.jpg|full=http://www.giantbomb.com/a/uploads/original/0/6153/328232-05.jpg|align=right|caption=Close-up from the intro of Half-Life 2}}
+Encountered for the first time in the original [[Games/Half_Life|Half-Life]], the G-Man is an iconic character in [[Companies/Valve_Corporation|Valve's]] award winning franchise, manipulating events from the shadows and rarely taking direct action himself. A being of what seems to be considerable power, his true nature and origin are unknown. Throughout the first and second Half-Life games, the G-Man can be seen speaking with other characters and observing the protagonist [[Characters/Gordon_Freeman|Gordon Freeman]] in action, watching from behind bullet-proof glass and impassable obstacles, eventually judging Gordon a useful individual worthy of recruitment into the G-Man's mysterious, unknown organization. It is unlikely the G-Man is human; he has displayed supernatural abilities and speaks in a disturbing, irregular manner. Speculation surrounding the G-Man is varied, due to the mystery of his intentions and background. 
+ 
+
+===The Name===
+The G-Man (short for "Government Man")  is not mentioned by name in any of the games; he is just referred to as the G-Man by the community since the data files containing his character model and texture were labelled "gman" when the original [[Games/Half_Life|Half-Life]] came out.
+
+
+===Abilities===
+The G-Man seems to possess the ability to affect [[Locations/Space|space]] and time in an unknown capacity. However it is indicated several times across the Half-Life series that he is keeping his power in check due to certain "restrictions" placed upon him by his employers or associates. There is evidence to suggest that the G-Man is an advanced trans-dimensional being, as his powers over physical and spatial reality seem to be fairly significant. He seems able to move freely through time and space, is impervious to all known weapons, and can assert a form of mind control over humans.
+
+
+===Actions===
+Throughout the Half-Life series, the G-Man takes several influential actions that directly affect the course of history within the Half-Life universe. Aside from having drastic consequences, these actions are also a display of his influence over time and space. The G-Man:
+
+* Initially provided [[Characters/Eli_Vance|Dr. Eli Vance]] with the crystal sample, taken from the [[Characters/The_Nihilanth|Nihilanth's]] chamber in the [[Locations/Xen|Xen]] border world, which initiated the [[Concepts/Resonance_Cascade|resonance cascade]] that devastated the [[Locations/Black_Mesa_Research_Facility|Black Mesa facility]] and subsequently alerted the [[Concepts/The_Combine|Combine]]to Earth's existence in the first game.
+* Responsible for detonating a nuclear warhead at [[Locations/Black_Mesa_Research_Facility|Black Mesa]] which destroyed the facility at the end of the expansion pack  [[Games/Half_Life_Opposing_Force|Half-Life: Opposing Force]].
+* When HECU Marine Corporal [[Characters/Adrian_Shephard|Adrian Shephard]] unexpectedly survived the incident, the G-Man placed him in some kind of otherworldly "storage" so that he would not interfere with the events that were to come.
+* Saved the life of Dr. Vance's daughter [[Characters/Alyx_Vance|Alyx Vance]] during the Black Mesa Incident.
+* Used his powers over space-time to place [[Characters/Gordon_Freeman|Gordon Freeman]] into temporal stasis, waking him some twenty years later, during the  Combine occupation of Earth. In the interim, Gordon was unaware of events occurring on Earth and did not age.
+* Planted a hypnotic suggestion in the mind of [[Characters/Alyx_Vance|Alyx Vance]] which was later activated at the G-Man's will.
+
+
+==Trademarks==
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/1/13692/901491-c1a3d0000.jpg|full=http://www.giantbomb.com/a/uploads/original/1/13692/901491-c1a3d0000.jpg|align=right|caption=G-Man passing by}}
+Though he appears as an average suit-wearing Caucasian male, the G-Man displays behaviours and physical characteristics that belie his otherworldly origin. Among them are:
+
+* '''A bizarre manner of speech.''' The G-Man speaks with a halting, irregular cadence that places emphasis on unusual syllables and stretches out certain words. He also speaks with an occasional lisp; in particular, his elongated "S" sounds vaguely recall the reptilian manner of a snake's hiss. Later on in the series, his awkward demeanour becomes less and less prominent, in favor of a slightly more "human" personality.
+* '''Always around the corner.''' Throughout [[Games/Half_Life|Half-Life]] and its sequel, the G-Man can frequently be seen observing Gordon's progress from an often unreachable vantage point. He always seems to appear in the unlikeliest places and at the most unusual times, adding to the mystique of his unknown nature.
+* '''His outfit.''' Taking the two episodes out of the equation, the G-man always carries his suitcase and the obligatory inexpensive-looking blue suit.
+* '''Fidgeting.''' The G-Man's most prominent "fidget" is how he has a compulsion to occasionally adjust and readjust his necktie. He does this vigorously when the Vortigaunts take Gordon out of the G-Man's clutches at the beginning of Episode One.
+
+
+==Monologues==
+
+
+===Half-Life===
+&lt;blockquote&gt;
+===
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/1/13692/901495-c5a10000.jpg|full=http://www.giantbomb.com/a/uploads/original/1/13692/901495-c5a10000.jpg|align=right|caption=End-game monologue in Half-Life}}
+===
+'''''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' ''Gordon Freeman in the flesh... or rather in the         Hazard Suit.
+I took the liberty of relieving you of your weapons... most of them were government property. As for the suit... I think you've earned it.
+
+The border world, [[Locations/Xen|Xen]], is in our control for the time being, thanks to you.
+Quite a nasty piece of work you've managed over there, I am impressed.
+
+That's why I'm here Mr. Freeman. I have recommended your services to my... eh... employers, and they have authorized me to offer you a job. They agree with me that you have limitless potential.
+
+You've proved yourself a decisive man, so I don't expect you'll have any trouble deciding what to do. If you're interested, just step into the portal and I will take that as a yes. Otherwise, well... I can offer you a battle you have no chance of winning... rather an anti-climax after what you just survived.
+
+[Tram Door opens] 
+Time to choose.
+
+[Stepping through the portal] 
+Wisely done Mr. Freeman! I will see you up ahead.
+
+[Standing still] 
+Well it looks like we won't be working together. No regrets, Mr. Freeman.
+[G-Man hereafter teleports the player to a room full of enemies.]
+&lt;/blockquote&gt;
+
+
+===Half-Life: Opposing Force===
+&lt;blockquote&gt;
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/1/13692/906561-gmanasasas.jpg|full=http://www.giantbomb.com/a/uploads/original/1/13692/906561-gmanasasas.jpg|align=right|caption=G-Man talking to Adrian Shephard}}
+So     Corporal Shephard, we meet at last.
+
+Please don't think that I've been avoiding you - a great many matters required my attention in these... troubled times. I do hope you understand, and now I require a further indulgence on your part; I can not close my report until every loose end has been tied up. The biggest embarrassment has been [[Locations/Black_Mesa_Research_Facility|Black Mesa Facility]], but I think that's finally taken care of itself. Quite so...
+
+But there is still a lingering matter of witnesses. I admit I have a fascination with those who adept and survive against all odds. They rather remind me of myself. If for no other reason, I argued to preserve you for a time.
+
+While I believe a civil servant like yourself understand the importance of... discretion, my employers are not quite so trusting, and rather than continually subject you to the irresistible human temptation of telling all, we have decided to... convey you somewhere you can do no possible harm, and where no harm can come to you.
+
+I'm sure you can imagine there are worse alternatives.
+&lt;/blockquote&gt;
+
+
+===Half-Life 2 - Start Sequence===
+&lt;blockquote&gt;
+===
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/0/1379/178135-750px_halflife2_gman_prologue.jpg|full=http://www.giantbomb.com/a/uploads/original/0/1379/178135-750px_halflife2_gman_prologue.jpg|align=right|caption=The G-man in the intro of Half-Life 2}}
+===
+Rise and shine,    Mr. Freeman. Rise and shine. 
+Not that I wish to imply that you have been sleeping on the job. No one is more deserving of a rest, and all the effort in the world would have gone to waste until... well, let's just say your hour has come again.
+
+The right man in the wrong place can make all the difference in the world.
+So wake up Mr. Freeman... wake up and smell the ashes. &lt;/blockquote&gt;
+
+
+===Half-Life 2 - End Sequence===
+&lt;blockquote&gt;Time,            Dr. Freeman? Is it really that time again?
+It seems as if you only just arrived. You've done a great deal in a small timespan. You've done so well, in fact, that I've received some interesting offers for your services. Ordinarily, I wouldn't contemplate them, but these are extraordinary times. 
+
+Rather than offer you the illusion of free choice, I will take the the liberty of choosing for you... if and when your time comes round again. I do apologize for what must seem to you an arbitrary imposition, Dr. Freeman. I trust it will all make sense to you in the course of... well... I'm really not at the liberty to say.
+
+In the meantime...
+This is where I get off.
+
+&lt;/blockquote&gt;
+
+
+===Half-Life 2: Episode One===
+&lt;blockquote&gt;[Entering a doorway only to realize he's being blocked off by  Vortigaunts.]
+We'll see... about that!
+
+&lt;/blockquote&gt;
+
+
+===Half-Life 2: Episode Two===
+ '''''' '''' '''' '''' '''' '''' '''' '''' '''' '''' '''' ''
+&lt;blockquote&gt;
+===
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/0/24/10751-Gman-Flashback-HL2Ep2.jpg|full=http://www.giantbomb.com/a/uploads/original/0/24/10751-Gman-Flashback-HL2Ep2.jpg|align=right|caption=Heart-to-heart with Gordon}}
+===
+Doctor Freeeemaaan?
+I realize this moment may not be the most convenient for a heart-to-heart, but I had to wait until your...                friends [chuckles] were otherwise occupied. 
+
+There was a time they cared nothing for         Ms. Vance, when their only experience of humanity was a crowbar coming at them down a steel corridor. When I plucked her from [[Locations/Black_Mesa_Research_Facility|Black Mesa]] [chuckles], I acted in the face of objections that she was a mere child and of no practical use to anyone. I have learned to ignore such nay-sayers, when... quelling them... was out of the question.
+
+Still, I am not one to squander my investments, and I remain confident she was worth far more than the initial... appraisal. That's why I must now extract from you some small repayment owed for your own survival.
+
+
+
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/0/2433/293851-ep2_outland_020021.jpg|full=http://www.giantbomb.com/a/uploads/original/0/2433/293851-ep2_outland_020021.jpg|align=right|caption=Prepare for unforeseen consequences.}}
+See her safely to            White Forest, Dr. Freeman. I wish I could do more than keep an eye on you, but I have agreed to abide by certain... restrictions.
+
+[Talking to  Alyx]
+Well... now listen carefully my dear.
+When you see your...                father, relay these words: "Prepare for unforeseen consequences."  &lt;/blockquote&gt; 
+
+==Trivia==
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/1/13692/1201157-gmancase.png|full=http://www.giantbomb.com/a/uploads/original/1/13692/1201157-gmancase.png|align=right|caption= Inside the G-Man's briefcase in Half-Life 1}}
+* In the first [[Games/Half_Life|Half-Life]], it was possible to look inside G-Man's briefcase by using the [[Concepts/Developer_Console|console]] command noclip or viewing the texture manually. The briefcase appear to contain a pistol, some documents and a computer of some sort. The two textures can be seen to the right. It can be assumed that at one point in development, the briefcase was meant to be opened at some point in the storyline. There are no such textures in Half-Life 2.
+* When looking through the source code for the G-Man in Half-Life 2, this developer comment can be found at the top of the file: 
+&lt;blockquote&gt;"The G-Man, misunderstood servant of the people"   
+
+
+&lt;/blockquote&gt;* The G-Man is voiced by [[People/Michael_Shapiro|Michael Shapiro]]; the same voice actor as [[Characters/Barney_Calhoun|Barney Calhoun]].</text>
+      <sha1>fdkey2qgbh8akr5ea75hcm4zgaxto2k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Galin Azzameen</title>
+    <ns>0</ns>
+    <id>57730</id>
+    <revision>
+      <id>721962</id>
+      <parentid>721960</parentid>
+      <timestamp>2026-02-14T19:40:35Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>721962</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="700" sha1="kphnl7bzm9bv13esfc30ocmlrqe4hlq" xml:space="preserve">{{Character
+| Name=Galin Azzameen
+| Guid=3005-58512
+| Deck=A member of the Azzameen family who joined the Rebel Alliance.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=Characters/Ace_Azzameen
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3796662-image.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3796662-image.png","path":"45\/456753\/","mime":"image\/png","sizes":"square_small,square_medium,square_tiny,scale_super,scale_medium,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A member of the Azzameen family who joined the Rebel Alliance.</text>
+      <sha1>kphnl7bzm9bv13esfc30ocmlrqe4hlq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Gallo</title>
+    <ns>0</ns>
+    <id>57765</id>
+    <revision>
+      <id>722011</id>
+      <parentid>722010</parentid>
+      <timestamp>2026-02-14T19:40:49Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722011</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="698" sha1="fp34hxdt26g8js0hzb97j6eykb9m7ni" xml:space="preserve">{{Character
+| Name=Gallo
+| Guid=3005-58547
+| Deck=A Gungan warlord who lived a thousand years before the time of the Galactic Empire.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3801098-image.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3801098-image.png","path":"45\/456753\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_avatar","caption":null},"background":[]}' /&gt;
+A Gungan warlord who lived a thousand years before the time of the Galactic Empire.</text>
+      <sha1>fp34hxdt26g8js0hzb97j6eykb9m7ni</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Gary 58583</title>
+    <ns>0</ns>
+    <id>57801</id>
+    <revision>
+      <id>57917</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57917</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="23hkzdzedfukz7m7rsw0sikxn5n57v3" xml:space="preserve">{{Character
+| Name=Gary
+| Guid=3005-58583
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/River_City_Ransom
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>23hkzdzedfukz7m7rsw0sikxn5n57v3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Gas Can</title>
+    <ns>0</ns>
+    <id>57784</id>
+    <revision>
+      <id>57900</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57900</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="347" sha1="mezcfboplg3attiw4xv8pyearmyq0va" xml:space="preserve">{{Character
+| Name=Gas Can
+| Guid=3005-58566
+| Deck=US Army Sergeant and Demolitions expert.
+| RealName=Cole Harris
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Delta_Force_Land_Warrior
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+US Army Sergeant and Demolitions expert.</text>
+      <sha1>mezcfboplg3attiw4xv8pyearmyq0va</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Genesis Red</title>
+    <ns>0</ns>
+    <id>57741</id>
+    <revision>
+      <id>721982</id>
+      <parentid>721980</parentid>
+      <timestamp>2026-02-14T19:40:41Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>721982</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="634" sha1="cbyyra8cvan1z1bzzitf2ngao85r1ob" xml:space="preserve">{{Character
+| Name=Genesis Red
+| Guid=3005-58523
+| Deck=A crime lord of his criminal organization.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3797664-image.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3797664-image.png","path":"45\/456753\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_avatar,screen_medium,scale_large,square_mini,screen_kubrick,scale_avatar","caption":null},"background":[]}' /&gt;
+A crime lord of his criminal organization.</text>
+      <sha1>cbyyra8cvan1z1bzzitf2ngao85r1ob</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/George Steele Super Card</title>
+    <ns>0</ns>
+    <id>464593</id>
+    <revision>
+      <id>994519</id>
+      <parentid>740630</parentid>
+      <timestamp>2026-07-19T01:27:09Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>994519</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="800" sha1="1i31nvslg5cea5mb2srcvvbpt9sipsj" xml:space="preserve">{{Character
+| Name=George Steele
+| Guid=3005-40225
+| Deck=George "The Animal" Steele was an American professional wrestler.
+| Gender=Male
+| Concepts=Concepts/Professional_Wrestler
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/WWE_SuperCard
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/10/103881/3135074-george%20steele.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3135074-george steele.png","path":"10\/103881\/","mime":"image\/png","sizes":"scale_super,square_small,scale_medium,scale_small,square_medium,screen_medium,screen_kubrick,square_mini,scale_avatar,square_avatar,scale_large,square_tiny","caption":null},"background":[]}' /&gt;
+
+==Overview==
+George Steele is a former professional wrestler. George had a nickname of "The Animal".</text>
+      <sha1>1i31nvslg5cea5mb2srcvvbpt9sipsj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Gizor Dellso</title>
+    <ns>0</ns>
+    <id>57829</id>
+    <revision>
+      <id>994545</id>
+      <parentid>740792</parentid>
+      <timestamp>2026-07-19T01:28:30Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>994545</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="768" sha1="27xo397xx4s79s1isy22fx0kybg6cut" xml:space="preserve">{{Character
+| Name=Gizor Dellso
+| Guid=3005-58611
+| Deck=A Geonosian who opposed the Galactic Empire after the end of the Clone Wars.
+| Concepts=Concepts/Alien
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Star_Wars_Battlefront_II_7094
+| Locations=Locations/Geonosis
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/original/45/456753/3807391-gizor.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3807391-gizor.png","path":"45\/456753\/","mime":"image\/png","sizes":"square_small,scale_super,square_medium,scale_medium,square_tiny,scale_small,square_avatar,screen_medium,scale_large,scale_avatar,square_mini,screen_kubrick","caption":null},"background":[]}' /&gt;
+A Geonosian who opposed the Galactic Empire after the end of the Clone Wars.</text>
+      <sha1>27xo397xx4s79s1isy22fx0kybg6cut</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Gnome 58602</title>
+    <ns>0</ns>
+    <id>57820</id>
+    <revision>
+      <id>57936</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57936</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="786" sha1="rpod2wnx7ysnelqqa7vgb7zqas9943n" xml:space="preserve">{{Character
+| Name=Gnome
+| Guid=3005-58602
+| Gender=Male
+| Concepts=Concepts/Artificial_Intelligence,Concepts/Cameo,Concepts/Climbing,Concepts/Gnomes,Concepts/Idle_Animations,Concepts/No_Jumping,Concepts/Player_Taunting,Concepts/Respawn,Concepts/Sliding_Down_Ladders,Concepts/Voice_Acting
+| Enemies=Characters/Killer_Tomato,Characters/Super_Granny
+| Franchises=Franchises/Super_Granny
+| Friends=Characters/Dog_58603,Characters/Gorilla_58609
+| Games=Games/Super_Granny,Games/Super_Granny_4,Games/Super_Granny_Winter_Wonderland
+| Locations=Locations/Cave,Locations/Factory,Locations/Farm,Locations/Forest,Locations/Ice_Cave
+| People=
+| Objects=Objects/Beard,Objects/Boots,Objects/Hat,Objects/Suspenders,Objects/Wrench
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>rpod2wnx7ysnelqqa7vgb7zqas9943n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Golden Goose</title>
+    <ns>0</ns>
+    <id>57938</id>
+    <revision>
+      <id>58055</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58055</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="235" sha1="iwax3w62ec2u47hpc60fryg64yghfji" xml:space="preserve">{{Character
+| Name=Golden Goose
+| Guid=3005-58721
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Shrek_Reekin_Havoc
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>iwax3w62ec2u47hpc60fryg64yghfji</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Golem 58781</title>
+    <ns>0</ns>
+    <id>57998</id>
+    <revision>
+      <id>994573</id>
+      <parentid>740795</parentid>
+      <timestamp>2026-07-19T01:30:21Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>994573</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1358" sha1="1nfgvw09vljmm7otloaz69e6djrn2vo" xml:space="preserve">{{Character
+| Name=Golem
+| Guid=3005-58781
+| Deck=A construct who is a member of the Z-Team at the Superhero Dispatch Network. Strong and durable, and able to absorb material into himself, but very slow-witted.
+| Concepts=Concepts/Golem_2538,Concepts/Super_Strength,Concepts/Superhero,Concepts/Villain_Turned_Good
+| Enemies=Characters/Armstrong,Characters/Coupe,Characters/Shroud_58847
+| Franchises=
+| Friends=Characters/Blonde_Blazer,Characters/Chase_58771,Characters/Coupe,Characters/Flambae,Characters/Invisigal,Characters/Malevola,Characters/Phenomaman,Characters/Prism,Characters/Punch_Up,Characters/Robert_Robertson_III,Characters/Sonar,Characters/Waterboy
+| Games=Games/Dispatch
+| Locations=Locations/California,Locations/The_United_States_of_America
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3821258-dossier_golem.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3821258-dossier_golem.png","path":"77\/776653\/","mime":"image\/png","sizes":"square_small,scale_super,square_tiny,square_medium,scale_medium,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_avatar,scale_large","caption":null},"background":[]}' /&gt;
+A construct who is a member of the Z-Team at the Superhero Dispatch Network. Strong and durable, and able to absorb material into himself, but very slow-witted.</text>
+      <sha1>1nfgvw09vljmm7otloaz69e6djrn2vo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Gollet</title>
+    <ns>0</ns>
+    <id>58037</id>
+    <revision>
+      <id>58154</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58154</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="223" sha1="6abff813je1z496qfdez6ywntzsshs4" xml:space="preserve">{{Character
+| Name=Gollet
+| Guid=3005-58820
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Empire_Earth
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>6abff813je1z496qfdez6ywntzsshs4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Gorgol</title>
+    <ns>0</ns>
+    <id>57742</id>
+    <revision>
+      <id>721984</id>
+      <parentid>721983</parentid>
+      <timestamp>2026-02-14T19:40:42Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>721984</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="607" sha1="qgjwifa4sunnaf95gf38adtgp013fuk" xml:space="preserve">{{Character
+| Name=Gorgol
+| Guid=3005-58524
+| Deck=A Geonosian pilot and engineer.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3797665-image.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3797665-image.png","path":"45\/456753\/","mime":"image\/png","sizes":"square_small,scale_super,square_medium,scale_medium,square_tiny,scale_small,square_avatar,scale_avatar,square_mini,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+A Geonosian pilot and engineer.</text>
+      <sha1>qgjwifa4sunnaf95gf38adtgp013fuk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Gorilla 58609</title>
+    <ns>0</ns>
+    <id>57827</id>
+    <revision>
+      <id>57943</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57943</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="355" sha1="4gpdeept7rsi2la3aywca8aizfma0cp" xml:space="preserve">{{Character
+| Name=Gorilla
+| Guid=3005-58609
+| Concepts=
+| Enemies=
+| Franchises=Franchises/Super_Granny
+| Friends=Characters/Dog_58603,Characters/Gnome_58602,Characters/Robo_Kitty
+| Games=Games/Granny_in_Paradise,Games/Super_Granny_Winter_Wonderland
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>4gpdeept7rsi2la3aywca8aizfma0cp</sha1>
+    </revision>
+  </page>
+</mediawiki>

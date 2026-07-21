@@ -1,0 +1,1551 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Locations/Jacksonville 8220</title>
+    <ns>0</ns>
+    <id>264265</id>
+    <revision>
+      <id>637220</id>
+      <parentid>630119</parentid>
+      <timestamp>2026-02-13T21:29:18Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637220</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="746" sha1="l9viayv3jkmh3fn763jons89yb77qvc" xml:space="preserve">{{Location
+| Name=Jacksonville
+| Guid=3035-8220
+| Deck=A city in Alabama and the home of Jacksonville State University.
+| Characters=
+| Concepts=Concepts/Jacksonville_State_Gamecocks
+| Objects=
+| Locations=Locations/Alabama,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614350-9599967312-jacks.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614350-9599967312-jacks.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,square_medium,square_small,scale_medium,square_avatar,square_tiny,square_mini,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+A city in Alabama and the home of Jacksonville State University.</text>
+      <sha1>l9viayv3jkmh3fn763jons89yb77qvc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Jade Forest</title>
+    <ns>0</ns>
+    <id>264014</id>
+    <revision>
+      <id>637082</id>
+      <parentid>629981</parentid>
+      <timestamp>2026-02-13T21:27:40Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637082</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="804" sha1="7zp22y09qdaya54gsup2gpxvybfurio" xml:space="preserve">{{Location
+| Name=Jade Forest
+| Guid=3035-7968
+| Deck=Dense forest filled with monsters located on the path between the Autumn Seaslight and Summer Seaslight.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/20/202039/3445124-2022110623204400-e0a513f2ff231ca5e32e8423db190112.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3445124-2022110623204400-e0a513f2ff231ca5e32e8423db190112.jpg","path":"20\/202039\/","mime":"image\/jpeg","sizes":"scale_small,scale_super,square_small,scale_medium,square_medium,square_avatar,square_tiny,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Dense forest filled with monsters located on the path between the Autumn Seaslight and Summer Seaslight.</text>
+      <sha1>7zp22y09qdaya54gsup2gpxvybfurio</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Jonesboro</title>
+    <ns>0</ns>
+    <id>264237</id>
+    <revision>
+      <id>637192</id>
+      <parentid>630091</parentid>
+      <timestamp>2026-02-13T21:28:59Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637192</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="735" sha1="sfle49scy6w66cjj831n1ihqaqchppk" xml:space="preserve">{{Location
+| Name=Jonesboro
+| Guid=3035-8192
+| Deck=A city in Arkansas and the home of Arkansas State University.
+| Characters=
+| Concepts=Concepts/Arkansas_State_Red_Wolves
+| Objects=
+| Locations=Locations/Arkansas,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614053-3832508495-Craig.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614053-3832508495-Craig.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_tiny,square_medium,square_small,square_avatar,scale_medium,scale_small,scale_super,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Arkansas and the home of Arkansas State University.</text>
+      <sha1>sfle49scy6w66cjj831n1ihqaqchppk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Joshua Tree National Park</title>
+    <ns>0</ns>
+    <id>264027</id>
+    <revision>
+      <id>637095</id>
+      <parentid>629994</parentid>
+      <timestamp>2026-02-13T21:27:49Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637095</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="988" sha1="ebk8rgpj4vgiytp5ikvz83hby6xpj6z" xml:space="preserve">{{Location
+| Name=Joshua Tree National Park
+| Guid=3035-7981
+| Deck=Joshua Tree is a national park located in both Riverside County and San Benardino County in California.
+| Characters=
+| Concepts=Concepts/Flip_Off,Concepts/Human,Concepts/Raccoon
+| Objects=Objects/Joshua_Tree,Objects/Rock,Objects/Sand,Objects/Tree,Objects/Tree_Stump
+| Locations=Locations/California,Locations/Earth,Locations/North_America,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3449114-913068642.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3449114-913068642.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_super,square_avatar,square_small,scale_medium,scale_small,square_tiny,square_medium,square_mini,screen_medium,scale_avatar,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+Joshua Tree is a national park located in both Riverside County and San Benardino County in California.</text>
+      <sha1>ebk8rgpj4vgiytp5ikvz83hby6xpj6z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Jungle Canopy</title>
+    <ns>0</ns>
+    <id>264094</id>
+    <revision>
+      <id>637112</id>
+      <parentid>630011</parentid>
+      <timestamp>2026-02-13T21:28:01Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637112</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="749" sha1="4o6b30v1761o0c9rlsytlkcu8f0r6i4" xml:space="preserve">{{Location
+| Name=Jungle Canopy
+| Guid=3035-8048
+| Deck=A densely forested area nearby the ancient Numerian Lost City.
+| Characters=Characters/Bird_Brain,Characters/Charlie_50664,Characters/The_Bat,Characters/The_Bird
+| Concepts=
+| Objects=
+| Locations=Locations/Numeria
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3464013-5490104441-250.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3464013-5490104441-250.png","path":"7\/73970\/","mime":"image\/png","sizes":"square_small,scale_medium,square_medium,square_tiny,square_avatar,scale_small,square_mini,scale_super,screen_kubrick,scale_avatar,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A densely forested area nearby the ancient Numerian Lost City.</text>
+      <sha1>4o6b30v1761o0c9rlsytlkcu8f0r6i4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Jungle Planet</title>
+    <ns>0</ns>
+    <id>264202</id>
+    <revision>
+      <id>264659</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264659</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="610" sha1="qnb0hteg7m07opc2sccyloxifbkjlma" xml:space="preserve">{{Location
+| Name=Jungle Planet
+| Guid=3035-8156
+| Deck=The '''Jungle Planet''' is a fictional planet appearing in the the Sega Mega Drive–Genesis version of Teenage Mutant Ninja Turtles: Tournament Fighters. Located in Dimension X, it is where Clone Sisyphus is fought.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The '''Jungle Planet''' is a fictional planet appearing in the the Sega Mega Drive–Genesis version of Teenage Mutant Ninja Turtles: Tournament Fighters. Located in Dimension X, it is where Clone Sisyphus is fought.
+</text>
+      <sha1>qnb0hteg7m07opc2sccyloxifbkjlma</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Kaine Island</title>
+    <ns>0</ns>
+    <id>264000</id>
+    <revision>
+      <id>264457</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264457</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="168" sha1="36uo1fvxfkfpo7tqlagrsnpx5iqpxbh" xml:space="preserve">{{Location
+| Name=Kaine Island
+| Guid=3035-7954
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>36uo1fvxfkfpo7tqlagrsnpx5iqpxbh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Kairos</title>
+    <ns>0</ns>
+    <id>264447</id>
+    <revision>
+      <id>264905</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264905</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="162" sha1="knrnland99ayfja301q1evfgipgvqwk" xml:space="preserve">{{Location
+| Name=Kairos
+| Guid=3035-8404
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>knrnland99ayfja301q1evfgipgvqwk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Kalamazoo</title>
+    <ns>0</ns>
+    <id>264326</id>
+    <revision>
+      <id>637281</id>
+      <parentid>630180</parentid>
+      <timestamp>2026-02-13T21:29:59Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637281</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="738" sha1="jc21xa1be2grfzwz462oehz7e87ipp3" xml:space="preserve">{{Location
+| Name=Kalamazoo
+| Guid=3035-8282
+| Deck=A city in Michigan and the home of Western Michigan University.
+| Characters=
+| Concepts=Concepts/Western_Michigan_Broncos
+| Objects=
+| Locations=Locations/Michigan,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614444-9221640664-city-.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614444-9221640664-city-.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_medium,square_small,square_tiny,scale_small,scale_super,scale_medium,square_avatar,square_mini,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+A city in Michigan and the home of Western Michigan University.</text>
+      <sha1>jc21xa1be2grfzwz462oehz7e87ipp3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Kamchatka Peninsula</title>
+    <ns>0</ns>
+    <id>264391</id>
+    <revision>
+      <id>264849</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264849</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="301" sha1="7ahf0z6rxc0gofgdkl6czboq0p9xx3c" xml:space="preserve">{{Location
+| Name=Kamchatka Peninsula
+| Guid=3035-8347
+| Deck=The Kamchatka Peninsula - peninsula in the Russian Far East
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The Kamchatka Peninsula - peninsula in the Russian Far East</text>
+      <sha1>7ahf0z6rxc0gofgdkl6czboq0p9xx3c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Kamihama City</title>
+    <ns>0</ns>
+    <id>264158</id>
+    <revision>
+      <id>264615</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264615</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="169" sha1="drq5ay029qrbau2v39obhnjh5d14n68" xml:space="preserve">{{Location
+| Name=Kamihama City
+| Guid=3035-8112
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>drq5ay029qrbau2v39obhnjh5d14n68</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Karls Bay</title>
+    <ns>0</ns>
+    <id>264340</id>
+    <revision>
+      <id>264798</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264798</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="d74wb59bvefg5yda5elvyzirb252doc" xml:space="preserve">{{Location
+| Name=Karl's Bay
+| Guid=3035-8296
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Blackreef
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>d74wb59bvefg5yda5elvyzirb252doc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Kennesaw</title>
+    <ns>0</ns>
+    <id>264268</id>
+    <revision>
+      <id>637223</id>
+      <parentid>630122</parentid>
+      <timestamp>2026-02-13T21:29:20Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637223</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="758" sha1="3lufznze17jylmymbc01f0gtqucqwsp" xml:space="preserve">{{Location
+| Name=Kennesaw
+| Guid=3035-8223
+| Deck=A city in Georgia and the home of Kennesaw State University.
+| Characters=
+| Concepts=Concepts/Kennesaw_State_Owls
+| Objects=
+| Locations=Locations/Georgia,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614354-3124992365-kenne.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614354-3124992365-kenne.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_super,scale_medium,square_tiny,square_medium,square_avatar,scale_small,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+A city in Georgia and the home of Kennesaw State University.</text>
+      <sha1>3lufznze17jylmymbc01f0gtqucqwsp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Kent</title>
+    <ns>0</ns>
+    <id>264269</id>
+    <revision>
+      <id>637224</id>
+      <parentid>630123</parentid>
+      <timestamp>2026-02-13T21:29:20Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637224</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="733" sha1="57zqv96f1iwaoxjohxuxb39xqd8jxs9" xml:space="preserve">{{Location
+| Name=Kent
+| Guid=3035-8224
+| Deck=A city in Ohio and the home of Kent State University.
+| Characters=
+| Concepts=Concepts/Kent_State_Golden_Flashes
+| Objects=
+| Locations=Locations/Brands_Hatch,Locations/Ohio,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614356-7153442287-Downt.JPG}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614356-7153442287-Downt.JPG","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_super,scale_small,square_medium,square_avatar,scale_medium,square_mini,square_tiny,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+A city in Ohio and the home of Kent State University.</text>
+      <sha1>57zqv96f1iwaoxjohxuxb39xqd8jxs9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Kessari Quadrant</title>
+    <ns>0</ns>
+    <id>263986</id>
+    <revision>
+      <id>637065</id>
+      <parentid>629964</parentid>
+      <timestamp>2026-02-13T21:27:28Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637065</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1177" sha1="ipmgyjoyk8yqdcodhwb417uwleuv2th" xml:space="preserve">{{Location
+| Name=Kessari Quadrant
+| Guid=3035-7938
+| Deck=The Kessari Quadrant is the main setting of Star Control 3 and is located at the far edge of the Milky Way Galaxy.
+| Characters=
+| Concepts=Concepts/Arilou,Concepts/Chmmr,Concepts/Clairconctlar,Concepts/Daktaklakpak,Concepts/Doog,Concepts/Exquivan,Concepts/Harika,Concepts/Heralds,Concepts/Human,Concepts/Ktang_Kaktorri,Concepts/Lk,Concepts/Mycon,Concepts/Orz,Concepts/Owa,Concepts/Pkunk,Concepts/Ploxis,Concepts/Spathi,Concepts/Syreen,Concepts/Ur_Quan_Kor_Ah,Concepts/Ur_Quan_Kzer_Za,Concepts/Utwig,Concepts/VUX,Concepts/Vyro_Ingo,Concepts/Xchagger
+| Objects=
+| Locations=Locations/The_Milky_Way_Galaxy
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3438101-quad.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3438101-quad.png","path":"52\/520822\/","mime":"image\/png","sizes":"square_small,scale_medium,scale_super,scale_small,square_tiny,square_avatar,square_medium,square_mini,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+The Kessari Quadrant is the main setting of Star Control 3 and is located at the far edge of the Milky Way Galaxy.</text>
+      <sha1>ipmgyjoyk8yqdcodhwb417uwleuv2th</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Kingdom of Drakenheim</title>
+    <ns>0</ns>
+    <id>264393</id>
+    <revision>
+      <id>264851</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264851</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="177" sha1="kbbj76y081mz9ywa5s901g4nyxloh9t" xml:space="preserve">{{Location
+| Name=Kingdom of Drakenheim
+| Guid=3035-8349
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>kbbj76y081mz9ywa5s901g4nyxloh9t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Klamath County</title>
+    <ns>0</ns>
+    <id>264409</id>
+    <revision>
+      <id>637320</id>
+      <parentid>630219</parentid>
+      <timestamp>2026-02-13T21:30:27Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637320</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="843" sha1="ovcpa7248wqzx6z2hxpn0vzqqmbbfqf" xml:space="preserve">{{Location
+| Name=Klamath County
+| Guid=3035-8365
+| Deck=Klamath County is a county in Oregon.
+| Characters=Characters/Deacon_St_John
+| Concepts=
+| Objects=
+| Locations=Locations/Chemult,Locations/Earth,Locations/Klamath,Locations/North_America,Locations/Oregon,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America,Locations/U_S_Route_97
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3732389-klamath_river_mouth_aerial_view.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3732389-klamath_river_mouth_aerial_view.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_medium,square_small,square_avatar,scale_medium,scale_super,square_tiny,scale_small,scale_large,scale_avatar,square_mini,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Klamath County is a county in Oregon.</text>
+      <sha1>ovcpa7248wqzx6z2hxpn0vzqqmbbfqf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Knoxville</title>
+    <ns>0</ns>
+    <id>264310</id>
+    <revision>
+      <id>637265</id>
+      <parentid>630164</parentid>
+      <timestamp>2026-02-13T21:29:49Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637265</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="769" sha1="tnwon9zqgpwitwo8do6yn50ypl0eihc" xml:space="preserve">{{Location
+| Name=Knoxville
+| Guid=3035-8265
+| Deck=A city in Tennessee and the home of the University of Tennessee.
+| Characters=
+| Concepts=Concepts/Tennessee_Volunteers
+| Objects=
+| Locations=Locations/Southern_United_States,Locations/Tennessee,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614431-4071350613-The_B.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614431-4071350613-The_B.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_small,scale_medium,scale_small,square_medium,square_avatar,square_tiny,scale_super,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Tennessee and the home of the University of Tennessee.</text>
+      <sha1>tnwon9zqgpwitwo8do6yn50ypl0eihc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Kordofan</title>
+    <ns>0</ns>
+    <id>264390</id>
+    <revision>
+      <id>264848</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264848</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="198" sha1="mfsrsw9rlmiuvv8yfg01qcf4g9ta9ip" xml:space="preserve">{{Location
+| Name=Kordofan
+| Guid=3035-8346
+| Deck=city in Sudan
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+city in Sudan</text>
+      <sha1>mfsrsw9rlmiuvv8yfg01qcf4g9ta9ip</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Kurdistan</title>
+    <ns>0</ns>
+    <id>264172</id>
+    <revision>
+      <id>264629</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264629</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="166" sha1="cuzx0jogke9p5rvld7fgy39sjwb4ceb" xml:space="preserve">{{Location
+| Name=Kurdistan 
+| Guid=3035-8126
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>cuzx0jogke9p5rvld7fgy39sjwb4ceb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Kwik E Mart</title>
+    <ns>0</ns>
+    <id>264471</id>
+    <revision>
+      <id>637339</id>
+      <parentid>630238</parentid>
+      <timestamp>2026-02-13T21:30:41Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637339</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1584" sha1="hvy3jrcqvuo3hcfleg91pd8wrblell1" xml:space="preserve">{{Location
+| Name=Kwik-E-Mart
+| Guid=3035-8428
+| Deck=Kwik-E-Marts are convenience stores located all around Springfield.
+| Characters=Characters/Apu_Nahasapeemapetilon,Characters/Bart_Simpson,Characters/Brian_Griffin,Characters/Chief_Wiggum,Characters/Chris_Griffin,Characters/Homer_Simpson,Characters/Jonesy_55810,Characters/Lisa_Simpson,Characters/Lois_Griffin,Characters/Maggie_Simpson,Characters/Marge_Simpson,Characters/Meg_Griffin,Characters/Mr_Burns,Characters/Peter_Griffin,Characters/Ralph_Wiggum,Characters/Sideshow_Bob,Characters/Stewie_Griffin,Characters/Waylon_Smithers
+| Concepts=
+| Objects=Objects/Alcoholic_Beverages,Objects/Beer,Objects/Buzz_Cola,Objects/Coca_Cola,Objects/Cola,Objects/Doughnut,Objects/Hot_Dog,Objects/Mountain_Dew,Objects/Pepsi,Objects/Soft_Drink,Objects/Squishee,Objects/Water
+| Locations=Locations/7_Eleven,Locations/BURD_E_Mart,Locations/California,Locations/Canada,Locations/Hollywood,Locations/Los_Angeles,Locations/Myrtle_Beach,Locations/North_America,Locations/Oregon,Locations/South_Carolina,Locations/Springfield,Locations/The_United_States_of_America,Locations/Unnamed_North_American_Location
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3819713-800px-kwik-e-mart_webp.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3819713-800px-kwik-e-mart_webp.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_medium,scale_super,square_small,square_avatar,square_medium,scale_small,square_mini,square_tiny","caption":null},"background":[]}' /&gt;
+Kwik-E-Marts are convenience stores located all around Springfield.</text>
+      <sha1>hvy3jrcqvuo3hcfleg91pd8wrblell1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/LAX</title>
+    <ns>0</ns>
+    <id>264331</id>
+    <revision>
+      <id>637286</id>
+      <parentid>630185</parentid>
+      <timestamp>2026-02-13T21:30:03Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637286</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="879" sha1="3acuyrh503twvipg5dad6hqdfdee9ph" xml:space="preserve">{{Location
+| Name=LAX
+| Guid=3035-8287
+| Deck=The airport of Los Angeles
+| Characters=Characters/Frances_Coen,Characters/Norman_Soth,Characters/Sam_Fisher
+| Concepts=Concepts/Police
+| Objects=Objects/Airplane,Objects/Helicopter
+| Locations=Locations/Airport,Locations/California,Locations/Earth,Locations/Los_Angeles,Locations/Los_Santos_International_Airport,Locations/North_America,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3632116-lax-7.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3632116-lax-7.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_medium,square_avatar,square_small,scale_super,scale_small,scale_medium,square_tiny,square_mini,screen_kubrick,scale_avatar,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+The airport of Los Angeles</text>
+      <sha1>3acuyrh503twvipg5dad6hqdfdee9ph</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Lafayette</title>
+    <ns>0</ns>
+    <id>264272</id>
+    <revision>
+      <id>637227</id>
+      <parentid>630126</parentid>
+      <timestamp>2026-02-13T21:29:23Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637227</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="725" sha1="oh98qdn8svp9mu3w481xec4pfya71dj" xml:space="preserve">{{Location
+| Name=Lafayette
+| Guid=3035-8227
+| Deck=A city in Louisiana and the home of Louisiana University.
+| Characters=
+| Concepts=Concepts/Louisiana_Ragin_Cajuns
+| Objects=
+| Locations=Locations/Louisiana,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614359-7833077460-B6730.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614359-7833077460-B6730.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,square_medium,square_avatar,square_small,scale_medium,square_tiny,scale_small,square_mini,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+A city in Louisiana and the home of Louisiana University.</text>
+      <sha1>oh98qdn8svp9mu3w481xec4pfya71dj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Lake Nicaragua</title>
+    <ns>0</ns>
+    <id>264451</id>
+    <revision>
+      <id>637335</id>
+      <parentid>630234</parentid>
+      <timestamp>2026-02-13T21:30:38Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637335</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="904" sha1="b0x5zdduq1dzemb7sb7sdfo2yuuy9h7" xml:space="preserve">{{Location
+| Name=Lake Nicaragua
+| Guid=3035-8408
+| Deck=Lake Nicaragua is a fresh water lake located in Nicaragua.
+| Characters=Characters/Big_Boss,Characters/Strangelove
+| Concepts=Concepts/Heroic_Sacrifice,Concepts/Sacrifice
+| Objects=Objects/Bandana,Objects/Metal_Gear,Objects/Peace_Walker_Basilisk
+| Locations=Locations/Earth,Locations/Lake,Locations/Nicaragua,Locations/South_America,Locations/The_Milky_Way_Galaxy
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3805604-ometepe-island-lake-nicaragua-simon-dannhauer.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3805604-ometepe-island-lake-nicaragua-simon-dannhauer.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_medium,square_small,scale_small,square_medium,square_avatar,scale_super,square_tiny,square_mini","caption":null},"background":[]}' /&gt;
+Lake Nicaragua is a fresh water lake located in Nicaragua.</text>
+      <sha1>b0x5zdduq1dzemb7sb7sdfo2yuuy9h7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Lake Sherwood</title>
+    <ns>0</ns>
+    <id>264125</id>
+    <revision>
+      <id>637132</id>
+      <parentid>630031</parentid>
+      <timestamp>2026-02-13T21:28:15Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637132</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1087" sha1="892hbackw0jl24wdukp8zrxauc2q398" xml:space="preserve">{{Location
+| Name=Lake Sherwood
+| Guid=3035-8079
+| Deck=Lake Sherwood is an unincorporated area in Thousand Oaks, California known for housing Sherwood Country Club.
+| Characters=Characters/Caitlyn_Jenner,Characters/Justin_Bieber,Characters/Kim_Kardashian,Characters/Tiger_Woods,Characters/Wayne_Gretzky
+| Concepts=Concepts/Golf
+| Objects=
+| Locations=Locations/California,Locations/Earth,Locations/North_America,Locations/Sherwood_Country_Club,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America,Locations/Thousand_Oaks
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3486954-lake-sherwood-23-1030x688.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3486954-lake-sherwood-23-1030x688.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,scale_small,square_avatar,square_small,square_medium,square_tiny,scale_avatar,square_mini,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Lake Sherwood is an unincorporated area in Thousand Oaks, California known for housing Sherwood Country Club.</text>
+      <sha1>892hbackw0jl24wdukp8zrxauc2q398</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Lakeshore City</title>
+    <ns>0</ns>
+    <id>264225</id>
+    <revision>
+      <id>637182</id>
+      <parentid>630081</parentid>
+      <timestamp>2026-02-13T21:28:52Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637182</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="702" sha1="iqqmmkuf1th578s3k9ad15u2svzc5cg" xml:space="preserve">{{Location
+| Name=Lakeshore City
+| Guid=3035-8180
+| Deck=This Chicago, Illinois-inspired city is the setting of Need for Speed Unbound.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/31/315439/3571865-6345281811-latest.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3571865-6345281811-latest.jpg","path":"31\/315439\/","mime":"image\/jpeg","sizes":"scale_small,square_small,scale_super,square_avatar,square_medium,scale_medium,square_mini,square_tiny,screen_kubrick,scale_avatar,scale_large,screen_medium,scale_tiny","caption":null},"background":[]}' /&gt;
+This Chicago, Illinois-inspired city is the setting of Need for Speed Unbound.</text>
+      <sha1>iqqmmkuf1th578s3k9ad15u2svzc5cg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Laramie</title>
+    <ns>0</ns>
+    <id>264328</id>
+    <revision>
+      <id>637283</id>
+      <parentid>630182</parentid>
+      <timestamp>2026-02-13T21:30:01Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637283</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="720" sha1="b8mmecjttbi8bsbv86biytvrhlx1lao" xml:space="preserve">{{Location
+| Name=Laramie
+| Guid=3035-8284
+| Deck=A city in Wyoming and the home of the University of Wyoming.
+| Characters=
+| Concepts=Concepts/Wyoming_Cowboys
+| Objects=
+| Locations=Locations/The_United_States_of_America,Locations/Wyoming
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614446-1999939722-Laram.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614446-1999939722-Laram.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,square_small,square_medium,scale_medium,square_tiny,square_avatar,scale_small,square_mini,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+A city in Wyoming and the home of the University of Wyoming.</text>
+      <sha1>b8mmecjttbi8bsbv86biytvrhlx1lao</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Lard Lad Donuts</title>
+    <ns>0</ns>
+    <id>264449</id>
+    <revision>
+      <id>637333</id>
+      <parentid>630232</parentid>
+      <timestamp>2026-02-13T21:30:37Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637333</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1304" sha1="f71esvfxp9i84klv8o36tg67e6rl48d" xml:space="preserve">{{Location
+| Name=Lard Lad Donuts
+| Guid=3035-8406
+| Deck=Lard Lad Donuts is Homer Simpson's favorite doughnut shop in Springfield, and the creator of the large pink doughnut.
+| Characters=Characters/Apu_Nahasapeemapetilon,Characters/Chief_Wiggum,Characters/Comic_Book_Guy,Characters/Homer_Simpson,Characters/Jonesy_55810,Characters/Mr_Burns,Characters/Waylon_Smithers
+| Concepts=Concepts/Parody
+| Objects=Objects/Crate,Objects/Donut_Hole,Objects/Doughnut,Objects/Giant_Donut,Objects/Gun,Objects/Pistol,Objects/Police_Car,Objects/Revolver,Objects/Sugar
+| Locations=Locations/California,Locations/Earth,Locations/Florida,Locations/Hollywood,Locations/North_America,Locations/Oregon,Locations/Orlando,Locations/Springfield,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America,Locations/Unnamed_North_American_Location
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3801742-lard_lad_2.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3801742-lard_lad_2.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_medium,square_small,scale_super,square_medium,scale_small,square_avatar,square_tiny,square_mini","caption":null},"background":[]}' /&gt;
+Lard Lad Donuts is Homer Simpson's favorite doughnut shop in Springfield, and the creator of the large pink doughnut.</text>
+      <sha1>f71esvfxp9i84klv8o36tg67e6rl48d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Las Cruces</title>
+    <ns>0</ns>
+    <id>264286</id>
+    <revision>
+      <id>637241</id>
+      <parentid>630140</parentid>
+      <timestamp>2026-02-13T21:29:32Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637241</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="744" sha1="awfk2cx7adbe1qnb90g5pen2xgsmagn" xml:space="preserve">{{Location
+| Name=Las Cruces
+| Guid=3035-8241
+| Deck=A city in New Mexico and the home of New Mexico State University.
+| Characters=
+| Concepts=Concepts/New_Mexico_State_Aggies
+| Objects=
+| Locations=Locations/New_Mexico,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614379-0536981949-c16be.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614379-0536981949-c16be.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_super,square_medium,square_tiny,square_avatar,scale_small,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A city in New Mexico and the home of New Mexico State University.</text>
+      <sha1>awfk2cx7adbe1qnb90g5pen2xgsmagn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Layout Square</title>
+    <ns>0</ns>
+    <id>264110</id>
+    <revision>
+      <id>264567</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264567</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="169" sha1="magxi1u2khstntrgqo09cjd2h4z0qx2" xml:space="preserve">{{Location
+| Name=Layout Square
+| Guid=3035-8064
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>magxi1u2khstntrgqo09cjd2h4z0qx2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Leaky Lake</title>
+    <ns>0</ns>
+    <id>264422</id>
+    <revision>
+      <id>264880</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264880</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="166" sha1="e9u128smxzcvklbjll0ss1yxuly8e6v" xml:space="preserve">{{Location
+| Name=Leaky Lake
+| Guid=3035-8378
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>e9u128smxzcvklbjll0ss1yxuly8e6v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Leonida</title>
+    <ns>0</ns>
+    <id>264174</id>
+    <revision>
+      <id>264631</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264631</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="392" sha1="d84x3ytokkpesvicg0mg0cmuy0h166s" xml:space="preserve">{{Location
+| Name=Leonida
+| Guid=3035-8128
+| Deck=A fictional state from the Grand Theft Auto series, most notably home to the metropolis of Vice City.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Vice_City
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+A fictional state from the Grand Theft Auto series, most notably home to the metropolis of Vice City.</text>
+      <sha1>d84x3ytokkpesvicg0mg0cmuy0h166s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Lexington</title>
+    <ns>0</ns>
+    <id>264270</id>
+    <revision>
+      <id>637225</id>
+      <parentid>630124</parentid>
+      <timestamp>2026-02-13T21:29:21Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637225</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="762" sha1="o6nbx430hkf5nji4nbo0dzw65hm631s" xml:space="preserve">{{Location
+| Name=Lexington
+| Guid=3035-8225
+| Deck=A city in Kentucky and the home of the University of Kentucky.
+| Characters=
+| Concepts=Concepts/Kentucky_Wildcats
+| Objects=
+| Locations=Locations/Kentucky,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614357-6093586850-Map_D.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614357-6093586850-Map_D.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,square_medium,square_avatar,scale_super,scale_medium,scale_small,square_mini,square_tiny,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+A city in Kentucky and the home of the University of Kentucky.</text>
+      <sha1>o6nbx430hkf5nji4nbo0dzw65hm631s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Lincoln</title>
+    <ns>0</ns>
+    <id>264285</id>
+    <revision>
+      <id>637240</id>
+      <parentid>630139</parentid>
+      <timestamp>2026-02-13T21:29:32Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637240</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="763" sha1="76evj86o2qcq2j2gdoijg861wl1njy5" xml:space="preserve">{{Location
+| Name=Lincoln
+| Guid=3035-8240
+| Deck=The capital city of Nebraska and home of the University of Nebraska.
+| Characters=Characters/Brian_Cook
+| Concepts=Concepts/Nebraska_Cornhuskers
+| Objects=
+| Locations=Locations/Nebraska,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614378-2940028802-shutt.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614378-2940028802-shutt.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,square_small,square_medium,square_tiny,scale_small,square_mini,scale_medium,square_avatar,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+The capital city of Nebraska and home of the University of Nebraska.</text>
+      <sha1>76evj86o2qcq2j2gdoijg861wl1njy5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Living Island</title>
+    <ns>0</ns>
+    <id>264090</id>
+    <revision>
+      <id>637108</id>
+      <parentid>630007</parentid>
+      <timestamp>2026-02-13T21:27:58Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637108</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="929" sha1="kx19xi3pslyverrrxwq5syf5dvnah81" xml:space="preserve">{{Location
+| Name=Living Island
+| Guid=3035-8044
+| Deck=The name given to the setting of The ClueFinders 5th Grade Adventures: Secret of the Living Volcano.
+| Characters=Characters/Charlotte_No_Haira,Characters/Chicken_Man,Characters/Eco,Characters/Lab5,Characters/The_Big_Face,Characters/The_Big_Fish,Characters/The_Great_CrypTile_Thief,Characters/Tobor,Characters/Tube
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3463700-4474967916-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3463700-4474967916-latest.png","path":"7\/73970\/","mime":"image\/png","sizes":"scale_small,scale_super,square_small,square_avatar,square_medium,scale_medium,square_tiny,square_mini,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+The name given to the setting of The ClueFinders 5th Grade Adventures: Secret of the Living Volcano.</text>
+      <sha1>kx19xi3pslyverrrxwq5syf5dvnah81</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Logan</title>
+    <ns>0</ns>
+    <id>264319</id>
+    <revision>
+      <id>637274</id>
+      <parentid>630173</parentid>
+      <timestamp>2026-02-13T21:29:54Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637274</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="702" sha1="pmz62u3zavdqh1qlxerhgwc0kcbmol9" xml:space="preserve">{{Location
+| Name=Logan
+| Guid=3035-8275
+| Deck=A city in Utah and the home of Utah State University.
+| Characters=
+| Concepts=Concepts/Utah_State_Aggies
+| Objects=
+| Locations=Locations/The_United_States_of_America,Locations/Utah
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614440-7256302537-Scree.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614440-7256302537-Scree.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_super,square_medium,square_small,square_tiny,scale_medium,scale_small,square_avatar,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Utah and the home of Utah State University.</text>
+      <sha1>pmz62u3zavdqh1qlxerhgwc0kcbmol9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Long Beach</title>
+    <ns>0</ns>
+    <id>264383</id>
+    <revision>
+      <id>1007534</id>
+      <parentid>752336</parentid>
+      <timestamp>2026-07-19T17:53:37Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007534</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1154" sha1="t1742smmsofln7h5c9kcx2dcpi0su9s" xml:space="preserve">{{Location
+| Name=Long Beach
+| Guid=3035-8339
+| Deck=Long Beach is a coastal city in Los Angeles County, California.
+| Characters=Characters/Snoop_Dogg
+| Concepts=Concepts/Hip_Hop_2771
+| Objects=Objects/Burrito,Objects/Car,Objects/Hamburger
+| Locations=Locations/Beach,Locations/Burger_King,Locations/California,Locations/Clothing_Store,Locations/Earth,Locations/Los_Angeles,Locations/McDonalds,Locations/North_America,Locations/Pacific_Ocean,Locations/Restaurant,Locations/Taco_Bell,Locations/The_Milky_Way_Galaxy,Locations/Wendys
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3672917-credit-20long-20beach-20convention-20-26-20visitors-20bureau-skylineextended_jpg_webp.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3672917-credit-20long-20beach-20convention-20-26-20visitors-20bureau-skylineextended_jpg_webp.png","path":"8\/82962\/","mime":"image\/png","sizes":"square_small,scale_medium,scale_super,square_medium,scale_small,square_avatar,square_mini,square_tiny,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Long Beach is a coastal city in Los Angeles County, California.</text>
+      <sha1>t1742smmsofln7h5c9kcx2dcpi0su9s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Long Island</title>
+    <ns>0</ns>
+    <id>264370</id>
+    <revision>
+      <id>637302</id>
+      <parentid>630201</parentid>
+      <timestamp>2026-02-13T21:30:14Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637302</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="856" sha1="c657b0x2cg2xu4q71zum68k6av8j15j" xml:space="preserve">{{Location
+| Name=Long Island
+| Guid=3035-8326
+| Deck=Long Island is a densely populated continental island in southeastern New York state, extending into the Atlantic Ocean.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Atlantic_Ocean,Locations/New_York,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3653271-4234700952-skyli.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3653271-4234700952-skyli.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"scale_super,scale_medium,scale_small,square_small,square_medium,square_tiny,square_avatar,square_mini,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+Long Island is a densely populated continental island in southeastern New York state, extending into the Atlantic Ocean.</text>
+      <sha1>c657b0x2cg2xu4q71zum68k6av8j15j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Loot Lake</title>
+    <ns>0</ns>
+    <id>264416</id>
+    <revision>
+      <id>264874</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264874</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" sha1="g8mw2jpvme698y9h41mo36vmovnxtae" xml:space="preserve">{{Location
+| Name=Loot Lake
+| Guid=3035-8372
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>g8mw2jpvme698y9h41mo36vmovnxtae</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Lost City</title>
+    <ns>0</ns>
+    <id>264095</id>
+    <revision>
+      <id>637113</id>
+      <parentid>630012</parentid>
+      <timestamp>2026-02-13T21:28:02Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637113</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1023" sha1="do4bsmux39f65t4m5mldho7frqpgwxc" xml:space="preserve">{{Location
+| Name=Lost City
+| Guid=3035-8049
+| Deck=A fictional location depicted in The ClueFinders 3rd Grade Adventures: Mystery of Mathra. It is an ancient, abandoned city inside the Numerian rain forest.
+| Characters=Characters/Brainstorm_50671,Characters/Lefty_50667,Characters/Righty,Characters/The_Dragons,Characters/The_Orb_50670,Characters/Yorrick,Characters/Zep,Characters/Zoe_50666
+| Concepts=
+| Objects=
+| Locations=Locations/Numeria
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3464015-1838041890-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3464015-1838041890-latest.png","path":"7\/73970\/","mime":"image\/png","sizes":"scale_super,square_small,scale_small,square_avatar,scale_medium,square_medium,square_mini,square_tiny,screen_kubrick,scale_avatar,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A fictional location depicted in The ClueFinders 3rd Grade Adventures: Mystery of Mathra. It is an ancient, abandoned city inside the Numerian rain forest.</text>
+      <sha1>do4bsmux39f65t4m5mldho7frqpgwxc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Lost Lake</title>
+    <ns>0</ns>
+    <id>264401</id>
+    <revision>
+      <id>637312</id>
+      <parentid>630211</parentid>
+      <timestamp>2026-02-13T21:30:21Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637312</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1072" sha1="21ptj880fklu567u6u1oieo6889qpa9" xml:space="preserve">{{Location
+| Name=Lost Lake
+| Guid=3035-8357
+| Deck=Lost Lake is a lake in Mount Hood National Forest.
+| Characters=Characters/Addy_Walker,Characters/Boozer,Characters/Deacon_St_John,Characters/Iron_Mike,Characters/Rikki_Patil,Characters/Skizzo
+| Concepts=
+| Objects=
+| Locations=Locations/Earth,Locations/Forest,Locations/Hood_River_County,Locations/Lake,Locations/Lost_Lake_Resort,Locations/Mount_Hood_National_Forest,Locations/North_America,Locations/Oregon,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3732373-famous_view_of_lost_lake_mount_hood_in_the_distance.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3732373-famous_view_of_lost_lake_mount_hood_in_the_distance.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_super,square_avatar,square_medium,scale_small,square_small,square_tiny,scale_medium,scale_avatar,square_mini,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Lost Lake is a lake in Mount Hood National Forest.</text>
+      <sha1>21ptj880fklu567u6u1oieo6889qpa9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Lost Lake Resort</title>
+    <ns>0</ns>
+    <id>264402</id>
+    <revision>
+      <id>637313</id>
+      <parentid>630212</parentid>
+      <timestamp>2026-02-13T21:30:22Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637313</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1023" sha1="cj1kml8xl8j7jd5l3lgt7x4b9pn1d0i" xml:space="preserve">{{Location
+| Name=Lost Lake Resort
+| Guid=3035-8358
+| Deck=Lost Lake Resort is a real life campground and resort in Oregon.
+| Characters=Characters/Addy_Walker,Characters/Boozer,Characters/Deacon_St_John,Characters/Iron_Mike,Characters/Rikki_Patil,Characters/Skizzo
+| Concepts=
+| Objects=
+| Locations=Locations/Earth,Locations/Forest,Locations/Hood_River_County,Locations/Lake,Locations/Lost_Lake,Locations/Mount_Hood_National_Forest,Locations/North_America,Locations/Oregon,Locations/Park,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3732376-zzzzz.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3732376-zzzzz.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_medium,square_medium,square_avatar,square_small,scale_super,square_tiny,scale_small,screen_kubrick,scale_large,scale_avatar,square_mini,screen_medium","caption":null},"background":[]}' /&gt;
+Lost Lake Resort is a real life campground and resort in Oregon.</text>
+      <sha1>cj1kml8xl8j7jd5l3lgt7x4b9pn1d0i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Louisville</title>
+    <ns>0</ns>
+    <id>264191</id>
+    <revision>
+      <id>637177</id>
+      <parentid>630076</parentid>
+      <timestamp>2026-02-13T21:28:48Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637177</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="847" sha1="t5nvnow5hc44v0qglnuidhtudnkmafj" xml:space="preserve">{{Location
+| Name=Louisville
+| Guid=3035-8145
+| Deck=A city in Kentucky and the home of the University of Louisville.
+| Characters=Characters/Allan_Houston
+| Concepts=Concepts/Louisville_Cardinals
+| Objects=
+| Locations=Locations/Kentucky,Locations/North_America,Locations/Southern_United_States,Locations/The_United_States_of_America,Locations/Valhalla_Golf_Club
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614306-7617967984-4c592.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614306-7617967984-4c592.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_small,square_small,scale_super,square_tiny,square_medium,square_avatar,scale_medium,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+A city in Kentucky and the home of the University of Louisville.</text>
+      <sha1>t5nvnow5hc44v0qglnuidhtudnkmafj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Lubbock</title>
+    <ns>0</ns>
+    <id>264313</id>
+    <revision>
+      <id>637268</id>
+      <parentid>630167</parentid>
+      <timestamp>2026-02-13T21:29:50Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637268</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="713" sha1="9sk3fshzxcc9tyx0yorouq641lpital" xml:space="preserve">{{Location
+| Name=Lubbock
+| Guid=3035-8268
+| Deck=A city in Texas and the home of Texas Tech University.
+| Characters=
+| Concepts=Concepts/Texas_Tech_Red_Raiders
+| Objects=
+| Locations=Locations/Texas,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614434-2632917937-Downt.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614434-2632917937-Downt.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,square_medium,square_small,square_tiny,scale_small,scale_medium,square_avatar,square_mini,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A city in Texas and the home of Texas Tech University.</text>
+      <sha1>9sk3fshzxcc9tyx0yorouq641lpital</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Lutacity</title>
+    <ns>0</ns>
+    <id>264394</id>
+    <revision>
+      <id>264852</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264852</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" sha1="pb3vqbrxra8qccbwz4yhnml4zipuqpe" xml:space="preserve">{{Location
+| Name= Lutacity
+| Guid=3035-8350
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>pb3vqbrxra8qccbwz4yhnml4zipuqpe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Lympne Kent</title>
+    <ns>0</ns>
+    <id>264426</id>
+    <revision>
+      <id>637323</id>
+      <parentid>630222</parentid>
+      <timestamp>2026-02-13T21:30:30Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637323</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="676" sha1="nelar1h475how6urkxntvxzpuyrxqan" xml:space="preserve">{{Location
+| Name=Lympne, Kent
+| Guid=3035-8382
+| Deck=A village in the county of Kent, England.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/England,Locations/Europe,Locations/United_Kingdom
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3754100-0261784878-250px.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3754100-0261784878-250px.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,scale_super,scale_small,square_avatar,scale_medium,square_tiny,square_medium,square_mini,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A village in the county of Kent, England.</text>
+      <sha1>nelar1h475how6urkxntvxzpuyrxqan</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Lynchburg</title>
+    <ns>0</ns>
+    <id>264271</id>
+    <revision>
+      <id>1007542</id>
+      <parentid>637226</parentid>
+      <timestamp>2026-07-19T17:54:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007542</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="754" sha1="03ylezfxq0ie1scb7toh1bqcjs06w64" xml:space="preserve">{{Location
+| Name=Lynchburg
+| Guid=3035-8226
+| Deck=A city in Virginia and the home of Liberty University.
+| Characters=
+| Concepts=Concepts/Liberty_Flames
+| Objects=
+| Locations=Locations/The_United_States_of_America,Locations/Virginia
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614358-screenshot2024-08-18at11.35.54%E2%80%AFam.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614358-screenshot2024-08-18at11.35.54\u202fam.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_medium,square_small,scale_medium,scale_super,square_tiny,scale_small,square_avatar,square_mini,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":""},"background":[]}' /&gt;
+A city in Virginia and the home of Liberty University.</text>
+      <sha1>03ylezfxq0ie1scb7toh1bqcjs06w64</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Macau Grand Prix</title>
+    <ns>0</ns>
+    <id>264087</id>
+    <revision>
+      <id>637107</id>
+      <parentid>630006</parentid>
+      <timestamp>2026-02-13T21:27:58Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637107</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="462" sha1="8vsmrgkhnu6yeby961zh6l431i2havh" xml:space="preserve">{{Location
+| Name=Macau Grand Prix
+| Guid=3035-8041
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3826266-0599702543-hq720.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3826266-0599702543-hq720.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,scale_medium,square_medium,square_small,square_mini,square_tiny","caption":null},"background":[]}' /&gt;</text>
+      <sha1>8vsmrgkhnu6yeby961zh6l431i2havh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Madison</title>
+    <ns>0</ns>
+    <id>264327</id>
+    <revision>
+      <id>637282</id>
+      <parentid>630181</parentid>
+      <timestamp>2026-02-13T21:30:00Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637282</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="770" sha1="ldocx62pvw8kbiyozz6pyfz70miy8jh" xml:space="preserve">{{Location
+| Name=Madison
+| Guid=3035-8283
+| Deck=The capital of Wisconsin and the home of the University of Wisconsin.
+| Characters=
+| Concepts=Concepts/Wisconsin_Badgers
+| Objects=
+| Locations=Locations/Taco_Bell_Cantina,Locations/The_United_States_of_America,Locations/Wisconsin
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614445-3053564528-10265.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614445-3053564528-10265.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,square_medium,square_small,scale_medium,square_tiny,square_avatar,scale_small,square_mini,screen_kubrick,scale_avatar,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+The capital of Wisconsin and the home of the University of Wisconsin.</text>
+      <sha1>ldocx62pvw8kbiyozz6pyfz70miy8jh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Madlantis</title>
+    <ns>0</ns>
+    <id>264343</id>
+    <revision>
+      <id>637289</id>
+      <parentid>630188</parentid>
+      <timestamp>2026-02-13T21:30:06Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637289</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="742" sha1="j3jmf75np744jq5n5bx5yjoucfykfrw" xml:space="preserve">{{Location
+| Name=Madlantis
+| Guid=3035-8299
+| Deck=A secret island that serves as a hub for co-existing criminal enterprises.
+| Characters=
+| Concepts=Concepts/Pirate
+| Objects=
+| Locations=Locations/Island,Locations/Pacific_Ocean
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3628255-4844576076-Like-.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3628255-4844576076-Like-.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_tiny,square_medium,scale_large,scale_super,square_small,scale_small,scale_medium,square_tiny,square_avatar,screen_medium,square_mini,screen_kubrick,scale_avatar","caption":null},"background":[]}' /&gt;
+A secret island that serves as a hub for co-existing criminal enterprises.</text>
+      <sha1>j3jmf75np744jq5n5bx5yjoucfykfrw</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1520 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Locations/Fresno</title>
+    <ns>0</ns>
+    <id>264257</id>
+    <revision>
+      <id>637212</id>
+      <parentid>630111</parentid>
+      <timestamp>2026-02-13T21:29:12Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637212</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="738" sha1="40j6qyp3wf2a42djyytg81cmw4a68nx" xml:space="preserve">{{Location
+| Name=Fresno
+| Guid=3035-8212
+| Deck=A city in California and the home of Fresno State University.
+| Characters=
+| Concepts=Concepts/Fresno_State_Bulldogs
+| Objects=
+| Locations=Locations/California,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3603042-fresno-brown-wave-l.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3603042-fresno-brown-wave-l.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_medium,square_small,scale_medium,scale_super,square_tiny,scale_small,square_avatar,scale_avatar,square_mini,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A city in California and the home of Fresno State University.</text>
+      <sha1>40j6qyp3wf2a42djyytg81cmw4a68nx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Fristad Rock</title>
+    <ns>0</ns>
+    <id>264339</id>
+    <revision>
+      <id>264797</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264797</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="187" sha1="llm02dsbi5peysj7z3gh80ebst7hwwp" xml:space="preserve">{{Location
+| Name=Fristad Rock
+| Guid=3035-8295
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Blackreef
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>llm02dsbi5peysj7z3gh80ebst7hwwp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Frostheim</title>
+    <ns>0</ns>
+    <id>264136</id>
+    <revision>
+      <id>264593</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264593</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" sha1="jibfhvpr7o0d0co4ny3x3umux98epgd" xml:space="preserve">{{Location
+| Name=Frostheim
+| Guid=3035-8090
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jibfhvpr7o0d0co4ny3x3umux98epgd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Futuristic City Planet</title>
+    <ns>0</ns>
+    <id>264199</id>
+    <revision>
+      <id>264656</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264656</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="638" sha1="1n7oqgq212keylqn3vfohlkob75whnv" xml:space="preserve">{{Location
+| Name=Futuristic City Planet
+| Guid=3035-8153
+| Deck=The '''Futuristic City Planet''' is a fictional planet appearing in the the Sega Mega Drive–Genesis version of Teenage Mutant Ninja Turtles: Tournament Fighters. Located in Dimension X, it is where Clone Donatello is fought.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The '''Futuristic City Planet''' is a fictional planet appearing in the the Sega Mega Drive–Genesis version of Teenage Mutant Ninja Turtles: Tournament Fighters. Located in Dimension X, it is where Clone Donatello is fought.</text>
+      <sha1>1n7oqgq212keylqn3vfohlkob75whnv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Gainesville</title>
+    <ns>0</ns>
+    <id>264255</id>
+    <revision>
+      <id>637210</id>
+      <parentid>630109</parentid>
+      <timestamp>2026-02-13T21:29:11Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637210</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="748" sha1="b0frj29zais51c87fn2bn2qvdk1u9g5" xml:space="preserve">{{Location
+| Name=Gainesville
+| Guid=3035-8210
+| Deck=A city in Florida and the home of the University of Florida.
+| Characters=Characters/Vernon_Maxwell
+| Concepts=Concepts/Florida_Gators
+| Objects=
+| Locations=Locations/Florida,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614333-2457035571-Gaine.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614333-2457035571-Gaine.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_tiny,square_small,square_medium,square_avatar,scale_super,scale_small,scale_medium,square_mini,screen_medium,scale_large,scale_avatar,screen_kubrick","caption":null},"background":[]}' /&gt;
+A city in Florida and the home of the University of Florida.</text>
+      <sha1>b0frj29zais51c87fn2bn2qvdk1u9g5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Gambia</title>
+    <ns>0</ns>
+    <id>264041</id>
+    <revision>
+      <id>264498</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264498</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="9i85kltuncj2lq0brvqr9yhh18idtn3" xml:space="preserve">{{Location
+| Name=Gambia
+| Guid=3035-7995
+| Deck=The Gambia is a republic in Western Africa. Its capital city is Banjul.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The Gambia is a republic in Western Africa. Its capital city is Banjul.</text>
+      <sha1>9i85kltuncj2lq0brvqr9yhh18idtn3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Gamma Halo</title>
+    <ns>0</ns>
+    <id>263991</id>
+    <revision>
+      <id>637070</id>
+      <parentid>629969</parentid>
+      <timestamp>2026-02-13T21:27:31Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637070</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1301" sha1="gqpaqn2t5vysrw4b2vnxr1doiuebid3" xml:space="preserve">{{Location
+| Name=Gamma Halo
+| Guid=3035-7944
+| Deck=Installation 03, also known as Gamma Halo, is one of the seven ring-shaped superweapons that comprise the Forerunners' Halo Array. Located in orbit of Doavyn. Installation 03's monitor is 049 Abject Testament.
+| Characters=
+| Concepts=Concepts/Covenant_Elite,Concepts/Covenant_Grunt,Concepts/Jackals,Concepts/Promethean_Crawler,Concepts/Promethean_Knight,Concepts/Promethean_Watcher,Concepts/Super_Weapon,Concepts/The_Covenant,Concepts/The_Forerunners
+| Objects=
+| Locations=Locations/Alpha_Halo,Locations/Delta_Halo,Locations/Halo,Locations/Jungle,Locations/Volcanic_Terrain,Locations/Volcano,Locations/Zeta_Halo
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3439635-4270346565-H4-Co.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3439635-4270346565-H4-Co.jpg","path":"52\/520822\/","mime":"image\/jpeg","sizes":"scale_medium,scale_small,square_medium,square_avatar,square_small,square_mini,scale_super,square_tiny,screen_kubrick,scale_avatar,screen_medium,scale_large","caption":null},"background":[]}' /&gt;
+Installation 03, also known as Gamma Halo, is one of the seven ring-shaped superweapons that comprise the Forerunners' Halo Array. Located in orbit of Doavyn. Installation 03's monitor is 049 Abject Testament.</text>
+      <sha1>gqpaqn2t5vysrw4b2vnxr1doiuebid3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Ghost Zone</title>
+    <ns>0</ns>
+    <id>264003</id>
+    <revision>
+      <id>264460</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264460</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="166" sha1="4tiscc483rqlrg2jeihq58inqwmdf5o" xml:space="preserve">{{Location
+| Name=Ghost Zone
+| Guid=3035-7957
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>4tiscc483rqlrg2jeihq58inqwmdf5o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Goblin Camp</title>
+    <ns>0</ns>
+    <id>264212</id>
+    <revision>
+      <id>264669</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264669</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="167" sha1="d487gwrdyah7v9c38z67owwjxolbazz" xml:space="preserve">{{Location
+| Name=Goblin Camp
+| Guid=3035-8166
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>d487gwrdyah7v9c38z67owwjxolbazz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Goo Lagoon</title>
+    <ns>0</ns>
+    <id>264093</id>
+    <revision>
+      <id>637111</id>
+      <parentid>630010</parentid>
+      <timestamp>2026-02-13T21:28:00Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637111</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="955" sha1="0yqbmxhlh37f9s49bpxwxq1te7ei2xm" xml:space="preserve">{{Location
+| Name=Goo Lagoon
+| Guid=3035-8047
+| Deck=A subarea of Numeria which appears in The ClueFinders 3rd Grade Adventures: Mystery of Mathra.
+| Characters=Characters/Goo_Creature,Characters/Goocifer,Characters/Liverpuddlians,Characters/Spit_Spot,Characters/The_Centipede,Characters/The_Flower,Characters/Tree,Characters/Twin_Spiders,Characters/Vine_50654,Characters/Yellow_Matter
+| Concepts=
+| Objects=
+| Locations=Locations/Numeria
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3464007-7423595385-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3464007-7423595385-latest.png","path":"7\/73970\/","mime":"image\/png","sizes":"scale_super,scale_small,square_avatar,square_small,scale_medium,square_medium,square_tiny,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A subarea of Numeria which appears in The ClueFinders 3rd Grade Adventures: Mystery of Mathra.</text>
+      <sha1>0yqbmxhlh37f9s49bpxwxq1te7ei2xm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Gracanica</title>
+    <ns>0</ns>
+    <id>264388</id>
+    <revision>
+      <id>264846</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264846</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="233" sha1="sewbwbjo73y9cdxur1ttbfx5cdijblq" xml:space="preserve">{{Location
+| Name=Gracanica
+| Guid=3035-8344
+| Deck=Gračanica is a town in Kosovo
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Gračanica is a town in Kosovo</text>
+      <sha1>sewbwbjo73y9cdxur1ttbfx5cdijblq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Gradius 8183</title>
+    <ns>0</ns>
+    <id>264228</id>
+    <revision>
+      <id>637183</id>
+      <parentid>630082</parentid>
+      <timestamp>2026-02-13T21:28:52Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637183</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="775" sha1="mex9hk819u4na67jvnvn55kxyoa8hs8" xml:space="preserve">{{Location
+| Name=Gradius
+| Guid=3035-8183
+| Deck=The titular planet of the Gradius series from Konami.
+| Characters=Characters/David_Burton,Characters/Dr_Venom,Characters/James_Burton
+| Concepts=Concepts/Titular_Location
+| Objects=Objects/Metalion,Objects/Vic_Viper
+| Locations=Locations/Space
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3593207-2741029813-latest.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3593207-2741029813-latest.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"square_medium,square_small,square_avatar,scale_medium,scale_super,scale_small,square_tiny,square_mini,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+The titular planet of the Gradius series from Konami.</text>
+      <sha1>mex9hk819u4na67jvnvn55kxyoa8hs8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Grand Central Station</title>
+    <ns>0</ns>
+    <id>264120</id>
+    <revision>
+      <id>264577</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264577</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="220" sha1="48m3ca4mdz1pjnvral0ub7t17g79obo" xml:space="preserve">{{Location
+| Name=Grand Central Station
+| Guid=3035-8074
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Manhattan,Locations/New_York_City
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>48m3ca4mdz1pjnvral0ub7t17g79obo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Grand Valley Speedway</title>
+    <ns>0</ns>
+    <id>264026</id>
+    <revision>
+      <id>637094</id>
+      <parentid>629993</parentid>
+      <timestamp>2026-02-13T21:27:48Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637094</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1170" sha1="0ci4jxbmldo6wemsmy1qza15ugqwacb" xml:space="preserve">{{Location
+| Name=Grand Valley Speedway
+| Guid=3035-7980
+| Deck=Grand Valley Speedway is one of the original tracks of the Gran Turismo series, appearing in every main entry except for Gran Turismo Sport.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/1/14876/3448629-jgts-grand_valley.gif}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3448629-jgts-grand_valley.gif","path":"1\/14876\/","mime":"image\/gif","sizes":"scale_medium,scale_super,square_small,square_medium,scale_small,square_avatar,square_mini,square_tiny,scale_tiny,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":"Grand Valley Speedway GT1 to GT3"},"background":[]}' /&gt;
+The layout has seen many changes over the years; the original version appeared from the first game until Gran Turismo 3. The second version appeared from Gran Turismo 4 to 6, with drastic changes made to the surrounding geometry and two of its corners. Finally, the track was entirely reimagined for Gran Turismo 7, now located on public roads on the California shoreline with obvious nods to the Bixby Creek Bridge, and renamed Grand Valley Highway 1.</text>
+      <sha1>0ci4jxbmldo6wemsmy1qza15ugqwacb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Grasslands</title>
+    <ns>0</ns>
+    <id>264414</id>
+    <revision>
+      <id>264872</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264872</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="166" sha1="8t47nanodp2ma17dy8es9pbp66ezqmw" xml:space="preserve">{{Location
+| Name=Grasslands
+| Guid=3035-8370
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>8t47nanodp2ma17dy8es9pbp66ezqmw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Great Barrier Reef</title>
+    <ns>0</ns>
+    <id>264164</id>
+    <revision>
+      <id>264621</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264621</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="174" sha1="e9b7om5zkidnd0kwav8fqmvsxsrhzu3" xml:space="preserve">{{Location
+| Name=Great Barrier Reef
+| Guid=3035-8118
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>e9b7om5zkidnd0kwav8fqmvsxsrhzu3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Great Plains</title>
+    <ns>0</ns>
+    <id>264373</id>
+    <revision>
+      <id>264831</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264831</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="216" sha1="h693d60w0yui0469gqal085azix2j9g" xml:space="preserve">{{Location
+| Name=Great Plains
+| Guid=3035-8329
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Beechers_Hope,Locations/West_Elizabeth
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>h693d60w0yui0469gqal085azix2j9g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Greenville</title>
+    <ns>0</ns>
+    <id>264252</id>
+    <revision>
+      <id>637207</id>
+      <parentid>630106</parentid>
+      <timestamp>2026-02-13T21:29:09Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637207</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="748" sha1="mahmdzoih3er5eqagdi39rw2aicpv0m" xml:space="preserve">{{Location
+| Name=Greenville
+| Guid=3035-8207
+| Deck=A city in North Carolina and the home of East Carolina University.
+| Characters=
+| Concepts=Concepts/East_Carolina_Pirates
+| Objects=
+| Locations=Locations/North_Carolina,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614331-2094959622-shutt.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614331-2094959622-shutt.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_medium,square_small,square_medium,square_avatar,scale_super,scale_small,square_mini,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+A city in North Carolina and the home of East Carolina University.</text>
+      <sha1>mahmdzoih3er5eqagdi39rw2aicpv0m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Guinea Bissau</title>
+    <ns>0</ns>
+    <id>264032</id>
+    <revision>
+      <id>264489</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264489</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="325" sha1="9dwtmvh34xuh8xqtkqc8sw18faaje87" xml:space="preserve">{{Location
+| Name=Guinea-Bissau
+| Guid=3035-7986
+| Deck=Guinea-Bissau is a republic in Western Africa. Its capital city is Bissau.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Guinea-Bissau is a republic in Western Africa. Its capital city is Bissau.</text>
+      <sha1>9dwtmvh34xuh8xqtkqc8sw18faaje87</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Gyu Kaku</title>
+    <ns>0</ns>
+    <id>264156</id>
+    <revision>
+      <id>637154</id>
+      <parentid>630053</parentid>
+      <timestamp>2026-02-13T21:28:31Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637154</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1258" sha1="t76respmu8ix9q4bh4axlb142ofkvw6" xml:space="preserve">{{Location
+| Name=Gyu-Kaku
+| Guid=3035-8110
+| Deck=Gyu-Kaku is a real-life Japanese barbecue spot that specializes in grilled steaks.
+| Characters=Characters/Kazuma_Kiryu
+| Concepts=Concepts/Healing_Food,Concepts/Health,Concepts/Ordering_Food,Concepts/Product_Placement,Concepts/Recoverable_Health
+| Objects=Objects/Barbecue_Grill,Objects/Bulgogi,Objects/Cheese,Objects/Chopsticks,Objects/Fork,Objects/Knife,Objects/Meat,Objects/Napkin,Objects/Napkin_Dispenser,Objects/Rice,Objects/Soda_Fountain,Objects/Spoon
+| Locations=Locations/Asia,Locations/Earth,Locations/Japan,Locations/Los_Angeles,Locations/North_America,Locations/Shopping_Mall,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America,Locations/Tokyo
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3504108-restaurant_orl110117c-2048x1152.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3504108-restaurant_orl110117c-2048x1152.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_small,square_small,square_medium,square_avatar,scale_super,square_tiny,scale_medium,square_mini,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+Gyu-Kaku is a real-life Japanese barbecue spot that specializes in grilled steaks.</text>
+      <sha1>t76respmu8ix9q4bh4axlb142ofkvw6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Hallownest</title>
+    <ns>0</ns>
+    <id>264122</id>
+    <revision>
+      <id>637130</id>
+      <parentid>630029</parentid>
+      <timestamp>2026-02-13T21:28:14Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637130</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1088" sha1="d9q2xzu2jx05ncbzj1pqyhbtvz38fg8" xml:space="preserve">{{Location
+| Name=Hallownest
+| Guid=3035-8076
+| Deck=Hallownest is the location where Hollow Knight takes place. Once a thriving kingdom in the middle of a wasteland, it has fallen into ruin in the wake of the Infection.
+| Characters=Characters/Hornet_51267,Characters/The_Hollow_Knight,Characters/The_Knight_51269
+| Concepts=Concepts/Disease,Concepts/Exploration,Concepts/Insectoid_Humanoid,Concepts/Search_Action
+| Objects=
+| Locations=Locations/Cave,Locations/Temple_Ruins,Locations/Underground
+| Image=https://www.giantbomb.com/a/uploads/scale_super/52/520822/3484985-5002035940-1000.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3484985-5002035940-1000.jpg","path":"52\/520822\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,scale_small,square_avatar,square_medium,square_small,square_mini,square_tiny,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+Hallownest is the location where Hollow Knight takes place. Once a thriving kingdom in the middle of a wasteland, it has fallen into ruin in the wake of the Infection.</text>
+      <sha1>d9q2xzu2jx05ncbzj1pqyhbtvz38fg8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Hanazono High School</title>
+    <ns>0</ns>
+    <id>264452</id>
+    <revision>
+      <id>264910</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264910</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="203" sha1="omj1hzytc5sv4a08l2da9aln9vj2rvc" xml:space="preserve">{{Location
+| Name=Hanazono High School
+| Guid=3035-8409
+| Characters=Characters/Mitsuaki_Yoshino
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>omj1hzytc5sv4a08l2da9aln9vj2rvc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Hanging Gardens</title>
+    <ns>0</ns>
+    <id>264147</id>
+    <revision>
+      <id>637145</id>
+      <parentid>630044</parentid>
+      <timestamp>2026-02-13T21:28:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637145</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1092" sha1="k7mkywbqnu1lz7jcjcvibj4cc6m1g7e" xml:space="preserve">{{Location
+| Name=Hanging Gardens
+| Guid=3035-8101
+| Deck=The lush, beautiful gardens found outside the emperor's palace in Outworld.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/Outworld
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3497456-3088309320-F4ZWay3a8AACj5P.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3497456-3088309320-F4ZWay3a8AACj5P.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_small,scale_super,square_small,square_medium,square_tiny,scale_medium,square_avatar,screen_medium,scale_large,square_mini,ignore_jpg_scale_small,scale_tiny,screen_kubrick_wide,screen_kubrick,scale_avatar","caption":null},"background":{"file":"3497456-3088309320-F4ZWay3a8AACj5P.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_small,scale_super,square_small,square_medium,square_tiny,scale_medium,square_avatar,screen_medium,scale_large,square_mini,ignore_jpg_scale_small,scale_tiny,screen_kubrick_wide,screen_kubrick,scale_avatar","caption":null}}' /&gt;
+The lush, beautiful gardens found outside the emperor's palace in Outworld.</text>
+      <sha1>k7mkywbqnu1lz7jcjcvibj4cc6m1g7e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Hanover</title>
+    <ns>0</ns>
+    <id>264389</id>
+    <revision>
+      <id>264847</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264847</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="199" sha1="jn2uv4psqhk12wknh2wljmdey4rxulh" xml:space="preserve">{{Location
+| Name=Hanover
+| Guid=3035-8345
+| Deck=city in German
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+city in German</text>
+      <sha1>jn2uv4psqhk12wknh2wljmdey4rxulh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Harlem</title>
+    <ns>0</ns>
+    <id>264160</id>
+    <revision>
+      <id>637157</id>
+      <parentid>630056</parentid>
+      <timestamp>2026-02-13T21:28:33Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637157</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="787" sha1="0prarnyfyzrxlwkxpxjes2wanoysxqu" xml:space="preserve">{{Location
+| Name=Harlem
+| Guid=3035-8114
+| Deck=Harlem is a neighborhood in Upper Manhattan, New York City.
+| Characters=Characters/A_AP_Rocky,Characters/Kareem_Campbell
+| Concepts=Concepts/Harlem_Globetrotters
+| Objects=
+| Locations=Locations/Manhattan,Locations/McDonalds,Locations/New_York_City
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3507916-4693574004-1200p.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3507916-4693574004-1200p.jpg","path":"151\/1511438\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,square_medium,scale_medium,scale_super,scale_small,square_mini,square_tiny,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Harlem is a neighborhood in Upper Manhattan, New York City.</text>
+      <sha1>0prarnyfyzrxlwkxpxjes2wanoysxqu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Harrisonburg</title>
+    <ns>0</ns>
+    <id>264266</id>
+    <revision>
+      <id>637221</id>
+      <parentid>630120</parentid>
+      <timestamp>2026-02-13T21:29:19Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637221</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="730" sha1="6ygu3s9d4mamnhuv3x6j8i2j9w3j5xf" xml:space="preserve">{{Location
+| Name=Harrisonburg
+| Guid=3035-8221
+| Deck=A city in Virginia and the home of James Madison University.
+| Characters=
+| Concepts=Concepts/James_Madison_Dukes
+| Objects=
+| Locations=Locations/The_United_States_of_America,Locations/Virginia
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614351-9902096025-Court.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614351-9902096025-Court.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_tiny,square_small,square_medium,scale_super,square_avatar,scale_medium,scale_small,square_mini,scale_large,screen_medium,scale_avatar,screen_kubrick","caption":null},"background":[]}' /&gt;
+A city in Virginia and the home of James Madison University.</text>
+      <sha1>6ygu3s9d4mamnhuv3x6j8i2j9w3j5xf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Hattiesburg</title>
+    <ns>0</ns>
+    <id>264307</id>
+    <revision>
+      <id>637262</id>
+      <parentid>630161</parentid>
+      <timestamp>2026-02-13T21:29:47Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637262</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="830" sha1="7jinu6sgat2rcx9kmhk212q2bszxgzt" xml:space="preserve">{{Location
+| Name=Hattiesburg
+| Guid=3035-8262
+| Deck=A city in Mississippi and the home of the University of Southern Mississippi.
+| Characters=Characters/Todd_Grisham
+| Concepts=Concepts/Southern_Miss_Golden_Eagles
+| Objects=
+| Locations=Locations/Mississippi,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614428-5180152369-Unive.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614428-5180152369-Unive.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_small,scale_super,square_medium,square_small,square_avatar,square_tiny,scale_medium,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+A city in Mississippi and the home of the University of Southern Mississippi.</text>
+      <sha1>7jinu6sgat2rcx9kmhk212q2bszxgzt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Heavens Egg</title>
+    <ns>0</ns>
+    <id>264010</id>
+    <revision>
+      <id>637078</id>
+      <parentid>629977</parentid>
+      <timestamp>2026-02-13T21:27:37Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637078</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="905" sha1="a3th9f7uumwfu7q90wmf7gqieqqwvb6" xml:space="preserve">{{Location
+| Name=Heaven's Egg
+| Guid=3035-7964
+| Deck=Gigantic sphere containing futuristic, derelict buildings along with monsters and dragons. It materialized one day on the Spring Seaslight in Harvestella.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/20/202039/3445119-2022110616510800-e0a513f2ff231ca5e32e8423db190112.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3445119-2022110616510800-e0a513f2ff231ca5e32e8423db190112.jpg","path":"20\/202039\/","mime":"image\/jpeg","sizes":"square_tiny,square_avatar,scale_medium,scale_small,square_small,square_medium,scale_super,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Gigantic sphere containing futuristic, derelict buildings along with monsters and dragons. It materialized one day on the Spring Seaslight in Harvestella.</text>
+      <sha1>a3th9f7uumwfu7q90wmf7gqieqqwvb6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Helena</title>
+    <ns>0</ns>
+    <id>264190</id>
+    <revision>
+      <id>264647</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264647</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="162" sha1="4o0kaqb1ukhi0gu6rp2obff2z89zhsy" xml:space="preserve">{{Location
+| Name=Helena
+| Guid=3035-8144
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>4o0kaqb1ukhi0gu6rp2obff2z89zhsy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Himalayan Village</title>
+    <ns>0</ns>
+    <id>264099</id>
+    <revision>
+      <id>637117</id>
+      <parentid>630016</parentid>
+      <timestamp>2026-02-13T21:28:04Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637117</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="973" sha1="kqg15qcx5m8ab8uw228wwe0a7iqezmx" xml:space="preserve">{{Location
+| Name=Himalayan Village
+| Guid=3035-8053
+| Deck=The setting of The ClueFinders Math Adventures Ages 9–12: Mystery in the Himalayas.
+| Characters=Characters/Stable_Boy,Characters/The_Apprentice_50697,Characters/The_Elder_50696,Characters/The_Guide_50703,Characters/The_Photographer,Characters/The_Shopkeeper,Characters/The_Tailor,Characters/The_Writer,Characters/Village_Girl,Characters/Yak_Herder
+| Concepts=
+| Objects=
+| Locations=Locations/Himalayas
+| Image=https://www.giantbomb.com/a/uploads/scale_super/7/73970/3464633-1244047746-latest.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3464633-1244047746-latest.png","path":"7\/73970\/","mime":"image\/png","sizes":"scale_super,square_small,square_medium,square_avatar,scale_medium,scale_small,square_mini,scale_avatar,scale_large,square_tiny,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The setting of The ClueFinders Math Adventures Ages 9–12: Mystery in the Himalayas.</text>
+      <sha1>kqg15qcx5m8ab8uw228wwe0a7iqezmx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Holy Capital Argene</title>
+    <ns>0</ns>
+    <id>264011</id>
+    <revision>
+      <id>637079</id>
+      <parentid>629978</parentid>
+      <timestamp>2026-02-13T21:27:38Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637079</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="868" sha1="ndrws59vv8cmzetnitjhu62zp50z2cf" xml:space="preserve">{{Location
+| Name=Holy Capital Argene
+| Guid=3035-7965
+| Deck=City that is perpetually Winter all year long and the headquarters of the Church's most far-reaching religious order in Harvestella.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/20/202039/3445120-2022111913315500-e0a513f2ff231ca5e32e8423db190112.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3445120-2022111913315500-e0a513f2ff231ca5e32e8423db190112.jpg","path":"20\/202039\/","mime":"image\/jpeg","sizes":"square_tiny,square_medium,scale_super,scale_small,square_small,scale_medium,square_avatar,scale_avatar,square_mini,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+City that is perpetually Winter all year long and the headquarters of the Church's most far-reaching religious order in Harvestella.</text>
+      <sha1>ndrws59vv8cmzetnitjhu62zp50z2cf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Honjo</title>
+    <ns>0</ns>
+    <id>264123</id>
+    <revision>
+      <id>264580</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264580</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="161" sha1="1ko3r8aa8zyz0c455sww369cev4kebr" xml:space="preserve">{{Location
+| Name=Honjo
+| Guid=3035-8077
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>1ko3r8aa8zyz0c455sww369cev4kebr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Honolulu</title>
+    <ns>0</ns>
+    <id>264260</id>
+    <revision>
+      <id>637215</id>
+      <parentid>630114</parentid>
+      <timestamp>2026-02-13T21:29:15Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637215</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="769" sha1="ej6xqme1f3tklhg86ayvi1trs9ofhcx" xml:space="preserve">{{Location
+| Name=Honolulu
+| Guid=3035-8215
+| Deck=The capital of Hawai'i and the home of the University of Hawai'i.
+| Characters=
+| Concepts=Concepts/Hawaii_Rainbow_Warriors
+| Objects=
+| Locations=Locations/Hawaii,Locations/The_United_States_of_America,Locations/Waialae_Country_Club
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614342-1780440103-Waiki.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614342-1780440103-Waiki.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_super,scale_small,square_medium,square_tiny,square_avatar,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+The capital of Hawai'i and the home of the University of Hawai'i.</text>
+      <sha1>ej6xqme1f3tklhg86ayvi1trs9ofhcx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Hood River County</title>
+    <ns>0</ns>
+    <id>264404</id>
+    <revision>
+      <id>637315</id>
+      <parentid>630214</parentid>
+      <timestamp>2026-02-13T21:30:24Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637315</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1028" sha1="i9dwgqold5w254jbrbpw18c0vi6oi0f" xml:space="preserve">{{Location
+| Name=Hood River County
+| Guid=3035-8360
+| Deck=Hood River County is a county named after its largest city, Hood River, in Oregon.
+| Characters=Characters/Addy_Walker,Characters/Boozer,Characters/Deacon_St_John,Characters/Iron_Mike,Characters/Rikki_Patil,Characters/Skizzo
+| Concepts=
+| Objects=
+| Locations=Locations/Earth,Locations/Lost_Lake,Locations/Lost_Lake_Resort,Locations/Mount_Hood_National_Forest,Locations/North_America,Locations/Oregon,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3732378-slider-02_web.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3732378-slider-02_web.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"scale_medium,square_small,square_avatar,scale_super,scale_small,square_medium,screen_kubrick,scale_large,scale_avatar,square_mini,square_tiny,screen_medium","caption":null},"background":[]}' /&gt;
+Hood River County is a county named after its largest city, Hood River, in Oregon.</text>
+      <sha1>i9dwgqold5w254jbrbpw18c0vi6oi0f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Humboldt County</title>
+    <ns>0</ns>
+    <id>264057</id>
+    <revision>
+      <id>637101</id>
+      <parentid>630000</parentid>
+      <timestamp>2026-02-13T21:27:53Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637101</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1289" sha1="b37igsbnxme8fqbd5ekp79c9dgxt5om" xml:space="preserve">{{Location
+| Name=Humboldt County
+| Guid=3035-8011
+| Deck=Humboldt County is a coastal area in Northern California known for Humboldt University and the large amounts of recreational marijuana use.
+| Characters=
+| Concepts=Concepts/Military,Concepts/United_States_Army,Concepts/United_States_National_Guard
+| Objects=Objects/Apple,Objects/Avocado,Objects/Beer,Objects/Cider,Objects/Cigarette,Objects/Giant_Redwoods,Objects/Marijuana,Objects/Red_Bull,Objects/Tree
+| Locations=Locations/California,Locations/Earth,Locations/Eureka,Locations/McDonalds,Locations/Military_Base,Locations/North_America,Locations/Pacific_Ocean,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3456839-humboldt_bay_and_eureka_aerial_view.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3456839-humboldt_bay_and_eureka_aerial_view.jpg","path":"8\/82962\/","mime":"image\/jpeg","sizes":"square_mini,square_avatar,square_small,scale_medium,scale_small,square_medium,square_tiny,scale_super,screen_kubrick,scale_large,scale_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+Humboldt County is a coastal area in Northern California known for Humboldt University and the large amounts of recreational marijuana use.</text>
+      <sha1>b37igsbnxme8fqbd5ekp79c9dgxt5om</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Huntington</title>
+    <ns>0</ns>
+    <id>264276</id>
+    <revision>
+      <id>637231</id>
+      <parentid>630130</parentid>
+      <timestamp>2026-02-13T21:29:25Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637231</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="787" sha1="i3wfoioxzmtvdut4qrjreot0jgzbsji" xml:space="preserve">{{Location
+| Name=Huntington
+| Guid=3035-8231
+| Deck=Huntington is a city in West Virginia and the home of Marshall University.
+| Characters=
+| Concepts=Concepts/Marshall_Thundering_Herd
+| Objects=
+| Locations=Locations/Appalachia,Locations/The_United_States_of_America,Locations/West_Virginia
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614369-7862654293-hunti.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614369-7862654293-hunti.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_small,scale_medium,square_small,square_medium,square_avatar,square_mini,square_tiny,scale_super,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+Huntington is a city in West Virginia and the home of Marshall University.</text>
+      <sha1>i3wfoioxzmtvdut4qrjreot0jgzbsji</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Huntsville</title>
+    <ns>0</ns>
+    <id>264304</id>
+    <revision>
+      <id>637259</id>
+      <parentid>630158</parentid>
+      <timestamp>2026-02-13T21:29:44Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637259</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="716" sha1="moyvtyxagwuzfyctas5ravbrfmkhl8y" xml:space="preserve">{{Location
+| Name=Huntsville
+| Guid=3035-8259
+| Deck=A city in Texas and the home of Sam Houston University.
+| Characters=
+| Concepts=Concepts/Sam_Houston_Bearkats
+| Objects=
+| Locations=Locations/Texas,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614425-4845634848-8640b.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614425-4845634848-8640b.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_medium,square_tiny,scale_medium,scale_small,square_avatar,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+A city in Texas and the home of Sam Houston University.</text>
+      <sha1>moyvtyxagwuzfyctas5ravbrfmkhl8y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Ice Planet</title>
+    <ns>0</ns>
+    <id>264200</id>
+    <revision>
+      <id>264657</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264657</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="606" sha1="pyy4vmedu9duif2oysjhzjr5lwdschn" xml:space="preserve">{{Location
+| Name=Ice Planet
+| Guid=3035-8154
+| Deck=The '''Ice Planet''' is a fictional planet appearing in the the Sega Mega Drive–Genesis version of Teenage Mutant Ninja Turtles: Tournament Fighters. Located in Dimension X, it is where Clone Casey Jones is fought.
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The '''Ice Planet''' is a fictional planet appearing in the the Sega Mega Drive–Genesis version of Teenage Mutant Ninja Turtles: Tournament Fighters. Located in Dimension X, it is where Clone Casey Jones is fought.</text>
+      <sha1>pyy4vmedu9duif2oysjhzjr5lwdschn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Imatra Circuit</title>
+    <ns>0</ns>
+    <id>264086</id>
+    <revision>
+      <id>264543</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264543</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="170" sha1="mshn3fgu6j5cihgyp5wymr08oqkka2b" xml:space="preserve">{{Location
+| Name=Imatra Circuit
+| Guid=3035-8040
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>mshn3fgu6j5cihgyp5wymr08oqkka2b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Indian Ocean</title>
+    <ns>0</ns>
+    <id>264354</id>
+    <revision>
+      <id>637296</id>
+      <parentid>630195</parentid>
+      <timestamp>2026-02-13T21:30:11Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637296</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="771" sha1="bm8owprbs8rx4szipp7eszis90qtwfq" xml:space="preserve">{{Location
+| Name=Indian Ocean
+| Guid=3035-8310
+| Deck=The Indian Ocean is the third-largest ocean on Earth.
+| Characters=Characters/Katherine_Marlowe,Characters/Nathan_Drake,Characters/Ramses,Characters/Talbot_20657,Characters/Venom_Snake
+| Concepts=
+| Objects=
+| Locations=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3647026-map-of-the-indian-ocean_png.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3647026-map-of-the-indian-ocean_png.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_super,square_small,square_medium,square_avatar,scale_small,square_mini,scale_medium,square_tiny,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+The Indian Ocean is the third-largest ocean on Earth.</text>
+      <sha1>bm8owprbs8rx4szipp7eszis90qtwfq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/International North West 200</title>
+    <ns>0</ns>
+    <id>264082</id>
+    <revision>
+      <id>264539</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264539</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="184" sha1="cfvtmas9db3h7nb4r862ekyqo9cghg6" xml:space="preserve">{{Location
+| Name=International North West 200
+| Guid=3035-8036
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>cfvtmas9db3h7nb4r862ekyqo9cghg6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Interstate 405</title>
+    <ns>0</ns>
+    <id>264024</id>
+    <revision>
+      <id>1007497</id>
+      <parentid>637092</parentid>
+      <timestamp>2026-07-19T17:50:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007497</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1119" sha1="2ynnk4yzuu1pphdocm6t5ejzkkycx0t" xml:space="preserve">{{Location
+| Name=Interstate 405
+| Guid=3035-7978
+| Deck=The I-405 Freeway is a major Southern California highway that connects most of Los Angeles.
+| Characters=Characters/Nick_Kang
+| Concepts=
+| Objects=Objects/Car,Objects/Helicopter,Objects/Police_Car,Objects/Taxi_Cab,Objects/Truck
+| Locations=Locations/Airport,Locations/Beach,Locations/California,Locations/Earth,Locations/Interstate_Highway_System,Locations/Irvine_California,Locations/Los_Angeles,Locations/North_America,Locations/San_Diego,Locations/Santa_Monica,Locations/The_Milky_Way_Galaxy,Locations/The_United_States_of_America,Locations/U_S_Route_101
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3447818-i-405_%28ca%29.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3447818-i-405_(ca).png","path":"8\/82962\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,square_avatar,scale_medium,scale_small,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The I-405 Freeway is a major Southern California highway that connects most of Los Angeles.</text>
+      <sha1>2ynnk4yzuu1pphdocm6t5ejzkkycx0t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Iowa City</title>
+    <ns>0</ns>
+    <id>264263</id>
+    <revision>
+      <id>637218</id>
+      <parentid>630117</parentid>
+      <timestamp>2026-02-13T21:29:16Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>637218</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="705" sha1="3rkma6o9oz53bxjz643syw9mq6mwzop" xml:space="preserve">{{Location
+| Name=Iowa City
+| Guid=3035-8218
+| Deck=A city in Iowa and the home of the University of Iowa.
+| Characters=
+| Concepts=Concepts/Iowa_Hawkeyes
+| Objects=
+| Locations=Locations/Iowa,Locations/The_United_States_of_America
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3614345-9361983477-US_Io.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3614345-9361983477-US_Io.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,scale_medium,square_small,scale_small,square_medium,square_tiny,square_avatar,square_mini,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+A city in Iowa and the home of the University of Iowa.</text>
+      <sha1>3rkma6o9oz53bxjz643syw9mq6mwzop</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Isla Cruces</title>
+    <ns>0</ns>
+    <id>264436</id>
+    <revision>
+      <id>264894</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264894</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="167" sha1="qyh22o5o8yimnj7epzasi7jnsdcoepv" xml:space="preserve">{{Location
+| Name=Isla Cruces
+| Guid=3035-8392
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>qyh22o5o8yimnj7epzasi7jnsdcoepv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Isla Tristesa</title>
+    <ns>0</ns>
+    <id>264435</id>
+    <revision>
+      <id>264893</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264893</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="169" sha1="k1d4gnto31gc6qmf02pmbrg12b9wmlj" xml:space="preserve">{{Location
+| Name=Isla Tristesa
+| Guid=3035-8391
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>k1d4gnto31gc6qmf02pmbrg12b9wmlj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Isla de Muerta</title>
+    <ns>0</ns>
+    <id>264431</id>
+    <revision>
+      <id>264889</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264889</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="170" sha1="2phpbanbyh3vsukznp8lwflma9qoei2" xml:space="preserve">{{Location
+| Name=Isla de Muerta
+| Guid=3035-8387
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>2phpbanbyh3vsukznp8lwflma9qoei2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Isla de Pelegostos</title>
+    <ns>0</ns>
+    <id>264434</id>
+    <revision>
+      <id>264892</id>
+      <timestamp>2025-12-08T07:32:44Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264892</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="174" sha1="ko73phbq5mg73w37fcrxomwhm87yffw" xml:space="preserve">{{Location
+| Name=Isla de Pelegostos
+| Guid=3035-8390
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ko73phbq5mg73w37fcrxomwhm87yffw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Isle of Man</title>
+    <ns>0</ns>
+    <id>264076</id>
+    <revision>
+      <id>264533</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264533</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="186" sha1="s2ii9bgi17ybemy1b1m5rk6tjdwvuwo" xml:space="preserve">{{Location
+| Name=Isle of Man
+| Guid=3035-8030
+| Characters=
+| Concepts=
+| Objects=
+| Locations=Locations/McDonalds
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>s2ii9bgi17ybemy1b1m5rk6tjdwvuwo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Isle of Man TT Mountain Course</title>
+    <ns>0</ns>
+    <id>264077</id>
+    <revision>
+      <id>264534</id>
+      <timestamp>2025-12-08T07:32:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>264534</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="186" sha1="opr351t0x22s2whozo46hq7pio6v5ce" xml:space="preserve">{{Location
+| Name=Isle of Man TT Mountain Course
+| Guid=3035-8031
+| Characters=
+| Concepts=
+| Objects=
+| Locations=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>opr351t0x22s2whozo46hq7pio6v5ce</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locations/Italian Riviera</title>
+    <ns>0</ns>
+    <id>264352</id>
+    <revision>
+      <id>1007502</id>
+      <parentid>637295</parentid>
+      <timestamp>2026-07-19T17:50:37Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>1007502</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="915" sha1="qdj1c4bb7qn5gartnul4vjwoagm8hvr" xml:space="preserve">{{Location
+| Name=Italian Riviera
+| Guid=3035-8308
+| Deck=A picturesque seaside resort in Italy
+| Characters=
+| Concepts=Concepts/Tourism
+| Objects=Objects/Palm_Tree,Objects/Sand,Objects/Water
+| Locations=Locations/French_Riviera,Locations/Hotels,Locations/Italy,Locations/Ocean,Locations/Tropical_Resort
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3646662-%D0%91%D1%83%D1%84%D0%B5%D1%80%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B0_11-06-2024_01.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3646662-\u0411\u0443\u0444\u0435\u0440\u043e\u0431\u043c\u0435\u043d\u0430_11-06-2024_01.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_medium,square_avatar,square_small,scale_small,square_mini,square_tiny,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":"Soccer Kid (Amiga)"},"background":[]}' /&gt;
+A picturesque seaside resort in Italy</text>
+      <sha1>qdj1c4bb7qn5gartnul4vjwoagm8hvr</sha1>
+    </revision>
+  </page>
+</mediawiki>

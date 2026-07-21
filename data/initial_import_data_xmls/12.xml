@@ -1,0 +1,1776 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Characters/Princess Guinevere</title>
+    <ns>0</ns>
+    <id>58014</id>
+    <revision>
+      <id>58131</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58131</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="236" sha1="3tjl2nj9duvecm4mu5hyc8ujockk82z" xml:space="preserve">{{Character
+| Name=Princess Guinevere 
+| Guid=3005-58797
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Glitch_Karts
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3tjl2nj9duvecm4mu5hyc8ujockk82z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Prism</title>
+    <ns>0</ns>
+    <id>57994</id>
+    <revision>
+      <id>722128</id>
+      <parentid>58111</parentid>
+      <timestamp>2026-02-14T19:41:29Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722128</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1520" sha1="3bwfag2xtv674vgki4t78sxs8ft63qs" xml:space="preserve">{{Character
+| Name=Prism
+| Guid=3005-58777
+| Deck=A former Supervillain with light-based powers. A member of the Z-Team at the Superhero Dispatch Network. Also a pop-star, but with the diva personality to match.
+| Concepts=Concepts/Anti_Hero,Concepts/Constructs,Concepts/Illusion,Concepts/Superhero,Concepts/Villain_Turned_Good
+| Enemies=Characters/Armstrong,Characters/Coupe,Characters/Shroud_58847
+| Franchises=
+| Friends=Characters/Blonde_Blazer,Characters/Chase_58771,Characters/Coupe,Characters/Flambae,Characters/Golem_58781,Characters/Invisigal,Characters/Malevola,Characters/Phenomaman,Characters/Punch_Up,Characters/Robert_Robertson_III,Characters/Sonar,Characters/Waterboy
+| Games=Games/Dispatch
+| Locations=Locations/California,Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Catsuit,Objects/Cell_Phone,Objects/Futuristic_Shades,Objects/Goggles,Objects/High_Heels,Objects/Opera_Gloves,Objects/Thigh_High_Boots
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3821250-dossier_prism.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3821250-dossier_prism.png","path":"77\/776653\/","mime":"image\/png","sizes":"square_small,scale_super,scale_medium,square_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A former Supervillain with light-based powers. A member of the Z-Team at the Superhero Dispatch Network. Also a pop-star, but with the diva personality to match.</text>
+      <sha1>3bwfag2xtv674vgki4t78sxs8ft63qs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Prototype</title>
+    <ns>0</ns>
+    <id>57727</id>
+    <revision>
+      <id>57843</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57843</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="221" sha1="3fqvoupa7myue9445m4x7pct7jzgnfq" xml:space="preserve">{{Character
+| Name=Prototype
+| Guid=3005-58509
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/OneShot
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3fqvoupa7myue9445m4x7pct7jzgnfq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Psyche 58731</title>
+    <ns>0</ns>
+    <id>57948</id>
+    <revision>
+      <id>58065</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58065</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="227" sha1="ij136c9hvp1kzl8z2nqn94jmm9t0q0p" xml:space="preserve">{{Character
+| Name=Psyche
+| Guid=3005-58731
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Duet_Night_Abyss
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ij136c9hvp1kzl8z2nqn94jmm9t0q0p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Punch Up</title>
+    <ns>0</ns>
+    <id>57997</id>
+    <revision>
+      <id>722134</id>
+      <parentid>722131</parentid>
+      <timestamp>2026-02-14T19:41:31Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722134</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1301" sha1="guyqigt5ix4n0t1yzc5rwdg8keaic9s" xml:space="preserve">{{Character
+| Name=Punch-Up
+| Guid=3005-58780
+| Deck=A former supervillain-turned member of the Z-Team at the Superhero Dispatch Network. A skilled boxer with superhuman strength, but the deal with a sorceress that gave him his enhanced strength also shortened his height. In a relationship with Coupé.
+| Concepts=
+| Enemies=Characters/Armstrong,Characters/Coupe,Characters/Shroud_58847
+| Franchises=
+| Friends=Characters/Blonde_Blazer,Characters/Chase_58771,Characters/Coupe,Characters/Golem_58781,Characters/Invisigal,Characters/Prism,Characters/Robert_Robertson_III
+| Games=Games/Dispatch
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3821257-dossier_punch_up.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3821257-dossier_punch_up.png","path":"77\/776653\/","mime":"image\/png","sizes":"square_small,scale_super,square_medium,square_tiny,scale_medium,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A former supervillain-turned member of the Z-Team at the Superhero Dispatch Network. A skilled boxer with superhuman strength, but the deal with a sorceress that gave him his enhanced strength also shortened his height. In a relationship with Coupé.</text>
+      <sha1>guyqigt5ix4n0t1yzc5rwdg8keaic9s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Qasim London</title>
+    <ns>0</ns>
+    <id>474262</id>
+    <revision>
+      <id>973683</id>
+      <parentid>948929</parentid>
+      <timestamp>2026-04-25T21:20:22Z</timestamp>
+      <contributor>
+        <username>Dochaus</username>
+        <id>140</id>
+      </contributor>
+      <origin>973683</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="285" sha1="azlupj6fxl10vuulstr41d1ln481yvs" xml:space="preserve">{{Character
+|Guid=ec4aac3a-242e-498a-aa14-2ee2e181e4e9
+|Name=Qasim London
+|Image=London profile.png
+|Deck=Scruffy, laid-back, veteran cop who works alongside Reyes at Precinct 254.
+|RealName=Qasim London
+|Gender=Male
+|Enemies=Characters/Morgan 256356
+|Friends=Characters/Farah Reyes
+}}</text>
+      <sha1>azlupj6fxl10vuulstr41d1ln481yvs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Queen 58642</title>
+    <ns>0</ns>
+    <id>57859</id>
+    <revision>
+      <id>57976</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57976</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="248" sha1="nfayyp59zxu7okynhftefbyn698a5p5" xml:space="preserve">{{Character
+| Name=Queen
+| Guid=3005-58642
+| Concepts=
+| Enemies=Characters/Stephen_58641
+| Franchises=
+| Friends=
+| Games=Games/Super_Granny_6
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>nfayyp59zxu7okynhftefbyn698a5p5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Rafa</title>
+    <ns>0</ns>
+    <id>57745</id>
+    <revision>
+      <id>57861</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57861</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="222" sha1="ivnb40s0ldifd2emhsp2tjiw0o5oe4u" xml:space="preserve">{{Character
+| Name=Rafa
+| Guid=3005-58527
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Borderlands_4
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ivnb40s0ldifd2emhsp2tjiw0o5oe4u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Ramon Garcia</title>
+    <ns>0</ns>
+    <id>57816</id>
+    <revision>
+      <id>57932</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57932</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="327" sha1="120ofhhmfk2nizak9srd9k1v2ibcum0" xml:space="preserve">{{Character
+| Name=Ramon Garcia
+| Guid=3005-58598
+| Concepts=
+| Enemies=Characters/Arthur_Van_Smythe,Characters/Mr_Thornley,Characters/Skip_Hildegard
+| Franchises=
+| Friends=
+| Games=Games/Crash_N_the_Boys_Street_Challenge
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>120ofhhmfk2nizak9srd9k1v2ibcum0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Ramses Burns</title>
+    <ns>0</ns>
+    <id>58001</id>
+    <revision>
+      <id>58118</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58118</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="247" sha1="5lysv73nqh04jwjo5r9ipz8byqet2bv" xml:space="preserve">{{Character
+| Name=Ramses Burns
+| Guid=3005-58784
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/The_Simpsons_Bart_vs_the_World
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5lysv73nqh04jwjo5r9ipz8byqet2bv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Randy 58747</title>
+    <ns>0</ns>
+    <id>57964</id>
+    <revision>
+      <id>58081</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58081</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="pfqinaauhu3jndmfhqs3yghq6ezccmk" xml:space="preserve">{{Character
+| Name=Randy
+| Guid=3005-58747
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Duet_Night_Abyss
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>pfqinaauhu3jndmfhqs3yghq6ezccmk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Rebecca 58734</title>
+    <ns>0</ns>
+    <id>57951</id>
+    <revision>
+      <id>58068</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58068</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" sha1="lp4iqf5ffp06jlj6qiguogr5kc5raz4" xml:space="preserve">{{Character
+| Name=Rebecca
+| Guid=3005-58734
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Duet_Night_Abyss
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>lp4iqf5ffp06jlj6qiguogr5kc5raz4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Referee Mills Lane</title>
+    <ns>0</ns>
+    <id>57780</id>
+    <revision>
+      <id>722041</id>
+      <parentid>722037</parentid>
+      <timestamp>2026-02-14T19:40:58Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722041</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="793" sha1="d4migs9wmn5ifalnhb5xlt2jthvjy1j" xml:space="preserve">{{Character
+| Name=Referee Mills Lane
+| Guid=3005-58562
+| Deck=The referee for Celebrity Deathmatch. Based on the real life boxing referee.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=Characters/Johnny_Gomez,Characters/Nick_Diamond
+| Games=Games/MTV_Celebrity_Deathmatch
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/239/2391650/3803721-353995.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3803721-353995.jpg","path":"239\/2391650\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_medium,scale_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+The referee for Celebrity Deathmatch. Based on the real life boxing referee.</text>
+      <sha1>d4migs9wmn5ifalnhb5xlt2jthvjy1j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Rei 58702</title>
+    <ns>0</ns>
+    <id>57919</id>
+    <revision>
+      <id>58036</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58036</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" sha1="s9bvv0836zkraeeumuer07v8zqh9u30" xml:space="preserve">{{Character
+| Name=Rei
+| Guid=3005-58702
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Chaos_Zero_Nightmare
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>s9bvv0836zkraeeumuer07v8zqh9u30</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Relia</title>
+    <ns>0</ns>
+    <id>57980</id>
+    <revision>
+      <id>58097</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58097</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="248" sha1="mc2wszgdrdvwydzv8wnvxayrbrft11w" xml:space="preserve">{{Character
+| Name=Relia
+| Guid=3005-58763
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Star_Ocean_Integrity_and_Faithlessness
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>mc2wszgdrdvwydzv8wnvxayrbrft11w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Renee 40788</title>
+    <ns>0</ns>
+    <id>464594</id>
+    <revision>
+      <id>996564</id>
+      <parentid>740636</parentid>
+      <timestamp>2026-07-19T03:24:09Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>996564</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="848" sha1="riodza0iz0scovs573hzzfz5e9z5scf" xml:space="preserve">{{Character
+| Name=Renée
+| Guid=3005-40788
+| Deck=Renée is a rhino villager in Animal Crossing.
+| Gender=Non-Binary
+| Concepts=Concepts/Rhinoceros
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Animal_Crossing_Happy_Home_Designer,Games/Animal_Crossing_New_Horizons,Games/Animal_Crossing_New_Leaf
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3166479-screen%20shot%202020-02-11%20at%207.49.22%20pm.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3166479-screen shot 2020-02-11 at 7.49.22 pm.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_tiny,square_small,scale_super,square_medium,scale_small,square_avatar,square_mini,scale_avatar,scale_large,scale_medium,screen_kubrick,screen_medium","caption":""},"background":[]}' /&gt;
+Renée is a rhino villager in Animal Crossing.</text>
+      <sha1>riodza0iz0scovs573hzzfz5e9z5scf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Renoa</title>
+    <ns>0</ns>
+    <id>57905</id>
+    <revision>
+      <id>58022</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58022</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1200" sha1="m2oz6rsjp9p5axuht18w9ehsq1wp8k1" xml:space="preserve">{{Character
+| Name=Renoa
+| Guid=3005-58688
+| Deck=The poster girl of Chaos Zero Nightmare. The First Officer of the Protos on the SS Nightmare.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Chaos_Zero_Nightmare
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Renoa came from an affluent family but struck out on her own at a very young age, where her intelligence and aptitude for combat somehow gained the attention of a private military group who then hired her. However, during her first real mission on another planet, the Chaos bloomed sooner than expected, and she was forced to kill her squadmates before they turned into monsters. Renoa survived using her black rose powers until she was rescued and taken to the Empire at Arkhiannon.
+Renoa's gameplay revolves around creating and using "Dirge Bullets" with her cards. Dirge Bullets are Exhausted when they are played, dealing a powerful shot against one targeted enemy before vanishing. However, when Dirge Bullets are discarded for any reason, Renoa automatically performs a slightly weaker attack against a random foe for each one discarded at no additional AP cost.
+</text>
+      <sha1>m2oz6rsjp9p5axuht18w9ehsq1wp8k1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Rexler Brath</title>
+    <ns>0</ns>
+    <id>57734</id>
+    <revision>
+      <id>721969</id>
+      <parentid>721967</parentid>
+      <timestamp>2026-02-14T19:40:36Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>721969</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="643" sha1="i74tp9kai7tbb3khqkqgc8f4u0a1cc5" xml:space="preserve">{{Character
+| Name=Rexler Brath
+| Guid=3005-58516
+| Deck=An Imperial TIE pilot who flew a TIE Defender.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3796685-image.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3796685-image.png","path":"45\/456753\/","mime":"image\/png","sizes":"square_small,scale_super,square_medium,scale_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_avatar,scale_large","caption":null},"background":[]}' /&gt;
+An Imperial TIE pilot who flew a TIE Defender.</text>
+      <sha1>i74tp9kai7tbb3khqkqgc8f4u0a1cc5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Rey Curtis</title>
+    <ns>0</ns>
+    <id>58056</id>
+    <revision>
+      <id>58173</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58173</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="237" sha1="kalz32d2uao4yh5mo7nn924rcja7sle" xml:space="preserve">{{Character
+| Name=Rey Curtis
+| Guid=3005-58839
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Law_And_Order_Legacies
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>kalz32d2uao4yh5mo7nn924rcja7sle</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Rhythm</title>
+    <ns>0</ns>
+    <id>57963</id>
+    <revision>
+      <id>58080</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58080</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="227" sha1="8z40hmm9u68u0tg953rq8wpb5ikx65z" xml:space="preserve">{{Character
+| Name=Rhythm
+| Guid=3005-58746
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Duet_Night_Abyss
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>8z40hmm9u68u0tg953rq8wpb5ikx65z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Richard Spreckles</title>
+    <ns>0</ns>
+    <id>57818</id>
+    <revision>
+      <id>57934</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57934</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="255" sha1="trcpd27bdqgkua6wtueygl80hyyexpz" xml:space="preserve">{{Character
+| Name=Richard Spreckles
+| Guid=3005-58600
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Crash_N_the_Boys_Street_Challenge
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>trcpd27bdqgkua6wtueygl80hyyexpz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Richie 58536</title>
+    <ns>0</ns>
+    <id>57754</id>
+    <revision>
+      <id>721991</id>
+      <parentid>721990</parentid>
+      <timestamp>2026-02-14T19:40:44Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>721991</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="723" sha1="lfdg3qmjz7i1ydlqrs646gmvx70pobt" xml:space="preserve">{{Character
+| Name=Richie
+| Guid=3005-58536
+| Deck=Police officer for the NCCA by day and hustler at night.
+| Gender=Non-Binary
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Ananta
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/5/56742/3807405-full_0002_9aa7de6f.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3807405-full_0002_9aa7de6f.jpg","path":"5\/56742\/","mime":"image\/jpeg","sizes":"scale_super,scale_medium,square_small,square_medium,square_tiny,scale_tiny,square_avatar,scale_small,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;
+Police officer for the NCCA by day and hustler at night.</text>
+      <sha1>lfdg3qmjz7i1ydlqrs646gmvx70pobt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Ridge Frost</title>
+    <ns>0</ns>
+    <id>57900</id>
+    <revision>
+      <id>58017</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58017</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="246" sha1="dtzbpg29pfcv1mc1g05blddln94hkig" xml:space="preserve">{{Character
+| Name=Ridge Frost
+| Guid=3005-58683
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Death_Stranding_2_On_the_Beach
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>dtzbpg29pfcv1mc1g05blddln94hkig</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Rika Asano</title>
+    <ns>0</ns>
+    <id>57853</id>
+    <revision>
+      <id>831304</id>
+      <parentid>57970</parentid>
+      <timestamp>2026-04-08T23:09:20Z</timestamp>
+      <contributor>
+        <username>Csroberto2854</username>
+        <id>49</id>
+      </contributor>
+      <origin>831304</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1017" sha1="4tbfu4zsxwsjsa9d33qrwwx2ci9a3yg" xml:space="preserve">{{Character
+|Guid=3005-58636
+|Name=Rika Asano
+|Deck=Former manager of the Nekketsu High Baseball club
+|RealName=Rika Asano
+|Gender=Female
+|Concepts=Concepts/Major_League_Baseball, Concepts/Terminal_Illness
+|Friends=Characters/Haruka_Nanase, Characters/Kunio, Characters/Sanjuro_Sugata, Characters/Satomi_Momozono
+|Games=Games/Downtown_Nekketsu_Baseball_Monogatari, Games/Super_Technos_World_River_City_And_Technos_Arcade_Classics
+|Locations=Locations/Japan, Locations/Nekketsu_High_School, Locations/River_City
+|Objects=Objects/Heartbeat_Sensor
+}}
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Rika Asano is a major character in ''Downtown River City Baseball Story ~Play Ball, Kunio!~''.
+
+==Physical Appearance==
+Rika is a human female with light skin, brown eyes and dyed purple hair.
+
+==History==
+
+===Downtown River City Baseball Story ~Play Ball, Kunio!~===
+ 
+
+===Game Over Screen===
+Should the player lose in the story mode, a cutscene plays with Tachibana and Sugata in Rika's hospital room.</text>
+      <sha1>4tbfu4zsxwsjsa9d33qrwwx2ci9a3yg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Rin 58689</title>
+    <ns>0</ns>
+    <id>57906</id>
+    <revision>
+      <id>58023</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58023</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" sha1="018fr3ml0ts1argh57mw4qwies8lqs2" xml:space="preserve">{{Character
+| Name=Rin
+| Guid=3005-58689
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Chaos_Zero_Nightmare
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>018fr3ml0ts1argh57mw4qwies8lqs2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Ritsuko Enshu</title>
+    <ns>0</ns>
+    <id>58071</id>
+    <revision>
+      <id>58188</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58188</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="238" sha1="f5yxc3gdfjq3txf2yndf13bce69s9o4" xml:space="preserve">{{Character
+| Name=Ritsuko Enshu
+| Guid=3005-58854
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/AI_The_Somnium_Files
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>f5yxc3gdfjq3txf2yndf13bce69s9o4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Roark Garnet</title>
+    <ns>0</ns>
+    <id>57737</id>
+    <revision>
+      <id>721974</id>
+      <parentid>721973</parentid>
+      <timestamp>2026-02-14T19:40:39Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>721974</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="703" sha1="t67xxbc70a1nthuzm6ta1oiykbwdxx5" xml:space="preserve">{{Character
+| Name=Roark Garnet
+| Guid=3005-58519
+| Deck=A smuggler associated with the Rebel Alliance during the Galactic Civil War.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3797395-image.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3797395-image.png","path":"45\/456753\/","mime":"image\/png","sizes":"square_small,square_medium,square_tiny,scale_super,scale_medium,scale_small,square_mini,square_avatar,screen_kubrick,screen_medium,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A smuggler associated with the Rebel Alliance during the Galactic Civil War.</text>
+      <sha1>t67xxbc70a1nthuzm6ta1oiykbwdxx5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Robert Goren</title>
+    <ns>0</ns>
+    <id>58053</id>
+    <revision>
+      <id>58170</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58170</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="246" sha1="gskkuenfkdagzngqcidwbwzv6j49mtm" xml:space="preserve">{{Character
+| Name=Robert Goren
+| Guid=3005-58836
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Law_And_Order_Criminal_Intent
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>gskkuenfkdagzngqcidwbwzv6j49mtm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Robert Robertson III</title>
+    <ns>0</ns>
+    <id>57986</id>
+    <revision>
+      <id>722118</id>
+      <parentid>58103</parentid>
+      <timestamp>2026-02-14T19:41:23Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722118</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1759" sha1="6x3iur5pchvjzy5ub9f67dgrqfa8fe1" xml:space="preserve">{{Character
+| Name=Robert Robertson III
+| Guid=3005-58769
+| Deck=The third bearer of the superhero mantle Mecha-Man. After his power armor is destroyed in battle, he becomes a dispatcher at the Superhero Dispatch Network (SDN), being put in charge of a group of ex-villains who he works to mold into true heroes. The player character of Dispatch.
+| Gender=Male
+| Concepts=Concepts/Dialogue_Tree,Concepts/Player_Character,Concepts/Powerless_Superheroes,Concepts/Superhero
+| Enemies=Characters/Armstrong,Characters/Coupe,Characters/Flambae,Characters/Shroud_58847,Characters/Toxic
+| Franchises=
+| Friends=Characters/Blonde_Blazer,Characters/Chase_58771,Characters/Coupe,Characters/Flambae,Characters/Golem_58781,Characters/Invisigal,Characters/Malevola,Characters/Phenomaman,Characters/Prism,Characters/Punch_Up,Characters/Sonar,Characters/Waterboy
+| Games=Games/Dispatch
+| Locations=Locations/California
+| People=
+| Objects=Objects/Beam_Sword,Objects/Bomb,Objects/Coffee_Mug,Objects/Gloves,Objects/Mask,Objects/Net,Objects/Power_Armor,Objects/Rocket,Objects/Spandex
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3821239-storysofar.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3821239-storysofar.png","path":"77\/776653\/","mime":"image\/png","sizes":"scale_super,scale_medium,square_tiny,square_medium,square_small,scale_small,square_mini,square_avatar,screen_medium,scale_avatar,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+The third bearer of the superhero mantle Mecha-Man. After his power armor is destroyed in battle, he becomes a dispatcher at the Superhero Dispatch Network (SDN), being put in charge of a group of ex-villains who he works to mold into true heroes. The player character of Dispatch.</text>
+      <sha1>6x3iur5pchvjzy5ub9f67dgrqfa8fe1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Robin 58727</title>
+    <ns>0</ns>
+    <id>57944</id>
+    <revision>
+      <id>722108</id>
+      <parentid>722104</parentid>
+      <timestamp>2026-02-14T19:41:20Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722108</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1115" sha1="2q6sb2yq3zekc1axmegjtddzg50fwza" xml:space="preserve">{{Character
+| Name=Robin
+| Guid=3005-58727
+| Deck=Robin is the main character of One Night Stand, that wakes up next to a mysterious woman after a night out and tries to piece together the clues of what happened.
+| Concepts=Concepts/Drunk_Character,Concepts/Sex
+| Enemies=Characters/Robin_Smith
+| Franchises=
+| Friends=Characters/Robin_Smith
+| Games=Games/One_Night_Stand
+| Locations=Locations/England,Locations/Europe,Locations/United_Kingdom
+| People=
+| Objects=Objects/Condom,Objects/Red_Wine,Objects/Wine
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3818058-onenightstand_20251008173626.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3818058-onenightstand_20251008173626.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_medium,scale_super,square_avatar,scale_small,square_small,square_medium,square_tiny,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;
+Robin is the main character of One Night Stand, that wakes up next to a mysterious woman after a night out and tries to piece together the clues of what happened.</text>
+      <sha1>2q6sb2yq3zekc1axmegjtddzg50fwza</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Robin Smith</title>
+    <ns>0</ns>
+    <id>57943</id>
+    <revision>
+      <id>722107</id>
+      <parentid>722103</parentid>
+      <timestamp>2026-02-14T19:41:19Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722107</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="997" sha1="2wqs4lggwvd60g9hpqpmuakn5giup5h" xml:space="preserve">{{Character
+| Name=Robin Smith
+| Guid=3005-58726
+| Deck=Robin Smith is the mysterious woman you wake up next to in One Night Stand.
+| Concepts=Concepts/Drunk,Concepts/Sex
+| Enemies=Characters/Robin_58727
+| Franchises=
+| Friends=Characters/Robin_58727
+| Games=Games/One_Night_Stand
+| Locations=Locations/England,Locations/Europe,Locations/United_Kingdom
+| People=
+| Objects=Objects/Alcoholic_Beverages,Objects/Coffee,Objects/Guitar,Objects/Red_Wine,Objects/Taxi_Cab,Objects/Wine
+| Image=https://www.giantbomb.com/a/uploads/scale_super/8/82962/3818053-onenightstand_20251008173432.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3818053-onenightstand_20251008173432.png","path":"8\/82962\/","mime":"image\/png","sizes":"scale_medium,scale_super,scale_small,square_avatar,square_small,square_medium,square_tiny,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;
+Robin Smith is the mysterious woman you wake up next to in One Night Stand.</text>
+      <sha1>2wqs4lggwvd60g9hpqpmuakn5giup5h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Robo Kitty</title>
+    <ns>0</ns>
+    <id>57826</id>
+    <revision>
+      <id>57942</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57942</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="606" sha1="b0v12izjauvb22gkn9cqibok9dpcu9q" xml:space="preserve">{{Character
+| Name=Robo-Kitty
+| Guid=3005-58608
+| Concepts=Concepts/Cats,Concepts/Climbing,Concepts/Idle_Animations,Concepts/No_Jumping,Concepts/Player_Taunting,Concepts/Respawn,Concepts/Robot,Concepts/Sliding_Down_Ladders
+| Enemies=Characters/Killer_Tomato,Characters/Super_Granny
+| Franchises=Franchises/Super_Granny
+| Friends=Characters/Dog_58603,Characters/Gorilla_58609,Characters/Tiki_Man
+| Games=Games/Granny_in_Paradise
+| Locations=Locations/Factory,Locations/Underwater,Locations/Volcano
+| People=
+| Objects=Objects/Bionic_Arm
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>b0v12izjauvb22gkn9cqibok9dpcu9q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Robot 27</title>
+    <ns>0</ns>
+    <id>57861</id>
+    <revision>
+      <id>57978</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57978</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="641" sha1="qbv36gounju1o6dpcxbmjyylcehmua1" xml:space="preserve">{{Character
+| Name=Robot 27
+| Guid=3005-58644
+| Gender=Male
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/PointWorks
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+He is a bipedal robot invented by 'John', programmed to complete a parkour test in a grey and neon-outlined dimension called 'The Grid'. He is supported by a robotic voice named 'Michael' (whom John invented as well) who motivates him when he completes a level, and fails. He is designed to work in an obstacle course, but he is also an incredibly operative robot with zero malfunctions in his activity.
+</text>
+      <sha1>qbv36gounju1o6dpcxbmjyylcehmua1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Rogoe</title>
+    <ns>0</ns>
+    <id>57764</id>
+    <revision>
+      <id>722009</id>
+      <parentid>722007</parentid>
+      <timestamp>2026-02-14T19:40:49Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722009</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="670" sha1="ln46nbdfkzcohvah31hu0ktlw54flou" xml:space="preserve">{{Character
+| Name=Rogoe
+| Guid=3005-58546
+| Deck=A Gungan warlord thousands of years before the Battle of Yavin.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3801078-image.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3801078-image.png","path":"45\/456753\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A Gungan warlord thousands of years before the Battle of Yavin.</text>
+      <sha1>ln46nbdfkzcohvah31hu0ktlw54flou</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Rohan Kumakura</title>
+    <ns>0</ns>
+    <id>58069</id>
+    <revision>
+      <id>58186</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58186</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="239" sha1="mpmetnyza7quhzik3x8uxf8poandroq" xml:space="preserve">{{Character
+| Name=Rohan Kumakura
+| Guid=3005-58852
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/AI_The_Somnium_Files
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>mpmetnyza7quhzik3x8uxf8poandroq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Rudolph Gartheimer</title>
+    <ns>0</ns>
+    <id>57842</id>
+    <revision>
+      <id>738770</id>
+      <parentid>722073</parentid>
+      <timestamp>2026-02-26T23:49:30Z</timestamp>
+      <contributor>
+        <username>Frobie</username>
+        <id>300</id>
+      </contributor>
+      <comment>fix image</comment>
+      <origin>738770</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1760" sha1="n6ekaxoysvgsurkj5ov9q2edgpr8mf8" xml:space="preserve">{{Character
+|Name=Rudolph Gartheimer
+|Guid=3005-58625
+|Image=https://www.giantbomb.com/a/uploads/original/36/361609/3811372-rudolf_gartheimer.png
+|Deck=Rudolph is an aggressive man who is feared by all who know him. The only person who has seen his tender side is his young servant, Damian. Originally his family was part of the Goketsuji clan. But after certain events in the past, they were considered a disgrace to the family and were exiled by Oume/Ume. The Gartheimer family lost it all.
+|Concepts=Concepts/Boss_Fight, Concepts/Descendants_of_Other_Characters, Concepts/LGBT, Concepts/Mini_Boss, Concepts/Romance, Concepts/Sexualized_Men
+|Enemies=Characters/Chris_Wayne, Characters/Hizumi_Yukinoue, Characters/Larry_Light, Characters/Reiji_Oyama, Characters/Solis_R8000, Characters/Sujiroku_Tenjinbashi, Characters/Tane_Goketsu, Characters/Ume_Goketsu
+|Friends=Characters/Bristol_Weller, Characters/Damian_Shade
+|Games=Games/Groove_on_Fight_Gouketsuji_Ichizoku_3
+|Locations=Locations/Germany
+|Objects=Objects/Ball, Objects/Beard, Objects/Boots, Objects/Gloves, Objects/Mask
+}}
+&lt;div id='imageData' data-json='{"infobox":{"file":"3811372-rudolf_gartheimer.png","path":"36\/361609\/","mime":"image\/png","sizes":"scale_medium,square_small,scale_tiny,square_avatar,scale_small,scale_super,square_tiny,square_medium,screen_medium,scale_avatar,square_mini,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+Rudolph is an aggressive man who is feared by all who know him. The only person who has seen his tender side is his young servant, Damian. Originally his family was part of the Goketsuji clan. But after certain events in the past, they were considered a disgrace to the family and were exiled by Oume/Ume. The Gartheimer family lost it all.</text>
+      <sha1>n6ekaxoysvgsurkj5ov9q2edgpr8mf8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Rue 58511</title>
+    <ns>0</ns>
+    <id>57729</id>
+    <revision>
+      <id>57845</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57845</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="215" sha1="bff2grp3ovill8fo3mas1abz4ptxzv2" xml:space="preserve">{{Character
+| Name=Rue
+| Guid=3005-58511
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/OneShot
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>bff2grp3ovill8fo3mas1abz4ptxzv2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Saito Sejima</title>
+    <ns>0</ns>
+    <id>58028</id>
+    <revision>
+      <id>58145</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58145</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="328" sha1="muw34nd77mo0wbd3twooicztehz9d7n" xml:space="preserve">{{Character
+| Name=Saito Sejima
+| Guid=3005-58811
+| Concepts=
+| Enemies=Characters/Aiba_58812,Characters/Iris_Sagan,Characters/Kaname_Date,Characters/Mizuki_Okiura
+| Franchises=
+| Friends=
+| Games=Games/AI_The_Somnium_Files
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>muw34nd77mo0wbd3twooicztehz9d7n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Sakata</title>
+    <ns>0</ns>
+    <id>57865</id>
+    <revision>
+      <id>57982</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57982</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="224" sha1="jx4jyq9xjxiqlpmlzzq8ak7kwov8uew" xml:space="preserve">{{Character
+| Name=Sakata
+| Guid=3005-58648
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Riki_Densetsu
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>jx4jyq9xjxiqlpmlzzq8ak7kwov8uew</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Salem 23908</title>
+    <ns>0</ns>
+    <id>464567</id>
+    <revision>
+      <id>996707</id>
+      <parentid>740310</parentid>
+      <timestamp>2026-07-19T03:31:51Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>996707</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="946" sha1="ob6arvdgg0kqwqz582a6noilazfpvw4" xml:space="preserve">{{Character
+| Name=Salem
+| Guid=3005-23908
+| Deck=A former member of the Lopt Church, he detests their brutality.
+| Gender=Male
+| Concepts=
+| Enemies=Characters/Julius_12036,Characters/Kempf,Characters/Manfroy,Characters/Raydrik,Characters/Reinhardt
+| Franchises=Franchises/Fire_Emblem
+| Friends=Characters/Leif
+| Games=Games/Fire_Emblem_Awakening,Games/Fire_Emblem_Thracia_776
+| Locations=Locations/Jugdral,Locations/Yied_Desert
+| People=People/Shouzou_Kaga
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/15/151939/2280427-salem.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2280427-salem.jpg","path":"15\/151939\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,scale_small,scale_tiny,square_mini,scale_medium,screen_medium,scale_large,scale_avatar,square_tiny,square_medium,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+A former member of the Lopt Church, he detests their brutality.</text>
+      <sha1>ob6arvdgg0kqwqz582a6noilazfpvw4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Sam Steele</title>
+    <ns>0</ns>
+    <id>58040</id>
+    <revision>
+      <id>58157</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58157</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="230" sha1="kjiqd5rkmjuqvob1309n9nmkuut0esj" xml:space="preserve">{{Character
+| Name=Sam Steele
+| Guid=3005-58823
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/The_Yukon_Trail
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>kjiqd5rkmjuqvob1309n9nmkuut0esj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Samson Hook</title>
+    <ns>0</ns>
+    <id>57901</id>
+    <revision>
+      <id>58018</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58018</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="246" sha1="t7j9tqf0qs5d88p5jnnonbaf1nons4l" xml:space="preserve">{{Character
+| Name=Samson Hook
+| Guid=3005-58684
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Death_Stranding_2_On_the_Beach
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>t7j9tqf0qs5d88p5jnnonbaf1nons4l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Saori Goda</title>
+    <ns>0</ns>
+    <id>57798</id>
+    <revision>
+      <id>57914</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57914</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="232" sha1="eaz83i3aqjuwjdjdgmkv7zussujdwxj" xml:space="preserve">{{Character
+| Name=Saori Goda
+| Guid=3005-58580
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/River_City_Ransom
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>eaz83i3aqjuwjdjdgmkv7zussujdwxj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Sarah Martin 35707</title>
+    <ns>0</ns>
+    <id>464589</id>
+    <revision>
+      <id>740573</id>
+      <timestamp>2026-03-04T19:50:57Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>740573</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="253" sha1="t3nwqs22a2wh9q6mnnqvmv77um8u5pg" xml:space="preserve">{{Character
+| Name=Sarah Martin 
+| Guid=3005-35707
+| Concepts=
+| Enemies=
+| Franchises=Franchises/Time_Crisis
+| Friends=
+| Games=Games/Time_Crisis_4
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>t3nwqs22a2wh9q6mnnqvmv77um8u5pg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Saria 1800</title>
+    <ns>0</ns>
+    <id>464514</id>
+    <revision>
+      <id>996746</id>
+      <parentid>739075</parentid>
+      <timestamp>2026-07-19T03:34:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>996746</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2184" sha1="k4dzfqbr5x6sobkbvf4vw8mvcn7fmcf" xml:space="preserve">{{Character
+| Name=Saria
+| Guid=3005-1800
+| Deck=Link's childhood friend from The Legend of Zelda: Ocarina of Time. After Link's seven year absence she gets captured and awakens as the Forest Sage.
+| Gender=Non-Binary
+| Concepts=Concepts/Kokiri,Concepts/Sages_of_Hyrule
+| Enemies=Characters/Ganon,Characters/Phantom_Ganon
+| Franchises=Franchises/The_Legend_of_Zelda
+| Friends=Characters/Darunia,Characters/Great_Deku_Tree,Characters/Impa,Characters/Link,Characters/Mido,Characters/Nabooru,Characters/Navi,Characters/Princess_Ruto,Characters/Rauru
+| Games=Games/Super_Smash_Bros_for_Wii_U_Nintendo_3DS,Games/The_Legend_of_Zelda_Collectors_Edition,Games/The_Legend_of_Zelda_Ocarina_of_Time,Games/The_Legend_of_Zelda_Ocarina_of_Time_Master_Quest
+| Locations=Locations/Forest,Locations/Forest_Temple,Locations/Hyrule,Locations/Kokiri_Forest,Locations/Lost_Woods,Locations/Sacred_Realm
+| People=People/Toru_Osawa
+| Objects=Objects/Grass,Objects/Ocarina,Objects/Stained_Glass
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/9566/208587-saria.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"208587-saria.jpg","path":"0\/9566\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+Saria is a character In [[Games/The_Legend_of_Zelda_Ocarina_of_Time|The Legend of Zelda: Ocarina of Time]]. A member of the Kokiri tribe of forest children, Saria is [[Characters/Link|Link's]] best friend in Kokiri Village. Before Link departs on his adventure, she gives him his first [[Objects/Ocarina|ocarina]] as a gift. Seven years later, Link discovered that she is one of the [[Concepts/Sages_of_Hyrule|six sages]].
+
+
+==Zelda II==
+In [[Games/Zelda_II_The_Adventure_of_Link|Zelda II: The Adventure of Link]], one of the towns in the game is called [[Characters/Saria_1800|Saria]]. Most of the names of the towns in the game were later used as the names of the sages in Ocarina of Time. Because Zelda II is set later in the timeline, it can be inferred that the town of Saria was named after the sage.</text>
+      <sha1>k4dzfqbr5x6sobkbvf4vw8mvcn7fmcf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Satomi Momozono</title>
+    <ns>0</ns>
+    <id>57866</id>
+    <revision>
+      <id>57983</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57983</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="kjztwbbxio2gzh4hcmskkz3tw524tl9" xml:space="preserve">{{Character
+| Name=Satomi Momozono
+| Guid=3005-58649
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=Characters/Rika_Asano,Characters/Sanjuro_Sugata
+| Games=Games/Kunio_no_Oden,Games/River_City_Rival_Showdown
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>kjztwbbxio2gzh4hcmskkz3tw524tl9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Sayl the Faithless</title>
+    <ns>0</ns>
+    <id>57854</id>
+    <revision>
+      <id>722087</id>
+      <parentid>722083</parentid>
+      <timestamp>2026-02-14T19:41:13Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722087</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1482" sha1="5k17k1tdbz0lflt8uk4jodusuqvushf" xml:space="preserve">{{Character
+| Name=Sayl the Faithless
+| Guid=3005-58637
+| Deck=A Norscan Chaos Sorcerer, dubbed "the Faithless" for how he routinely switches his devotions to whichever Chaos God he feels can most benefit him in the moment. So odious and treacherous that even most other followers of Chaos detest him.
+| Concepts=Concepts/Betrayal,Concepts/Chaos,Concepts/Magic,Concepts/Sociopath,Concepts/Wizards
+| Enemies=Characters/Khorne,Characters/Nurgle,Characters/Slaanesh,Characters/Tzeentch
+| Franchises=
+| Friends=Characters/Archaon_the_Everchosen,Characters/Khorne,Characters/Nurgle,Characters/Slaanesh,Characters/Throgg,Characters/Tzeentch,Characters/Wulfrik_the_Wanderer
+| Games=Games/Total_War_Warhammer_III
+| Locations=
+| People=
+| Objects=Objects/Armor,Objects/Cape,Objects/Helmet,Objects/Magic_Staff
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3810202-screenshot2025-10-12231210.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3810202-screenshot2025-10-12231210.png","path":"77\/776653\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_avatar,screen_medium,screen_kubrick,scale_large,square_mini,scale_avatar","caption":null},"background":[]}' /&gt;
+A Norscan Chaos Sorcerer, dubbed "the Faithless" for how he routinely switches his devotions to whichever Chaos God he feels can most benefit him in the moment. So odious and treacherous that even most other followers of Chaos detest him.</text>
+      <sha1>5k17k1tdbz0lflt8uk4jodusuqvushf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Schelemeus</title>
+    <ns>0</ns>
+    <id>57770</id>
+    <revision>
+      <id>722020</id>
+      <parentid>722018</parentid>
+      <timestamp>2026-02-14T19:40:52Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722020</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="826" sha1="34wa9m13r6adblh73v9otauc0wxiiw5" xml:space="preserve">{{Character
+| Name=Schelemeus
+| Guid=3005-58552
+| Aliases=Skelly
+| Deck=A skeleton creature in the Hades franchise that serves as a training dummy.
+| Gender=Male
+| Concepts=Concepts/Trainer
+| Enemies=
+| Franchises=
+| Friends=Characters/Melinoe,Characters/Zagreus
+| Games=Games/Hades_2020,Games/Hades_II
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3802776-8420143888-360.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3802776-8420143888-360.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_super,scale_small,square_small,scale_medium,square_medium,square_avatar,square_tiny,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;
+A skeleton creature in the Hades franchise that serves as a training dummy.</text>
+      <sha1>34wa9m13r6adblh73v9otauc0wxiiw5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Sea Lord Aislinn</title>
+    <ns>0</ns>
+    <id>57855</id>
+    <revision>
+      <id>722088</id>
+      <parentid>722084</parentid>
+      <timestamp>2026-02-14T19:41:13Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722088</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1364" sha1="qtukynqmkrhhdlas2nhrr8sic56dbp5" xml:space="preserve">{{Character
+| Name=Sea Lord Aislinn
+| Guid=3005-58638
+| Deck=Sea Lord of Ulthuan and commander of the High Elf navy. Dubbed "Aislinn the Pernicious" by his peers.
+| Concepts=Concepts/Anti_Hero,Concepts/Elf,Concepts/High_Elves,Concepts/Naval_Battle
+| Enemies=Characters/Archaon_the_Everchosen,Characters/Crone_Hellebron,Characters/Khorne,Characters/Lokhir_Fellheart,Characters/Malekith_the_Witch_King,Characters/Malus_Darkblade,Characters/Morathi,Characters/Nurgle,Characters/Rakarth_the_Beastlord,Characters/Slaanesh,Characters/Tzeentch
+| Franchises=
+| Friends=Characters/Alarielle,Characters/Alith_Anar,Characters/Eltharion_the_Grim,Characters/Prince_Tyrion,Characters/Teclis
+| Games=Games/Total_War_Warhammer_III
+| Locations=
+| People=
+| Objects=Objects/Armor,Objects/Cape,Objects/Gloves,Objects/Helmet,Objects/Sword
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3810203-screenshot2025-10-12231610.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3810203-screenshot2025-10-12231610.png","path":"77\/776653\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+Sea Lord of Ulthuan and commander of the High Elf navy. Dubbed "Aislinn the Pernicious" by his peers.</text>
+      <sha1>qtukynqmkrhhdlas2nhrr8sic56dbp5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Sean 3103</title>
+    <ns>0</ns>
+    <id>464523</id>
+    <revision>
+      <id>996773</id>
+      <parentid>979235</parentid>
+      <timestamp>2026-07-19T03:35:50Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>996773</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7247" sha1="5xwq6vaw6dr24jl2ez5xqggbupxmcqg" xml:space="preserve">{{Character
+| Name=Sean
+| Guid=3005-3103
+| Deck=Sean Matsuda is one of the many featured characters in the Street Fighter III series. He is the protégé of Ken Masters and hopes to become the strongest fighter in the world, despite his inexperienced and outgoing behavior.
+| RealName=Sean Matsuda
+| Gender=Male
+| Concepts=Concepts/Character_Select_Screen,Concepts/Combo,Concepts/CPS,Concepts/Descendants_of_Other_Characters,Concepts/Jump,Concepts/Karate,Concepts/Martial_Arts,Concepts/Projectile,Concepts/Roundhouse_Kick,Concepts/Shoto_clone
+| Enemies=Characters/Akuma,Characters/Alex,Characters/Dudley,Characters/Elena_3106,Characters/Gill,Characters/Hugo_Andore,Characters/Ibuki,Characters/Makoto,Characters/Necro,Characters/Oro,Characters/Remy,Characters/Rufus,Characters/Urien,Characters/Yang_3112,Characters/Yun
+| Franchises=Franchises/Capcom_Versus,Franchises/Marvel_vs_Capcom,Franchises/SNK_vs_Capcom,Franchises/Street_Fighter,Franchises/Street_Fighter_III
+| Friends=Characters/Eliza_Masters,Characters/Ken_Masters,Characters/Laura_32277,Characters/Ryu
+| Games=Games/Capcom_Fighting_Collection_2,Games/Capcom_Fighting_Evolution,Games/Marvel_Super_Heroes_Vs_Street_Fighter,Games/Marvel_vs_Capcom_Fighting_Collection_Arcade_Classics,Games/SNK_vs_Capcom_Card_Fighters_DS,Games/Street_Fighter_30th_Anniversary_Collection,Games/Street_Fighter_III_2nd_Impact,Games/Street_Fighter_III_3rd_Strike,Games/Street_Fighter_III_Double_Impact,Games/Street_Fighter_III_New_Generation,Games/Street_Fighter_V,Games/Teppen
+| Locations=Locations/Brazil
+| People=People/Hideki_Okugawa
+| Objects=Objects/Basketball,Objects/Belt,Objects/Dreadlocks,Objects/Fingerless_Gloves,Objects/Karate_Gi
+| Image=https://www.giantbomb.com/a/uploads/scale_super/3/34651/3409815-seanbasket.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3409815-seanbasket.png","path":"3\/34651\/","mime":"image\/png","sizes":"square_tiny,scale_super,square_small,square_avatar,square_medium,scale_small,square_mini,scale_medium,scale_avatar,screen_kubrick,screen_medium,scale_large","caption":null},"background":[]}' /&gt;
+
+==Overview==
+Sean is a character in the [[Franchises/Street_Fighter|Street Fighter franchise]] but only appeared in the [[Franchises/Street_Fighter_III|III series]]. Sean and many others introduced in Street Fighter III were to serve as replacements to previous characters in the series. 
+ 
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_medium/2/29889/941812-sf3_1.png|full=http://www.giantbomb.com/a/uploads/original/2/29889/941812-sf3_1.png|align=right|caption= Sean fighting Gill in Street Fighter III: New Generation.}}
+
+
+
+
+Born of Brazilian and Japanese ancestry (last name Matsuda), Sean is the student of [[Characters/Ken_Masters|Ken Masters]] for whom he was inspired by. Sean wears similar clothing to Ken and [[Characters/Ryu|Ryu]]; wearing a gi, a martial arts belt and fighting gloves. Noticeable physical characteristics are his tanned skin as well as small dreadlocks. During his time not fighting, Sean loves playing [[Concepts/Basketball|basketball]]. 
+ 
+During the development process of [[Games/Street_Fighter_III_New_Generation|Street Fighter III: New Generation]], Ryu and Ken were supposed to be omitted and have Sean utilize various techniques from them. Throughout the III series, Sean gone through different iterations with previously becoming of the top characters to use and later jokingly referred to as the [[Characters/Dan_Hibiki|Dan Hibiki]] of Street Fighter III.
+
+==Story==
+Sean's first foray into fighting was when he saw Ken grabbing another U.S. Martial Arts Tournament victory. Sean would swear to himself that Ken will have to teach him. 
+ 
+
+===Street Fighter III===
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_medium/0/7580/351030-sf3_9.png|full=http://www.giantbomb.com/a/uploads/original/0/7580/351030-sf3_9.png|align=left|caption= Ryu defeating Sean multiple times}}
+
+
+
+
+Sean would pursue Ken in becoming his teacher to no avail. To impress him, Sean enters the third World Warrior tournament. One of the matches had Sean lose to Ken. Annoyed, Ken tells Sean to find Ryu and defeat him. As Sean finds Ryu, he also gets defeated battle after battle to the point Sean is injured. After recovering, Sean practices by himself for a year. 
+ 
+Sean would try to pursue Ken again by entering another edition of the U.S. Martial Arts Tournament. After losing to random fighter, Ken tells Sean that he lacks the necessities to become an excellent fighter. After Ken takes another tournament victory, he offers Sean the trophy but would decline. Sean's response is that he will win a championship one day.   
+ 
+ 
+
+===Marvel Super Heroes vs Street Fighter===
+Should Ken Masters be one of the selected fighters in MSH vs SF, Sean will sometimes makes a cameo where he'll appear alongside Ken before a fight starts.
+
+
+==Gameplay==
+Generally, Sean throughout ever Street Fighter III game has the same moves. He has similar movements to Ryu and Ken. His taunt allows him to throw a basketball allowing an opportunity to attack from another angle. During [[Games/Street_Fighter_III_2nd_Impact|Street Fighter III: 2nd Impact]], Sean was considered the top character to use due to his high damage moves and ease of combos. His move set and stats would change when [[Games/Street_Fighter_III_3rd_Strike|3rd Strike]] released. His moves become less effective and powerful rendering him weak in comparison to his previous iteration. It's sometimes joked that Sean is the Dan Hibiki in 3rd Strike. 
+ 
+
+===Special moves===
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_medium/4/49957/1736507-sfiii3n_03_18_020505.png|full=http://www.giantbomb.com/a/uploads/original/4/49957/1736507-sfiii3n_03_18_020505.png|align=right|caption= Sean fighting Oro in Street Fighter III: 3rd Strike.}}
+
+
+
+
+Unlike Ryu and Ken, Sean does not have a regular "[[Concepts/Hadouken|Hadouken]]" (fireball) but does have a ([[Concepts/Shoryuken|Shoryuken]]) (dragon punch) in the first two versions of Street Fighter III. Called the "Dragon Smash," Sean can perform a Shoruken and if successful can punch an opponent down to the ground. In 3rd Strike, the Dragon Smash changed to a slower motion of Sean jumping in the air with his arms aiming upward. 
+ 
+As a replacement to the "Tatsumaki Senpuu Kyaku" ([[Concepts/Hurricane_Kick|hurricane kick]]), Sean has the "Tornado" where he spins while having his legs more outward depending on side. Adopted from Ken, the "Zenten" is an evasive roll that is used to avoid high hits. Sean also has a tackle where he dashes low and attempts to keep the opponent locked in. The "Ryuubi Kyaku" has Sean do a flip kick that can vary in distance and high depending on which kick button used. 
+ 
+
+===Super Arts===
+Sean can perform a special Hadouken called the "Hadou-Burst" which is a quick one hit fireball that sends an opponent across the screen when hit. The "Shoryu-Cannon" is very similar to Ken's "Shoryureppa" super move where Sean can perform 10  hits on an opponent if the punch buttons have be rapidly press during the attack. The "Hyper Tornado" has Sean charge in and perform multiple hits before finally finishing with a strong Tornado to Ryuubi Kyaku.</text>
+      <sha1>5xwq6vaw6dr24jl2ez5xqggbupxmcqg</sha1>
+    </revision>
+  </page>
+</mediawiki>

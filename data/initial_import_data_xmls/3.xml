@@ -1,0 +1,1844 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Accessories/PlayStation 2 Memory Card</title>
+    <ns>0</ns>
+    <id>413</id>
+    <revision>
+      <id>722303</id>
+      <parentid>617501</parentid>
+      <timestamp>2026-02-14T19:58:42Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722303</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="664" sha1="hy3vzhvf1kz4wujk4c60s3g0l4lppmj" xml:space="preserve">{{Accessory
+| Name=PlayStation 2 Memory Card
+| Guid=3000-147
+| Deck=The official storage device for PlayStation 2. It offered 8 MB of space for saved games.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396038-2824235859-51IlV.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396038-2824235859-51IlV.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_small,scale_medium,square_medium,square_small,square_tiny,square_mini,scale_super,scale_avatar,screen_medium,screen_kubrick,scale_large,square_avatar","caption":null},"background":[]}' /&gt;
+The official storage device for PlayStation 2. It offered 8 MB of space for saved games.</text>
+      <sha1>hy3vzhvf1kz4wujk4c60s3g0l4lppmj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/PlayStation 2 Multitap</title>
+    <ns>0</ns>
+    <id>290</id>
+    <revision>
+      <id>722183</id>
+      <parentid>617384</parentid>
+      <timestamp>2026-02-14T19:58:05Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722183</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1161" sha1="agt86cvwrjabrs5rwee58g2gdkedx91" xml:space="preserve">{{Accessory
+| Name=PlayStation 2 Multitap
+| Guid=3000-18
+| Deck=The multitap increases the number of controller/memory card ports to four per multitap per original ports, of which there were two pair.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/24/10998-20078151273092667.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"10998-20078151273092667.jpg","path":"0\/24\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+Produced for an era when party games demanded more than just two simultaneous players, the [[Platforms/PlayStation_2|PlayStation 2]] multitap plugs into one of the controller and memory card slots on the console, increasing the total number of controller ports from two to five. Plug a second multitap into the remaining ports on the console for an additional three players. Later versions of the device also provided extra memory card slots, allowing players to keep track of their individual statistics for games that would allow it.</text>
+      <sha1>agt86cvwrjabrs5rwee58g2gdkedx91</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/PlayStation 2 Network Adaptor</title>
+    <ns>0</ns>
+    <id>340</id>
+    <revision>
+      <id>722229</id>
+      <parentid>617430</parentid>
+      <timestamp>2026-02-14T19:58:19Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722229</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1712" sha1="4et2z0istyinop69gu03e1i0xadjmij" xml:space="preserve">{{Accessory
+| Name=PlayStation 2 Network Adaptor
+| Guid=3000-69
+| Deck=A combined dial-up modem and Ethernet adapter released for the PlayStation 2, which plugs into the console's expansion bay and allows online play in certain games. It also enables installation of the PlayStation 2 Hard Disk Drive.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/5/59593/2604973-5182029015-418T3.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2604973-5182029015-418T3.jpg","path":"5\/59593\/","mime":"image\/jpeg","sizes":"scale_small,square_mini,square_small,square_tiny,square_medium,scale_tiny,square_avatar,scale_medium,screen_medium,scale_large,scale_avatar,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+The Network Adaptor for [[Platforms/PlayStation_2|PlayStation 2]] was released in July 2001 in Japan, August 2002 in North America, and June 2003 in Europe. It functions as both an Ethernet network adapter for broadband Internet, and a modem for dial-up.
+In North America, the adapter launched with several [[Concepts/Online|online-capable]] games: [[Games/SOCOM_U_S_Navy_SEALs|SOCOM: U.S. Navy SEALs]], [[Games/NFL_GameDay_2003|NFL GameDay 2003]], [[Games/Madden_NFL_2003|Madden NFL 2003]], [[Games/NFL_2K3|NFL 2K3]], and [[Games/Twisted_Metal_Black_ONLINE|Twisted Metal: Black ONLINE]], which could be obtained for free using a mail-order coupon that came with the adapter.
+The slimline PS2 does not support the adapter, though later revisions of the system include a built-in Ethernet port. No slimline PS2s support the HDD, however, which prevents users from playing online games like [[Games/Final_Fantasy_XI_Online|Final Fantasy XI]] that require a hard drive.</text>
+      <sha1>4et2z0istyinop69gu03e1i0xadjmij</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/PlayStation 2 Vertical Stand</title>
+    <ns>0</ns>
+    <id>414</id>
+    <revision>
+      <id>722304</id>
+      <parentid>617502</parentid>
+      <timestamp>2026-02-14T19:58:42Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722304</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="841" sha1="0t3xe2lsxin0u42r2k84bk233x4s62w" xml:space="preserve">{{Accessory
+| Name=PlayStation 2 Vertical Stand
+| Guid=3000-148
+| Deck=Released by Sony Computer Entertainment alongside the launch of the PlayStation 2, the Vertical Stand provides stability when placing the console in its upright configuration.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396046-5400793042-13134.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396046-5400793042-13134.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_medium,square_small,square_tiny,scale_small,scale_super,scale_medium,square_mini,scale_avatar,scale_large,screen_kubrick,square_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+Released by Sony Computer Entertainment alongside the launch of the PlayStation 2, the Vertical Stand provides stability when placing the console in its upright configuration.</text>
+      <sha1>0t3xe2lsxin0u42r2k84bk233x4s62w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/PlayStation 3 Memory Card Adaptor</title>
+    <ns>0</ns>
+    <id>439</id>
+    <revision>
+      <id>722335</id>
+      <parentid>617527</parentid>
+      <timestamp>2026-02-14T19:58:50Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722335</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="706" sha1="tfbd2u6bl7tpj79w45hqemyf47n2d6k" xml:space="preserve">{{Accessory
+| Name=PlayStation 3 Memory Card Adaptor
+| Guid=3000-174
+| Deck=The PS3 Memory Card Adaptor allows people to transfer their PS1 and PS2 save files to the PS3 hard drive.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396644-1075915546-12991.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396644-1075915546-12991.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_medium,square_small,scale_medium,scale_small,square_mini,square_tiny,scale_large,scale_super,scale_avatar,screen_kubrick,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;
+The PS3 Memory Card Adaptor allows people to transfer their PS1 and PS2 save files to the PS3 hard drive.</text>
+      <sha1>tfbd2u6bl7tpj79w45hqemyf47n2d6k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/PlayStation 5 Console Covers</title>
+    <ns>0</ns>
+    <id>452</id>
+    <revision>
+      <id>722353</id>
+      <parentid>617540</parentid>
+      <timestamp>2026-02-14T19:58:55Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722353</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="882" sha1="4g2283bsar9ta6dou3aklumycrmb0b0" xml:space="preserve">{{Accessory
+| Name=PlayStation 5 Console Covers
+| Guid=3000-187
+| Deck=PlayStation 5 Console Covers are designed and released by Sony Computer Entertainment as an official way of customizing the look of the console.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396788-2721316088-ps5-console-covers-hero-image-block-desktop-01-en-02dec21.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396788-2721316088-ps5-console-covers-hero-image-block-desktop-01-en-02dec21.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_small,square_medium,scale_super,square_small,square_tiny,scale_medium,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;
+PlayStation 5 Console Covers are designed and released by Sony Computer Entertainment as an official way of customizing the look of the console.</text>
+      <sha1>4g2283bsar9ta6dou3aklumycrmb0b0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/PlayStation Analog Joystick</title>
+    <ns>0</ns>
+    <id>376</id>
+    <revision>
+      <id>722265</id>
+      <parentid>617465</parentid>
+      <timestamp>2026-02-14T19:58:30Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722265</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="796" sha1="2mwsg87kan2rchrohi9t71p5tbjco85" xml:space="preserve">{{Accessory
+| Name=PlayStation Analog Joystick
+| Guid=3000-108
+| Deck=The first analog controller released for Sony's PS1 released in the United States in 1995 and Japan in 1996. Compatible with over 40 games.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/12/120008/3082542-playstation-analog-joystick.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3082542-playstation-analog-joystick.jpg","path":"12\/120008\/","mime":"image\/jpeg","sizes":"square_medium,square_small,square_tiny,scale_small,scale_super,scale_medium,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;
+The first analog controller released for Sony's PS1 released in the United States in 1995 and Japan in 1996. Compatible with over 40 games.</text>
+      <sha1>2mwsg87kan2rchrohi9t71p5tbjco85</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/PlayStation Camera for PS4</title>
+    <ns>0</ns>
+    <id>314</id>
+    <revision>
+      <id>978506</id>
+      <parentid>722207</parentid>
+      <timestamp>2026-07-17T04:59:30Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3000-43)</comment>
+      <origin>978506</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2133" sha1="qdha2s10ooc7sszm82bnydnwhtfbhff" xml:space="preserve">{{Accessory
+| Name=PlayStation Camera for PS4
+| Guid=3000-43
+| Deck=The PlayStation Camera is the next generation of the PlayStation Eye featuring two cameras and a four-channel array of microphones.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/9253/2440465-ps4eye_1.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2440465-ps4eye_1.jpg","path":"0\/9253\/","mime":"image\/jpeg","sizes":"square_small,scale_small,scale_tiny,square_tiny,square_medium,square_avatar,square_mini,scale_medium,screen_medium,scale_large,scale_avatar,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+Announced on February 20, 2013 along with the [[Platforms/PlayStation_4|PlayStation 4]] and [[Accessories/DualShock_4|DualShock 4]], the PlayStation®Camera is the camera accessory for the PlayStation 4. The PlayStation®Camera has two wide-angle lens cameras with 85-degree diagonal angle views which allows for recognizing depth. Each lens is capable of capturing images at a resolution of up to 1280 x 800. The Eye also includes four microphones to determine from where a sound originates.
+
+The PlayStation®Camera can also be used for facial recognition. It will still be used with the PlayStation Move, but its enhanced capabilities will allow it to even more precisely track the Move. In addition to the Move, it will also track the DualShock 4 which now has a multicolored light bar.
+
+
+
+
+==Specifications==
+
+{| class='wikitable gb-table-natural'
+|-
+| External Dimension||&lt;p&gt;Approx. 186mm x 27mm x 27mm (width x height x depth)&lt;/p&gt;&lt;p&gt;(tentative)&lt;/p&gt;
+|-
+| Weight||Approx. 183g (tentative)
+|-
+| Video Pixel||(Maximum) 1280 x 800 pixel x 2
+|-
+| Video Frame Rate||&lt;p&gt;1280x800 pixel @ 60fps&lt;/p&gt;&lt;p&gt;640x400 pixel @ 120fps&lt;/p&gt;&lt;p&gt;320x192 pixel @ 240fps&lt;/p&gt;
+|-
+| Video Format||RAW, YUV (uncompressed)
+|-
+| Lens||Dual Lenses, F value/F2.0 fixed focus
+|-
+| Capture Range||30cm～∞
+|-
+| Field-of-View||85°
+|-
+| Microphone||4 Channel Microphone Array
+|-
+| Connection Type||PS4 dedicated connector (AUX connector)
+|-
+| Cable Length||Approx. 2m (tentative)
+|}
+
+*Specifications are subject to change without notice.</text>
+      <sha1>qdha2s10ooc7sszm82bnydnwhtfbhff</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/PlayStation Camera for PS4 181</title>
+    <ns>0</ns>
+    <id>446</id>
+    <revision>
+      <id>722344</id>
+      <parentid>617534</parentid>
+      <timestamp>2026-02-14T19:58:53Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722344</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="969" sha1="s7vakjvjesjfjfgtuzss1yykxrc1ht3" xml:space="preserve">{{Accessory
+| Name=PlayStation Camera for PS4
+| Guid=3000-181
+| Deck=The official PS4 camera allows players to broadcast themselves when streaming, log in to their profile using facial recognition, and use voice activation. It is required for PlayStation VR.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396703-5310001260-Sony-PlayStation-Camera-for-PlayStation-4-Previous-Model.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396703-5310001260-Sony-PlayStation-Camera-for-PlayStation-4-Previous-Model.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_medium,square_small,scale_small,scale_medium,square_tiny,square_mini,scale_super,scale_avatar,screen_kubrick,scale_large,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;
+The official PS4 camera allows players to broadcast themselves when streaming, log in to their profile using facial recognition, and use voice activation. It is required for PlayStation VR.</text>
+      <sha1>s7vakjvjesjfjfgtuzss1yykxrc1ht3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/PlayStation Controller</title>
+    <ns>0</ns>
+    <id>393</id>
+    <revision>
+      <id>722281</id>
+      <parentid>617481</parentid>
+      <timestamp>2026-02-14T19:58:36Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722281</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="748" sha1="eg5r9jz6f9f5p1a0zzspm2grshkopi7" xml:space="preserve">{{Accessory
+| Name=PlayStation Controller
+| Guid=3000-127
+| Deck=The original PlayStation controller designed by Sony Computer Entertainment released in December 1994. Model number SCPH-1010.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3395546-2645807658-81ZgR.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3395546-2645807658-81ZgR.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_small,scale_super,scale_tiny,square_medium,scale_large,scale_avatar,square_mini,screen_kubrick,screen_medium,square_avatar,square_tiny","caption":null},"background":[]}' /&gt;
+The original PlayStation controller designed by Sony Computer Entertainment released in December 1994. Model number SCPH-1010.</text>
+      <sha1>eg5r9jz6f9f5p1a0zzspm2grshkopi7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/PlayStation Dual Analog Controller</title>
+    <ns>0</ns>
+    <id>377</id>
+    <revision>
+      <id>722266</id>
+      <parentid>617466</parentid>
+      <timestamp>2026-02-14T19:58:30Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722266</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="671" sha1="tfeyhijcnzz9b5y869fsfs28jvupcr9" xml:space="preserve">{{Accessory
+| Name=PlayStation Dual Analog Controller
+| Guid=3000-109
+| Deck=Sony's first analog controller, which predates the DualShock by over a year.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/1426384-acc_analog.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"1426384-acc_analog.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,square_tiny,scale_tiny,scale_large,scale_small,scale_avatar,screen_kubrick","caption":"PS Dual Analog Controller"},"background":[]}' /&gt;
+Sony's first analog controller, which predates the DualShock by over a year.</text>
+      <sha1>tfeyhijcnzz9b5y869fsfs28jvupcr9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/PlayStation Eye</title>
+    <ns>0</ns>
+    <id>296</id>
+    <revision>
+      <id>978498</id>
+      <parentid>722189</parentid>
+      <timestamp>2026-07-17T04:59:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3000-24)</comment>
+      <origin>978498</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4040" sha1="9oo4bdbzkkowvleqsaw1zujzknqwh8f" xml:space="preserve">{{Accessory
+| Name=PlayStation Eye
+| Guid=3000-24
+| Deck=The PlayStation Eye is a digital camera &amp;amp; microphone for use with the PlayStation 3 console. It is also an integral part of the PlayStation Move motion controller.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/30/11901-pseye.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"11901-pseye.jpg","path":"0\/30\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,screen_kubrick","caption":"The PlayStation Eye"},"background":[]}' /&gt;
+
+==Overview==
+The PlayStation Eye enables users to communicate online, record and upload both video and still-shots, and even play specially designed games without a controller. The hardware consists of an optical camera &amp;amp; a 4 microphone array, and connects to the console via a USB plug. The camera has the ability to capture video at 60 fps at a resolution of 640x480 or at 120fps at a resolution of 320x240, and was engineered to work well in low light environments. In addition the camera has an adjustable lens that can be set for close-ups or wide-angle recording. The microphone array housed in the PlayStation Eye was designed to reduce background noise and focus on spoken word.
+
+
+==Functionality==
+The PlayStation Eye has various uses in games and software on the [[Platforms/PlayStation_3|PS3]]. In the [[Concepts/XrossMediaBar|XMB]], users can video chat with up to 6 other systems simultaneously, and can also record, edit, and upload videos &amp;amp; pictures using software in the [[Concepts/XrossMediaBar|XMB]].
+
+Games take advantage of the PlayStation Eye in a number of different ways. Some games, like [[Games/Aquatopia|Aquatopia]] &amp;amp; [[Games/Kung_Fu_Live|Kung Fu Live]] use the input from the device as their controlling mechanism. Other games like [[Games/SingStar_Vol_2|Singstar]] &amp;amp; Buzz Quiz employ the device to capture &amp;amp; upload video or photos. In the games [[Games/ZEN_Pinball|Zen Pinball]] and [[Games/High_Stakes_on_the_Vegas_Strip_Poker_Edition|High Stakes Poker]], players can use the camera to video chat with each other while playing the game. In [[Games/Fight_Night_Round_4|Fight Night Round 4]] the player can take multiple pictures of their face (from different angles) and develop a 3D model of their head in real-time. This representation can then be used to create a custom character to use in the game.
+
+For a full list of games that support the PlayStation Eye, see the PlayStation Eye support page [[Concepts/PlayStation_Eye_Support|here]]. (The PlayStation Eye is ''not'' compatible with EyeToy games created for the [[Platforms/PlayStation_2|PlayStation 2]].)
+
+
+==PlayStation Move==
+The PlayStation Eye is an integral part of [[Companies/Sony_Corporation|Sony's]] motion controller, the [[Accessories/PlayStation_Move|PlayStation Move]]. Using the illuminated sphere on top of the Move controller, the Eye can track the player's movement in 3 dimensions by sensing the sphere's image size and speed. Depending on the game, the camera can also place the player's image into the gameworld, and map objects onto the Move so that the player appears to holding weapons, tools, or other objects.
+
+
+==PlayStation®Camera==
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/5/56742/2440215-8493772174_31217320cb_o.jpg|full=http://www.giantbomb.com/a/uploads/original/5/56742/2440215-8493772174_31217320cb_o.jpg|align=right}}
+The PlayStation 4 is compatible with a successor to the PlayStation Eye that features stereoscopic dual cameras able to sense the depth of the environment in front of it and four microphones capable of accurate sound detection and source origination.
+
+The new [[Accessories/PlayStation_Camera_for_PS4|PlayStation®Camera]] will support the PlayStation Move motion controller with more precision than ever before. As well as being able to track the 3D location of the [[Accessories/DualShock_4|DualShock 4]] via its light bar.</text>
+      <sha1>9oo4bdbzkkowvleqsaw1zujzknqwh8f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/PlayStation Gold Wireless Stereo Headset</title>
+    <ns>0</ns>
+    <id>445</id>
+    <revision>
+      <id>722343</id>
+      <parentid>617533</parentid>
+      <timestamp>2026-02-14T19:58:52Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722343</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="821" sha1="ogsywij6izqzwaniw9dk930au0560l7" xml:space="preserve">{{Accessory
+| Name=PlayStation Gold Wireless Stereo Headset
+| Guid=3000-180
+| Deck=Sony's official wireless headset for PS4 is supplemented by an app on the console that can fine tune the sound for certain games. Also works with PS3 and Vita.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396694-5526063503-51c7x.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396694-5526063503-51c7x.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_super,square_tiny,scale_small,square_medium,square_mini,scale_large,scale_avatar,screen_kubrick,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;
+Sony's official wireless headset for PS4 is supplemented by an app on the console that can fine tune the sound for certain games. Also works with PS3 and Vita.</text>
+      <sha1>ogsywij6izqzwaniw9dk930au0560l7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/PlayStation Memory Card</title>
+    <ns>0</ns>
+    <id>395</id>
+    <revision>
+      <id>722283</id>
+      <parentid>617483</parentid>
+      <timestamp>2026-02-14T19:58:36Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722283</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="761" sha1="ivl9rlhkwcd2ge9901q7l9s9o9nbj5o" xml:space="preserve">{{Accessory
+| Name=PlayStation Memory Card
+| Guid=3000-129
+| Deck=The official storage device for the original PlayStation. It stored save data in a maximum of fifteen "blocks", which were 8KB each.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3395553-7937455406-18041.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3395553-7937455406-18041.png","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_small,scale_tiny,scale_super,scale_medium,square_medium,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar,square_tiny","caption":null},"background":[]}' /&gt;
+The official storage device for the original PlayStation. It stored save data in a maximum of fifteen "blocks", which were 8KB each.</text>
+      <sha1>ivl9rlhkwcd2ge9901q7l9s9o9nbj5o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/PlayStation Move</title>
+    <ns>0</ns>
+    <id>308</id>
+    <revision>
+      <id>978503</id>
+      <parentid>722201</parentid>
+      <timestamp>2026-07-17T04:59:21Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3000-36)</comment>
+      <origin>978503</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4325" sha1="is0zehg8trzipcz10s814hrw0kunrg6" xml:space="preserve">{{Accessory
+| Name=PlayStation Move
+| Guid=3000-36
+| Deck=The PlayStation Move is a wireless motion control system for the PlayStation 3. It was released on September 17, 2010 in North America.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/4647/2954662-3009022229-C4p9p.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2954662-3009022229-C4p9p.jpg","path":"0\/4647\/","mime":"image\/jpeg","sizes":"scale_medium,square_tiny,square_mini,square_small,square_medium,scale_super,scale_small,scale_large,scale_avatar,square_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+
+==Overview==
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/6/63119/1343406-mc_front_light_on.jpg|full=http://www.giantbomb.com/a/uploads/original/6/63119/1343406-mc_front_light_on.jpg|align=right|caption=A PlayStation Move controller}}
+The Move system has to be used in conjunction with the [[Accessories/PlayStation_Eye|PlayStation Eye]] in order to work. This is because the glowing orb on top of the Move controller (informally known as the PS3mote), which contains RGB LEDs, is tracked by the camera. It also detects motion/orientation/position using a linear accelerometer, angular rate sensor, and magnetometer. It is able to provide haptic feedback using an internal motor (read: [[Concepts/Contextual_Controller_Rumble|rumble]]) and is powered by an internal rechargeable battery. The face buttons found on the [[Accessories/DualShock_3|DualShock 3]] are also present on the Move controller, but are smaller and surround a large ovoid "Move" button above the concave PS button. The controller also has Start &amp;amp; Select buttons on the right &amp;amp; left side of the controller, respectively, and an analog trigger known as the "T" button on the underside. On the bottom is the wrist strap, USB port, and extension port.
+
+Some games may require it be used with the supplementary navigation controller (the analogue to the [[Platforms/Wii|Nintendo Wii]]'s Nunchuk controller), which is able to replicate the left side of a DualShock 3 with a clickable analog stick (L3), D-pad, and two analog triggers (L1/L2). Additionally, it has https://www.giantbomb.com/a/uploads/scale_medium/0/9253/1298092-playstationx.png and https://www.giantbomb.com/a/uploads/scale_medium/0/9253/1298091-playstationcircle.png buttons, and of course a PS button. It is possible to just use a DualShock 3 instead even though it's not designed to be held in one hand.
+
+
+==Bundles==
+PlayStation Move was released in North America on September 19th 2010, and comes in a variety of bundles:
+
+* A PS3 console packed with the Move system (the PS Eye camera and a Move controller), a game demo disc, and the retail title [[Games/Sports_Champions|Sports Champions]] for $399.99
+* The Move system, a game demo disc, and Sports Champions for $99.99
+* The controller on its own for $49.99
+The Navigation Controller is not included with any PlayStation Move bundles, and is instead sold separately for $29.99.
+
+
+==Official Sony Accessories==
+
+{| class='wikitable gb-table-natural'
+|-
+| {{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/6/63119/1705288-playstation_move_charging_station.jpg|full=http://www.giantbomb.com/a/uploads/original/6/63119/1705288-playstation_move_charging_station.jpg|align=left|caption=PlayStation Move Charging Station}}||A charging cradle with two docks that will charge Move controllers and Navigation Controllers without the use of a PS3.
+|-
+| {{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/0/8640/1410112-4703217355_15da1397f8.jpg|full=http://www.giantbomb.com/a/uploads/original/0/8640/1410112-4703217355_15da1397f8.jpg|align=left|caption=PlayStation Move Shooting Attachment}}||A gun-shaped shell that a Move controller fits into. Suggested for light gun-type games like The Shoot and Time Crisis: Razing Storm.
+|-
+| {{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/6/63119/1705273-playstation_move_sharp_shooter.jpg|full=http://www.giantbomb.com/a/uploads/original/6/63119/1705273-playstation_move_sharp_shooter.jpg|align=left|caption=PlayStation Move Sharp Shooter}}||Another gun-shaped shell that houses the Move wand on the front and the Navigation Controller underneath. For use in first and third person shooters such as Killzone 3 and SOCOM 4.
+|}</text>
+      <sha1>is0zehg8trzipcz10s814hrw0kunrg6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/PlayStation Portal</title>
+    <ns>0</ns>
+    <id>460</id>
+    <revision>
+      <id>722363</id>
+      <parentid>617548</parentid>
+      <timestamp>2026-02-14T19:58:57Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722363</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1091" sha1="0pkgduforn4syr768thj87501x51hvy" xml:space="preserve">{{Accessory
+| Name=PlayStation Portal
+| Guid=3000-195
+| Deck=Originally called Project Q, PlayStation Portal is a remote play device for PlayStaiton 5 featuring an 8-inch screen and all the buttons and features of the DualSense Controller.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/33/338034/3503204-5759048209-ps-portal-remoteplayer-hero-1.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3503204-5759048209-ps-portal-remoteplayer-hero-1.png","path":"33\/338034\/","mime":"image\/png","sizes":"scale_small,square_small,scale_super,scale_medium,square_medium,square_mini,square_tiny,screen_kubrick,scale_large,scale_avatar,screen_medium,square_avatar","caption":null},"background":{"file":"3496908-5647832933-a78c9.jpg","path":"33\/338034\/","mime":"image\/jpeg","sizes":"scale_medium,square_medium,square_small,square_tiny,scale_super,screen_kubrick_wide,square_mini","caption":null}}' /&gt;
+Originally called Project Q, PlayStation Portal is a remote play device for PlayStaiton 5 featuring an 8-inch screen and all the buttons and features of the DualSense Controller.</text>
+      <sha1>0pkgduforn4syr768thj87501x51hvy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/PlayStation VR</title>
+    <ns>0</ns>
+    <id>342</id>
+    <revision>
+      <id>993086</id>
+      <parentid>722231</parentid>
+      <timestamp>2026-07-19T00:05:07Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>993086</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4773" sha1="dg72ghfb0j2jw41ttn4sccgm9qjliuy" xml:space="preserve">{{Accessory
+| Name=PlayStation VR
+| Guid=3000-71
+| Deck=PlayStation VR, formerly known as Project Morpheus, is a virtual reality headset developed by Sony for the PlayStation 4.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/26/2803303-screen%20shot%202015-12-06%20at%201.41.56%20pm.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2803303-screen shot 2015-12-06 at 1.41.56 pm.png","path":"0\/26\/","mime":"image\/png","sizes":"scale_super,square_tiny,square_medium,square_small,square_mini,scale_small,screen_medium,scale_avatar,scale_medium,scale_large,square_avatar,scale_tiny,screen_kubrick","caption":""},"background":{"file":"2761875-2761321-1530207011-20150.jpg","path":"0\/26\/","mime":"image\/jpeg","sizes":"scale_super,screen_kubrick_wide,square_small,square_tiny,square_medium,scale_tiny,scale_large,scale_small,scale_medium,scale_avatar,square_mini,square_avatar,screen_kubrick","caption":null}}' /&gt;
+
+==Overview==
+A [[Concepts/Head_Tracking|head-tracking]] [[Concepts/Virtual_Reality|virtual reality]] headset developed by [[Companies/Sony_Corporation|Sony]] for the [[Platforms/PlayStation_4|PlayStation 4]], released on October 13th 2016. It is similar to the [[Accessories/Oculus_Rift|Oculus Rift]], [[Accessories/HTC_Vive|HTC Vive]].
+For a full list of games that are compatible go to the [[Concepts/PlayStation_VR_Support|PlayStation VR Support concept page]].
+
+==History==
+Morpheus marks PlayStation's second venture into virtual reality, the first one being the PUD-J5A headset for the [[Platforms/PlayStation_2|PlayStation 2]] which was released in Japan in 2002.
+
+==Hardware==
+At the [[Concepts/Game_Developers_Conference|Games Developers Conference 2015]], Sony unveiled a prototype codenamed Morpheus. Features included the display having an OLED 1920 x 1080 pixel display and capable of displaying content at 120fps, a field of view of 100°, stereoscopic 3D, six degrees of freedom head-tracking and unwarped output to a TV which would show what the headset sees or a separate display to compete against the headset wearer in certain games.
+Later on it was revealed there would be three rendering modes, two being native at 90 Hz and 120 Hz, another is 60 Hz that would be displayed at 120 Hz using asynchronous reprojection. Asynchronous Reprojection is a motion interpolation technique which can achieve a small latency of under 18 milliseconds with little system resources.
+In the final shipping box of PlayStation VR was the headset, a processing unit, VR headset connection cable, HDMI cable, USB cable, stereo headphones, power cord and adapter.
+
+==Launch Lineup==
+When launched the PlayStation VR came with a demo which had different games which varied by country. This lineup includes standalone games (e.g. Headmaster) and games that had already been released and updated or had extra content created specifically for VR.
+* [[Games/100ft_Robot_Golf|100ft Robot Golf]] - No Goblin
+* [[Games/Ace_Banana|Ace Banana]] - Oasis Games
+* [[Games/Battlezone_2016|Battlezone]] - Rebellion
+* [[Games/Batman_Arkham_VR|Batman: Arkham VR]] - Warner Bros. Interactive Entertainment
+* [[Games/Bound|Bound]] - Plastic
+* [[Games/Driveclub|Driveclub VR]] - Evolution Studio
+* [[Games/EVE_Valkyrie|EVE: Valkyrie]] - CCP Games
+* [[Games/Harmonix_Music_VR|Harmonix Music VR]] - Harmonix Music Systems
+* [[Games/Hatsune_Miku_Project_Diva_X|Hatsune Miku: Project DIVA X]] - SEGA
+* [[Games/Headmaster|Headmaster]] - Frame
+* [[Games/Here_They_Lie|Here They Lie]] - Tangentlemen
+* [[Games/Hustle_Kings|Hustle Kings VR]] - EPOS Game Studios
+* [[Games/Job_Simulator_The_2050_Archives|Job Simulator]] - Owlchemy Labs
+* [[Games/Keep_Talking_and_Nobody_Explodes|Keep Talking and Nobody Explodes]] - Steel Crate Games
+* Loading Human - Maximum Games
+* Sports Bar VR - Cherry Pop Games
+* [[Games/Super_Stardust_Ultra|Super Stardust VR]] - D3T
+* [[Games/PlayStation_VR_Worlds|PlayStation VR Worlds]] - London Studio
+* [[Games/Resident_Evil_7_biohazard|Resident Evil 7 Kitchen demo]] - Capcom
+* [[Games/Rez_Infinite|Rez Infinite]] - Enhance Games
+* [[Games/Rigs_Mechanized_Combat_League|RIGS Mechanized Combat League]] - Guerrilla Cambridge
+* [[Games/Rise_of_the_Tomb_Raider|Rise Of The Tomb Raider]] - Crystal Dynamics
+* [[Games/SuperHyperCube|Superhypercube]] - Kokoromi
+* [[Games/The_Assembly|The Assembly]] - nDreams
+* [[Games/The_Playroom_VR|The Playroom VR]] - Japan Studio
+* [[Games/Thumper|Thumper]] - Drool
+* [[Games/Tumble_VR|Tumble VR]] - Supermassive Games
+* [[Games/Until_Dawn_Rush_of_Blood|Until Dawn: Rush of Blood]] - Supermassive Games
+* [[Games/Volume|Volume: Coda]] - Bithell Games
+* [[Games/Wayward_Sky|Wayward Sky]] - Uber Entertainment
+* [[Games/World_War_Toons|World War Toons]] - Reload Studios
+* Waddle Home - Archiact Interactive</text>
+      <sha1>dg72ghfb0j2jw41ttn4sccgm9qjliuy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/PlayStation VR2</title>
+    <ns>0</ns>
+    <id>381</id>
+    <revision>
+      <id>722269</id>
+      <parentid>617469</parentid>
+      <timestamp>2026-02-14T19:58:31Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722269</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1595" sha1="cohabimvdi9lxz0k54x5dcz5zdatl4w" xml:space="preserve">{{Accessory
+| Name=PlayStation VR2
+| Guid=3000-115
+| Deck=Sony's second virtual reality device is designed for PlayStation 5. It features new controllers that utilize adaptive triggers and haptic feedback found in the DualSense, but also touch sensitivity for finger tracking.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3421087-3114520201-Fgj3Y1-WIAEJ8vn.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3421087-3114520201-Fgj3Y1-WIAEJ8vn.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_mini,square_tiny,scale_super,square_medium,scale_small,scale_medium,square_small,scale_tiny,square_avatar,scale_large,screen_medium,scale_avatar,screen_kubrick","caption":null},"background":{"file":"3339379-screenshot2022-01-04at8.45.00pm.png","path":"0\/1992\/","mime":"image\/png","sizes":"screen_kubrick_wide,scale_medium,screen_kubrick,square_tiny,square_small,scale_super,square_medium,square_avatar,square_mini,scale_small,scale_tiny,scale_avatar,scale_large,screen_medium","caption":""}}' /&gt;
+
+==Overview==
+PlayStation VR2 will be released on February 22, 2023 for $549.99 USD.
+
+===Headset Specs===
+* OLED Display
+* 2000 x 2040 resolution per eye
+* Refresh rate​ 90Hz, 120Hz
+* Adjustable lens separation​
+* Field of View​ ~110 degrees
+* Six-axis motion sensing system (three-axis gyroscope, three-axis accelerometer)​
+* IR Proximity sensor
+* 4 Cameras for Headset and Controller Tracking
+* ​IR camera for eye tracking per eye
+* Feedback​ Vibration on Headset
+* Communication​ with PS5 USB Type-C®
+* Built-in microphone​
+* Stereo headphone jack</text>
+      <sha1>cohabimvdi9lxz0k54x5dcz5zdatl4w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Power Base Converter</title>
+    <ns>0</ns>
+    <id>295</id>
+    <revision>
+      <id>722188</id>
+      <parentid>617389</parentid>
+      <timestamp>2026-02-14T19:58:07Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722188</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1956" sha1="9aizndil4m0i80v19rjrl68q9vg4yqw" xml:space="preserve">{{Accessory
+| Name=Power Base Converter
+| Guid=3000-23
+| Deck=Allows Master System games to play on Genesis consoles
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/24/10986-780px-Genesis_power_base.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"10986-780px-Genesis_power_base.png","path":"0\/24\/","mime":"image\/png","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+The [[Platforms/Genesis|Sega Genesis]] was built with [[Concepts/Backwards_Compatibility|backwards compatibility]] in mind. Sega wanted to give their customers the ability to play games from their 8-bit console on the new 16-bit hardware. Unfortunately, the Genesis' cartridge slot is of a different size and shape than the older [[Platforms/Sega_Master_System|Master System]] cartridges, rendering native backwards compatibility, while technically possible due to the hardware design, a practical impossibility necessitating the Power Base Converter, a separate piece of hardware which fits into the Genesis' cartridge slot.
+
+==Function==
+The Power Base Converter actually contains no Sega Master System hardware, since the Genesis was designed with backwards compatibility in mind. Essentially the Converter works as a card-reader does, allowing the Master System hardware within the Genesis to process the data within the Master System game. The device is not compatible with the re-designed Genesis console (known as the Mega Drive 2 in Europe). A second version of the Power Base Converter, the Master System Converter II, was released to address this issue, but only in limited numbers and only in Europe.
+
+==See Also==
+* [[Accessories/SegaScope_3_D_Glasses|SegaScope 3-D Glasses]]
+* [[Accessories/XE_1AP|XE-1AP]]
+* [[Accessories/Sega_Activator|Sega Activator]]
+* [[Accessories/Sega_VR|Sega VR]]</text>
+      <sha1>9aizndil4m0i80v19rjrl68q9vg4yqw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Power Glove</title>
+    <ns>0</ns>
+    <id>275</id>
+    <revision>
+      <id>722169</id>
+      <parentid>617370</parentid>
+      <timestamp>2026-02-14T19:58:01Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722169</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3684" sha1="qofpdbovr8esbrpt35g7ijf0nz2bdud" xml:space="preserve">{{Accessory
+| Name=Power Glove
+| Guid=3000-2
+| Deck=The Power Glove was a controller accessory for the NES, released in 1989. The controller was ultimately considered a failure, and only two games were designed with features exclusively for the glove ("Super Glove Ball" and "Bad Street Brawler").
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/4/10265-powerglove.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"10265-powerglove.jpg","path":"0\/4\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,scale_tiny,ignore_jpg_scale_medium,screen_kubrick","caption":"The PowerGlove"},"background":[]}' /&gt;
+
+==Overview==
+Released in 1989, the Power Glove was designed by Abrams/Gentile Entertainment and produced by [[Companies/Mattel_Electronics|Mattel]] in the [[Locations/The_United_States_of_America|United States]] and [[Companies/Pax_Softnica|PAX]] in [[Locations/Japan|Japan]]. The Power Glove was unique for its time, allowing players to use motion to control their games. While the device delivered imprecise and clumsy controls, it was still considered to be a commercial success at the time, selling a total of around 100,000 units in the United States. However, poor sales of the peripheral and a lack of Power Glove-specific games in Japan forced PAX to declare bankruptcy. The Glove did not live up to most young players' expectations, especially those who had seen ''The Wizard'', a movie starring Fred Savage that glorified [[Companies/Nintendo|Nintendo]] and suggested that the Power Glove had serious virtual reality capabilities. The film’s antagonist uses the Power Glove to play a flawless game of [[Games/Rad_Racer|''Rad Racer'']]. Most kids were under the false impression that their Power Gloves would offer them unprecedented control over their videogames, too.
+The Power Glove is able to detect finger motion and “wrist roll” via a simple ultra-sonic detection system. The glove emits sounds (inaudible to humans) that are detected by a unit that wraps around the outside of the television. One problem is that the detection system’s "microphones" are of inferior quality and a significant amount of distortion results. Players found that controlling games with the Power Glove was universally more difficult than with the standard [[Platforms/Nintendo_Entertainment_System|NES]] controller. Another problem is that Nintendo’s original Entertainment System is not technologically sophisticated enough to handle the three-dimensional environments that could truly take advantage of a device like the Power Glove, despite Mattel's intriguing attempt with [[Games/Super_Glove_Ball|''Super Glove Ball'']], a type of handball simulation that was one of only two games made to specifically utilize the Glove's features, the other being a forgettable fighting game called [[Games/Bad_Street_Brawler|''Bad Street Brawler'']]. Needless to say, players were never able to achieve the fantastic effects shown in ''The Wizard''.
+
+==Trivia==
+* The Angry Video Game Nerd reviewed the Power Glove in one of his episodes, however, only "Top Gun" on NES was any easier to control.
+* Jackey Vinson played the character Lucas in the film, The Wizard. (Memorable quote: "I love the Power Glove. It's so bad.")
+* A game called Tektown was originally going to be released to accompany the Power Glove. However, the game was never released, despit''e'' being announced as "a new game for spring 1991''".''
+* There are no left-handed Power Gloves.
+* The video game metal band [http:/vgmetal.com Powerglove] is named after the controller.</text>
+      <sha1>qofpdbovr8esbrpt35g7ijf0nz2bdud</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Pro Action Replay</title>
+    <ns>0</ns>
+    <id>294</id>
+    <revision>
+      <id>722187</id>
+      <parentid>617388</parentid>
+      <timestamp>2026-02-14T19:58:06Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722187</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2099" sha1="15t34pi7se51bf3kdnux00f0rplh6ro" xml:space="preserve">{{Accessory
+| Name=Pro Action Replay
+| Guid=3000-22
+| Deck=A cheat cartridge. Always useful, especially since it was primarilly used to bypass copy-protection.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/3142/210144-ar.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"210144-ar.jpg","path":"0\/3142\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,scale_tiny,screen_kubrick","caption":"Pro Action Replay for the PlayStation 1 console."},"background":[]}' /&gt;
+The Pro Action Replay (and other, less pricey and just as unofficial variants) were plugged into the parallel port on the back-right of the [[Platforms/PlayStation|PlayStation]] and were used to load Action Replay codes into games for bonuses like:
+* [[Concepts/Temporary_Invincibility|Invincibility]] or [[Concepts/Invisibility|Invisibility]]
+* Infinite lives, ammunition, [[Concepts/Health|health]], time, cash, [[Concepts/Level_Selection|level selects]]
+* Loading code not available normally
+They work by bypassing the normal PlayStation interface and opening a cheat menu where the gamer can find the game that is currently in the PlayStation then selecting which cheats they wanted to activate, then loading the game from that menu. The code from the cheats was then loaded into the system RAM for as long as the system was on, which could potentially cause problems for codes of extremely long length.
+Gamers inadvertantly found that when they used these specific cheat cartridges the PlayStation loaded the copy protection part of the game before booting the game. Therefore CD-Rs or imported games that would normally be rejected by the system could be hotswapped into the system during startup.
+In fact, Sony removed the parallel port from their newly produced model of Playstation (SCPH-900x) just so this method could not be used. Officially the reason was that no Sony-branded device had ever been made for the port. After this change new cheat devices were printed on CDs instead.</text>
+      <sha1>15t34pi7se51bf3kdnux00f0rplh6ro</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Pulse 3D Wireless Headset</title>
+    <ns>0</ns>
+    <id>454</id>
+    <revision>
+      <id>722355</id>
+      <parentid>617542</parentid>
+      <timestamp>2026-02-14T19:58:55Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722355</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="745" sha1="cvk8stfct5qv874swy5xnosn0ixzfko" xml:space="preserve">{{Accessory
+| Name=Pulse 3D Wireless Headset
+| Guid=3000-189
+| Deck=Designed by Sony Computer Entertainment and launched alongside the PlayStation 5, this headset also works on PlayStation 4.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396802-6749763173-19150.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396802-6749763173-19150.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_small,square_small,scale_medium,scale_super,scale_tiny,square_medium,square_tiny,scale_avatar,square_mini,scale_large,screen_medium,screen_kubrick,square_avatar","caption":null},"background":[]}' /&gt;
+Designed by Sony Computer Entertainment and launched alongside the PlayStation 5, this headset also works on PlayStation 4.</text>
+      <sha1>cvk8stfct5qv874swy5xnosn0ixzfko</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Pulse Elite Wireless Headset</title>
+    <ns>0</ns>
+    <id>462</id>
+    <revision>
+      <id>722365</id>
+      <parentid>617550</parentid>
+      <timestamp>2026-02-14T19:58:58Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722365</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="735" sha1="k858nhv4otiqs381wd6xm2n8hvlhdcb" xml:space="preserve">{{Accessory
+| Name=Pulse Elite Wireless Headset
+| Guid=3000-197
+| Deck=A PlayStation headset with retractable boom mic, AI-enhanced noise reduction technology and includes a charging hanger.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/33/338034/3496909-7530270835-42446.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3496909-7530270835-42446.jpg","path":"33\/338034\/","mime":"image\/jpeg","sizes":"scale_super,square_small,scale_medium,scale_small,square_medium,square_tiny,square_mini,screen_medium,scale_avatar,screen_kubrick,scale_large,square_avatar","caption":null},"background":[]}' /&gt;
+A PlayStation headset with retractable boom mic, AI-enhanced noise reduction technology and includes a charging hanger.</text>
+      <sha1>k858nhv4otiqs381wd6xm2n8hvlhdcb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Pulse Explore Wireless Earbuds</title>
+    <ns>0</ns>
+    <id>461</id>
+    <revision>
+      <id>722364</id>
+      <parentid>617549</parentid>
+      <timestamp>2026-02-14T19:58:57Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722364</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="645" sha1="0hkmsbkigiczhxfh4u4n8qn1k6049zb" xml:space="preserve">{{Accessory
+| Name=Pulse Explore Wireless Earbuds
+| Guid=3000-196
+| Deck=Wireless earbuds featuring low latency and lossless audio for PS5 and PC.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/33/338034/3496910-7615086155-66432.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3496910-7615086155-66432.jpg","path":"33\/338034\/","mime":"image\/jpeg","sizes":"scale_super,square_small,scale_small,scale_medium,square_medium,square_tiny,square_mini,scale_avatar,screen_medium,screen_kubrick,scale_large,square_avatar","caption":null},"background":[]}' /&gt;
+Wireless earbuds featuring low latency and lossless audio for PS5 and PC.</text>
+      <sha1>0hkmsbkigiczhxfh4u4n8qn1k6049zb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/R O B</title>
+    <ns>0</ns>
+    <id>276</id>
+    <revision>
+      <id>978488</id>
+      <parentid>722170</parentid>
+      <timestamp>2026-07-17T04:58:48Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3000-3)</comment>
+      <origin>978488</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2862" sha1="108f61h539nn8hann1c63ffffnj61k3" xml:space="preserve">{{Accessory
+| Name=R.O.B.
+| Guid=3000-3
+| Deck=R.O.B. - The Robotic Operating Buddy was a highly novel, though largely useless accessory for the Nintendo Entertainment System. It also went by the name "F.C.R" in other countries.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/24/10652-Robotic_Operating_Buddy.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"10652-Robotic_Operating_Buddy.jpg","path":"0\/24\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,scale_tiny,ignore_jpg_scale_small,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+Designed by the late [[People/Gunpei_Yokoi|Gunpei Yokoi]], and released in 1985 in [[Locations/Japan|Japan]] as Famicom Robot and the [[Locations/The_United_States_of_America|United States]] as R.O.B. (Robotic Operating Buddy), this accessory worked with only two games on the [[Platforms/Nintendo_Entertainment_System|NES]]: [[Games/Stack_Up|Stack-Up]] and [[Games/Gyromite|Gyromite.]] R.O.B. functions by processing flashing commands from the television screen through a set of light-sensitive sensors. These commands are translated into movements though a series of weights, allowing R.O.B. to "play" against the player using a standard NES controller. R.O.B. was instrumental in marketing the N.E.S in the United States as an "Entertainment System" and not a video game console. This was crucial to Nintendo's success due to the Video Game crash of the early 80s.
+
+
+==Cameos==
+''See also: [[Characters/R_O_B|R.O.B. (character)]]''
+
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/2/28248/1023332-rob_unlocked.jpg|full=http://www.giantbomb.com/a/uploads/original/2/28248/1023332-rob_unlocked.jpg|align=right|width=320|caption=R.O.B. in Super Smash Bros. Brawl.}}
+* R.O.B appeared in [[Games/Super_Smash_Bros_Brawl|Super Smash Brothers Brawl]] and [[Games/Mario_Kart_DS|Mario Kart DS]] as an unlockable character. In addition, R.O.B. also features heavily into The Subspace Emissary, the adventure mode found in Brawl.
+* R.O.B also appears in [[Games/F_Zero_GX|F-Zero GX]], [[Games/Kirbys_Dream_Land_3|Kirby's Dream Land 3]] and the [[Games/WarioWare_Smooth_Moves|WarioWare]] games.
+* Though the likeness is not there, R.O.B. also appears as the robot [[Characters/R_O_B_64|R.O.B. 64]] in the [[Franchises/Star_Fox|Star Fox]] games, starting with [[Games/Star_Fox_64|Star Fox 64]]. He sends bombs, wings and lasers to the character if they accept his transmission.
+* In [[Games/Pikmin_2|Pikmin 2]], ROB can be found as a treasure on the planet.
+
+==Trivia==
+* R.O.B. bares a striking resemblance to several later movie robot characters, such as [[Characters/Johnny_5|Johnny 5]] (in the Short Circuit films) and [[Games/Wall_E|WALL-E]].</text>
+      <sha1>108f61h539nn8hann1c63ffffnj61k3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Razer Serval</title>
+    <ns>0</ns>
+    <id>366</id>
+    <revision>
+      <id>722256</id>
+      <parentid>617456</parentid>
+      <timestamp>2026-02-14T19:58:27Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722256</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="822" sha1="enadm8pkys0hif5my9u5mtbqtdkrm93" xml:space="preserve">{{Accessory
+| Name=Razer Serval
+| Guid=3000-97
+| Deck=The Serval from Razer is a Bluetooth Android controller. It was specifically designed for their Forge TV console, but is compatible with most, if not all, Android devices.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/2854088-9994569616-razer.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2854088-9994569616-razer.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_super,square_medium,scale_small,square_small,square_tiny,scale_medium,screen_medium,scale_large,square_mini,scale_avatar,square_avatar,screen_kubrick","caption":null},"background":[]}' /&gt;
+The Serval from Razer is a Bluetooth Android controller. It was specifically designed for their Forge TV console, but is compatible with most, if not all, Android devices.</text>
+      <sha1>enadm8pkys0hif5my9u5mtbqtdkrm93</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Rock Band 2 Wireless Drum Set</title>
+    <ns>0</ns>
+    <id>303</id>
+    <revision>
+      <id>978500</id>
+      <parentid>722196</parentid>
+      <timestamp>2026-07-17T04:59:14Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3000-31)</comment>
+      <origin>978500</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5269" sha1="kt290cofantriy8p0qtxhp7yz5yaso2" xml:space="preserve">{{Accessory
+| Name=Rock Band 2 Wireless Drum Set
+| Guid=3000-31
+| Deck=The Wireless Rock Band Drums allow you to rock without wires, running on three AA batteries.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/1/15606/1037065-drums.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"1037065-drums.jpg","path":"1\/15606\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,square_tiny,scale_small,scale_medium,screen_medium,scale_large,scale_avatar,square_mini,square_medium,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/1/15606/904554-drums.jpg|full=http://www.giantbomb.com/a/uploads/original/1/15606/904554-drums.jpg|align=right|caption=Redesigned drums}}
+These drums were individually released alongside the Xbox 360 release of [[Games/Rock_Band_2|Rock Band 2]] and later released for other consoles. They are an upgraded version of the drum set released for [[Games/Rock_Band|Rock Band]] (original). These were later released with the Rock Band 2 bundle that includes the wireless guitar, and microphone. Several different types of sets still exist which each have very small, usually unnoticeable differences.
+
+
+==Features==
+* Metal reinforced bass pedal: Metal plate placed over the top of the old pedal to provide stability.
+* Velocity sensitive drum pads: Based on how hard the pads are hit, you will hear more or less noise during drum fill sections.
+* Redesigned sturdy structure: Kit stays together while transporting. Pedal stays in place while lifting the set.
+* Wireless connectivity: Connects wirelessly to the console. (also can be a flaw; see flaws)
+* Expansion Ports on the back: Used for the cymbal expansion pack, which allows you to attach up to 3 cymbals to enhance the drum experience.
+
+==Flaws==
+With this new release of Rock Band drums, it was a chance for Harmonix to perfect their instrument design. They did make a lot of good improvements but some flaws are still present, such as…
+
+* “Bubbling” pads: Mostly occurs with the red pad. Basically it is when the rubber-like material separates from the plastic underneath and causes the rubber to bubble up and mess up the pad.
+* Sensitivity issues: Sometimes the pads don’t register if not hit in just the right spot or just not hard enough. Though not as much of a problem as the original Rock Band drums, it is still a problem that shouldn’t exist being the second generation.
+* Pedal still breakable: It is possible to still break the pedal even with the metal reinforcement. But it’s so rare that it can almost be considered a non-issue.
+* Batteries only: No option to plug the set in means going through a lot of batteries.
+
+==Set Versions And Their Specific Problems==
+
+===EL and QM===
+When Rock Band first came out they used a model of drum called the EL (because of the EL in the serial number). Soon the reports came in of the drums breaking or not registering notes and they came out with the second series of drums called the QM series. The QM series has greater sensitivity and can be hit much more softly and still register notes. Harmonix decided to continue to use the same sets plus some upgrades for Rock Band 2. The two sets can be distinguished by where the serial number is on the set. If it is located directly under the controls, it's a QM. If the serial number is under one of the pads, it's an EL.
+
+
+===QM===
+* very sensitive pads
+* fast drum rolls would not be detected
+* hard hits often not detected
+* possibly fixed with sock mod (see below)
+
+===EL===
+* Pads were not sensitive enough
+* harder hits needed to be detected
+* often drops notes for no reason
+* possibly fixed with coin mod (see below)
+
+===SL===
+The SL set is the newest set Harmonix has released. It is exclusive to Rock Band 2 sets and was never released as a Rock Band 1 model drum set. It is almost the same as the EL set in every way. Some of the only differences are:
+
+* The EL set velocity sensitivity '''requires very hard drumming for loud hits'''. The SL, on the other hand, requires incredibly light tapping to trigger soft hits.
+* The EL bass pedal was easier to press down, which made multiple bass kicks in rapid succession easier to manage.
+* The SL main stands have clamps that do not close fully; the EL set’s leg clamps close flush with the surrounding black plastic.
+
+===Sock Mod===
+The remedy for the QM sets being too sensitive was eventually found and it works fairly well. Basically it involves placing tube socks over your drums and then securing them with rubber bands in order to decrease the sensitivity and not lose detection with faster and harder hits. There is a good video on this fix [http://www.youtube.com/watch?v=GbQBG_QVTWA here]. This method is more popular with the original Rock Band kits but is still relevant with the new kits.
+
+
+===Coin Mod===
+The Coin Mod is the solution for the EL sets lack of sensitivity. Basically what you do is open your drum pads and tape nickels right under the sensor of the pads. I guess this helps the sensors pick up hits easier somehow. There is a video for this method also, [http://www.youtube.com/watch?v=GtHN1YE_mYc&amp;amp;feature=PlayList&amp;amp;p=2339C274AFD71CDD&amp;amp;playnext=1&amp;amp;index=10 here].</text>
+      <sha1>kt290cofantriy8p0qtxhp7yz5yaso2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Rock Band 3 Keyboard Stand</title>
+    <ns>0</ns>
+    <id>437</id>
+    <revision>
+      <id>722333</id>
+      <parentid>617525</parentid>
+      <timestamp>2026-02-14T19:58:50Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722333</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="747" sha1="0444an1wxyi9j8xbr9or1rndkedtrea" xml:space="preserve">{{Accessory
+| Name=Rock Band 3 Keyboard Stand
+| Guid=3000-172
+| Deck=Sold separately from the keyboard controller itself, the Rock Band 3 Keyboard Stand allows players to easily play while standing.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396608-2351702675-61oUS.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396608-2351702675-61oUS.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_small,scale_super,scale_medium,square_mini,screen_kubrick,scale_large,scale_avatar,screen_medium,square_avatar,square_tiny","caption":null},"background":[]}' /&gt;
+Sold separately from the keyboard controller itself, the Rock Band 3 Keyboard Stand allows players to easily play while standing.</text>
+      <sha1>0444an1wxyi9j8xbr9or1rndkedtrea</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Rock Band 3 Wireless Keyboard</title>
+    <ns>0</ns>
+    <id>436</id>
+    <revision>
+      <id>722332</id>
+      <parentid>617524</parentid>
+      <timestamp>2026-02-14T19:58:49Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722332</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="624" sha1="ec8yjxig5thpxcvyr8mhfuuqkpn430n" xml:space="preserve">{{Accessory
+| Name=Rock Band 3 Wireless Keyboard
+| Guid=3000-171
+| Deck=The official keyboard controller released in 2010 for Rock Band 3.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396600-4635825054-c870x.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396600-4635825054-c870x.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_super,scale_small,scale_medium,square_medium,square_mini,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;
+The official keyboard controller released in 2010 for Rock Band 3.</text>
+      <sha1>ec8yjxig5thpxcvyr8mhfuuqkpn430n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Rock Band Cymbal Expansion Kit</title>
+    <ns>0</ns>
+    <id>434</id>
+    <revision>
+      <id>722329</id>
+      <parentid>617522</parentid>
+      <timestamp>2026-02-14T19:58:49Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722329</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="947" sha1="pcyv5vfsl97ln5qubsedninnhrjb6js" xml:space="preserve">{{Accessory
+| Name=Rock Band Cymbal Expansion Kit
+| Guid=3000-169
+| Deck=With the release of Rock Band 2, "Pro" drums became an option by adding dedicated cymbals to the drum kit. These kits come in single, double, and triple packs and work on any official Rock Band Drum Set from that point forward.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396587-0064607728-61XI1.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396587-0064607728-61XI1.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_small,square_small,square_medium,scale_super,scale_medium,square_mini,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;
+With the release of Rock Band 2, "Pro" drums became an option by adding dedicated cymbals to the drum kit. These kits come in single, double, and triple packs and work on any official Rock Band Drum Set from that point forward.</text>
+      <sha1>pcyv5vfsl97ln5qubsedninnhrjb6js</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Rock Band Drum Set</title>
+    <ns>0</ns>
+    <id>277</id>
+    <revision>
+      <id>978489</id>
+      <parentid>722171</parentid>
+      <timestamp>2026-07-17T04:58:50Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3000-4)</comment>
+      <origin>978489</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3459" sha1="9eqmjod4vjw5bkttlddjkavrz16sgf0" xml:space="preserve">{{Accessory
+| Name=Rock Band Drum Set
+| Guid=3000-4
+| Deck=This drum kit, constructed specifically for Rock Band, features four drum pads and one pedal trigger. The center cosole has a,b,x,y buttons; a D-pad; and X-box 360 guide, Start, and select buttons.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/26/10162-rockbanddrumset.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"10162-rockbanddrumset.jpg","path":"0\/26\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,screen_kubrick","caption":"Rock Band Drum Set, Xbox 360 version"},"background":[]}' /&gt;
+
+Designed for and bundled with [[Companies/Harmonix_Music_Systems|Harmonix's]] [[Games/Rock_Band|Rock Band]], this drum set features four colored drum pads and one foot-activated floor pedal  that correspond to notes on the screen. Each input represents at least one part of the drum set. Red can be the snare drum or hi-hat closed. Yellow can be the hi-hat closed or a tom. Blue can act as a tom, ride cymbal, hi-hat open, or cowbell. Green can be the crash cymbal or another tom. The kick pedal is always the bass drum. The legs of the drum set can be raised and lowered to accommodate the size and shape of the player. Additionally, the legs can be removed altogether if the player wants to use it on a table. The drums also feature standard console buttons and directional pad controls to facilitate menu navigation.
+
+''' ''''''Other Uses'''
+The drum also has other various uses. One of these uses is to plug it into your computer with the USB port and with special drivers make the drumpads and various buttons work in almost any sort of application. 
+
+'''Problems
+'''
+When Rock Band was released, each instrument had various problems. There were a couple of different drum set models release, each had noticeable problem. The first set was the QM. This set was very sensitive. It was always accurate and responsive for basic drum patterns. The only problem was that it was too sensitive for drum rolls making the user miss many of the notes. The next set was the EL. It was not as sensitive as the QM so users needed to hit the drums harder for the game to register the notes. The problem with it was that the drum set would frequently not register hits making it difficult to keep a combo. Solutions have been found for both of these problems. The [http://youtube.com/watch?v=GbQBG_QVTWA Sock Mod] (for the QM) put socks around the pads of the drums to dampen the pads to allow easier rolls. The [http://youtube.com/watch?v=GtHN1YE_mYc Coin mod] (for the EL) required more tinkering to work. The tops of the pads must be removed and you had to tape nickels between the pad and sensor.
+
+Along with these issues people found that the drum pads were very loud. Solutions were to put things on top of the pads such as  a sock or cloth. But a more usual way to avoid this problem was to play rubber bands on the ends of the drum to make them bouncier so that they did not hit so hard. When [[Games/Rock_Band_2|Rock Band 2]] was released the new set of drums was much quieter and this was less of a problem.
+
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_small/2/28248/1019320-rockbanddrumsticks.jpg|full=http://www.giantbomb.com/a/uploads/original/2/28248/1019320-rockbanddrumsticks.jpg|align=right|caption=Official Rockband Drumsticks}}</text>
+      <sha1>9eqmjod4vjw5bkttlddjkavrz16sgf0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Rock Band Fender Guitar</title>
+    <ns>0</ns>
+    <id>433</id>
+    <revision>
+      <id>722328</id>
+      <parentid>617521</parentid>
+      <timestamp>2026-02-14T19:58:48Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722328</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="764" sha1="7sp15bucdt2msv22hhxars07ure3dhf" xml:space="preserve">{{Accessory
+| Name=Rock Band Fender Guitar
+| Guid=3000-168
+| Deck=The official guitar released for the original Rock Band in 2007. While this is a wired version, wireless options were made available later.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396586-8621349331-s-l50.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396586-8621349331-s-l50.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_super,square_small,square_medium,scale_medium,scale_small,square_tiny,square_mini,scale_avatar,screen_medium,scale_large,screen_kubrick,square_avatar","caption":null},"background":[]}' /&gt;
+The official guitar released for the original Rock Band in 2007. While this is a wired version, wireless options were made available later.</text>
+      <sha1>7sp15bucdt2msv22hhxars07ure3dhf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Rock Band Microphone</title>
+    <ns>0</ns>
+    <id>435</id>
+    <revision>
+      <id>722330</id>
+      <parentid>617523</parentid>
+      <timestamp>2026-02-14T19:58:49Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722330</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="595" sha1="s1w8ob2e3j6ift4106eewy020cf95z1" xml:space="preserve">{{Accessory
+| Name=Rock Band Microphone
+| Guid=3000-170
+| Deck=The official microphone for Harmonix's Rock Band series.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3396599-4770832417-s-l40.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3396599-4770832417-s-l40.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_medium,square_small,scale_small,scale_super,scale_medium,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,square_avatar,screen_medium","caption":null},"background":[]}' /&gt;
+The official microphone for Harmonix's Rock Band series.</text>
+      <sha1>s1w8ob2e3j6ift4106eewy020cf95z1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Rock Band Wireless Fender Guitar</title>
+    <ns>0</ns>
+    <id>278</id>
+    <revision>
+      <id>978490</id>
+      <parentid>722172</parentid>
+      <timestamp>2026-07-17T04:58:52Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3000-5)</comment>
+      <origin>978490</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1323" sha1="ouvff18qggc3ebf06mgja7ap49b1tw9" xml:space="preserve">{{Accessory
+| Name=Rock Band Wireless Fender Guitar
+| Guid=3000-5
+| Deck=The official wireless guitar designed for Harmonix's Rock Band series.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/4110/189570-rbstrat.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"189570-rbstrat.jpg","path":"0\/4110\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,scale_tiny,screen_kubrick","caption":"Rock Band Wireless Stratocaster"},"background":[]}' /&gt;
+
+==Overview==
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/0/7596/193031-rb2_guitar.jpg|full=https://www.giantbomb.com/a/uploads/original/0/7596/193031-rb2_guitar.jpg|align=right|width=320|caption=Guitar}}
+The Rock Band guitar features 5 upper fret buttons which function like other guitar controllers. It also has 5 frets near the body of the guitar which allow you to tap solos without strumming and tap without strumming durring big rock endings. The guitar also features a five way switch that lets you change the sound of the guitar effects when Overdrive is activated or when you are in solo sections of the song. The guitar also has a Whammy Bar and start and select buttons that look like volume knobs.</text>
+      <sha1>ouvff18qggc3ebf06mgja7ap49b1tw9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Rock Revolution Drum Set</title>
+    <ns>0</ns>
+    <id>363</id>
+    <revision>
+      <id>722253</id>
+      <parentid>617453</parentid>
+      <timestamp>2026-02-14T19:58:26Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722253</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="555" sha1="2r6tvfraivdpda9uy53hc6y51ihhl8s" xml:space="preserve">{{Accessory
+| Name=Rock Revolution Drum Set
+| Guid=3000-94
+| Deck=The drums for Rock Revolution
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/4647/2788825-1736289271-41DiW.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2788825-1736289271-41DiW.jpg","path":"0\/4647\/","mime":"image\/jpeg","sizes":"scale_small,square_mini,square_small,scale_tiny,square_tiny,scale_super,square_medium,square_avatar,scale_medium,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+The drums for Rock Revolution</text>
+      <sha1>2r6tvfraivdpda9uy53hc6y51ihhl8s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Roll And Rocker</title>
+    <ns>0</ns>
+    <id>349</id>
+    <revision>
+      <id>722239</id>
+      <parentid>617439</parentid>
+      <timestamp>2026-02-14T19:58:22Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722239</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="724" sha1="lnqwn2yg1eiyo5mstlsen7bqichpf01" xml:space="preserve">{{Accessory
+| Name=Roll &amp; Rocker
+| Guid=3000-78
+| Deck=An NES controller where a player stood on a board and shifted his/her weight in order to control the directional pad.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/12/120008/2697781-3113147460-rock..jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2697781-3113147460-rock..jpg","path":"12\/120008\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_tiny,square_medium,square_mini,scale_small,square_avatar,scale_medium,screen_medium,scale_large,scale_avatar,scale_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+An NES controller where a player stood on a board and shifted his/her weight in order to control the directional pad.</text>
+      <sha1>lnqwn2yg1eiyo5mstlsen7bqichpf01</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/SIXAXIS Controller</title>
+    <ns>0</ns>
+    <id>282</id>
+    <revision>
+      <id>722176</id>
+      <parentid>617377</parentid>
+      <timestamp>2026-02-14T19:58:03Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722176</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1756" sha1="s2nhyt58wqcx15ckhym28ujpukfymt3" xml:space="preserve">{{Accessory
+| Name=SIXAXIS Controller
+| Guid=3000-9
+| Deck=The SIXAXIS was the first controller included with the PlayStation 3, but was replaced by a rumble-enabled update called the DualShock 3.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/26/10459-sixaxis-controller.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"10459-sixaxis-controller.jpg","path":"0\/26\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,scale_tiny,ignore_jpg_scale_super,screen_kubrick","caption":"SIXAXIS Controller, PlayStation 3"},"background":[]}' /&gt;
+
+==Features==
+* A major feature of the controller is the ability to sense both rotational orientation and translational acceleration along all three dimensional axes, providing six degrees of motion control.
+* The SIXAXIS can operate for up to 30 hours on a full charge off of its 3.7 V Li-ion battery.
+* It utilizes Bluetooth wireless technology.
+* The controller is charged through a mini USB 2.0 port located on the top.
+* The SIXAXIS features finer analog sensitivity than the [[Accessories/DualShock_2|DualShock 2]] -- four times the precision.
+* A row of four numbered LED port indicators are on the top of the controller, to identify and distinguish multiple wireless controllers.
+* The R2 and L2 buttons are now trigger-like allowing for a larger gradient.
+
+This controller has been supplanted by the [[Accessories/DualShock_3|DualShock 3]] as the official controller for the [[Platforms/PlayStation_3|PlayStation 3]]. 
+ 
+To see a list of PlayStation 3 games that support the SIXAXIS tilt functionality, see the [[Concepts/SIXAXIS_Support|SIXAXIS Support]] concept page.</text>
+      <sha1>s2nhyt58wqcx15ckhym28ujpukfymt3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/SNES Mouse</title>
+    <ns>0</ns>
+    <id>291</id>
+    <revision>
+      <id>978495</id>
+      <parentid>722184</parentid>
+      <timestamp>2026-07-17T04:59:03Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3000-19)</comment>
+      <origin>978495</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3591" sha1="fvd6ulgfie6ffdp6gonnbyjfubqnfjb" xml:space="preserve">{{Accessory
+| Name=SNES Mouse
+| Guid=3000-19
+| Deck=The SNES Mouse was a peripheral created for Mario Paint, though a number of other games went on to support it.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/2181/521368-mouse_snes.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"521368-mouse_snes.jpg","path":"0\/2181\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,square_tiny,scale_large,scale_avatar,screen_kubrick","caption":"Photo of SNES Mouse"},"background":[]}' /&gt;
+
+==Overview==
+The SNES Mouse was a peripheral created by [[Companies/Nintendo|Nintendo]] for the [[Objects/SNES|Super Nintendo]] in 1992. It was created for [[Games/Mario_Paint|Mario Paint]] and was sold in a bundle with the game and a plastic mouse pad for $59.95. It was smaller than traditional PC mice and had a shorter cord than the standard SNES controllers.
+
+
+==Compatible SNES Mouse Games==
+The SNES Mouse was supported by more games than the [[Objects/Super_Scope|Super Scope]], and was even supported by the Super Game Boy. Games featuring SNES Mouse support include:
+
+
+{{GBFigure|src=https://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/0/185/224812-ss_mpaint.gif|full=https://www.giantbomb.com/a/uploads/original/0/185/224812-ss_mpaint.gif|align=right|width=256|caption=Coloring a picture in Mario Paint, with the help of the SNES Mouse.}}
+* [[Games/ACME_Animation_Factory|Acme Animation Factory]]
+* [[Games/Alice_no_Paint_Adventure|Alice no Paint &lt;u&gt;A&lt;/u&gt;dventure]]
+* [[Games/Arkanoid_Doh_It_Again|Arkanoid: Doh It Again]]
+* [[Games/Sid_Meiers_Civilization|Civilization]]
+* [[Games/Cannon_Fodder|Cannon Fodder]]
+* [[Games/Eye_of_the_Beholder|Eye of the Beholder]]
+* [[Companies/Telstar_Fun_and_Games|Fun and Games]]
+* [[Games/Jurassic_Park|Jurassic Park]]
+* [[Games/King_Arthurs_World|King Arthur's World]]
+* [[Games/Crazy_Cars_III|Lamborghini American Challenge]]
+* [[Games/Lemmings_2_The_Tribes|Lemmings 2: The Tribes]]
+* [[Games/J_R_R_Tolkiens_The_Lord_of_the_Rings_Vol_I|The Lord of the Rings]]
+* [[Games/Marios_Super_Picross|Mario no Super Picross]]
+* [[Games/Mario_Paint|Mario Paint]]
+* [[Games/Marios_Early_Years_Preschool_Fun|Mario's Early Years: Pre-School Fun]]
+* [[Games/Marios_Early_Years_Fun_with_Numbers|Mario's Early Years: Fun With Numbers]]
+* [[Games/Marios_Early_Years_Fun_With_Letters|Mario's Early Years: Fun With Letters]]
+* [[Games/Tyrants_Fight_Through_Time|Mega Lo Mania]]
+* [[Games/Might_and_Magic_III_Isles_of_Terra|Might and Magic III]]
+* [[Games/Nobunagas_Ambition|Nobunaga's Ambition]]
+* [[Games/On_the_Ball_1992|On The Ball]]
+* [[Games/Operation_Thunderbolt|Operation Thunderbolt]]
+* [[Games/Pieces|Pieces]]
+* [[Games/Populous_II_Trials_of_the_Olympian_Gods|Populous II]]
+* [[Games/Powermonger|Power Monger]]
+* [[Games/Revolution_X|Revolution X]]
+* [[Games/Shiens_Revenge|Shien's Revenge]]
+* [[Games/SimAnt_The_Electronic_Ant_Colony|SimAnt]]
+* [[Games/Snoopy_Concert|Snoopy Concert]]
+* [[Games/Super_Caesars_Palace|Super Caesars Palace]]
+* [[Games/Super_Noahs_Ark_3D|Super Noah's Ark 3D]]
+* [[Games/Super_Pachi_Slot_Mahjong|Super Pachi-slot Mahjong]]
+* [[Games/Dai_3_Ji_Super_Robot_Taisen|Super Robot Wars 3]]
+* [[Games/Super_Solitaire|Super Solitaire]]
+* [[Games/Terminator_2_Judgment_Day|Terminator 2: The Arcade Game]]
+* [[Games/Tin_Star|Tin Star]]
+* [[Games/Troddlers|Troddlers]]
+* [[Games/Utopia|Utopia]]
+* [[Games/Vegas_Stakes|Vegas Stakes]]
+* [[Games/Wolfenstein_3D|Wolfenstein 3D]]
+* [[Games/Wonder_Project_J_Kikai_no_Shounen_Pino|Wonder Project J]]</text>
+      <sha1>fvd6ulgfie6ffdp6gonnbyjfubqnfjb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/SN ProgramPad</title>
+    <ns>0</ns>
+    <id>390</id>
+    <revision>
+      <id>722278</id>
+      <parentid>617478</parentid>
+      <timestamp>2026-02-14T19:58:34Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722278</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="924" sha1="3lbrlhaj27b6660njp7b51icufpkb95" xml:space="preserve">{{Accessory
+| Name=SN ProgramPad
+| Guid=3000-124
+| Deck=A third-party controller for the Super Nintendo Entertainment System produced by QJ/Interact. It features three programmable buttons that could record inputs with the help of an LCD screen. Primarily used for fighting games.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3395527-8093569105-SN_Pr.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3395527-8093569105-SN_Pr.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,scale_small,square_tiny,square_medium,scale_super,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;
+A third-party controller for the Super Nintendo Entertainment System produced by QJ/Interact. It features three programmable buttons that could record inputs with the help of an LCD screen. Primarily used for fighting games.</text>
+      <sha1>3lbrlhaj27b6660njp7b51icufpkb95</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/SegaScope 3 D Glasses</title>
+    <ns>0</ns>
+    <id>347</id>
+    <revision>
+      <id>722237</id>
+      <parentid>617437</parentid>
+      <timestamp>2026-02-14T19:58:21Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722237</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1729" sha1="eci6v3b2a17qg2mj5g8c7t3qzzojooh" xml:space="preserve">{{Accessory
+| Name=SegaScope 3-D Glasses
+| Guid=3000-76
+| Deck=3-D Glasses made for the Sega Master System. Compatible with 8 games including Space Harrier 3D and Outrun 3D.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/12/120008/2697701-3105019072-3DGla.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2697701-3105019072-3DGla.jpg","path":"12\/120008\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_tiny,square_medium,square_mini,scale_small,square_avatar,scale_medium,screen_medium,scale_large,scale_avatar,scale_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+Released in 1987 for the [[Platforms/Sega_Master_System|Sega Master System]], these [[Objects/3_D_Glasses|3D glasses]] use a shutter system to give a [[Concepts/Stereoscopic_3D|3D effect]]. The shutter system allows for full color, but forces the frame rate to run at 50% (usually 30 frames per second). The glasses are only compatible with the first iteration of the Master System, because they hook up to the card port which is not present in later versions of the system.
+In [[Locations/Japan|Japan]], the glasses came bundled with [[Games/Zaxxon_3_D|Zaxxon 3D]].
+
+==Compatible Games==
+* [[Games/Blade_Eagle_3_D|Blade Eagle 3D]]
+* [[Games/Maze_Hunter_3_D|Maze Hunter 3D]]
+* [[Games/Missile_Defense_3_D|Missile Defense 3D]]
+* [[Games/OutRun|Outrun 3D]]
+* [[Games/Poseidon_Wars_3_D|Poseidon Wars 3D]]
+* [[Games/Space_Harrier_3_D|Space Harrier 3D]]
+* [[Games/Zaxxon_3_D|Zaxxon 3D]]
+* [[Games/Line_of_Fire|Line of Fire]]
+
+==See Also==
+* [[Accessories/Power_Base_Converter|Power Base Converter]]
+* [[Accessories/Sega_VR|Sega VR]]
+* [[Accessories/XE_1AP|XE-1AP]]
+* [[Accessories/Sega_Activator|Sega Activator]]</text>
+      <sha1>eci6v3b2a17qg2mj5g8c7t3qzzojooh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Sega Activator</title>
+    <ns>0</ns>
+    <id>281</id>
+    <revision>
+      <id>978491</id>
+      <parentid>722175</parentid>
+      <timestamp>2026-07-17T04:58:54Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3000-8)</comment>
+      <origin>978491</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4227" sha1="8x1esodkacumdhiwfd13n68e7eqdnmz" xml:space="preserve">{{Accessory
+| Name=Sega Activator
+| Guid=3000-8
+| Deck=The first full-body, motion-sensing controller, released in 1993, for the Sega Genesis/Mega Drive console and the Dragon Ball Z VRVS arcade game. It was an octagonal ring of sensors that control on-screen movement when a player stands in the center and strikes over specific sections.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/25/10924-activator.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"10924-activator.jpg","path":"0\/25\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,screen_kubrick","caption":"Sega Activator ring"},"background":[]}' /&gt;
+
+==Overview==
+The Sega Activator is an octogon-shaped ring that was placed on the floor and plugged into the [[Platforms/Genesis|Genesis]] controller port. The product was based on the [http://www.youtube.com/watch?v=YoxsnCiX05k Light Harp] invented by martial artist and musician, [[People/Assaf_Gurner|Assaf Gurner]], and produced by [[Companies/Sega|Sega]] and Interactive Light. It was the first full-body [[Concepts/Motion_Control|motion controller]], more than a decade before the [[Objects/Wii_Remote|Wiimote]] or [[Accessories/Kinect_for_Xbox_360|Kinect]].
+
+The player would stand in the middle of the ring, which emitted infrared light beams directly up, and sensed their reflections back from the ceiling. The player's movements over each section would break the beamsand trigger some form of in-game action. Beams could be broken high (hands) or low (feet), producing sixteen distinct inputs.
+
+
+==Sega Mega Drive / Genesis==
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/11/117445/1653235-sega_activator.jpg|full=http://www.giantbomb.com/a/uploads/original/11/117445/1653235-sega_activator.jpg|align=right|width=320}}
+Marketing ''implied'' the Activator was similar to a free-range motion-capture device, with [[Accessories/Sega_Activator|commercials]] showing players performing martial arts moves in the ring and seeing them translated in-game. However, the system was actually designed only for the player to make specific movements that were analogous to buttons pressed on a controller (e.g. wave hand over the section mapped to the "A" button to perform that action). The mechanics are naturally similar to the original Light Harp's mapping of specific sections to notes, or keys on a keyboard. The player was free to punch and kick, but it would only correctly register if they did so over the right beam.
+
+The Activator could work with any Genesis game by emulating a 3-button pad. The user would assign buttons to each of the eight sections, including direction pad up, down, left, and right. Additionally, combination moves (pressing two buttons at once by breaking two beams at once) were not supported. Only three games were specifically programmed to recognize the Activator's full range of inputs: , , and .
+
+Vaulted or mirrored ceilings interrupted the IR beams' reflections, along with irregular roof beams, ceiling fans, or similar obstructions. The Activator also required its own standalone power supply (another 9V brick; typical of Sega's consoles of the time), and retailed for $80. High cost, lack of support, and restrictive gameplay all contributed to the controller being quietly discontinued.
+
+
+==Dragon Ball Z VRVS==
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/13/139866/2556264-5834007707-dbz.j.jpg|full=http://www.giantbomb.com/a/uploads/original/13/139866/2556264-5834007707-dbz.j.jpg|align=right|width=320}}
+Sega used the technology in a much more effective manner for the [[Platforms/Arcade|arcade]]fighting game [[Games/Dragon_Ball_Z_V_R_V_S|Dragon Ball Z: VRVS]].
+
+Unlike the console peripheral, this [[Franchises/Dragon_Ball_Z|Dragon Ball Z]] game used extra sensors for better reaction detection, so that the player's movements match the on-screen actions, making it the first successful example of full-body motion sensing.
+
+
+==See Also==
+* [[Accessories/XE_1AP|XE-1AP]]
+* [[Accessories/Sega_VR|Sega VR]]
+* [[Accessories/SegaScope_3_D_Glasses|SegaScope 3-D Glasses]]</text>
+      <sha1>8x1esodkacumdhiwfd13n68e7eqdnmz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Sega VR</title>
+    <ns>0</ns>
+    <id>289</id>
+    <revision>
+      <id>722182</id>
+      <parentid>617383</parentid>
+      <timestamp>2026-02-14T19:58:05Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722182</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6304" sha1="dhnqy58o65dt7k1xpr1vxi1iumlp9xi" xml:space="preserve">{{Accessory
+| Name=Sega VR
+| Guid=3000-17
+| Deck=A project that began in 1991, the Sega Virtual Reality delivered a new perspective on how games were played. It was the first VR headset to track head movement, some two decades before the Oculus Rift. The arcade version, Sega VR-1, was released in 1994, but planned versions for the Mega Drive, and then the Saturn, were cancelled.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/24/10928-Segavr.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"10928-Segavr.jpg","path":"0\/24\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,scale_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+[[Companies/Sega|Sega]]'s rise at the beginning of the 1990's, largely spurred by success of the [[Platforms/Genesis|Mega Drive (Genesis]]) console, prompted them to invest heavily in the creation of new hardware. One of the many R&amp;amp;D projects announced by Sega was Sega VR, a [[Concepts/Virtual_Reality|virtual reality]] headset, first announced in 1991. The display provided internal LCD screens, stereo [[Objects/Headphones|headphones]], and sensors capable of [[Concepts/Motion_Control|detecting inertia]], which allowed the device to [[Concepts/Head_Tracking|track head movements]].
+Initially planned for release in 1994 with several games developed specifically for the headset, the Sega VR was shown at consumer electronics shows in 1993.
+
+===Arcades===
+''Main article: [[Games/Sega_VR_1|Sega VR-1]]''
+In 1994, the technology was utilized for the [[Games/Sega_VR_1|Sega VR-1]] motion simulator [[Platforms/Arcade|arcade]] attraction (see [http://arcadeheroes.com/2013/06/06/segas-wonderful-simulation-games-over-the-years here]), which was available at [http://en.wikipedia.org/wiki/SegaWorld SegaWorld] arcades. It was able to, fairly accurately, track head movement, and featured [[Concepts/Polygonal_3D|3D polygon graphics]] in [[Concepts/Stereoscopic_3D|stereoscopic 3D]]. It was a large networked attraction designed for multiple players, like [[Games/Galaxian|Galaxian 3]] (1990).
+A more scaled-down arcade version, ''Dennoo Senki Net Merc'', was demonstrated at Japan's [https://archive.org/stream/nextgen-issue-006/Next_Generation_Issue_006_June_1995#page/n23/mode/2up/search/vr-1 1995 AOU] (Amusement Operators Union) show, and it used the [[Games/Virtua_Racing|Sega Model 1]] board to produce the game's 3D graphics. The game was not so well-received, with the [[Concepts/Flat_Shading|flat-shaded]] graphics being compared unfavourably to the [[Games/Daytona_USA_1993|Sega Model 2]]'s textured-filtered graphics (see [https://archive.org/stream/nextgen-issue-006/Next_Generation_Issue_006_June_1995#page/n23/mode/2up/search/vr-1 here]).
+
+===Consoles===
+Development on the Mega Drive device was halted, however, with Sega claiming the experience was so real that most users would actually end up hurting themselves. Some, however, since speculated that it was more likely that the technology inflicted problems common to head-mounted virtual reality displays, such as neck pain, nausea, disorientation, or headaches.
+The following games were known to be in development for the [[Platforms/Genesis|Mega Drive]]'s Sega VR headset:
+* ''Nuclear Rush'': A simulation in which users pilot a hovercraft in a futuristic war.
+* ''Iron Hammer'': In this helicopter simulation, gamers pilot a flying gunship a la EA’s popular “Strike” series.
+* [[Games/Matrix_Runner|''Matrix Runner'']]: Not to be confused with ''[[Franchises/The_Matrix|The Matrix]]'' franchise, ''Matrix Runner'' was reported to be a [[Concepts/Polygonal_3D|polygon-based 3D]] [[Concepts/Cyberpunk|cyberpunk]]adventure game inspired by [[People/Hideo_Kojima|Hideo Kojima]]’s [[Games/Snatcher|Snatcher]], and was about entering a cyberspace called the Matrix to solve a murder mystery.
+* ''Outlaw Racing'': Road Rash meets Rock -n- Roll Racing in this vehicle racing/combat game.
+* [[Games/Virtua_Racing|''Virtua Racing'']]: A port of this hit arcade racer was planned for the Sega VR (''Electronic Gaming Monthly'', Video Game Preview Guide, 1993).
+Sega later went on to develop another similar VR device for the [[Platforms/Saturn|Sega Saturn]]. However, after its announcement in 1995, it was not heard from again.
+
+==Legacy==
+Due to the interest in virtual reality technology at the time, Sega's development of the headset sparked a flurry of activity, along similar lines, among the company's competitors in the early-mid-1990's, but no other completed device had ever sold well.
+Sega's chief competitor, [[Companies/Nintendo|Nintendo]], would go on to release the ill-fated [[Platforms/Virtual_Boy|Virtual Boy]] in 1995, in an attempt to beat Sega's anticipated VR device to the market. Nintendo's table-top device brought discomfort after extended play, and lacked certain features of the Sega VR (such as colour 3D graphics and head-tracking). The Virtual Boy is regarded as one of Nintendo's worst commercial failures, and is considered to be partly responsible for the eventual demise of VR technology later in the 1990's.
+The concept of head-tracking VR would not be be revisited again until the rise of [[Concepts/Motion_Control|motion controls]] in the 21st century. In 2012, Sega's concept of a [[Concepts/Head_Tracking|head-tracking]] VR headset was eventually revived by the [[Accessories/Oculus_Rift|Oculus Rift]]. Its developer Oculus VR mentioned Sega's headset as an influence that they wanted to improve on. In turn, the Oculus Rift has inspired [http://www.gamespot.com/articles/virtual-reality-fad-or-future/1100-6418400 similar VR devices] from [[Companies/Sony_Corporation|Sony]] ([[Accessories/PlayStation_VR|Project Morpheus]]), [[Companies/Valve_Corporation|Valve]], and [[Companies/Xbox_Game_Studios|Microsoft]], in 2014, sparking a revival of VR technology, which eventually led to [[Concepts/Facebook_Connectivity|Facebook]]'s $2 billion purchase of Oculus VR in an attempt to introduce this technology to a wider audience beyond gaming.
+
+==See Also==
+* [[Accessories/XE_1AP|XE-1AP]]
+* [[Accessories/Sega_Activator|Sega Activator]]
+* [[Accessories/SegaScope_3_D_Glasses|SegaScope 3-D Glasses]]</text>
+      <sha1>dhnqy58o65dt7k1xpr1vxi1iumlp9xi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Senz3D</title>
+    <ns>0</ns>
+    <id>338</id>
+    <revision>
+      <id>722227</id>
+      <parentid>617428</parentid>
+      <timestamp>2026-02-14T19:58:19Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722227</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="543" sha1="kgvtemrudgga60srufa9v5ggiz7edu5" xml:space="preserve">{{Accessory
+| Name=Senz3D
+| Guid=3000-67
+| Deck=3D gesture control camera for PC
+| Image=https://www.giantbomb.com/a/uploads/scale_super/6/65055/2549156-8728929290-412pi.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2549156-8728929290-412pi.jpg","path":"6\/65055\/","mime":"image\/jpeg","sizes":"square_small,square_tiny,square_medium,square_mini,scale_small,square_avatar,scale_medium,screen_medium,scale_large,scale_avatar,scale_tiny,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+3D gesture control camera for PC</text>
+      <sha1>kgvtemrudgga60srufa9v5ggiz7edu5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Shooting Gallery</title>
+    <ns>0</ns>
+    <id>354</id>
+    <revision>
+      <id>722244</id>
+      <parentid>617444</parentid>
+      <timestamp>2026-02-14T19:58:24Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722244</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1646" sha1="rqq35w8uu0f2zs6t56gvgyyivwgmr3x" xml:space="preserve">{{Accessory
+| Name=Shooting Gallery
+| Guid=3000-83
+| Deck=Magnavox's light gun accessory to it's Odyssey video game console. Released in 1972, "Shooting Gallery" made its mark on history not only as the first light gun for consoles, but also as Nintendo's first involvement in the video game industry.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/46/2758053-9032415421-odyss.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2758053-9032415421-odyss.jpg","path":"0\/46\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_medium,square_tiny,square_mini,scale_small,scale_tiny,square_avatar,scale_medium,screen_medium,scale_avatar,scale_large,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+====Game Pack====
+Shooting Gallery shipped with four games that utilized the light gun accessory, stored on two cartridges (#9 and #10). Like other games for the [[Platforms/Odyssey|Odyssey]] console, they were colorized by placing a translucent plastic screen overlay on the TV.
+* ''Dogfight''
+* ''Prehistoric Safari''
+* ''Shooting Gallery''
+* ''Shootout''
+
+====Commercial Performance====
+When released, a false rumor circulated that ''Shooting Gallery'' would only work on [[Companies/Magnavox|Magnavox]]-made TV set, hurting sales. There was also a "bug" in the light gun system. The rifle would only detect light itself and no particular target, meaning that the player could shoot at any light source, such as a light bulb, and the gun would register it as a hit on a target onscreen.
+Coupled with a $25 price tag, ''Shooting Gallery'' experienced very limited commercial success, selling only around 20,000 units.</text>
+      <sha1>rqq35w8uu0f2zs6t56gvgyyivwgmr3x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Stack Light Rifle</title>
+    <ns>0</ns>
+    <id>469</id>
+    <revision>
+      <id>722375</id>
+      <parentid>617557</parentid>
+      <timestamp>2026-02-14T19:59:00Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722375</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="879" sha1="6jdbee3lrqo1p7wtrtxy7865cnb3u3n" xml:space="preserve">{{Accessory
+| Name=Stack Light Rifle
+| Guid=3000-204
+| Deck=A rifle-shaped light gun manufactured by Stack Computer Services, LTD. It was available for three different computer systems: Commodore VIC-20, Commodore 64, and ZX Spectrum.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3724406-7447438795-broch.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3724406-7447438795-broch.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_medium,square_tiny,square_small,square_medium,scale_super,scale_small,screen_medium,screen_kubrick,square_mini,square_avatar,scale_large,scale_avatar,scale_tiny","caption":"Image courtesy of commodore-info.com"},"background":[]}' /&gt;
+A rifle-shaped light gun manufactured by Stack Computer Services, LTD. It was available for three different computer systems: Commodore VIC-20, Commodore 64, and ZX Spectrum.</text>
+      <sha1>6jdbee3lrqo1p7wtrtxy7865cnb3u3n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Starpath Supercharger</title>
+    <ns>0</ns>
+    <id>372</id>
+    <revision>
+      <id>722261</id>
+      <parentid>617461</parentid>
+      <timestamp>2026-02-14T19:58:29Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722261</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="718" sha1="d94xvpray153002vt4ynmgpdqy9sylu" xml:space="preserve">{{Accessory
+| Name=Starpath Supercharger
+| Guid=3000-104
+| Deck=A peripheral for the Atari 2600 which expanded the 2600's RAM capabilities 49-fold, allowing for much more complex games.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3008188-1737593364-blog_.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3008188-1737593364-blog_.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_mini,square_medium,square_tiny,scale_small,scale_tiny,scale_medium,scale_large,scale_avatar,square_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+ For a list of games which utilized this accessory, see [[Concepts/Starpath_Supercharger|here]].</text>
+      <sha1>d94xvpray153002vt4ynmgpdqy9sylu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Steam Controller</title>
+    <ns>0</ns>
+    <id>364</id>
+    <revision>
+      <id>722254</id>
+      <parentid>617454</parentid>
+      <timestamp>2026-02-14T19:58:27Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722254</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="866" sha1="f0cv2em8d54oqhkgd11ybg2cm98s7wu" xml:space="preserve">{{Accessory
+| Name=Steam Controller
+| Guid=3000-95
+| Deck=A highly configurable controller designed for the PC by Valve. It features dual touch pads with haptic feedback, dual-stage triggers, dual grip buttons, vibration, and gyroscopic motion controls.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/334/2792712-steam-controller.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2792712-steam-controller.jpg","path":"0\/334\/","mime":"image\/jpeg","sizes":"scale_small,scale_super,square_mini,square_medium,square_small,square_tiny,square_avatar,scale_medium,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+A highly configurable controller designed for the PC by Valve. It features dual touch pads with haptic feedback, dual-stage triggers, dual grip buttons, vibration, and gyroscopic motion controls.</text>
+      <sha1>f0cv2em8d54oqhkgd11ybg2cm98s7wu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Steel Battalion Controller</title>
+    <ns>0</ns>
+    <id>288</id>
+    <revision>
+      <id>978494</id>
+      <parentid>722181</parentid>
+      <timestamp>2026-07-17T04:59:00Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3000-16)</comment>
+      <origin>978494</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3775" sha1="qvbxhhg515bv2eoj2yydxdod02xnq1c" xml:space="preserve">{{Accessory
+| Name=Steel Battalion Controller
+| Guid=3000-16
+| Deck=An overtly complicated and involved controller designed for Capcom's Xbox mech-simulation game, Steel Battalion.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/24/10976-product0.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"10976-product0.jpg","path":"0\/24\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_mini,square_medium,square_small,screen_medium,square_avatar,scale_small,scale_large,scale_avatar,square_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+Released with the intention of creating unrivaled realism in the mech-simulator genre, Capcom shipped Steel Battalion for $200 and included a massive, 40 button control station. The game integrated the controller and the gameplay in ways no other console or PC-based title had done before.
+
+
+==Operation==
+In [[Games/Steel_Battalion|Steel Battalion]], players take on the role of a [[Objects/Mech|Mech]] pilot, placed in control of a huge, 40-ton Vertical Tank, or VT. The controller features two control sticks, one governing the targeting and torso movement, and the other serving as a throttle stick. Additionally, three foot pedals control chassis movement, and over 40 individual buttons, each with a specific function, cover the remainder of the controller. The player's survival in the game is directly proportional to the understanding and speed at which they can use this controller.
+
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/ignore_jpg_scale_small/0/24/10978-pic014.jpg|full=http://www.giantbomb.com/a/uploads/original/0/24/10978-pic014.jpg|align=left|caption=The cockpit of a VT}}
+At the start of each mission, the player must boot up their VT by flipping a series of switches and pressing buttons in a specific order. Each button or switch corresponds to an integrated function of the VTs operating system, and they must be activated in sequence for the mech to boot up at all. Throughout the course of the game, players make significant use of the controller's various buttons, tuning in to enemy radio-chatter, wiping the windshields if they get obstructed with mud or heavy rain, and cycling through weapons systems, targeting modes, zoom levels, and other functions one might perform within a giant walking tank. VTs are extremely susceptible to heat, and unless monitored closely by the player, their mech will overheat and shutdown, leaving the player vulnerable on the battlefield until he or she can reboot the vehicle again. Additionally, as a form of punishment, if the player's VT takes catastrophic damage, the player must eject from the mech by pressing a special emergency button before the VT explodes. If the player is too slow, their character effectively dies, and their profile as well as all of their progress is deleted automatically from the game's roster.
+
+
+==Controller Configuration==
+The controller was laid out as below:
+
+
+===Left Hand Side===
+* Gear Shift
+* Left Joystick
+* Left Thumbstick
+* 5 Switches
+
+===Center===
+* Dial
+* 20 buttons
+
+===Right Hand Side===
+* Right Joystick with trigger and 2 buttons
+* 9 buttons
+
+===Pedals===
+* Side Step
+* Brake
+* Accelerate
+
+==Maintenance==
+At least two versions of the Steel Battalion controller were produced. The first generation was easily identifiable by its green "numpad" buttons. On the later revision of the controller those nine buttons are blue instead. Based upon the experiences of the Steel Battalion community the later revision of the controller has weaker components in the foot pedals which are more prone to breaking.
+
+The controller could be serviced, at great personal expense, by CAPCOM's own arcade division. This service ended when CAPCOM closed its arcade division in 2004.</text>
+      <sha1>qvbxhhg515bv2eoj2yydxdod02xnq1c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Sufami Turbo</title>
+    <ns>0</ns>
+    <id>353</id>
+    <revision>
+      <id>722243</id>
+      <parentid>617443</parentid>
+      <timestamp>2026-02-14T19:58:23Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722243</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="811" sha1="2iafbgk3qkj9rqta70vvoy0ee43k1y0" xml:space="preserve">{{Accessory
+| Name=Sufami Turbo
+| Guid=3000-82
+| Deck=A cartridge with two cartridge ports on it, Bandai's Sufami Turbo gave the developer cheaper ways to produce and release a small handful of Super Famicom games.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/26/2748998-7012184460-sufam.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2748998-7012184460-sufam.jpg","path":"0\/26\/","mime":"image\/jpeg","sizes":"scale_small,square_medium,square_small,scale_super,square_tiny,square_mini,square_avatar,screen_medium,scale_avatar,scale_medium,scale_large,ignore_jpg_scale_small,screen_kubrick","caption":""},"background":[]}' /&gt;
+A cartridge with two cartridge ports on it, Bandai's Sufami Turbo gave the developer cheaper ways to produce and release a small handful of Super Famicom games.</text>
+      <sha1>2iafbgk3qkj9rqta70vvoy0ee43k1y0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessories/Super Game Boy</title>
+    <ns>0</ns>
+    <id>389</id>
+    <revision>
+      <id>722277</id>
+      <parentid>617477</parentid>
+      <timestamp>2026-02-14T19:58:34Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722277</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="685" sha1="hlzjrfrqlmcpx3lstmoot9kdw6wg4gh" xml:space="preserve">{{Accessory
+| Name=Super Game Boy
+| Guid=3000-123
+| Deck=The Super Game Boy is an accessory for the Super Nintendo Entertainment System that allows players to play Game Boy games on a television.
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3395511-1262717384-91iGv.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3395511-1262717384-91iGv.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_medium,scale_small,scale_super,square_medium,square_small,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium,square_avatar","caption":null},"background":[]}' /&gt;
+
+==Overview==
+* Released: June 1994
+* Price: $59.99 (US), £49.99 (UK)</text>
+      <sha1>hlzjrfrqlmcpx3lstmoot9kdw6wg4gh</sha1>
+    </revision>
+  </page>
+</mediawiki>

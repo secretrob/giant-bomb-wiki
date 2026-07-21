@@ -1,0 +1,2273 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Games/Everything is Crab</title>
+    <ns>0</ns>
+    <id>624513</id>
+    <revision>
+      <id>973910</id>
+      <parentid>973908</parentid>
+      <timestamp>2026-05-27T15:21:37Z</timestamp>
+      <contributor>
+        <username>Chucktowski</username>
+        <id>7</id>
+      </contributor>
+      <origin>973910</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="526" sha1="tknbk02fail1haezlhb8sv6lo36r837" xml:space="preserve">{{Game
+|Guid=b59231ed-a6ab-4c3f-a5a1-e7bf7e62deb0
+|Name=Everything is Crab
+|Aliases=Everything is Crab: The Animal Evolution Roguelite
+|Image=Everythingiscrab.jpg
+|Deck=The Animal Evolution Roguelite. Hunt, Flee, Scavenge and Thrive in a living ecosystem. Choose from 125+ Evolutions and Specialisations for unique creature combinations in every run. Adapt to survive the natural curve in order to beat carcinisation... or get Darwin'd trying!
+|ReleaseDateType=Full
+|ReleaseDate=2026-05-08
+|Publishers=Companies/Secret Mode
+}}</text>
+      <sha1>tknbk02fail1haezlhb8sv6lo36r837</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Exark</title>
+    <ns>0</ns>
+    <id>624560</id>
+    <revision>
+      <id>974004</id>
+      <parentid>974002</parentid>
+      <timestamp>2026-06-01T21:21:33Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974004</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="677" sha1="qqu9f6qazz2e1e3qp3ihk6ldshdu7s5" xml:space="preserve">{{Game
+|Guid=2bfa8619-a98f-4c36-a48a-6371c4d30a22
+|Name=Exark
+|Image=https://giantbomb.com/api/media/file/media--file--library_600x900_2hhhx-06-01-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--library_aaahero-06-01-2026.jpg
+|Deck=A roguelite auto-battler about a bunch of animals commanding gigantic airships.
+|ReleaseDateType=Year
+|YearPart=2026
+|Concepts=Concepts/Digital Distribution, Concepts/2D, Concepts/Anthropomorphism, Concepts/Roguelike, Concepts/Autobattler, Concepts/Base Building
+|Developers=Companies/Robot Cat
+|Genres=Genres/Strategy
+|Platforms=Platforms/PC
+|Publishers=Companies/Goblinz
+|Themes=Themes/Fantasy, Themes/Management
+}}</text>
+      <sha1>qqu9f6qazz2e1e3qp3ihk6ldshdu7s5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Excavation/Credits</title>
+    <ns>0</ns>
+    <id>256012</id>
+    <revision>
+      <id>256467</id>
+      <timestamp>2025-12-08T07:32:24Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>256467</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1330" sha1="ngwb2qt7y6zlxcleef56msn1k9ab9p3" xml:space="preserve">{{Credits
+|ParentPage=Games/Excavation
+}}
+{{CreditSubobject
+|Game=Games/Excavation
+|Release=
+|Dlc=
+|Person=People/Clint_Levijoki
+|Company=
+|Department=Unclassified
+|Role=Programmer
+}}
+{{CreditSubobject
+|Game=Games/Excavation
+|Release=
+|Dlc=
+|Person=People/Israel_Evans
+|Company=
+|Department=Unclassified
+|Role=Artist
+}}
+{{CreditSubobject
+|Game=Games/Excavation
+|Release=
+|Dlc=
+|Person=People/Daniel_Bernstein
+|Company=
+|Department=Unclassified
+|Role=Composer  and amp; Sound Designer
+}}
+{{CreditSubobject
+|Game=Games/Excavation
+|Release=
+|Dlc=
+|Person=People/Travis_Baldree
+|Company=
+|Department=Unclassified
+|Role=Producer
+}}
+{{CreditSubobject
+|Game=Games/Excavation
+|Release=
+|Dlc=
+|Person=People/David_Schwartz
+|Company=
+|Department=Unclassified
+|Role=VP of Development Support
+}}
+{{CreditSubobject
+|Game=Games/Excavation
+|Release=
+|Dlc=
+|Person=People/Susi_Kalles
+|Company=
+|Department=Unclassified
+|Role=Testing
+}}
+{{CreditSubobject
+|Game=Games/Excavation
+|Release=
+|Dlc=
+|Person=People/Keith_Souhrada
+|Company=
+|Department=Unclassified
+|Role=Testing
+}}
+{{CreditSubobject
+|Game=Games/Excavation
+|Release=
+|Dlc=
+|Person=People/Deon_Miyoi
+|Company=
+|Department=Unclassified
+|Role=Testing
+}}
+{{CreditSubobject
+|Game=Games/Excavation
+|Release=
+|Dlc=
+|Person=People/Bill_Dennes
+|Company=
+|Department=Unclassified
+|Role=Testing
+}}
+</text>
+      <sha1>ngwb2qt7y6zlxcleef56msn1k9ab9p3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Executive Golf</title>
+    <ns>0</ns>
+    <id>624501</id>
+    <revision>
+      <id>973776</id>
+      <timestamp>2026-05-11T15:43:50Z</timestamp>
+      <contributor>
+        <username>Mixfriesjohn</username>
+        <id>3834</id>
+      </contributor>
+      <comment>Executive Golf is a premium online golf game built for golfers. Play realistic courses from around the world, challenge friends, and compete in tournament-style play.</comment>
+      <origin>973776</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="812" sha1="orgp9cdvznrsc0b5o1tx1gro6pcz8u2" xml:space="preserve">{{Game
+|Guid=a34f0131-2809-4e29-872a-94f2b5c99624
+|Name=Executive Golf
+|Image=Golf-Logo-Large.png
+|Deck=Executive Golf is a premium online golf game built for golfers. Play realistic courses from around the world, challenge friends, and compete in tournament-style play.
+|ReleaseDateType=Full
+|ReleaseDate=2025-11-30
+|Genres=Genres/Golf, Genres/Sports
+|Objects=Objects/Golf Tee, Objects/Golf Ball
+|Platforms=Platforms/PC, Platforms/Android
+}}
+Executive Golf is a realistic competitive online golf game based on the 9-hole format of the same name. 
+
+* Competitive online play in tournament and challenge matches.
+* True-to-the-experience swing, ball and wind physics.
+* Varied courses and weekly challenges.
+* Made for golfers and golf enthusiasts.
+* Minimal load times and system requirements.
+* 100% in-browser.</text>
+      <sha1>orgp9cdvznrsc0b5o1tx1gro6pcz8u2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Exodus 2026/Credits</title>
+    <ns>0</ns>
+    <id>251543</id>
+    <revision>
+      <id>251990</id>
+      <timestamp>2025-12-08T07:32:14Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251990</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="181" sha1="h48xbxjt7dt7hxug0gktcxmm8x6uoaq" xml:space="preserve">{{Credits
+|ParentPage=Games/Exodus_2026
+}}
+{{CreditSubobject
+|Game=Games/Exodus_2026
+|Release=
+|Dlc=
+|Person=People/Matthew_McConaughey
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>h48xbxjt7dt7hxug0gktcxmm8x6uoaq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Expendabots</title>
+    <ns>0</ns>
+    <id>624949</id>
+    <revision>
+      <id>974686</id>
+      <timestamp>2026-06-08T01:03:05Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=55c8177f-1ca8-486f-8c3a-844a6bf390a0 |Name=Expendabots |ReleaseDateType=None }}"</comment>
+      <origin>974686</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="92" sha1="9xwhn3crprl1jxaiwljvxf97vfhk12k" xml:space="preserve">{{Game
+|Guid=55c8177f-1ca8-486f-8c3a-844a6bf390a0
+|Name=Expendabots
+|ReleaseDateType=None
+}}</text>
+      <sha1>9xwhn3crprl1jxaiwljvxf97vfhk12k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Exploding Fist 8263/Credits</title>
+    <ns>0</ns>
+    <id>464755</id>
+    <revision>
+      <id>744531</id>
+      <timestamp>2026-03-04T21:18:08Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>744531</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="520" sha1="bx8dcd8i51z9h105f2kbbg90kx1eakm" xml:space="preserve">{{Credits
+|ParentPage=Games/Exploding_Fist_8263
+}}
+{{CreditSubobject
+|Game=Games/Exploding_Fist_8263
+|Release=
+|Dlc=
+|Person=People/Raymond_Bradley
+|Company=
+|Department=Visual Arts
+|Role=ZX Spectrum graphics
+}}
+{{CreditSubobject
+|Game=Games/Exploding_Fist_8263
+|Release=
+|Dlc=
+|Person=People/Bill_McIntosh
+|Company=
+|Department=Programming
+|Role=ZX Spectrum game programming
+}}
+{{CreditSubobject
+|Game=Games/Exploding_Fist_8263
+|Release=
+|Dlc=
+|Person=People/Neil_Brennan
+|Company=
+|Department=Audio
+|Role=C64 music
+}}
+</text>
+      <sha1>bx8dcd8i51z9h105f2kbbg90kx1eakm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Exploding Judo Federation/Credits</title>
+    <ns>0</ns>
+    <id>250570</id>
+    <revision>
+      <id>251015</id>
+      <timestamp>2025-12-08T07:32:12Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251015</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="907" sha1="3jfioqlsg5mtpw5ifydisawtuh1god7" xml:space="preserve">{{Credits
+|ParentPage=Games/Exploding_Judo_Federation
+}}
+{{CreditSubobject
+|Game=Games/Exploding_Judo_Federation
+|Release=
+|Dlc=
+|Person=People/Andrea_Demetrio
+|Company=
+|Department=Programming
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Exploding_Judo_Federation
+|Release=
+|Dlc=
+|Person=People/Elsie_Lovelock
+|Company=
+|Department=Voice Actor
+|Role=Beatriz (reused audio from MotionSickness)
+}}
+{{CreditSubobject
+|Game=Games/Exploding_Judo_Federation
+|Release=
+|Dlc=
+|Person=People/Steven_W_Hunt
+|Company=
+|Department=Thanks
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Exploding_Judo_Federation
+|Release=
+|Dlc=
+|Person=People/AJ_Sparks
+|Company=
+|Department=Voice Actor
+|Role=Junrao (reused audio from MotionSickness)
+}}
+{{CreditSubobject
+|Game=Games/Exploding_Judo_Federation
+|Release=
+|Dlc=
+|Person=People/SkreamnRedSkull
+|Company=
+|Department=Voice Actor
+|Role=Al del Toro (reused audio from MotionSickness)
+}}
+</text>
+      <sha1>3jfioqlsg5mtpw5ifydisawtuh1god7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Eye For Design/Credits</title>
+    <ns>0</ns>
+    <id>256022</id>
+    <revision>
+      <id>256477</id>
+      <timestamp>2025-12-08T07:32:24Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>256477</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4115" sha1="fc8d3eyj4pn1wj3u2pxuvrb8w9b47wh" xml:space="preserve">{{Credits
+|ParentPage=Games/Eye_For_Design
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Rafael_Aguilher_da_Costa
+|Company=
+|Department=Unclassified
+|Role=Producer
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Rafael_Lopes_Lagos
+|Company=
+|Department=Unclassified
+|Role=Game Design
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Eros_Cesar_Carvalho
+|Company=
+|Department=Unclassified
+|Role=Programming
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Bruno_Mikoski
+|Company=
+|Department=Unclassified
+|Role=Additional Programming
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/John_Cesar_Campagnaro
+|Company=
+|Department=Unclassified
+|Role=Additional Programming
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Thiago_Tozzi
+|Company=
+|Department=Unclassified
+|Role=Quality Assurance
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Gabriel_Steinkirch
+|Company=
+|Department=Unclassified
+|Role=Quality Assurance
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Marcio_Turini
+|Company=
+|Department=Unclassified
+|Role=Art
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Victor_C_Saito_Kai
+|Company=
+|Department=Unclassified
+|Role=Art
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Isaac_Hugo_Barbosa_dos_Santos
+|Company=
+|Department=Unclassified
+|Role=Additional Art
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Raphael_M_Antonio
+|Company=
+|Department=Unclassified
+|Role=Additional Art
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Herlygenes_de_Almeida_Pinto
+|Company=
+|Department=Unclassified
+|Role=Sound Designer
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Rogerio_Leitum
+|Company=
+|Department=Unclassified
+|Role=Additional Sound Art
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Chris_Mahnken
+|Company=
+|Department=Unclassified
+|Role=Producer
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Stephen_Hosmer
+|Company=
+|Department=Unclassified
+|Role=Level Design, QA Engineer
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Leah_Verre
+|Company=
+|Department=Unclassified
+|Role=Additional Level Design
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Daniel_Bernstein
+|Company=
+|Department=Unclassified
+|Role=Audio
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Brook_Willeford
+|Company=
+|Department=Unclassified
+|Role=Writer
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Tim_Knappenberger
+|Company=
+|Department=Unclassified
+|Role=QA Manager
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/James_Costello
+|Company=
+|Department=Unclassified
+|Role=QA Lead
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Alex_Carmichael
+|Company=
+|Department=Unclassified
+|Role=QA Engineer
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Clinton_Woodbury
+|Company=
+|Department=Unclassified
+|Role=QA Engineer
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Cody_Roesch
+|Company=
+|Department=Unclassified
+|Role=QA Engineer
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Darryl_Shack
+|Company=
+|Department=Unclassified
+|Role=QA Engineer
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/David_Frederick_White
+|Company=
+|Department=Unclassified
+|Role=Voice - Armand
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Lyssa_Browne
+|Company=
+|Department=Unclassified
+|Role=Voice - Halle
+}}
+{{CreditSubobject
+|Game=Games/Eye_For_Design
+|Release=
+|Dlc=
+|Person=People/Ben_Meals
+|Company=
+|Department=Unclassified
+|Role=Crates
+}}
+</text>
+      <sha1>fc8d3eyj4pn1wj3u2pxuvrb8w9b47wh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/F1 23/Credits</title>
+    <ns>0</ns>
+    <id>251422</id>
+    <revision>
+      <id>251868</id>
+      <timestamp>2025-12-08T07:32:14Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251868</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="161" sha1="nvhy3omwd860xbllddu2rwqcgs6oihc" xml:space="preserve">{{Credits
+|ParentPage=Games/F1_23
+}}
+{{CreditSubobject
+|Game=Games/F1_23
+|Release=
+|Dlc=
+|Person=People/Brian_Tyler
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>nvhy3omwd860xbllddu2rwqcgs6oihc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/F1 Manager 2023/Credits</title>
+    <ns>0</ns>
+    <id>250559</id>
+    <revision>
+      <id>251004</id>
+      <timestamp>2025-12-08T07:32:12Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251004</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="181" sha1="7rqm0oqdhotzmqdsmjzwg4wlq1ljmp8" xml:space="preserve">{{Credits
+|ParentPage=Games/F1_Manager_2023
+}}
+{{CreditSubobject
+|Game=Games/F1_Manager_2023
+|Release=
+|Dlc=
+|Person=People/Brian_Tyler
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>7rqm0oqdhotzmqdsmjzwg4wlq1ljmp8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/FS Maintenance/Credits</title>
+    <ns>0</ns>
+    <id>249632</id>
+    <revision>
+      <id>250066</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250066</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="270" sha1="rmq5ic730c05ahmoxmojxx7ysr862bz" xml:space="preserve">{{Credits
+|ParentPage=Games/FS_Maintenance
+}}
+{{CreditSubobject
+|Game=Games/FS_Maintenance
+|Release=
+|Dlc=
+|Person=People/Mike_Clark_192302
+|Company=
+|Department=Thanks
+|Role=PC Windows we thank (Tecpilot for providing us with such a dedicated group of beta testers)
+}}
+</text>
+      <sha1>rmq5ic730c05ahmoxmojxx7ysr862bz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Face Off 7680/Credits</title>
+    <ns>0</ns>
+    <id>464743</id>
+    <revision>
+      <id>744402</id>
+      <timestamp>2026-03-04T21:15:43Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>744402</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="624" sha1="be84pu6bxkycze0empo8mm5wug9fulz" xml:space="preserve">{{Credits
+|ParentPage=Games/Face_Off_7680
+}}
+{{CreditSubobject
+|Game=Games/Face_Off_7680
+|Release=
+|Dlc=
+|Person=People/Nigel_Little
+|Company=
+|Department=Programming
+|Role=Design and coding
+}}
+{{CreditSubobject
+|Game=Games/Face_Off_7680
+|Release=
+|Dlc=
+|Person=People/Phil_Hackney
+|Company=
+|Department=Visual Arts
+|Role=Graphics designer
+}}
+{{CreditSubobject
+|Game=Games/Face_Off_7680
+|Release=
+|Dlc=
+|Person=People/Jeff_Sember
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Face_Off_7680
+|Release=
+|Dlc=
+|Person=People/Matt_Furniss
+|Company=
+|Department=Audio
+|Role=Amiga music and effects
+}}
+</text>
+      <sha1>be84pu6bxkycze0empo8mm5wug9fulz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Fading Echo</title>
+    <ns>0</ns>
+    <id>624925</id>
+    <revision>
+      <id>974662</id>
+      <timestamp>2026-06-08T00:50:34Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=8f9928ab-efb4-4052-8bb3-74701ed35042 |Name=Fading Echo |ReleaseDateType=None }}"</comment>
+      <origin>974662</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="92" sha1="tfzqrxtqpr5jom37uh0xnsmfekjcind" xml:space="preserve">{{Game
+|Guid=8f9928ab-efb4-4052-8bb3-74701ed35042
+|Name=Fading Echo
+|ReleaseDateType=None
+}}</text>
+      <sha1>tfzqrxtqpr5jom37uh0xnsmfekjcind</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Fairgames/Credits</title>
+    <ns>0</ns>
+    <id>250329</id>
+    <revision>
+      <id>250774</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250774</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="170" sha1="itxpmo9l7kmxh5ngyo4q339nzzl4bfe" xml:space="preserve">{{Credits
+|ParentPage=Games/Fairgames
+}}
+{{CreditSubobject
+|Game=Games/Fairgames
+|Release=
+|Dlc=
+|Person=People/Jade_Raymond
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>itxpmo9l7kmxh5ngyo4q339nzzl4bfe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Fallosophy</title>
+    <ns>0</ns>
+    <id>465211</id>
+    <revision>
+      <id>797110</id>
+      <timestamp>2026-03-17T20:39:49Z</timestamp>
+      <contributor>
+        <username>Chucktowski</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=f31b6a85-7a93-45ab-9861-2cf3d609a86f |Name=Fallosophy |Image=Fallosophy-button-1765296936210.jpg |Deck=Use just two buttons to climb a colossal pinball table spanning the history of western philosophy. Fallosophy is a minimalist game that turns pinball into a quiet struggle against gravity. No score. No tilts. No savers. Falling down means climbing back up again. Why climb? What does it all mean? |ReleaseDateType=Quarter |QuarterPart=Q3 |QuarterYearPart=2026..."</comment>
+      <origin>797110</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="564" sha1="2o6jea1ixflr6zybh17xzn8vhrsih1q" xml:space="preserve">{{Game
+|Guid=f31b6a85-7a93-45ab-9861-2cf3d609a86f
+|Name=Fallosophy
+|Image=Fallosophy-button-1765296936210.jpg
+|Deck=Use just two buttons to climb a colossal pinball table spanning the history of western philosophy. Fallosophy is a minimalist game that turns pinball into a quiet struggle against gravity. No score. No tilts. No savers. Falling down means climbing back up again. Why climb? What does it all mean?
+|ReleaseDateType=Quarter
+|QuarterPart=Q3
+|QuarterYearPart=2026
+|Concepts=Concepts/Digital Pinball
+|Objects=Objects/Pinball, Objects/Pinball Flippers
+}}</text>
+      <sha1>2o6jea1ixflr6zybh17xzn8vhrsih1q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Fantasyland 2041 A D/Credits</title>
+    <ns>0</ns>
+    <id>250262</id>
+    <revision>
+      <id>250707</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250707</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="221" sha1="lq69biufunf2bnhjbj8wd93zpkrclet" xml:space="preserve">{{Credits
+|ParentPage=Games/Fantasyland_2041_A_D
+}}
+{{CreditSubobject
+|Game=Games/Fantasyland_2041_A_D
+|Release=
+|Dlc=
+|Person=People/John_Bell
+|Company=
+|Department=Design
+|Role=Apple II game by / Atari 8-bit game by
+}}
+</text>
+      <sha1>lq69biufunf2bnhjbj8wd93zpkrclet</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Fashion Forward/Credits</title>
+    <ns>0</ns>
+    <id>256006</id>
+    <revision>
+      <id>256461</id>
+      <timestamp>2025-12-08T07:32:24Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>256461</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3833" sha1="2ehwkaftzsysufmy00zkgytiayhxy7y" xml:space="preserve">{{Credits
+|ParentPage=Games/Fashion_Forward
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Daniel_Bernstein
+|Company=
+|Department=Unclassified
+|Role=President and CEO, Game Designer, Sound and Music
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Vitali_Vostrikov
+|Company=
+|Department=Unclassified
+|Role=General Manager, Sandlot Games St. Petersburg, Game Designer
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Leah_Verre
+|Company=
+|Department=Unclassified
+|Role=Producer, Game Designer, Scripter
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Elena_Sigareva
+|Company=
+|Department=Unclassified
+|Role=Project Manager, Game Designer, Scripter
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Konstantin_Akulin
+|Company=
+|Department=Unclassified
+|Role=Game Designer, Lead Programmer
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Melissa_Cuthill
+|Company=
+|Department=Unclassified
+|Role=Writer
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Marina_Tonkih
+|Company=
+|Department=Unclassified
+|Role=Lead Artist
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Rail_Zakirov
+|Company=
+|Department=Unclassified
+|Role=Lead Artist
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Olga_Miredelina
+|Company=
+|Department=Unclassified
+|Role=Artist and Animator
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Maxim_Korznikov
+|Company=
+|Department=Unclassified
+|Role=Artist and Animator
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Maya_Raab
+|Company=
+|Department=Unclassified
+|Role=Artist and Animator
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Anna_Ilyunina
+|Company=
+|Department=Unclassified
+|Role=Artist and Animator
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Elena_Ugodnik
+|Company=
+|Department=Unclassified
+|Role=Artist and Animator
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Ekaterina_Selifanova
+|Company=
+|Department=Unclassified
+|Role=Artist and Animator
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Olesya_Milyavskaya
+|Company=
+|Department=Unclassified
+|Role=Artist and Animator
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Cody_Roesch
+|Company=
+|Department=Unclassified
+|Role=Quality Assurance Engineer
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Douglas_Boze
+|Company=
+|Department=Unclassified
+|Role=Quality Assurance Engineer
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Matt_Dell
+|Company=
+|Department=Unclassified
+|Role=Marketing Manager
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Arthur_Hagman
+|Company=
+|Department=Unclassified
+|Role=Graphic Designer
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Gin_Hammond
+|Company=
+|Department=Unclassified
+|Role=Voice Talent
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Matt_Whitman
+|Company=
+|Department=Unclassified
+|Role=Voice Talent
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Lyssa_Browne
+|Company=
+|Department=Unclassified
+|Role=Voice Talent
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Bhama_Roget
+|Company=
+|Department=Unclassified
+|Role=Voice Talent
+}}
+{{CreditSubobject
+|Game=Games/Fashion_Forward
+|Release=
+|Dlc=
+|Person=People/Olga_Sergeeva
+|Company=
+|Department=Unclassified
+|Role=Scripter
+}}
+</text>
+      <sha1>2ehwkaftzsysufmy00zkgytiayhxy7y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/FatalZone</title>
+    <ns>0</ns>
+    <id>624496</id>
+    <revision>
+      <id>973766</id>
+      <timestamp>2026-05-11T01:06:10Z</timestamp>
+      <contributor>
+        <username>Bobafettjm</username>
+        <id>556</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=2f75e46e-f421-4cd0-93bb-75a5ce8048be |Name=FatalZone |Image=Ceac3a03a34ab1d10292443740efb237.png |Deck=A zombie themed auto shooting survival game. |ReleaseDateType=Full |ReleaseDate=2024-09-17 |Concepts=Concepts/Digital Distribution, Concepts/Steam, Concepts/Steam Achievements, Concepts/Zombie, Concepts/Steam Cloud |Genres=Genres/Action |Platforms=Platforms/PC |Publishers=Companies/101XP }} == Overview == FatalZone is an auto-shooting survival game develope..."</comment>
+      <origin>973766</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="524" sha1="q7wrj1tubor3deaedy4mjeg1dgc10xw" xml:space="preserve">{{Game
+|Guid=2f75e46e-f421-4cd0-93bb-75a5ce8048be
+|Name=FatalZone
+|Image=Ceac3a03a34ab1d10292443740efb237.png
+|Deck=A zombie themed auto shooting survival game.
+|ReleaseDateType=Full
+|ReleaseDate=2024-09-17
+|Concepts=Concepts/Digital Distribution, Concepts/Steam, Concepts/Steam Achievements, Concepts/Zombie, Concepts/Steam Cloud
+|Genres=Genres/Action
+|Platforms=Platforms/PC
+|Publishers=Companies/101XP
+}}
+== Overview ==
+FatalZone is an auto-shooting survival game developed by Midhard Games and published by 101XP for PC.</text>
+      <sha1>q7wrj1tubor3deaedy4mjeg1dgc10xw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Fatal Smarties/Credits</title>
+    <ns>0</ns>
+    <id>249634</id>
+    <revision>
+      <id>250068</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250068</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="191" sha1="8pmd07tyy40fjftm1dlmyz3jouvwk2n" xml:space="preserve">{{Credits
+|ParentPage=Games/Fatal_Smarties
+}}
+{{CreditSubobject
+|Game=Games/Fatal_Smarties
+|Release=
+|Dlc=
+|Person=People/Mike_Clark_192303
+|Company=
+|Department=Audio
+|Role=Genesis music
+}}
+</text>
+      <sha1>8pmd07tyy40fjftm1dlmyz3jouvwk2n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Feed It</title>
+    <ns>0</ns>
+    <id>624593</id>
+    <revision>
+      <id>974099</id>
+      <parentid>974098</parentid>
+      <timestamp>2026-06-02T01:46:02Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974099</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="530" sha1="3q4yvdboes4ey4sit1a4mx0nw7j7uzx" xml:space="preserve">{{Game
+|Guid=5f60740b-43b2-4bda-8982-7a87116b846d
+|Name=Feed It
+|Image=Library 11capsule 2x.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--library_11hero_2x-06-02-2026.jpg
+|Deck=A horror game with 90s-era 3D graphics.
+|ReleaseDateType=Full
+|Concepts=Concepts/Digital Distribution, Concepts/Deliberately Retro, Concepts/Steam, Concepts/First Person Perspective
+|Developers=Companies/Games on a Chair
+|Genres=Genres/Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/Pretty Soon
+|Themes=Themes/Horror
+}}</text>
+      <sha1>3q4yvdboes4ey4sit1a4mx0nw7j7uzx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Fields of Mistria/Credits</title>
+    <ns>0</ns>
+    <id>250485</id>
+    <revision>
+      <id>250930</id>
+      <timestamp>2025-12-08T07:32:12Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250930</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="1wub4ti2i7ozp8nz5x79qwv5zp710js" xml:space="preserve">{{Credits
+|ParentPage=Games/Fields_of_Mistria
+}}
+{{CreditSubobject
+|Game=Games/Fields_of_Mistria
+|Release=
+|Dlc=
+|Person=People/Sarah_Podzorski
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>1wub4ti2i7ozp8nz5x79qwv5zp710js</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Fifootball26</title>
+    <ns>0</ns>
+    <id>625193</id>
+    <revision>
+      <id>985741</id>
+      <parentid>985722</parentid>
+      <timestamp>2026-07-17T16:08:17Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>985741</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="850" sha1="nobitxfhm71dxu7opppupjifjhbrvjr" xml:space="preserve">{{Game
+|Guid=51ea94a3-2cff-4429-9e37-d581bef8c596
+|Name=Fifootball26
+|Aliases=Fifootball26كورةاون
+|Image=Fifootball APP ICON.png
+|BackgroundImage=UI.jpg
+|Caption=A Mobile Massive Multiplayer Online Soccer Game.
+|Deck=mobile online soccer game
+|ReleaseDateType=Full
+|ReleaseDate=2026-06-27
+|Characters=Characters/Cristiano Ronaldo
+|Concepts=Concepts/Soccer
+|Genres=Genres/Soccer
+|Platforms=Platforms/Android, Platforms/iPhone, Platforms/iPad
+}}
+Supports multiple languages including Arabic. 
+
+Contains 11 different Game Modes that utilizes both Auto and Manual Controls. 
+
+Available on Mobile iOS and Android. 
+
+Features the officially licensed Norway National Team.
+
+Join Soccer fans worldwide in this online Soccer simulation game. Also includes Transfer Market to sign new players. published by MA KEY PLAY GAMING DEVELOPMENT SERVICES L.L.C.</text>
+      <sha1>nobitxfhm71dxu7opppupjifjhbrvjr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Fighting of School/Credits</title>
+    <ns>0</ns>
+    <id>253551</id>
+    <revision>
+      <id>254002</id>
+      <timestamp>2025-12-08T07:32:18Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>254002</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1029" sha1="of70tz0ghgvnj9tsysvvfzvb8bof3uc" xml:space="preserve">{{Credits
+|ParentPage=Games/Fighting_of_School
+}}
+{{CreditSubobject
+|Game=Games/Fighting_of_School
+|Release=
+|Dlc=
+|Person=People/Eri_W
+|Company=
+|Department=Voice Actor
+|Role=Shizuru
+}}
+{{CreditSubobject
+|Game=Games/Fighting_of_School
+|Release=
+|Dlc=
+|Person=People/GottfriedYT
+|Company=
+|Department=Voice Actor
+|Role=Wolf
+}}
+{{CreditSubobject
+|Game=Games/Fighting_of_School
+|Release=
+|Dlc=
+|Person=People/Nicholas_Foster
+|Company=
+|Department=Voice Actor
+|Role=Jake
+}}
+{{CreditSubobject
+|Game=Games/Fighting_of_School
+|Release=
+|Dlc=
+|Person=People/Aicha
+|Company=
+|Department=Voice Actor
+|Role=Sashiro
+}}
+{{CreditSubobject
+|Game=Games/Fighting_of_School
+|Release=
+|Dlc=
+|Person=People/Kwok_Vivian
+|Company=
+|Department=Voice Actor
+|Role=Naomi
+}}
+{{CreditSubobject
+|Game=Games/Fighting_of_School
+|Release=
+|Dlc=
+|Person=People/Steven_W_Hunt
+|Company=
+|Department=Voice Actor
+|Role=Wad
+}}
+{{CreditSubobject
+|Game=Games/Fighting_of_School
+|Release=
+|Dlc=
+|Person=People/Elene_Pak
+|Company=
+|Department=Voice Actor
+|Role=Katty
+}}
+</text>
+      <sha1>of70tz0ghgvnj9tsysvvfzvb8bof3uc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Final Fantasy Resonance</title>
+    <ns>0</ns>
+    <id>625033</id>
+    <revision>
+      <id>974918</id>
+      <parentid>974883</parentid>
+      <timestamp>2026-06-09T21:45:44Z</timestamp>
+      <contributor>
+        <username>Dochaus</username>
+        <id>140</id>
+      </contributor>
+      <comment>Adding a bunch of info from FFBE and other sources</comment>
+      <origin>974918</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4135" sha1="oazaw85xg3lt4obvmmpoo8jnwk38nj5" xml:space="preserve">{{Game
+|Guid=74294600-0523-472e-9f0d-e01fc4f91b34
+|Name=Final Fantasy Resonance
+|Image=https://giantbomb.com/api/media/file/media--file--hkyrwwebgaa6dex-06-09-2026.jpg
+|Deck=The Final Fantasy series gets its first HD-2D treatment.
+|ReleaseDateType=Full
+|ReleaseDate=2026-10-22
+|Concepts=Concepts/Digital Distribution, Concepts/Pixel Art, Concepts/Turn Based, Concepts/Steam Achievements, Concepts/Steam Cloud, Concepts/Achievements, Concepts/PlayStation Trophies, Concepts/Platinum Trophy, Concepts/Steam Trading Cards
+|Developers=Companies/Lancarse, Companies/Square Enix
+|Franchises=Franchises/Final Fantasy, Franchises/HD 2D Series
+|Genres=Genres/Role Playing
+|Platforms=Platforms/Nintendo Switch 2, Platforms/PC, Platforms/PlayStation 5, Platforms/Xbox Series X S
+|Publishers=Companies/Square Enix
+|Games=Games/Octopath Traveler 0, Games/Octopath Traveler Champions of the Continent, Games/Final Fantasy Brave Exvius
+|Themes=Themes/Fantasy
+}}
+== Overview ==
+A remake of the now-ended free-to-play mobile game Final Fantasy Brave Exvius, but with the monetization removed and playable offline. Redone with better graphics and pathing in the [[Franchises/HD 2D Series|HD-2D]] style.
+
+== Plot ==
+Rain and Lasswell, two knights of Grandshelt and airship commanders, are attacked by an enemy force and crash land near the Earth Shrine. While looking for help, they stumble over a mysterious Dark Knight destroying the crystal inside before he easily overpowers them. However, a mysterious woman emerges from the crystal, using her power to save the two knights from death.
+
+Fearing the consequences of the evil knight Veritas of the Dark continuing to destroy the eight magic crystals around the world, Rain and Laswell begin a new journey together, to stop Veritas before he can complete his evil plan.
+
+== Characters ==
+
+=== Heroes ===
+
+* Rain, a respected knight from the Kingdom of Grandshelt who follows in his father's footsteps, though he resents Sir Raegan for abandoning him and letting his mother die in the past.
+* Lasswell, Rain's fellow knight and adopted brother. In contrast to Rain, Lasswell sees Sir Raegan as a noble knight after he raised him when Lasswell's birth parents were killed by monsters.
+* Fina, an amnesiac girl who bears a strange resemblance to the girl Rain saw within the Earth Crystal.
+* Lid, an airship engineer from Dirnado, following in the footsteps of her brother, and seeks to become the next legendary Cid.
+* Jake, the charismatic leader of the Raven rebel army in the Zoldaad Empire, seeking to overthrow the tyrannical Emperor Sozhe.
+* Nichol, a military tactician from the Olderion Federation, and a Warden of the Waters who guards the Water Crystal.
+* Sakura, a mage from the magic nation of Mysidia, actually 700 years old despite her tiny stature.
+
+== Gameplay ==
+Similar to older Final Fantasy titles, the player can explore the world of Lapis through the eyes of the heroes they control. Visiting towns, fighting through dungeons, battling monsters and enemies of all types. In battle, players can use up to 4 allies and, with a few exceptions, make use of their party's skills and attacks to get the enemy side's HP down to 0. Battles are done in turn-based style instead of the more recent Active Time Battle (ATB) meter. Resonance also borrows from the Octopath Traveler series, where enemies have a stagger meter that increases as the player exploits their weaknesses, and once full, the enemy enters a staggered state where they temporarily take increased damage, while also giving their own party members an extra turn.
+
+=== Visions ===
+To make up for the lack of gacha in this game, the Visions of other characters from across the [[Franchises/Final Fantasy|Final Fantasy franchise]] will be equipable to one of the four party members, adding their own unique skills to those already possessed or learned by the main party. For example, the Vision of [[Characters/Yshtola Rhul|Y'shtola]] adds healing and water-elemental spells, while the Vision of [[Characters/Cloud Strife|Cloud]] will allow the attached character to hit enemies with lightning spells and new physical attacks.</text>
+      <sha1>oazaw85xg3lt4obvmmpoo8jnwk38nj5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Final Fantasy XIV Dawntrail/Credits</title>
+    <ns>0</ns>
+    <id>250856</id>
+    <revision>
+      <id>251301</id>
+      <timestamp>2025-12-08T07:32:12Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251301</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="208" sha1="lv9g5lg77c6ir5zp7pupzp6zo4q4ylq" xml:space="preserve">{{Credits
+|ParentPage=Games/Final_Fantasy_XIV_Dawntrail
+}}
+{{CreditSubobject
+|Game=Games/Final_Fantasy_XIV_Dawntrail
+|Release=
+|Dlc=
+|Person=People/Sachiko_Miyano
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>lv9g5lg77c6ir5zp7pupzp6zo4q4ylq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Finding Frankie 2</title>
+    <ns>0</ns>
+    <id>624956</id>
+    <revision>
+      <id>974693</id>
+      <timestamp>2026-06-08T01:05:51Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=2f3db7ef-e7d0-46e3-9132-da00112d18ce |Name=Finding Frankie 2 |ReleaseDateType=None }}"</comment>
+      <origin>974693</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="98" sha1="r0qntk5iqifj0ktm95eq6ygo5w2q95s" xml:space="preserve">{{Game
+|Guid=2f3db7ef-e7d0-46e3-9132-da00112d18ce
+|Name=Finding Frankie 2
+|ReleaseDateType=None
+}}</text>
+      <sha1>r0qntk5iqifj0ktm95eq6ygo5w2q95s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Fire 35271</title>
+    <ns>0</ns>
+    <id>464955</id>
+    <revision>
+      <id>796895</id>
+      <parentid>749377</parentid>
+      <timestamp>2026-03-12T06:28:30Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>796895</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="911" sha1="6t6zxjc4vj90zuo34wn5kh5yzvje4yh" xml:space="preserve">{{Game
+| Name=Fire!
+| Guid=3030-35271
+| Deck=Fire! is a pinball machine.
+| ReleaseDate=1987-08-31
+| ReleaseDateType=Month
+| Characters=
+| Concepts=Concepts/Multiball,Concepts/Single_Word_Titles,Concepts/Skill_Shot
+| Developers=Companies/Williams_Electronic_Games_Inc
+| Franchises=
+| Genres=Genres/Pinball
+| Locations=
+| Objects=Objects/Pinball,Objects/Pinball_Flippers
+| Platforms=Platforms/Pinball
+| Publishers=Companies/Williams_Electronic_Games_Inc
+| Games=
+| Themes=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/10/103881/1782885-fire_.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"1782885-fire_.jpg","path":"10\/103881\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,scale_avatar,scale_small,scale_medium,screen_medium,scale_large,square_mini,square_tiny,square_medium,scale_super,scale_tiny,screen_kubrick","caption":""},"background":[]}' /&gt;
+Fire! is a pinball machine.</text>
+      <sha1>6t6zxjc4vj90zuo34wn5kh5yzvje4yh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Fire 35271/Credits</title>
+    <ns>0</ns>
+    <id>464956</id>
+    <revision>
+      <id>749378</id>
+      <timestamp>2026-03-04T22:32:13Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>749378</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="435" sha1="boxu5eepwd4vszzevzsbp3l6c68x0fk" xml:space="preserve">{{Credits
+|ParentPage=Games/Fire_35271
+}}
+{{CreditSubobject
+|Game=Games/Fire_35271
+|Release=
+|Dlc=
+|Person=People/Chris_Granner
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Fire_35271
+|Release=
+|Dlc=
+|Person=People/Barry_Oursler
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Fire_35271
+|Release=
+|Dlc=
+|Person=People/Rich_Karstens
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>boxu5eepwd4vszzevzsbp3l6c68x0fk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Fishing Echoes</title>
+    <ns>0</ns>
+    <id>624959</id>
+    <revision>
+      <id>974697</id>
+      <timestamp>2026-06-08T01:18:13Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=af342a09-f9f5-4039-93e5-a9b063375d64 |Name=Fishing Echoes |ReleaseDateType=None }}"</comment>
+      <origin>974697</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="95" sha1="ipqtnccjherf5y7xsopevef3e2rv74x" xml:space="preserve">{{Game
+|Guid=af342a09-f9f5-4039-93e5-a9b063375d64
+|Name=Fishing Echoes
+|ReleaseDateType=None
+}}</text>
+      <sha1>ipqtnccjherf5y7xsopevef3e2rv74x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Flick Solitaire</title>
+    <ns>0</ns>
+    <id>624911</id>
+    <revision>
+      <id>974648</id>
+      <timestamp>2026-06-08T00:42:25Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=539ceb72-a410-4250-873b-d711b7c6ea70 |Name=Flick Solitaire |ReleaseDateType=None }}"</comment>
+      <origin>974648</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="96" sha1="hbg3npk0jwqriqrwbcl51adja6z0dqa" xml:space="preserve">{{Game
+|Guid=539ceb72-a410-4250-873b-d711b7c6ea70
+|Name=Flick Solitaire
+|ReleaseDateType=None
+}}</text>
+      <sha1>hbg3npk0jwqriqrwbcl51adja6z0dqa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Flip Out 20405/Credits</title>
+    <ns>0</ns>
+    <id>464883</id>
+    <revision>
+      <id>746996</id>
+      <timestamp>2026-03-04T21:57:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>746996</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="313" sha1="aoad33yan5cclkqw32y0se7zwnn6emr" xml:space="preserve">{{Credits
+|ParentPage=Games/Flip_Out_20405
+}}
+{{CreditSubobject
+|Game=Games/Flip_Out_20405
+|Release=
+|Dlc=
+|Person=People/Hank_Cappa
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Flip_Out_20405
+|Release=
+|Dlc=
+|Person=People/Lance_J_Lewis
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>aoad33yan5cclkqw32y0se7zwnn6emr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Footman/Credits</title>
+    <ns>0</ns>
+    <id>253051</id>
+    <revision>
+      <id>253501</id>
+      <timestamp>2025-12-08T07:32:17Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>253501</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="292" sha1="61bda64rw5w0gv5qf7pfbddpqe6hu7p" xml:space="preserve">{{Credits
+|ParentPage=Games/Footman
+}}
+{{CreditSubobject
+|Game=Games/Footman
+|Release=
+|Dlc=
+|Person=People/Robert_Rousseau
+|Company=
+|Department=Programming
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Footman
+|Release=
+|Dlc=
+|Person=People/Rob_Tiltin
+|Company=
+|Department=Visual Arts
+|Role=
+}}
+</text>
+      <sha1>61bda64rw5w0gv5qf7pfbddpqe6hu7p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Forbidden Solitaire</title>
+    <ns>0</ns>
+    <id>624487</id>
+    <revision>
+      <id>973743</id>
+      <parentid>973740</parentid>
+      <timestamp>2026-05-07T02:29:04Z</timestamp>
+      <contributor>
+        <username>Chucktowski</username>
+        <id>7</id>
+      </contributor>
+      <origin>973743</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="370" sha1="fj9n4gbp81v2qtgmcpqootmo03iina4" xml:space="preserve">{{Game
+|Guid=26786733-02e0-4de9-a6d8-30d604bf3a29
+|Name=Forbidden Solitaire
+|Image=Forbidden-solitaire-vertical-2.png
+|Deck=Forbidden Solitaire is a card-slashing horror game about unearthing the contents of a cryptic 1995 CD-ROM that should have never existed. From the creators of Ancient Enemy and Home Safety Hotline.
+|ReleaseDateType=Full
+|ReleaseDate=2026-04-30
+}}</text>
+      <sha1>fj9n4gbp81v2qtgmcpqootmo03iina4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Forever Ago</title>
+    <ns>0</ns>
+    <id>465254</id>
+    <revision>
+      <id>797330</id>
+      <parentid>797328</parentid>
+      <timestamp>2026-03-27T01:10:41Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>797330</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="672" sha1="2670w64ssxeinmtrthnqk17a803pmwh" xml:space="preserve">{{Game
+|Guid=41fbf496-8b14-4dc2-8069-1bf667c1cdc4
+|Name=Forever Ago
+|Image=https://giantbomb.com/api/media/file/media--file--library_600x900_2x-03-27-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--library_hero_sss2x-03-27-2026.jpg
+|ReleaseDateType=Quarter
+|QuarterPart=Q3
+|QuarterYearPart=2026
+|Concepts=Concepts/Digital Distribution, Concepts/Steam, Concepts/Steam Achievements, Concepts/Achievements, Concepts/PlayStation Trophies
+|Developers=Companies/Third Shift
+|Genres=Genres/Adventure
+|Platforms=Platforms/PC, Platforms/PlayStation 5, Platforms/Xbox Series X S, Platforms/Nintendo Switch 2
+|Publishers=Companies/Annapurna Interactive
+}}</text>
+      <sha1>2670w64ssxeinmtrthnqk17a803pmwh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Fossil Quest</title>
+    <ns>0</ns>
+    <id>624864</id>
+    <revision>
+      <id>975138</id>
+      <parentid>974601</parentid>
+      <timestamp>2026-06-17T20:00:39Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975138</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="610" sha1="nfsvvflb1gv5s4yn55qeh6zvdcu19ek" xml:space="preserve">{{Game
+|Guid=8bdd15a8-16a7-41fc-922c-fd62b443dba9
+|Name=Fossil Quest
+|Image=https://giantbomb.com/api/media/file/media--file--fossil-quest-06-17-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--fossil-questb-06-17-2026.jpg
+|Deck=Dig up fossils and build the best dinosaur museum.
+|ReleaseDateType=Quarter
+|QuarterPart=Q1
+|QuarterYearPart=2027
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Digging
+|Developers=Companies/Unsigned Double Collective
+|Genres=Genres/Simulation
+|Platforms=Platforms/PC
+|Publishers=Companies/Unsigned Double Collective
+}}</text>
+      <sha1>nfsvvflb1gv5s4yn55qeh6zvdcu19ek</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Fourleaf Fields</title>
+    <ns>0</ns>
+    <id>624842</id>
+    <revision>
+      <id>975080</id>
+      <parentid>974579</parentid>
+      <timestamp>2026-06-15T19:54:09Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975080</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="632" sha1="5hhk769ct55qptfhln9mrqq011fibki" xml:space="preserve">{{Game
+|Guid=f6e8d387-1c92-4e19-8a2c-3aeff56ba273
+|Name=Fourleaf Fields
+|Image=https://giantbomb.com/api/media/file/media--file--fourleaf-fields-06-15-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--fourleaf-fieldsb-06-15-2026.jpg
+|Deck=A cooperative farming sim where the crops are enormous.
+|ReleaseDateType=Full
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/2D, Concepts/Online, Concepts/Cooperative Play, Concepts/Farming, Concepts/Crafting
+|Developers=Companies/BEHEMUTT
+|Genres=Genres/Simulation
+|Platforms=Platforms/PC
+|Publishers=Companies/HypeTrain Digital
+}}</text>
+      <sha1>5hhk769ct55qptfhln9mrqq011fibki</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/FragPunk/Credits</title>
+    <ns>0</ns>
+    <id>252668</id>
+    <revision>
+      <id>253118</id>
+      <timestamp>2025-12-08T07:32:16Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>253118</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="164" sha1="17ziup2bzp3fehzm7jlk6f4tjsjso00" xml:space="preserve">{{Credits
+|ParentPage=Games/FragPunk
+}}
+{{CreditSubobject
+|Game=Games/FragPunk
+|Release=
+|Dlc=
+|Person=People/Risa_Mei
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>17ziup2bzp3fehzm7jlk6f4tjsjso00</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/FrakTured FaebLes/Credits</title>
+    <ns>0</ns>
+    <id>249730</id>
+    <revision>
+      <id>250164</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250164</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="364" sha1="bowxbnb6ex3fzupcdfl8rg4fzph129c" xml:space="preserve">{{Credits
+|ParentPage=Games/FrakTured_FaebLes
+}}
+{{CreditSubobject
+|Game=Games/FrakTured_FaebLes
+|Release=
+|Dlc=
+|Person=People/Rick_Incrocci
+|Company=
+|Department=Visual Arts
+|Role=Apple II graphics by
+}}
+{{CreditSubobject
+|Game=Games/FrakTured_FaebLes
+|Release=
+|Dlc=
+|Person=People/Dale_Johnson
+|Company=
+|Department=Programming
+|Role=Apple II programmed by
+}}
+</text>
+      <sha1>bowxbnb6ex3fzupcdfl8rg4fzph129c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Free Trader/Credits</title>
+    <ns>0</ns>
+    <id>250243</id>
+    <revision>
+      <id>250688</id>
+      <timestamp>2025-12-08T07:32:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250688</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="188" sha1="bkgcf3irgcbqsfebyst6iqbjwm503os" xml:space="preserve">{{Credits
+|ParentPage=Games/Free_Trader
+}}
+{{CreditSubobject
+|Game=Games/Free_Trader
+|Release=
+|Dlc=
+|Person=People/John_Bell
+|Company=
+|Department=Design
+|Role=Atari 8-bit game design
+}}
+</text>
+      <sha1>bkgcf3irgcbqsfebyst6iqbjwm503os</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Freedom Fighters 2966/Credits</title>
+    <ns>0</ns>
+    <id>464668</id>
+    <revision>
+      <id>743443</id>
+      <timestamp>2026-03-04T20:59:59Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>743443</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="192" sha1="dhiybvkq9wc6t9ub9oji7vn757oxafe" xml:space="preserve">{{Credits
+|ParentPage=Games/Freedom_Fighters_2966
+}}
+{{CreditSubobject
+|Game=Games/Freedom_Fighters_2966
+|Release=
+|Dlc=
+|Person=People/Ed_Averett
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>dhiybvkq9wc6t9ub9oji7vn757oxafe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Freeline</title>
+    <ns>0</ns>
+    <id>624965</id>
+    <revision>
+      <id>974703</id>
+      <timestamp>2026-06-08T01:21:28Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with "{{Game |Guid=0b37f531-473f-4c65-84ad-00a36b129c01 |Name=Freeline |ReleaseDateType=None }}"</comment>
+      <origin>974703</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="89" sha1="7cigiq54g7cza228kdyd35elbqtmz3e" xml:space="preserve">{{Game
+|Guid=0b37f531-473f-4c65-84ad-00a36b129c01
+|Name=Freeline
+|ReleaseDateType=None
+}}</text>
+      <sha1>7cigiq54g7cza228kdyd35elbqtmz3e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Frenetic Plus</title>
+    <ns>0</ns>
+    <id>624680</id>
+    <revision>
+      <id>974275</id>
+      <timestamp>2026-06-04T17:03:45Z</timestamp>
+      <contributor>
+        <username>Neutraali</username>
+        <id>4531</id>
+      </contributor>
+      <comment>Frenetic Plus is a sci-fi, single-player, arcade-style mecha shooter in which you pilot a multi-domain weapons platform across a 33-mission campaign.</comment>
+      <origin>974275</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2331" sha1="227tn1v7we96kjkrvso7utlf804zzun" xml:space="preserve">{{Game
+|Guid=92ae8c25-d321-4d7a-817a-ee31f74bdbde
+|Name=Frenetic Plus
+|Aliases=Frenetic+
+|Image=Title.png
+|ReleaseDateType=Full
+|ReleaseDate=2003-12-29
+|Concepts=Concepts/2D Characters in a 3D Scenario
+|Genres=Genres/Action, Genres/Shoot Em Up
+|Locations=Locations/The Milky Way Galaxy
+|Objects=Objects/Mech, Objects/Spaceship
+|Platforms=Platforms/PC
+|Publishers=Companies/Self Published
+|Themes=Themes/Sci Fi
+}}
+'''Frenetic Plus''' is a sci-fi single-player arcade-style mecha shooter where you pilot a multi-domain weapons platform called a "suit" in the game's lingo. It's the successor to the original '''Frenetic''', which came out in late-2002. Caught up in a civil war, our protagonist ''Mercen 505'' embarks on a race against time to reach Earth before the ruthless ''Exploratory Fleet'' makes it there before her. Severely outgunned and outnumbered, she must use her wits to strike when the enemy is vulnerable and use nebulas, asteroid fields and radiation fields as cover as she makes her way back to defend Earth.
+
+At it's core, '''Frenetic Plus''' is a semi-3D shoot-'em'-up where you gun down waves of enemy suits. Gunning down the final remaining enemy suit results in a mission success. The game spans a total of 33 missions across its storyline, and also features tutorial missions, challenges and extra game modes. You're equipped with a gun (called a "sidearm"), a finite amount of missiles and a special ability called a "weapon pod". You can upgrade your suit and loadout between missions using C.L.A.Y (the game's currency), but be careful! You won't have enough cash to buy everything...
+
+The game features a unique mechanic (at least for it's time) where the player is rewarded for damaging enemies as little possible. As soon as the enemies start to emit sparks, they are effectively incapacitated and will soon blow up. Further damaging the enemies during this brief period will result in a smaller C.L.A.Y reward. You are also rewarded based on your performance each mission with achievements. For example, taking almost no damage, not using missiles and reaching a high shot accuracy all net you a nice cash reward. Interestingly enough, the player is not really forced to follow the game's story, as large parts of it are told via a separate "Journal" -menu that the player can access between missions.</text>
+      <sha1>227tn1v7we96kjkrvso7utlf804zzun</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Fretless The Wrath of Riffson/Credits</title>
+    <ns>0</ns>
+    <id>250588</id>
+    <revision>
+      <id>251033</id>
+      <timestamp>2025-12-08T07:32:12Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>251033</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="206" sha1="9vljjtivn33j34wecpwqct5zk0lj0u0" xml:space="preserve">{{Credits
+|ParentPage=Games/Fretless_The_Wrath_of_Riffson
+}}
+{{CreditSubobject
+|Game=Games/Fretless_The_Wrath_of_Riffson
+|Release=
+|Dlc=
+|Person=People/Sam_Haft
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>9vljjtivn33j34wecpwqct5zk0lj0u0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Frog Sqwad</title>
+    <ns>0</ns>
+    <id>465256</id>
+    <revision>
+      <id>797334</id>
+      <parentid>797332</parentid>
+      <timestamp>2026-03-27T01:30:13Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>797334</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="588" sha1="1k9igauwnw52kjr4ygfjco4a1hue9xf" xml:space="preserve">{{Game
+|Guid=226eb98e-f692-4eb7-9cb4-0b6d84cb6070
+|Name=Frog Sqwad
+|Image=https://giantbomb.com/api/media/file/media--file--waefw-03-27-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--abdfaf-03-27-2026.jpg
+|ReleaseDateType=Month
+|MonthPart=June
+|MonthYearPart=2026
+|Concepts=Concepts/Digital Distribution, Concepts/Frogs, Concepts/Steam, Concepts/Steam Achievements, Concepts/Achievements
+|Developers=Companies/Panic Stations
+|Genres=Genres/Action
+|Platforms=Platforms/Xbox Series X S, Platforms/PC
+|Publishers=Companies/Panic Stations
+|Themes=Themes/Comedy
+}}</text>
+      <sha1>1k9igauwnw52kjr4ygfjco4a1hue9xf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Froggy Brews</title>
+    <ns>0</ns>
+    <id>624850</id>
+    <revision>
+      <id>975103</id>
+      <parentid>974587</parentid>
+      <timestamp>2026-06-15T23:22:48Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975103</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="585" sha1="esa7xan38zd3es8gnnhtga2nrkkh7c2" xml:space="preserve">{{Game
+|Guid=abfb44df-e0bc-4d05-97c6-36012f85011d
+|Name=Froggy Brews
+|Image=https://giantbomb.com/api/media/file/media--file--froggy-brews-06-15-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--froggy-brewsb-06-15-2026.jpg
+|Deck=A narrative adventure about a frog who loves making tea.
+|ReleaseDateType=None
+|Concepts=Concepts/Indie, Concepts/Digital Distribution, Concepts/Steam, Concepts/Anthropomorphism, Concepts/Frogs
+|Developers=Companies/Komodo Range Studio
+|Genres=Genres/Adventure
+|Platforms=Platforms/PC
+|Publishers=Companies/Komodo Range Studio
+}}</text>
+      <sha1>esa7xan38zd3es8gnnhtga2nrkkh7c2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Frogrammer</title>
+    <ns>0</ns>
+    <id>625134</id>
+    <revision>
+      <id>975206</id>
+      <parentid>975200</parentid>
+      <timestamp>2026-06-26T21:14:49Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>975206</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="528" sha1="ac9a88m8xbj1yak4suvidv62zw0j9hj" xml:space="preserve">{{Game
+|Guid=e6a203ce-1d6b-49a0-8cc9-72df9429b0d2
+|Name=Frogrammer
+|Image=https://giantbomb.com/api/media/file/media--file--frogrammer-06-26-2026.jpg
+|BackgroundImage=https://giantbomb.com/api/media/file/media--file--frogrammer2-06-26-2026.jpg
+|ReleaseDateType=None
+}}
+Hire the right Frogrammers and fight off the bugs in this tug-of-war auto-battler. Manage your resources, leverage synergies, exploit enemy weaknesses and fight your way to the source of the horde. Keep your boss happy, the budget low and go squash some bugs.</text>
+      <sha1>ac9a88m8xbj1yak4suvidv62zw0j9hj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Fuga Melodies of Steel 3/Credits</title>
+    <ns>0</ns>
+    <id>254950</id>
+    <revision>
+      <id>255403</id>
+      <timestamp>2025-12-08T07:32:22Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>255403</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="200" sha1="rjjobbhk7mktjbvpbdyp3ru1n7yplb3" xml:space="preserve">{{Credits
+|ParentPage=Games/Fuga_Melodies_of_Steel_3
+}}
+{{CreditSubobject
+|Game=Games/Fuga_Melodies_of_Steel_3
+|Release=
+|Dlc=
+|Person=People/Hiroto_Niizato
+|Company=
+|Department=Production
+|Role=
+}}
+</text>
+      <sha1>rjjobbhk7mktjbvpbdyp3ru1n7yplb3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Fun School Maths/Credits</title>
+    <ns>0</ns>
+    <id>249659</id>
+    <revision>
+      <id>250093</id>
+      <timestamp>2025-12-08T07:32:10Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>250093</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="210" sha1="ly5i4er80x6gv2tqg7qy1fo5cs8hfpl" xml:space="preserve">{{Credits
+|ParentPage=Games/Fun_School_Maths
+}}
+{{CreditSubobject
+|Game=Games/Fun_School_Maths
+|Release=
+|Dlc=
+|Person=People/Christian_Pennycate
+|Company=
+|Department=Unclassified
+|Role=PC DOS the team ...
+}}
+</text>
+      <sha1>ly5i4er80x6gv2tqg7qy1fo5cs8hfpl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Games/Fury 1784/Credits</title>
+    <ns>0</ns>
+    <id>464646</id>
+    <revision>
+      <id>743154</id>
+      <timestamp>2026-03-04T20:55:40Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>743154</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="299" sha1="7erikcvqhdfw5qbpgns93mzc39asaqs" xml:space="preserve">{{Credits
+|ParentPage=Games/Fury_1784
+}}
+{{CreditSubobject
+|Game=Games/Fury_1784
+|Release=
+|Dlc=
+|Person=People/Karl_Hagood
+|Company=
+|Department=Unclassified
+|Role=
+}}
+{{CreditSubobject
+|Game=Games/Fury_1784
+|Release=
+|Dlc=
+|Person=People/Kyle_Richards
+|Company=
+|Department=Unclassified
+|Role=
+}}
+</text>
+      <sha1>7erikcvqhdfw5qbpgns93mzc39asaqs</sha1>
+    </revision>
+  </page>
+</mediawiki>

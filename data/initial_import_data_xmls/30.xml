@@ -1,0 +1,1773 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Concepts/NC State Wolfpack</title>
+    <ns>0</ns>
+    <id>95627</id>
+    <revision>
+      <id>587698</id>
+      <parentid>487636</parentid>
+      <timestamp>2026-02-08T07:12:45Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587698</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="934" sha1="66ru9aoe4ya9dr7qyszfum6ly1ndz52" xml:space="preserve">{{Concept
+| Name=NC State Wolfpack
+| Guid=3015-13174
+| Aliases=North Carolina State Wolfpack
+| Deck=The Wolfpack are North Carolina State University's athletic teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Football_09
+| Locations=Locations/North_Carolina,Locations/Raleigh,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601777-9228322475-images.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601777-9228322475-images.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_small,scale_medium,square_tiny,square_avatar,square_mini,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+The Wolfpack are North Carolina State University's athletic teams.</text>
+      <sha1>66ru9aoe4ya9dr7qyszfum6ly1ndz52</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Nacli</title>
+    <ns>0</ns>
+    <id>95950</id>
+    <revision>
+      <id>588369</id>
+      <parentid>487881</parentid>
+      <timestamp>2026-02-08T07:18:07Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588369</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="572" sha1="4ysnhjrdi10yj11gmxp3d221mtwbok2" xml:space="preserve">{{Concept
+| Name=Nacli
+| Guid=3015-13507
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777812-0932nacli.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777812-0932nacli.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,square_mini,scale_super,scale_tiny,scale_medium,scale_small,square_tiny,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>4ysnhjrdi10yj11gmxp3d221mtwbok2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Naclstack</title>
+    <ns>0</ns>
+    <id>95951</id>
+    <revision>
+      <id>588370</id>
+      <parentid>487882</parentid>
+      <timestamp>2026-02-08T07:18:08Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588370</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="573" sha1="mqy346pkuq42y1g71ji5i55e8o4lf84" xml:space="preserve">{{Concept
+| Name=Naclstack
+| Guid=3015-13508
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777813-0933naclstack.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777813-0933naclstack.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,scale_super,scale_medium,scale_small,square_tiny,square_medium,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>mqy346pkuq42y1g71ji5i55e8o4lf84</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Nautilus</title>
+    <ns>0</ns>
+    <id>95867</id>
+    <revision>
+      <id>588225</id>
+      <parentid>487827</parentid>
+      <timestamp>2026-02-08T07:16:57Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588225</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="685" sha1="2dlh83sn8lxjp1firxqg5evgv91go7r" xml:space="preserve">{{Concept
+| Name=Nautilus
+| Guid=3015-13419
+| Deck=A mollusk in a spirally twisted shell
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Xenon_2_Megablast
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3705052-xenon2megablast.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3705052-xenon2megablast.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_medium,square_small,scale_super,square_tiny,scale_medium,scale_small,scale_avatar,scale_tiny,screen_medium,screen_kubrick,scale_large,square_mini,square_avatar","caption":"Xenon 2 Megablast"},"background":[]}' /&gt;
+A mollusk in a spirally twisted shell</text>
+      <sha1>2dlh83sn8lxjp1firxqg5evgv91go7r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Navy Midshipmen</title>
+    <ns>0</ns>
+    <id>95626</id>
+    <revision>
+      <id>587696</id>
+      <parentid>487635</parentid>
+      <timestamp>2026-02-08T07:12:44Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587696</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="921" sha1="1gfnwe0ebg0l703lzoow8f1pfgi6ze7" xml:space="preserve">{{Concept
+| Name=Navy Midshipmen
+| Guid=3015-13173
+| Deck=The Midshipmen are the United States Naval Academy's athletics teams.
+| Characters=
+| Concepts=Concepts/United_States_Navy
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Annapolis,Locations/Maryland,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601731-1871776516-1200p.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601731-1871776516-1200p.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_small,square_mini,square_medium,square_avatar,square_small,scale_medium,scale_super,square_tiny,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+The Midshipmen are the United States Naval Academy's athletics teams.</text>
+      <sha1>1gfnwe0ebg0l703lzoow8f1pfgi6ze7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Nay Kobolds</title>
+    <ns>0</ns>
+    <id>95904</id>
+    <revision>
+      <id>588306</id>
+      <parentid>487859</parentid>
+      <timestamp>2026-02-08T07:17:35Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588306</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="690" sha1="9je1oveob3h9ni7y2fxcm42g3z4mehn" xml:space="preserve">{{Concept
+| Name=Nay-Kobolds
+| Guid=3015-13456
+| Deck=The feline counterpart of Kobolds.
+| Characters=Characters/Chiepoo
+| Concepts=Concepts/Feline_Humanoid
+| Franchises=
+| Games=Games/Suikoden_IV
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/59/594908/3723395-6770766960-Nayko.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3723395-6770766960-Nayko.jpg","path":"59\/594908\/","mime":"image\/jpeg","sizes":"scale_small,square_medium,scale_medium,scale_super,square_small,square_avatar,screen_kubrick,scale_large,scale_avatar,square_mini,square_tiny,screen_medium","caption":null},"background":[]}' /&gt;
+The feline counterpart of Kobolds.</text>
+      <sha1>9je1oveob3h9ni7y2fxcm42g3z4mehn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Nebraska Cornhuskers</title>
+    <ns>0</ns>
+    <id>95628</id>
+    <revision>
+      <id>587701</id>
+      <parentid>487637</parentid>
+      <timestamp>2026-02-08T07:12:47Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587701</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="991" sha1="cy4ldw1n2s9iu0xg7tjj9bqpq9c8efv" xml:space="preserve">{{Concept
+| Name=Nebraska Cornhuskers
+| Guid=3015-13175
+| Deck=The Cornhuskers are the University of Nebraska's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/MVP_06_NCAA_Baseball,Games/MVP_07_NCAA_Baseball,Games/NCAA_Basketball_10,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Lincoln,Locations/Nebraska,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601737-2346997068-1200p.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601737-2346997068-1200p.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_small,square_avatar,scale_small,scale_super,scale_medium,square_tiny,square_medium,square_mini,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+The Cornhuskers are the University of Nebraska's athletics teams.</text>
+      <sha1>cy4ldw1n2s9iu0xg7tjj9bqpq9c8efv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Neck Cracking</title>
+    <ns>0</ns>
+    <id>96044</id>
+    <revision>
+      <id>588583</id>
+      <parentid>487973</parentid>
+      <timestamp>2026-02-08T07:19:48Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588583</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1384" sha1="38r1mmi20ez5urt3zcruwf2tbw4md2l" xml:space="preserve">{{Concept
+| Name=Neck Cracking
+| Guid=3015-13603
+| Deck=When characters demonstratively crack their neck vertebrae or jaw, turning their head sharply to one side, sometimes helping themselves with their hands
+| Characters=Characters/Bayman,Characters/Havik,Characters/Meat,Characters/Scorpion
+| Concepts=Concepts/Idle_Animations,Concepts/Taunting
+| Franchises=
+| Games=Games/Dead_or_Alive_4,Games/Dead_or_Alive_Xtreme_Beach_Volleyball,Games/Mortal_Kombat_11,Games/Mortal_Kombat_2011,Games/Mortal_Kombat_vs_DC_Universe,Games/Mortal_Kombat_X,Games/Runaway_A_Twist_of_Fate
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3788434-mortalkombatmobile-characterscrunchingtheirnecks.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3788434-mortalkombatmobile-characterscrunchingtheirnecks.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_super,square_avatar,scale_medium,scale_small,screen_medium,square_mini,scale_large,scale_avatar,screen_kubrick,square_tiny,scale_tiny","caption":"Mortal Kombat Mobile - Characters Crunching Their Necks"},"background":[]}' /&gt;
+This move can usually be found in fighting games between rounds, in cutscenes, or as idle animation. It can also be a type of manually executed taunt, as if showing the opponent that the attacks performed on them were weak.</text>
+      <sha1>38r1mmi20ez5urt3zcruwf2tbw4md2l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Neptunemon</title>
+    <ns>0</ns>
+    <id>95885</id>
+    <revision>
+      <id>588267</id>
+      <parentid>487843</parentid>
+      <timestamp>2026-02-08T07:17:17Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588267</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1242" sha1="bt0rhxf7bvbtysqun800ak3scd4c7gg" xml:space="preserve">{{Concept
+| Name=Neptunemon
+| Guid=3015-13437
+| Deck=Neptunemon is a Mega-level Shaman Digimon and a member of the Olympos XII.
+| Characters=
+| Concepts=Concepts/Digimon,Concepts/Digivolution,Concepts/Falcomon,Concepts/God,Concepts/Merfolk,Concepts/Seadramon,Concepts/Whamon,Concepts/Zudomon
+| Franchises=
+| Games=Games/Digimon_Battle,Games/Digimon_Heroes,Games/Digimon_Masters,Games/Digimon_ReArise,Games/Digimon_Story_Cyber_Sleuth,Games/Digimon_Story_Cyber_Sleuth_Complete_Edition,Games/Digimon_Story_Cyber_Sleuth_Hackers_Memory,Games/Digimon_Story_Lost_Evolution,Games/Digimon_Story_Super_Xros_Wars_Blue_Red,Games/Digimon_Story_Time_Stranger,Games/Digimon_World_Data_Squad,Games/Digimon_World_DS
+| Locations=Locations/Cyberspace,Locations/Ocean
+| Objects=Objects/Armor,Objects/Spear
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3812886-5291072107-latest.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3812886-5291072107-latest.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,scale_medium,square_medium,square_tiny,square_small,square_avatar,scale_tiny","caption":null},"background":[]}' /&gt;
+Neptunemon is a Mega-level Shaman Digimon and a member of the Olympos XII.</text>
+      <sha1>bt0rhxf7bvbtysqun800ak3scd4c7gg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Nevada Wolf Pack</title>
+    <ns>0</ns>
+    <id>95629</id>
+    <revision>
+      <id>587702</id>
+      <parentid>487638</parentid>
+      <timestamp>2026-02-08T07:12:47Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587702</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="886" sha1="7sklvz6ffuufugrl6wb7u5xjw930e3e" xml:space="preserve">{{Concept
+| Name=Nevada Wolf Pack
+| Guid=3015-13176
+| Deck=The Wolf Pack are the University of Nevada's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Nevada,Locations/Reno,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601738-2336007900-images.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601738-2336007900-images.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_medium,scale_super,square_avatar,square_small,square_mini,scale_tiny,scale_small,scale_medium,square_tiny,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+The Wolf Pack are the University of Nevada's athletics teams.</text>
+      <sha1>7sklvz6ffuufugrl6wb7u5xjw930e3e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/New Mexico Lobos</title>
+    <ns>0</ns>
+    <id>95630</id>
+    <revision>
+      <id>587704</id>
+      <parentid>487639</parentid>
+      <timestamp>2026-02-08T07:12:48Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587704</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="920" sha1="rzekslpvtemo16pe5sfy9hs7vazngm6" xml:space="preserve">{{Concept
+| Name=New Mexico Lobos
+| Guid=3015-13177
+| Deck=The Lobos are the University of New Mexico's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Albuquerque,Locations/New_Mexico,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601744-8611767040-images.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601744-8611767040-images.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_avatar,square_medium,scale_super,square_small,scale_small,scale_tiny,scale_medium,square_tiny,scale_avatar,scale_large,square_mini,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Lobos are the University of New Mexico's athletics teams.</text>
+      <sha1>rzekslpvtemo16pe5sfy9hs7vazngm6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/New Mexico State Aggies</title>
+    <ns>0</ns>
+    <id>95631</id>
+    <revision>
+      <id>587707</id>
+      <parentid>487640</parentid>
+      <timestamp>2026-02-08T07:12:49Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587707</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="942" sha1="9fr3iz79tkhl2m09la7zybmtpkfoax8" xml:space="preserve">{{Concept
+| Name=New Mexico State Aggies
+| Guid=3015-13178
+| Deck=The Aggies are New Mexico State University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/NCAA_Football_09,Games/NCAA_Football_14,Games/NCAA_Football_2002
+| Locations=Locations/Las_Cruces,Locations/New_Mexico,Locations/The_United_States_of_America
+| Objects=Objects/Football
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601751-1888510469-latest.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601751-1888510469-latest.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_medium,scale_super,square_avatar,square_medium,square_small,scale_tiny,scale_small,square_tiny,square_mini,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Aggies are New Mexico State University's athletics teams.</text>
+      <sha1>9fr3iz79tkhl2m09la7zybmtpkfoax8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Night Lords</title>
+    <ns>0</ns>
+    <id>95728</id>
+    <revision>
+      <id>587966</id>
+      <parentid>487735</parentid>
+      <timestamp>2026-02-08T07:14:50Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587966</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1676" sha1="a11vqik53r8ixb3pgqchwylyuds4r6o" xml:space="preserve">{{Concept
+| Name=Night Lords
+| Guid=3015-13279
+| Deck=The 8th of the founding Space Marine legions, they fell to Chaos and became a band of depraved, nihilistic killers. Experts at striking from the shadows and using fear as a weapon, they avoid fair fights and gleefully exercise their sadistic urges on anyone they can find, the more defenseless the better.
+| Characters=
+| Concepts=Concepts/Adeptus_Astartes,Concepts/Chaos,Concepts/Chaos_Space_Marines,Concepts/Cowardly_Enemies,Concepts/Murder,Concepts/Nihilism,Concepts/Psychopaths,Concepts/Sadism,Concepts/Skull_Helmets,Concepts/Stealth,Concepts/Terror,Concepts/Torture,Concepts/War
+| Franchises=
+| Games=Games/Warhammer_40_000_Dark_Heresy,Games/Warhammer_40_000_Space_Marine_II
+| Locations=
+| Objects=Objects/Boltgun,Objects/Chainsword,Objects/Claw,Objects/Gauntlets,Objects/Heavy_Bolter,Objects/Helmet,Objects/Jet_Pack,Objects/Plasma_Pistol_1159,Objects/Power_Armor,Objects/Skull,Objects/Thunder_Hammer
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3621941-nlhh.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3621941-nlhh.jpg","path":"77\/776653\/","mime":"image\/jpeg","sizes":"square_small,square_medium,square_tiny,scale_super,scale_medium,scale_small,square_mini,scale_avatar,square_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+The 8th of the founding Space Marine legions, they fell to Chaos and became a band of depraved, nihilistic killers. Experts at striking from the shadows and using fear as a weapon, they avoid fair fights and gleefully exercise their sadistic urges on anyone they can find, the more defenseless the better.</text>
+      <sha1>a11vqik53r8ixb3pgqchwylyuds4r6o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Niko chan</title>
+    <ns>0</ns>
+    <id>95727</id>
+    <revision>
+      <id>587965</id>
+      <parentid>487734</parentid>
+      <timestamp>2026-02-08T07:14:50Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587965</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="955" sha1="53kcu5ghrkwjk4toaafbzm9yxjh6sta" xml:space="preserve">{{Concept
+| Name=Niko-chan
+| Guid=3015-13278
+| Deck=A race of aliens in Dr. Slump media (and briefly, Dragon Ball) which have butts on top of their heads and nostrils on antennae.
+| Characters=Characters/King_Niko_chan
+| Concepts=Concepts/Alien
+| Franchises=
+| Games=Games/Arale_no_Jump_Up,Games/Dr_Slump,Games/Dr_Slump_And_Arale_Chan,Games/Dragon_Ball_Origins_2
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3624576-5710830484-340.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3624576-5710830484-340.png","path":"16\/164924\/","mime":"image\/png","sizes":"scale_small,scale_super,square_small,square_avatar,scale_medium,scale_tiny,square_medium,screen_kubrick,scale_large,scale_avatar,square_mini,square_tiny,screen_medium","caption":null},"background":[]}' /&gt;
+A race of aliens in Dr. Slump media (and briefly, Dragon Ball) which have butts on top of their heads and nostrils on antennae.</text>
+      <sha1>53kcu5ghrkwjk4toaafbzm9yxjh6sta</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Nilgai</title>
+    <ns>0</ns>
+    <id>95916</id>
+    <revision>
+      <id>96051</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>96051</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="239" sha1="s8kg0ekzzeyr7sf2n4mmrsn0w3xs0fq" xml:space="preserve">{{Concept
+| Name=Nilgai
+| Guid=3015-13471
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Age_of_Empires_III_The_Asian_Dynasties
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>s8kg0ekzzeyr7sf2n4mmrsn0w3xs0fq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Nintendo GameCube Nintendo Classics</title>
+    <ns>0</ns>
+    <id>95891</id>
+    <revision>
+      <id>974838</id>
+      <parentid>797111</parentid>
+      <timestamp>2026-06-09T12:31:19Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>974838</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2100" sha1="e9p2chmvv2tqtohoa2l01h2jfw83js6" xml:space="preserve">{{Concept
+|Guid=3015-13443
+|Name=Nintendo GameCube – Nintendo Classics
+|Aliases=Nintendo GameCube – Nintendo Switch Online
+|Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3717371-5327369946-GniM9-3aMAAbfTp.jpg
+|Deck=Nintendo GameCube classics made available to subscribers of the Nintendo Switch Online Expansion Pack.
+|Concepts=Concepts/Game_Boy_Advance_Nintendo_Classics, Concepts/Game_Boy_Nintendo_Classics, Concepts/Nintendo_64_Nintendo_Classics, Concepts/Nintendo_Entertainment_System_Nintendo_Classics, Concepts/Nintendo_Switch_Online, Concepts/Sega_Genesis_Nintendo_Classics, Concepts/Super_Nintendo_Entertainment_System_Nintendo_Classics, Concepts/Virtual_Boy_Nintendo_Classics
+|Games=Games/Chibi_Robo, Games/F_Zero_GX, Games/Fire_Emblem_Path_of_Radiance, Games/Luigis_Mansion, Games/Pokemon_Colosseum, Games/Pokemon_XD_Gale_of_Darkness, Games/Soulcalibur_II, Games/Super_Mario_Strikers, Games/Super_Mario_Sunshine, Games/The_Legend_of_Zelda_The_Wind_Waker, Games/Pokemon XD Gale of Darkness
+}}
+== Overview ==
+The [[Platforms/GameCube|Nintendo GameCube]] library was added to the [[Concepts/Nintendo Switch Online|Nintendo Switch Online]] + Expansion Pack subscription service on June 5, 2025 alongside the launch of the [[Platforms/Nintendo Switch 2|Nintendo Switch 2]].
+
+{| class="wikitable" style="margin:auto;width:100%;"
+!Date
+!Game
+!NA/PAL/KR
+!JP/HK
+|-
+|June 5, 2025
+|[[Games/F Zero GX|F-Zero GX]]
+|X
+|X
+|-
+|
+|[[Games/The Legend of Zelda The Wind Waker|The Legend of Zelda: The Wind Waker]]
+|X
+|X
+|-
+|
+|[[Games/Soulcalibur II|Soulcalibur II]]
+|X
+|X
+|-
+|July 3, 2025
+|[[Games/Super Mario Strikers|Super Mario Strikers]]
+|X
+|X
+|-
+|August 21, 2025
+|[[Games/Chibi Robo|Chibi-Robo!]]
+|X
+|X
+|-
+|October 30, 2025
+|[[Games/Luigis Mansion|Luigi's Mansion]]
+|X
+|X
+|-
+|January 9, 2026
+|[[Games/Fire Emblem Path of Radiance|Fire Emblem: Path of Radiance]]
+|X
+|X
+|-
+|March 17, 2026
+|[[Games/Pokemon XD Gale of Darkness|Pokémon XD: Gale of Darkness]]
+|X
+|X
+|-
+|TBA
+|[[Games/Pokemon Colosseum|Pokémon Colosseum]]
+|
+|
+|-
+|
+|[[Games/Super Mario Sunshine|Super Mario Sunshine]]
+|
+|
+|}</text>
+      <sha1>e9p2chmvv2tqtohoa2l01h2jfw83js6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Nintendo GameShare</title>
+    <ns>0</ns>
+    <id>95893</id>
+    <revision>
+      <id>999812</id>
+      <parentid>588287</parentid>
+      <timestamp>2026-07-19T08:17:05Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>999812</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1063" sha1="lzd1xqv4nh6w0y2d8bx04rrlni5e13p" xml:space="preserve">{{Concept
+| Name=Nintendo GameShare
+| Guid=3015-13445
+| Deck=Select Nintendo Switch and Nintendo Switch 2 multiplayer games are playable with only one person owning the game.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Big_Brain_Academy_Brain_vs_Brain,Games/Captain_Toad_Treasure_Tracker,Games/Clubhouse_Games_51_Worldwide_Classics,Games/Super_Mario_3D_World,Games/Super_Mario_Odyssey
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3716958-nintendodirect_nintendoswitch2%E2%80%934.2.2025-youtube-0-12-27.jpeg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3716958-nintendodirect_nintendoswitch2\u20134.2.2025-youtube-0-12-27.jpeg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_tiny,scale_super,square_small,scale_small,scale_medium,square_mini,square_tiny,square_medium,square_avatar,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":""},"background":[]}' /&gt;
+Select Nintendo Switch and Nintendo Switch 2 multiplayer games are playable with only one person owning the game.</text>
+      <sha1>lzd1xqv4nh6w0y2d8bx04rrlni5e13p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Non Fighting Game modes in Fighting Games</title>
+    <ns>0</ns>
+    <id>95894</id>
+    <revision>
+      <id>588289</id>
+      <parentid>487852</parentid>
+      <timestamp>2026-02-08T07:17:26Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588289</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1915" sha1="80dsnk0myiaks21mdgvdp0ayzxfmrg9" xml:space="preserve">{{Concept
+| Name=Non-Fighting Game modes in Fighting Games
+| Guid=3015-13446
+| Deck=Some modes/features had non-fighting game elements in Fighting Games.
+| Characters=
+| Concepts=Concepts/Adventure_Mode_in_a_Fighting_Game,Concepts/Bonus_Game,Concepts/Fighting_Multiplayer_Modes_in_Non_Fighting_Games,Concepts/Unlockables
+| Franchises=
+| Games=Games/Chaos_Code_New_Sign_of_Catastrophe,Games/Ehrgeiz_God_Bless_the_Ring,Games/Fate_Unlimited_Codes,Games/Granblue_Fantasy_Versus_Rising,Games/Mortal_Kombat_Armageddon,Games/Mortal_Kombat_Deception,Games/Mortal_Kombat_Unchained,Games/Pocket_Bravery,Games/Power_Stone,Games/Power_Stone_Collection,Games/Project_Justice,Games/Rival_Schools_United_by_Fate,Games/Shiritsu_Justice_Gakuen_Nekketsu_Seishun_Nikki_2,Games/SNK_vs_Capcom_Match_of_the_Millennium,Games/Super_Smash_Bros,Games/Super_Smash_Bros_Brawl,Games/Super_Smash_Bros_for_Wii_U_Nintendo_3DS,Games/Super_Smash_Bros_Melee,Games/Tatsunoko_vs_Capcom_Cross_Generation_of_Heroes,Games/Tatsunoko_vs_Capcom_Ultimate_All_Stars,Games/Tekken_3,Games/Tekken_4,Games/Tekken_5,Games/Tekken_6_Bloodline_Rebellion,Games/Tekken_7_Fated_Retribution,Games/Tekken_8,Games/Tekken_Tag_Tournament,Games/Tekken_Tag_Tournament_2,Games/The_Last_Blade,Games/The_Last_Blade_2,Games/The_Last_Blade_Beyond_the_Destiny,Games/Toshinden_4,Games/Ultimate_Mortal_Kombat,Games/Ultra_Street_Fighter_II_The_Final_Challengers
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/36/361609/3718036-img_8124.jpeg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3718036-img_8124.jpeg","path":"36\/361609\/","mime":"image\/jpeg","sizes":"square_small,square_medium,square_mini,scale_super,scale_medium,square_avatar,scale_small,scale_avatar,square_tiny,scale_large,scale_tiny,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+Some modes/features had non-fighting game elements in Fighting Games.</text>
+      <sha1>80dsnk0myiaks21mdgvdp0ayzxfmrg9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/North Carolina Tar Heels</title>
+    <ns>0</ns>
+    <id>95632</id>
+    <revision>
+      <id>587711</id>
+      <parentid>487641</parentid>
+      <timestamp>2026-02-08T07:12:51Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587711</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="978" sha1="e25t65ok85n8n1guh3tv9mgwprapsr4" xml:space="preserve">{{Concept
+| Name=North Carolina Tar Heels
+| Guid=3015-13179
+| Deck=The Tar Heels are the University of North Carolina's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Chapel_Hill,Locations/North_Carolina,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601778-9178460999-1200p.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601778-9178460999-1200p.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_small,scale_super,square_tiny,square_medium,scale_tiny,scale_medium,scale_small,square_avatar,square_mini,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+The Tar Heels are the University of North Carolina's athletics teams.</text>
+      <sha1>e25t65ok85n8n1guh3tv9mgwprapsr4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/North Texas Mean Green</title>
+    <ns>0</ns>
+    <id>95633</id>
+    <revision>
+      <id>587712</id>
+      <parentid>487642</parentid>
+      <timestamp>2026-02-08T07:12:52Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587712</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="900" sha1="hwqdypzg3tmurv0k62v5fw8w95b7g8t" xml:space="preserve">{{Concept
+| Name=North Texas Mean Green
+| Guid=3015-13180
+| Deck=The Mean Green are the University of North Texas' athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Denton,Locations/Texas,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601779-4423849963-North.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601779-4423849963-North.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_avatar,square_small,square_medium,scale_super,scale_small,square_tiny,scale_medium,scale_avatar,square_mini,scale_tiny,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+The Mean Green are the University of North Texas' athletics teams.</text>
+      <sha1>hwqdypzg3tmurv0k62v5fw8w95b7g8t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Northern Illinois Huskies</title>
+    <ns>0</ns>
+    <id>95634</id>
+    <revision>
+      <id>587715</id>
+      <parentid>487643</parentid>
+      <timestamp>2026-02-08T07:12:52Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587715</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="902" sha1="4xk2shb0aylyz3d0uei4pe4382pkufu" xml:space="preserve">{{Concept
+| Name=Northern Illinois Huskies
+| Guid=3015-13181
+| Deck=The Huskies are Northern Illinois University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/DeKalb,Locations/Illinois,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601789-6965254361-images.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601789-6965254361-images.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_medium,square_small,scale_super,square_tiny,scale_small,scale_tiny,scale_medium,square_avatar,screen_kubrick,square_mini,screen_medium,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+The Huskies are Northern Illinois University's athletics teams.</text>
+      <sha1>4xk2shb0aylyz3d0uei4pe4382pkufu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Northwestern Wildcats</title>
+    <ns>0</ns>
+    <id>95635</id>
+    <revision>
+      <id>587717</id>
+      <parentid>487644</parentid>
+      <timestamp>2026-02-08T07:12:53Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587717</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="941" sha1="eltetkhz5dkd30id6805l219mcbpmq4" xml:space="preserve">{{Concept
+| Name=Northwestern Wildcats
+| Guid=3015-13182
+| Deck=The Wildcats are Northwestern University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Basketball_10,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Evanston,Locations/Illinois,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601793-2504038308-latest.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601793-2504038308-latest.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_medium,square_medium,scale_tiny,scale_super,square_tiny,scale_small,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;
+The Wildcats are Northwestern University's athletics teams.</text>
+      <sha1>eltetkhz5dkd30id6805l219mcbpmq4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Notre Dame Fighting Irish</title>
+    <ns>0</ns>
+    <id>95636</id>
+    <revision>
+      <id>587723</id>
+      <parentid>487645</parentid>
+      <timestamp>2026-02-08T07:12:55Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587723</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1017" sha1="0msz6xx6qeflggdf62w8fnova9u84fv" xml:space="preserve">{{Concept
+| Name=Notre Dame Fighting Irish
+| Guid=3015-13183
+| Deck=The Fighting Irish are the University of Notre Dame's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/MVP_07_NCAA_Baseball,Games/NCAA_Basketball_10,Games/NCAA_Football_09,Games/NCAA_Football_14,Games/NCAA_Football_2002
+| Locations=Locations/Indiana,Locations/South_Bend,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601796-5255862061-images.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601796-5255862061-images.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_small,square_tiny,square_avatar,square_medium,square_small,scale_medium,scale_super,scale_tiny,scale_avatar,square_mini,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Fighting Irish are the University of Notre Dame's athletics teams.</text>
+      <sha1>0msz6xx6qeflggdf62w8fnova9u84fv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Obstructive NPC</title>
+    <ns>0</ns>
+    <id>96059</id>
+    <revision>
+      <id>588617</id>
+      <parentid>487987</parentid>
+      <timestamp>2026-02-08T07:20:04Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588617</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1215" sha1="3pbinksi7vt2vtdye2hmlq5wj56ne1o" xml:space="preserve">{{Concept
+| Name=Obstructive NPC
+| Guid=3015-13620
+| Aliases=NPCs Blocking the Path
+| Deck=An element of bad game design sometimes found in old RPGs where characters in densely populated city locations end up accidentally blocking the protagonist's path.
+| Characters=Characters/Fawkes
+| Concepts=Concepts/Aberrant_A_I_Behaviour,Concepts/Glitch,Concepts/Non_Player_Character
+| Franchises=
+| Games=Games/Fallout_3,Games/Final_Fantasy,Games/Mega_Man_Star_Force,Games/Sword_of_Vermilion,Games/Ultima_III_Exodus
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3793412-swordofvermilion-npcsblockingthepath.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3793412-swordofvermilion-npcsblockingthepath.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":"Sword Of Vermilion - NPCs Blocking the Path"},"background":[]}' /&gt;
+An element of bad game design sometimes found in old RPGs where characters in densely populated city locations end up accidentally blocking the protagonist's path.</text>
+      <sha1>3pbinksi7vt2vtdye2hmlq5wj56ne1o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Ogerpon</title>
+    <ns>0</ns>
+    <id>96029</id>
+    <revision>
+      <id>588548</id>
+      <parentid>487960</parentid>
+      <timestamp>2026-02-08T07:19:33Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588548</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="622" sha1="qbvwn3f0780f3drigbdsw9l2gcalkrk" xml:space="preserve">{{Concept
+| Name=Ogerpon
+| Guid=3015-13586
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Cafe_Mix,Games/Pokemon_Scarlet_Violet,Games/Super_Smash_Bros_Ultimate
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777911-1017ogerpon.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777911-1017ogerpon.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_super,scale_small,square_tiny,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>qbvwn3f0780f3drigbdsw9l2gcalkrk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Ohio Bobcats</title>
+    <ns>0</ns>
+    <id>95637</id>
+    <revision>
+      <id>587725</id>
+      <parentid>487646</parentid>
+      <timestamp>2026-02-08T07:12:56Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587725</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="839" sha1="sr3pbfkrcyx2n2hh1b3uplfmcnl87j3" xml:space="preserve">{{Concept
+| Name=Ohio Bobcats
+| Guid=3015-13184
+| Deck=The Bobcats are Ohio University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/NCAA_Football_2002
+| Locations=Locations/Athens_8247,Locations/Ohio,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601800-2107915220-640px.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601800-2107915220-640px.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_medium,square_avatar,square_medium,square_small,square_tiny,scale_small,scale_super,scale_tiny,square_mini,scale_avatar,screen_kubrick,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+The Bobcats are Ohio University's athletics teams.</text>
+      <sha1>sr3pbfkrcyx2n2hh1b3uplfmcnl87j3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Ohio State Buckeyes</title>
+    <ns>0</ns>
+    <id>95638</id>
+    <revision>
+      <id>587726</id>
+      <parentid>487647</parentid>
+      <timestamp>2026-02-08T07:12:57Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587726</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="938" sha1="qzcx8f3xy55j0sohuo1h89bvaetwas6" xml:space="preserve">{{Concept
+| Name=Ohio State Buckeyes
+| Guid=3015-13185
+| Deck=The Buckeyes are The Ohio State University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Basketball_10,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Columbus,Locations/Ohio,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3601802-0108287446-images.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3601802-0108287446-images.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_medium,square_small,square_avatar,scale_small,scale_super,scale_medium,square_tiny,scale_tiny,scale_large,scale_avatar,square_mini,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Buckeyes are The Ohio State University's athletics teams.</text>
+      <sha1>qzcx8f3xy55j0sohuo1h89bvaetwas6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Oinkologne</title>
+    <ns>0</ns>
+    <id>95961</id>
+    <revision>
+      <id>588390</id>
+      <parentid>487892</parentid>
+      <timestamp>2026-02-08T07:18:18Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588390</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="593" sha1="dg7uxwsdnqoh38sgzmtu700tamuzbxb" xml:space="preserve">{{Concept
+| Name=Oinkologne
+| Guid=3015-13518
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Go,Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777826-0916oinkologne.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777826-0916oinkologne.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,scale_small,square_tiny,scale_super,square_mini,screen_medium,screen_kubrick,scale_large,scale_avatar,square_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>dg7uxwsdnqoh38sgzmtu700tamuzbxb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Okidogi</title>
+    <ns>0</ns>
+    <id>96026</id>
+    <revision>
+      <id>588539</id>
+      <parentid>487957</parentid>
+      <timestamp>2026-02-08T07:19:29Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588539</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="581" sha1="sx9t8xolvyxzq5wq7ly1slfem5g5lf0" xml:space="preserve">{{Concept
+| Name=Okidogi
+| Guid=3015-13583
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777908-1280px-1014okidogi.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777908-1280px-1014okidogi.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,scale_medium,scale_super,square_tiny,square_medium,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_avatar,scale_large","caption":null},"background":[]}' /&gt;</text>
+      <sha1>sx9t8xolvyxzq5wq7ly1slfem5g5lf0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Oklahoma Sooners</title>
+    <ns>0</ns>
+    <id>95639</id>
+    <revision>
+      <id>587728</id>
+      <parentid>487648</parentid>
+      <timestamp>2026-02-08T07:12:57Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587728</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1020" sha1="5uon3un6h0j5lqzxcwr1lzx6jtguzzx" xml:space="preserve">{{Concept
+| Name=Oklahoma Sooners
+| Guid=3015-13186
+| Deck=The Sooners are Oklahoma University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Basketball_10,Games/NCAA_Football_2002
+| Locations=Locations/Norman,Locations/Oklahoma,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3602149-5230357380-cQe-nIM7dcTUmgFzRl2hBKbBIBHRzjwgc8NTml84IcG7GOmXjy0SmJbwLoHnBELW3w.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3602149-5230357380-cQe-nIM7dcTUmgFzRl2hBKbBIBHRzjwgc8NTml84IcG7GOmXjy0SmJbwLoHnBELW3w.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_medium,square_avatar,square_small,square_tiny,scale_medium,scale_super,scale_small,square_mini,scale_tiny,screen_kubrick,scale_avatar,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+The Sooners are Oklahoma University's athletics teams.</text>
+      <sha1>5uon3un6h0j5lqzxcwr1lzx6jtguzzx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Oklahoma State Cowboys</title>
+    <ns>0</ns>
+    <id>95640</id>
+    <revision>
+      <id>587732</id>
+      <parentid>487649</parentid>
+      <timestamp>2026-02-08T07:13:00Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587732</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="962" sha1="5d615m4kgu9bxhtcrp7ns2e1hgrzoqm" xml:space="preserve">{{Concept
+| Name=Oklahoma State Cowboys
+| Guid=3015-13187
+| Deck=The Cowboys are Oklahoma State University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/MVP_06_NCAA_Baseball,Games/NCAA_Basketball_10,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Oklahoma,Locations/Stillwater,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3602150-6317320166-i.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3602150-6317320166-i.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_super,square_avatar,square_medium,square_small,scale_medium,square_tiny,scale_small,scale_large,scale_tiny,screen_medium,square_mini,scale_avatar,screen_kubrick","caption":null},"background":[]}' /&gt;
+The Cowboys are Oklahoma State University's athletics teams.</text>
+      <sha1>5d615m4kgu9bxhtcrp7ns2e1hgrzoqm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Old Dominion Monarchs</title>
+    <ns>0</ns>
+    <id>95641</id>
+    <revision>
+      <id>587733</id>
+      <parentid>487650</parentid>
+      <timestamp>2026-02-08T07:13:00Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587733</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="875" sha1="frqn7tywqfjxvt2k0i81711nwqlzai5" xml:space="preserve">{{Concept
+| Name=Old Dominion Monarchs
+| Guid=3015-13188
+| Deck=The Monarchs are Old Dominion University's athletics team.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26
+| Locations=Locations/Norfolk,Locations/Southern_United_States,Locations/The_United_States_of_America,Locations/Virginia
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3602153-2896256779-images.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3602153-2896256779-images.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"scale_tiny,scale_super,square_tiny,square_medium,scale_small,scale_medium,square_small,square_avatar,square_mini,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+The Monarchs are Old Dominion University's athletics team.</text>
+      <sha1>frqn7tywqfjxvt2k0i81711nwqlzai5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Ole Miss Rebels</title>
+    <ns>0</ns>
+    <id>95642</id>
+    <revision>
+      <id>999828</id>
+      <parentid>587734</parentid>
+      <timestamp>2026-07-19T08:19:33Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>999828</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1107" sha1="aogn3qxezv19j3rl1covzbdmbjwflmj" xml:space="preserve">{{Concept
+| Name=Ole Miss Rebels
+| Guid=3015-13189
+| Deck=The Rebels are the University of Mississippi's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/MVP_07_NCAA_Baseball,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Mississippi,Locations/Oxford_8251,Locations/Southern_United_States,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3602154-6446070013-AIdro_mDhd_3ZhYqSe-LiF0c60nZ0sQb2vwpp7jYRXqP48ASgUU%3Ds900-c-k-c0x00ffffff-no-rj.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3602154-6446070013-AIdro_mDhd_3ZhYqSe-LiF0c60nZ0sQb2vwpp7jYRXqP48ASgUU=s900-c-k-c0x00ffffff-no-rj.jpg","path":"0\/1992\/","mime":"image\/jpeg","sizes":"square_small,scale_small,scale_super,square_tiny,square_medium,scale_medium,square_avatar,square_mini,scale_tiny,screen_kubrick,scale_avatar,screen_medium,scale_large","caption":null},"background":[]}' /&gt;
+The Rebels are the University of Mississippi's athletics teams.</text>
+      <sha1>aogn3qxezv19j3rl1covzbdmbjwflmj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Oodle Texture</title>
+    <ns>0</ns>
+    <id>95825</id>
+    <revision>
+      <id>588162</id>
+      <parentid>487805</parentid>
+      <timestamp>2026-02-08T07:16:28Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588162</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="701" sha1="fi7e910u7zjdmuz74j0ivp9ph2qzqva" xml:space="preserve">{{Concept
+| Name=Oodle Texture
+| Guid=3015-13377
+| Deck=Texture compression software owned by Epic Games.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/59/594908/3672912-9653375543-image.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3672912-9653375543-image.png","path":"59\/594908\/","mime":"image\/png","sizes":"square_small,scale_small,square_medium,scale_medium,square_mini,scale_super,square_tiny,scale_avatar,screen_medium,scale_large,scale_tiny,screen_kubrick,square_avatar","caption":null},"background":[]}' /&gt;
+Texture compression software owned by Epic Games.</text>
+      <sha1>fi7e910u7zjdmuz74j0ivp9ph2qzqva</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Oregon Ducks</title>
+    <ns>0</ns>
+    <id>95643</id>
+    <revision>
+      <id>587738</id>
+      <parentid>487652</parentid>
+      <timestamp>2026-02-08T07:13:04Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587738</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="898" sha1="288eaa9utakerhqkxlybnoaq6fgty65" xml:space="preserve">{{Concept
+| Name=Oregon Ducks
+| Guid=3015-13190
+| Deck=The Ducks are the University of Oregon's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Eugene,Locations/Oregon,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3602155-8752276965-images.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3602155-8752276965-images.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_small,scale_super,scale_medium,scale_small,square_medium,square_tiny,square_avatar,square_mini,scale_tiny,scale_avatar,screen_medium,scale_large,screen_kubrick","caption":null},"background":[]}' /&gt;
+The Ducks are the University of Oregon's athletics teams.</text>
+      <sha1>288eaa9utakerhqkxlybnoaq6fgty65</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Oregon State Beavers</title>
+    <ns>0</ns>
+    <id>95644</id>
+    <revision>
+      <id>587739</id>
+      <parentid>487653</parentid>
+      <timestamp>2026-02-08T07:13:04Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587739</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="900" sha1="n3vbx3dgy7e6y7n0n0277vtexbw8gmm" xml:space="preserve">{{Concept
+| Name=Oregon State Beavers
+| Guid=3015-13191
+| Deck=The Beavers are Oregon State University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Corvalis,Locations/Oregon,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3604920-9446379094-i.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3604920-9446379094-i.png","path":"0\/1992\/","mime":"image\/png","sizes":"scale_super,square_medium,square_avatar,square_small,square_mini,scale_medium,square_tiny,scale_tiny,scale_small,scale_large,scale_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+The Beavers are Oregon State University's athletics teams.</text>
+      <sha1>n3vbx3dgy7e6y7n0n0277vtexbw8gmm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Orthworm</title>
+    <ns>0</ns>
+    <id>95986</id>
+    <revision>
+      <id>588449</id>
+      <parentid>487917</parentid>
+      <timestamp>2026-02-08T07:18:47Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588449</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="570" sha1="rwutlqr1ieqy24n9qc8gbm9z97tzsq0" xml:space="preserve">{{Concept
+| Name=Orthworm
+| Guid=3015-13543
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777857-0968orthworm.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777857-0968orthworm.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_medium,scale_small,square_tiny,square_mini,scale_large,scale_avatar,square_avatar,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;</text>
+      <sha1>rwutlqr1ieqy24n9qc8gbm9z97tzsq0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/PS5 Pro Enhanced</title>
+    <ns>0</ns>
+    <id>95775</id>
+    <revision>
+      <id>588084</id>
+      <parentid>487775</parentid>
+      <timestamp>2026-02-08T07:15:47Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588084</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3522" sha1="0icwi3efwnhntod8cfhcz50nci5ir6v" xml:space="preserve">{{Concept
+| Name=PS5 Pro Enhanced
+| Guid=3015-13326
+| Deck=Select games may have enhanced visuals, frame rate, or increases in resolution. 'PS5 Pro Enhanced' features vary by game.
+| Characters=
+| Concepts=Concepts/60_FPS_on_Console,Concepts/PS4_Pro_Enhanced,Concepts/Xbox_One_X_Enhanced
+| Franchises=
+| Games=Games/Alan_Wake_II,Games/Albatroz,Games/Apex_Legends,Games/Arma_Reforger,Games/Asphalt_9_Legends,Games/Assassins_Creed_Mirage,Games/Assassins_Creed_Shadows,Games/Avatar_Frontiers_of_Pandora,Games/Baldurs_Gate_3,Games/Black_Myth_Wukong,Games/Call_of_Duty_Black_Ops_6,Games/Clair_Obscur_Expedition_33,Games/Dead_Island_2,Games/Dead_Rising_Deluxe_Remaster,Games/Death_Stranding_2_On_the_Beach,Games/Demons_Souls_2020,Games/Diablo_IV,Games/Doom_The_Dark_Ages,Games/Dragon_Age_The_Veilguard,Games/Dragons_Dogma_II,Games/Dying_Light_2_Stay_Human,Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/EA_Sports_FC_25,Games/EA_Sports_UFC_5,Games/Empire_Of_The_Ants,Games/Enlisted,Games/F1_24,Games/Farming_Simulator_25,Games/Final_Fantasy_VII_Rebirth,Games/Fortnite,Games/Forza_Horizon_5,Games/Ghost_of_Yotei,Games/God_of_War_Ragnarok,Games/Gran_Turismo_7,Games/Hell_is_Us,Games/Hitman_3,Games/Hogwarts_Legacy,Games/Horizon_Forbidden_West,Games/Horizon_Zero_Dawn,Games/Hunt_Showdown_1896,Games/Indiana_Jones_and_the_Great_Circle,Games/Isonzo,Games/Kayak_VR_Mirage,Games/Killing_Floor_III,Games/Kingdom_Come_Deliverance_II,Games/Lies_of_P,Games/Like_a_Dragon_Pirate_Yakuza_in_Hawaii,Games/Lords_of_the_Fallen_2023,Games/Lost_Soul_Aside,Games/Madden_NFL_25_2024,Games/Madden_NFL_26,Games/Marvel_Rivals,Games/Marvels_Spider_Man,Games/Marvels_Spider_Man_2,Games/Marvels_Spider_Man_Miles_Morales,Games/MechWarrior_5_Clans,Games/Metal_Gear_Solid_D_Snake_Eater,Games/Monster_Hunter_Wilds,Games/Naraka_Bladepoint,Games/NBA_2K25,Games/Ninja_Gaiden_II_Black,Games/No_Mans_Sky,Games/Paladins_Passage,Games/Palworld,Games/Party_Animals,Games/Path_of_Exile_2,Games/Pathfinder_Wrath_of_the_Righteous,Games/Planet_Coaster_2,Games/Professional_Baseball_Spirits_2024_2025,Games/Ratchet_And_Clank_Rift_Apart,Games/Redacted,Games/Resident_Evil_4_2023,Games/Resident_Evil_Village,Games/Rise_of_the_Ronin,Games/Rogue_Flight,Games/S_T_A_L_K_E_R_2_Heart_of_Chornobyl,Games/Silent_Hill_2_2024,Games/Skull_And_Bones,Games/Slitterhead,Games/Split_Fiction,Games/Star_Wars_Jedi_Survivor,Games/Star_Wars_Outlaws,Games/Stellar_Blade,Games/Test_Drive_Unlimited_Solar_Crown,Games/The_Callisto_Protocol,Games/The_Crew_Motorfest,Games/The_Elder_Scrolls_IV_Oblivion_Remastered,Games/The_Finals,Games/The_First_Berserker_Khazan,Games/The_First_Descendant,Games/The_Last_of_Us_Part_I,Games/The_Last_of_Us_Part_II,Games/UFL,Games/Undisputed,Games/Until_Dawn_2024,Games/War_Thunder,Games/Warframe,Games/Warhammer_40_000_Darktide,Games/Warhammer_40_000_Rogue_Trader,Games/Warhammer_40_000_Space_Marine_II,Games/World_of_Warships_Legends,Games/Zenless_Zone_Zero
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/33/338034/3646150-ps5proenhanced.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3646150-ps5proenhanced.png","path":"33\/338034\/","mime":"image\/png","sizes":"square_small,scale_super,scale_medium,square_avatar,square_medium,scale_small,square_tiny,square_mini,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+Select games may have enhanced visuals, frame rate, or increases in resolution. 'PS5 Pro Enhanced' features vary by game.</text>
+      <sha1>0icwi3efwnhntod8cfhcz50nci5ir6v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Pachycephalosaurus</title>
+    <ns>0</ns>
+    <id>96054</id>
+    <revision>
+      <id>999874</id>
+      <parentid>742189</parentid>
+      <timestamp>2026-07-19T08:26:27Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>999874</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1313" sha1="l4yebdr8yexsuwc2g5k4pu59sgltbcg" xml:space="preserve">{{Concept
+| Name=Pachycephalosaurus
+| Guid=3015-13615
+| Deck=A species of herbivorous dinosaur known for it's dome-like skull that could be used as a battering ram.
+| Characters=
+| Concepts=Concepts/Dinosaur,Concepts/Headbutt
+| Franchises=
+| Games=Games/Jurassic_Park,Games/Jurassic_Park_Builder,Games/Jurassic_Park_III_Park_Builder,Games/Jurassic_Park_III_The_DNA_Factor,Games/Jurassic_Park_Operation_Genesis,Games/Jurassic_World_Alive,Games/Jurassic_World_Evolution,Games/Jurassic_World_Evolution_2,Games/Jurassic_World_Evolution_3,Games/Jurassic_World_The_Game,Games/LEGO_Jurassic_World,Games/The_Lost_World_Jurassic_Park_1997,Games/The_Lost_World_Jurassic_Park_4125,Games/Warpath_Jurassic_Park
+| Locations=Locations/Isla_Sorna,Locations/North_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3793665-pachycephalosaurus.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3793665-pachycephalosaurus.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_small,scale_super,square_tiny,square_medium,scale_small,scale_medium,square_avatar,square_mini,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A species of herbivorous dinosaur known for it's dome-like skull that could be used as a battering ram.</text>
+      <sha1>l4yebdr8yexsuwc2g5k4pu59sgltbcg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Painter</title>
+    <ns>0</ns>
+    <id>95769</id>
+    <revision>
+      <id>588073</id>
+      <parentid>487771</parentid>
+      <timestamp>2026-02-08T07:15:42Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588073</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1302" sha1="qflg38pm1y5dzr9zr4i24vbvkyqxrbq" xml:space="preserve">{{Concept
+| Name=Painter
+| Guid=3015-13320
+| Deck=A character who draws pictures or comics
+| Characters=Characters/Sketch_Turner,Characters/Vincent_van_Gogh
+| Concepts=Concepts/Coloring,Concepts/Drawing,Concepts/Enemy_from_a_Painting,Concepts/Entering_World_In_A_Painting,Concepts/Hand_Drawn_Graphics,Concepts/Mangaka
+| Franchises=
+| Games=Games/Comix_Zone,Games/CSI_Crime_Scene_Investigation_3_Dimensions_of_Murder,Games/Omori,Games/Still_Life
+| Locations=
+| Objects=Objects/Admiral_Robert_Roddam,Objects/Celestial_Brush,Objects/Comic_Book,Objects/Death_on_the_Pale_Horse,Objects/Marker,Objects/Paint,Objects/Paint_Brush,Objects/Painting_Knife,Objects/Paintings,Objects/Paper,Objects/Pencil,Objects/Portrait,Objects/Portrait_of_an_Actor,Objects/Self_Portrait_Giuseppe_Maria_Crespi,Objects/The_Fire_of_the_Powder_Magazine_of_Antwerp
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3645535-alp2165.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3645535-alp2165.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"scale_super,scale_medium,square_medium,square_small,square_avatar,scale_small,square_tiny,square_mini,scale_avatar,screen_medium,screen_kubrick,scale_large","caption":"Comix Zone"},"background":[]}' /&gt;
+A character who draws pictures or comics</text>
+      <sha1>qflg38pm1y5dzr9zr4i24vbvkyqxrbq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Palafin 13541</title>
+    <ns>0</ns>
+    <id>95984</id>
+    <revision>
+      <id>588445</id>
+      <parentid>487915</parentid>
+      <timestamp>2026-02-08T07:18:45Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588445</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="563" sha1="9lipsk9tao6r9jssfxmd35bm7rc3lrb" xml:space="preserve">{{Concept
+| Name=Palafin
+| Guid=3015-13541
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777855-1280px-0964palafin-hero.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777855-1280px-0964palafin-hero.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,square_medium,scale_medium,square_mini,scale_small,scale_super,square_tiny,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;</text>
+      <sha1>9lipsk9tao6r9jssfxmd35bm7rc3lrb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Palindrome Title</title>
+    <ns>0</ns>
+    <id>95708</id>
+    <revision>
+      <id>587907</id>
+      <parentid>487716</parentid>
+      <timestamp>2026-02-08T07:14:23Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587907</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="725" sha1="nxz80kyuldrdimzwaq74n73ayqoqr61" xml:space="preserve">{{Concept
+| Name=Palindrome Title
+| Guid=3015-13256
+| Deck=Games which names are read the same both normally and backwards.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/B_O_B,Games/OLLLO
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/59/594908/3617102-0561619237-35562.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3617102-0561619237-35562.jpg","path":"59\/594908\/","mime":"image\/jpeg","sizes":"square_medium,square_small,scale_medium,scale_small,scale_super,square_tiny,square_avatar,screen_kubrick,scale_large,scale_avatar,square_mini,screen_medium","caption":null},"background":[]}' /&gt;
+Note: Games titles which not all words are palindromes does not count.</text>
+      <sha1>nxz80kyuldrdimzwaq74n73ayqoqr61</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Pawmo</title>
+    <ns>0</ns>
+    <id>95945</id>
+    <revision>
+      <id>588358</id>
+      <parentid>487876</parentid>
+      <timestamp>2026-02-08T07:18:02Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588358</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="699" sha1="lwyncy8fjveswt0tdh3or6nqy1ppmjz" xml:space="preserve">{{Concept
+| Name=Pawmo
+| Guid=3015-13502
+| Deck=First evolution of Pawmi, Fighting/Electric type
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Friends,Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777801-0922pawmo.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777801-0922pawmo.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,scale_small,scale_super,scale_tiny,scale_medium,square_medium,square_mini,square_tiny,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+First evolution of Pawmi, Fighting/Electric type</text>
+      <sha1>lwyncy8fjveswt0tdh3or6nqy1ppmjz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Pawmot</title>
+    <ns>0</ns>
+    <id>95944</id>
+    <revision>
+      <id>588354</id>
+      <parentid>487875</parentid>
+      <timestamp>2026-02-08T07:18:00Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588354</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="718" sha1="279udf7xysteyoxatbf7t92tt4u8usq" xml:space="preserve">{{Concept
+| Name=Pawmot
+| Guid=3015-13501
+| Deck=Final evolution of Pawmi, Fighting/Electric type
+| Characters=
+| Concepts=Concepts/Pokemon
+| Franchises=
+| Games=Games/Pokemon_Friends,Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777800-0923pawmot.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777800-0923pawmot.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,scale_super,scale_tiny,scale_small,scale_medium,square_tiny,square_medium,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+Final evolution of Pawmi, Fighting/Electric type</text>
+      <sha1>279udf7xysteyoxatbf7t92tt4u8usq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Pecharunt</title>
+    <ns>0</ns>
+    <id>96035</id>
+    <revision>
+      <id>588562</id>
+      <parentid>487966</parentid>
+      <timestamp>2026-02-08T07:19:38Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588562</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="587" sha1="9mfs0o4mujg9n4o3f5l5b4twaze39v5" xml:space="preserve">{{Concept
+| Name=Pecharunt
+| Guid=3015-13592
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Pokemon_Scarlet_Violet
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/13/135472/3777917-1280px-1025pecharunt.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3777917-1280px-1025pecharunt.png","path":"13\/135472\/","mime":"image\/png","sizes":"square_small,scale_medium,scale_small,scale_super,square_tiny,square_medium,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;</text>
+      <sha1>9mfs0o4mujg9n4o3f5l5b4twaze39v5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Peeking Through the Cracks</title>
+    <ns>0</ns>
+    <id>95762</id>
+    <revision>
+      <id>999887</id>
+      <parentid>588058</parentid>
+      <timestamp>2026-07-19T08:27:39Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>999887</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1592" sha1="luxtylvic1z8oz63fygvvudy17imx0p" xml:space="preserve">{{Concept
+| Name=Peeking Through the Cracks
+| Guid=3015-13313
+| Aliases=Voyeurism,Peephole
+| Deck=Gameplay or storyline ability to look into neighboring rooms through unintended openings: keyholes, cracks in walls, holes in fences, ajar doors, in order to learn enemy location, gather information, or voyeurism
+| Characters=Characters/Eileen_Galvin,Characters/Henry_Townshend
+| Concepts=Concepts/Eavesdropping,Concepts/Eroge,Concepts/Looking_through_the_Door_Peephole,Concepts/Sexualized_Men,Concepts/Sexualized_Women,Concepts/Spies,Concepts/Stealth
+| Franchises=
+| Games=Games/Calling,Games/Covert_Ops_Nuclear_Dawn,Games/Haunting_Ground,Games/Omori,Games/Silent_Hill_4_The_Room
+| Locations=Locations/Bedroom,Locations/Living_Room,Locations/Motel
+| Objects=Objects/Panties,Objects/Underwear
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/173/1734046/3642618-%D0%91%D1%83%D1%84%D0%B5%D1%80%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B0_10-26-2024_01.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3642618-\u0411\u0443\u0444\u0435\u0440\u043e\u0431\u043c\u0435\u043d\u0430_10-26-2024_01.jpg","path":"173\/1734046\/","mime":"image\/jpeg","sizes":"square_mini,square_medium,square_small,scale_small,scale_super,scale_medium,square_avatar,square_tiny,scale_tiny,scale_avatar,scale_large,screen_medium,screen_kubrick","caption":"Silent Hill 4"},"background":[]}' /&gt;
+Gameplay or storyline ability to look into neighboring rooms through unintended openings: keyholes, cracks in walls, holes in fences, ajar doors, in order to learn enemy location, gather information, or voyeurism</text>
+      <sha1>luxtylvic1z8oz63fygvvudy17imx0p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Pegasusmon</title>
+    <ns>0</ns>
+    <id>96064</id>
+    <revision>
+      <id>588624</id>
+      <parentid>487990</parentid>
+      <timestamp>2026-02-08T07:20:08Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588624</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1111" sha1="pzbnhwrdggzd9smpx9gmac1x1t98p6w" xml:space="preserve">{{Concept
+| Name=Pegasusmon
+| Guid=3015-13625
+| Deck=Pegasusmon is an Armor level Digimon usually associated with Patamon.
+| Characters=Characters/T_K_Takaishi
+| Concepts=Concepts/Digimon,Concepts/Digivolution,Concepts/MagnaAngemon,Concepts/Patamon,Concepts/Pegasus,Concepts/Salamon
+| Franchises=
+| Games=Games/Digimon_Battle,Games/Digimon_Digital_Card_Battle,Games/Digimon_Heroes,Games/Digimon_Masters,Games/Digimon_Story_Time_Stranger,Games/Digimon_Tamers_Brave_Tamer,Games/Digimon_Tamers_Digimon_Medley,Games/Digimon_World_Data_Squad
+| Locations=Locations/Cyberspace
+| Objects=Objects/Armor
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/16/164924/3814479-0276730270-latest.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3814479-0276730270-latest.jpg","path":"16\/164924\/","mime":"image\/jpeg","sizes":"scale_super,scale_small,scale_medium,square_tiny,square_medium,square_small,scale_tiny,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;
+Pegasusmon is an Armor level Digimon usually associated with Patamon.</text>
+      <sha1>pzbnhwrdggzd9smpx9gmac1x1t98p6w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Penn State Nittany Lions</title>
+    <ns>0</ns>
+    <id>95645</id>
+    <revision>
+      <id>587741</id>
+      <parentid>487654</parentid>
+      <timestamp>2026-02-08T07:13:05Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>587741</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="974" sha1="dype0g1g612pl2he1jvhjwxzk78dbi5" xml:space="preserve">{{Concept
+| Name=Penn State Nittany Lions
+| Guid=3015-13192
+| Deck=The Nittany Lions are Pennsylvania State University's athletics teams.
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/EA_Sports_College_Football_25,Games/EA_Sports_College_Football_26,Games/March_Madness_98,Games/NCAA_Basketball_10,Games/NCAA_Football_09,Games/NCAA_Football_2002
+| Locations=Locations/Pennsylvania,Locations/State_College,Locations/The_United_States_of_America
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3604921-1926167158-images.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3604921-1926167158-images.png","path":"0\/1992\/","mime":"image\/png","sizes":"square_small,square_medium,square_avatar,square_tiny,scale_super,scale_tiny,scale_medium,scale_small,scale_avatar,square_mini,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+The Nittany Lions are Pennsylvania State University's athletics teams.</text>
+      <sha1>dype0g1g612pl2he1jvhjwxzk78dbi5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Peugeot</title>
+    <ns>0</ns>
+    <id>95772</id>
+    <revision>
+      <id>95906</id>
+      <timestamp>2025-12-08T07:22:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>95906</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="372" sha1="2b8qixfd5n840m3wlvppvcj9kayzorx" xml:space="preserve">{{Concept
+| Name=Peugeot
+| Guid=3015-13323
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Michelin_Rally_Masters_Race_of_Champions,Games/WRC_II_Extreme
+| Locations=
+| Objects=Objects/Peugeot_106,Objects/Peugeot_106_MAXI,Objects/Peugeot_206,Objects/Peugeot_306,Objects/Peugeot_306_MAXI
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>2b8qixfd5n840m3wlvppvcj9kayzorx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Concepts/Physical Release With Separated Apps</title>
+    <ns>0</ns>
+    <id>95813</id>
+    <revision>
+      <id>588128</id>
+      <parentid>487793</parentid>
+      <timestamp>2026-02-08T07:16:11Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>588128</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1882" sha1="4rdofq13arhbk2ww8lh90qcyrbphkeq" xml:space="preserve">{{Concept
+| Name=Physical Release With Separated Apps
+| Guid=3015-13364
+| Deck=Physical game compilations which the games are in separated apps.
+| Characters=
+| Concepts=Concepts/Downloadable_to_Retail
+| Franchises=
+| Games=Games/60_in_1_Game_Collection,Games/Double_Dragon_Collection,Games/Dragon_Quest_1_2_3_Collection,Games/Fighting_Edition,Games/Final_Fantasy_Pixel_Remaster_Collection,Games/Final_Fantasy_VII_Final_Fantasy_VIII_Remastered_Twin_Pack,Games/Holy_Potatoes_Compendium,Games/Horgihugh_with_Friends_Enryu_Seiken_Xiao_Mei,Games/Hyperdimension_Neptunia_Hypercollection,Games/Kemco_RPG_Omnibus,Games/Kemco_RPG_Selection_Vol_1,Games/Kemco_RPG_Selection_Vol_2,Games/Kemco_RPG_Selection_Vol_3,Games/Kemco_RPG_Selection_Vol_4,Games/Kemco_RPG_Selection_Vol_5,Games/Kemco_RPG_Selection_Vol_6,Games/Kemco_RPG_Selection_Vol_7,Games/Kemco_RPG_Selection_Vol_8,Games/Kemco_RPG_Selection_Vol_9,Games/Metro_Redux,Games/Naruto_Shippuden_Ultimate_Ninja_Storm_Collection,Games/One_Piece_Pirate_Warriors_One_Piece_Pirate_Warriors_2,Games/Pikmin_1_2,Games/Sonic_Mania_Team_Sonic_Racing_Double_Pack,Games/Super_Monkey_Ball_Banana_Blitz_HD_Sonic_Forces_Double_Pack,Games/The_Friends_of_Ringo_Ishikawa_Arrest_of_a_Stone_Buddha
+| Locations=
+| Objects=
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/59/594908/3660898-isdoubledragoncollectionworthit_firstimpressionandreview1-35screenshot.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3660898-isdoubledragoncollectionworthit_firstimpressionandreview1-35screenshot.png","path":"59\/594908\/","mime":"image\/png","sizes":"scale_super,square_small,square_medium,square_avatar,scale_medium,scale_small,square_mini,square_tiny,scale_large,scale_avatar,screen_medium,screen_kubrick,scale_tiny","caption":"Double Dragon Collection"},"background":[]}' /&gt;
+Physical game compilations which the games are in separated apps.</text>
+      <sha1>4rdofq13arhbk2ww8lh90qcyrbphkeq</sha1>
+    </revision>
+  </page>
+</mediawiki>

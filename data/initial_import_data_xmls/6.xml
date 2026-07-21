@@ -1,0 +1,1769 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Characters/Bones Quake</title>
+    <ns>0</ns>
+    <id>464544</id>
+    <revision>
+      <id>993598</id>
+      <parentid>739348</parentid>
+      <timestamp>2026-07-19T00:35:05Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>993598</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="965" sha1="7ztyz245zyf1ea0uerpcjhgel9dcej1" xml:space="preserve">{{Character
+| Name=Bones
+| Guid=3005-6791
+| Deck=This fearsome foe showcases the powers of the Vadrigar, for it has no true life of its own. But it begs the question: "Where do the gibs and blood come from?"
+| Gender=Non-Binary
+| Concepts=Concepts/Undead
+| Enemies=
+| Franchises=Franchises/Quake
+| Friends=
+| Games=Games/Quake_Arena_Arcade,Games/Quake_III_Arena,Games/Quake_Live
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/4432/591683-bones.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"591683-bones.jpg","path":"0\/4432\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,scale_small,square_mini,square_tiny,square_medium,scale_medium,screen_medium,scale_large,scale_avatar,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+This fearsome foe showcases the powers of the Vadrigar, for it has no true life of its own. But it begs the question: "Where do the gibs and blood come from?"</text>
+      <sha1>7ztyz245zyf1ea0uerpcjhgel9dcej1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Boomer 58577</title>
+    <ns>0</ns>
+    <id>57795</id>
+    <revision>
+      <id>722062</id>
+      <parentid>722061</parentid>
+      <timestamp>2026-02-14T19:41:04Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722062</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="680" sha1="7vxfek4s63xtmnszjyrrga0fqjv2bvi" xml:space="preserve">{{Character
+| Name=Boomer
+| Guid=3005-58577
+| Deck=A clone trooper sergeant of the 501st legion during the Clone Wars.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3805568-hq720.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3805568-hq720.jpg","path":"45\/456753\/","mime":"image\/jpeg","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_mini,square_avatar,scale_large,scale_avatar,screen_medium,screen_kubrick","caption":null},"background":[]}' /&gt;
+A clone trooper sergeant of the 501st legion during the Clone Wars.</text>
+      <sha1>7vxfek4s63xtmnszjyrrga0fqjv2bvi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Boss 58814</title>
+    <ns>0</ns>
+    <id>58031</id>
+    <revision>
+      <id>58148</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58148</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="569" sha1="9pj2y6c8z0jaeyk8ml189k6ablsr9s9" xml:space="preserve">{{Character
+| Name=Boss
+| Guid=3005-58814
+| Deck=The leader of the ABIS police squad in the Somnium Files series.
+| Concepts=Concepts/Police
+| Enemies=
+| Franchises=
+| Friends=Characters/Aiba_58812,Characters/Kaname_Date,Characters/Mizuki_Okiura,Characters/Pewter
+| Games=Games/AI_The_Somnium_Files,Games/AI_The_Somnium_Files_Nirvana_Initiative,Games/No_Sleep_for_Kaname_Date_From_AI_The_Somnium_File
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+The leader of the ABIS police squad in the Somnium Files series.</text>
+      <sha1>9pj2y6c8z0jaeyk8ml189k6ablsr9s9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Bristol Weller</title>
+    <ns>0</ns>
+    <id>57791</id>
+    <revision>
+      <id>738765</id>
+      <parentid>722054</parentid>
+      <timestamp>2026-02-26T23:45:45Z</timestamp>
+      <contributor>
+        <username>Frobie</username>
+        <id>300</id>
+      </contributor>
+      <comment>fix image</comment>
+      <origin>738765</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1969" sha1="r69lkcz7sb22t0bcys7skkph87ji495" xml:space="preserve">{{Character
+|Name=Bristol Weller
+|Guid=3005-58573
+|Image=https://www.giantbomb.com/a/uploads/original/36/361609/3805663-bristol_weller.png
+|Deck=The main antagonist of Groove on Fight. Bristol was born in a prominent family, he is a very intelligent, yet hypocritical man. He achieved a good social status at a young age and has received several awards for his charity activities, but he uses this to hide his true personality. He is really a heartless, ambitious man that is able to do anything to get what he wants.
+|Concepts=Concepts/Assist, Concepts/Demon, Concepts/Evil_Laugh, Concepts/Ki, Concepts/Male_Antagonist, Concepts/Rekka_Character, Concepts/Rushdown, Concepts/Sadism, Concepts/SNK_Boss_Syndrome, Concepts/Summoners, Concepts/Terrorist, Concepts/Villain, Concepts/Zoning_Character
+|Enemies=Characters/Chris_Wayne, Characters/Damian_Shade, Characters/Hizumi_Yukinoue, Characters/Larry_Light, Characters/Solis_R8000, Characters/Sujiroku_Tenjinbashi, Characters/Tane_Goketsu, Characters/Ume_Goketsu
+|Friends=Characters/Damian_Shade, Characters/Rudolph_Gartheimer
+|Games=Games/Groove_on_Fight_Gouketsuji_Ichizoku_3
+|Locations=Locations/England, Locations/United_Kingdom
+|Objects=Objects/Gloves, Objects/Gun, Objects/Suit_and_Tie, Objects/Sunglasses
+}}
+&lt;div id='imageData' data-json='{"infobox":{"file":"3805663-bristol_weller.png","path":"36\/361609\/","mime":"image\/png","sizes":"scale_medium,square_avatar,square_tiny,square_medium,square_small,scale_small,scale_super,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini,scale_tiny","caption":null},"background":[]}' /&gt;
+The main antagonist of Groove on Fight. Bristol was born in a prominent family, he is a very intelligent, yet hypocritical man. He achieved a good social status at a young age and has received several awards for his charity activities, but he uses this to hide his true personality. He is really a heartless, ambitious man that is able to do anything to get what he wants.</text>
+      <sha1>r69lkcz7sb22t0bcys7skkph87ji495</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Bubbles the Dolphin</title>
+    <ns>0</ns>
+    <id>57774</id>
+    <revision>
+      <id>722029</id>
+      <parentid>722026</parentid>
+      <timestamp>2026-02-14T19:40:55Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722029</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="799" sha1="tk2z8194j1roennfut8qqcfe15c8r6e" xml:space="preserve">{{Character
+| Name=Bubbles the Dolphin
+| Guid=3005-58556
+| Deck=A dolphin from The SpongeBob Movies: Sponge Out of the Water, which debuted in 2015.
+| Concepts=
+| Enemies=
+| Franchises=Franchises/SpongeBob_SquarePants
+| Friends=
+| Games=Games/SpongeBob_HeroPants
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/239/2391650/3803279-bubblesthedolphin.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3803279-bubblesthedolphin.png","path":"239\/2391650\/","mime":"image\/png","sizes":"scale_super,scale_medium,square_tiny,square_medium,square_small,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_avatar","caption":null},"background":[]}' /&gt;
+A dolphin from The SpongeBob Movies: Sponge Out of the Water, which debuted in 2015.</text>
+      <sha1>tk2z8194j1roennfut8qqcfe15c8r6e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Bulletproof</title>
+    <ns>0</ns>
+    <id>57837</id>
+    <revision>
+      <id>57954</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57954</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="45sup4705a9eo3pzlkclnjsm8biacnv" xml:space="preserve">{{Character
+| Name=Bulletproof
+| Guid=3005-58620
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Invincible_Vs
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>45sup4705a9eo3pzlkclnjsm8biacnv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Calamus</title>
+    <ns>0</ns>
+    <id>57724</id>
+    <revision>
+      <id>57840</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57840</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="219" sha1="ovfczoniqbz1uyplba4gqxp54w9yhct" xml:space="preserve">{{Character
+| Name=Calamus
+| Guid=3005-58506
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/OneShot
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ovfczoniqbz1uyplba4gqxp54w9yhct</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Captain 58534</title>
+    <ns>0</ns>
+    <id>57752</id>
+    <revision>
+      <id>721988</id>
+      <parentid>721987</parentid>
+      <timestamp>2026-02-14T19:40:42Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>721988</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="688" sha1="3mybkr7ztpohyvdn510r8l7frxs4cf7" xml:space="preserve">{{Character
+| Name=Captain
+| Guid=3005-58534
+| Deck=Main character and leader of the ACD task force.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Ananta
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/5/56742/3807393-full_0001_5ae9cd9d.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3807393-full_0001_5ae9cd9d.jpg","path":"5\/56742\/","mime":"image\/jpeg","sizes":"scale_small,scale_medium,scale_super,square_medium,square_small,scale_tiny,square_avatar,screen_medium,screen_kubrick,scale_large,square_mini,square_tiny,scale_avatar","caption":null},"background":[]}' /&gt;
+Main character and leader of the ACD task force.</text>
+      <sha1>3mybkr7ztpohyvdn510r8l7frxs4cf7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Captain Deakins</title>
+    <ns>0</ns>
+    <id>58054</id>
+    <revision>
+      <id>58171</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58171</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="249" sha1="mq0pigors9b200e7su9pnhj75x2eqii" xml:space="preserve">{{Character
+| Name=Captain Deakins
+| Guid=3005-58837
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Law_And_Order_Criminal_Intent
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>mq0pigors9b200e7su9pnhj75x2eqii</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Captain Whitewater</title>
+    <ns>0</ns>
+    <id>57856</id>
+    <revision>
+      <id>981195</id>
+      <parentid>722089</parentid>
+      <timestamp>2026-07-17T07:44:16Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3005-58639)</comment>
+      <origin>981195</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2132" sha1="hd7ikjq95i1ckivnpfdm08k0qqtljmf" xml:space="preserve">{{Character
+| Name=Captain Whitewater
+| Guid=3005-58639
+| Deck=“Here you will be safe from the goblins raiding the road.”
+― Captain Whitewater.
+An experienced captain who keeps Lannegar secure.
+| Concepts=Concepts/Dialogue_Tree
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Exiled_Kingdoms
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/161/1613774/3763955-1011626198-ss_26.jpg}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3763955-1011626198-ss_26.jpg","path":"161\/1613774\/","mime":"image\/jpeg","sizes":"scale_super,scale_medium,square_medium,square_avatar,screen_medium,scale_large,scale_small,square_mini,scale_tiny,square_tiny,square_small,screen_kubrick,scale_avatar","caption":null},"background":[]}' /&gt;
+
+==Backstory==
+He is particularly concerned about the goblins infesting the valley.
+
+
+===Faction===
+[https://www.exiledkingdoms.com/wiki/index.php/Varsilia Varsilia]
+
+
+==Interactions==
+
+===Location===
+* [https://www.exiledkingdoms.com/wiki/index.php/Lannegar Lannegar]
+
+===Quests===
+* [https://www.exiledkingdoms.com/wiki/index.php/Goblin_Hunt Goblin Hunt]
+* [https://www.exiledkingdoms.com/wiki/index.php/The_Lost_Explorer The Lost Explorer]
+* [https://www.exiledkingdoms.com/wiki/index.php/Head_Hunting Head Hunting]
+
+===Situational===
+* [https://www.exiledkingdoms.com/wiki/index.php/Lannegar Lannegar] Rep +10 required
+
+==Trait Checks==
+The following [https://www.exiledkingdoms.com/wiki/index.php/Trait Trait] checks are associated with this character. Those marked with are mandatory for achieving certain outcomes or rewards which can not be accomplished otherwise.
+
+
+{| class='wikitable gb-table-natural'
+|-
+! Trait Requirement||Quest||Area||Description
+|-
+| [https://www.exiledkingdoms.com/wiki/index.php/Personality Personality] 1||[https://www.exiledkingdoms.com/wiki/index.php/The_Lost_Explorer The Lost Explorer]||[https://www.exiledkingdoms.com/wiki/index.php/Lannegar_(City) Lannegar (City)]||Needed for unlocking some additional dialogue options, either yielding 40 [https://www.exiledkingdoms.com/wiki/index.php/Gold Gold] or 40 XP extra.
+|}</text>
+      <sha1>hd7ikjq95i1ckivnpfdm08k0qqtljmf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Carlos Idriss Kameni</title>
+    <ns>0</ns>
+    <id>57878</id>
+    <revision>
+      <id>722095</id>
+      <parentid>722091</parentid>
+      <timestamp>2026-02-14T19:41:16Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722095</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1006" sha1="1zklbetq51jdolfodd0gc2kb7gkpuzd" xml:space="preserve">{{Character
+| Name=Carlos Idriss Kameni
+| Guid=3005-58661
+| Deck=Idriss Carlos Kameni (born 18 February 1984) is a Cameroonian professional footballer who plays as a goalkeeper.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/2014_FIFA_World_Cup_Brazil,Games/FIFA_10,Games/FIFA_11,Games/FIFA_12,Games/FIFA_14,Games/FIFA_15,Games/FIFA_16,Games/FIFA_17,Games/FIFA_18,Games/FIFA_19,Games/FIFA_Soccer_13
+| Locations=Locations/Cameroon
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/151/1511438/3813918-8714964936-11166.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3813918-8714964936-11166.png","path":"151\/1511438\/","mime":"image\/png","sizes":"square_small,square_medium,scale_small,scale_super,square_avatar,scale_medium,square_tiny,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;
+Idriss Carlos Kameni (born 18 February 1984) is a Cameroonian professional footballer who plays as a goalkeeper.</text>
+      <sha1>1zklbetq51jdolfodd0gc2kb7gkpuzd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Carlos Sainz</title>
+    <ns>0</ns>
+    <id>58018</id>
+    <revision>
+      <id>58135</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58135</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="232" sha1="2pfkkpka0ayteq7lg1t06svzs68cns1" xml:space="preserve">{{Character
+| Name=Carlos Sainz
+| Guid=3005-58801
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/F1_Manager_2023
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>2pfkkpka0ayteq7lg1t06svzs68cns1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Cassius 58705</title>
+    <ns>0</ns>
+    <id>57922</id>
+    <revision>
+      <id>58039</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58039</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="232" sha1="47zec6fg8t6uyr8wxk8g6ymp1drrz9y" xml:space="preserve">{{Character
+| Name=Cassius
+| Guid=3005-58705
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Chaos_Zero_Nightmare
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>47zec6fg8t6uyr8wxk8g6ymp1drrz9y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Cecil Stedman</title>
+    <ns>0</ns>
+    <id>57839</id>
+    <revision>
+      <id>57956</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57956</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="231" sha1="pm80uod3trcafqfx4wfs7zycle9tkoo" xml:space="preserve">{{Character
+| Name=Cecil Stedman
+| Guid=3005-58622
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Invincible_Vs
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>pm80uod3trcafqfx4wfs7zycle9tkoo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Cedric 58510</title>
+    <ns>0</ns>
+    <id>57728</id>
+    <revision>
+      <id>57844</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57844</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="218" sha1="c6wmi341zq94v0ytxz1505224a6xpor" xml:space="preserve">{{Character
+| Name=Cedric
+| Guid=3005-58510
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/OneShot
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>c6wmi341zq94v0ytxz1505224a6xpor</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Charles Northcutt</title>
+    <ns>0</ns>
+    <id>58052</id>
+    <revision>
+      <id>58169</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58169</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="253" sha1="kwt54yzplfn38drf9dc1weji9qn8v96" xml:space="preserve">{{Character
+| Name=Charles Northcutt
+| Guid=3005-58835
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Law_And_Order_Justice_is_Served
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>kwt54yzplfn38drf9dc1weji9qn8v96</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Charlotte Mana</title>
+    <ns>0</ns>
+    <id>464528</id>
+    <revision>
+      <id>993768</id>
+      <parentid>739209</parentid>
+      <timestamp>2026-07-19T00:44:37Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>993768</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="871" sha1="bvjvc2aajz779gi65htv0yml1fdgg9y" xml:space="preserve">{{Character
+| Name=Charlotte
+| Guid=3005-3834
+| Deck=Cute little girl with magical powers that is one of the 6 playable characters in Seiken Densetsu 3.
+| Gender=Non-Binary
+| Concepts=
+| Enemies=
+| Franchises=Franchises/Mana
+| Friends=
+| Games=Games/Echoes_of_Mana,Games/Trials_of_Mana,Games/Trials_of_Mana_2020
+| Locations=
+| People=
+| Objects=Objects/Hat
+| Image=https://www.giantbomb.com/a/uploads/scale_super/3/33745/3367849-eomcharlotte1.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3367849-eomcharlotte1.png","path":"3\/33745\/","mime":"image\/png","sizes":"scale_super,square_avatar,square_medium,square_small,scale_small,square_mini,scale_medium,square_tiny,scale_avatar,scale_large,screen_kubrick,screen_medium","caption":null},"background":[]}' /&gt;
+Cute little girl with magical powers that is one of the 6 playable characters in Seiken Densetsu 3.</text>
+      <sha1>bvjvc2aajz779gi65htv0yml1fdgg9y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Chase 58771</title>
+    <ns>0</ns>
+    <id>57988</id>
+    <revision>
+      <id>722120</id>
+      <parentid>58105</parentid>
+      <timestamp>2026-02-14T19:41:24Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722120</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1529" sha1="2uuokundmthdb92cia2bvpkhh4f0zk8" xml:space="preserve">{{Character
+| Name=Chase
+| Guid=3005-58771
+| Aliases=Track Star,Star Blazer
+| Deck=A member of the Superhero Dispatch Network (SDN). Once a speedster Superhero named "Trackstar", he was forced to retire due to use of his super-speed accelerating his aging, making him an old man despite technically being in his 30s.
+| Gender=Male
+| Concepts=Concepts/Flight,Concepts/Super_Speed,Concepts/Superhero
+| Enemies=Characters/Invisigal,Characters/Shroud_58847
+| Franchises=
+| Friends=Characters/Blonde_Blazer,Characters/Coupe,Characters/Flambae,Characters/Golem_58781,Characters/Invisigal,Characters/Malevola,Characters/Phenomaman,Characters/Prism,Characters/Punch_Up,Characters/Robert_Robertson_III,Characters/Sonar,Characters/Waterboy
+| Games=Games/Dispatch
+| Locations=Locations/California
+| People=
+| Objects=Objects/Boots,Objects/Coffee_Mug,Objects/Spandex,Objects/Sweater
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3821241-hero_busts_chase.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3821241-hero_busts_chase.png","path":"77\/776653\/","mime":"image\/png","sizes":"square_small,scale_super,square_medium,scale_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A member of the Superhero Dispatch Network (SDN). Once a speedster Superhero named "Trackstar", he was forced to retire due to use of his super-speed accelerating his aging, making him an old man despite technically being in his 30s.</text>
+      <sha1>2uuokundmthdb92cia2bvpkhh4f0zk8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Cheese Romano</title>
+    <ns>0</ns>
+    <id>57809</id>
+    <revision>
+      <id>57925</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57925</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="328" sha1="7q9nvpcibjiwrwzhjdn0loeb5rxs7p1" xml:space="preserve">{{Character
+| Name=Cheese Romano
+| Guid=3005-58591
+| Concepts=
+| Enemies=Characters/Arthur_Van_Smythe,Characters/Mr_Thornley,Characters/Skip_Hildegard
+| Franchises=
+| Friends=
+| Games=Games/Crash_N_the_Boys_Street_Challenge
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>7q9nvpcibjiwrwzhjdn0loeb5rxs7p1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Chen Touhou</title>
+    <ns>0</ns>
+    <id>464538</id>
+    <revision>
+      <id>993785</id>
+      <parentid>739323</parentid>
+      <timestamp>2026-07-19T00:45:31Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>993785</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1992" sha1="jovh3pj5iebzlrs9uynaq37avnqke6s" xml:space="preserve">{{Character
+| Name=Chen
+| Guid=3005-6139
+| Deck=One of the many characters in the Touhou Project, she is a Nekomata and the guardian of Ran Yakumo.
+| Gender=Non-Binary
+| Concepts=Concepts/Bakeneko,Concepts/Feline_Humanoid,Concepts/Magic
+| Enemies=Characters/Nazrin
+| Franchises=Franchises/Touhou_Project
+| Friends=Characters/Ran_Yakumo,Characters/Yukari_Yakumo
+| Games=Games/Groove_Coaster_Wai_Wai_Party,Games/Labyrinth_of_Touhou,Games/Labyrinth_of_Touhou_2,Games/Touhou_07_5_Immaterial_and_Missing_Power,Games/Touhou_07_Perfect_Cherry_Blossom,Games/Touhou_09_5_Shoot_the_Bullet,Games/Touhou_10_5_Scarlet_Weather_Rhapsody,Games/Touhou_12_3_Hisoutensoku,Games/Touhou_Mystias_Izakaya
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/0/1679/528292-chen.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"528292-chen.png","path":"0\/1679\/","mime":"image\/png","sizes":"square_avatar,scale_small,square_small,square_tiny,square_mini,scale_medium,screen_medium,scale_large,scale_avatar,scale_super,square_medium,screen_kubrick","caption":""},"background":[]}' /&gt;
+
+==Overview==
+Chen is a Nekomata, and the Shikigami of [[Characters/Ran_Yakumo|Ran Yakumo]]. During the events of ''[[Games/Touhou_07_Perfect_Cherry_Blossom|''Perfect Cherry Blossom'']]'', she was guarding the village of Mahoyiga, although there wasn't much she could do as her powers were limited due to her being too far away from her master. Later on, however, during the Extra Stage, she guards the path to Ran, and this time, she is much more powerful due to being in close proximity of her master.
+
+She has dark orange eyes and brown hair, and wears a red and light pink outfit with gold trimming, as well as a green hat. She has cat ears, one of which has a gold earring in it, as well as two tails.
+
+
+==Trivia==
+* Chen's name, "橙", can literally be translated into "bitter orange". All of the Yakumo family are named after colours.
+* Widely known as THE BLACK CAT OF ILL OMEN</text>
+      <sha1>jovh3pj5iebzlrs9uynaq37avnqke6s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Chi Chi DBZ</title>
+    <ns>0</ns>
+    <id>464548</id>
+    <revision>
+      <id>993801</id>
+      <parentid>739436</parentid>
+      <timestamp>2026-07-19T00:46:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>993801</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6016" sha1="76y2yoglq0dbzp0kpm71exe8f123vhq" xml:space="preserve">{{Character
+| Name=Chi-Chi
+| Guid=3005-9302
+| Deck=Goku's Wife in the Dragon Ball Series. She can be very overprotective of her children. She often worries when they go off to fight.
+| Gender=Non-Binary
+| Concepts=Concepts/Cartoon_Character,Concepts/Chinese_Mythology,Concepts/Descendants_of_Other_Characters,Concepts/Flanderization,Concepts/Games_Based_on_Anime,Concepts/Ki,Concepts/Licensed_Game,Concepts/Martial_Arts,Concepts/Pregnancy,Concepts/Royalty,Concepts/Secret_Identity,Concepts/Voice_Acting,Concepts/World_Martial_Arts_Tournament,Concepts/Z_Fighters
+| Enemies=Characters/Android_16,Characters/Android_17,Characters/Android_19,Characters/Cell,Characters/Cell_Jr,Characters/Cellin,Characters/Frieza,Characters/Goku_Black,Characters/Mai_12863,Characters/Majin_Buu,Characters/Pilaf,Characters/Raditz,Characters/Shu_29026,Characters/Syn_Shenron,Characters/Vegeta
+| Franchises=Franchises/Dragon_Ball,Franchises/Dragon_Ball_GT,Franchises/Dragon_Ball_Raging_Blast,Franchises/Dragon_Ball_Z,Franchises/Dragon_Ball_Z_Budokai_Tenkaichi
+| Friends=Characters/Android_18,Characters/Bulma,Characters/Bulpan,Characters/Dr_Brief,Characters/Future_Trunks,Characters/Gohan,Characters/Goku,Characters/Goten,Characters/Gotenks,Characters/Krillin,Characters/Marron,Characters/Master_Roshi,Characters/Mrs_Brief,Characters/Tarble,Characters/The_Great_Saiyaman,Characters/Trunks,Characters/Vegeta,Characters/Yamcha
+| Games=Games/Dragon_Ball_3_Gokuuden,Games/Dragon_Ball_GT_Transformation,Games/Dragon_Ball_Online,Games/Dragon_Ball_Origins,Games/Dragon_Ball_Raging_Blast_2,Games/Dragon_Ball_RPG_Shounen_hen,Games/Dragon_Ball_Sparking_Zero,Games/Dragon_Ball_The_Breakers,Games/Dragon_Ball_Z,Games/Dragon_Ball_Z_2_Super_Battle,Games/Dragon_Ball_Z_Attack_of_the_Saiyans,Games/Dragon_Ball_Z_Budokai,Games/Dragon_Ball_Z_Budokai_2,Games/Dragon_Ball_Z_Budokai_3,Games/Dragon_Ball_Z_Budokai_Tenkaichi_2,Games/Dragon_Ball_Z_Budokai_Tenkaichi_3,Games/Dragon_Ball_Z_Buus_Fury,Games/Dragon_Ball_Z_Extreme_Butouden,Games/Dragon_Ball_Z_Gaiden_Saiyajin_Zetsumetsu_Keikaku,Games/Dragon_Ball_Z_Gekitou_Tenkaichi_Budoukai,Games/Dragon_Ball_Z_Goku_Hishoden,Games/Dragon_Ball_Z_Harukanaru_Densetsu,Games/Dragon_Ball_Z_Idainaru_Son_Goku_Densetsu,Games/Dragon_Ball_Z_III_Ressen_Jinzou_Ningen,Games/Dragon_Ball_Z_Kakarot,Games/Dragon_Ball_Z_Kyoushuu_Saiyajin,Games/Dragon_Ball_Z_Legendary_Super_Warriors,Games/Dragon_Ball_Z_Shin_Butoden,Games/Dragon_Ball_Z_Super_Butoden_2,Games/Dragon_Ball_Z_Super_Gokuden_Kakusei_Hen,Games/Dragon_Ball_Z_Super_Gokuden_Totsugeki_Hen,Games/Dragon_Ball_Z_Supersonic_Warriors_2,Games/Dragon_Ball_Z_The_Legacy_of_Goku,Games/Dragon_Ball_Z_The_Legacy_of_Goku_II,Games/Dragon_Power,Games/Dragonball_Evolution,Games/DragonBall_Z_Buus_Fury_Dragon_Ball_GT_Transformation,Games/DragonBall_Z_Dokkan_Battle,Games/Famicom_Jump_II_Saikyou_no_Shichinin,Games/IC_Carddass_DragonBall,Games/J_Legend_Retsuden,Games/Super_Dragon_Ball_Z
+| Locations=Locations/Capsule_Corp_Headquarters,Locations/Kame_House,Locations/Kamis_Lookout
+| People=People/Andrea_Libman,People/Carol_Anne_Day,People/Kimlinh_Tran,People/Laara_Sadiq,People/Laura_Bailey,People/Lisa_Ann_Beley
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/3/34651/3471471-5950482682-latest.png
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3471471-5950482682-latest.png","path":"3\/34651\/","mime":"image\/png","sizes":"square_small,scale_medium,scale_small,scale_super,square_avatar,square_medium,square_mini,square_tiny,scale_tiny,screen_kubrick,scale_avatar,scale_large,screen_medium","caption":null},"background":[]}' /&gt;
+Chi Chi first appears in the series Dragon Ball. Chi Chi meets Goku and his friends while he is on his quest to find the Dragon Balls for the first time in the series. 
+
+ 
+
+Chi Chi is the daughter of the Great Ox King.
+
+ Chi-Chi is often depicted as a sometimes nagging, overprotective but fundamentally well-meaning woman, similar to the stereotypical overbearing shōnen mother. Though her power pales in comparison to most of the Z Fighters, she is still one of the strongest women in the world, and has been seen fighting well above the level of an average human on more than one occasion. She is also shown to be mentally clumsy at times, such as when she hits Krillin in the head with a door, thinking he is Gohan. Although Chi Chi often seen yelling at Goku over fighting, or Gohan over his school work, it cannot be argued that she loves Goku and her family very much. This is shown at the end of the Buu Saga when she is brought to tears just over the thought of finally getting to live as a family of four with Goku, Gohan, and Goten.
+
+ 
+
+When Goku, Bulma, and Oolong are lead by the dragon radar to Fire Mountain they meet The Great Ox King. Bested in battle by Goku The Ox King sends Goku on a quest to find his daughter Chi Chi and then the Bancho Fan, that was currently in the possession of the Great Martial Arts Master, Master Roshi. The Bancho Fan supposedly had the power to put out the fire on Fire Mountain were The Ox King's castle stood atop and a Dragon Ball inside. 
+
+ 
+
+Goku and Chi Chi ride the Flying Nymbus at great speeds towards Master Roshi's Island only to find out when they get there that Master Roshi had used the Bancho Fan as a place mat and thrown it away after getting it dirty. Master Roshi then tells Chi Chi and Goku that he himself will go and put out the fires of Fire Mountain because The Ox King had once been a pupil of his. 
+
+ 
+
+Chi Chi and Goku return with Master Roshi to Fire Mountain were The Ox King and Goku's friends are eager to find out how this little old man plans on putting out the inferno. After Master Roshi puts out the fire and destroys Fire Mountain with it The Ox King rewards Goku's efforts with the Dragon Ball provided they can find it and Chi Chis hand in marriage. 
+
+ 
+
+Chi Chi appears several more times during the Dragon Ball Series. 
+
+ 
+
+Chi Chi then later appears in the Dragon Ball Z Series as Goku's wife and the mother of there son Gohan.</text>
+      <sha1>76y2yoglq0dbzp0kpm71exe8f123vhq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Chica 58800</title>
+    <ns>0</ns>
+    <id>58017</id>
+    <revision>
+      <id>58134</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58134</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="204" sha1="r2l1y2mtq8wju4qonatx5qaug32s2jg" xml:space="preserve">{{Character
+| Name=Chica
+| Guid=3005-58800
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>r2l1y2mtq8wju4qonatx5qaug32s2jg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Chizuru 58711</title>
+    <ns>0</ns>
+    <id>57928</id>
+    <revision>
+      <id>58045</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58045</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="232" sha1="ciwlisq4dk7nenudkgm74tjrmgrt0f5" xml:space="preserve">{{Character
+| Name=Chizuru
+| Guid=3005-58711
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Chaos_Zero_Nightmare
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ciwlisq4dk7nenudkgm74tjrmgrt0f5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Chris Ferguson</title>
+    <ns>0</ns>
+    <id>58008</id>
+    <revision>
+      <id>58125</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58125</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="350" sha1="h7xcwlv194ckfyw4zgwgittmo8g12xf" xml:space="preserve">{{Character
+| Name=Chris Ferguson
+| Guid=3005-58791
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/World_Series_of_Poker,Games/World_Series_of_Poker_2008_Battle_for_the_Bracelets,Games/World_Series_of_Poker_Tournament_of_Champions
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>h7xcwlv194ckfyw4zgwgittmo8g12xf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Chris Wayne</title>
+    <ns>0</ns>
+    <id>57783</id>
+    <revision>
+      <id>738769</id>
+      <parentid>722047</parentid>
+      <timestamp>2026-02-26T23:48:53Z</timestamp>
+      <contributor>
+        <username>Frobie</username>
+        <id>300</id>
+      </contributor>
+      <comment>fix image</comment>
+      <origin>738769</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1778" sha1="e3khmndobzihlp6tgs17jcvwxxi6nlw" xml:space="preserve">{{Character
+|Name=Chris Wayne
+|Guid=3005-58565
+|Image=https://www.giantbomb.com/a/uploads/original/36/361609/3804509-chris_wayne.png
+|Deck=The son of Keith and Annie, who is extremely violent boy, he is able to hurt anyone at the drop of a hat. Chris often has troubles with his parents due to his bad behavior and to get distance from them, he accompanied his professor and friend Larry in his journey (Chris told his parents that the journey was for "educational purposes").
+|Concepts=Concepts/Descendants_of_Other_Characters, Concepts/Gangs, Concepts/Lightning_Manipulation, Concepts/Mix_Up, Concepts/Profanity, Concepts/Rekka_Character, Concepts/Rushdown, Concepts/Sadism, Concepts/Sexualized_Men, Concepts/Shoto_clone
+|Enemies=Characters/Bristol_Weller, Characters/Damian_Shade, Characters/Hizumi_Yukinoue, Characters/Rudolph_Gartheimer
+|Friends=Characters/Anny_Hamilton, Characters/Keith_Wayne, Characters/Larry_Light
+|Games=Games/Groove_on_Fight_Gouketsuji_Ichizoku_3
+|Locations=Locations/The_United_States_of_America
+|Objects=Objects/Balisong, Objects/Cowboy_Hat, Objects/Hat, Objects/Knife, Objects/Necklace, Objects/Tattoo
+}}
+&lt;div id='imageData' data-json='{"infobox":{"file":"3804509-chris_wayne.png","path":"36\/361609\/","mime":"image\/png","sizes":"scale_medium,scale_super,square_small,scale_small,square_medium,square_avatar,square_mini,square_tiny,scale_tiny,screen_medium,scale_avatar","caption":null},"background":[]}' /&gt;
+The son of Keith and Annie, who is extremely violent boy, he is able to hurt anyone at the drop of a hat. Chris often has troubles with his parents due to his bad behavior and to get distance from them, he accompanied his professor and friend Larry in his journey (Chris told his parents that the journey was for "educational purposes").</text>
+      <sha1>e3khmndobzihlp6tgs17jcvwxxi6nlw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Cielo Salinas</title>
+    <ns>0</ns>
+    <id>624742</id>
+    <revision>
+      <id>975026</id>
+      <parentid>975013</parentid>
+      <timestamp>2026-06-14T16:57:47Z</timestamp>
+      <contributor>
+        <username>Dochaus</username>
+        <id>140</id>
+      </contributor>
+      <origin>975026</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="425" sha1="9oojy3awr1evmybjphg3kw6ypofho8a" xml:space="preserve">{{Character
+|Guid=c8b7cb9c-42d5-487e-891e-ea393e7d603b
+|Name=Cielo Salinas
+|Image=Cieloprofile.png
+|Deck=The main protagonist of Virtua Fighter Crossroads.
+|Gender=Male
+|Concepts=Concepts/Fighter, Concepts/Mixed Martial Arts
+|Friends=Characters/Pai Chan
+|Games=Games/Virtua Fighter 92377
+}}
+Paraguayan/American MMA fighter who lives in a (fictional) Southeast Asian city called Vilasapara, training for a fighting tournament.</text>
+      <sha1>9oojy3awr1evmybjphg3kw6ypofho8a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Cive Rashon</title>
+    <ns>0</ns>
+    <id>57763</id>
+    <revision>
+      <id>722008</id>
+      <parentid>722006</parentid>
+      <timestamp>2026-02-14T19:40:49Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722008</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="659" sha1="ndniea5zvh7e5xrkor8fbsgq02yhbd9" xml:space="preserve">{{Character
+| Name=Civé Rashon
+| Guid=3005-58545
+| Deck=An Imperial TIE pilot and leader of Obsidian Squadron.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3801076-image.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3801076-image.png","path":"45\/456753\/","mime":"image\/png","sizes":"square_small,scale_super,scale_medium,square_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+An Imperial TIE pilot and leader of Obsidian Squadron.</text>
+      <sha1>ndniea5zvh7e5xrkor8fbsgq02yhbd9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Claude Levi Strauss</title>
+    <ns>0</ns>
+    <id>58043</id>
+    <revision>
+      <id>58160</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58160</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="241" sha1="lmc8yo7xhggu4jyfszjqihaqxoibwgn" xml:space="preserve">{{Character
+| Name=Claude Lévi-Strauss
+| Guid=3005-58826
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/The_Amazon_Trail
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>lmc8yo7xhggu4jyfszjqihaqxoibwgn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Clint Swanson</title>
+    <ns>0</ns>
+    <id>57817</id>
+    <revision>
+      <id>57933</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57933</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="251" sha1="nimvaa6paecpr16ob8e8503tlanl9bn" xml:space="preserve">{{Character
+| Name=Clint Swanson
+| Guid=3005-58599
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Crash_N_the_Boys_Street_Challenge
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>nimvaa6paecpr16ob8e8503tlanl9bn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Clonie Gowen</title>
+    <ns>0</ns>
+    <id>58010</id>
+    <revision>
+      <id>58127</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58127</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="320" sha1="35p0jpthwbxd0jjz1wdzi37e5j9g1vw" xml:space="preserve">{{Character
+| Name=Clonie Gowen
+| Guid=3005-58793
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/World_Series_of_Poker_2008_Battle_for_the_Bracelets,Games/World_Series_of_Poker_Tournament_of_Champions
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>35p0jpthwbxd0jjz1wdzi37e5j9g1vw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Clyde 58586</title>
+    <ns>0</ns>
+    <id>57804</id>
+    <revision>
+      <id>57920</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57920</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="259" sha1="cfxpkzl3qkak4z3mjgqtpntruhdyssz" xml:space="preserve">{{Character
+| Name=Clyde
+| Guid=3005-58586
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/River_City_Ransom,Games/River_City_Rival_Showdown
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>cfxpkzl3qkak4z3mjgqtpntruhdyssz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Colonel Hans Foote</title>
+    <ns>0</ns>
+    <id>57848</id>
+    <revision>
+      <id>57965</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57965</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="564" sha1="fdm0ijftl2nx661doepr6azz2bojzja" xml:space="preserve">{{Character
+| Name=Colonel Hans Foote
+| Guid=3005-58631
+| Gender=Male
+| Concepts=Concepts/Human,Concepts/Male_Antagonist
+| Enemies=Characters/Hilda_58632,Characters/Kamila_58629,Characters/Margaret_58630,Characters/Super_Granny
+| Franchises=Franchises/Super_Granny
+| Friends=
+| Games=Games/Super_Granny_4
+| Locations=Locations/Cannery,Locations/Egypt,Locations/Las_Vegas,Locations/Meow_Aid
+| People=
+| Objects=Objects/Boots,Objects/Gloves,Objects/Hat,Objects/Remote_Control,Objects/Trench_Coat
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>fdm0ijftl2nx661doepr6azz2bojzja</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Cookie Witch</title>
+    <ns>0</ns>
+    <id>57940</id>
+    <revision>
+      <id>58057</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58057</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="235" sha1="1dbyem458gfemxn1hnmoeflnitkusoq" xml:space="preserve">{{Character
+| Name=Cookie Witch
+| Guid=3005-58723
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Shrek_Reekin_Havoc
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>1dbyem458gfemxn1hnmoeflnitkusoq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Coupe</title>
+    <ns>0</ns>
+    <id>57996</id>
+    <revision>
+      <id>722132</id>
+      <parentid>722130</parentid>
+      <timestamp>2026-02-14T19:41:31Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722132</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1929" sha1="fpr9njq0o416ihp24jl4vrh6nheua2q" xml:space="preserve">{{Character
+| Name=Coupé
+| Guid=3005-58779
+| Deck=A former Supervillain who used to work for the mob as an assassin, now a member of Z-Team at the Superhero Dispatch Network. Has umbrakinetic powers and an affinity for throwing knives. In a relationship with Punch-Up.
+| Concepts=Concepts/Assassin,Concepts/Darkness,Concepts/Flight,Concepts/Lawbreaking,Concepts/Multiple_Endings,Concepts/Organized_Crime,Concepts/Superhero,Concepts/Supervillain,Concepts/The_Mob,Concepts/Villain_Turned_Good
+| Enemies=Characters/Armstrong,Characters/Blonde_Blazer,Characters/Flambae,Characters/Golem_58781,Characters/Invisigal,Characters/Malevola,Characters/Phenomaman,Characters/Prism,Characters/Punch_Up,Characters/Robert_Robertson_III,Characters/Shroud_58847,Characters/Sonar,Characters/Waterboy
+| Franchises=
+| Friends=Characters/Blonde_Blazer,Characters/Chase_58771,Characters/Flambae,Characters/Golem_58781,Characters/Invisigal,Characters/Malevola,Characters/Phenomaman,Characters/Prism,Characters/Punch_Up,Characters/Robert_Robertson_III,Characters/Shroud_58847,Characters/Waterboy
+| Games=Games/Dispatch
+| Locations=Locations/California,Locations/The_United_States_of_America
+| People=
+| Objects=Objects/Knife,Objects/Mask,Objects/Spandex,Objects/Thigh_High_Boots,Objects/Throwing_Knife,Objects/Wings
+| Image=https://www.giantbomb.com/a/uploads/scale_super/77/776653/3821255-dossier_coupe.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3821255-dossier_coupe.png","path":"77\/776653\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large,scale_avatar","caption":null},"background":[]}' /&gt;
+A former Supervillain who used to work for the mob as an assassin, now a member of Z-Team at the Superhero Dispatch Network. Has umbrakinetic powers and an affinity for throwing knives. In a relationship with Punch-Up.</text>
+      <sha1>fpr9njq0o416ihp24jl4vrh6nheua2q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Crash Cooney</title>
+    <ns>0</ns>
+    <id>57807</id>
+    <revision>
+      <id>57923</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57923</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="351" sha1="e6c4r1z52j3un6w2zpc8rtea2akrie8" xml:space="preserve">{{Character
+| Name=Crash Cooney
+| Guid=3005-58589
+| Concepts=
+| Enemies=Characters/Arthur_Van_Smythe,Characters/Mr_Thornley,Characters/Skip_Hildegard
+| Franchises=
+| Friends=Characters/Crusher_58593
+| Games=Games/Crash_N_the_Boys_Street_Challenge
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>e6c4r1z52j3un6w2zpc8rtea2akrie8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Crusher 58593</title>
+    <ns>0</ns>
+    <id>57811</id>
+    <revision>
+      <id>57927</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57927</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="536" sha1="41zk1xrj0l323m629cz2r9eug3jg2mt" xml:space="preserve">{{Character
+| Name=Crusher
+| Guid=3005-58593
+| Deck=the localization of Riki Samejima and Raphael, who makes his sole debut in Crash 'N' The Boys: Street Challenge
+| Gender=Male
+| Concepts=
+| Enemies=Characters/Todd_Thornley
+| Franchises=
+| Friends=Characters/Crash_Cooney
+| Games=Games/Crash_N_the_Boys_Street_Challenge
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+the localization of Riki Samejima and Raphael, who makes his sole debut in Crash 'N' The Boys: Street Challenge</text>
+      <sha1>41zk1xrj0l323m629cz2r9eug3jg2mt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/D B Maou</title>
+    <ns>0</ns>
+    <id>57870</id>
+    <revision>
+      <id>57987</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57987</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="235" sha1="9dmsfw20camt68po0yx07qj3vjk5g4u" xml:space="preserve">{{Character
+| Name=D.B. Maou
+| Guid=3005-58653
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Super_Dodge_Ball_1996
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9dmsfw20camt68po0yx07qj3vjk5g4u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Daggett Beaver</title>
+    <ns>0</ns>
+    <id>57772</id>
+    <revision>
+      <id>722023</id>
+      <parentid>722022</parentid>
+      <timestamp>2026-02-14T19:40:53Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722023</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="723" sha1="8xufwuubjdpt31xs1ht8d8rzudcyll8" xml:space="preserve">{{Character
+| Name=Daggett Beaver
+| Guid=3005-58554
+| Deck=From The Angry Beavers for Nickelodeon.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=Characters/Norbert_Beaver
+| Games=Games/Nickelodeon_All_Star_Brawl_2,Games/Nicktoons_Racing
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/239/2391650/3803264-daggett_beaver.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3803264-daggett_beaver.png","path":"239\/2391650\/","mime":"image\/png","sizes":"square_small,scale_super,square_medium,scale_medium,square_tiny,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_avatar","caption":null},"background":[]}' /&gt;
+From The Angry Beavers for Nickelodeon.</text>
+      <sha1>8xufwuubjdpt31xs1ht8d8rzudcyll8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Damian Shade</title>
+    <ns>0</ns>
+    <id>57843</id>
+    <revision>
+      <id>738766</id>
+      <parentid>722076</parentid>
+      <timestamp>2026-02-26T23:46:29Z</timestamp>
+      <contributor>
+        <username>Frobie</username>
+        <id>300</id>
+      </contributor>
+      <comment>fix image</comment>
+      <origin>738766</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1723" sha1="cklxh5hgjiietf0l2g8fa1j4er33l39" xml:space="preserve">{{Character
+|Name=Damian Shade
+|Guid=3005-58626
+|Image=https://www.giantbomb.com/a/uploads/original/36/361609/3811376-damian_shade.png
+|Deck=Damian is an orphan, who was adopted by the Gartheimer family. With time, he became a very special person to his master, Rudolph. Damian is a pacifist and dislikes violence, but his personality totally changes if someone tries to hurt his master. He has a special power that allows him to heal a living being just by touching them.
+|Concepts=Concepts/Androgyny, Concepts/Fire, Concepts/Fire_Manipulation, Concepts/Healer, Concepts/LGBT, Concepts/Romance, Concepts/Shoto_clone, Concepts/Unlockables
+|Enemies=Characters/Bristol_Weller, Characters/Chris_Wayne, Characters/Hizumi_Yukinoue, Characters/Larry_Light, Characters/Solis_R8000, Characters/Sujiroku_Tenjinbashi, Characters/Tane_Goketsu, Characters/Ume_Goketsu
+|Friends=Characters/Bristol_Weller, Characters/Rudolph_Gartheimer
+|Games=Games/Groove_on_Fight_Gouketsuji_Ichizoku_3
+|Locations=Locations/Canada
+|Objects=Objects/Boots, Objects/Lipstick, Objects/Rose
+}}
+&lt;div id='imageData' data-json='{"infobox":{"file":"3811376-damian_shade.png","path":"36\/361609\/","mime":"image\/png","sizes":"scale_medium,square_small,square_medium,scale_super,square_avatar,scale_small,square_tiny,screen_medium,screen_kubrick,scale_large,scale_avatar,square_mini,scale_tiny","caption":null},"background":[]}' /&gt;
+Damian is an orphan, who was adopted by the Gartheimer family. With time, he became a very special person to his master, Rudolph. Damian is a pacifist and dislikes violence, but his personality totally changes if someone tries to hurt his master. He has a special power that allows him to heal a living being just by touching them.</text>
+      <sha1>cklxh5hgjiietf0l2g8fa1j4er33l39</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Daphne 58745</title>
+    <ns>0</ns>
+    <id>57962</id>
+    <revision>
+      <id>58079</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58079</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="227" sha1="g2qn6fj56akbpuz2l216yiw5q81uxt1" xml:space="preserve">{{Character
+| Name=Daphne
+| Guid=3005-58745
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Duet_Night_Abyss
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>g2qn6fj56akbpuz2l216yiw5q81uxt1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Daril Camuze</title>
+    <ns>0</ns>
+    <id>57981</id>
+    <revision>
+      <id>58098</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58098</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="278" sha1="qnqvhae7xysicx1fsul2y13j638pyiv" xml:space="preserve">{{Character
+| Name=Daril Camuze
+| Guid=3005-58764
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=Characters/Fidel_Camuze
+| Games=Games/Star_Ocean_Integrity_and_Faithlessness
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>qnqvhae7xysicx1fsul2y13j638pyiv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Dark Danny</title>
+    <ns>0</ns>
+    <id>57777</id>
+    <revision>
+      <id>722033</id>
+      <parentid>722032</parentid>
+      <timestamp>2026-02-14T19:40:56Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722033</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="726" sha1="4tu3hwuj119ttvti1ngpw8ucfbmahzx" xml:space="preserve">{{Character
+| Name=Dark Danny
+| Guid=3005-58559
+| Deck=The main villain in Danny Phantom.
+| Concepts=Concepts/Villain
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Danny_Phantom_The_Ultimate_Enemy,Games/Nicktoons_Attack_of_the_Toybots
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/239/2391650/3803301-render-_dark_danny.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3803301-render-_dark_danny.png","path":"239\/2391650\/","mime":"image\/png","sizes":"scale_super,scale_medium,square_medium,square_tiny,square_small,scale_small,square_mini,square_avatar,screen_medium,screen_kubrick,scale_large","caption":null},"background":[]}' /&gt;
+The main villain in Danny Phantom.</text>
+      <sha1>4tu3hwuj119ttvti1ngpw8ucfbmahzx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Darnell Reggs</title>
+    <ns>0</ns>
+    <id>57985</id>
+    <revision>
+      <id>722116</id>
+      <parentid>722114</parentid>
+      <timestamp>2026-02-14T19:41:22Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>722116</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="651" sha1="4chxhr55cacz58ppvbdjddt2coosjem" xml:space="preserve">{{Character
+| Name=Darnell Reggs
+| Guid=3005-58768
+| Deck=A Y-Wing pilot for the Rebel Alliance.
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Star_Wars_Rebel_Assault_II_The_Hidden_Empire
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/45/456753/3820776-image.png}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3820776-image.png","path":"45\/456753\/","mime":"image\/png","sizes":"square_small,square_medium,scale_super,scale_medium,square_tiny,scale_small,square_avatar,screen_medium,scale_avatar,square_mini","caption":null},"background":[]}' /&gt;
+A Y-Wing pilot for the Rebel Alliance.</text>
+      <sha1>4chxhr55cacz58ppvbdjddt2coosjem</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Deja Vu Freedom Force</title>
+    <ns>0</ns>
+    <id>464562</id>
+    <revision>
+      <id>994062</id>
+      <parentid>740256</parentid>
+      <timestamp>2026-07-19T01:01:11Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Point cover at a rendition that actually serves</comment>
+      <origin>994062</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="895" sha1="400yz177cc9u0t4yslj6gp847gt2t32" xml:space="preserve">{{Character
+| Name=Deja Vu
+| Guid=3005-23142
+| Deck=Deja Vu is one of the bosses of the game Freedom Force and character universe the Marvel Comics. He can levitate and create their doubles.
+| Gender=Male
+| Concepts=Concepts/Clone
+| Enemies=
+| Franchises=Franchises/Freedom_Force
+| Friends=
+| Games=Games/Freedom_Force
+| Locations=
+| People=
+| Objects=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/15/155745/2185151-dejavu.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"2185151-dejavu.jpg","path":"15\/155745\/","mime":"image\/jpeg","sizes":"square_avatar,square_small,scale_small,scale_medium,screen_medium,scale_large,scale_avatar,square_mini,square_tiny,square_medium,scale_super,screen_kubrick","caption":""},"background":[]}' /&gt;
+Deja Vu is one of the bosses of the game Freedom Force and character universe the Marvel Comics. He can levitate and create their doubles.</text>
+      <sha1>400yz177cc9u0t4yslj6gp847gt2t32</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Demon Mouse</title>
+    <ns>0</ns>
+    <id>57850</id>
+    <revision>
+      <id>57967</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57967</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="439" sha1="1f67pf3im99n6sh4b1k02e2sg7tmb6o" xml:space="preserve">{{Character
+| Name=Demon Mouse
+| Guid=3005-58633
+| Concepts=Concepts/Glowing_Eyes,Concepts/Living_Toys,Concepts/Mouse
+| Enemies=Characters/Hilda_58632,Characters/Kamila_58629,Characters/Margaret_58630,Characters/Super_Granny
+| Franchises=Franchises/Super_Granny
+| Friends=
+| Games=Games/Super_Granny_4
+| Locations=Locations/Cannery,Locations/Egypt
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>1f67pf3im99n6sh4b1k02e2sg7tmb6o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Dennis Carradine</title>
+    <ns>0</ns>
+    <id>57969</id>
+    <revision>
+      <id>58086</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58086</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="272" sha1="k0owlctn2tp28xnobjfxto2pljahecx" xml:space="preserve">{{Character
+| Name=Dennis Carradine
+| Guid=3005-58752
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Spider_Man_The_Movie,Games/The_Amazing_Spider_Man_2
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>k0owlctn2tp28xnobjfxto2pljahecx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Detective Hadrian</title>
+    <ns>0</ns>
+    <id>58055</id>
+    <revision>
+      <id>58172</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58172</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="251" sha1="khqhpwdrc667jwc9zqca2f7miokt38x" xml:space="preserve">{{Character
+| Name=Detective Hadrian
+| Guid=3005-58838
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Law_And_Order_Criminal_Intent
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>khqhpwdrc667jwc9zqca2f7miokt38x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Dewey Largo</title>
+    <ns>0</ns>
+    <id>57999</id>
+    <revision>
+      <id>58116</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>58116</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="268" sha1="nazo1avld1qkpjf1mgbokl8b7lcath4" xml:space="preserve">{{Character
+| Name=Dewey Largo
+| Guid=3005-58782
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/The_Simpsons_Night_of_The_Living_Treehouse_of_Horror
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>nazo1avld1qkpjf1mgbokl8b7lcath4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Dexter Hoover</title>
+    <ns>0</ns>
+    <id>57711</id>
+    <revision>
+      <id>57827</id>
+      <timestamp>2025-12-08T07:20:42Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>57827</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="240" sha1="pzihn34wr71grfk97nsweytnooo31f8" xml:space="preserve">{{Character
+| Name=Dexter Hoover
+| Guid=3005-58493
+| Concepts=
+| Enemies=
+| Franchises=
+| Friends=
+| Games=Games/Cars_Fast_as_Lightning
+| Locations=
+| People=
+| Objects=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>pzihn34wr71grfk97nsweytnooo31f8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Characters/Diana D103367</title>
+    <ns>0</ns>
+    <id>624445</id>
+    <revision>
+      <id>973687</id>
+      <parentid>973634</parentid>
+      <timestamp>2026-04-25T21:25:41Z</timestamp>
+      <contributor>
+        <username>Dochaus</username>
+        <id>140</id>
+      </contributor>
+      <origin>973687</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="684" sha1="bc1sslzsn5kvefo3mrxzm3rk3w4z2fl" xml:space="preserve">{{Character
+|Guid=7ac5314a-85bb-483e-ba52-6b5dd46dc7da
+|Name=Diana
+|Image=Diana profile.png
+|Deck=A "Pragmata" taking on the form of a little girl, Hugh's partner throughout the game.
+|RealName=D-1-0336-7
+|Concepts=Concepts/Robot
+|Friends=Characters/Hugh Williams
+|Games=Games/Pragmata
+}}
+D-1-0336-7, a Lunafilament construct known as a "Pragmata," in the form of a little girl. She saves Hugh Williams from the brink of death when he is separated from his team during a Lunar Quake and left for dead. After rescuing Hugh, Hugh gives her the name Diana after her initial D. Diana helps Hugh fight IDUS and its constructs through the station in hopes they can travel to Earth together.</text>
+      <sha1>bc1sslzsn5kvefo3mrxzm3rk3w4z2fl</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1731 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Giant Bomb Video Game Wiki</sitename>
+    <dbname>wiki_db143</dbname>
+    <base>https://giantbomb.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Gb</namespace>
+      <namespace key="5" case="first-letter">Gb talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>People/Tatsushi Kitagawa 193242</title>
+    <ns>0</ns>
+    <id>456382</id>
+    <revision>
+      <id>456968</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456968</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="230" sha1="bc4zs9vge2g1ihanwef9fczkjdmozyu" xml:space="preserve">{{Person
+| Name=Tatsushi Kitagawa
+| Guid=3040-193242
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Shrek_Reekin_Havoc
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>bc4zs9vge2g1ihanwef9fczkjdmozyu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tay Zonday</title>
+    <ns>0</ns>
+    <id>456284</id>
+    <revision>
+      <id>456870</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456870</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="637" sha1="9j713x4y4c20n93dpb25ohpi0dk6jd7" xml:space="preserve">{{Person
+| Name=Tay Zonday
+| Guid=3040-193144
+| Deck=A singer whose YouTube performance of "Chocolate Rain" brought him to international fame.
+| Gender=Male
+| Birthday=1982-05-21
+| Website=http://www.tayzonday.net
+| LastName=Zonday
+| Twitter=TayZonday
+| Characters=
+| Concepts=Concepts/Internet_Culture_Reference,Concepts/Meme_Origin
+| Franchises=
+| Games=Games/Black_Desert_Online,Games/Mewgenics,Games/Replaying_the_game,Games/Turbo_Overkill
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+A singer whose YouTube performance of "Chocolate Rain" brought him to international fame.</text>
+      <sha1>9j713x4y4c20n93dpb25ohpi0dk6jd7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Teru Yamamoto</title>
+    <ns>0</ns>
+    <id>456375</id>
+    <revision>
+      <id>456961</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456961</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" sha1="bxrfhd2songlu9kcxmdphjdmvmgdm9z" xml:space="preserve">{{Person
+| Name=Teru Yamamoto
+| Guid=3040-193235
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Shrek_Hassle_at_the_Castle
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>bxrfhd2songlu9kcxmdphjdmvmgdm9z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Teru Yamamoto 193240</title>
+    <ns>0</ns>
+    <id>456380</id>
+    <revision>
+      <id>456966</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456966</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="duffqqbfboedm3fpmj81gm1asz9vxfe" xml:space="preserve">{{Person
+| Name=Teru Yamamoto
+| Guid=3040-193240
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Shrek_Reekin_Havoc
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>duffqqbfboedm3fpmj81gm1asz9vxfe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tetsuji Saito</title>
+    <ns>0</ns>
+    <id>456265</id>
+    <revision>
+      <id>456851</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456851</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" sha1="irh470u1mtdvuik05b2vzx1pcu1fzgm" xml:space="preserve">{{Person
+| Name=Tetsuji Saito
+| Guid=3040-193125
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Way_of_the_Samurai_3
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>irh470u1mtdvuik05b2vzx1pcu1fzgm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Thiago Tozzi</title>
+    <ns>0</ns>
+    <id>456452</id>
+    <revision>
+      <id>457038</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457038</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="221" sha1="1x6i42gwjy9wczwbpadtkq8vo5a0727" xml:space="preserve">{{Person
+| Name=Thiago Tozzi
+| Guid=3040-193312
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Eye_For_Design
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>1x6i42gwjy9wczwbpadtkq8vo5a0727</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Thomas W Murphy</title>
+    <ns>0</ns>
+    <id>456429</id>
+    <revision>
+      <id>457015</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457015</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="224" sha1="i8ycwvpc9yi4oicl6l3c60j6owkhere" xml:space="preserve">{{Person
+| Name=Thomas W. Murphy
+| Guid=3040-193289
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Burger_Island
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>i8ycwvpc9yi4oicl6l3c60j6owkhere</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tim ONeil 51699</title>
+    <ns>0</ns>
+    <id>465092</id>
+    <revision>
+      <id>752428</id>
+      <timestamp>2026-03-04T23:13:14Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752428</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="198" sha1="3a9l8cuqxkndurld6rnq09xrbwlk8x9" xml:space="preserve">{{Person
+| Name=Tim O'Neil
+| Guid=3040-51699
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>3a9l8cuqxkndurld6rnq09xrbwlk8x9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Toast Rider</title>
+    <ns>0</ns>
+    <id>456241</id>
+    <revision>
+      <id>456827</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456827</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="241" sha1="5kelqtzy273t8sg7anc8og2k6rrijsu" xml:space="preserve">{{Person
+| Name=Toast Rider
+| Guid=3040-193101
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/MerFight_Curse_of_the_Arctic_Prince
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5kelqtzy273t8sg7anc8og2k6rrijsu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Todd A Sherman</title>
+    <ns>0</ns>
+    <id>456554</id>
+    <revision>
+      <id>457140</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457140</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="221" sha1="llzpk6qbah6in9ywtl5yad7nen7e5x4" xml:space="preserve">{{Person
+| Name=Todd A. Sherman
+| Guid=3040-193415
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Word_Monaco
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>llzpk6qbah6in9ywtl5yad7nen7e5x4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tom Harle 116452</title>
+    <ns>0</ns>
+    <id>465138</id>
+    <revision>
+      <id>752524</id>
+      <timestamp>2026-03-04T23:14:33Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752524</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="220" sha1="9c18mql6vozowvr7tcxpo8yzmdc2y11" xml:space="preserve">{{Person
+| Name=Tom Harle
+| Guid=3040-116452
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Sniper_Elite_III
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9c18mql6vozowvr7tcxpo8yzmdc2y11</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tom Parente</title>
+    <ns>0</ns>
+    <id>456433</id>
+    <revision>
+      <id>457019</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457019</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="219" sha1="rsamj2sgni35j93zyccj32qykze2x56" xml:space="preserve">{{Person
+| Name=Tom Parente
+| Guid=3040-193293
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Burger_Island
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>rsamj2sgni35j93zyccj32qykze2x56</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tomas Hrebicek 25887</title>
+    <ns>0</ns>
+    <id>465053</id>
+    <revision>
+      <id>752373</id>
+      <timestamp>2026-03-04T23:12:19Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752373</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="207" sha1="gzpby0maqis11fr1yelvvn82e20w6lu" xml:space="preserve">{{Person
+| Name=Tomáš Hřebíček
+| Guid=3040-25887
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>gzpby0maqis11fr1yelvvn82e20w6lu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tomas Neme</title>
+    <ns>0</ns>
+    <id>456443</id>
+    <revision>
+      <id>457029</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457029</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="239" sha1="dqezg79q9k2nqmo69vdzbinmn237szr" xml:space="preserve">{{Person
+| Name=Tomas Neme
+| Guid=3040-193303
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Westward_II_Heroes_of_the_Frontier
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>dqezg79q9k2nqmo69vdzbinmn237szr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tomasz Olejnik</title>
+    <ns>0</ns>
+    <id>456335</id>
+    <revision>
+      <id>456921</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456921</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="224" sha1="bnuq11qv5vq4r4qwzjnr5yb41bjyudw" xml:space="preserve">{{Person
+| Name=Tomasz Olejnik
+| Guid=3040-193195
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/The_Thaumaturge
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>bnuq11qv5vq4r4qwzjnr5yb41bjyudw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tommy Francois 63932</title>
+    <ns>0</ns>
+    <id>465100</id>
+    <revision>
+      <id>992287</id>
+      <parentid>752437</parentid>
+      <timestamp>2026-07-18T01:12:29Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <comment>Restore image alignment, sizes and captions from legacy source (3040-63932)</comment>
+      <origin>992287</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1045" sha1="o1gnicf5b1j2vtrp0rvab64um6lg83b" xml:space="preserve">{{Person
+| Name=Tommy Francois
+| Guid=3040-63932
+| Deck=Currently Ubisoft's New Concept Director. Introduced Innergy at the Ubisoft E3 press conference. He has red hair.
+| Gender=Male
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+
+{{GBFigure|src=http://www.giantbomb.com/a/uploads/scale_medium/2/27857/1408051-tommy_francois.jpeg|full=http://www.giantbomb.com/a/uploads/original/2/27857/1408051-tommy_francois.jpeg|align=right|caption=Tommy Francois and his red hair}}
+Worked as a developer on such games as: [[Games/Dawn_of_Discovery|Dawn of Discovery]], [[Games/The_Settlers_7_Paths_to_a_Kingdom|The Settlers 7: Paths to a Kingdom]], [[Games/Silent_Hunter_V_Battle_of_the_Atlantic|Silent Hunter 5]], [[Games/Star_Wars_The_Clone_Wars|Star wars: Clone Wars]], [[Games/Messiah|Messiah]], [[Games/R_C_Stunt_Copter|R/C Stunt Copter]].  
+ 
+Francois gained some "fame" for revealing [[Games/Innergy|Innergy]] at the Ubisoft press conference.</text>
+      <sha1>o1gnicf5b1j2vtrp0rvab64um6lg83b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tomohiro Matsuzawa</title>
+    <ns>0</ns>
+    <id>456460</id>
+    <revision>
+      <id>457046</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457046</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="254" sha1="clz7j74zq8f9n65jn4zbvfftpcs5i0d" xml:space="preserve">{{Person
+| Name=Tomohiro Matsuzawa
+| Guid=3040-193320
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Cake_Mania_3,Games/Westward_IV_All_Aboard
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>clz7j74zq8f9n65jn4zbvfftpcs5i0d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tonetta</title>
+    <ns>0</ns>
+    <id>456247</id>
+    <revision>
+      <id>456833</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456833</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="377" sha1="rdv2h301gwor0sbvi9uvsk1hrjvk2n6" xml:space="preserve">{{Person
+| Name=Tonetta
+| Guid=3040-193107
+| Deck=A Canadian musician and visual artist.
+| Gender=Male
+| Birthday=1949-02-17
+| Website=http://www.tonetta777.bandcamp.com/
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Mewgenics
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+A Canadian musician and visual artist.</text>
+      <sha1>rdv2h301gwor0sbvi9uvsk1hrjvk2n6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tony Christiani</title>
+    <ns>0</ns>
+    <id>456541</id>
+    <revision>
+      <id>457127</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457127</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="216" sha1="s3hcnipvhqxgl909dbbuistzzkmcjgv" xml:space="preserve">{{Person
+| Name=Tony Christiani
+| Guid=3040-193402
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Slyder
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>s3hcnipvhqxgl909dbbuistzzkmcjgv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tony Dalton</title>
+    <ns>0</ns>
+    <id>456214</id>
+    <revision>
+      <id>456799</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456799</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="239" sha1="tdmlyg0bqm5rut85gv09pyuuao0hg5x" xml:space="preserve">{{Person
+| Name=Tony Dalton
+| Guid=3040-193073
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Intergalactic_The_Heretic_Prophet
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>tdmlyg0bqm5rut85gv09pyuuao0hg5x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tony Solary</title>
+    <ns>0</ns>
+    <id>456288</id>
+    <revision>
+      <id>456874</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456874</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="227" sha1="sdffenk9a0u0icodxglu4msadx60pr4" xml:space="preserve">{{Person
+| Name=Tony Solary
+| Guid=3040-193148
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Papas_Pizzeria_Deluxe
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>sdffenk9a0u0icodxglu4msadx60pr4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Tracy Conway</title>
+    <ns>0</ns>
+    <id>456468</id>
+    <revision>
+      <id>457054</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457054</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="ly14x82x8xrn5ihfk9n1bqc1drpnuzi" xml:space="preserve">{{Person
+| Name=Tracy Conway
+| Guid=3040-193329
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Westward_III_Gold_Rush
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ly14x82x8xrn5ihfk9n1bqc1drpnuzi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Uli Plessmann 46845</title>
+    <ns>0</ns>
+    <id>465085</id>
+    <revision>
+      <id>752419</id>
+      <timestamp>2026-03-04T23:13:05Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752419</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="229" sha1="ow2nap25jxhay0hq4uzy4ocp5mekw37" xml:space="preserve">{{Person
+| Name=Uli Pleßmann
+| Guid=3040-46845
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Thief_The_Dark_Project
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ow2nap25jxhay0hq4uzy4ocp5mekw37</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Uliya Korznikova</title>
+    <ns>0</ns>
+    <id>456438</id>
+    <revision>
+      <id>457024</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457024</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="244" sha1="26fnzfiqcuaswiodn8rc5olahg1muwr" xml:space="preserve">{{Person
+| Name=Uliya Korznikova
+| Guid=3040-193298
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Cake_Mania_2_Jills_Next_Adventure
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>26fnzfiqcuaswiodn8rc5olahg1muwr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Vera Counsellor</title>
+    <ns>0</ns>
+    <id>456448</id>
+    <revision>
+      <id>457034</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457034</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="273" sha1="9fp4gfofzw81074ajyk01e0kdjbdvv1" xml:space="preserve">{{Person
+| Name=Vera Counsellor
+| Guid=3040-193308
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Westward_II_Heroes_of_the_Frontier,Games/Westward_IV_All_Aboard
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>9fp4gfofzw81074ajyk01e0kdjbdvv1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Vera Osedovskaya</title>
+    <ns>0</ns>
+    <id>456484</id>
+    <revision>
+      <id>457070</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457070</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="223" sha1="4dboao8jr18cu8lxg6wxu2nkw00eq8x" xml:space="preserve">{{Person
+| Name=Vera Osedovskaya
+| Guid=3040-193345
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Monster_Mash
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>4dboao8jr18cu8lxg6wxu2nkw00eq8x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Vera Shah 36147</title>
+    <ns>0</ns>
+    <id>465070</id>
+    <revision>
+      <id>752392</id>
+      <timestamp>2026-03-04T23:12:39Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752392</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="327" sha1="fpsl3q04uepp7n5oskt9va04x2vyvw4" xml:space="preserve">{{Person
+| Name=Vera Shah
+| Guid=3040-36147
+| Characters=
+| Concepts=
+| Franchises=Franchises/Rainbow_Six,Franchises/Tom_Clancy
+| Games=Games/Inspector_Gadget_Gadgets_Crazy_Maze,Games/Tom_Clancys_Rainbow_Six_3_Raven_Shield
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>fpsl3q04uepp7n5oskt9va04x2vyvw4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Veronika Lepekha</title>
+    <ns>0</ns>
+    <id>456486</id>
+    <revision>
+      <id>457072</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457072</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="223" sha1="qv4qho12iizo9osdlnswy1vpxhova2l" xml:space="preserve">{{Person
+| Name=Veronika Lepekha
+| Guid=3040-193347
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Monster_Mash
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>qv4qho12iizo9osdlnswy1vpxhova2l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Vicki Smith</title>
+    <ns>0</ns>
+    <id>456564</id>
+    <revision>
+      <id>457150</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457150</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="225" sha1="lzi0j041cebcwlntuthlyprsl9uuezr" xml:space="preserve">{{Person
+| Name=Vicki Smith
+| Guid=3040-193425
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Heartwild_Solitaire
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>lzi0j041cebcwlntuthlyprsl9uuezr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Vicky Burkholder</title>
+    <ns>0</ns>
+    <id>456565</id>
+    <revision>
+      <id>457151</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457151</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="230" sha1="r4iqjppqydz3ot1q18ig05r23tdhpex" xml:space="preserve">{{Person
+| Name=Vicky Burkholder
+| Guid=3040-193426
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Heartwild_Solitaire
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>r4iqjppqydz3ot1q18ig05r23tdhpex</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Victor C Saito Kai</title>
+    <ns>0</ns>
+    <id>456455</id>
+    <revision>
+      <id>457041</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457041</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" sha1="mv4as291sqta41tppzf4at65rz8cpuc" xml:space="preserve">{{Person
+| Name=Victor C. Saito Kai
+| Guid=3040-193315
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Eye_For_Design
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>mv4as291sqta41tppzf4at65rz8cpuc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Victoria Shepherd</title>
+    <ns>0</ns>
+    <id>456243</id>
+    <revision>
+      <id>456829</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456829</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="465" sha1="dsjh3l1ov9yp7izkb78zx11b808m33s" xml:space="preserve">{{Person
+| Name=Victoria Shepherd
+| Guid=3040-193103
+| Deck=Daughter of John D. Ferrari, playtester of some of his original works.
+| Gender=Non-Binary
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Maximus_Mouses_Manic_Mayhem,Games/Summer_Camp,Games/Winter_Camp
+| Locations=
+| Objects=
+| People=People/John_D_Ferrari
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+Daughter of John D. Ferrari, playtester of some of his original works. </text>
+      <sha1>dsjh3l1ov9yp7izkb78zx11b808m33s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Vitaliy Talykh</title>
+    <ns>0</ns>
+    <id>456413</id>
+    <revision>
+      <id>456999</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456999</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="289" sha1="2gvnm29miblh1lp14mdhs1g90nmeczh" xml:space="preserve">{{Person
+| Name=Vitaliy Talykh
+| Guid=3040-193273
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Cake_Mania_Lights_Camera_Action,Games/Cake_Mania_To_the_Max,Games/Super_Granny_5
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>2gvnm29miblh1lp14mdhs1g90nmeczh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Vitaly Isaev</title>
+    <ns>0</ns>
+    <id>456459</id>
+    <revision>
+      <id>457045</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457045</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="243" sha1="06yzl6vp8x5u7d2dau7izxifftnnx6t" xml:space="preserve">{{Person
+| Name=Vitaly Isaev
+| Guid=3040-193319
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Cake_Mania_3,Games/Westward_Kingdoms
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>06yzl6vp8x5u7d2dau7izxifftnnx6t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Wendi A L Willeford</title>
+    <ns>0</ns>
+    <id>456450</id>
+    <revision>
+      <id>457036</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457036</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="250" sha1="24dwdsgrs7oovhoir3ni1rj05dt1zjc" xml:space="preserve">{{Person
+| Name=Wendi A. L. Willeford
+| Guid=3040-193310
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Westward_II_Heroes_of_the_Frontier
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>24dwdsgrs7oovhoir3ni1rj05dt1zjc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Wendy Law Rudge</title>
+    <ns>0</ns>
+    <id>456449</id>
+    <revision>
+      <id>457035</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457035</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="244" sha1="5clx3nh52yal4txz8mufmil8hblzkuh" xml:space="preserve">{{Person
+| Name=Wendy Law-Rudge
+| Guid=3040-193309
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Westward_II_Heroes_of_the_Frontier
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>5clx3nh52yal4txz8mufmil8hblzkuh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Will Redkey III</title>
+    <ns>0</ns>
+    <id>456467</id>
+    <revision>
+      <id>457053</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457053</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="232" sha1="blzir0cfj3co5ejaqbr4uzsy51t8hst" xml:space="preserve">{{Person
+| Name=Will Redkey III
+| Guid=3040-193328
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Westward_III_Gold_Rush
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>blzir0cfj3co5ejaqbr4uzsy51t8hst</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Willi Grossmann 9769</title>
+    <ns>0</ns>
+    <id>465044</id>
+    <revision>
+      <id>752357</id>
+      <timestamp>2026-03-04T23:12:05Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752357</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="867" sha1="pdo5u74cj8dv6hd1j98243ngzy9o1c0" xml:space="preserve">{{Person
+| Name=Willi Großmann
+| Guid=3040-9769
+| Characters=
+| Concepts=
+| Franchises=Franchises/Jagged_Alliance,Franchises/Maniac_Mansion,Franchises/Monkey_Island,Franchises/Myst,Franchises/Red_Faction,Franchises/Sam_And_Max,Franchises/Star_Wars,Franchises/Star_Wars_X_Wing,Franchises/Summoner,Franchises/X
+| Games=Games/Cultures,Games/Cultures_Die_Saga,Games/Dark_Secrets_of_Africa,Games/Evil_Islands_Curse_of_the_Lost_Soul,Games/Jagged_Alliance,Games/Maniac_Mansion_Day_of_the_Tentacle,Games/Mercedes_Benz_Truck_Racing,Games/Myst_V_End_of_Ages,Games/Red_Faction,Games/Rent_a_Hero,Games/Star_Wars_Episode_I_The_Phantom_Menace,Games/Star_Wars_X_Wing_Alliance,Games/Summoner,Games/Tender_Loving_Care,Games/The_Curse_of_Monkey_Island,Games/X_Beyond_the_Frontier
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>pdo5u74cj8dv6hd1j98243ngzy9o1c0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/X Wang 73455</title>
+    <ns>0</ns>
+    <id>465111</id>
+    <revision>
+      <id>752450</id>
+      <timestamp>2026-03-04T23:13:31Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752450</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="194" sha1="j6u66re1i6ejwgsdbf9ip6ll5z1bpun" xml:space="preserve">{{Person
+| Name=X Wang
+| Guid=3040-73455
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>j6u66re1i6ejwgsdbf9ip6ll5z1bpun</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Yoav Landau</title>
+    <ns>0</ns>
+    <id>456356</id>
+    <revision>
+      <id>456942</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456942</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="546" sha1="bcvo4svief0e91549pfkt3zi51kur7c" xml:space="preserve">{{Person
+| Name=Yoav Landau
+| Guid=3040-193216
+| Deck=An Israeli composer, known as a member of The Living Tombstone.
+| Gender=Male
+| LastName=Landau
+| Twitter=YoavLandauTweet
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/In_Sound_Mind,Games/Mewgenics,Games/My_Friend_Pedro,Games/Spookys_Jump_Scare_Mansion_HD_Renovation,Games/Terrain_of_Magical_Expertise
+| Locations=
+| Objects=
+| People=People/Sam_Haft
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+An Israeli composer, known as a member of The Living Tombstone.</text>
+      <sha1>bcvo4svief0e91549pfkt3zi51kur7c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Yoshifuru Okamoto</title>
+    <ns>0</ns>
+    <id>456244</id>
+    <revision>
+      <id>738277</id>
+      <parentid>456830</parentid>
+      <timestamp>2026-02-15T00:30:41Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>3</id>
+      </contributor>
+      <comment>Batch update: Fixed Image URL</comment>
+      <origin>738277</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1138" sha1="4c9cwl7du72r0sg3rjmmcnvnipl55pw" xml:space="preserve">{{Person
+| Name=Yoshifuru Okamoto
+| Guid=3040-193104
+| Deck=Game designer at SOLEIL
+| Characters=Characters/Hannah_Stone,Characters/Ivan_29601,Characters/Ryu_Hayabusa
+| Concepts=Concepts/Breast_Bounce
+| Franchises=
+| Games=Games/Dead_or_Alive_Ultimate,Games/Dead_or_Alive_Xtreme_2,Games/Devils_Third,Games/Monster_Rancher_3,Games/Monster_Rancher_4,Games/Naruto_to_Boruto_Shinobi_Striker,Games/Ninja_Gaiden_2004,Games/Ninja_Gaiden_Black,Games/Ninja_Gaiden_II,Games/Samurai_Jack_Battle_Through_Time,Games/Space_Runaway,Games/Travis_Strikes_Again_No_More_Heroes,Games/Valkyrie_Elysium,Games/Wanted_Dead
+| Locations=Locations/Hayabusa_Village
+| Objects=Objects/Dragon_Sword
+| People=
+| Image=https://www.giantbomb.com/a/uploads/scale_super/3/34651/3699729-yoshifuru-okamoto.jpg
+}}
+
+&lt;div id='imageData' data-json='{"infobox":{"file":"3699729-yoshifuru-okamoto.jpg","path":"3\/34651\/","mime":"image\/jpeg","sizes":"square_medium,scale_small,square_small,scale_super,square_tiny,scale_medium,square_mini,square_avatar,scale_large,scale_tiny,screen_medium,screen_kubrick,scale_avatar","caption":null},"background":[]}' /&gt;
+Game designer at SOLEIL</text>
+      <sha1>4c9cwl7du72r0sg3rjmmcnvnipl55pw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Yoshimasa Asao</title>
+    <ns>0</ns>
+    <id>456225</id>
+    <revision>
+      <id>456811</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456811</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="285" sha1="ed4pfnut5p3qnw6496eifjocyfcv7qi" xml:space="preserve">{{Person
+| Name=Yoshimasa Asao
+| Guid=3040-193085
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Dragon_Quest_Shounen_Yangus_to_Fushigi_no_Dungeon,Games/Lord_of_Vermilion_IV
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>ed4pfnut5p3qnw6496eifjocyfcv7qi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Yuji Gondo</title>
+    <ns>0</ns>
+    <id>456228</id>
+    <revision>
+      <id>456814</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>456814</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="334" sha1="45ptvowc752rtz5qi3ps9bfqnlbyvxe" xml:space="preserve">{{Person
+| Name=Yūji Gondō
+| Guid=3040-193088
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/B_Wings,Games/BurgerTime,Games/BurgerTime_Deluxe,Games/Gondomania,Games/Last_Mission,Games/Lock_n_Chase,Games/Psycho_Nics_Oscar
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>45ptvowc752rtz5qi3ps9bfqnlbyvxe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Yulia Korznikova</title>
+    <ns>0</ns>
+    <id>456463</id>
+    <revision>
+      <id>457049</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457049</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="245" sha1="8s32a8567nrtb0yiwb7ec06lv4gyfou" xml:space="preserve">{{Person
+| Name=Yulia Korznikova
+| Guid=3040-193324
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Cake_Mania_3,Games/Rasputins_Curse
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>8s32a8567nrtb0yiwb7ec06lv4gyfou</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Yury Yakovlev</title>
+    <ns>0</ns>
+    <id>456496</id>
+    <revision>
+      <id>457082</id>
+      <timestamp>2025-12-08T07:40:01Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>457082</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="220" sha1="22ok4gmo6kgbqlw9kch83rxx524ij95" xml:space="preserve">{{Person
+| Name=Yury Yakovlev
+| Guid=3040-193357
+| Characters=
+| Concepts=
+| Franchises=
+| Games=Games/Monster_Mash
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>22ok4gmo6kgbqlw9kch83rxx524ij95</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/Zoltan Nagy 55099</title>
+    <ns>0</ns>
+    <id>465094</id>
+    <revision>
+      <id>752430</id>
+      <timestamp>2026-03-04T23:13:16Z</timestamp>
+      <contributor>
+        <username>Giantbomb</username>
+        <id>1</id>
+      </contributor>
+      <origin>752430</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="200" sha1="o2xsxvtjwgdv2fyud5qua0yaxyt7awk" xml:space="preserve">{{Person
+| Name=Zoltán Nagy
+| Guid=3040-55099
+| Characters=
+| Concepts=
+| Franchises=
+| Games=
+| Locations=
+| Objects=
+| People=
+}}
+
+&lt;div id='imageData' data-json='{"infobox":[],"background":[]}' /&gt;
+</text>
+      <sha1>o2xsxvtjwgdv2fyud5qua0yaxyt7awk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>People/ghuvyi</title>
+    <ns>0</ns>
+    <id>624468</id>
+    <revision>
+      <id>973681</id>
+      <timestamp>2026-04-24T08:18:21Z</timestamp>
+      <contributor>
+        <username>Nonothere</username>
+        <id>3178</id>
+      </contributor>
+      <comment>Created page with "{{Person |Guid=bef984b2-39c5-4da2-9d9d-bc738623c36b |Name=Ghuvyi |Aliases=ghuvyi |Caption=Game dev |Website=https://ghuvyi.com }}"</comment>
+      <origin>973681</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="129" sha1="ep10akj0rkevkeqvacb6bfadj60yv56" xml:space="preserve">{{Person
+|Guid=bef984b2-39c5-4da2-9d9d-bc738623c36b
+|Name=Ghuvyi
+|Aliases=ghuvyi
+|Caption=Game dev
+|Website=https://ghuvyi.com
+}}</text>
+      <sha1>ep10akj0rkevkeqvacb6bfadj60yv56</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Platforms/3DO</title>
+    <ns>0</ns>
+    <id>456599</id>
+    <revision>
+      <id>797175</id>
+      <parentid>752579</parentid>
+      <timestamp>2026-03-21T00:04:32Z</timestamp>
+      <contributor>
+        <username>Frobie</username>
+        <id>300</id>
+      </contributor>
+      <comment>Undo revision [[Special:Diff/752579|752579]] by [[Special:Contributions/Giantbomb|Giantbomb]] ([[User talk:Giantbomb|talk]])</comment>
+      <origin>797175</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8131" sha1="goqtnbxzkz5t3wyl3wj9filoaqa7hms" xml:space="preserve">{{Platform
+|Name=3DO
+|Guid=3045-26
+|Aliases=3DO REAL Interactive Multiplayer, R.E.A.L.
+|Image=https://www.giantbomb.com/a/uploads/scale_super/1/12419/254585-3do_fz1.jpg
+|Deck=3DO was a video game console manufactured by Panasonic, Goldstar, and Sanyo. Despite the initial hype surrounding the system, the console's $700 price tag proved to be the ultimate kiss of death for the system.
+|ShortName=3DO
+|ReleaseDate=1993-10-04
+|ReleaseDateType=Month
+|InstallBase=2,000,000
+|OnlineSupport=No
+|OriginalPrice=699.99
+|Manufacturer=Companies/Matsushita_Electric_Corporation_of_America_Panasonic
+}}
+
+
+==Overview==
+The 3DO started out as an idea by [[People/Trip_Hawkins|Trip Hawkins]], one of the founders of [[Companies/Electronic_Arts|Electronic Arts]] and was designed by [[People/Robert_J_Mical|RJ Mical]] and [[People/Dave_Needle|Dave Needle]]. It was envisioned as a true multimedia device. Unfortunately, things did not pan out that way.
+
+==Development and History==
+http://www.giantbomb.com/a/uploads/original/5/56469/2299347-pan_3do.jpg The 3DO console was intended to be made by any manufacturer who signed a licensing agreement with the 3DO company. These companies included some of the world’s largest electronics companies at the time: Goldstar, Sanyo, Samsung, AT&amp;amp;T, Creative Labs and even Panasonic, which at the time of the 3DO's release was the largest electronic manufacturer. A second part of 3DO’s business strategy was to be extremely liberal when it came to manufacturing the system; the idea was that there would be no designated system specs. This gave manufacturers the freedom to create anything they wanted for any person or audience. In concept it would give consumers more choices as the 3DO would be extremely upgradeable. The idea was to make the 3DO as simple to manufacture as a CD player, while still functioning as a home entertainment system, a PC, a music player, and, most importantly, a video game system. The 3DO would also allow third party developers to push new technology, like wireless and DVD remote-style controllers, as well as numerous multimedia features.
+http://www.giantbomb.com/a/uploads/original/0/8273/1083968-sanyo3do.jpg Trip Hawkins wanted people to see the 3DO as a multimedia unit; however, with an MSRP of $700, audiences everywhere rejected it as an overpriced piece of tech. Consumers also rejected the 3DO due to its lack of quality launch titles. Some of the manufacturers caught on to how the 3DO was being perceived by audiences and attempted to remedy it by manufacturing cheaper versions of the unit. Their attempts were somewhat limited by the fact that the manufactures of the system got paid for systems sold, but not royalties for the game. Later models were priced downward of $500 but by then the damage had already been done, by this time the Sony Playstation and Sega Saturn were entering the market and could do a lot more for a lot less.
+The 3DO console debuted in 1993, but with no in-house development and third-party support dwindling, the 3DO was effectively dead by 1997 and in the half-off bins of almost every video game store in America. By the end of the console's life and the bankruptcy of the 3DO company, the console had only sold a measly 2 million units.
+The 3DO Company did try to follow up the console with a second video game console design dubbed M2, but this console never made it past the initial design and test system phase, effectively cancelling many titles in development for the system, including the prototype for [[Games/D2|D2]]. The M2 design was eventually sold off to Panasonic/Matsushita.
+
+==Design==
+Despite ultimately being a failure the 3DO featured several notable innovations. While some console manufacturers were still utilizing cartridges, the 3DO embraced the CD format. With special additions, up to 8 players could play cooperatively on a single console. The system also featured an internal memory allowing players to save their game data in the console.
+http://www.giantbomb.com/a/uploads/original/0/8273/1083971-mb_fz1.jpg The console had expansion modules which gave owners the ability to turn their console into a media player. However, expansions that allowed owners to play VHS tapes as well as VCDs were either rare and hard to come by or outrageously expensive. Also, the ability to play VHS tapes was a questionable feature mostly due to VCDs becoming more affordable and visually superior.
+This again highlights yet another flaw that plagued owners of 3DOs and the console: features that were promised at launch were not a reality. Expansion modules which would have allowed for more RAM or memory never quite came to fruition. In fact, the much requested memory expansion for the unit was only released in Japan and in limited supply in the United States.
+
+==Games and Development Support==
+http://www.giantbomb.com/a/uploads/original/0/8273/1083973-burning_soldier.jpg Despite being a commercial failure, the 3DO featured an impressive amount of third-party support for its first year. Just like their manufacturing policy, the 3DO Company was extremely liberal when it came to ensuring quality games on their console. A few of the systems highlights include [[Games/Doom|Doom]], [[Games/Samurai_Shodown|Samurai Shodown]], [[Games/Lemmings|Lemmings]], [[Games/Road_And_Track_presents_The_Need_for_Speed|Need for Speed]] and [[Games/Road_Rash|Road Rash]]. On top of that, the 3DO benefited from having ports of arcade games such as the immensely popular [[Games/Super_Street_Fighter_II_Turbo|Super Street Fighter II Turbo]] in its catalog. Also, a certain street racing series called [[Franchises/Need_for_Speed|Need for Speed]] got its start on the 3DO. However, quality games for the 3DO came in inconsistent bursts. Also, due to the console's adoption of the CD format, it saw a large number of questionable [[Concepts/Full_Motion_Video|FMV]] games that were becoming popular at the time.
+
+==System specifications==
+A lot of the 3DO is highly upgradeable and can differ between manufacturers:
+* 32-bit 12.5Mhz RISC CPU (ARM60) made by Advanced RISC Machines (Roughly equivalent to a 25Mhz 68030)
+* Two Accelerated Video Co-Processors with the following features:
+* 25Mhz clock rate.
+* Capable of producing 9-16 million REAL pixels per second (36-64 Mpix/sec
+* interpolated), distorted, scaled, rotated and texture mapped.
+* Able to map a rectangular bitmap onto any arbitrary 4-point polygon.
+* Texturemap source bitmaps can be 1,2,4,6,8, or 16 bits per pixel and are
+* RLE compressed for a maximum combination of both high resolution and small storage space.
+* Supports transparency, translucency, and color-shading effects.
+* 640x480 pixel resolution at 16.7 million colors
+* Custom 16-bit Digital Signal Processor (DSP) with the following features: * Specifically designed for mixing, manipulating, and synthesizing CD quality sound.
+* Can decompress sound 2:1 or 4:1 on the fly, saving memory and bandwidth.
+* 25Mhz clock rate.
+* Pipelined CISC architecture.
+* 16-bit register size.
+* 17 separate 16-bit DMA channels to and from system memory.
+* On chip instruction SRAM and register memory.
+* 20-bit internal processing.
+* Special filtering capable of creating effects such as 3D sound.
+* Separate BUS for video refresh updates (VRAM is dual ported)
+* Super Fast BUS Speed (50 Megabytes per second)
+* Math Co-Processor custom designed by NTG for accelerating fixed-point matrix operations. Note: This is ''not'' the ARM FPA.
+* CD-ROM Drive with the following features: * 320ms access time
+* Doublespeed 300kbps Data Transfer
+* 32kbyte ram buffer
+* 2 megabytes of DRAM
+* 1 megabyte of VRAM (also capable of holding/executing code and data)
+* 1 megabyte of ROM
+* 36 Separate DMA Channels for fast data processing and efficient bus usage
+* 2 expansion ports: * 1 High-speed 68 pin x 1 AV I/O port (for FMV cartridge)
+* 1 High-speed 30 pin x 1 I/O expansion port
+* 1 Control port, capable of chaining together up to 8 peripherals
+* Multitasking 32-bit Operating System
+* 16-bit Stereo Sound
+* 44.1KHz Sound Sampling Rate
+* Fully Supports Dolby(tm) Surround Sound
+* 32kb battery backed up SRAM</text>
+      <sha1>goqtnbxzkz5t3wyl3wj9filoaqa7hms</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Platforms/APF MP 1000</title>
+    <ns>0</ns>
+    <id>456748</id>
+    <revision>
+      <id>738808</id>
+      <parentid>722612</parentid>
+      <timestamp>2026-02-27T22:13:21Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>738808</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="471" sha1="7o64tifcf6t3sx35u1qr9mdwhklq535" xml:space="preserve">{{Platform
+|Name=APF MP-1000
+|Guid=3045-190
+|Image=https://www.giantbomb.com/a/uploads/scale_super/0/1992/3195621-c9bef87c3a182a89d06bdde5a5dfc081.jpg
+|Deck=The APF MP-1000 is an 8-bit console released by APF Electronics in 1978.
+|ShortName=MP1K
+|ReleaseDate=October 1978
+|ReleaseDateType=Month
+|InstallBase=50,000
+|OnlineSupport=No
+|OriginalPrice=129.99
+|Manufacturer=Companies/APF_Electronics
+}}
+
+The APF MP-1000 is an 8-bit console released by APF Electronics in 1978.</text>
+      <sha1>7o64tifcf6t3sx35u1qr9mdwhklq535</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Platforms/Acorn Archimedes</title>
+    <ns>0</ns>
+    <id>456686</id>
+    <revision>
+      <id>738716</id>
+      <parentid>722529</parentid>
+      <timestamp>2026-02-25T22:44:03Z</timestamp>
+      <contributor>
+        <username>Marino</username>
+        <id>8</id>
+      </contributor>
+      <origin>738716</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4076" sha1="3e4a285jf73eeadsxzbuyeso1x54k0m" xml:space="preserve">{{Platform
+|Name=Acorn Archimedes
+|Guid=3045-125
+|Image=https://www.giantbomb.com/a/uploads/scale_super/0/26/1529461-acorna30002.jpg
+|Deck=The Acorn Archimedes was a range of personal computers from Acorn Computers aimed at both educational and home use. It featured a 32-bit ARM processor and the RISC OS operating system.
+|ShortName=ACRN
+|ReleaseDate=June 1987
+|ReleaseDateType=Month
+|InstallBase=200,000
+|OnlineSupport=No
+|OriginalPrice=1499.99
+|Manufacturer=Companies/Acornsoft
+}}
+==Overview==
+The '''Acorn Archimedes''' found success in the British education sector as it is the successor to the [[Platforms/BBC_Micro|BBC Micro]]. The first models released were the A300 and A400 series. These featured an ARM processor, 512KB - 4MB of memory and 8-bit stereo sound. The machines were also capable of emulating BBC Basic and utilised a 3-button mouse as standard. Future models, such as the popular A3000, used the 8MHz ARM2 processor and then later the ARM3 at 25MHz.
+ 
+The operating system, RISC OS (Reduced Instruction Set Computing Operating System), was stored in ROM which contributed to it's fast speed and other features such as true multi-tasking, context-sensitive menus and anti-aliasing.
+However, while the Archimedes range were more powerful than the currently available personal computers, they failed to garner much popularity outside of the UK, Ireland and Australasia.
+
+==Gaming==
+Despite a small market outside of education, there Acorn Archimedes boasts a solid video game library. Many games of the decade saw releases alongside the Amiga and PC such as [[Games/Magic_Pockets|Magic Pockets]] and [[Games/Lemmings|Lemmings]]. Aside from the multi-platform releases, the Acorn Archimedes was far from devoid of exclusive games. [[Games/Starfighter_3000|Starfighter 3000]] is an example of a title that originated on the Archimedes and then saw later releases on the [[Platforms/3DO|3DO]] and even the [[Platforms/PlayStation|Playstation]].
+
+==Post-Archimedes==
+The Acorn Archimedes lost popularity in schools in the 90s as other platforms such as Mac and PC improved their multimedia capabilities and programs such as "Computers for Schools" that were originally partnered with Acorn shifted away. 
+ The Acorn RiscPC computers eventually replaced the Archimedes range, offering a dramatic increase in power, more expansion, dual processor slots.
+ While Acorn Computers Ltd split operations in 1998 and ceased trading in 2000, the operating system RISC OS perpetuates through releases of different variants from RISC OS Select, Adjust and 6. These current releases operate on the RiscPC generation and on modern hardware via a commercial emulator.
+
+==Models==
+Four models were initially released in 1987, followed by a number of variations with minor changes.
+
+{| class='wikitable' style='margin:auto;width:100%;'
+|-
+! Model||CPU||RAM||Storage||Launch Date||Price
+|-
+| BBC Archimedes 305||ARM2||512 KB||None||July 1987||£799
+|-
+| BBC Archimedes 310||ARM2||1 MB||None||July 1987||£875
+|-
+| BBC Archimedes 310M||ARM2||1 MB||None||July 1987||£???
+|-
+| Acorn Archimedes 410||ARM2||1 MB||None||July 1987||£1,399
+|-
+| Acorn Archimedes 440||ARM2||4 MB||20 MB||July 1987||£2,299
+|-
+| BBC A3000||ARM2||1 MB||None||May 1989||£649
+|-
+| Acorn Archimedes 410/1||ARM2||1 MB||None||June 1989||£999
+|-
+| Acorn Archimedes 420/1||ARM2||2 MB||20 MB ST506||June 1989||£1,099
+|-
+| Acorn Archimedes 440/1||ARM2||4 MB||40 MB ST506||June 1989||£1,299
+|-
+| Acorn R140||ARM2||4 MB||47 MB ST506||June 1989||£3,500
+|-
+| Acorn Archimedes 540||ARM3||4 MB||100 MB SCSI||June 1989||£2,499
+|-
+| Acorn R225||ARM3||4 MB||None||July 1990||£3,000
+|-
+| Acorn R260||ARM3||8 MB||100 MB SCSI||July 1990||£5,000
+|-
+| Acorn A5000||ARM3||1 to 8 MB||20 to 160 MB IDE||September 1991||£999 or 
+£1,499
+|-
+| Acorn A4||ARM3||2 or 4 MB||40 or 60 MB IDE||June 1992||£1,399 or £1,699
+|-
+| Acorn A3010||ARM250||1 MB||None||September 1992||£499
+|-
+| Acorn A3020||ARM250||2 MB||up to 80 MB IDE||September 1992||£799
+|-
+| Acorn A4000||ARM250||2 MB||up to 210 MB IDE||September 1992||£999
+|}</text>
+      <sha1>3e4a285jf73eeadsxzbuyeso1x54k0m</sha1>
+    </revision>
+  </page>
+</mediawiki>
